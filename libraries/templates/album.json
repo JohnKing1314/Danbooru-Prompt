@@ -1,0 +1,12 @@
+{
+  "id": "album",
+  "icon": "💿",
+  "name": "专辑封面",
+  "desc": "方形构图 + 极简标题",
+  "tags": "album cover|专辑封面;square format|方形构图;minimalist|极简;bold typography|粗体排版;high contrast|高对比",
+  "layout": {
+    "tpl": "single",
+    "size": "1024x1024"
+  },
+  "builtin": true
+}

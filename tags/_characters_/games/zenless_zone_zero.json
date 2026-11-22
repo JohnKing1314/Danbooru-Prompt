@@ -1,0 +1,379 @@
+{
+  "id": "zenless_zone_zero",
+  "name": "绝区零",
+  "parentId": "games",
+  "order": 18,
+  "file": "games/zenless_zone_zero.json",
+  "characters": [
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "艾莲·乔",
+      "tag": "ellen joe (zenless zone zero)",
+      "charZh": "艾莲·乔（绝区零）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;shark girl|鲨鱼娘;black hair|黑发;short hair|短发;colored inner hair|挂耳染;two-tone hair|双色发;black pantyhose|黑色连裤袜;pink hair|粉发;hair between eyes|眼间发;hairclip|发夹;mole under eye|眼下泪痣",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "朱鸢",
+      "tag": "zhu yuan (zenless zone zero)",
+      "charZh": "朱鸢（绝区零）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;streaked hair|挑染;hair between eyes|眼间发;metal hairband|金属发带;orange hair|橙发;two-tone hair|双色发;orange eyes|橙瞳;ponytail|马尾;large breasts|大胸;tight clothes|紧身衣物;black pants|黑裤",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "妮可·德玛拉",
+      "tag": "nicole demara (zenless zone zero)",
+      "charZh": "妮可·德玛拉（绝区零）",
+      "auto": "pink hair|粉发;short hair|短发;blue eyes|蓝瞳;long hair|长发;hairclip|发夹;hair ribbon|发带;green eyes|绿瞳;mole under eye|眼下泪痣;large breasts|大胸;cleavage|乳沟;heart earrings|心形耳环;black ribbon|黑色缎带;black thighhighs|黑色过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "安比·德玛拉",
+      "tag": "anby demara (zenless zone zero)",
+      "charZh": "安比·德玛拉（绝区零）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳;grey hair|灰发;white hair|白发;hair between eyes|眼间发;orange eyes|橙瞳;brown eyes|棕瞳;black thighhighs|黑色过膝袜;black skirt|黑色短裙;long sleeves|长袖;pleated skirt|百褶裙;detached sleeves|分离袖",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "猫又",
+      "tag": "nekomata (zenless zone zero)",
+      "charZh": "猫又（绝区零）",
+      "auto": "black hair|黑发;short hair|短发;cat ears|猫耳;tail|尾巴;cat girl|猫娘;long hair|长发;red hairband|红色发箍;red eyes|红瞳;animal ear fluff|兽耳绒毛;mechanical tail|机械尾巴;cat tail|猫尾;cable tail|电缆尾巴;dark-skinned female|深肤色女性;two tails|双尾",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "雅",
+      "tag": "miyabi (zenless zone zero)",
+      "charZh": "雅（绝区零）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;fox girl|狐娘;blunt bangs|齐刘海;black pantyhose|黑色连裤袜;red eyes|红瞳;fox ears|狐耳;animal ear fluff|兽耳绒毛;large breasts|大胸;black skirt|黑色短裙;white shirt|白衬衫;high-waist skirt|高腰裙",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "月城柳",
+      "tag": "yanagi (zenless zone zero)",
+      "charZh": "月城柳（绝区零）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;fox girl|狐娘;pink hair|粉发;hair between eyes|眼间发;black-framed eyewear|黑框眼镜;purple eyes|紫瞳;pink eyes|粉瞳;large breasts|大胸;fox ears|狐耳;white shirt|白衬衫;black skirt|黑色短裙",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "柏妮思",
+      "tag": "burnice (zenless zone zero)",
+      "charZh": "柏妮思（绝区零）",
+      "auto": "blonde hair|金发;long hair|长发;orange eyes|橙瞳;twintails|双马尾;short hair|短发;hair between eyes|眼间发;eyewear on head|头顶眼镜;red eyes|红瞳;red-tinted eyewear|红色镜片眼镜;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;black skirt|黑色短裙",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "露西",
+      "tag": "lucy (zenless zone zero)",
+      "charZh": "露西（绝区零）",
+      "auto": "red hair|红发;long hair|长发;red eyes|红瞳;blonde hair|金发;hair between eyes|眼间发;black footwear|黑色鞋靴;long sleeves|长袖;black jacket|黑色夹克;black shorts|黑色短裤;black gloves|黑色手套;crop top|露脐短衫;navel|肚脐;short shorts|超短裤",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "派派",
+      "tag": "piper (zenless zone zero)",
+      "charZh": "派派（绝区零）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳;blonde hair|金发;hair bun|圆发髻;green eyes|绿瞳;one eye closed|单眼闭合;small breasts|小胸;earrings|耳环;detached sleeves|分离袖;detached pants|分体裤;crop top|露脐短衫;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "凯撒",
+      "tag": "caesar (zenless zone zero)",
+      "charZh": "凯撒（绝区零）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "青衣",
+      "tag": "qingyi (zenless zone zero)",
+      "charZh": "青衣（绝区零）",
+      "auto": "black hair|黑发;long hair|长发;green eyes|绿瞳;robot girl|机器人女孩;green hair|绿发;twintails|双马尾;blunt bangs|齐刘海;very long hair|超长发;black gloves|黑色手套;fingerless gloves|露指手套;navel|肚脐;policewoman|女警;black shorts|黑色短裤",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "简",
+      "tag": "jane doe (zenless zone zero)",
+      "charZh": "简（绝区零）",
+      "auto": "grey hair|灰发;long hair|长发;red eyes|红瞳;mouse girl|鼠娘;black hair|黑发;torn pantyhose|破损连裤袜;two-tone hair|双色发;single leg pantyhose|单腿连裤袜;blunt bangs|齐刘海;green eyes|绿瞳;mouse ears|鼠耳;mouse tail|鼠尾;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "珂蕾妲",
+      "tag": "koleda (zenless zone zero)",
+      "charZh": "珂蕾妲（绝区零）",
+      "auto": "red hair|红发;short hair|短发;orange eyes|橙瞳;hair between eyes|眼间发;long hair|长发;twintails|双马尾;very long hair|超长发;eyepatch|眼罩;red eyes|红瞳;fake animal ears|假兽耳;bear ears|熊耳;white pants|白色裤子;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "苍角",
+      "tag": "soukaku (zenless zone zero)",
+      "charZh": "苍角（绝区零）",
+      "auto": "blue hair|蓝发;horns|角;white hair|白发;short hair|短发;hair between horns|角间头发;hair between eyes|眼间发;red eyes|红瞳;blue skin|蓝色皮肤;pointy ears|尖耳;skin-covered horns|皮肤覆盖的角;tail|尾巴;blue horns|蓝色的角",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "波可娜",
+      "tag": "pulchra (zenless zone zero)",
+      "charZh": "波可娜（绝区零）",
+      "auto": "pink hair|粉发;long hair|长发;cat ears|猫耳",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "耀嘉音",
+      "tag": "astra yao (zenless zone zero)",
+      "charZh": "耀嘉音（绝区零）",
+      "auto": "pink hair|粉发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "莱特",
+      "tag": "lighter (zenless zone zero)",
+      "charZh": "莱特（绝区零）",
+      "auto": "black hair|黑发;short hair|短发;green hair|绿发;hair between eyes|眼间发;hair over one eye|遮单眼发;green eyes|绿瞳;yellow eyes|黄瞳;one eye covered|遮单眼;black footwear|黑色鞋靴;red scarf|红色围巾;long sleeves|长袖;black pants|黑裤",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "雨果",
+      "tag": "hugo (zenless zone zero)",
+      "charZh": "雨果（绝区零）",
+      "auto": "white hair|白发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "薇薇安",
+      "tag": "vivian (zenless zone zero)",
+      "charZh": "薇薇安（绝区零）",
+      "auto": "black hair|黑发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "丽娜",
+      "tag": "rina (zenless zone zero)",
+      "charZh": "丽娜（绝区零）",
+      "auto": "purple hair|紫发;long hair|长发;maid|女仆;hair between eyes|眼间发;grey hair|灰发;very long hair|超长发;light brown hair|浅棕发;low-tied long hair|低扎长发;black hair|黑发;red eyes|红瞳;large breasts|大胸;black dress|黑色连衣裙;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "格莉丝",
+      "tag": "grace (zenless zone zero)",
+      "charZh": "格莉丝（绝区零）",
+      "auto": "green hair|绿发;long hair|长发;black hair|黑发;hair between eyes|眼间发;orange eyes|橙瞳;large breasts|大胸;cleavage|乳沟;ponytail|马尾;black pants|黑裤;goggles on head|护目镜戴头上;navel|肚脐;ahoge|呆毛",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "莱卡恩",
+      "tag": "lycaon (zenless zone zero)",
+      "charZh": "莱卡恩（绝区零）",
+      "auto": "white hair|白发;wolf ears|狼耳;tail|尾巴;wolf boy|狼男孩;short hair|短发;hair between eyes|眼间发;red eyes|红瞳;one eye covered|遮单眼;eyepatch|眼罩;wolf tail|狼尾;animal ear fluff|兽耳绒毛;white shirt|白衬衫;grey vest|灰色马甲",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "安东",
+      "tag": "anton (zenless zone zero)",
+      "charZh": "安东（绝区零）",
+      "auto": "blonde hair|金发;short hair|短发;muscular|肌肉;black hair|黑发;spiked hair|刺猬头;streaked hair|挑染;hair between eyes|眼间发;two-tone hair|双色发;red eyes|红瞳;v-shaped eyebrows|V型眉;pectoral cleavage|胸肌缝;black shirt|黑衬衫;collared shirt|翻领衬衫",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "赛斯",
+      "tag": "seth (zenless zone zero)",
+      "charZh": "赛斯（绝区零）",
+      "auto": "blue hair|蓝发;short hair|短发;cat boy|猫男（猫耳少年）;mouse girl|鼠娘;hair between eyes|眼间发;white hair|白发;crossed bangs|交叉刘海;black hair|黑发;purple eyes|紫瞳;cat ears|猫耳;cat tail|猫尾;mouse ears|鼠耳",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "十一号",
+      "tag": "soldier 11 (zenless zone zero)",
+      "charZh": "十一号（绝区零）",
+      "auto": "white hair|白发;short hair|短发;red eyes|红瞳;grey hair|灰发;hair between eyes|眼间发;orange eyes|橙瞳;yellow-tinted eyewear|黄色镜片眼镜;orange-tinted eyewear|橙色镜片眼镜;ponytail|马尾;medium breasts|中等胸;detached sleeves|分离袖;black dress|黑色连衣裙;grey sleeves|灰色袖子",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "铃",
+      "tag": "belle (zenless zone zero)",
+      "charZh": "铃（绝区零）",
+      "auto": "blue hair|蓝发;short hair|短发;green eyes|绿眼;hairclip|发夹;jacket|夹克;hoodie|连帽衫",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "哲",
+      "tag": "wise (zenless zone zero)",
+      "charZh": "哲（绝区零）",
+      "auto": "grey hair|灰发;short hair|短发;ahoge|呆毛;grey eyes|灰眼;jacket|夹克;1boy|一男;hair between eyes|眼间发;blue hair|蓝发;white hair|白发;green eyes|绿瞳;black shirt|黑衬衫;long sleeves|长袖;black pants|黑裤;brother and sister|兄妹姐弟;open jacket|敞开的夹克;blue jacket|蓝色夹克",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "凯撒·金",
+      "tag": "caesar king (zenless zone zero)",
+      "charZh": "凯撒·金（绝区零）",
+      "auto": "green hair|绿发;long hair|长发;side braid|侧辫;green eyes|绿瞳;black jacket|黑夹克;leather jacket|皮夹克;hair between eyes|眼间发;hair intakes|内卷发;short hair|短发;yellow eyes|黄瞳;large breasts|大胸;cleavage|乳沟;black horns|黑色角;black thighhighs|黑色过膝袜;black gloves|黑色手套;fur-trimmed jacket|毛边夹克",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "仪玄",
+      "tag": "yixuan (zenless zone zero)",
+      "charZh": "仪玄（绝区零）",
+      "auto": "silver hair|银发;long hair|长发;yellow eyes|金瞳;black jacket|黑衣;gold trim|金边;chinese clothes|中式服饰",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "扳机",
+      "tag": "trigger (zenless zone zero)",
+      "charZh": "扳机（绝区零）",
+      "auto": "blonde hair|金发;long hair|长发;visor|战术目镜;covered eyes|遮眼;military uniform|战术制服;orange accents|橙色饰边",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "可可",
+      "tag": "coco (zenless zone zero)",
+      "charZh": "可可（绝区零）",
+      "auto": "1girl|单人女性;colored inner hair|挂耳染;green hair|绿发;brown hair|棕发;blonde hair|金发;long hair|长发;green eyes|绿瞳;two-tone eyes|双色瞳;visor cap|遮阳帽;green apron|绿色围裙;pink shirt|粉色衬衫;polka dot shirt|圆点衬衫;white skirt|白裙;pleated skirt|百褶裙;black choker|黑色颈圈",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "露比",
+      "tag": "ruby (zenless zone zero)",
+      "charZh": "露比（绝区零）",
+      "auto": "1girl|单人女性;shark girl|鲨鱼娘;colored inner hair|挂耳染;black hair|黑发;short hair|短发;two-tone hair|双色发;blonde hair|金发;red eyes|红瞳;mole under eye|眼下泪痣;shark tail|鲨鱼尾巴;white shirt|白衬衫;black skirt|黑色短裙;fins|鳍;school uniform|校服;red nails|红色指甲",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "大老爹",
+      "tag": "big daddy (zenless zone zero)",
+      "charZh": "大老爹（绝区零）",
+      "auto": "1boy|单人男性;boar boy|野猪兽人男性;long hair|长发;chest hair|胸毛;grey hair|灰发;armpit hair|腋毛;white hair|白发;blonde hair|金发;sparse chest hair|稀疏胸毛;beard|胡须;bara|蔷薇向;furry male|福瑞男性;muscular male|肌肉男;spiked bracelet|尖刺手环;jacket|夹克",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "浅羽悠真",
+      "tag": "asaba harumasa",
+      "charZh": "浅羽悠真（绝区零）",
+      "auto": "1boy|单人男性;black hair|黑发;short hair|短发;hair between eyes|眼间发;purple hair|紫发;parted bangs|中分刘海;yellow eyes|黄瞳;orange eyes|橙瞳;collared shirt|翻领衬衫;white shirt|白衬衫;black choker|黑色颈圈;black necktie|黑色领带;black gloves|黑色手套;headband|头带;partially fingerless gloves|半露指手套",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "可琳·威克斯",
+      "tag": "corin wickes",
+      "charZh": "可琳·威克斯（绝区零）",
+      "auto": "1girl|单人女性;green hair|绿发;twintails|双马尾;long hair|长发;hair between eyes|眼间发;purple eyes|紫瞳;bear bag|熊包;black footwear|黑色鞋靴;white apron|白色围裙;puffy short sleeves|泡泡短袖;black dress|黑色连衣裙;animal bag|动物造型包;black nails|黑色指甲;chain|锁链;nail polish|指甲油",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "莫娜（绝区零）",
+      "tag": "monna (zenless zone zero)",
+      "charZh": "莫娜（绝区零）（绝区零）",
+      "auto": "1girl|单人女性;shark girl|鲨鱼娘;4girls|四个女孩;colored inner hair|挂耳染;black hair|黑发;short hair|短发;mole under eye|眼下泪痣;red eyes|红瞳;shark tail|鲨鱼尾巴;white shirt|白衬衫;sleeves rolled up|卷袖子;fins|鳍;red nails|红色指甲;nail polish|指甲油;school uniform|校服",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "伊埃斯",
+      "tag": "eous (zenless zone zero)",
+      "charZh": "伊埃斯（绝区零）",
+      "auto": "bunny mascot|邦布玩偶;short hair|短发;blue hair|蓝发;hair between eyes|眼间发;crossed bangs|交叉刘海;grey hair|灰发;green eyes|绿瞳;earrings|耳环;black shirt|黑衬衫;long sleeves|长袖;black thighhighs|黑色过膝袜;single thighhigh|单只过膝袜;orange gloves|橙色手套;brother and sister|兄妹姐弟",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "本·比格",
+      "tag": "ben bigger",
+      "charZh": "本·比格（绝区零）",
+      "auto": "1boy|单人男性;bear boy|熊男孩;scar across eye|横跨眼睛的伤疤;bear ears|熊耳;chain necklace|链条项链;white pants|白色裤子;black shirt|黑衬衫;belly|小腹;furry male|福瑞男性;bara|蔷薇向;claws|利爪;white jacket|白色夹克;brown fur|棕色皮毛;fat|肥胖;plump|微胖",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "比利·奇德",
+      "tag": "billy kid",
+      "charZh": "比利·奇德（绝区零）",
+      "auto": "1boy|单人男性;white hair|白发;pink hair|粉发;short hair|短发;long hair|长发;grey hair|灰发;green eyes|绿瞳;black thighhighs|黑色过膝袜;black skirt|黑色短裙;long sleeves|长袖;detached sleeves|分离袖;headphones|头戴式耳机;red jacket|红色夹克;crop top|露脐短衫;fingerless gloves|露指手套",
+      "subName": ""
+    },
+    {
+      "game": "绝区零",
+      "gameTag": "zenless zone zero",
+      "name": "太阳使者",
+      "tag": "sunbringer (zenless zone zero)",
+      "charZh": "太阳使者（绝区零）",
+      "auto": "1girl|单人女性;long hair|长发;hair between eyes|眼间发;white hair|白发;grey hair|灰发;wavy hair|波浪发;hair down|披发;blue eyes|蓝瞳;yellow eyes|黄瞳;black horns|黑色角;long horns|长角;single earring|单侧耳环;horns|犄角;black coat|黑色大衣;heterochromia|异色瞳",
+      "subName": ""
+    }
+  ],
+  "count": 31
+}

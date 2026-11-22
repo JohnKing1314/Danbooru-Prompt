@@ -1,0 +1,459 @@
+{
+  "id": "love_live",
+  "name": "Love Live!",
+  "parentId": "anime",
+  "order": 3,
+  "file": "anime/love_live.json",
+  "characters": [
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "高坂穗乃果",
+      "tag": "kousaka honoka (love live!)",
+      "charZh": "高坂穗乃果（Love Live!）",
+      "auto": "orange hair|橙发;side ponytail|侧马尾;blue eyes|蓝瞳;school uniform|校服",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "南小鸟",
+      "tag": "minami kotori (love live!)",
+      "charZh": "南小鸟（Love Live!）",
+      "auto": "grey hair|灰发;side ponytail|侧马尾;brown eyes|棕瞳;school uniform|校服",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "园田海未",
+      "tag": "sonoda umi (love live!)",
+      "charZh": "园田海未（Love Live!）",
+      "auto": "blue hair|蓝发;long hair|长发;golden eyes|金瞳;school uniform|校服",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "西木野真姬",
+      "tag": "nishikino maki (love live!)",
+      "charZh": "西木野真姬（Love Live!）",
+      "auto": "red hair|红发;twintails|双马尾;purple eyes|紫瞳;school uniform|校服",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "星空凛",
+      "tag": "hoshizora rin (love live!)",
+      "charZh": "星空凛（Love Live!）",
+      "auto": "orange hair|橙发;short hair|短发;yellow eyes|黄瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "小泉花阳",
+      "tag": "koizumi hanayo (love live!)",
+      "charZh": "小泉花阳（Love Live!）",
+      "auto": "brown hair|棕发;short hair|短发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "矢泽妮可",
+      "tag": "yazawa nico (love live!)",
+      "charZh": "矢泽妮可（Love Live!）",
+      "auto": "black hair|黑发;twintails|双马尾;red eyes|红瞳;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "绚濑绘里",
+      "tag": "ayase eli (love live!)",
+      "charZh": "绚濑绘里（Love Live!）",
+      "auto": "blonde hair|金发;hair bun|发髻;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "东条希",
+      "tag": "toujou nozomi (love live!)",
+      "charZh": "东条希（Love Live!）",
+      "auto": "purple hair|紫发;low twintails|低双马尾;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "高海千歌",
+      "tag": "takami chika (love live! sunshine!!)",
+      "charZh": "高海千歌（Love Live!）",
+      "auto": "orange hair|橙发;side ponytail|侧马尾;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "樱内梨子",
+      "tag": "sakurauchi riko (love live! sunshine!!)",
+      "charZh": "樱内梨子（Love Live!）",
+      "auto": "red hair|红发;brown eyes|棕瞳;school uniform|校服",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "渡边曜",
+      "tag": "watanabe you (love live! sunshine!!)",
+      "charZh": "渡边曜（Love Live!）",
+      "auto": "brown hair|棕发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "黑泽黛雅",
+      "tag": "kurosawa dia (love live! sunshine!!)",
+      "charZh": "黑泽黛雅（Love Live!）",
+      "auto": "black hair|黑发;long hair|长发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "津岛善子",
+      "tag": "tsushima yoshiko (love live! sunshine!!)",
+      "charZh": "津岛善子（Love Live!）",
+      "auto": "navy blue hair|藏蓝发;twintails|双马尾;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "国木田花丸",
+      "tag": "kunikida hanamaru (love live! sunshine!!)",
+      "charZh": "国木田花丸（Love Live!）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "黑泽露比",
+      "tag": "kurosawa ruby (love live! sunshine!!)",
+      "charZh": "黑泽露比（Love Live!）",
+      "auto": "red hair|红发;twintails|双马尾;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "上原步梦",
+      "tag": "uehara ayumu (love live! nijigasaki)",
+      "charZh": "上原步梦（Love Live!）",
+      "auto": "pink hair|粉发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "中须霞",
+      "tag": "nakasu kasumi (love live! nijigasaki)",
+      "charZh": "中须霞（Love Live!）",
+      "auto": "grey hair|灰发;twintails|双马尾;yellow eyes|黄瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "优木雪菜",
+      "tag": "yuki setsuna (love live! nijigasaki)",
+      "charZh": "优木雪菜（Love Live!）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "近江彼方",
+      "tag": "konoe kanata (love live! nijigasaki)",
+      "charZh": "近江彼方（Love Live!）",
+      "auto": "brown hair|棕发;long hair|长发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "天王寺璃奈",
+      "tag": "tennouji rina (love live! nijigasaki)",
+      "charZh": "天王寺璃奈（Love Live!）",
+      "auto": "pink hair|粉发;twintails|双马尾;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "樱坂雫",
+      "tag": "sakurazaka shizuku (love live! nijigasaki)",
+      "charZh": "樱坂雫（Love Live!）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "涩谷香音",
+      "tag": "shibuya kanon (love live! superstar!!)",
+      "charZh": "涩谷香音（Love Live!）",
+      "auto": "orange hair|橙发;short hair|短发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "唐可可",
+      "tag": "tang keke (love live! superstar!!)",
+      "charZh": "唐可可（Love Live!）",
+      "auto": "grey hair|灰发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "平安名堇",
+      "tag": "heianna sumire (love live! superstar!!)",
+      "charZh": "平安名堇（Love Live!）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "叶月恋",
+      "tag": "hazuki ren (love live! superstar!!)",
+      "charZh": "叶月恋（Love Live!）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "艾玛·维尔德",
+      "tag": "emma verde (love live! nijigasaki)",
+      "charZh": "艾玛·维尔德（Love Live!）",
+      "auto": "brown hair|棕发;long hair|长发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "朝香果林",
+      "tag": "asaka karin (love live! nijigasaki)",
+      "charZh": "朝香果林（Love Live!）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "宫下爱",
+      "tag": "miyashita ai (love live! nijigasaki)",
+      "charZh": "宫下爱（Love Live!）",
+      "auto": "orange hair|橙发;short hair|短发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "三船栞子",
+      "tag": "mifune shioriko (love live! nijigasaki)",
+      "charZh": "三船栞子（Love Live!）",
+      "auto": "black hair|黑发;long hair|长发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "岚千砂都",
+      "tag": "arashi chisato (love live! superstar!!)",
+      "charZh": "岚千砂都（Love Live!）",
+      "auto": "pink hair|粉发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "若菜四季",
+      "tag": "wakana shiki (love live! superstar!!)",
+      "charZh": "若菜四季（Love Live!）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "松浦果南",
+      "tag": "matsuura kanan (love live! sunshine!!)",
+      "charZh": "松浦果南（Love Live!）",
+      "auto": "brown hair|棕发;long hair|长发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "小原鞠莉",
+      "tag": "ohara mari (love live! sunshine!!)",
+      "charZh": "小原鞠莉（Love Live!）",
+      "auto": "blonde hair|金发;long hair|长发;yellow eyes|黄瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "米娅·泰勒",
+      "tag": "mia taylor (love live! nijigasaki)",
+      "charZh": "米娅·泰勒（Love Live!）",
+      "auto": "blonde hair|金发;medium hair|中长发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "钟岚珠",
+      "tag": "zhong lanzhu (love live! nijigasaki)",
+      "charZh": "钟岚珠（Love Live!）",
+      "auto": "black hair|黑发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "藤岛慈",
+      "tag": "fujishima megumi (love live! nijigasaki)",
+      "charZh": "藤岛慈（Love Live!）",
+      "auto": "pink hair|粉发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "樱小路希奈子",
+      "tag": "sakurakoji kinako (love live! superstar!!)",
+      "charZh": "樱小路希奈子（Love Live!）",
+      "auto": "brown hair|棕发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "米女梅",
+      "tag": "yoneme mei (love live! superstar!!)",
+      "charZh": "米女梅（Love Live!）",
+      "auto": "purple hair|紫发;twintails|双马尾",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "日野下花帆",
+      "tag": "hinoshita kaho (love live! hasunosora)",
+      "charZh": "日野下花帆（Love Live!）",
+      "auto": "blonde hair|金发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "村野沙耶香",
+      "tag": "murano sayaka (love live! hasunosora)",
+      "charZh": "村野沙耶香（Love Live!）",
+      "auto": "blue hair|蓝发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "乙宗梢",
+      "tag": "otomune kozue (love live! hasunosora)",
+      "charZh": "乙宗梢（Love Live!）",
+      "auto": "black hair|黑发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "夕雾缀理",
+      "tag": "yuugiri tsuzuri (love live! hasunosora)",
+      "charZh": "夕雾缀理（Love Live!）",
+      "auto": "silver hair|银发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "大泽琉璃乃",
+      "tag": "osawa rurino (love live! hasunosora)",
+      "charZh": "大泽琉璃乃（Love Live!）",
+      "auto": "brown hair|棕发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "百生吟子",
+      "tag": "momose gingko (love live! hasunosora)",
+      "charZh": "百生吟子（Love Live!）",
+      "auto": "black hair|黑发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "徒町小铃",
+      "tag": "kachimachi kosuzu (love live! hasunosora)",
+      "charZh": "徒町小铃（Love Live!）",
+      "auto": "brown hair|棕发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "安养寺姬芽",
+      "tag": "anyoji hime (love live! hasunosora)",
+      "charZh": "安养寺姬芽（Love Live!）",
+      "auto": "blonde hair|金发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "鬼冢夏美",
+      "tag": "onizuka natsumi (love live! superstar!!)",
+      "charZh": "鬼冢夏美（Love Live!）",
+      "auto": "orange hair|橙发;twintails|双马尾",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "薇恩·玛格丽特",
+      "tag": "wien margarete (love live! superstar!!)",
+      "charZh": "薇恩·玛格丽特（Love Live!）",
+      "auto": "silver hair|银发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Love Live!",
+      "gameTag": "love live!",
+      "name": "鬼冢冬毬",
+      "tag": "onizuka fuyumari (love live! superstar!!)",
+      "charZh": "鬼冢冬毬（Love Live!）",
+      "auto": "blue hair|蓝发;short hair|短发",
+      "subName": ""
+    }
+  ]
+}

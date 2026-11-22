@@ -1,0 +1,2061 @@
+{
+  "id": "handwear",
+  "name": "手部",
+  "icon": "🧤",
+  "parentId": "outfit_group",
+  "level": 2,
+  "order": 4,
+  "file": "outfit_group/outfit_group_handwear.json",
+  "updatedAt": "2026-11-18T05:36:30.183Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "black gloves",
+      "zh": "黑色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 698259,
+      "desc": "黑色手套",
+      "kw": "手套 / 配饰 / black glove / 黑手袋 / 黒手袋"
+    },
+    {
+      "en": "white gloves",
+      "zh": "白色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 455478,
+      "desc": "覆盖双手的白色手套",
+      "kw": "白色手袋 / 白手袋 / 白色长手套 / 白长手套 / 白色短手套 / 手套 / 配饰 / white glove / 白长手袋 / 白長手袋"
+    },
+    {
+      "en": "power fist",
+      "zh": "动力拳套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 574,
+      "desc": "有动力源的巨型金属拳套武器",
+      "kw": "动力拳 / 动力手套 / 能量拳套 / 机械动力拳 / 动力装甲拳套 / 动力拳甲 / 拳套 / 武器"
+    },
+    {
+      "en": "red gloves",
+      "zh": "红色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 70331,
+      "desc": "覆盖双手的红色手套。",
+      "kw": "红手套 / 红色手手套 / 红色手套子 / 红色皮手套 / 手套 / 红色系"
+    },
+    {
+      "en": "watch",
+      "zh": "手表",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43979,
+      "desc": "佩戴在手腕上的计时器",
+      "kw": "腕表 / 手表腕表 / 戴表 / 腕上手表 / 配饰"
+    },
+    {
+      "en": "latex gloves",
+      "zh": "乳胶手套",
+      "rating": "s",
+      "nsfw": false,
+      "count": 4203,
+      "desc": "用乳胶制成的手套。",
+      "kw": "胶手套 / 橡胶手套 / 乳胶制手套 / 胶制手套 / 乳胶手袋 / 手套 / 防护"
+    },
+    {
+      "en": "partially fingerless gloves",
+      "zh": "半露指手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 42046,
+      "desc": "只有部分手指露出的半截手套。",
+      "kw": "部分露指手套 / 部分半指手套 / 半截手套 / 部分指套手套 / 露指手套 / 手部穿戴 / 手套 / partly fingerless gloves"
+    },
+    {
+      "en": "fold-over gloves",
+      "zh": "翻褶手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 789,
+      "desc": "上部可向下翻折成袖口的手套",
+      "kw": "翻边手套 / 翻口手套 / 折口手套 / 翻折式手套 / 翻袖手套 / 可翻折手套 / 手套"
+    },
+    {
+      "en": "glove cuffs",
+      "zh": "手套袖口",
+      "rating": "g",
+      "nsfw": false,
+      "count": 121,
+      "desc": "手套腕部的翻边",
+      "kw": "手套翻边 / 手套口 / 手套腕部 / 长手套翻口 / 手套折边 / 手套腕口 / 手套边 / 手套"
+    },
+    {
+      "en": "half gloves",
+      "zh": "短手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29443,
+      "desc": "只覆盖手指或长度明显不到手腕的手套。",
+      "kw": "不盖手腕的手套 / 半掌手套 / 半指手套 / 露指手套 / 手套 / short gloves"
+    },
+    {
+      "en": "paw gloves",
+      "zh": "兽爪手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23590,
+      "desc": "模仿动物爪子造型的手套，常搭配兽耳或整套兽装。",
+      "kw": "动物爪手套 / 猫爪手套 / 爪子手套 / 肉球手套 / 动物肉球手套 / 猫爪造型手套 / 肉垫手套 / 兽耳手套 / 肉球手袋 / 猫の手グローブ"
+    },
+    {
+      "en": "cat paws",
+      "zh": "猫爪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8085,
+      "desc": "角色长着猫爪手，或戴着猫爪手套",
+      "kw": "猫爪手套 / 猫爪手型 / 肉球手 / 猫掌手套 / 猫 / 动物特征 / 爪子 / cat gloves"
+    },
+    {
+      "en": "torn gloves",
+      "zh": "破损手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2676,
+      "desc": "被撕开或出现破口的手套。",
+      "kw": "破手套 / 撕裂手套 / 烂手套 / 有破洞的手套 / 手套破损 / 划破的手套 / 手套 / 配饰 / ripped gloves"
+    },
+    {
+      "en": "layered gloves",
+      "zh": "层叠手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1204,
+      "desc": "在同一只手上叠戴多双手套",
+      "kw": "叠戴手套 / 多层手套 / 双重手套 / 手套叠穿 / 叠加手套 / 套层手套 / 多层手套叠戴"
+    },
+    {
+      "en": "cross-laced gloves",
+      "zh": "交叉系带手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 291,
+      "desc": "带交叉系带或缎带的手套。",
+      "kw": "交叉绑带手套 / 交叉抽绳手套 / 交叉缎带手套 / 系带手套 / 十字交叉带手套 / 交叉带手套 / 交叉绳带手套 / 十字交叉系带手套"
+    },
+    {
+      "en": "glove cutout",
+      "zh": "露背手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1584,
+      "desc": "通常在手套手背开有镂空",
+      "kw": "镂空手套 / 手背镂空手套 / 开洞手套 / 手套挖空 / 露手背手套 / 手套开洞 / 手套 / cutout gloves"
+    },
+    {
+      "en": "print gloves",
+      "zh": "印花手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13271,
+      "desc": "带有印花图案的手套。",
+      "kw": "带印花手套 / 图案手套 / 花手套 / 有图案的手套 / 印花手袜 / 手套"
+    },
+    {
+      "en": "striped gloves",
+      "zh": "条纹手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3451,
+      "desc": "带条纹图案的手套。",
+      "kw": "横纹手套 / 斑纹手套 / 条纹图案手套 / 手套 / 配饰 / 条纹"
+    },
+    {
+      "en": "paw print palms",
+      "zh": "掌心爪印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 173,
+      "desc": "掌心印有爪印图案的普通手套（非兽爪手套）",
+      "kw": "掌心爪印手套 / 手套爪印 / 爪印掌心手套 / 带爪印的手套 / 手掌有爪印手套 / 爪印手心 / 爪子印记 / 手掌图案"
+    },
+    {
+      "en": "cow print gloves",
+      "zh": "奶牛纹手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8414,
+      "desc": "带奶牛斑纹的手套",
+      "kw": "奶牛花纹手套 / 黑白花斑手套 / 奶牛斑手套 / 奶牛图案手套 / 乳牛纹手套 / 手套 / 动物纹"
+    },
+    {
+      "en": "glove bow",
+      "zh": "手套蝴蝶结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1897,
+      "desc": "手套上装饰的蝴蝶结",
+      "kw": "手套蝴蝶结装饰 / 手套结 / 手套上的蝴蝶结 / 蝴蝶结手套 / 手套蝴蝶结饰 / 手套 / 蝴蝶结 / 配饰"
+    },
+    {
+      "en": "fur-trimmed gloves",
+      "zh": "毛边手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17705,
+      "desc": "边缘带毛皮镶边的手套。",
+      "kw": "毛绒手套 / 毛口手套 / 皮草边手套 / 毛边装饰手套 / 毛皮镶边手套 / 手套 / 毛绒"
+    },
+    {
+      "en": "frilled gloves",
+      "zh": "荷叶边手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10201,
+      "desc": "带荷叶边/褶边装饰的手套",
+      "kw": "褶边手套 / 花边手套 / 蕾丝边手套 / 荷叶边装饰手套 / 波浪边手套 / 手套 / 荷叶边 / 配饰"
+    },
+    {
+      "en": "lace-trimmed gloves",
+      "zh": "蕾丝边手套",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2340,
+      "desc": "只带蕾丝边、非全蕾丝材质的手套",
+      "kw": "蕾丝饰边手套 / 带蕾丝边的手套 / 蕾丝花边手套 / 蕾丝镶边手套 / 手套 / 配饰"
+    },
+    {
+      "en": "ribbon-trimmed gloves",
+      "zh": "缎带装饰手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 602,
+      "desc": "边缘镶缎带的手套",
+      "kw": "丝带边手套 / 缎带镶边手套 / 系带手套 / 手套 / 配饰"
+    },
+    {
+      "en": "single glove",
+      "zh": "单只手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60281,
+      "desc": "仅一只手戴手套",
+      "kw": "单手手套 / 单边手套 / 只戴一只手套 / 单手套 / 手部穿戴 / 不对称手套 / one glove"
+    },
+    {
+      "en": "mismatched gloves",
+      "zh": "异色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14753,
+      "desc": "左右两只手套颜色或图案不同，长度不同另算。",
+      "kw": "左右异色手套 / 不对称手套 / 鸳鸯手套 / 异色手套（左右不同） / 双手不同手套 / 手套 / 不对称"
+    },
+    {
+      "en": "single elbow glove",
+      "zh": "单侧长手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11485,
+      "desc": "只在一只手臂上戴的过肘长手套。",
+      "kw": "单侧过肘手套 / 单边长手套 / 单只长手套 / 单只及肘手套 / 手套 / 配饰 / one elbow glove / 单侧长筒手套"
+    },
+    {
+      "en": "single fingerless glove",
+      "zh": "单只露指手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7499,
+      "desc": "只在一只手上戴的露指手套",
+      "kw": "单手露指手套 / 一只露指手套 / 单只无指手套 / 单只半指手套 / 手套 / 配饰"
+    },
+    {
+      "en": "uneven gloves",
+      "zh": "长短手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5926,
+      "desc": "左右手套长度不同的手套",
+      "kw": "不对称手套 / 左右长度不同的手套 / 一长一短手套 / 不同长度手套 / 手套 / 配饰 / asymmetrical gloves"
+    },
+    {
+      "en": "yugake",
+      "zh": "弓道手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3483,
+      "desc": "日本弓道用的三指或四指手套",
+      "kw": "弓道护手 / 弓道三指手套 / 日本弓道手套 / 弓手袋 / 弓道手袋 / 弓道四指手套 / 服装 / 手部穿戴"
+    },
+    {
+      "en": "unworn gloves",
+      "zh": "未佩戴的手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3304,
+      "desc": "画面中有但没被戴上的手套",
+      "kw": "脱下的手套 / 没戴的手套 / 摘下的手套 / 未佩戴手套 / 放置的手套 / 手套没戴 / 手套 / 服装 / glove removed / gloves removed"
+    },
+    {
+      "en": "archery shooting glove",
+      "zh": "射箭护指",
+      "rating": "g",
+      "nsfw": false,
+      "count": 734,
+      "desc": "西洋射箭用三指手套",
+      "kw": "西洋射箭手套 / 三指射箭手套 / 拉弦手套 / 弓箭手套 / 射箭三指手套 / 手套 / 射箭装备"
+    },
+    {
+      "en": "artist glove",
+      "zh": "防污手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 361,
+      "desc": "只罩住小指和无名指的两指绘画手套",
+      "kw": "艺术家手套 / 两指手套 / 数位屏手套 / 绘画用手套 / 小指和无名指套 / 手套类 / 绘图手套 / drawing glove"
+    },
+    {
+      "en": "falconry glove",
+      "zh": "驯鹰手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 86,
+      "desc": "鹰猎用的厚皮长手套，可至肘部供猛禽站立。",
+      "kw": "猎鹰手套 / 鹰猎长手套 / 猛禽手套 / 鹰猎用长手套"
+    },
+    {
+      "en": "fishnet gloves",
+      "zh": "渔网手套",
+      "rating": "s",
+      "nsfw": false,
+      "count": 3824,
+      "desc": "渔网材质制成的手套。",
+      "kw": "网眼手套 / 网纹手套 / 渔网纹手套 / 网孔手套 / 手套 / 渔网 / 网状手套"
+    },
+    {
+      "en": "lace gloves",
+      "zh": "蕾丝手套",
+      "rating": "s",
+      "nsfw": false,
+      "count": 3115,
+      "desc": "完全用蕾丝制成的手套",
+      "kw": "蕾丝制手套 / 全蕾丝手套 / 花边手套 / 镂空手套 / 手部穿戴 / 蕾丝长手套 / レースグローブ"
+    },
+    {
+      "en": "leather gloves",
+      "zh": "皮手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3240,
+      "desc": "皮革制成的手套",
+      "kw": "皮革手套 / 真皮手套 / 皮质手套 / 皮制手套 / 皮革制手套 / 手套 / 配饰"
+    },
+    {
+      "en": "rubber gloves",
+      "zh": "橡胶手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1823,
+      "desc": "橡胶制手套，清洁或处理化学品时佩戴",
+      "kw": "胶手套 / 橡胶制手套 / 清洁手套 / 胶皮手套 / 手部穿戴 / 防护手套 / ゴム手袋"
+    },
+    {
+      "en": "see-through gloves",
+      "zh": "透视手套",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1036,
+      "desc": "透明或薄纱材质的手套",
+      "kw": "薄纱手套 / 透明薄纱手套 / 蝉翼手套 / 纱质手套 / 手套 / 服装 / sheer gloves / transparent gloves"
+    },
+    {
+      "en": "blood on gloves",
+      "zh": "手套上的血迹",
+      "rating": "s",
+      "nsfw": false,
+      "count": 718,
+      "desc": "手套上沾有血迹",
+      "kw": "手套沾血 / 手套上的血 / 沾血手套 / 血手套 / 手套带血 / 手套血迹 / 血液手套"
+    },
+    {
+      "en": "aqua gloves",
+      "zh": "水蓝色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2622,
+      "desc": "水色（蓝绿色）的手套",
+      "kw": "浅蓝色手套 / 蓝绿色手套 / 浅蓝手套 / 水色手袋 / 手套 / 配饰 / 水色"
+    },
+    {
+      "en": "blue gloves",
+      "zh": "蓝色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43121,
+      "desc": "分开五指覆盖双手的蓝色手套。",
+      "kw": "蓝手套 / 蓝色五指手套 / 蓝五指手套 / 手套 / 配饰"
+    },
+    {
+      "en": "brown gloves",
+      "zh": "棕色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 68110,
+      "desc": "颜色为棕色的手套。",
+      "kw": "棕手套 / 褐手套 / 褐色手套 / 咖啡色手套 / 深棕手套 / 浅棕手套 / 手套 / 棕色系"
+    },
+    {
+      "en": "green gloves",
+      "zh": "绿手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15261,
+      "desc": "颜色为绿色的手套。",
+      "kw": "绿色长手套 / 绿色半指手套 / 绿色手部装备 / 手套 / 配饰"
+    },
+    {
+      "en": "grey gloves",
+      "zh": "灰色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17988,
+      "desc": "颜色为灰色的手套。",
+      "kw": "灰手套 / 灰色长手套 / 灰色手袋 / 手套 / 配饰 / gray gloves"
+    },
+    {
+      "en": "multicolored gloves",
+      "zh": "多色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16022,
+      "desc": "单只手套上有多种颜色，双只不对称用 uneven gloves",
+      "kw": "多彩手套 / 彩色手套 / 拼色手套 / 撞色手套 / 手套 / 配饰"
+    },
+    {
+      "en": "orange gloves",
+      "zh": "橙色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8245,
+      "desc": "颜色为橙色的手套",
+      "kw": "橙手套 / 橘色手套 / 橙色手部装备 / 橘色手袋 / 手套 / 配饰"
+    },
+    {
+      "en": "pink gloves",
+      "zh": "粉色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19161,
+      "desc": "戴在手上的粉色手套",
+      "kw": "粉手套 / 粉红色手套 / 浅红手套 / 桃色手套 / 粉红色手袋 / 手套 / 配饰"
+    },
+    {
+      "en": "purple gloves",
+      "zh": "紫色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29313,
+      "desc": "紫色手套，包住整只手的服饰。",
+      "kw": "紫手套 / 紫色全指手套 / 手套"
+    },
+    {
+      "en": "yellow gloves",
+      "zh": "黄色手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16485,
+      "desc": "黄色的手套",
+      "kw": "黄手套 / 黄颜色手套 / 黄色手袋 / 淡黄手套 / 手套 / 配饰"
+    },
+    {
+      "en": "gloves",
+      "zh": "手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1990054,
+      "desc": "分别包住每根手指的手部覆盖物",
+      "kw": "手套类 / 分指手套 / 手袋 / 皮手套 / 棉手套 / 针织手套 / 毛线手套 / 护手套 / glove / 裸手袋 / 手袋コキ / てぶくろ"
+    },
+    {
+      "en": "baseball mitt",
+      "zh": "棒球手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3481,
+      "desc": "棒球守备接球用手套",
+      "kw": "棒球接球手套 / 棒球捕手手套 / 棒球分指手套 / 棒球守备手套 / 棒球手套装备 / 手部穿戴 / 手套 / 体育用品 / baseball glove"
+    },
+    {
+      "en": "finger cots",
+      "zh": "指套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 394,
+      "desc": "套在手指上的保护套",
+      "kw": "手指套 / 护指套 / 手指护套 / 指头套 / 指用套 / 手指保护套 / 胶指套 / 防护用品 / finger covers / 指サック / 손가락 침대"
+    },
+    {
+      "en": "gauntlets",
+      "zh": "护手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 70350,
+      "desc": "连到前臂的金属护手，属于铠甲部件。",
+      "kw": "手甲 / 金属手套 / 铁手套 / 笼手 / 装甲手套 / 护腕 / 铠甲 / gauntlet / 籠手 / ガントレット"
+    },
+    {
+      "en": "kote",
+      "zh": "笼手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12736,
+      "desc": "日本铠甲的护臂部件，从前臂覆盖到肩部",
+      "kw": "小手 / 日式护臂 / 日本铠甲护臂 / 护臂甲 / 笼手甲 / 武士护臂 / 盔甲护臂 / 手甲"
+    },
+    {
+      "en": "kurokote",
+      "zh": "黑笼手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7837,
+      "desc": "由黑色铁板制成的日本甲胄护手。",
+      "kw": "黑色小手 / 黑护手 / 黑色护手 / 日本甲胄护手 / 黑色笼手 / 武术手套 / 日本风 / 黒小手"
+    },
+    {
+      "en": "mittens",
+      "zh": "连指手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21152,
+      "desc": "拇指分开、其余四指并在一起的手套",
+      "kw": "并指手套 / 棉手套 / 保暖手套 / 手闷子 / 手捂子 / 四指并拢手套 / 分拇指手套 / 手套 / mitts / ミトン"
+    },
+    {
+      "en": "ring",
+      "zh": "戒指",
+      "rating": "g",
+      "nsfw": false,
+      "count": 133543,
+      "desc": "戴在手指上的环状首饰。",
+      "kw": "指环 / 戒子 / 钻戒 / 金戒指 / 银戒指 / 宝石戒指 / 戒指首饰 / 首饰 / rings / 指轮 / リング / 指輪"
+    },
+    {
+      "en": "butterfly ring",
+      "zh": "蝴蝶戒指",
+      "rating": "g",
+      "nsfw": false,
+      "count": 173,
+      "desc": "蝴蝶造型的戒指。",
+      "kw": "蝴蝶指环 / 蝴蝶造型戒指 / 首饰 / 戒指"
+    },
+    {
+      "en": "ornate ring",
+      "zh": "华丽戒指",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1640,
+      "desc": "镶有宝石或刻有文字等装饰的戒指",
+      "kw": "装饰戒指 / 宝石戒指 / 镶宝石戒指 / 刻字戒指 / 雕花戒指 / 精美戒指 / 花哨戒指 / 华丽指环 / gemstone ring / gem ring"
+    },
+    {
+      "en": "no gloves",
+      "zh": "未戴手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2468,
+      "desc": "通常戴手套的角色没有戴手套",
+      "kw": "没戴手套 / 摘下手套 / 脱下手套 / 无手套"
+    },
+    {
+      "en": "compression sleeve",
+      "zh": "压缩袖套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 594,
+      "desc": "套在手臂或腿上提供支撑的压缩袖套",
+      "kw": "压力袖套 / 压缩套 / 护臂套 / 压缩腿套 / 弹力袖套 / 配饰 / 袖套"
+    },
+    {
+      "en": "arm guard",
+      "zh": "护臂",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "elbow pads",
+      "zh": "护肘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9204,
+      "desc": "保护肘部的护具。",
+      "kw": "肘部护具 / 护肘垫 / 肘垫 / 肘部护垫 / 护具 / 护垫 / elbow pad"
+    },
+    {
+      "en": "armband",
+      "zh": "臂章",
+      "rating": "g",
+      "nsfw": false,
+      "count": 85945,
+      "desc": "戴在手臂上标示身份、职位或状态的布制臂章。",
+      "kw": "袖标 / 臂带 / 袖章 / 臂环 / 袖箍 / 标识臂带 / 布制臂章 / 饰品 / arm band / armbands / 腕章"
+    },
+    {
+      "en": "arm garter",
+      "zh": "臂箍",
+      "rating": "s",
+      "nsfw": false,
+      "count": 11033,
+      "desc": "戴在上臂的松紧带饰物",
+      "kw": "臂环 / 上臂带 / 手臂松紧带 / 臂饰 / 手臂袜圈 / 配饰 / 首饰"
+    },
+    {
+      "en": "armlet",
+      "zh": "臂环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 66231,
+      "desc": "戴在上臂的贵重装饰性环带",
+      "kw": "臂钏 / 上臂环 / 臂带 / 臂镯 / 手臂环 / 臂饰 / 上臂装饰环 / 配饰 / arm bracelets / armlets / アームレット"
+    },
+    {
+      "en": "arm ribbon",
+      "zh": "臂带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13146,
+      "desc": "缠在上臂的丝带。",
+      "kw": "上臂丝带 / 胳膊丝带 / 手臂缎带 / 臂上丝带 / 臂环丝带 / 手绑丝带 / 臂部丝带"
+    },
+    {
+      "en": "bracelet",
+      "zh": "手链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 277667,
+      "desc": "戴在手腕上的装饰性饰品。",
+      "kw": "手环 / 腕饰 / 腕环 / 镯子 / 手腕装饰 / 腕輪 / 饰品 / bracelets / wristlet / 腕轮 / ブレスレット"
+    },
+    {
+      "en": "bracer",
+      "zh": "腕甲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19362,
+      "desc": "护住手腕和小臂的护甲",
+      "kw": "护臂 / 护手甲 / 臂甲 / 护腕甲 / 护具腕部 / 护腕护臂 / 护腕 / bracers"
+    },
+    {
+      "en": "wristband",
+      "zh": "腕带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 70854,
+      "desc": "戴在手腕上的环带，材质随用途而异。",
+      "kw": "护腕 / 手环 / 腕环 / 运动腕带 / 腕圈 / 配饰 / wrist band / wrist bands / wristbands / リストバンド"
+    },
+    {
+      "en": "wrist flower",
+      "zh": "腕花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1700,
+      "desc": "戴在手腕上作装饰的花。",
+      "kw": "手腕花 / 手花 / 手腕花朵 / 腕饰花 / 手腕装饰花 / 配饰 / 花饰 / 手腕饰品"
+    },
+    {
+      "en": "wristwatch",
+      "zh": "腕表",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29809,
+      "desc": "戴在手腕上的表。",
+      "kw": "腕戴手表 / 腕上表 / 配饰 / 首饰 / wrist watch / 腕时计 / 腕時計"
+    },
+    {
+      "en": "nail art",
+      "zh": "美甲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3659,
+      "desc": "在指甲上绘制图案或装饰的美甲。",
+      "kw": "指甲彩绘 / 指甲艺术 / 花式美甲 / 指甲装饰 / 美容"
+    },
+    {
+      "en": "nail ornament",
+      "zh": "美甲装饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 261,
+      "desc": "作为美甲的一部分贴在指甲上的小饰品",
+      "kw": "美甲饰品 / 指甲小饰品 / 指甲贴饰 / 甲片装饰 / 美甲 / 配饰"
+    },
+    {
+      "en": "tasuki",
+      "zh": "束袖带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13447,
+      "desc": "用来绑起和服或浴衣袖子的带子，方便活动",
+      "kw": "和服束袖带 / 襷 / 襷带 / 束袖绳 / 和服袖绳 / 袖带 / 襻膊 / 和服配件 / kimono sleeve ties / 襷掛け"
+    },
+    {
+      "en": "arm belt",
+      "zh": "臂带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13395,
+      "desc": "围绕手臂佩戴的皮带或束带",
+      "kw": "手臂皮带 / 臂环皮带 / 臂部束带 / 臂上腰带 / 手臂带 / 配饰 / 手臂"
+    },
+    {
+      "en": "arm guards",
+      "zh": "臂甲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14387,
+      "desc": "保护手臂的护甲或护具。",
+      "kw": "手臂护甲 / 前臂护具 / 护手甲 / 笼手 / 臂铠 / 护具 / 装备 / arm guard / armguards / 籠手 / アームガード"
+    },
+    {
+      "en": "bangle",
+      "zh": "手镯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23046,
+      "desc": "套在手腕上的大号硬质环状手镯。",
+      "kw": "手环 / 腕环 / 硬质手镯 / 环状手镯 / 大号手镯 / 首饰 / 配饰 / bangles"
+    },
+    {
+      "en": "spiked bracelet",
+      "zh": "尖刺手环",
+      "rating": "s",
+      "nsfw": false,
+      "count": 16472,
+      "desc": "带尖刺的手镯",
+      "kw": "带刺手镯 / 铆钉手镯 / 刺钉手镯 / 尖刺腕带 / 钉环手镯 / 手镯 / 配饰 / spiked bracelets"
+    },
+    {
+      "en": "arm warmers",
+      "zh": "袖套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36086,
+      "desc": "覆盖前臂的宽松保暖套，长度通常过手腕。",
+      "kw": "手臂保暖套 / 暖臂套 / 护臂 / 臂暖套 / 长臂套 / 无指臂套 / 毛衣臂套 / armwarmers / 臂袜 / アームウォーマー"
+    },
+    {
+      "en": "elbow sleeve",
+      "zh": "护肘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 852,
+      "desc": "只包住肘部的紧身护套，常用于运动防护",
+      "kw": "护肘套 / 肘部护套 / 肘套 / 运动护肘 / 护肘带 / 肘垫 / 饰品 / 服装 / エルボーサポーター"
+    },
+    {
+      "en": "boxing gloves",
+      "zh": "拳击手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4896,
+      "desc": "拳击用的厚护手套",
+      "kw": "拳套 / 格斗拳套 / 比赛拳套 / 手套 / 运动 / 拳击 / boxing glove / ボクシンググローブ"
+    },
+    {
+      "en": "elbow gloves",
+      "zh": "长筒手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 416343,
+      "desc": "长度达到或超过肘部的手套，常见于正式场合",
+      "kw": "长手套 / 歌剧手套 / 肘上手套 / 及肘手套 / 过肘长手套 / 长款手套 / 手套 / long gloves / opera gloves / 护肘手套 / 白长手袋"
+    },
+    {
+      "en": "fingerless gloves",
+      "zh": "露指手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 383040,
+      "desc": "不覆盖手指的手套，常见于保持手部灵活",
+      "kw": "半指手套 / 半截手套 / 露手指手套 / 手套 / 配饰 / fingerless glove / 指抜きグローブ"
+    },
+    {
+      "en": "bridal gauntlets",
+      "zh": "新娘手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 75136,
+      "desc": "以指环固定、无指孔的长手套，常用于婚纱",
+      "kw": "过肘长手套 / 新娘长手套 / 婚纱手套 / 露指长手套 / 指环长手套 / 结婚手套 / 婚礼长手套 / 手套 / bridal gauntlet"
+    },
+    {
+      "en": "spiked gloves",
+      "zh": "钉刺手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 828,
+      "desc": "带尖刺的手套，与铆钉手套不同",
+      "kw": "带刺手套 / 刺拳套 / 朋克尖刺手套 / 带尖刺手套 / 带尖钉手套 / 刺钉手套 / 手套 / 战斗"
+    },
+    {
+      "en": "hand chains",
+      "zh": "手链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 296,
+      "desc": "手链通过链条连接戒指的手部饰品，常与肚皮舞服装搭配。",
+      "kw": "手链戒指 / 手链连戒指 / 奴隶手链 / 哈伦手链 / 手部链饰 / 戒指链手镯 / 手指链"
+    },
+    {
+      "en": "claw ring",
+      "zh": "爪形指环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3754,
+      "desc": "形似兽爪、覆盖指节的戒指",
+      "kw": "爪戒指 / 爪子戒指 / 兽爪戒指 / 指甲套 / 指套 / 指节戒指 / 爪形戒指 / 护指戒指 / finger armor ring"
+    },
+    {
+      "en": "wedding ring",
+      "zh": "结婚戒指",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22043,
+      "desc": "戴在左手无名指或用于求婚的戒指",
+      "kw": "婚戒 / 结婚指环 / 婚约戒指 / 求婚戒指 / 结婚对戒 / 戒指 / 首饰 / 婚礼 / wedding band / 婚约指轮 / 左手薬指 / 结婚指轮"
+    },
+    {
+      "en": "wrist cuffs",
+      "zh": "腕带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 219680,
+      "desc": "独立的袖口式腕饰，带褶边或扣眼等",
+      "kw": "腕套 / 袖口腕饰 / 护腕 / 腕饰 / 手袖 / 手腕袖套 / 袖口套 / 袖口式腕套 / wrist cuff / wristcuffs / wristcuff / detached cuffs"
+    },
+    {
+      "en": "wrist ruff",
+      "zh": "腕饰褶边",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31
+    },
+    {
+      "en": "wrist scrunchie",
+      "zh": "手腕发圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30292,
+      "desc": "像手链一样套在手腕上的发圈，注意与腕带区分",
+      "kw": "手腕发束 / 手上发圈 / 腕上发圈 / 发圈手环 / 手环 / 配饰 / scrunchie on wrist / 发圈手饰"
+    },
+    {
+      "en": "cuff links",
+      "zh": "袖扣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1416,
+      "desc": "用于扣住衬衫袖口的装饰性纽扣。",
+      "kw": "衬衫袖扣 / 西服袖扣 / 衬衣袖扣 / 西装袖扣 / 袖口扣 / 袖扣装饰 / 袖扣饰品 / 配饰 / cuff link / cuff-link / cuff-links / カフリンクス"
+    },
+    {
+      "en": "bondage mittens",
+      "zh": "束缚连指手套",
+      "rating": "q",
+      "nsfw": true,
+      "count": 616,
+      "desc": "束缚用固定双手的袋状手套",
+      "kw": "拘束手套 / 缚手袋 / 拘束连指手套 / 束缚手袋 / 捆绑手套 / 束缚 / 手套 / 拘束ミトン"
+    },
+    {
+      "en": "oven mitts",
+      "zh": "厚隔热手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2488,
+      "desc": "拿取热锅盘用的厚隔热手套",
+      "kw": "烤箱手套 / 防烫手套 / 烤箱隔热手套 / 烤盘手套 / 取盘手套 / 手套 / 厨房用品 / oven mittens / oven mitt / 鍋つかみ / 鍋掴み"
+    },
+    {
+      "en": "buttoned cuffs",
+      "zh": "袖口纽扣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4004,
+      "desc": "袖口处有可见纽扣的衣袖，常见于衬衫西装",
+      "kw": "扣子袖口 / 扣合袖口 / 带扣袖口 / 有扣袖口 / 衬衫袖口 / 西装袖口 / 扣式袖口 / 袖口有扣"
+    },
+    {
+      "en": "bandaged hand",
+      "zh": "绷带手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13255,
+      "desc": "至少一只手缠着绷带。",
+      "kw": "手缠绷带 / 手部绷带 / 缠着绷带的手 / 绑着绷带的手 / 手上有绷带 / 手裹绷带 / 绷带 / bandaged hands"
+    },
+    {
+      "en": "bandaid on hand",
+      "zh": "手部创可贴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4331,
+      "desc": "手上贴着创可贴",
+      "kw": "手指创可贴 / 手上创口贴 / 手贴创可贴 / 手上贴着创可贴 / 手上有创可贴 / 手上OK绷 / 手部OK绷 / bandaid on finger"
+    },
+    {
+      "en": "string around finger",
+      "zh": "手指缠线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 910,
+      "desc": "缠绕在角色手指上的绳子",
+      "kw": "缠在手指上的绳子 / 手指绕绳 / 指上缠绳 / 提醒线 / 道具"
+    },
+    {
+      "en": "string of fate",
+      "zh": "命运红线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6939,
+      "desc": "东亚传说中系在左手小指上、连接命中注定之人的红线",
+      "kw": "红线 / 姻缘红线 / 命运红绳 / 缘分红线 / 赤绳 / 姻缘线 / 命运之线 / red string of fate / red thread / red string / 命运的红绳"
+    },
+    {
+      "en": "hand puppets",
+      "zh": "手部玩偶",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "finger puppet",
+      "zh": "指偶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 137,
+      "desc": "套在手指上操控的小木偶。",
+      "kw": "手指木偶 / 手指玩偶 / 玩具 / 玩偶 / finger puppets"
+    },
+    {
+      "en": "aqua nails",
+      "zh": "水色指甲",
+      "rating": "g",
+      "count": 23265,
+      "desc": "水色（蓝绿色）的指甲。",
+      "kw": "蓝绿色指甲 / 水蓝色指甲 / 浅蓝绿色指甲 / 青绿色指甲 / 美甲 / 指甲油 / aqua fingernails"
+    },
+    {
+      "en": "arm armor",
+      "zh": "手臂护甲",
+      "rating": "g",
+      "count": 4489,
+      "desc": "覆盖手臂的盔甲或护具。",
+      "kw": "臂甲 / 手臂盔甲 / 护臂 / 臂铠 / 手甲 / 前臂护甲 / 上臂护甲 / 护甲"
+    },
+    {
+      "en": "arm cuffs",
+      "zh": "手臂袖口",
+      "rating": "g",
+      "count": 1830,
+      "desc": "戴在手臂上的环形袖口或装饰",
+      "kw": "臂环 / 臂箍 / 上臂环 / 手臂环 / 上臂袖套 / 袖口装饰 / 臂套 / 装饰臂环"
+    },
+    {
+      "en": "arm pouch",
+      "zh": "手臂袋",
+      "rating": "g",
+      "count": 1677,
+      "desc": "戴在手臂上的小包或小袋。",
+      "kw": "臂袋 / 手臂包 / 臂上小包 / 绑臂包 / 小臂袋 / 臂包 / 包包 / 配饰"
+    },
+    {
+      "en": "arm scarf",
+      "zh": "手臂围巾",
+      "rating": "g",
+      "count": 529,
+      "desc": "缠在前臂上的布条，类似围巾的装饰",
+      "kw": "臂巾 / 手臂丝巾 / 前臂围巾 / 手臂缠绕巾 / 手臂披巾 / 手臂装饰巾 / 臂部围巾 / 配饰"
+    },
+    {
+      "en": "arm scrunchie",
+      "zh": "手臂发圈",
+      "rating": "g",
+      "count": 639,
+      "desc": "像臂环一样戴在上臂的大肠发圈",
+      "kw": "手臂大肠发圈 / 上臂发圈 / 手臂发绳 / 臂环发圈 / 手臂头绳 / 上臂大肠圈 / 手臂发饰圈 / 上臂发饰发圈"
+    },
+    {
+      "en": "arm strap",
+      "zh": "手臂系带",
+      "rating": "g",
+      "count": 26038,
+      "desc": "缠在手臂上的布带或皮带",
+      "kw": "臂带 / 手臂带 / 上臂带 / 手臂绑带 / 胳膊系带 / 手臂皮带 / 手臂布带 / 上臂系带"
+    },
+    {
+      "en": "arm wrap",
+      "zh": "袖套",
+      "rating": "g",
+      "count": 4807,
+      "desc": "从手腕缠到肘部的布条，多见于格斗者",
+      "kw": "臂缠 / 手臂缠布 / 护臂布 / 缠臂布 / 格斗绷带 / 手腕缠带 / 臂带 / 手臂缠带 / arm wraps"
+    },
+    {
+      "en": "armored gloves",
+      "zh": "装甲手套",
+      "rating": "g",
+      "count": 3517,
+      "desc": "带有金属或装甲保护的手套。",
+      "kw": "手套 / 护甲"
+    },
+    {
+      "en": "asymmetrical gloves",
+      "zh": "不对称手套",
+      "rating": "g",
+      "count": 25423,
+      "desc": "设计本身不对称的手套",
+      "kw": "非对称手套 / 双手不同手套 / 左右不同手套 / 异形手套 / 不对称手部装备 / 非对称手部装备 / 手套 / 配饰"
+    },
+    {
+      "en": "asymmetrical sleeves",
+      "zh": "不对称袖子",
+      "rating": "g",
+      "count": 12706,
+      "desc": "设计本身不对称的袖子",
+      "kw": "不对称的袖子 / 左右袖子不对称 / 单边袖 / 不对称衣袖 / 异形袖 / 长短袖不对称 / 不对称设计袖 / 服装"
+    },
+    {
+      "en": "bead bracelet",
+      "zh": "珠串手链",
+      "rating": "g",
+      "count": 17496,
+      "desc": "用珠子串成的手链",
+      "kw": "珠子手链 / 串珠手链 / 珠链 / 手珠链 / 手链 / 首饰"
+    },
+    {
+      "en": "black arm warmers",
+      "zh": "黑色袖套",
+      "rating": "g",
+      "count": 3602,
+      "desc": "黑色的袖套或护臂",
+      "kw": "黑袖套 / 黑色护臂 / 黑护臂 / 黑色臂套 / 黑臂套 / 黑色套袖 / 黑色护袖 / 配饰"
+    },
+    {
+      "en": "black armband",
+      "zh": "黑色臂章",
+      "rating": "g",
+      "count": 4307,
+      "desc": "套在上臂作标识用的黑色臂章",
+      "kw": "黑臂章 / 黑色袖章 / 黑袖章 / 黑色臂带 / 黑臂带 / 黑色臂环 / 臂章 / 配饰"
+    },
+    {
+      "en": "black bridal gauntlets",
+      "zh": "黑色新娘手套",
+      "rating": "g",
+      "count": 9433,
+      "desc": "黑色的新娘长手套。",
+      "kw": "黑色新娘长手套 / 黑色婚纱手套 / 黑新娘手套 / 黑色婚礼手套 / 手套 / 婚纱"
+    },
+    {
+      "en": "black gauntlets",
+      "zh": "黑色长手套",
+      "rating": "g",
+      "count": 543,
+      "desc": "护住手掌与小臂的黑色长手套",
+      "kw": "黑长手套 / 黑色护臂手套 / 黑色臂铠手套 / 黑色防护手套 / 黑色露指长手套 / 黑色战斗手套 / 黑色护手 / 黑色护腕"
+    },
+    {
+      "en": "black mittens",
+      "zh": "黑色连指手套",
+      "rating": "g",
+      "count": 572,
+      "desc": "黑色的连指手套（仅拇指分离）",
+      "kw": "黑色手套 / 黑连指手套 / 黑不分指手套 / 黑色拳套 / 黑色并指手套 / 手套 / 配饰"
+    },
+    {
+      "en": "black nails",
+      "zh": "黑色指甲",
+      "rating": "g",
+      "count": 126157,
+      "desc": "涂成黑色的指甲。",
+      "kw": "黑指甲 / 黑色指甲油 / 黑美甲 / 黑色甲油 / 黑指甲色 / 指甲 / black fingernails"
+    },
+    {
+      "en": "black wrist cuffs",
+      "zh": "黑色腕袖",
+      "rating": "g",
+      "count": 4235,
+      "desc": "黑色的腕部袖套。",
+      "kw": "黑色手腕袖 / 黑色腕套 / 黑色腕口 / 黑色手袖 / 黑色袖口 / 黑色护腕 / 护腕 / 配饰"
+    },
+    {
+      "en": "blue arm warmers",
+      "zh": "蓝色袖套",
+      "rating": "g",
+      "count": 820,
+      "desc": "覆盖小臂的蓝色袖套，不带手指",
+      "kw": "蓝色臂套 / 蓝色臂暖套 / 蓝色护臂 / 蓝色暖臂套 / 蓝色无指袖套 / 蓝色小臂套 / 配饰 / 护腕"
+    },
+    {
+      "en": "blue armband",
+      "zh": "蓝色臂章",
+      "rating": "g",
+      "count": 5473,
+      "desc": "蓝色的臂章，通常绑在手臂上作标识",
+      "kw": "蓝色臂带 / 蓝臂章 / 蓝色袖章 / 蓝袖章 / 蓝色臂环 / 蓝臂带 / 蓝色袖标 / 臂章"
+    },
+    {
+      "en": "blue bridal gauntlets",
+      "zh": "蓝色婚纱长手套",
+      "rating": "g",
+      "count": 510,
+      "desc": "蓝色的婚纱长手套，以指环固定",
+      "kw": "蓝色新娘长手套 / 蓝色婚礼长手套 / 蓝色婚纱手套 / 蓝色新娘手套 / 莉莉丝手套 / 婚礼手套"
+    },
+    {
+      "en": "blue mittens",
+      "zh": "蓝色连指手套",
+      "rating": "g",
+      "count": 1129,
+      "desc": "蓝色、仅拇指分开的连指手套",
+      "kw": "蓝色并指手套 / 蓝色不分指手套 / 蓝色手闷子 / 蓝连指手套 / 蓝色四指手套 / 蓝色二指手套 / 手套 / 冬季服饰"
+    },
+    {
+      "en": "blue nails",
+      "zh": "蓝色指甲",
+      "rating": "g",
+      "count": 78053,
+      "desc": "涂成蓝色的手指甲或脚趾甲",
+      "kw": "蓝色美甲 / 蓝指甲 / 蓝色手指甲 / 蓝色脚趾甲 / 蓝甲 / 美甲 / blue fingernails"
+    },
+    {
+      "en": "blue wrist cuffs",
+      "zh": "蓝色腕套",
+      "rating": "g",
+      "count": 2453,
+      "desc": "手腕处的蓝色袖口腕套",
+      "kw": "蓝色袖口 / 蓝色护腕 / 蓝色手腕套 / 蓝腕套 / 蓝色腕饰 / 腕带 / 配饰 / 手部饰品"
+    },
+    {
+      "en": "brown mittens",
+      "zh": "棕色连指手套",
+      "rating": "g",
+      "count": 1494,
+      "desc": "棕色的连指手套",
+      "kw": "棕色闷子手套 / 棕色不分指手套 / 棕色棉手套 / 手套 / 棕色"
+    },
+    {
+      "en": "brown nails",
+      "zh": "棕色指甲",
+      "rating": "g",
+      "count": 2413,
+      "desc": "指甲涂成棕色，包括手指甲和脚趾甲。",
+      "kw": "棕色美甲 / 棕色指甲油 / 棕指甲 / 咖啡色指甲 / 深棕色指甲 / 棕色趾甲 / 棕色甲油 / 美甲 / brown fingernails"
+    },
+    {
+      "en": "chain bracelet",
+      "zh": "链条手链",
+      "rating": "g",
+      "count": 771,
+      "desc": "由金属链环组成的手链",
+      "kw": "链式手链 / 金属链手链 / 链环手链 / 链子手链 / 手链 / 首饰"
+    },
+    {
+      "en": "clawed gauntlets",
+      "zh": "带爪护手",
+      "rating": "g",
+      "count": 3567,
+      "desc": "指尖带假爪的手部护具",
+      "kw": "爪手套 / 爪护手 / 利爪手套 / 爪甲护手 / 带爪手套 / 爪形手套 / 利爪护手 / 护手"
+    },
+    {
+      "en": "cow print sleeves",
+      "zh": "奶牛纹袖套",
+      "rating": "g",
+      "count": 670,
+      "desc": "带奶牛斑纹的独立袖套",
+      "kw": "奶牛斑纹袖套 / 奶牛纹袖管 / 奶牛纹袖子 / 牛纹袖 / 动物图案 / 袖子"
+    },
+    {
+      "en": "fake claws",
+      "zh": "假爪",
+      "rating": "g",
+      "count": 5272,
+      "desc": "模仿真爪外观的装饰性假爪",
+      "kw": "假爪子 / 假指甲 / 假爪套 / 装饰爪 / 人造爪 / 道具 / 爪子"
+    },
+    {
+      "en": "floral print sleeves",
+      "zh": "花卉印花袖子",
+      "rating": "g",
+      "count": 672,
+      "desc": "带花卉印花的袖子",
+      "kw": "碎花袖子 / 花袖子 / 印花袖子 / 花图案袖子 / 袖子 / 服装"
+    },
+    {
+      "en": "flower bracelet",
+      "zh": "花手镯",
+      "rating": "g",
+      "count": 2005,
+      "desc": "带花朵装饰的手镯或手链",
+      "kw": "花朵手镯 / 花手链 / 花朵手链 / 带花手镯 / 花饰手镯 / 花卉手镯 / 花环手镯 / 手链"
+    },
+    {
+      "en": "flower-trimmed sleeves",
+      "zh": "花朵饰边袖子",
+      "rating": "g",
+      "count": 1408,
+      "desc": "袖口带花朵饰边的袖子",
+      "kw": "花朵滚边袖 / 花饰边袖 / 带花边的袖子 / 花朵镶边袖 / 袖口花边 / 花边袖口 / 碎花袖边 / 花边袖"
+    },
+    {
+      "en": "frilled arm warmers",
+      "zh": "荷叶边袖套",
+      "rating": "g",
+      "count": 722,
+      "desc": "末端带荷叶边的袖套",
+      "kw": "荷叶边臂套 / 褶边袖套 / 花边袖套 / 荷叶边袖筒 / 荷叶边护臂 / 袖套 / 配饰"
+    },
+    {
+      "en": "frilled armband",
+      "zh": "荷叶边臂章",
+      "rating": "g",
+      "count": 2114,
+      "desc": "带荷叶边的臂章",
+      "kw": "褶边臂章 / 花边臂章 / 褶皱臂章 / 荷叶边袖章 / 花边袖章 / 荷叶边臂环 / 蕾丝臂环 / 配饰"
+    },
+    {
+      "en": "frilled cuffs",
+      "zh": "荷叶边袖口",
+      "rating": "g",
+      "count": 4483,
+      "desc": "袖口带有荷叶边或褶皱装饰。",
+      "kw": "褶皱袖口 / 褶边袖口 / 花边袖口 / 荷叶袖口 / 飞边袖口 / 褶饰袖口 / 碎花边袖口 / 服装细节"
+    },
+    {
+      "en": "frilled wrist cuffs",
+      "zh": "荷叶边腕套",
+      "rating": "g",
+      "count": 8469,
+      "desc": "带荷叶边的装饰性腕套，常见于女仆装等服饰",
+      "kw": "荷叶边护腕 / 荷叶边手腕套 / 荷叶边袖口 / 蕾丝荷叶边腕饰 / 荷叶边手环 / 碎边护腕 / 护腕 / 手部饰品"
+    },
+    {
+      "en": "frilled wristband",
+      "zh": "荷叶边腕带",
+      "rating": "g",
+      "count": 1809,
+      "desc": "带荷叶边的腕带",
+      "kw": "花边腕带 / 褶边腕带 / 荷叶边护腕 / 荷叶边手环 / 蕾丝边腕带 / 腕带 / 配饰"
+    },
+    {
+      "en": "fur cuffs",
+      "zh": "皮毛袖口",
+      "rating": "g",
+      "count": 1093,
+      "desc": "毛皮制成的腕套或脚踝套",
+      "kw": "毛皮袖口 / 皮草袖口 / 毛领袖口 / 毛绒袖口 / 兽毛袖口 / 毛皮腕套 / 服装 / 毛边"
+    },
+    {
+      "en": "fur sleeves",
+      "zh": "毛皮袖套",
+      "rating": "g",
+      "count": 743,
+      "desc": "整体由毛皮制成的独立袖套。",
+      "kw": "皮草袖套 / 毛皮套袖 / 皮草袖 / 皮毛袖套 / 毛绒袖套 / 皮草臂套 / 毛皮袖子 / 袖子"
+    },
+    {
+      "en": "fur wrist cuffs",
+      "zh": "毛皮腕套",
+      "rating": "g",
+      "count": 1019,
+      "desc": "毛皮制成的腕套",
+      "kw": "毛皮护腕 / 毛皮手环 / 毛茸茸腕套 / 皮草腕套 / 毛皮手腕套 / 毛皮腕饰 / 皮草腕扣 / 腕扣"
+    },
+    {
+      "en": "fur-trimmed mittens",
+      "zh": "毛皮镶边连指手套",
+      "rating": "g",
+      "count": 545,
+      "desc": "袖口或边缘有毛皮镶边的连指手套。",
+      "kw": "毛边连指手套 / 毛绒边手套 / 皮草镶边手套 / 毛口连指手套 / 毛饰连指手套 / 毛皮装饰连指手套 / 手套 / 冬季服饰"
+    },
+    {
+      "en": "gloved sleeves",
+      "zh": "手套袖",
+      "rating": "g",
+      "count": 3257,
+      "desc": "袖子延伸包住手部，类似手套",
+      "kw": "连指袖 / 袖套式手套 / 包手袖 / 袖手套 / 袖套 / 服装"
+    },
+    {
+      "en": "gloves over sleeves",
+      "zh": "手套套在袖子外",
+      "rating": "g",
+      "count": 834,
+      "desc": "手套覆盖在袖口外侧",
+      "kw": "手套戴在袖外 / 袖外手套 / 手套外戴 / 手套穿搭 / 袖子搭配 / 服装细节"
+    },
+    {
+      "en": "gold armlet",
+      "zh": "金臂环",
+      "rating": "g",
+      "count": 5264,
+      "desc": "黄金制成的臂环。",
+      "kw": "黄金臂环 / 金臂钏 / 金臂镯 / 金臂饰 / 金臂圈 / 首饰 / 臂环"
+    },
+    {
+      "en": "gold bangle",
+      "zh": "金手镯",
+      "rating": "g",
+      "count": 917,
+      "desc": "金色或金制的硬质手镯。",
+      "kw": "金色手镯 / 金镯子 / 金色镯子 / 金质手镯 / 金手环 / 金色手环 / 手镯 / 金饰"
+    },
+    {
+      "en": "gold bracelet",
+      "zh": "金手镯",
+      "rating": "g",
+      "count": 11798,
+      "desc": "黄金制成的手镯",
+      "kw": "黄金手镯 / 金手链 / 金镯子 / 黄金手链 / 金手环 / 纯金手镯 / 手镯 / 首饰"
+    },
+    {
+      "en": "gold bracer",
+      "zh": "金护腕",
+      "rating": "g",
+      "count": 1420,
+      "desc": "金色或黄金制成的护腕或护臂。",
+      "kw": "金色护腕 / 金护臂 / 黄金护腕 / 护腕 / 配饰 / 护臂"
+    },
+    {
+      "en": "gold gloves",
+      "zh": "金手套",
+      "rating": "g",
+      "count": 793,
+      "desc": "呈金色外观的手套",
+      "kw": "金色手套 / 黄金手套 / 黄手套 / 金丝手套 / 金属色手套 / 手套 / 配饰"
+    },
+    {
+      "en": "gold nails",
+      "zh": "金指甲",
+      "rating": "g",
+      "count": 719,
+      "desc": "涂有金色指甲油的指甲",
+      "kw": "金色指甲 / 金色美甲 / 黄金指甲油 / 金色指甲油 / 金甲 / 美甲 / 指甲油 / 装饰 / gold fingernails"
+    },
+    {
+      "en": "gold ring",
+      "zh": "金戒指",
+      "rating": "g",
+      "count": 5713,
+      "desc": "黄金制成或呈金色的戒指。",
+      "kw": "金指环 / 黄金戒指 / 金戒 / 金色戒指 / 戒指 / 首饰"
+    },
+    {
+      "en": "gradient gloves",
+      "zh": "渐变色手套",
+      "rating": "g",
+      "count": 613,
+      "desc": "带渐变色的手套",
+      "kw": "渐变手套 / 渐变长手套 / 渐变色手袜 / 手套 / 配饰"
+    },
+    {
+      "en": "gradient nails",
+      "zh": "渐变指甲",
+      "rating": "g",
+      "count": 1078,
+      "desc": "带渐变色的指甲。",
+      "kw": "渐变色指甲 / 指甲渐变 / 渐变美甲 / 渐变甲 / 渐层指甲 / 指甲渐变色 / 指甲 / 美甲 / gradient fingernails"
+    },
+    {
+      "en": "green armband",
+      "zh": "绿色臂章",
+      "rating": "g",
+      "count": 2559,
+      "desc": "戴在臂上、呈绿色的臂章",
+      "kw": "绿臂章 / 绿色袖章 / 绿色臂带 / 臂章 / 配饰"
+    },
+    {
+      "en": "green nails",
+      "zh": "绿色指甲",
+      "rating": "g",
+      "count": 23939,
+      "desc": "手指甲或脚趾甲涂成绿色。",
+      "kw": "绿指甲 / 绿色美甲 / 绿色甲油 / 绿甲 / 绿色指甲油 / 绿色脚趾甲 / 指甲 / 美甲 / green fingernails"
+    },
+    {
+      "en": "grey nails",
+      "zh": "灰色指甲",
+      "rating": "g",
+      "count": 3455,
+      "desc": "指甲呈灰色，可为甲油或天生。",
+      "kw": "灰色甲油 / 灰指甲油 / 灰色手指甲 / 灰指甲 / 灰色趾甲 / 灰色美甲 / 美甲 / grey fingernails"
+    },
+    {
+      "en": "hand wraps",
+      "zh": "护手绷带",
+      "rating": "g",
+      "count": 1731,
+      "desc": "缠绕在手上的绷带布条",
+      "kw": "手缠绷带 / 缠手带 / 拳击绑带 / 护手布 / 手部绷带 / 护具 / 运动 / handwraps"
+    },
+    {
+      "en": "igote",
+      "zh": "弓道护臂",
+      "rating": "g",
+      "count": 973,
+      "desc": "弓道中保护左臂和肩的护臂",
+      "kw": "射笼手 / 弓笼手 / 弓道护具 / 和弓护臂 / 弓道左臂护具 / 弓道肩臂护具 / 射籠手 / 弓箭手护具 / 射籠手 / 弓籠手"
+    },
+    {
+      "en": "inflatable armbands",
+      "zh": "充气臂圈",
+      "rating": "g",
+      "count": 568,
+      "desc": "套在上臂帮助初学者漂浮的充气臂圈",
+      "kw": "充气臂带 / 水袖 / 浮力臂圈 / 浮袖 / 游泳臂圈 / 充气臂套 / 浮水袖 / 充气浮力圈 / water wings (swim aid) / floaties / 腕浮き輪 / アームリング"
+    },
+    {
+      "en": "judgement armband (toaru)",
+      "zh": "风纪委员臂章（魔法禁书目录）",
+      "rating": "g",
+      "count": 885,
+      "desc": "《魔法禁书目录》风纪委员的绿条纹臂章",
+      "kw": "风纪委员臂章 / 风纪委臂章 / 风纪委员袖章 / 风纪委袖章 / 臂章 / 配饰"
+    },
+    {
+      "en": "lace sleeves",
+      "zh": "蕾丝袖子",
+      "rating": "g",
+      "count": 1634,
+      "desc": "用蕾丝制成的袖子。",
+      "kw": "蕾丝袖 / 花边袖子 / 蕾丝花边袖 / 镂空蕾丝袖 / 蕾丝花边袖子 / 蕾丝 / 袖子细节"
+    },
+    {
+      "en": "mega ring",
+      "zh": "超级环",
+      "rating": "g",
+      "count": 1082,
+      "desc": "宝可梦训练家触发超进化的手环道具。",
+      "kw": "超级手环 / 超进化手环 / Mega手环 / 百万进化环 / 钥石手环 / Mega环 / 宝可梦超级环 / 超进化环 / メガリング"
+    },
+    {
+      "en": "metal arm cuffs",
+      "zh": "金属臂环",
+      "rating": "g",
+      "count": 582,
+      "desc": "金属材质的臂环或臂部镣铐。",
+      "kw": "金属臂箍 / 金属上臂环 / 金属臂拷 / 金属臂铐 / 金属臂圈 / 臂环 / 配饰 / 金属饰品"
+    },
+    {
+      "en": "metal gloves",
+      "zh": "金属手套",
+      "rating": "g",
+      "count": 703,
+      "desc": "用金属制成、不属于护手或机械手的手套",
+      "kw": "金属制手套 / 铁手套 / 钢手套 / 金属质地手套 / 金属材质手套 / 金属制手甲 / 护具 / 盔甲"
+    },
+    {
+      "en": "metal wrist cuffs",
+      "zh": "金属腕套",
+      "rating": "g",
+      "count": 1286,
+      "desc": "金属制的腕部镣铐或护腕",
+      "kw": "金属腕环 / 金属护腕 / 金属腕铐 / 铁腕套 / 金属手环 / 护腕 / 金属护具"
+    },
+    {
+      "en": "middle ring",
+      "zh": "中指戒指",
+      "rating": "g",
+      "count": 4432,
+      "desc": "戴在中指上的戒指",
+      "kw": "中指戒 / 中指环 / 中指指环 / 鼻中隔环 / 鼻环 / 首饰 / 配饰"
+    },
+    {
+      "en": "mma gloves",
+      "zh": "MMA手套",
+      "rating": "g",
+      "count": 557,
+      "desc": "综合格斗用的露指手套，便于抓握对手",
+      "kw": "综合格斗手套 / 格斗手套 / 露指拳套 / 露指手套 / 综合格斗露指手套 / MMA拳套 / 拳击手套 / 运动装备 / grappling gloves"
+    },
+    {
+      "en": "multicolored nails",
+      "zh": "多彩指甲",
+      "rating": "g",
+      "count": 14127,
+      "desc": "指甲涂成多种颜色",
+      "kw": "多色指甲 / 彩色指甲 / 五颜六色指甲 / 指甲涂多种颜色 / 杂色指甲油 / 彩虹指甲 / 彩色甲油 / 多色美甲 / multicolored nail polish / multicolored fingernails / mismatched nail polish"
+    },
+    {
+      "en": "multiple bracelets",
+      "zh": "多个手镯",
+      "rating": "g",
+      "count": 6056,
+      "desc": "同一只手腕佩戴多个手镯",
+      "kw": "多手镯 / 多个手环 / 多只手镯 / 多手链 / 叠戴手镯 / 多层手镯 / 手镯多个 / 手镯"
+    },
+    {
+      "en": "multiple rings",
+      "zh": "多枚戒指",
+      "rating": "g",
+      "count": 22940,
+      "desc": "角色佩戴多枚戒指",
+      "kw": "多戒指 / 戴多个戒指 / 戒指叠戴 / 手上多枚戒指 / 多只戒指 / 多个戒指 / 戒指 / 首饰 / rings"
+    },
+    {
+      "en": "nagatekkou",
+      "zh": "长笼手",
+      "rating": "g",
+      "count": 937,
+      "desc": "覆盖双肩并延伸到手腕的日本长笼手",
+      "kw": "长手甲 / 日式长笼手 / 长筒笼手 / 日本笼手 / 长护臂 / 日本甲胄 / 臂甲 / 長手甲"
+    },
+    {
+      "en": "orange armband",
+      "zh": "橙色臂章",
+      "rating": "g",
+      "count": 711,
+      "desc": "佩戴在手臂上的橙色臂章。",
+      "kw": "橙色袖章 / 橙臂章 / 橘色臂章 / 橙色袖标 / 配饰 / 臂章"
+    },
+    {
+      "en": "orange nails",
+      "zh": "橙色指甲",
+      "rating": "g",
+      "count": 8991,
+      "desc": "涂成橙色的手指甲或脚趾甲",
+      "kw": "橙色手指甲 / 橙色脚趾甲 / 橙指甲 / 橘色指甲 / 橘色指甲油 / 指甲 / 美甲 / orange fingernails"
+    },
+    {
+      "en": "pearl bracelet",
+      "zh": "珍珠手链",
+      "rating": "g",
+      "count": 3410,
+      "desc": "由珍珠串成的手饰",
+      "kw": "珍珠手镯 / 珍珠串珠手链 / 珍珠手环 / 珍珠珠链 / 珍珠腕饰 / 珍珠链子 / 珍珠手串 / 手链"
+    },
+    {
+      "en": "pink arm warmers",
+      "zh": "粉色袖套",
+      "rating": "g",
+      "count": 2838,
+      "desc": "套在前臂的粉色袖套。",
+      "kw": "粉色手臂保暖套 / 粉色暖臂套 / 粉色臂套 / 粉色暖手袖 / 粉色袖筒 / 粉色针织袖套 / 粉色护臂 / 护腕"
+    },
+    {
+      "en": "pink armband",
+      "zh": "粉色臂章",
+      "rating": "g",
+      "count": 703,
+      "desc": "戴在手臂上的粉色臂章",
+      "kw": "粉红色臂章 / 粉色袖章 / 粉红袖章 / 粉红臂带 / 粉色袖标 / 粉红袖标 / 粉红色袖章 / 粉臂章"
+    },
+    {
+      "en": "pink mittens",
+      "zh": "粉色连指手套",
+      "rating": "g",
+      "count": 667,
+      "desc": "粉色的连指手套",
+      "kw": "粉红色连指手套 / 粉色手套 / 粉红色手套 / 粉色并指手套 / 手套 / 配饰"
+    },
+    {
+      "en": "pink nails",
+      "zh": "粉色指甲",
+      "rating": "g",
+      "count": 77226,
+      "desc": "粉色的手指甲或脚趾甲",
+      "kw": "粉指甲 / 粉色美甲 / 粉色手指甲 / 粉色脚趾甲 / 粉红指甲 / 粉红色指甲 / 指甲油 / 美甲 / pink fingernails / ピンクネイル"
+    },
+    {
+      "en": "pink wrist cuffs",
+      "zh": "粉色腕套",
+      "rating": "g",
+      "count": 3133,
+      "desc": "戴在手腕上的粉色环状袖口或护腕。",
+      "kw": "粉色护腕 / 粉红腕套 / 粉红护腕 / 粉色手腕套 / 配饰 / 手部"
+    },
+    {
+      "en": "pinky ring",
+      "zh": "小指戒指",
+      "rating": "g",
+      "count": 795,
+      "desc": "戴在小指上的戒指",
+      "kw": "尾戒 / 小指戒 / 尾指戒指 / 小拇指戒指 / 戴小指的戒指 / 首饰 / 戒指 / 配饰"
+    },
+    {
+      "en": "pleated sleeves",
+      "zh": "百褶袖",
+      "rating": "g",
+      "count": 1025,
+      "desc": "带褶裥的袖子，布面呈规则折痕",
+      "kw": "褶裥袖 / 褶皱袖 / 百褶袖子 / 压褶袖 / 袖子 / 服装细节"
+    },
+    {
+      "en": "purple arm warmers",
+      "zh": "紫色袖套",
+      "rating": "g",
+      "count": 1138,
+      "desc": "套在小臂上的紫色保暖袖套，不覆盖手掌",
+      "kw": "紫色臂套 / 紫色护臂 / 紫色暖臂套 / 紫袖套 / 紫色小臂套 / 紫色手臂套 / 袖套 / 手部护具"
+    },
+    {
+      "en": "purple armband",
+      "zh": "紫色臂章",
+      "rating": "g",
+      "count": 1343,
+      "desc": "戴在手臂上的紫色臂章或袖标",
+      "kw": "紫色袖标 / 紫色臂环 / 紫臂章 / 紫色臂带 / 紫色袖章 / 紫色臂箍 / 配饰 / 臂章"
+    },
+    {
+      "en": "purple bridal gauntlets",
+      "zh": "紫色婚纱长手套",
+      "rating": "g",
+      "count": 680,
+      "desc": "紫色的婚纱长手套",
+      "kw": "紫色新娘长手套 / 紫色婚礼长手套 / 紫色婚嫁手套 / 紫色婚纱手套 / 紫色新娘手套 / 婚纱手套 / 配饰 / 手套"
+    },
+    {
+      "en": "purple nails",
+      "zh": "紫色指甲",
+      "rating": "g",
+      "count": 44291,
+      "desc": "涂成紫色的指甲",
+      "kw": "紫指甲 / 紫色美甲 / 紫指甲油 / 紫色手指甲 / 紫色脚指甲 / 指甲油 / 美甲 / purple fingernails / lavender nails"
+    },
+    {
+      "en": "purple wrist cuffs",
+      "zh": "紫色腕套",
+      "rating": "g",
+      "count": 1041,
+      "desc": "戴在手腕上的紫色环状腕套",
+      "kw": "紫色手腕套 / 紫色护腕 / 紫色手环 / 紫色手腕护套 / 护腕 / 配饰"
+    },
+    {
+      "en": "red arm warmers",
+      "zh": "红色袖套",
+      "rating": "g",
+      "count": 502,
+      "desc": "红色的暖臂套（袖套）",
+      "kw": "红色暖臂套 / 红袖套 / 红臂套 / 红色手臂套 / 红色暖袖 / 红色臂套 / 服装 / 臂部护具"
+    },
+    {
+      "en": "red armband",
+      "zh": "红色臂章",
+      "rating": "g",
+      "count": 13159,
+      "desc": "红色的臂章，在政治语境中常与纳粹、共产主义相关。",
+      "kw": "红臂章 / 红色袖章 / 红袖章 / 红色臂带 / 红臂带 / 红色袖标 / 臂章 / 配饰"
+    },
+    {
+      "en": "red mittens",
+      "zh": "红色连指手套",
+      "rating": "g",
+      "count": 1970,
+      "desc": "红色的连指手套。",
+      "kw": "红手套 / 红色手套 / 红色并指手套 / 红连指手套 / 红色棉手套 / 红色保暖手套 / 手套 / 配饰"
+    },
+    {
+      "en": "red nails",
+      "zh": "红色指甲",
+      "rating": "g",
+      "count": 92455,
+      "desc": "手指甲或脚趾甲为红色",
+      "kw": "红指甲 / 红色美甲 / 红美甲 / 红色手指甲 / 红指甲油 / 红色脚指甲 / 美甲 / red fingernails"
+    },
+    {
+      "en": "red wrist cuffs",
+      "zh": "红色腕套",
+      "rating": "g",
+      "count": 2366,
+      "desc": "颜色为红色的腕部装饰袖套",
+      "kw": "红色护腕 / 红色腕带 / 红色手腕袖 / 红色袖口 / 红腕饰 / 红色手环袖口 / 护腕 / 配饰"
+    },
+    {
+      "en": "ring on every finger",
+      "zh": "十指戴满戒指",
+      "rating": "g",
+      "count": 586,
+      "desc": "双手每根手指都戴着戒指",
+      "kw": "每根手指戴戒指 / 十指戒指 / 满手戒指 / 双手戴满戒指 / 每指戒指 / 每个手指都戴戒指 / 首饰 / 戒指"
+    },
+    {
+      "en": "silver armlet",
+      "zh": "银臂环",
+      "rating": "g",
+      "count": 825,
+      "desc": "戴在上臂的银制环状饰品。",
+      "kw": "银臂镯 / 银色臂环 / 银制臂环 / 银臂钏 / 银上臂环 / 银制上臂环 / 首饰 / 臂环"
+    },
+    {
+      "en": "silver bracelet",
+      "zh": "银手链",
+      "rating": "g",
+      "count": 873,
+      "desc": "灰色或银色的手链",
+      "kw": "银色手链 / 银质手链 / 银手镯 / 银色手镯 / 手镯 / 银饰 / 首饰"
+    },
+    {
+      "en": "silver ring",
+      "zh": "银戒指",
+      "rating": "g",
+      "count": 534,
+      "desc": "银或银色材质制成的戒指",
+      "kw": "银戒 / 银色戒指 / 银制戒指 / 白银戒指 / 银质戒指 / 戒指 / 首饰 / 配饰"
+    },
+    {
+      "en": "single arm guard",
+      "zh": "单侧护臂",
+      "rating": "g",
+      "count": 792,
+      "desc": "只戴在一只手臂上的护臂",
+      "kw": "单只护臂 / 单臂护臂 / 单边护臂 / 单臂护手 / 单臂护具 / 护腕 / 装备 / 护具"
+    },
+    {
+      "en": "single arm warmer",
+      "zh": "单只暖臂套",
+      "rating": "g",
+      "count": 2384,
+      "desc": "只在一只手臂上戴的暖臂套",
+      "kw": "单臂暖臂套 / 单只臂套 / 单边暖臂套 / 单臂护臂 / 单个臂套 / 臂套 / 服装 / 配饰"
+    },
+    {
+      "en": "single bridal gauntlet",
+      "zh": "单只新娘手套",
+      "rating": "g",
+      "count": 2081,
+      "desc": "只在一只手臂上戴的新娘长手套",
+      "kw": "单边新娘手套 / 单只新娘长手套 / 单臂新娘手套 / 新娘单手套 / 单只婚纱手套 / 单边婚纱长手套 / 单侧新娘长手套 / 手套 / bridal gauntlet"
+    },
+    {
+      "en": "single half glove",
+      "zh": "单只半指手套",
+      "rating": "g",
+      "count": 1078,
+      "desc": "只在一只手上戴的短款半指手套。",
+      "kw": "单手半指手套 / 一只半指手套 / 单边半指手套 / 只戴一只半指手套 / 单只半截手套 / 单只露指手套 / 单只半手套 / 手套"
+    },
+    {
+      "en": "single sleeve past fingers",
+      "zh": "单侧过指袖",
+      "rating": "g",
+      "count": 971,
+      "desc": "一侧袖子长到覆盖超过手指的部分。",
+      "kw": "长袖 / 服装"
+    },
+    {
+      "en": "single sleeve past wrist",
+      "zh": "单边袖长过腕",
+      "rating": "g",
+      "count": 651,
+      "desc": "仅一侧袖子长度超过手腕。",
+      "kw": "服装 / 不对称袖 / 袖子"
+    },
+    {
+      "en": "single unworn glove",
+      "zh": "单只脱下手套",
+      "rating": "g",
+      "count": 769,
+      "desc": "画面中只见一只脱下的手套",
+      "kw": "单只脱下的手套 / 一只脱下手套 / 脱下一只手套 / 单只手套脱下 / 单只未戴手套 / 单只手套 / 手套脱落"
+    },
+    {
+      "en": "single vambrace",
+      "zh": "单侧护臂甲",
+      "rating": "g",
+      "count": 728,
+      "desc": "只戴在一只手臂上的护臂甲。",
+      "kw": "单臂护甲 / 单边护臂 / 只戴一只的护臂甲 / 单护臂 / 单侧护臂 / 护臂 / 盔甲"
+    },
+    {
+      "en": "single wide sleeve",
+      "zh": "单侧宽袖",
+      "rating": "g",
+      "count": 581,
+      "desc": "不对称衣袖中只有一侧是宽袖的设计",
+      "kw": "单边宽袖 / 宽袖单侧 / 单只宽袖 / 不对称宽袖 / 一边宽袖 / 单袖宽大 / 单边大袖 / 宽袖"
+    },
+    {
+      "en": "single wrist cuff",
+      "zh": "单只腕套",
+      "rating": "g",
+      "count": 3060,
+      "desc": "只戴在一只手腕上的腕套",
+      "kw": "单手腕套 / 单边腕套 / 单手袖口 / 单腕套 / 单手护腕 / 单手铐 / 手铐 / 束缚具 / single wristcuff"
+    },
+    {
+      "en": "sleeve belt",
+      "zh": "袖子束带",
+      "rating": "g",
+      "count": 529,
+      "desc": "用来束紧袖子末端的带子",
+      "kw": "袖口束带 / 袖带 / 束袖带 / 袖子绑带 / 服装 / 配饰"
+    },
+    {
+      "en": "sleeve garter",
+      "zh": "袖箍",
+      "rating": "g",
+      "count": 5460,
+      "desc": "套在袖子上固定袖子的臂带",
+      "kw": "袖带 / 袖子固定带 / 臂箍 / 袖口箍 / 衬衫袖箍 / 袖环 / 配饰"
+    },
+    {
+      "en": "sleeve rolled up",
+      "zh": "卷起袖子",
+      "rating": "g",
+      "count": 1061,
+      "desc": "把袖子卷起来",
+      "kw": "挽袖子 / 撸袖子 / 卷袖 / 挽袖 / 卷起衣袖 / 袖子 / 服装"
+    },
+    {
+      "en": "spiked armlet",
+      "zh": "尖刺臂环",
+      "rating": "g",
+      "count": 3830,
+      "desc": "外缘带尖刺的臂环。",
+      "kw": "尖刺臂带 / 带刺臂环 / 刺臂环 / 尖刺手环 / 棘刺臂环 / 尖刺臂箍 / 臂环 / 配饰"
+    },
+    {
+      "en": "spiked gauntlets",
+      "zh": "尖刺护手",
+      "rating": "g",
+      "count": 875,
+      "desc": "表面带尖刺的护手",
+      "kw": "尖刺手套 / 尖刺手甲 / 带刺护手 / 钉刺护手 / 刺护手 / 尖刺护腕 / 护腕 / 武器"
+    },
+    {
+      "en": "striped arm warmers",
+      "zh": "条纹臂套",
+      "rating": "g",
+      "count": 4442,
+      "desc": "带条纹图案的臂套",
+      "kw": "条纹袖套 / 条纹护臂 / 条纹袖筒 / 条纹手袖 / 条纹暖臂 / 臂套 / 配饰"
+    },
+    {
+      "en": "striped armband",
+      "zh": "条纹臂章",
+      "rating": "g",
+      "count": 1002,
+      "desc": "带条纹图案的臂章",
+      "kw": "条纹袖章 / 条纹臂带 / 横纹臂章 / 臂章 / 配饰"
+    },
+    {
+      "en": "studded bracelet",
+      "zh": "铆钉手镯",
+      "rating": "g",
+      "count": 2116,
+      "desc": "镶嵌金属铆钉的手镯",
+      "kw": "钉饰手镯 / 钉子手镯 / 铆钉手环 / 铆钉腕饰 / 手镯 / 配饰 / 首饰"
+    },
+    {
+      "en": "studded gloves",
+      "zh": "铆钉手套",
+      "rating": "g",
+      "count": 970,
+      "desc": "指节或手背镶有金属铆钉的手套",
+      "kw": "钉饰手套 / 尖钉手套 / 金属钉手套 / 铆钉装饰手套 / 钉刺手套 / 手套 / 朋克风"
+    },
+    {
+      "en": "thumb ring",
+      "zh": "拇指戒指",
+      "rating": "g",
+      "count": 4517,
+      "desc": "戴在拇指上的戒指。",
+      "kw": "拇指指环 / 大拇指戒指 / 大指环 / 拇指环 / 扳指 / 拇指戒 / 戒指 / 首饰"
+    },
+    {
+      "en": "torn sleeve",
+      "zh": "撕裂的袖子",
+      "rating": "g",
+      "count": 721,
+      "desc": "只有一只袖子被撕破。",
+      "kw": "破袖子 / 撕裂袖子 / 袖子破了 / 烂袖子 / 单只袖子撕裂 / 撕破的袖子 / 破损 / 服装"
+    },
+    {
+      "en": "two-sided gloves",
+      "zh": "掌面异色手套",
+      "rating": "g",
+      "count": 2273,
+      "desc": "掌面与手背颜色或花纹不同的手套",
+      "kw": "双面手套 / 正反异色手套 / 两面异色手套 / 掌背异色手套 / 手套 / 服装"
+    },
+    {
+      "en": "two-sided sleeves",
+      "zh": "双面袖子",
+      "rating": "g",
+      "count": 553,
+      "desc": "内外侧颜色或花纹不同的袖子",
+      "kw": "双色袖子 / 两面袖子 / 异色袖子 / 内外异色袖 / 双层袖 / 服装 / 袖子"
+    },
+    {
+      "en": "two-tone gloves",
+      "zh": "双色手套",
+      "rating": "g",
+      "count": 12535,
+      "desc": "由两种颜色构成的手套",
+      "kw": "两色调手套 / 两色手套 / 拼色手套 / 手套 / 配饰"
+    },
+    {
+      "en": "two-tone nails",
+      "zh": "双色美甲",
+      "rating": "g",
+      "count": 1045,
+      "desc": "涂成两种颜色的指甲",
+      "kw": "双色指甲 / 两色美甲 / 双色指甲油 / 两色指甲 / 双色甲油 / 美甲 / 指甲"
+    },
+    {
+      "en": "under-elbow gloves",
+      "zh": "肘下手套",
+      "rating": "g",
+      "count": 9538,
+      "desc": "覆盖大部分前臂但止于肘部以下的手套",
+      "kw": "前臂手套 / 小臂手套 / 过腕手套 / 半截手套 / 短手套 / 半臂手套"
+    },
+    {
+      "en": "vambraces",
+      "zh": "前臂甲",
+      "rating": "g",
+      "count": 24361,
+      "desc": "佩戴在前臂上的长护甲。",
+      "kw": "护臂 / 臂甲 / 小臂甲 / 前臂护甲 / 前臂铠 / 护具 / 铠甲 / vambrace / ヴァンブレイス"
+    },
+    {
+      "en": "vertical-striped gloves",
+      "zh": "竖条纹手套",
+      "rating": "g",
+      "count": 589,
+      "desc": "带竖条纹的手套",
+      "kw": "竖条手套 / 竖直条纹手套 / 竖纹手套 / 垂直条纹手套 / 手套 / 配饰"
+    },
+    {
+      "en": "vertical-striped sleeves",
+      "zh": "竖条纹袖子",
+      "rating": "g",
+      "count": 1994,
+      "desc": "带竖条纹的袖子。",
+      "kw": "竖纹袖子 / 纵条纹袖子 / 直条纹袖子 / 竖向条纹袖子 / 垂直条纹袖子 / 竖条袖子 / 竖线纹袖子 / 服装"
+    },
+    {
+      "en": "white arm warmers",
+      "zh": "白色袖套",
+      "rating": "g",
+      "count": 2526,
+      "desc": "白色的手臂保暖套",
+      "kw": "白色手臂套 / 白色臂套 / 白色暖臂套 / 白袖套 / 袖套 / 配饰"
+    },
+    {
+      "en": "white armband",
+      "zh": "白色臂章",
+      "rating": "g",
+      "count": 2432,
+      "desc": "佩戴在手臂上的白色臂章",
+      "kw": "白臂章 / 白色袖章 / 白袖章 / 白色臂带 / 白色袖标 / 臂带 / 配饰"
+    },
+    {
+      "en": "white bridal gauntlets",
+      "zh": "白色婚纱长手套",
+      "rating": "g",
+      "count": 2936,
+      "desc": "白色婚纱长手套。",
+      "kw": "白色婚纱手套 / 白色新娘长手套 / 白色长婚纱手套 / 白色婚礼长手套 / 白色新娘手套 / 婚纱手套 / 配饰"
+    },
+    {
+      "en": "white mittens",
+      "zh": "白色连指手套",
+      "rating": "g",
+      "count": 2305,
+      "desc": "白色的连指手套",
+      "kw": "白色两指手套 / 白色巴掌手套 / 白色并指手套 / 白色四指连指手套 / 白色棉手套 / 手套 / 配饰 / 冬季服饰"
+    },
+    {
+      "en": "white nails",
+      "zh": "白色指甲",
+      "rating": "g",
+      "count": 6613,
+      "desc": "白色手指甲或脚趾甲，可能涂白指甲油。",
+      "kw": "白色指甲油 / 白指甲 / 白色甲色 / 白色美甲 / 白色手指甲 / 白色脚趾甲 / 美甲 / 指甲油 / white fingernails"
+    },
+    {
+      "en": "white wrist cuffs",
+      "zh": "白色袖口",
+      "rating": "g",
+      "count": 29937,
+      "desc": "白色袖口或独立腕套。",
+      "kw": "白色腕套 / 白袖口 / 白色手腕套 / 白色袖扣 / 袖口 / 配饰 / 服装"
+    },
+    {
+      "en": "wrist belt",
+      "zh": "手腕皮带",
+      "rating": "g",
+      "count": 1658,
+      "desc": "当作手链戴在手腕上的皮带",
+      "kw": "手链皮带 / 皮带手环 / 手腕带 / 皮带手链 / 腕带皮带 / 腕部皮带环 / 皮带腕饰 / 腕带 / belt bracelet"
+    },
+    {
+      "en": "wrist bow",
+      "zh": "手腕蝴蝶结",
+      "rating": "g",
+      "count": 3987,
+      "desc": "直接系在手腕上的蝴蝶结",
+      "kw": "手腕结 / 腕部蝴蝶结 / 手环蝴蝶结 / 腕带蝴蝶结 / 手腕缎带结 / 腕上蝴蝶结 / 配饰 / 蝴蝶结"
+    },
+    {
+      "en": "wrist guards",
+      "zh": "护腕",
+      "rating": "g",
+      "count": 3915,
+      "desc": "运动或战斗时保护腕部的护具",
+      "kw": "腕部护具 / 护腕带 / 手腕护具 / 护腕套 / 运动护腕 / 战斗护腕 / 腕带护具 / 护具 / リストガード"
+    },
+    {
+      "en": "wrist ribbon",
+      "zh": "手腕丝带",
+      "rating": "g",
+      "count": 8338,
+      "desc": "系在手腕上的丝带",
+      "kw": "手腕缎带 / 腕部丝带 / 手腕蝴蝶结 / 腕带丝带 / 手腕绑带 / 丝带 / 配饰"
+    },
+    {
+      "en": "wrist straps",
+      "zh": "腕部束带",
+      "rating": "g",
+      "count": 882,
+      "desc": "绕在手腕上的束带",
+      "kw": "腕带 / 护腕带 / 手腕束带 / 手腕绑带 / 腕部绑带 / 腕套 / 配饰 / 护腕"
+    },
+    {
+      "en": "wrist wrap",
+      "zh": "布制护腕",
+      "rating": "g",
+      "count": 2169,
+      "desc": "缠绕手腕的布条或绷带，不覆盖手部和整个前臂。",
+      "kw": "手腕绷带 / 手腕布条 / 缠腕 / 护腕布 / 缠手带 / 护腕 / 配饰 / wrist wraps"
+    },
+    {
+      "en": "yellow armband",
+      "zh": "黄色臂章",
+      "rating": "g",
+      "count": 3612,
+      "desc": "戴在手臂上的黄色臂章。",
+      "kw": "黄色袖章 / 黄臂章 / 黄袖章 / 黄色臂带 / 黄色袖标 / 手臂饰品"
+    },
+    {
+      "en": "yellow nails",
+      "zh": "黄色指甲",
+      "rating": "g",
+      "count": 15967,
+      "desc": "涂成黄色的指甲或趾甲",
+      "kw": "黄指甲 / 黄色美甲 / 黄甲 / 美甲 / 指甲油 / yellow fingernails"
+    },
+    {
+      "en": "z-ring",
+      "zh": "Z手环",
+      "rating": "g",
+      "count": 1090,
+      "desc": "《宝可梦》中汇聚Z力量、发动Z招式的手环。",
+      "kw": "Z环 / Z力量手环 / 宝可梦Z手环 / Z手镯 / Z力手环 / 宝可梦道具 / 手环 / zリング"
+    }
+  ]
+}

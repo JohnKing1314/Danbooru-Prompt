@@ -1,0 +1,2758 @@
+{
+  "id": "style",
+  "name": "质量与风格",
+  "icon": "✨",
+  "parentId": "style_group",
+  "level": 2,
+  "order": 1,
+  "file": "style_group/style_group_style.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "masterpiece",
+      "zh": "杰作",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "best quality",
+      "zh": "最佳质量",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "score_9",
+      "zh": "评分九分",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "score_8_up",
+      "zh": "评分八分以上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "score_8",
+      "zh": "评分八分",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "score_7_up",
+      "zh": "评分七分以上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "score_7",
+      "zh": "评分七分",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "safe",
+      "zh": "安全级",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "nsfw",
+      "zh": "成人内容",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "year 2024",
+      "zh": "2024年时代",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "year 2025",
+      "zh": "2025年时代",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "highres",
+      "zh": "高分辨率",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8423932,
+      "desc": "宽至少1600像素或高至少1200像素的图",
+      "kw": "高清 / 高清图 / 高清晰度 / 高分辨率图 / 大图 / 高清分辨率 / 高解析度 / 高清画质 / hires / high res / high resolution"
+    },
+    {
+      "en": "absurdres",
+      "zh": "超高清",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3118776,
+      "desc": "宽至少3200或高至少2400像素的图",
+      "kw": "超高清晰度 / 超清 / 超高画质 / 超级分辨率 / 高清大图 / 超高分 / 超高像素 / insaneres / very high resolution"
+    },
+    {
+      "en": "very aesthetic",
+      "zh": "极具美感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "newest",
+      "zh": "最新版本",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sensitive",
+      "zh": "敏感级",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "explicit",
+      "zh": "露骨内容",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "anime coloring",
+      "zh": "动画上色",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60795,
+      "desc": "类似动画的硬边高光阴影上色风格",
+      "kw": "赛璐璐上色 / 赛璐璐风格 / 动画涂色 / 动漫上色 / 二次元上色 / 平涂 / 块面着色 / 硬边上色 / cel shading (2d) / 动画着色 / アニメ塗り / セル画"
+    },
+    {
+      "en": "flat color",
+      "zh": "平涂上色",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14317,
+      "desc": "用纯色块平涂、无阴影渐变的画法",
+      "kw": "平涂 / 平涂色彩 / 纯色填充 / 无阴影上色 / 平面色彩 / 平涂风格 / 纯色上色 / 平涂画法 / flat colors"
+    },
+    {
+      "en": "cel shading",
+      "zh": "赛璐璐阴影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "watercolor",
+      "zh": "水彩风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "oil painting",
+      "zh": "油画风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sketch",
+      "zh": "草稿素描",
+      "rating": "g",
+      "nsfw": false,
+      "count": 200946,
+      "desc": "线条粗糙、未细致完成的速写稿。",
+      "kw": "草稿 / 速写 / 线稿 / 粗稿 / 未完成稿 / 素描稿 / 初稿 / 素描 / rough sketch / rough"
+    },
+    {
+      "en": "lineart",
+      "zh": "线稿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17009,
+      "desc": "只有清晰线条、未上色未上阴影的画作，线条干净。",
+      "kw": "线画 / 线稿图 / 线条画 / 黑白线稿 / 纯线稿 / 线稿风格 / 线画稿 / 构图 / line art / 線画"
+    },
+    {
+      "en": "monochrome",
+      "zh": "单色画",
+      "rating": "g",
+      "nsfw": false,
+      "count": 876230,
+      "desc": "以单一颜色为主的图像，不限于黑白",
+      "kw": "单色调 / 单彩 / 单色系 / 单色图 / 颜色 / 单一色调 / monochromatic / monochome / monochorme / 黑白"
+    },
+    {
+      "en": "greyscale",
+      "zh": "灰度画",
+      "rating": "g",
+      "nsfw": false,
+      "count": 710300,
+      "desc": "仅由黑白灰组成的图像",
+      "kw": "黑白 / 灰度图 / 灰阶 / 黑白图 / 白黒 / 颜色 / grayscale / black and white / b&w / 白黑"
+    },
+    {
+      "en": "pixel art",
+      "zh": "像素画",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32582,
+      "desc": "以明显像素格和有限色板绘制的图像风格",
+      "kw": "像素图 / 像素风 / 像素艺术 / 点阵图 / 位图 / 像素绘 / 点图 / 构图 / sprite / pixel / pixelart / pixelartist"
+    },
+    {
+      "en": "chibi",
+      "zh": "Q版",
+      "rating": "g",
+      "nsfw": false,
+      "count": 392838,
+      "desc": "夸张头身比的Q版角色",
+      "kw": "Q版人物 / Q版角色 / Q版造型 / 大头Q版 / SD角色 / 二头身 / 迷你角色 / 卡通 / super deformed / ちびキャラ / ちび / デフォルメ"
+    },
+    {
+      "en": "4k",
+      "zh": "4K画质",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "8k",
+      "zh": "8K画质",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "detailed",
+      "zh": "细节丰富",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "intricate details",
+      "zh": "精细细节",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "official art",
+      "zh": "官方插图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 557804,
+      "desc": "由官方公司或原作者发布的艺术作品",
+      "kw": "官方绘 / 官方插画 / 官方绘制 / 官方美术 / 官方作品 / 公式图 / 官方图片 / 官方画作 / 仕事绘 / 公式 / 工作图 / 版権绘"
+    },
+    {
+      "en": "game cg",
+      "zh": "游戏CG",
+      "rating": "g",
+      "nsfw": false,
+      "count": 133414
+    },
+    {
+      "en": "promotional art",
+      "zh": "宣传海报",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16220,
+      "desc": "用于动画、漫画或同人活动宣传的官方图",
+      "kw": "官方宣传图 / 宣传绘 / 广告图 / 官方图 / official ad / 宣伝绘"
+    },
+    {
+      "en": "concept art",
+      "zh": "概念艺术",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8456,
+      "desc": "作品投入制作前传达设计构想的美术图",
+      "kw": "概念美术 / 概念设计 / 概念设定图 / 设定图 / 概念稿 / 概念插图"
+    },
+    {
+      "en": "illustration",
+      "zh": "插画",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "digital painting",
+      "zh": "数字绘画",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "traditional media",
+      "zh": "传统媒介",
+      "rating": "g",
+      "nsfw": false,
+      "count": 131090,
+      "desc": "使用铅笔、颜料等传统工具手绘的作品。",
+      "kw": "传统绘画 / 传统手绘 / 手绘 / 非数字绘画 / 纸上绘画 / 手绘作品 / 传统画作 / handdrawn / traditional art / traditionalart / 素描"
+    },
+    {
+      "en": "ink painting",
+      "zh": "水墨画",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gouache",
+      "zh": "水粉画",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "pastel colors",
+      "zh": "柔和色彩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4892,
+      "desc": "低对比高饱和的浅淡色系，如马卡龙色",
+      "kw": "粉彩色 / 马卡龙色 / 淡彩色 / 柔和色系 / 马卡龙色系 / 粉彩 / 淡色系 / 颜色 / pastel / パステルカラー / パステル"
+    },
+    {
+      "en": "vivid colors",
+      "zh": "鲜艳色彩",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "muted colors",
+      "zh": "低饱和色彩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9393,
+      "desc": "因混入灰色而饱和度极低的色彩",
+      "kw": "灰调色彩 / 低饱和度色 / 暗色系 / 灰暗色彩 / 雾霾色 / 低彩度色彩 / 柔和色彩 / 颜色 / muted color"
+    },
+    {
+      "en": "high contrast",
+      "zh": "高对比度",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4988,
+      "desc": "明暗对比强烈的画面",
+      "kw": "高对比 / 强对比 / 高反差 / 高对比画面 / 对比强烈 / 明暗对比强 / 构图 / 颜色"
+    },
+    {
+      "en": "low contrast",
+      "zh": "低对比度",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "saturated",
+      "zh": "高饱和度",
+      "rating": "g",
+      "nsfw": false,
+      "count": 730,
+      "desc": "画面颜色饱和度极高，可能令人刺眼",
+      "kw": "高饱和色彩 / 饱和度极高 / 高鲜艳度 / 过饱和 / 颜色 / 鲜艳色彩 / 饱和色"
+    },
+    {
+      "en": "desaturated",
+      "zh": "低饱和度",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "retro artstyle",
+      "zh": "复古画风",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25097,
+      "desc": "模仿过去年代风格的绘画风格",
+      "kw": "怀旧画风 / 老派画风 / 旧画风 / 古典画风 / 旧时代画风 / 上世纪末画风 / 老式画风 / 仿古画风 / oldschool / retro / 复古 / 怀旧"
+    },
+    {
+      "en": "1980s style",
+      "zh": "80年代风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "1990s style",
+      "zh": "90年代风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "2000s style",
+      "zh": "2000年代风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "vector art",
+      "zh": "矢量艺术",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62,
+      "desc": "由几何图形生成的矢量图像",
+      "kw": "矢量图形 / 向量图 / 矢量插画"
+    },
+    {
+      "en": "flat design",
+      "zh": "扁平设计",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "minimalist",
+      "zh": "极简主义",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "surreal",
+      "zh": "超现实风格",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6847,
+      "desc": "表现潜意识、充满梦幻般不合理组合的艺术风格。",
+      "kw": "超现实 / 梦幻 / 梦境 / 荒谬 / 非现实 / 潜意识艺术 / 艺术风格 / シュルレアリスム / シュール"
+    },
+    {
+      "en": "realism",
+      "zh": "写实风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "semi-realistic",
+      "zh": "半写实",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "stylized",
+      "zh": "风格化",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cartoon",
+      "zh": "卡通风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "comic style",
+      "zh": "漫画风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "manga style",
+      "zh": "日漫风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "doujinshi",
+      "zh": "同人志风格",
+      "rating": "g",
+      "nsfw": false,
+      "count": 146
+    },
+    {
+      "en": "light novel style",
+      "zh": "轻小说插画",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "visual novel style",
+      "zh": "视觉小说风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "webtoon",
+      "zh": "韩漫风格",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "ukiyo-e",
+      "zh": "浮世绘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 729,
+      "desc": "日本江户时代的木版画浮世绘风格",
+      "kw": "浮世绘风格 / 浮世绘风 / 日本浮世绘 / 木版画风格 / 浮世绘画风 / 江户浮世绘 / 日本风格 / 绘画 / ukiyoe / ukiyo e / 浮世絵風 / 浮世絵"
+    },
+    {
+      "en": "art nouveau",
+      "zh": "新艺术运动",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1994,
+      "desc": "19世纪末至20世纪初的新艺术运动风格，常以慕夏为代表",
+      "kw": "新艺术风格 / 新艺术派 / 慕夏风格 / 穆夏风格 / 阿尔丰斯·穆夏风格 / 新艺术主义 / 艺术风格 / mucha style / alphonse mucha (style) / アール・ヌーヴォー / アールヌーヴォー"
+    },
+    {
+      "en": "art deco",
+      "zh": "装饰艺术",
+      "rating": "g",
+      "nsfw": false,
+      "count": 101,
+      "desc": "1920-1940年代直线几何风格",
+      "kw": "艺术装饰 / 装饰艺术风格 / 艺术装饰风格 / 装饰风艺术 / 构图 / 视觉美学 / 艺术风格"
+    },
+    {
+      "en": "impressionism",
+      "zh": "印象派",
+      "rating": "g",
+      "nsfw": false,
+      "count": 515,
+      "desc": "以短促笔触、明亮色彩为特征的印象派画风",
+      "kw": "印象主义 / 印象画派 / 印象派画风 / 印象派风格 / 绘画风格 / 艺术风格 / 印象主義"
+    },
+    {
+      "en": "expressionism",
+      "zh": "表现主义",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "pop art",
+      "zh": "波普艺术",
+      "rating": "g",
+      "nsfw": false,
+      "count": 90,
+      "desc": "兴起于20世纪50年代、取材流行文化的艺术流派",
+      "kw": "流行艺术 / 波普风格 / 大众艺术 / 波普美术"
+    },
+    {
+      "en": "graffiti",
+      "zh": "涂鸦风格",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6067,
+      "desc": "在墙面或车辆上喷涂的涂鸦文字图案",
+      "kw": "街头涂鸦 / 墙绘 / 喷涂涂鸦 / 涂鸦文字 / 壁画 / 街头艺术 / 图案 / グラフィティ"
+    },
+    {
+      "en": "collage",
+      "zh": "拼贴风格",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5893,
+      "desc": "把多张图拼合在一张的画面",
+      "kw": "拼贴 / 拼图 / 集锦图 / 拼合图 / 多图拼贴 / 图片拼贴 / 拼贴作品 / 拼贴集 / コラージュ"
+    },
+    {
+      "en": "low poly",
+      "zh": "低多边形",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1289,
+      "desc": "多边形数量很少的3D建模风格。",
+      "kw": "低模 / 低面数 / 低面多边形 / 低精度模型 / 低多边形风格 / 复古3D / 早期3D / 游戏低模 / polygonal / lowpoly / ローポリ"
+    },
+    {
+      "en": "cg art",
+      "zh": "CG绘图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "painterly",
+      "zh": "绘画质感",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10833,
+      "desc": "模仿传统绘画质感的数码绘画",
+      "kw": "仿传统绘画 / 仿手绘 / 绘画风格 / 油画质感 / 水彩质感 / 笔触感 / 厚涂风 / 传统绘画风 / digital painting / digitalpainting / 厚涂（画风）"
+    },
+    {
+      "en": "clean lineart",
+      "zh": "干净线稿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "thick outlines",
+      "zh": "粗描边",
+      "rating": "g",
+      "nsfw": false,
+      "count": 674,
+      "desc": "角色或物品外轮廓线比常见更粗更重",
+      "kw": "粗线稿 / 重描边 / 加粗轮廓 / 粗轮廓 / 厚线稿 / 漫画风格"
+    },
+    {
+      "en": "no outline",
+      "zh": "无描边",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "screentone",
+      "zh": "网点纸效果",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "16-bit",
+      "zh": "16 位",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "35mm film",
+      "zh": "35mm 胶片",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "analog",
+      "zh": "胶片感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "architectural concept art",
+      "zh": "建筑概念图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cinematic",
+      "zh": "电影感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "claymation",
+      "zh": "黏土定格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "clean lines",
+      "zh": "干净线条",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cool colors",
+      "zh": "冷色调",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1724,
+      "desc": "以绿蓝青紫为主的冷色调画面",
+      "kw": "冷色系 / 寒色 / 冷色 / 冷色画面 / 颜色 / 蓝绿色紫色 / cool colored"
+    },
+    {
+      "en": "cute",
+      "zh": "可爱",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cyberpunk",
+      "zh": "赛博朋克",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4711,
+      "desc": "强调高科技低生活、充满电线与霓虹的科幻风格。",
+      "kw": "控制论朋克 / 数字朋克 / 电驭叛客 / 赛博格朋克 / 计算机朋克 / 网络朋克 / 赛博朋克风格 / 科幻 / サイバーパンク"
+    },
+    {
+      "en": "dithering",
+      "zh": "抖动渐变",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2425,
+      "desc": "用有限颜色像素交错模拟色彩过渡",
+      "kw": "递色 / 色彩抖动 / 仿色 / 抖动效果 / 像素混色 / 点阵 / 抖动处理 / 图像效果 / ディザ / ディザリング / 디더링 / 抖動"
+    },
+    {
+      "en": "elegant",
+      "zh": "优雅",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "epic",
+      "zh": "史诗感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "faded colors",
+      "zh": "褪色",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "fantasy",
+      "zh": "奇幻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21766,
+      "desc": "以魔法和超自然要素为核心的类型",
+      "kw": "幻想 / 玄幻 / 幻想风格 / 奇幻风 / 魔幻 / 幻想世界 / 科技 / 幻想的 / 萌宠 / ファンタジー / ファンタジー風景"
+    },
+    {
+      "en": "fashion editorial",
+      "zh": "时尚大片",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "figure",
+      "zh": "手办感",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5579,
+      "desc": "按角色制作的小比例雕像或实体手办",
+      "kw": "人偶 / 模型 / 雕像 / 手办模型 / 手版 / 公仔 / 玩偶 / 立体模型 / figurine / フィギュア / 手辦"
+    },
+    {
+      "en": "film noir",
+      "zh": "黑色电影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18
+    },
+    {
+      "en": "fresh",
+      "zh": "清新",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "geometric",
+      "zh": "几何感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "graphic design",
+      "zh": "平面设计",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "heroic",
+      "zh": "英雄感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ink wash painting",
+      "zh": "水墨画",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1110,
+      "desc": "用不同浓淡的黑墨绘成的中国画形式",
+      "kw": "水墨 / 墨绘 / 中国水墨画 / 水墨丹青 / 写意水墨 / 墨彩 / 中国风 / 绘画风格 / 帧水墨 / 水墨畫 / 墨絵 / 수묵화"
+    },
+    {
+      "en": "japanese style",
+      "zh": "和风",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "layered paper",
+      "zh": "层叠纸张",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "limited palette",
+      "zh": "有限色板",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27095,
+      "desc": "仅使用少量不同颜色进行上色的风格。",
+      "kw": "限定色板 / 有限色调 / 少色上色 / 限制色板 / 有限配色 / 少量颜色 / 颜色 / 简约配色 / restricted palette / カラーパレット"
+    },
+    {
+      "en": "matte",
+      "zh": "哑光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "moody",
+      "zh": "忧郁",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "moody atmosphere",
+      "zh": "氛围感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "nostalgic",
+      "zh": "怀旧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15
+    },
+    {
+      "en": "paper texture",
+      "zh": "纸张质感",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1377,
+      "desc": "画面呈现纸张的纹理质感",
+      "kw": "纸质纹理 / 纸纹理 / 纸质质感 / 纸张纹理 / 材质"
+    },
+    {
+      "en": "post-apocalyptic",
+      "zh": "末日废土",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "print design",
+      "zh": "印刷设计",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "punk",
+      "zh": "朋克",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2307,
+      "desc": "以破洞黑衣、大胆发型为特征的朋克风格",
+      "kw": "朋克风 / 朋克风格 / 庞克 / 朋克时尚 / 摇滚朋克 / 亚文化 / パンク / パンク・ファッション / パンクロック"
+    },
+    {
+      "en": "retro game",
+      "zh": "复古游戏",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rough",
+      "zh": "粗糙感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "science fiction",
+      "zh": "科幻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60956,
+      "desc": "以未来科技为背景的虚构作品类型",
+      "kw": "科学幻想 / 科幻题材 / 科幻作品 / 科幻类 / 未来科幻 / 科幻小说 / 科幻电影 / 科幻故事 / sci-fi / scifi / futuristic / sci fi"
+    },
+    {
+      "en": "serene",
+      "zh": "安详",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "soft edges",
+      "zh": "柔和边缘",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "stained glass",
+      "zh": "彩色玻璃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6250,
+      "desc": "教堂窗户常见的分格彩色玻璃",
+      "kw": "彩绘玻璃 / 教堂玻璃 / 彩窗 / 花窗玻璃 / 彩色玻璃窗 / 彩绘玻璃窗 / 窗户 / 哥特风 / ステンドグラス / ステンドグラス風"
+    },
+    {
+      "en": "steampunk",
+      "zh": "蒸汽朋克",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2128,
+      "desc": "以维多利亚时代蒸汽机械为背景的科幻风格。",
+      "kw": "蒸汽庞克 / 蒸气朋克 / 蒸汽科幻 / 风格 / 科幻 / 复古 / steam punk / スチームパンク"
+    },
+    {
+      "en": "storybook illustration",
+      "zh": "绘本插画",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sumi-e",
+      "zh": "墨绘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 265,
+      "desc": "只用黑墨与简练笔触的日本水墨画风",
+      "kw": "水墨画 / 日本墨绘 / 日本水墨风格 / 墨絵风格 / 中国风 / 绘画 / 传统艺术 / 墨絵"
+    },
+    {
+      "en": "traditional",
+      "zh": "传统",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "vintage",
+      "zh": "复古",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "visible brushstrokes",
+      "zh": "明显笔触",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wuxia",
+      "zh": "武侠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 64,
+      "desc": "描写古代武林侠客冒险故事的小说类型",
+      "kw": "武侠小说 / 武打小说 / 武林小说 / 江湖小说 / 武侠题材 / 武侠作品"
+    },
+    {
+      "en": "adventure",
+      "zh": "冒险",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "comforting",
+      "zh": "温馨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2465,
+      "desc": "安慰正在哭泣或痛苦的他人",
+      "kw": "安抚 / 宽慰 / 慰藉 / 安慰他人 / 安抚对方 / 动词 / 动名词 / consoling / 慰める"
+    },
+    {
+      "en": "confrontation",
+      "zh": "对峙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 833,
+      "desc": "敌对双方对峙，常持武器或相互对视。",
+      "kw": "对峙局面 / 剑拔弩张 / 针锋相对 / 对立 / 对持 / 相互对峙 / 敌对对峙 / 姿势 / 対峙"
+    },
+    {
+      "en": "daily life",
+      "zh": "日常",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "departure",
+      "zh": "离别",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "desolate",
+      "zh": "荒凉",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "energy",
+      "zh": "能量",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9842,
+      "desc": "画面中的能量效果",
+      "kw": "能量效果 / 气 / 法力 / 能量球 / 能量波 / 能量释放 / 能量爆发 / 能量特效"
+    },
+    {
+      "en": "intense",
+      "zh": "强烈",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "magic",
+      "zh": "魔法",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24009,
+      "desc": "角色正在使用魔法或画面出现魔法能量。",
+      "kw": "法术 / 魔导 / 咒文 / 魔术 / 魔力 / 魔法能量 / 施法 / 使用魔法 / まほう / 魔導 / 呪文 / マジック"
+    },
+    {
+      "en": "music",
+      "zh": "音乐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36,
+      "desc": "角色正在演奏乐器或唱歌的场景。",
+      "kw": "音乐符号 / 音符 / 元素"
+    },
+    {
+      "en": "mystery",
+      "zh": "神秘",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "peaceful",
+      "zh": "宁静",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "quiet",
+      "zh": "安静",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "romantic",
+      "zh": "浪漫",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tension",
+      "zh": "紧张",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cinematic film still",
+      "zh": "电影感剧照",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "film still",
+      "zh": "电影剧照",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "editorial photo",
+      "zh": "杂志大片",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "studio photo",
+      "zh": "棚拍照片",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "product photography",
+      "zh": "产品摄影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "teal and orange grade",
+      "zh": "青橙调色",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "desaturated palette",
+      "zh": "低饱和配色",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "pastel palette",
+      "zh": "粉彩色调",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "monochrome palette",
+      "zh": "单色调",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "high dynamic range",
+      "zh": "高动态范围",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "subtle vignette",
+      "zh": "轻微暗角",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dramatic contrast",
+      "zh": "强对比",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "anime key visual",
+      "zh": "动画主视觉",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "light novel cover",
+      "zh": "轻小说封面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "visual novel cg",
+      "zh": "视觉小说 CG",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45063,
+      "desc": "视觉小说中作为背景或事件展示的CG插画",
+      "kw": "视觉小说插画 / 视觉小说场景图 / Galgame CG / VN CG / 视觉小说事件图 / 游戏CG / 文字冒险游戏CG"
+    },
+    {
+      "en": "manga cover",
+      "zh": "漫画封面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3528,
+      "desc": "日本漫画的封面页，含真实与虚构封面。",
+      "kw": "日漫封面 / 漫画书封面 / 单行本封面 / 漫画封面页 / 封面 / 漫画 / tankoubon cover"
+    },
+    {
+      "en": "poster illustration",
+      "zh": "海报插画",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "flat vector illustration",
+      "zh": "扁平矢量插画",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "isometric illustration",
+      "zh": "等距插画",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "risograph print",
+      "zh": "孔版印刷质感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "screen print",
+      "zh": "丝网印刷质感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "linocut",
+      "zh": "木刻版画",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "woodblock print",
+      "zh": "木版画",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "stained glass style",
+      "zh": "彩窗风格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "papercraft",
+      "zh": "纸艺拼贴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41
+    },
+    {
+      "en": "diorama",
+      "zh": "微缩场景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1193,
+      "desc": "像被切开的缩微立体场景，常带有部分背景道具。",
+      "kw": "微缩模型 / 立体模型 / 场景模型 / 微缩景观 / 立体场景 / 缩微场景 / 迷你场景 / 模型场景 / ジオラマ"
+    },
+    {
+      "en": "miniature photography",
+      "zh": "微缩摄影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bold typography",
+      "zh": "粗体排版",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "elegant serif type",
+      "zh": "优雅衬线字",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "geometric sans-serif type",
+      "zh": "几何无衬线字",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "headline text",
+      "zh": "主标题文字",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "subheading text",
+      "zh": "副标题文字",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "body copy block",
+      "zh": "正文文字块",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "centered title",
+      "zh": "居中标题",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "left-aligned text",
+      "zh": "左对齐文字",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "right-aligned text",
+      "zh": "右对齐文字",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "text on poster",
+      "zh": "海报上的文字",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "magazine masthead",
+      "zh": "杂志刊头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "book cover title",
+      "zh": "书封标题",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "movie poster credits",
+      "zh": "电影海报演职员表",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "advertising copy",
+      "zh": "广告文案",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "product label",
+      "zh": "产品标签",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "logo mark",
+      "zh": "标识图形",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chinese calligraphy",
+      "zh": "中文书法",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "japanese calligraphy",
+      "zh": "日文书法",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "neon sign text",
+      "zh": "霓虹灯文字",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "handwritten notes",
+      "zh": "手写笔记",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chalkboard writing",
+      "zh": "黑板板书",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dense detail",
+      "zh": "密集细节",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "atmospheric perspective",
+      "zh": "空气透视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 379,
+      "desc": "利用对比与清晰度降低表现距离的透视法",
+      "kw": "大气透视 / 空气远近法 / 空间透视 / 雾气透视 / 绘画技法"
+    },
+    {
+      "en": "reflective surfaces",
+      "zh": "反射表面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "specular highlights",
+      "zh": "高光反射",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "matte finish",
+      "zh": "哑光质感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "glossy finish",
+      "zh": "亮面质感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "metallic sheen",
+      "zh": "金属光泽",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "glass refraction",
+      "zh": "玻璃折射",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "fabric folds",
+      "zh": "织物褶皱",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "promotional key art",
+      "zh": "宣传主视觉",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "brand poster",
+      "zh": "品牌海报",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "exhibition poster",
+      "zh": "展览海报",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "event banner",
+      "zh": "活动横幅",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "menu design",
+      "zh": "菜单设计",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "packaging design",
+      "zh": "包装设计",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "infographic layout",
+      "zh": "信息图版式",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "data visualization",
+      "zh": "数据可视化",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "title card",
+      "zh": "片名字卡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38
+    },
+    {
+      "en": "end credits",
+      "zh": "片尾字幕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "child's drawing",
+      "zh": "儿童画风",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2427,
+      "desc": "故意模仿儿童涂鸦风格的绘画。",
+      "kw": "儿童涂鸦 / 小孩画 / 儿童风格画 / 童稚画 / 儿童简笔画 / 幼儿涂鸦 / 儿童画作 / 画作 / child drawing / 小学生が描いてみた"
+    },
+    {
+      "en": "fine art parody",
+      "zh": "名画恶搞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4285,
+      "desc": "对真实美术作品的戏仿或恶搞",
+      "kw": "名画模仿 / 名画戏仿 / 名画还原 / 名画致敬 / 名画cos / 名画二创 / 艺术 / 模仿 / 名画オマージュ"
+    },
+    {
+      "en": "1930s (style)",
+      "zh": "1930年代风格",
+      "rating": "g",
+      "count": 125,
+      "desc": "1930年代流行的动画或漫画画风",
+      "kw": "30年代风格 / 1930年代画风 / 30年代画风 / 一九三零年代画风 / 复古卡通风格（1930年代） / 复古 / 30s"
+    },
+    {
+      "en": "1960s (style)",
+      "zh": "1960年代风格",
+      "rating": "g",
+      "count": 292,
+      "desc": "1960年代流行的动画漫画画风。",
+      "kw": "1960年代画风 / 60年代风格 / 六十年代风格 / 60年代画风 / 上世纪60年代风格 / 60年代复古画风 / 复古 / 时尚 / 60's / 60s"
+    },
+    {
+      "en": "1970s (style)",
+      "zh": "20世纪70年代(风格)",
+      "rating": "g",
+      "count": 1241,
+      "desc": "1970年代流行的动画或漫画画风",
+      "kw": "70年代风格 / 70年代画风 / 1970年代风格 / 七零年代风格 / 70s风格 / 复古70年代 / 1970年代 (风格) / 复古风格 / 70's / 70s"
+    },
+    {
+      "en": "1980s (style)",
+      "zh": "80年代画风",
+      "rating": "g",
+      "count": 7172,
+      "desc": "1980年代流行的动画或漫画画风。",
+      "kw": "1980年代画风 / 80年代风格 / 八十年代画风 / 80年代风 / 复古动画风 / 老动画画风 / 80年代动画风格 / 昭和动画风 / 80's / 80s / 1980s / 1980年代"
+    },
+    {
+      "en": "1990s (style)",
+      "zh": "90年代画风",
+      "rating": "g",
+      "count": 13470,
+      "desc": "1990年代流行的动画/漫画画风，非服装风格",
+      "kw": "90年代风格 / 1990年代风格 / 90年代动画风 / 90年代动漫风 / 90s画风 / 复古 / 时代风格 / 90's / 90s / 1990s / 90年代"
+    },
+    {
+      "en": "2000s (style)",
+      "zh": "2000年代风格",
+      "rating": "g",
+      "count": 21062,
+      "desc": "2000年代流行的动画漫画画风",
+      "kw": "2000年代画风 / 00年代风格 / 千禧年风格 / 古早画风 / 旧漫风格 / 2000年动画风格 / 两千年代风格 / 2000年代动漫风格 / 00s / 2000s / 2000s anime / 2000sanime"
+    },
+    {
+      "en": "3d",
+      "zh": "3D",
+      "rating": "g",
+      "count": 31106,
+      "desc": "用3D建模软件制作的图像",
+      "kw": "三维 / 三维图像 / 三维模型 / 三维渲染 / 立体图像 / 构图 / 绘画软件 / 3D渲染 / polygon / 3dcg / 3d art / 3d render"
+    },
+    {
+      "en": "abstract",
+      "zh": "抽象",
+      "rating": "g",
+      "count": 5639,
+      "desc": "以散乱色块或迷幻图案构成的抽象画面",
+      "kw": "抽象画 / 抽象风格 / 抽象图案 / 抽象艺术 / 抽象背景 / 非具象 / 构图 / 视觉美学 / アブストラクト"
+    },
+    {
+      "en": "acid graphics",
+      "zh": "酸性设计",
+      "rating": "g",
+      "count": 238,
+      "desc": "融合锐舞传单与赛博元素的酸性平面设计风格",
+      "kw": "酸性平面设计 / 酸性图形设计 / 酸性平面 / 酸性风格 / 酸性视觉 / 酸性图案设计 / 酸性美学 / 图形风格 / acidgrafix / acidgraphics / acidgraphix"
+    },
+    {
+      "en": "acrylic paint (medium)",
+      "zh": "丙烯画",
+      "rating": "g",
+      "count": 2998,
+      "desc": "用丙烯颜料绘制的作品。",
+      "kw": "丙烯颜料 / 丙烯媒介 / 丙烯绘画 / 丙烯画作 / 丙烯绘制 / 丙烯酸颜料 / 丙烯媒材 / 丙烯颜料画 / acrylic paint"
+    },
+    {
+      "en": "alphes (style)",
+      "zh": "Alphes画风",
+      "rating": "g",
+      "count": 16155,
+      "desc": "东方格斗作中光泽感强烈的 Alphes 画风",
+      "kw": "阿尔菲斯画风 / Alphes风格 / 阿尔菲斯风格 / Alphes涂法 / alphes风格 / 插画风格 / 艺术风格 / alphes塗り / 野生のalphes"
+    },
+    {
+      "en": "animatic",
+      "zh": "动态分镜",
+      "rating": "g",
+      "count": 108,
+      "desc": "动画制作中的简易动态分镜稿，用于预览节奏与演出。",
+      "kw": "动画分镜 / 动态故事板 / 简易动画预演 / 运动分镜 / 动画预演"
+    },
+    {
+      "en": "anime screenshot",
+      "zh": "动画截图",
+      "rating": "g",
+      "count": 15715,
+      "desc": "从动画或卡通中截取的静帧或动画片段",
+      "kw": "动画截屏 / 动漫截图 / 番剧截图 / 动画画面截图 / screencap / anime screencap"
+    },
+    {
+      "en": "animification",
+      "zh": "动漫化",
+      "rating": "g",
+      "count": 32814,
+      "desc": "将真人或非动漫角色画成日式动画风格",
+      "kw": "动画化 / 动画风格化 / 二次元化 / 日式画风化 / 卡通化 / 风格"
+    },
+    {
+      "en": "araki hirohiko (style)",
+      "zh": "荒木飞吕彦风格",
+      "rating": "g",
+      "count": 1634,
+      "desc": "荒木飞吕彦式画风，厚重华丽",
+      "kw": "荒木风 / 荒木画风 / JOJO画风 / 荒木飞吕彦画风 / 荒木飞吕彦 (画风) / 画风 / 乔乔风格 / 荒木飞吕彦 / 荒木飛呂彦 / 野生の荒木"
+    },
+    {
+      "en": "art shift",
+      "zh": "画风转变",
+      "rating": "g",
+      "count": 601,
+      "desc": "画面中画风突然切换",
+      "kw": "画风突变 / 画风切换 / 画风变化 / 风格转变 / 画风转换 / 风格变化 / 艺术效果"
+    },
+    {
+      "en": "ascii art",
+      "zh": "ASCII艺术",
+      "rating": "g",
+      "count": 299,
+      "desc": "用字符与符号拼成图像的ASCII艺术。",
+      "kw": "字符画 / 文字画 / 字符艺术 / 符号画 / ASCII绘图 / 文本艺术 / 键盘艺术 / 字符拼图 / ascii / アスキーアート"
+    },
+    {
+      "en": "ballpoint pen (medium)",
+      "zh": "圆珠笔",
+      "rating": "g",
+      "count": 1080,
+      "desc": "用圆珠笔绘制的作品媒介。",
+      "kw": "原子笔 / 圆珠笔画 / 圆珠笔绘制 / 油笔 / 圆珠笔绘画 / ballpoint pen"
+    },
+    {
+      "en": "bkub (style)",
+      "zh": "BKUB风格",
+      "rating": "g",
+      "count": 793,
+      "desc": "模仿bkub画风的作品",
+      "kw": "BKUB画风 / 大川bkub风 / BKUB式画风 / 布库布风格 / 大川bkub风格 / 画风 / 风格 / フミンバイン / ぶくぶ / 大川ぶくぶ / 野生のぶくぶ"
+    },
+    {
+      "en": "black outline",
+      "zh": "黑色描边",
+      "rating": "g",
+      "count": 2704,
+      "desc": "角色或物体外的黑色描边",
+      "kw": "黑色轮廓 / 黑描边 / 黑色外轮廓 / 黑色边线 / 黑线描边 / 黑色线条 / 黑色勾边 / 黑线"
+    },
+    {
+      "en": "blu-ray cover",
+      "zh": "蓝光碟封面",
+      "rating": "g",
+      "count": 628,
+      "desc": "模仿蓝光碟包装的封面图",
+      "kw": "蓝光封面 / BD封面 / 蓝光光盘封面 / 蓝光碟盒封面 / 蓝光盒封面 / 蓝光包装封面 / 封面 / 媒体"
+    },
+    {
+      "en": "blue outline",
+      "zh": "蓝色轮廓",
+      "rating": "g",
+      "count": 2499,
+      "desc": "角色或物体外缘的蓝色描边",
+      "kw": "蓝色描边 / 蓝描边 / 蓝色外轮廓 / 蓝色线稿 / 蓝色边缘 / 蓝边 / 蓝色勾边 / 描边"
+    },
+    {
+      "en": "box art",
+      "zh": "包装盒图案",
+      "rating": "g",
+      "count": 1285,
+      "desc": "商品包装盒上的图绘。",
+      "kw": "盒绘 / 商品盒图 / 盒子封面 / 包装盒面画 / 盒装图 / 盒装艺术 / 商品包装 / 封面艺术 / boxart / ボックスアート"
+    },
+    {
+      "en": "brush stroke",
+      "zh": "笔触",
+      "rating": "g",
+      "count": 619,
+      "desc": "画面中出现的笔刷痕迹",
+      "kw": "笔刷痕迹 / 笔痕 / 笔触痕迹 / 绘画笔触 / 画笔痕迹 / 绘画效果 / 艺术风格"
+    },
+    {
+      "en": "calendar (medium)",
+      "zh": "日历图",
+      "rating": "g",
+      "count": 3329,
+      "desc": "来自日历的图画作品，多为扫描。",
+      "kw": "日历插画 / 日历扫描 / 日历图片 / 日历（媒介） / 日历 (媒介) / 物品 / 家居 / カレンダー"
+    },
+    {
+      "en": "calligraphy brush (medium)",
+      "zh": "毛笔",
+      "rating": "g",
+      "count": 840,
+      "desc": "用毛笔书写的文字或绘制的作品",
+      "kw": "毛笔字 / 毛笔书写 / 毛笔绘画 / 毛笔画"
+    },
+    {
+      "en": "card (medium)",
+      "zh": "卡牌（媒介）",
+      "rating": "g",
+      "count": 35931,
+      "desc": "整幅作品画成卡片样式，或直接为卡片正面图像。",
+      "kw": "卡片媒介 / 卡片样式 / 卡面 / 卡牌图 / 卡片图 / 卡牌样式 / 卡片设计 / 卡片（媒介）"
+    },
+    {
+      "en": "cartoonized",
+      "zh": "卡通化",
+      "rating": "g",
+      "count": 1072,
+      "desc": "把非卡通角色画成西式卡通风格",
+      "kw": "卡通风格化 / 西式卡通化 / 欧美卡通化 / 卡通渲染 / 卡通变形 / 卡通风格"
+    },
+    {
+      "en": "cel rendering",
+      "zh": "三渲二",
+      "rating": "g",
+      "count": 565,
+      "desc": "3D画面模仿2D赛璐璐平涂的渲染",
+      "kw": "卡通渲染 / 赛璐璐渲染 / 三转二 / 2D渲染 / 动漫渲染 / 赛璐璐着色 / 动画渲染 / 赛璐珞渲染 / cel shading (3d) / トゥーンシェーディング"
+    },
+    {
+      "en": "chibikemo",
+      "zh": "Q版兽人",
+      "rating": "g",
+      "count": 3722,
+      "desc": "日本极小头身比的Q版兽人风格",
+      "kw": "小兽人 / 迷你兽人 / 可爱兽人 / Q版兽 / Q版兽耳娘 / Q版 / 兽耳娘"
+    },
+    {
+      "en": "color trace",
+      "zh": "彩色动画线稿",
+      "rating": "g",
+      "count": 1099,
+      "desc": "动画前期用彩色铅笔绘制的彩色线画",
+      "kw": "彩色线稿 / 动画彩色线稿 / 彩色铅笔线稿 / 色线稿 / 彩色原画线稿 / 彩色描边 / 颜色 / 彩色线条"
+    },
+    {
+      "en": "colored lineart",
+      "zh": "彩色线稿",
+      "rating": "g",
+      "count": 1141,
+      "desc": "线条明显不是黑色的彩色线稿。",
+      "kw": "彩色线条 / 彩色线画 / 彩色线绘 / 有色线稿 / 彩线稿 / 彩色描线 / 颜色 / 彩色描边"
+    },
+    {
+      "en": "colored pencil (medium)",
+      "zh": "彩铅画",
+      "rating": "g",
+      "count": 7722,
+      "desc": "用彩色铅笔绘制的作品媒介。",
+      "kw": "彩铅 / 彩色铅笔画 / 色铅笔 / 彩色铅笔 / 色铅笔绘 / 彩铅绘 / 彩色铅笔作品 / pencil crayon (medium) / coloured pencil (medium) / 色铅笔画"
+    },
+    {
+      "en": "colorized",
+      "zh": "上色",
+      "rating": "g",
+      "count": 9990,
+      "desc": "把原本单色的图重新上色的版本，常为他人改色",
+      "kw": "上色版 / 着色 / 彩色化 / 重上色 / 改上色 / 彩色化版本 / 着色版"
+    },
+    {
+      "en": "comic cover",
+      "zh": "美漫封面",
+      "rating": "g",
+      "count": 2497,
+      "desc": "欧美漫画或图像小说封面",
+      "kw": "欧美漫画封面 / 漫画封面 / 美式漫画封面 / 图画小说封面 / 美国漫画封面 / 封面 / 漫画"
+    },
+    {
+      "en": "cover",
+      "zh": "封面",
+      "rating": "g",
+      "count": 95161,
+      "desc": "真实或仿制的各类封面图",
+      "kw": "封面图 / 封面插图 / 封绘 / 封面插画 / 构图 / 封面艺术 / 书籍封面 / front cover"
+    },
+    {
+      "en": "cover image",
+      "zh": "封面图",
+      "rating": "g",
+      "count": 3797,
+      "desc": "用于干净的封面页面版本",
+      "kw": "封面 / 图像"
+    },
+    {
+      "en": "cover page",
+      "zh": "封面",
+      "rating": "g",
+      "count": 71524,
+      "desc": "印刷出版物的封面图，多为同人志、漫画、小说等。",
+      "kw": "封面页 / 封面图 / 书封 / 出版物封面 / 封面插画 / 封面绘画 / 表紙 / 构图 / book cover / 表纸 / 表纸绘 / 表紙"
+    },
+    {
+      "en": "crayon",
+      "zh": "蜡笔",
+      "rating": "g",
+      "count": 2248,
+      "desc": "用蜡笔绘制的作品或媒介",
+      "kw": "蜡笔画 / 蜡笔绘制 / 彩色蜡笔 / 油画棒 / 蜡笔涂鸦 / 文具 / 绘画工具 / 颜料 / crayons / クレヨン"
+    },
+    {
+      "en": "crayon drawing",
+      "zh": "蜡笔画",
+      "rating": "g",
+      "count": 586,
+      "desc": "用蜡笔绘制的图画。",
+      "kw": "蜡笔绘 / 蜡笔彩绘 / 蜡笔画作 / 蜡笔涂鸦 / 蜡笔画风 / 画风 / 儿童"
+    },
+    {
+      "en": "crosshatching",
+      "zh": "交叉排线",
+      "rating": "g",
+      "count": 1777,
+      "desc": "用交叉线条疏密表现明暗的排线技法",
+      "kw": "交叉阴影线 / 交叉线阴影 / 交叉影线 / 十字交叉线 / 网状阴影 / 交叉排线阴影 / 画风 / 技法 / クロスハッチング"
+    },
+    {
+      "en": "cubism",
+      "zh": "立体主义",
+      "rating": "g",
+      "count": 156,
+      "desc": "把对象拆解重组为几何块的立体主义画风",
+      "kw": "立体派 / 立体主义画风 / 立体主义风格 / 立方主义 / 立体派艺术 / 艺术风格 / 绘画风格"
+    },
+    {
+      "en": "cyber sigilism",
+      "zh": "赛博符印",
+      "rating": "g",
+      "count": 201,
+      "desc": "融合部落纹样与赛博末世感的黑色纹身/平面设计风格",
+      "kw": "赛博印记 / 网络符印 / 赛博符号 / 赛博记号 / 赛博图腾 / 赛博纹样 / 电子符印 / 网路符印 / cybersigilism / sigilism"
+    },
+    {
+      "en": "dakimakura (medium)",
+      "zh": "抱枕图",
+      "rating": "s",
+      "count": 28582,
+      "desc": "以等身抱枕图案形式投稿的插画",
+      "kw": "等身抱枕 / 抱枕插画 / 抱枕画 / 抱枕套图 / 等身抱枕图 / 抱枕 (载体) / 枕头 / dakimakura / 抱枕 / 抱き枕 / 抱きまくら"
+    },
+    {
+      "en": "deformed",
+      "zh": "Q版",
+      "rating": "g",
+      "count": 14138,
+      "desc": "有意简化比例、略带Q版感的画法",
+      "kw": "Q版画风 / SD头身 / 大头小身 / 变形 / 夸张比例 / 幼态体型 / Q版风格 / SD版"
+    },
+    {
+      "en": "dorfic",
+      "zh": "Dorfic风格",
+      "rating": "g",
+      "count": 636,
+      "desc": "以橙色为主的2000年代复古未来风格",
+      "kw": "Dorfic风 / 橙色复古未来风 / 2000年代复古未来风 / 多菲克 / 视觉美学 / 复古未来主义 / 橙色美学 / 未来主义"
+    },
+    {
+      "en": "doujin cover",
+      "zh": "同人本封面",
+      "rating": "g",
+      "count": 39689,
+      "desc": "同人志或画集的封面。",
+      "kw": "同人志封面 / 同人志表纸 / 同人封面 / 本子封面 / 同人画集封面 / 构图 / 同人 / 封面"
+    },
+    {
+      "en": "dvd cover",
+      "zh": "DVD封面",
+      "rating": "g",
+      "count": 1624,
+      "desc": "DVD影碟的封面或包装",
+      "kw": "DVD影碟封面 / DVD盒封面 / 影碟封面 / 封面 / 媒体"
+    },
+    {
+      "en": "fake cover",
+      "zh": "伪封面",
+      "rating": "g",
+      "count": 5177,
+      "desc": "模仿官方出版物制作的假封面",
+      "kw": "伪造封面 / 假封面 / 仿制封面 / 仿封面 / 假冒封面 / 自制封面 / 模仿封面 / 恶搞封面"
+    },
+    {
+      "en": "fake magazine cover",
+      "zh": "假杂志封面",
+      "rating": "g",
+      "count": 3350,
+      "desc": "模仿真实或虚构杂志封面的图",
+      "kw": "伪杂志封面 / 仿杂志封面 / 恶搞杂志封面 / 虚构杂志封面 / 杂志封面 / 封面设计 / 伪造"
+    },
+    {
+      "en": "fake photograph",
+      "zh": "假照片",
+      "rating": "g",
+      "count": 722,
+      "desc": "整张图被画成照片的样子",
+      "kw": "伪照片 / 仿照片 / 照片风格 / 照片质感 / 像照片的画 / 伪摄影 / 仿照照片 / 拟照片 / faux photograph"
+    },
+    {
+      "en": "fake screenshot",
+      "zh": "伪造截图",
+      "rating": "g",
+      "count": 15687,
+      "desc": "伪造的游戏、软件或影视界面截图",
+      "kw": "伪造游戏截图 / 伪造界面截图 / 仿截图 / 假截图 / 伪截图 / 仿游戏画面 / 模拟截图 / 网页伪造图 / fakeshot"
+    },
+    {
+      "en": "faux figurine",
+      "zh": "仿手办风格",
+      "rating": "g",
+      "count": 2584,
+      "desc": "角色立于小场景底座上、如同手办的画法。",
+      "kw": "伪手办 / 仿手办 / 手办化 / 角色地台风格 / 手办地台风格 / 微缩场景风格 / 仿模型风格 / 伪手办姿势 / 伪手办地台 / 角色地台 / ヴィネット"
+    },
+    {
+      "en": "faux retro artstyle",
+      "zh": "仿复古画风",
+      "rating": "g",
+      "count": 4373,
+      "desc": "在复古风格流行多年后刻意模仿当时画风",
+      "kw": "伪复古画风 / 仿古画风 / 模拟复古画风 / 复古风画风 / 复古风格 / 仿旧画风 / 复古向画风 / 复古 / retro"
+    },
+    {
+      "en": "faux traditional media",
+      "zh": "仿传统手绘",
+      "rating": "g",
+      "count": 5232,
+      "desc": "数字作品模仿传统手绘质感或媒介效果。",
+      "kw": "传统手绘风格 / 仿手绘 / 伪手绘 / 数码仿传统 / 仿传统媒介 / 模拟手绘 / 绘画风格 / 传统画风"
+    },
+    {
+      "en": "figure (medium)",
+      "zh": "手办",
+      "rating": "g",
+      "count": 2044,
+      "desc": "实体手办的实物照片",
+      "kw": "手办模型 / 实体手办 / 模型 / 公仔 / 人偶 / 手办摄影 / 手办实物 / 塑料小人"
+    },
+    {
+      "en": "flourish (design)",
+      "zh": "装饰花线",
+      "rating": "g",
+      "count": 253,
+      "desc": "2000年代流行的卷曲装饰性矢量线条",
+      "kw": "花饰线条 / 卷曲矢量花纹 / 花边装饰线 / 植物卷纹 / 花饰 (设计) / 装饰 / 图案"
+    },
+    {
+      "en": "frutiger aero",
+      "zh": "弗鲁提格·艾罗风格",
+      "rating": "g",
+      "count": 793,
+      "desc": "2000年代至2010年代初融合自然与科技的光泽视觉美学",
+      "kw": "弗鲁提格航空 / 自然科技风 / 光泽千禧风 / 流线光泽风 / Frutiger Aero / 设计风格 / 复古UI / frutiger / frutigeraero / frutigeraqua / frutigereco"
+    },
+    {
+      "en": "frutiger metro",
+      "zh": "弗鲁提格地铁风",
+      "rating": "g",
+      "count": 692,
+      "desc": "2000年代后期混合扁平极简与迷幻元素的视觉风格",
+      "kw": "果味地铁风 / 2000年代地铁视觉风 / 弗鲁提格·梅特罗风格 / 地铁视觉风 / 扁平极简迷幻混搭风 / Frutiger Metro (设计风格) / 设计风格 / 现代风 / frutiger / frutigermetro"
+    },
+    {
+      "en": "game model",
+      "zh": "游戏模型",
+      "rating": "g",
+      "count": 469,
+      "desc": "把角色画成其游戏内3D模型样子的作品",
+      "kw": "游戏建模 / 游戏内模型 / 3D模型风格 / 游戏模型风格 / 游戏画面模型"
+    },
+    {
+      "en": "glitch art",
+      "zh": "故障艺术",
+      "rating": "g",
+      "count": 780,
+      "desc": "有意利用数字故障效果创作的图像",
+      "kw": "失真艺术 / 数字故障艺术 / 花屏艺术 / 数字艺术 / 风格 / glitchart"
+    },
+    {
+      "en": "graphite (medium)",
+      "zh": "铅笔（画材）",
+      "rating": "g",
+      "count": 13760,
+      "desc": "使用铅笔或自动铅笔绘制的作品",
+      "kw": "铅笔绘 / 铅笔画材 / 石墨铅笔 / 自动铅笔绘 / 铅笔绘制 / 石墨画材 / graphite / pencil sketch / pencil (medium) / 铅笔画"
+    },
+    {
+      "en": "green outline",
+      "zh": "绿色轮廓",
+      "rating": "g",
+      "count": 1473,
+      "desc": "角色或物体的轮廓线为绿色。",
+      "kw": "绿色轮廓线 / 绿线描边 / 绿色描边 / 绿色线条 / 绿色边线 / 绿轮廓 / 轮廓线 / 特效"
+    },
+    {
+      "en": "grey outline",
+      "zh": "灰色轮廓线",
+      "rating": "g",
+      "count": 1192,
+      "desc": "轮廓线为灰色",
+      "kw": "灰线 / 灰色线条 / 灰色描边 / 灰色轮廓 / 线稿 / 描边"
+    },
+    {
+      "en": "grind fiction",
+      "zh": "街头青年美学",
+      "rating": "g",
+      "count": 104,
+      "desc": "融合街头涂鸦与Y2K元素的青年美学风格",
+      "kw": "街头美学 / 街头涂鸦Y2K美学 / 地下青年美学 / 街头先锋美学 / Grind Fiction风格 / 碾磨小说 / 视觉美学 / 千禧年城市朋克"
+    },
+    {
+      "en": "gurokawa",
+      "zh": "猎奇可爱",
+      "rating": "q",
+      "nsfw": true,
+      "count": 183,
+      "desc": "结合可爱与血腥元素的时尚风格",
+      "kw": "猎奇可爱风 / 血腥可爱 / 可爱猎奇 / 血腥可爱风 / 猎奇卡哇伊 / 血腥卡哇伊 / 猎奇萌 / 猎奇 / guro kawaii / gurokawaii"
+    },
+    {
+      "en": "hatching (texture)",
+      "zh": "排线（纹理）",
+      "rating": "g",
+      "count": 14770,
+      "desc": "用平行或交叉线条表现阴影的绘画技法。",
+      "kw": "排线 / 影线 / 线影 / 阴影线 / 交叉排线 / 斜线纹理 / 平行线阴影 / 排线纹理 / ハッチング"
+    },
+    {
+      "en": "heisei retro",
+      "zh": "平成复古",
+      "rating": "g",
+      "count": 1674,
+      "desc": "平成年代怀旧元素为主的复古风格",
+      "kw": "平成怀旧 / 平成年代复古 / 平成少女风 / 平成女児 / 平成女装 / 平成复古风 / 复古 / 日本风格 / heiseiretro / 平成レトロ / 女児服"
+    },
+    {
+      "en": "impasto",
+      "zh": "厚涂",
+      "rating": "g",
+      "count": 569,
+      "desc": "笔触或调色刀痕迹明显、颜料厚重的厚涂画法。",
+      "kw": "厚涂画法 / 厚堆 / 厚涂技法 / 厚涂风格 / 绘画风格 / 艺术技法 / 油画 / acrylicimpasto"
+    },
+    {
+      "en": "ink (medium)",
+      "zh": "墨水（绘画介质）",
+      "rating": "g",
+      "count": 974
+    },
+    {
+      "en": "ishikei (style)",
+      "zh": "石惠画风",
+      "rating": "g",
+      "count": 507,
+      "desc": "模仿日本成人漫画家石惠的画风。",
+      "kw": "石惠风格 / 石惠涂 / 石惠画法 / 石惠式画风 / 石惠画风模仿 / 石惠绘 / ishikei 风格 / 画师风格 / 石恵塗り"
+    },
+    {
+      "en": "jikkyou powerful pro yakyuu (style)",
+      "zh": "实况力量棒球风格",
+      "rating": "g",
+      "count": 787,
+      "desc": "模仿《实况力量棒球》Q版角色画风",
+      "kw": "实况野球风格 / 力量职棒风格 / 实况力量棒球Q版画风 / 实况棒球风格 / 实况力量棒球 / 画风 / 棒球风格 / power pros (style)"
+    },
+    {
+      "en": "key visual",
+      "zh": "主视觉图",
+      "rating": "g",
+      "count": 3511,
+      "desc": "动画官方发布的概念宣传主视觉图",
+      "kw": "主视觉 / 宣传视觉图 / 关键视觉图 / KV图 / 主宣传图 / 作品主视觉"
+    },
+    {
+      "en": "komatsuzaki rui (style)",
+      "zh": "小松崎类（风格）",
+      "rating": "g",
+      "count": 558,
+      "desc": "模仿小松崎类的画风",
+      "kw": "小松崎类画风 / 小松崎类风格 / 小松崎类仿风 / 弹丸论破画风 / 弹丸论破风格 / 弹丸论破仿画风 / 小松崎类 (风格) / 画风 / ダンガンロンパ風 / 妄想おしおき / オシオキ集 / それは違うよ!"
+    },
+    {
+      "en": "kubo tite (style)",
+      "zh": "久保带人画风",
+      "rating": "g",
+      "count": 742,
+      "desc": "模仿《死神》作者久保带人的绘画风格",
+      "kw": "久保带人风格 / 久保画风 / 久保风格 / 死神画风 / 死神风格 / 久保带人绘柄 / 久保带人画法 / 久保带人风格模仿 / kubo taito (style) / 久保帯人 / 野生の久保 / 野生の久保帯人"
+    },
+    {
+      "en": "ligne claire",
+      "zh": "清线画风",
+      "rating": "g",
+      "count": 1200,
+      "desc": "以清晰黑线轮廓和平涂色彩为特征的漫画风格",
+      "kw": "清晰线条 / 清晰线条画风 / 清线风格 / 利涅克莱尔 / 黑线平涂 / 粗轮廓画风 / 平涂画风 / 线条清晰画风 / リーニュクレール"
+    },
+    {
+      "en": "linear hatching",
+      "zh": "线性排线",
+      "rating": "g",
+      "count": 5010,
+      "desc": "用平行线排列的排线阴影技法",
+      "kw": "排线 / 平行线排线 / 线状排线 / 直线阴影 / 线条排线 / 线描 / line shading"
+    },
+    {
+      "en": "live2d",
+      "zh": "Live2D",
+      "rating": "g",
+      "count": 3761,
+      "desc": "用Live2D制作的2D动态立绘或动画",
+      "kw": "Live2D动画 / Live2D立绘 / 动态立绘"
+    },
+    {
+      "en": "looping animation",
+      "zh": "循环动画",
+      "rating": "g",
+      "count": 23780,
+      "desc": "首尾相接、无缝循环播放的动画。",
+      "kw": "无限循环动画 / 无缝循环动画 / 循环播放动画 / 循环动图 / 循环视频"
+    },
+    {
+      "en": "manlification",
+      "zh": "男子化",
+      "rating": "g",
+      "count": 536,
+      "desc": "将角色画成阳刚男性并配夸张肌肉的搞笑风格",
+      "kw": "男性化 / 猛男化 / 兄贵化 / 阳刚化 / 硬汉化 / 肌肉男化 / 男人化 / 性别转换"
+    },
+    {
+      "en": "marker (medium)",
+      "zh": "马克笔",
+      "rating": "g",
+      "count": 19028,
+      "desc": "使用马克笔（如Copic）作为绘画媒介",
+      "kw": "记号笔 / 油性笔 / 麦克笔 / 马克笔绘制 / 马克笔画作 / 马克笔手绘 / copics"
+    },
+    {
+      "en": "memphis design",
+      "zh": "孟菲斯风格",
+      "rating": "g",
+      "count": 417,
+      "desc": "20世纪80至90年代的一种平面设计潮流，由孟菲斯米兰/孟菲斯设计集团开创。常见元素包括带亮色漩涡、彩纸和飘带形状的网格背景，以及粗犷的几何图形。最常与商场和街机厅联系在一起。建筑设计常出现立柱、棋盘格瓷砖、油毡地板和霓虹灯招牌。",
+      "kw": "视觉美学 / 80年代设计 / 几何图案"
+    },
+    {
+      "en": "millipen (medium)",
+      "zh": "针管笔（媒介）",
+      "rating": "g",
+      "count": 2482,
+      "desc": "用针管笔绘制的作品",
+      "kw": "针管笔 / 针管笔绘制 / 针管笔作品 / 针管笔作画 / millipen"
+    },
+    {
+      "en": "minecraft (style)",
+      "zh": "我的世界风格",
+      "rating": "g",
+      "count": 643,
+      "desc": "以《我的世界》像素方块风格绘制的角色或场景",
+      "kw": "我的世界画风 / MC风格 / 像素方块风格 / 方块人风格 / 我的世界像素风 / 麦块风格 / 像素风 / 游戏风格"
+    },
+    {
+      "en": "minimalism",
+      "zh": "极简主义",
+      "rating": "g",
+      "count": 529,
+      "desc": "省略细节、常无面部与背景的极简画风",
+      "kw": "极简风格 / 极简画风 / 简约主义 / 极简艺术 / 极简派 / 艺术风格"
+    },
+    {
+      "en": "mixed media",
+      "zh": "综合媒介",
+      "rating": "g",
+      "count": 5559,
+      "desc": "同时使用传统与数字等多种媒介创作的作品。",
+      "kw": "混合媒介 / 综合材料 / 混合媒体 / 多种媒介 / 混合材料"
+    },
+    {
+      "en": "mosaic art",
+      "zh": "马赛克艺术",
+      "rating": "g",
+      "count": 131,
+      "desc": "使用小片材料拼成整体画面的艺术形式。",
+      "kw": "镶嵌画 / 马赛克拼贴 / 马赛克图案 / 镶嵌艺术 / 拼贴艺术 / 图案组成 / 块状图像"
+    },
+    {
+      "en": "mousepad (medium)",
+      "zh": "鼠标垫",
+      "rating": "s",
+      "count": 606,
+      "desc": "做成鼠标垫形状的图，护腕处常为角色身体部位",
+      "kw": "鼠标垫媒介 / 鼠标垫图案 / 立体鼠标垫 / 痛鼠标垫 / 护腕鼠标垫 / 鼠标垫（中型） / 周边 / 立体マウスパッド / マウスパッド"
+    },
+    {
+      "en": "movie poster (medium)",
+      "zh": "电影海报风格",
+      "rating": "g",
+      "count": 1493,
+      "desc": "整幅画模仿电影海报风格",
+      "kw": "电影海报风 / 电影海报构图 / 海报风格 / 电影海报式 / 电影海报 / 海报 / 宣传品"
+    },
+    {
+      "en": "mugshot",
+      "zh": "入狱照",
+      "rating": "g",
+      "count": 1037,
+      "desc": "警方为嫌犯拍摄的档案照片",
+      "kw": "入案照 / 入监照 / 警方档案照 / 嫌犯照 / 大头照 / 犯人照 / 警方照片 / 肖像 / mug shot / prison photo / criminal photo / マグショット"
+    },
+    {
+      "en": "nib pen (medium)",
+      "zh": "蘸水笔",
+      "rating": "g",
+      "count": 1565,
+      "desc": "使用蘸水笔绘制的作品，需反复蘸墨",
+      "kw": "沾水笔 / 蘸墨笔 / 蘸水钢笔 / 蘸水笔绘制 / nib pen / tsukepen / fountain pen (medium) / 万年笔"
+    },
+    {
+      "en": "nihonga",
+      "zh": "日本画",
+      "rating": "g",
+      "count": 1288,
+      "desc": "按日本传统技法创作的绘画风格。",
+      "kw": "日本绘画 / 日本传统绘画 / 和画 / 日本风格 / 和风"
+    },
+    {
+      "en": "no lineart",
+      "zh": "无勾线画",
+      "rating": "g",
+      "count": 5598,
+      "desc": "几乎没有勾线、以色块塑造形体的画",
+      "kw": "无勾线 / 无线条 / 无描线 / 无轮廓线 / 色块画 / 厚涂无描边 / 无勾线风格 / 无线稿 / no line-art / lineless"
+    },
+    {
+      "en": "novel cover",
+      "zh": "小说封面",
+      "rating": "g",
+      "count": 3107,
+      "desc": "小说的封面页，不含内部插图",
+      "kw": "轻小说封面 / 书封面 / 封面 / 小说封面页 / 书籍 / ライトノベル / ラノベ"
+    },
+    {
+      "en": "novel illustration",
+      "zh": "小说插图",
+      "rating": "g",
+      "count": 9587,
+      "desc": "轻小说等小说中的官方插图",
+      "kw": "轻小说插图 / 文库插图 / 小说插画 / 轻小说插画 / 官方小说插图 / 小说内页插图 / 挿绘"
+    },
+    {
+      "en": "oekaki",
+      "zh": "涂鸦",
+      "rating": "g",
+      "count": 28048,
+      "desc": "使用简易绘图工具画的线条粗糙涂鸦",
+      "kw": "画板涂鸦 / 在线涂鸦 / 鼠绘涂鸦 / 简易画 / 绘图板涂鸦 / 手绘 / 风格 / お絵描き / お絵かき掲示板 / 絵チャ / おえかきびより"
+    },
+    {
+      "en": "official style",
+      "zh": "官方风格",
+      "rating": "g",
+      "count": 15602,
+      "desc": "模仿该系列官方画风绘制的同人图",
+      "kw": "原作画风 / 原作风 / 官方画风 / 原作风格 / 原版画风 / 野生官方 / 官方风图 / 官方艺术 / 野生の公式 / 原作風"
+    },
+    {
+      "en": "oil painting (medium)",
+      "zh": "油画",
+      "rating": "g",
+      "count": 1884,
+      "desc": "用油彩绘制的传统油画作品",
+      "kw": "油画媒介 / 油彩画 / 油绘 / 油画作品 / oil painting / oilpainting / 油彩"
+    },
+    {
+      "en": "orange outline",
+      "zh": "橙色描边",
+      "rating": "g",
+      "count": 884,
+      "desc": "橙色的轮廓描边",
+      "kw": "橙色轮廓 / 橙色线稿 / 橙色描边线 / 橙色边线 / 橙色 / 描边"
+    },
+    {
+      "en": "outline",
+      "zh": "轮廓线",
+      "rating": "g",
+      "count": 95030,
+      "desc": "人物或物体被一圈轮廓线包裹以与背景区分",
+      "kw": "描边 / 勾边 / 外轮廓 / 白色描边 / 黑色描边 / 剪影 / 线框 / 轮廓 / outlines / outlined"
+    },
+    {
+      "en": "painting (medium)",
+      "zh": "绘画（媒介）",
+      "rating": "g",
+      "count": 32243,
+      "desc": "使用传统颜料（油画、水彩等）绘制的作品",
+      "kw": "绘画 / 手绘 / 油画 / 水彩画 / 水粉画 / 丙烯画 / 画作 / 传统绘画 / paint (medium) / canvas (medium)"
+    },
+    {
+      "en": "panty & stocking with garterbelt (style)",
+      "zh": "吊带袜天使画风",
+      "rating": "g",
+      "count": 661,
+      "desc": "模仿《吊带袜天使》的画风",
+      "kw": "吊带袜天使风格 / 吊带袜画风 / 吊带袜天使风 / 吊带袜天使 (风格) / 动画风格 / 日本动漫"
+    },
+    {
+      "en": "paper child",
+      "zh": "纸片角色",
+      "rating": "g",
+      "count": 283,
+      "desc": "把画或印在纸上的角色剪下后在实景中拍摄",
+      "kw": "纸片人 / 纸儿童 / 纸偶 / 剪贴角色 / 纸模型角色 / 二次元 / 角色 / paperchild / ペーパーチャイルド"
+    },
+    {
+      "en": "papercraft (medium)",
+      "zh": "纸艺",
+      "rating": "g",
+      "count": 605,
+      "desc": "以纸为材料的作品，如纸模、剪纸、折纸等",
+      "kw": "纸模 / 纸手工 / 折纸艺术 / 纸质模型 / 剪纸折纸"
+    },
+    {
+      "en": "partially colored",
+      "zh": "部分上色",
+      "rating": "g",
+      "count": 23250,
+      "desc": "画面只有部分上色，其余保持线稿或草图。",
+      "kw": "部分着色 / 局部上色 / 局部着色 / 部分彩色 / 半上色 / 艺术风格 / partially monochrome"
+    },
+    {
+      "en": "pastel (medium)",
+      "zh": "粉彩（媒介）",
+      "rating": "g",
+      "count": 751,
+      "desc": "用粉彩棒（粉状颜料加黏合剂）绘制的作品媒介。",
+      "kw": "色粉画 / 粉彩画 / 粉笔画 / 彩色粉笔 / 蜡笔 / 干粉彩 / 油粉彩 / 粉彩棒画 / oil pastel / oilpastel / oilpastels / pastel"
+    },
+    {
+      "en": "pc-98 (style)",
+      "zh": "PC-98风格",
+      "rating": "g",
+      "count": 749,
+      "desc": "模仿NEC PC-98系列电脑像素画面风格的画作。",
+      "kw": "PC98风格 / PC-98风 / NEC PC-98风格 / PC-98像素风 / 复古电脑像素风格 / PC-98 (风格) / 复古风格 / 像素艺术 / pc98 (style) / pc98 / pc-98 / pc-9800"
+    },
+    {
+      "en": "pen (medium)",
+      "zh": "钢笔绘制",
+      "rating": "g",
+      "count": 6617,
+      "desc": "用钢笔等硬笔绘制的作品，线条细锐。",
+      "kw": "钢笔画 / 针管笔画 / 蘸水笔画 / 绘图笔绘制 / 硬笔画 / 钢笔手绘"
+    },
+    {
+      "en": "photo (medium)",
+      "zh": "照片",
+      "rating": "g",
+      "count": 27869,
+      "desc": "由相机拍摄的照片媒介，区别于绘画。",
+      "kw": "相片 / 摄影作品 / 实拍 / 拍摄 / 照相 / 摄影 / 撮影"
+    },
+    {
+      "en": "pink outline",
+      "zh": "粉红色轮廓",
+      "rating": "g",
+      "count": 2258,
+      "desc": "角色或物体外的粉色轮廓线",
+      "kw": "粉色轮廓线 / 粉红描边 / 粉色描边 / 粉红线稿 / 粉色外轮廓 / 粉红轮廓线 / 粉色轮廓 / 粉色"
+    },
+    {
+      "en": "pinup (style)",
+      "zh": "复古海报女郎风格",
+      "rating": "s",
+      "count": 819,
+      "desc": "模仿1940-50年代经典海报女郎招贴画风格的作品。",
+      "kw": "海报女郎风格 / 画报女郎风格 / 复古招贴画风 / 海报女郎 / 复古画报女郎 / 招贴画女郎风格 / 艺术风格 / pinup / pinupgirl / ピンナップ / ピンナップガール"
+    },
+    {
+      "en": "playing card (medium)",
+      "zh": "扑克牌式画面",
+      "rating": "g",
+      "count": 551,
+      "desc": "整幅画被画成扑克牌样式的作品",
+      "kw": "扑克牌风格 / 卡牌式画面 / 纸牌风格 / 扑克牌构图 / 扑克牌画风 / 卡牌式插画 / 纸牌（五维介质） / 扑克牌"
+    },
+    {
+      "en": "poster (medium)",
+      "zh": "海报（媒介）",
+      "rating": "g",
+      "count": 2398,
+      "desc": "整张图本身就是一张海报，非图中的海报物体。",
+      "kw": "海报画 / 海报图 / 海报式插图 / 整图海报 / 海报图片 / 海报作品 / 海报 / 图像构图 / 海报 / ポスター"
+    },
+    {
+      "en": "puchimasu! (style)",
+      "zh": "迷你偶像大师风格",
+      "rating": "g",
+      "count": 1393,
+      "desc": "非偶像大师角色画成《迷你偶像大师》Q版风格的画法。",
+      "kw": "迷你偶像风格 / 迷你偶像Q版风格 / 迷你偶像画风 / 小小偶像大师风格 / 迷你偶像大师Q版 / 迷你偶像 (风格) / 风格 / 可爱"
+    },
+    {
+      "en": "purple outline",
+      "zh": "紫色轮廓",
+      "rating": "g",
+      "count": 1093,
+      "desc": "人物或物体边缘用紫色线条勾勒。",
+      "kw": "紫色轮廓线 / 紫色描边 / 紫边 / 紫色勾边 / 紫色线稿 / 紫色外轮廓 / 描边 / 特效"
+    },
+    {
+      "en": "realistic",
+      "zh": "写实",
+      "rating": "g",
+      "count": 33208,
+      "desc": "画风上人体、比例、光影更接近真实",
+      "kw": "写实风 / 写实风格 / 写实画风 / 真实感 / 逼真 / 现实风 / 现实主义 / 现实 / リアル絵"
+    },
+    {
+      "en": "red outline",
+      "zh": "红色轮廓",
+      "rating": "g",
+      "count": 2384,
+      "desc": "角色或物体外轮廓线为红色。",
+      "kw": "红色描边 / 红描边 / 红色轮廓线 / 红色外框 / 红边 / 红色线稿 / 红色边缘 / 描边"
+    },
+    {
+      "en": "retrofuturism",
+      "zh": "复古未来主义",
+      "rating": "g",
+      "count": 2709,
+      "desc": "以过去人们想象的未来为主题的复古未来主义",
+      "kw": "复古未来 / 复古未来派 / 复古科幻 / 未来复古主义 / 怀旧未来 / 视觉美学 / 艺术风格 / 科幻怀旧 / retrofuture / retrofuturistic"
+    },
+    {
+      "en": "riyo (lyomsnpmp) (style)",
+      "zh": "Riyo画风",
+      "rating": "g",
+      "count": 1113,
+      "desc": "Fate/Grand Order画师Riyo的Q版夸张画风",
+      "kw": "Riyo风格 / Riyo式画风 / FGO官方Q版画风 / 官方Q版画风 / Riyo风 / 画风 / 插画 / リヨ / 野生のリヨ / リヨ風 / リヨぐだ子"
+    },
+    {
+      "en": "rococo movement",
+      "zh": "洛可可风",
+      "rating": "g",
+      "count": 148,
+      "desc": "18世纪中期在法国盛行的华丽装饰艺术风格",
+      "kw": "洛可可风格 / 洛可可艺术 / 洛可可主义 / 洛可可装饰 / 洛可可时期风格 / 洛可可运动 / 法国艺术 / 巴洛克后 / rococo"
+    },
+    {
+      "en": "smear frame",
+      "zh": "拖影帧",
+      "rating": "g",
+      "count": 695,
+      "desc": "动画中通过形变表现高速运动的中间帧",
+      "kw": "残影帧 / 拉伸帧 / 变形帧 / 运动模糊帧 / 拖影画面 / 动画拖影 / 中间变形帧 / 涂抹帧"
+    },
+    {
+      "en": "stick figure",
+      "zh": "火柴人",
+      "rating": "g",
+      "count": 717,
+      "desc": "头为圆圈、四肢为线条的火柴人",
+      "kw": "棍人 / 线条人 / 柴设 / 棒人 / 简笔画人 / 简笔小人 / 素体人 / 简笔画 / 棒人间 / 棒人間 / 柴 / 柴设oc"
+    },
+    {
+      "en": "sticker (medium)",
+      "zh": "贴纸（媒介）",
+      "rating": "g",
+      "count": 3560,
+      "desc": "用于聊天软件等的贴纸或表情素材",
+      "kw": "表情贴纸 / 数字贴纸 / 聊天贴纸 / 贴图 / 贴纸素材 / 表情包 / 贴纸 (媒介) / 贴纸 / emote (medium) / stickers"
+    },
+    {
+      "en": "still life",
+      "zh": "静物",
+      "rating": "g",
+      "count": 9950,
+      "desc": "以静物为描绘对象的作品",
+      "kw": "静物画 / 静物作品 / 静物绘画 / 静物图 / 静物写生 / 静物摄影 / 静物题材 / 艺术风格"
+    },
+    {
+      "en": "style parody",
+      "zh": "画风模仿",
+      "rating": "g",
+      "count": 34312,
+      "desc": "模仿某位画师画风创作的图像。",
+      "kw": "风格模仿 / 仿画风 / 模仿画风 / 画风致敬 / 风格致敬 / 仿某画师画风 / 画风仿作 / 同人风格 / 野生の公式 / 野生"
+    },
+    {
+      "en": "sugimori ken (style)",
+      "zh": "杉森建画风",
+      "rating": "g",
+      "count": 842,
+      "desc": "模仿宝可梦长期主画师杉森建画风的作品",
+      "kw": "杉森建风格 / 杉森风 / 宝可梦杉森画风 / 杉森建画法 / 模仿杉森建 / 画风 / 宝可梦风格 / sugimoristyle / 杉森建 / 野生の杉森 / 野生の杉森建"
+    },
+    {
+      "en": "superflat",
+      "zh": "超扁平",
+      "rating": "g",
+      "count": 882,
+      "desc": "村上隆创立、受漫画动画影响的艺术流派。",
+      "kw": "超扁平艺术 / 超平面艺术 / 超级扁平 / 超扁平主义 / 村上隆超扁平 / 超扁平运动 / 视觉美学 / 现代艺术"
+    },
+    {
+      "en": "symbolism",
+      "zh": "象征主义",
+      "rating": "g",
+      "count": 2023,
+      "desc": "画面中使用象征符号或具有象征主义风格",
+      "kw": "象征性 / 符号化表现 / 寓意 / 象征意义 / 符号象征 / 象征表现 / 象征手法 / 艺术风格 / symbolic / 象徴主义"
+    },
+    {
+      "en": "synthwave",
+      "zh": "合成器浪潮",
+      "rating": "g",
+      "count": 398,
+      "desc": "2010年代流行的复古音乐与美术风格，怀旧80年代霓虹色调。",
+      "kw": "合成器波 / 合成波 / 合成波音乐 / 复古合成器浪潮 / 霓虹复古风 / 80年代复古风格 / 合成器浪潮美学 / 合成器浪潮风"
+    },
+    {
+      "en": "takenami hideyuki (style)",
+      "zh": "竹浪秀行（风格）",
+      "rating": "g",
+      "count": 510,
+      "desc": "模仿《噗哟噗哟Fever》角色设计师竹浪秀行画风",
+      "kw": "竹浪秀行画风 / 竹浪秀行风格 / 竹浪秀行 (风格) / 画风 / 艺术家"
+    },
+    {
+      "en": "takeuchi takashi (style)",
+      "zh": "武内崇（风格）",
+      "rating": "g",
+      "count": 925,
+      "desc": "模仿Fate系列画师武内崇画风的作品",
+      "kw": "武内崇画风 / 武内崇风格 / 仿武内崇 / 武内崇（伪） / 武内崇风 / 野生武内崇 / Fate画风 / 武内崇 (风格) / 武内崇 / 野生の武内崇 / 野生の武内"
+    },
+    {
+      "en": "tegaki",
+      "zh": "手绘博客图",
+      "rating": "g",
+      "count": 2153,
+      "desc": "在 Tegaki 手绘博客上创作的小尺寸作品。",
+      "kw": "手绘博客 / 手绘博客作品 / 手写博客图 / 手绘 / 绘画风格 / 手書きブログ"
+    },
+    {
+      "en": "texture",
+      "zh": "纹理",
+      "rating": "g",
+      "count": 938,
+      "desc": "描述图像中特定纹理的模糊标签",
+      "kw": "材质 / 效果"
+    },
+    {
+      "en": "thick lineart",
+      "zh": "粗线条",
+      "rating": "g",
+      "count": 1918,
+      "desc": "线条特别粗重醒目的画法，常见于卡通风格",
+      "kw": "粗线 / 粗描边 / 粗线条风格 / 厚线条 / 粗线稿 / 线稿风格"
+    },
+    {
+      "en": "toon (style)",
+      "zh": "卡通画风",
+      "rating": "g",
+      "count": 6412,
+      "desc": "模仿欧美动画与漫画的卡通画风",
+      "kw": "美式卡通风格 / 欧美卡通风格 / 卡通风格 / 美式卡通画风 / 卡通渲染 / 卡通 / 风格 / cartoon / toon / toony / 美式卡通"
+    },
+    {
+      "en": "toriyama akira (style)",
+      "zh": "鸟山明（风格）",
+      "rating": "g",
+      "count": 1432,
+      "desc": "模仿鸟山明画风的绘画风格。",
+      "kw": "鸟山明风 / 鸟山明画风 / 鸟山明风格 / 鸟山明式 / 鸟山明绘画风格 / 仿鸟山明 / 鸟山明画风模仿 / 龙珠风格 / 鳥山明風 / 野生の鳥山 / 野生の鳥山明"
+    },
+    {
+      "en": "uchuu kei",
+      "zh": "宇宙系时尚",
+      "rating": "g",
+      "count": 591,
+      "desc": "以太空与外星人为主题的复古未来风时尚",
+      "kw": "宇宙系 / 太空时尚 / 宇宙风格 / 太空风格 / 银河时尚 / 未来复古太空风 / 宇宙系穿搭 / 时尚风格 / uchuukei"
+    },
+    {
+      "en": "unchibification",
+      "zh": "去Q版化",
+      "rating": "g",
+      "count": 721,
+      "desc": "将通常为Q版风格的角色描绘成非Q版、具有正常身体比例的样子。",
+      "kw": "等身化 / 正常比例化 / 写实等身"
+    },
+    {
+      "en": "unconventional media",
+      "zh": "非常规媒介",
+      "rating": "g",
+      "count": 2279,
+      "desc": "用食物、拉花等非常规材料或技法制作的实体作品",
+      "kw": "非常规创作媒介 / 特殊媒介 / 另类媒介 / 非传统媒介 / 非常规材料创作 / 特殊材质创作"
+    },
+    {
+      "en": "vanripper (style)",
+      "zh": "vanripper画风",
+      "rating": "g",
+      "count": 572,
+      "desc": "模仿《Helltaker》作者vanripper独特画风的作品，角色线条简洁性感",
+      "kw": "Helltaker画风 / vanripper风格 / Helltaker作者画风 / Helltaker画风仿作 / 范里珀画风 / vanripper 风格 / 艺术家风格 / 画风"
+    },
+    {
+      "en": "vaporwave",
+      "zh": "蒸汽波",
+      "rating": "g",
+      "count": 563,
+      "desc": "带有80、90年代怀旧与赛博朋克元素的复古美术音乐风格",
+      "kw": "蒸汽波风格 / 蒸气波 / 蒸汽波艺术 / 蒸汽波美学 / 复古蒸汽波 / 风格 / 复古"
+    },
+    {
+      "en": "vector circles",
+      "zh": "矢量圆圈",
+      "rating": "g",
+      "count": 329,
+      "desc": "常作为装饰的扁平圆环图案。",
+      "kw": "矢量圆环 / 矢量圆形 / 扁平圆环 / 圆形装饰 / 装饰圆环 / 矢量圆 / 图形 / 装饰"
+    },
+    {
+      "en": "vector trace",
+      "zh": "矢量描摹",
+      "rating": "g",
+      "count": 2039,
+      "desc": "在矢量软件中描摹后导出为位图的图像",
+      "kw": "矢量描图 / 矢量临摹 / 矢量线稿 / 矢量重绘 / 矢量勾线 / 向量描摹 / 矢量转绘 / 位图转矢量 / trace / vector / vectortrace"
+    },
+    {
+      "en": "victorian",
+      "zh": "维多利亚风",
+      "rating": "g",
+      "count": 1518,
+      "desc": "1837-1901年英国维多利亚时代的风格",
+      "kw": "维多利亚时代 / 维多利亚风格 / 英伦风 / 维风 / 维多利亚时期 / 维多利亚式 / 维多利亚复古 / 维多利亚年代 / ビクトリア朝"
+    },
+    {
+      "en": "video game cover",
+      "zh": "游戏封面",
+      "rating": "g",
+      "count": 916,
+      "desc": "电子游戏的封面图，含真实与虚构作品。",
+      "kw": "电子游戏封面 / 游戏盒封面 / 游戏包装封面 / 游戏封面图 / 视频游戏封面 / 构图 / 游戏包装 / 封面艺术 / game cover"
+    },
+    {
+      "en": "visual kei",
+      "zh": "视觉系",
+      "rating": "g",
+      "count": 307,
+      "desc": "受华丽摇滚与哥特摇滚影响的日本视觉系风格",
+      "kw": "视觉摇滚 / V系 / 视觉系风格 / 时尚风格 / 哥特时尚 / 华丽风格 / visualkei"
+    },
+    {
+      "en": "watercolor (medium)",
+      "zh": "水彩",
+      "rating": "g",
+      "count": 23277,
+      "desc": "使用透明水彩颜料绘制的传统绘画作品。",
+      "kw": "水彩画 / 透明水彩 / 水彩绘 / 水彩媒介 / watercolor / watercolour"
+    },
+    {
+      "en": "watercolor effect",
+      "zh": "水彩效果",
+      "rating": "g",
+      "count": 1050,
+      "desc": "模仿传统水彩效果的绘画手法",
+      "kw": "水彩风格 / 水彩画风 / 水彩质感 / 水彩纹理 / 画风 / 艺术风格"
+    },
+    {
+      "en": "watercolor pencil (medium)",
+      "zh": "水彩铅笔",
+      "rating": "g",
+      "count": 842,
+      "desc": "用水溶性彩色铅笔画的作品",
+      "kw": "水溶性彩色铅笔 / 水溶彩铅 / 水彩色铅笔 / 水溶性色铅笔 / watercolor pencil / watercolour pencil"
+    },
+    {
+      "en": "weirdcore",
+      "zh": "怪核",
+      "rating": "g",
+      "count": 590,
+      "desc": "怀旧影像与诡异超现实元素结合的怪核美学",
+      "kw": "梦核 / 诡异核 / 怪异核 / 梦核美学 / 视觉美学 / 数字怀旧 / dreamcore"
+    },
+    {
+      "en": "western comics (style)",
+      "zh": "美式漫画风格",
+      "rating": "g",
+      "count": 2568,
+      "desc": "模仿美国传统漫画书的画风",
+      "kw": "西方漫画风格 / 美漫风格 / 美式漫画风 / 美国漫画风 / 西方漫画风 / 美漫风 / 西方漫画 / 漫画风格 / アメコミ風 / アメコミ"
+    },
+    {
+      "en": "whimsy twee",
+      "zh": "奇幻童趣风",
+      "rating": "g",
+      "count": 105,
+      "desc": "2020年代TikTok流行的童趣DIY美学风格。",
+      "kw": "奇趣少女风 / 梦幻童趣风 / 怪诞可爱风 / 田园少女风 / 复古童话风 / Whimsy Twee风格 / 视觉美学 / 时尚风格"
+    },
+    {
+      "en": "white outline",
+      "zh": "白色描边",
+      "rating": "g",
+      "count": 63968,
+      "desc": "用白色描边突出角色、物品或文字",
+      "kw": "白描边 / 白色轮廓 / 白边 / 白色外轮廓 / 白色勾边 / 白色边框 / 白色线条 / 白色勾勒 / 白縁"
+    },
+    {
+      "en": "wide face",
+      "zh": "宽脸化",
+      "rating": "g",
+      "count": 819,
+      "desc": "把角色脸部夸张拉宽的画法",
+      "kw": "宽脸 / 大饼脸 / 拉宽脸 / 宽面脸 / 脸部拉宽 / 脸型 / wideface / へちょ絵"
+    },
+    {
+      "en": "wishcore",
+      "zh": "许愿风",
+      "rating": "g",
+      "count": 166,
+      "desc": "源自韩国NCT Wish粉丝、以月亮星星翅膀为元素的时尚风格",
+      "kw": "愿望核 / 许愿核心 / 愿望风格 / 许愿美学 / 星星月亮风 / 时尚风格 / 潮流 / 风格"
+    },
+    {
+      "en": "woven hatching",
+      "zh": "编织排线",
+      "rating": "g",
+      "count": 155,
+      "desc": "用两组近乎垂直的平行短线交叠上色的排线技法",
+      "kw": "编织排线法 / 编织阴影 / 编织线 / 交错排线 / 篮子排线 / 十字排线 / 编织笔触 / 纹理"
+    },
+    {
+      "en": "y2k fashion",
+      "zh": "Y2K风格",
+      "rating": "g",
+      "count": 2928,
+      "desc": "基于90年代末至2000年代初潮流的时尚风格。",
+      "kw": "千禧年风格 / Y2K时尚 / 2000年代时尚 / 千禧风 / Y2K穿搭 / Y2K美学 / 千禧年 / 时尚风格 / y2k (fashion) / y2k / y2k aesthetic / y2k style"
+    },
+    {
+      "en": "yabi fashion",
+      "zh": "亚比风",
+      "rating": "g",
+      "count": 809,
+      "desc": "2010年代末中国地下音乐圈兴起的亚文化穿搭风格，融合Y2K与街头风",
+      "kw": "亚逼风 / 亚比 / 亚逼 / 亚比穿搭 / 亚逼穿搭 / 雅痞时尚 / 时尚 / 雅痞风 / 多巴胺"
+    },
+    {
+      "en": "yami kawaii",
+      "zh": "病系可爱",
+      "rating": "g",
+      "count": 1325,
+      "desc": "用绷带、药丸等营造病态可爱的美学",
+      "kw": "病娇可爱 / 病态可爱 / 病弱可爱 / 病气可爱 / 病感可爱 / 暗黑可爱 / 病系萌 / 病态萌 / menhera kei / yamikawaii / 病みかわいい / 病みかわ"
+    },
+    {
+      "en": "yellow outline",
+      "zh": "黄色轮廓",
+      "rating": "g",
+      "count": 2463,
+      "desc": "人物或物体外缘的黄色描边",
+      "kw": "黄色描边 / 黄描边 / 黄色外轮廓 / 黄色边缘 / 黄边 / 黄色勾边 / 描边 / 线条效果"
+    },
+    {
+      "en": "yume kawaii",
+      "zh": "梦系可爱",
+      "rating": "g",
+      "count": 9531,
+      "desc": "以粉彩和梦幻感为特征的日系可爱风格",
+      "kw": "梦幻可爱 / 梦可爱 / 梦幻系 / 粉彩系 / 风格 / yumekawaii / ゆめかわいい / フェアリー系 / ファンシー"
+    },
+    {
+      "en": "zun (style)",
+      "zh": "ZUN绘",
+      "rating": "g",
+      "count": 1991,
+      "desc": "模仿东方Project作者ZUN的绘画风格",
+      "kw": "ZUN画风 / ZUN风格 / 东方旧作风 / 旧作风 / ZUN式画风 / ZUN画法 / ZUN风 / ZUN 风格 / oota jun'ya (style) / 野生のzun / zun絵 / 野生の神主"
+    }
+  ]
+}

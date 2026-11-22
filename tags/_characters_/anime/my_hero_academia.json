@@ -1,0 +1,55 @@
+{
+  "id": "my_hero_academia",
+  "name": "我的英雄学院",
+  "parentId": "anime",
+  "order": 19,
+  "file": "anime/my_hero_academia.json",
+  "characters": [
+    {
+      "game": "我的英雄学院",
+      "gameTag": "anime",
+      "name": "绿谷出久",
+      "tag": "midoriya izuku",
+      "charZh": "绿谷出久（我的英雄学院）",
+      "auto": "green hair|绿发;curly hair|卷发;green eyes|绿瞳;wide eyes|大眼睛;freckles|雀斑",
+      "subName": ""
+    },
+    {
+      "game": "我的英雄学院",
+      "gameTag": "anime",
+      "name": "爆豪胜己",
+      "tag": "bakugou katsuki",
+      "charZh": "爆豪胜己（我的英雄学院）",
+      "auto": "blonde hair|金发;red eyes|红瞳;tsurime|吊眼",
+      "subName": ""
+    },
+    {
+      "game": "我的英雄学院",
+      "gameTag": "anime",
+      "name": "轰焦冻",
+      "tag": "todoroki shoto",
+      "charZh": "轰焦冻（我的英雄学院）",
+      "auto": "white hair|白发;two-tone hair|双色发;black eyes|黑瞳;tsurime|吊眼",
+      "subName": ""
+    },
+    {
+      "game": "我的英雄学院",
+      "gameTag": "anime",
+      "name": "丽日御茶子",
+      "tag": "uraraka ochaco",
+      "charZh": "丽日御茶子（我的英雄学院）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳;angel|天使;pantyhose|连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "我的英雄学院",
+      "gameTag": "anime",
+      "name": "渡我被身子",
+      "tag": "toga himiko",
+      "charZh": "渡我被身子（我的英雄学院）",
+      "auto": "brown hair|棕发;hair bun|发髻;blunt bangs|齐刘海;serafuku|水手服;yandere|病娇",
+      "subName": ""
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,336 @@
+{
+  "id": "ass",
+  "name": "臀部",
+  "icon": "🍑",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 15,
+  "file": "character_base/character_base_ass.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "hips",
+      "zh": "臀部",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "bare ass",
+      "zh": "裸露臀部",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "big ass",
+      "zh": "大臀",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "small ass",
+      "zh": "小臀",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "ass focus",
+      "zh": "臀部特写",
+      "rating": "s",
+      "nsfw": false,
+      "count": 47900,
+      "desc": "以角色臀部为画面主要焦点的图",
+      "kw": "屁股特写 / 美臀特写 / 臀部焦点 / 屁股焦点 / 尻特写 / 美尻 / 臀部视角 / 臀部 / pov ass / 尻アングル"
+    },
+    {
+      "en": "hips focus",
+      "zh": "胯部特写",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "ass",
+      "zh": "臀部",
+      "rating": "s",
+      "nsfw": false,
+      "count": 811357,
+      "desc": "臀部，画面强调臀部",
+      "kw": "屁股 / 尻 / 美臀 / 翘臀 / 蜜桃臀 / 身体部位 / butt / butt cheeks / buttocks / oshiri"
+    },
+    {
+      "en": "ass expansion",
+      "zh": "臀部膨胀",
+      "rating": "q",
+      "nsfw": true,
+      "count": 120,
+      "desc": "臀部逐渐变大的膨胀表现。",
+      "kw": "屁股膨胀 / 臀部变大 / 屁股变大 / 爆臀 / 巨臀化 / 臀部增大 / 屁股增大 / 膨尻 / growing ass / 膨尻"
+    },
+    {
+      "en": "flat ass",
+      "zh": "平臀",
+      "rating": "s",
+      "nsfw": false,
+      "count": 3883,
+      "desc": "臀部扁平、缺乏曲线",
+      "kw": "扁平臀 / 平屁股 / 没屁股 / 平板屁股 / 扁臀 / 屁股扁平 / 无臀 / no ass"
+    },
+    {
+      "en": "huge ass",
+      "zh": "巨臀",
+      "rating": "s",
+      "nsfw": false,
+      "count": 38552,
+      "desc": "臀部比例异常丰满突出，与宽胯或粗大腿不同。",
+      "kw": "巨尻 / 大屁股 / 超大臀部 / 丰满臀部 / 大臀 / 爆尻 / 超尻 / 臀部 / big butt / big ass / thick ass / huge butt"
+    },
+    {
+      "en": "gigantic ass",
+      "zh": "超巨臀",
+      "rating": "s",
+      "nsfw": false,
+      "count": 203,
+      "desc": "比巨大臀部还夸张的巨大臀部",
+      "kw": "巨臀 / 超大臀部 / 巨大屁股 / 超巨大臀部 / 夸张巨臀 / 超大屁股 / 夸张臀部"
+    },
+    {
+      "en": "butt crack",
+      "zh": "股沟",
+      "rating": "q",
+      "nsfw": true,
+      "count": 28977,
+      "desc": "衣物过短或过松露出臀部上缘的沟。",
+      "kw": "屁股缝 / 臀沟 / 露股沟 / 臀部 / 臀部缝隙 / buttcrack / ass crack / posterior cleavage / 半ケツ"
+    },
+    {
+      "en": "underbutt",
+      "zh": "露臀下缘",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3308,
+      "desc": "衣服下缘露出臀部下半部分，类似下乳。",
+      "kw": "臀下露出 / 露下臀 / 下臀线 / 下臀肉 / 臀下肉 / 露屁股下缘 / 臀底露出 / 臀下走光 / gluteal fold peek / underbum"
+    },
+    {
+      "en": "anal hair",
+      "zh": "肛毛",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2656,
+      "desc": "肛门周围的毛发。",
+      "kw": "肛门毛发 / 肛门毛 / 肛周毛 / 肛门周围的毛发 / 体毛 / 毛发 / ケツ毛"
+    },
+    {
+      "en": "anus",
+      "zh": "肛门",
+      "rating": "q",
+      "nsfw": true,
+      "count": 173636,
+      "desc": "直肠外口的肛门",
+      "kw": "后庭 / 后穴 / 菊穴 / 菊花 / 肛口 / 直肠口 / 身体部位 / 臀部 / asshole / ass hole / butthole / butt hole"
+    },
+    {
+      "en": "no anus",
+      "zh": "无肛",
+      "rating": "q",
+      "nsfw": true,
+      "count": 256,
+      "desc": "本应有肛门却未画出的情况",
+      "kw": "无肛门 / 肛门缺失 / 无后穴 / 无菊门 / 没有后庭 / 无排泄孔 / 无后庭"
+    },
+    {
+      "en": "puckered anus",
+      "zh": "皱缩的肛门",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3676,
+      "desc": "肛门紧缩外凸、褶皱明显的状态",
+      "kw": "褶皱肛门 / 收缩肛门 / 紧缩肛门 / 菊花褶皱 / 肛门皱缩 / 皱肛 / 屁眼褶皱 / 肛门口褶皱 / puffy anus"
+    },
+    {
+      "en": "tiny anus",
+      "zh": "微小肛门",
+      "rating": "q",
+      "nsfw": true,
+      "count": 14
+    },
+    {
+      "en": "ass ache",
+      "zh": "臀部疼痛",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "ass ripple",
+      "zh": "臀浪",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5102,
+      "desc": "臀部受到冲击而荡起的波纹。",
+      "kw": "屁股波纹 / 臀部震荡 / 屁股颤动 / 臀部荡漾 / 臀波 / 肉浪 / 震动"
+    },
+    {
+      "en": "ass visible through thighs",
+      "zh": "大腿间可见臀部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 120421,
+      "desc": "从正面透过大腿缝隙可见臀部",
+      "kw": "腿间露臀 / 大腿缝露臀 / 腿缝可见屁股 / 前见屁股 / 臀部暴露 / 姿势 / ass fangs / butt fangs / gluteal fold / 屁股从大腿间露出"
+    },
+    {
+      "en": "bouncing ass",
+      "zh": "晃动的屁股",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3141,
+      "desc": "臀部被动地弹动摇摆",
+      "kw": "臀部弹跳 / 屁股抖动 / 弹跳的屁股 / 屁股摇晃 / 弹动的屁股 / 臀部 / 动态效果"
+    },
+    {
+      "en": "x anus",
+      "zh": "X形肛门",
+      "rating": "q",
+      "nsfw": true,
+      "count": 477,
+      "desc": "画成简单X形的卡通肛门",
+      "kw": "X型肛门 / 叉形肛门 / 星形肛门 / X字肛门 / X状肛门 / 肛门 / 姿势"
+    },
+    {
+      "en": "dimples of venus",
+      "zh": "腰窝",
+      "rating": "s",
+      "nsfw": false,
+      "count": 8718,
+      "desc": "下背部臀部上方的对称凹陷，俗称腰窝",
+      "kw": "维纳斯酒窝 / 后腰窝 / 美人窝 / 性感窝 / 臀上凹窝 / 身体特征 / ウェヌスのえくぼ"
+    },
+    {
+      "en": "hip dips",
+      "zh": "髋部凹陷",
+      "rating": "s",
+      "nsfw": false,
+      "count": 727,
+      "desc": "腰到大腿线条不平滑的髋部凹陷",
+      "kw": "胯骨凹陷 / 胯骨凹 / 胯部凹陷 / 小提琴胯 / 箱胯 / 身体特征 / 髋部"
+    },
+    {
+      "en": "wide hips",
+      "zh": "宽胯",
+      "rating": "s",
+      "nsfw": false,
+      "count": 60344,
+      "desc": "胯部比肩部还宽的体型",
+      "kw": "宽臀 / 大屁股 / 宽髋 / 胯宽 / 臀部宽大 / 安产型 / 巨尻 / 大尻 / large hips / big hips / デカ尻"
+    },
+    {
+      "en": "lipstick mark on anus",
+      "zh": "肛门唇印",
+      "rating": "q",
+      "nsfw": true,
+      "count": 94,
+      "desc": "肛门处留下的口红印",
+      "kw": "肛门口红印子 / 肛门上的口红印 / 肛红印 / 菊花口红印 / 后穴口红印"
+    },
+    {
+      "en": "lipstick mark on ass",
+      "zh": "屁股上的唇印",
+      "rating": "q",
+      "nsfw": true,
+      "count": 390,
+      "desc": "臀部上的口红印",
+      "kw": "屁股口红印 / 臀上口红印 / 臀部唇印 / 屁股唇印 / 臀部口唇印 / 臀部吻痕 / 唇印"
+    },
+    {
+      "en": "alternate ass size (larger)",
+      "zh": "臀部异设（更大）",
+      "rating": "s",
+      "count": 749,
+      "desc": "臀部被画得明显大于官方设定",
+      "kw": "臀部加大 / 臀部改大 / 臀部放大 / 增大臀部 / 臀部更大 / 臀部大码异设 / 臀部尺寸加大 / 丰臀异设"
+    },
+    {
+      "en": "anal fluid",
+      "zh": "肛门液",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2005,
+      "desc": "从肛门分泌的液体。",
+      "kw": "肠液 / 肛门分泌物 / 后庭液 / 肛门爱液 / 肛液 / 直肠液 / 肛内液 / 体液"
+    },
+    {
+      "en": "ass freckles",
+      "zh": "屁股雀斑",
+      "rating": "s",
+      "count": 914,
+      "desc": "长在臀部上的雀斑",
+      "kw": "臀部雀斑 / 屁屁雀斑 / 屁股上的雀斑 / 臀部小雀斑 / 臀部长雀斑 / 雀斑 / 身体特征"
+    },
+    {
+      "en": "ass hair",
+      "zh": "臀部体毛",
+      "rating": "s",
+      "count": 803,
+      "desc": "臀部上生长的体毛",
+      "kw": "屁股毛 / 臀部毛 / 肛毛 / 屁毛 / 屁股体毛 / 臀部毛发 / 后庭毛 / 体毛 / hairy ass"
+    },
+    {
+      "en": "ass peek",
+      "zh": "隐约露臀",
+      "rating": "s",
+      "count": 2404,
+      "desc": "穿超短裤或短裙时隐约露出的臀部。",
+      "kw": "露臀 / 臀部微露 / 走光露臀 / 屁股微露 / 臀部下缘露出 / 露屁股蛋 / 半露臀 / 臀部暴露 / butt peek / cheek peek / 尻破れ"
+    },
+    {
+      "en": "ass tattoo",
+      "zh": "屁股纹身",
+      "rating": "s",
+      "count": 1454,
+      "desc": "纹在臀部的纹身",
+      "kw": "臀部纹身 / 屁股刺青 / 臀部刺青 / 屁屁纹身 / 尻纹身 / 纹身 / 身体标记"
+    },
+    {
+      "en": "bare hips",
+      "zh": "裸露胯部",
+      "rating": "s",
+      "count": 5415,
+      "desc": "服装设计使胯部露出的状态",
+      "kw": "露胯 / 裸胯 / 露髋 / 胯部露出 / 露腰胯 / 露髋骨 / 露胯骨 / 裸露的臀部"
+    },
+    {
+      "en": "bursting ass",
+      "zh": "爆臀",
+      "rating": "s",
+      "count": 585,
+      "desc": "臀部过大把紧身衣物撑破或眼看要撑破",
+      "kw": "屁股爆裂 / 臀部撑爆 / 屁股撑爆 / 爆尻 / 炸臀 / 臀部炸裂 / 屁股蹦出 / 服装撑爆 / 屁股蹦出"
+    },
+    {
+      "en": "covered anus",
+      "zh": "衣物勾勒肛门",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1195,
+      "desc": "紧身衣物下肛门轮廓清晰可见或暗示肛门位置。",
+      "kw": "紧身衣显肛门 / 衣物覆盖肛门 / 肛门轮廓显现 / 紧身裤露肛门 / 透出肛门形状 / 衣物下肛门可见 / 紧身衣勾勒后庭 / 衣物下显肛门轮廓"
+    },
+    {
+      "en": "dark anus",
+      "zh": "深色肛门",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3988,
+      "desc": "肛门颜色明显偏深褐或偏黑",
+      "kw": "深褐色肛门 / 黑肛门 / 褐色肛门 / 深色后庭 / 深色菊穴 / 颜色深的肛门 / 深色肛口 / 肛门 / brown anus"
+    },
+    {
+      "en": "hip bones",
+      "zh": "髋骨",
+      "rating": "s",
+      "count": 5500,
+      "desc": "体表明显凸出的髋骨",
+      "kw": "骨盆骨 / 腰骨 / 胯骨 / 髋部骨头 / 髋骨凸出 / 骨骼 / pelvic bones / pelvic bone"
+    }
+  ]
+}

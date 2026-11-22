@@ -1,0 +1,171 @@
+{
+  "id": "character_base",
+  "name": "人物基础",
+  "icon": "👤",
+  "level": 1,
+  "order": 2,
+  "file": "character_base/character_base.json",
+  "subDir": "character_base",
+  "updatedAt": "2026-11-18T05:36:30.152Z",
+  "children": [
+    {
+      "id": "base",
+      "name": "基础",
+      "icon": "🧑",
+      "order": 1,
+      "file": "character_base/character_base_base.json"
+    },
+    {
+      "id": "occupation",
+      "name": "职业",
+      "icon": "💼",
+      "order": 2,
+      "file": "character_base/character_base_occupation.json"
+    },
+    {
+      "id": "species",
+      "name": "物种",
+      "icon": "🧝",
+      "order": 3,
+      "file": "character_base/character_base_species.json"
+    },
+    {
+      "id": "animals",
+      "name": "动物与生物",
+      "icon": "🐾"
+    },
+    {
+      "id": "hair_color",
+      "name": "发色",
+      "icon": "🌈",
+      "order": 4,
+      "file": "character_base/character_base_hair_color.json"
+    },
+    {
+      "id": "hair_style",
+      "name": "发型",
+      "icon": "💇",
+      "order": 5,
+      "file": "character_base/character_base_hair_style.json"
+    },
+    {
+      "id": "ears",
+      "name": "耳朵",
+      "icon": "🦊",
+      "order": 6,
+      "file": "character_base/character_base_ears.json"
+    },
+    {
+      "id": "head",
+      "name": "头部",
+      "icon": "🗣️",
+      "order": 7,
+      "file": "character_base/character_base_head.json"
+    },
+    {
+      "id": "eyes",
+      "name": "眼睛",
+      "icon": "👁",
+      "order": 8,
+      "file": "character_base/character_base_eyes.json"
+    },
+    {
+      "id": "nose",
+      "name": "鼻子",
+      "icon": "👃",
+      "order": 9,
+      "file": "character_base_nose.json"
+    },
+    {
+      "id": "mouth",
+      "name": "嘴部",
+      "icon": "👄",
+      "order": 10,
+      "file": "character_base/character_base_mouth.json"
+    },
+    {
+      "id": "expression",
+      "name": "表情",
+      "icon": "😊",
+      "order": 11,
+      "file": "character_base/character_base_expression.json"
+    },
+    {
+      "id": "body",
+      "name": "体型",
+      "icon": "📏",
+      "order": 12,
+      "file": "character_base/character_base_body.json"
+    },
+    {
+      "id": "skin",
+      "name": "肤色",
+      "icon": "🎨",
+      "order": 13,
+      "file": "character_base/character_base_skin.json"
+    },
+    {
+      "id": "breasts",
+      "name": "胸部",
+      "icon": "🍒",
+      "order": 14,
+      "file": "character_base/character_base_breasts.json"
+    },
+    {
+      "id": "ass",
+      "name": "臀部",
+      "icon": "🍑",
+      "order": 15,
+      "file": "character_base/character_base_ass.json"
+    },
+    {
+      "id": "wings",
+      "name": "翅膀",
+      "icon": "🪽",
+      "order": 16,
+      "file": "character_base/character_base_wings.json"
+    },
+    {
+      "id": "tail",
+      "name": "尾巴",
+      "icon": "🦊",
+      "order": 17,
+      "file": "character_base/character_base_tail.json"
+    },
+    {
+      "id": "pussy",
+      "name": "女性生殖器",
+      "icon": "🌸",
+      "order": 18,
+      "file": "character_base/character_base_pussy.json"
+    },
+    {
+      "id": "penis",
+      "name": "男性生殖器",
+      "icon": "🍆",
+      "order": 19,
+      "file": "character_base/character_base_penis.json"
+    },
+    {
+      "id": "legs",
+      "name": "腿",
+      "icon": "🦵",
+      "order": 20,
+      "file": "character_base/character_base_legs.json"
+    },
+    {
+      "id": "feet",
+      "name": "脚",
+      "icon": "🦶",
+      "order": 21,
+      "file": "character_base/character_base_feet.json"
+    },
+    {
+      "id": "body_parts",
+      "name": "其他身体部位",
+      "icon": "🫀",
+      "order": 22,
+      "file": "character_base/character_base_body_parts.json"
+    }
+  ]
+}

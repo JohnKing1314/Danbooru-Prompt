@@ -1,0 +1,882 @@
+{
+  "id": "fire_emblem",
+  "name": "火焰纹章",
+  "order": 16,
+  "characters": [
+    {
+      "name": "琉尔（女）",
+      "tag": "alear (female) (fire emblem)",
+      "auto": "1girl|一个女孩;blue hair|蓝发;red eyes|红瞳;blue eyes|蓝瞳;heterochromia|异色瞳;two-tone hair|双色发;split-color hair|阴阳发;crossed bangs|交叉刘海;tiara|冠冕;very long hair|超长发;hair between eyes|眼间发;crown braid|皇冠辫",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "琉尔（女）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "琉尔（男）",
+      "tag": "alear (male) (fire emblem)",
+      "auto": "1boy|一个男孩;blue hair|蓝发;red eyes|红瞳;blue eyes|蓝瞳;two-tone hair|双色发;heterochromia|异色瞳;short hair|短发;crossed bangs|交叉刘海;hair between eyes|眼间发;split-color hair|阴阳发;long sleeves|长袖",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "琉尔（男）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "阿托斯",
+      "tag": "athos (fire emblem)",
+      "auto": "1boy|一个男孩;long hair|长发;white hair|白发;wizard|巫师;sandals|凉鞋;circlet|额环;staff|法杖;very long beard|胡须很长;beard|胡须;sitting|坐姿;belt|腰带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "阿托斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "阿库娅（火纹）",
+      "tag": "azura (fire emblem)",
+      "auto": "1girl|一个女孩;yellow eyes|黄瞳;blue hair|蓝发;hair between eyes|眼间发;very long hair|超长发;veil|面纱;fingerless gloves|露指手套;elbow gloves|长筒手套;white dress|白色连衣裙;medium breasts|中等胸;long hair|长发;white gloves|白色手套",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "阿库娅（火纹）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "巴特尔",
+      "tag": "bartre (fire emblem)",
+      "auto": "1boy|一个男孩;brown hair|棕发;boots|靴子;headband|头带;mustache|小胡子;weapon|武器;muscular male|肌肉男;brown eyes|棕瞳;axe|斧头;teeth|牙齿",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "巴特尔（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "贝雷丝",
+      "tag": "byleth (female) (fire emblem)",
+      "auto": "1girl|一个女孩;blue hair|蓝发;blue eyes|蓝瞳;long hair|长发;large breasts|大胸;navel|肚脐;hair between eyes|眼间发;alternate costume|换装",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "贝雷丝（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "贝雷特",
+      "tag": "byleth (male) (fire emblem)",
+      "auto": "1boy|一个男孩;blue eyes|蓝瞳;blue hair|蓝发;short hair|短发;green hair|绿发;armor|盔甲;green eyes|绿瞳;hair between eyes|眼间发;1girl|一个女孩",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "贝雷特（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "卡美拉",
+      "tag": "camilla (fire emblem)",
+      "auto": "1girl|一个女孩;purple hair|紫发;hair over one eye|遮单眼发;purple eyes|紫瞳;large breasts|大胸;wavy hair|波浪发;long hair|长发;very long hair|超长发;tiara|冠冕;alternate costume|换装;black panties|黑色内裤",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "卡美拉（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "卡纳斯",
+      "tag": "canas (fire emblem)",
+      "auto": "1boy|一个男孩;monocle|单片眼镜;purple eyes|紫瞳;purple hair|紫发;book|书本;boots|靴子;cape|披风;belt|腰带;floating cape|飘动的斗篷;purple cloak|紫色斗篷;purple theme|紫色主题",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "卡纳斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "赛莉卡",
+      "tag": "celica (fire emblem)",
+      "auto": "1girl|一个女孩;red hair|红发;red eyes|红瞳;long hair|长发;earrings|耳环;fingerless gloves|露指手套;tiara|冠冕;cape|披风;medium breasts|中等胸;detached collar|假领;black gloves|黑色手套;hairband|发箍",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "赛莉卡（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "赛琳",
+      "tag": "celine (fire emblem)",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;blonde hair|金发;crown|皇冠;butterfly hair ornament|蝴蝶发饰;very long hair|超长发;wrist bow|手腕蝴蝶结;orange bow|橙色蝴蝶结;small breasts|小胸;hair flower|发花;detached sleeves|分离袖",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "赛琳（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "克洛艾",
+      "tag": "chloe (fire emblem)",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;aqua hair|水色头发;large breasts|大胸;very long hair|超长发;white gloves|白色手套;elbow gloves|长筒手套;shoulder armor|肩甲;covered navel|隔衣显肚脐;side braid|侧编发;commentary|作者注释;hair bow|蝴蝶结发饰",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "克洛艾（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "库洛姆",
+      "tag": "chrom (fire emblem)",
+      "auto": "blue hair|蓝发;1boy|一个男孩;blue eyes|蓝瞳;cape|披风;gloves|手套;sword|长剑;brand of the exalt|圣王纹;belt|腰带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "库洛姆（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "神威（女）",
+      "tag": "corrin (female) (fire emblem)",
+      "auto": "1girl|一个女孩;red eyes|红瞳;pointy ears|尖耳;long hair|长发;hair between eyes|眼间发;grey hair|灰发;black hairband|黑色发箍;white hair|白发;large breasts|大胸;medium breasts|中等胸;very long hair|超长发",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "神威（女）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "神威（男）",
+      "tag": "corrin (male) (fire emblem)",
+      "auto": "1boy|一个男孩;red eyes|红瞳;pointy ears|尖耳;crossdressing|变装;grey hair|灰发;white hair|白发;hair between eyes|眼间发;blonde hair|金发;eyelashes|睫毛;armor|盔甲",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "神威（男）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "达特",
+      "tag": "dart (fire emblem)",
+      "auto": "",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "达特（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "多尔卡斯",
+      "tag": "dorcas (fire emblem)",
+      "auto": "1boy|一个男孩;red hair|红发;beard|胡须;muscular male|肌肉男;brown eyes|棕瞳;bare pectorals|裸露的胸肌;nipples|乳头;short hair|短发;belt|腰带;sandals|凉鞋;chest harness|胸前束带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "多尔卡斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "杜尔班",
+      "tag": "durban (fire emblem)",
+      "auto": "",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "杜尔班（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "艾瑞柯",
+      "tag": "eirika (fire emblem)",
+      "auto": "1girl|一个女孩;long hair|长发;aqua hair|水色头发;aqua eyes|青绿色眼睛;breastplate|胸甲;blue eyes|蓝瞳;earrings|耳环;sidelocks|鬓发;red gloves|红色手套;fingerless gloves|露指手套;red shirt|红色衬衫;blue hair|蓝发",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "艾瑞柯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "艾丽泽",
+      "tag": "elise (fire emblem)",
+      "auto": "1girl|一个女孩;blonde hair|金发;purple eyes|紫瞳;twintails|双马尾;long hair|长发;purple hair|紫发;hair bow|蝴蝶结发饰;twin drills|双钻卷;very long hair|超长发;hair ribbon|发带;dress|连衣裙",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "艾丽泽（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "艾利乌德",
+      "tag": "eliwood (fire emblem)",
+      "auto": "1boy|一个男孩;blue eyes|蓝瞳;red hair|红发;cape|披风;armor|盔甲;belt|腰带;sword|长剑;headband|头带;circlet|额环",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "艾利乌德（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "埃菲德尔",
+      "tag": "ephidel (fire emblem)",
+      "auto": "",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "埃菲德尔（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "艾尔克",
+      "tag": "erk (fire emblem)",
+      "auto": "1boy|一个男孩;purple hair|紫发;purple eyes|紫瞳;red cape|红色斗篷;boots|靴子;cape|披风;fingerless gloves|露指手套;teeth|牙齿;book|书本;blue shirt|蓝衬衫;symbol-only commentary|仅符号评论;commentary|作者注释",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "艾尔克（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "法莉娜",
+      "tag": "farina (fire emblem)",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;blue hair|蓝发;short hair|短发;breastplate|胸甲;thigh boots|过膝长靴;zettai ryouiki|绝对领域;shoulder armor|肩甲;fingerless gloves|露指手套;short sleeves|短袖;belt|腰带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "法莉娜（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "菲奥拉",
+      "tag": "fiora (fire emblem)",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;long hair|长发;aqua hair|水色头发;hair flower|发花;fingerless gloves|露指手套;breastplate|胸甲;medium breasts|中等胸;criss-cross halter|交叉挂脖;navel|肚脐;headband|头带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "菲奥拉（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "菲约尔姆",
+      "tag": "fjorm (fire emblem)",
+      "auto": "1girl|一个女孩;blonde hair|金发;blue eyes|蓝瞳;short hair|短发;earrings|耳环;gradient hair|渐变发;blue hair|蓝发;crown|皇冠;feather trim|羽毛滚边;hair flower|发花;medium breasts|中等胸",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "菲约尔姆（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "芙莲",
+      "tag": "flayn (fire emblem)",
+      "auto": "1girl|一个女孩;green hair|绿发;green eyes|绿瞳;long hair|长发;garreg mach monastery uniform|加尔格·马可修道院制服;hair ornament|发饰;long sleeves|长袖;hairclip|发夹;bow|蝴蝶结;drill hair|钻头卷",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "芙莲（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "芙萝莉娜",
+      "tag": "florina (fire emblem)",
+      "auto": "1girl|一个女孩;long hair|长发;purple hair|紫发;green eyes|绿瞳;circlet|额环;breastplate|胸甲;fingerless gloves|露指手套;elbow gloves|长筒手套;white dress|白色连衣裙;parted bangs|中分刘海;belt|腰带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "芙萝莉娜（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "戈尔德玛丽",
+      "tag": "goldmary (fire emblem)",
+      "auto": "1girl|一个女孩;brown hair|棕发;large breasts|大胸;white ribbon|白色缎带;yellow eyes|黄瞳;braided ponytail|麻花辫马尾;low ponytail|低马尾;hair ribbon|发带;long hair|长发;black corset|黑色紧身胸衣;mole on breast|乳痣;white gloves|白色手套",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "戈尔德玛丽（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "邪龙津利",
+      "tag": "grima (fire emblem)",
+      "auto": "1girl|一个女孩;red eyes|红瞳;twintails|双马尾;white hair|白发;long hair|长发;long sleeves|长袖;dark persona|黑化",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "邪龙津利（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "吉娜维尔",
+      "tag": "guinevere (fire emblem)",
+      "auto": "1girl|一个女孩;blonde hair|金发;long hair|长发;circlet|额环;red dress|红色连衣裙;green eyes|绿瞳;necklace|项链;medium breasts|中等胸;gold trim|金色镶边;long sleeves|长袖;long dress|长连衣裙;detached sleeves|分离袖",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "吉娜维尔（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "哈肯",
+      "tag": "harken (fire emblem)",
+      "auto": "1boy|一个男孩;blonde hair|金发;brown footwear|棕色鞋靴;shin guards|护胫;shoulder armor|肩甲;damaged|受损;non-web source|非网页来源;manly|男子气概;pauldrons|肩甲;shield|盾牌;sword|长剑",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "哈肯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "霍克艾",
+      "tag": "hawkeye (fire emblem)",
+      "auto": "blonde hair|金发;necklace|项链;long hair|长发;feathers|羽毛;sandals|凉鞋;1boy|一个男孩;topless male|男性裸上身;navel|肚脐;1girl|一个女孩;alternate costume|换装;yellow eyes|黄瞳;low ponytail|低马尾",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "霍克艾（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "希斯",
+      "tag": "heath (fire emblem)",
+      "auto": "1boy|一个男孩;armor|盔甲;green hair|绿发;two-tone hair|双色发;white hair|白发;gloves|手套;long hair|长发;spear|长枪;yellow eyes|黄瞳;green eyes|绿瞳;teeth|牙齿;belt|腰带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "希斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "赫克托尔",
+      "tag": "hector (fire emblem)",
+      "auto": "1boy|一个男孩;blue eyes|蓝瞳;blue hair|蓝发;cape|披风;gloves|手套;gauntlets|护手;holding axe|握着斧头;holding weapon|手持武器;armor|盔甲",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "赫克托尔（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "艾克",
+      "tag": "ike (fire emblem)",
+      "auto": "blue hair|蓝发;1boy|一个男孩;blue eyes|蓝瞳;headband|头带;cape|披风;short hair|短发;sword|长剑;gloves|手套;fingerless gloves|露指手套;muscular male|肌肉男;nipples|乳头",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "艾克（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "伊萨多拉",
+      "tag": "isadora (fire emblem)",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;blue hair|蓝发;elbow gloves|长筒手套;long hair|长发;breastplate|胸甲;pelvic curtain|阴部帘;shoulder armor|肩甲;sword|长剑;vambraces|前臂甲;white cape|白色斗篷;non-web source|非网页来源",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "伊萨多拉（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "伊修塔尔（火纹）",
+      "tag": "ishtar (fire emblem)",
+      "auto": "1girl|一个女孩;purple eyes|紫瞳;purple hair|紫发;long hair|长发;large breasts|大胸;ponytail|马尾;earrings|耳环;elbow gloves|长筒手套;very long hair|超长发;cape|披风;grey hair|灰发;side ponytail|侧马尾",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "伊修塔尔（火纹）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "艾比",
+      "tag": "ivy (fire emblem)",
+      "auto": "1girl|一个女孩;purple hair|紫发;purple eyes|紫瞳;large breasts|大胸;long hair|长发;mole under mouth|嘴角痣;white gloves|白色手套;fascinator|小礼帽饰;elbow gloves|长筒手套;very long hair|超长发;rose|玫瑰",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "艾比（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "贾法尔",
+      "tag": "jaffar (fire emblem)",
+      "auto": "fingerless gloves|露指手套;1boy|一个男孩;bandages|绷带;red eyes|红瞳;red hair|红发;cape|披风;dagger|匕首;midriff|腹部;navel|肚脐;1girl|一个女孩;short hair|短发;bracelet|手链",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "贾法尔（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "尤莉娅",
+      "tag": "julia (fire emblem)",
+      "auto": "1girl|一个女孩;purple hair|紫发;long hair|长发;circlet|额环;purple eyes|紫瞳;dress|连衣裙;breasts|胸部;alternate costume|换装;wide sleeves|宽袖;jewelry|珠宝;purple cape|紫色斗篷",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "尤莉娅（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "阳炎（火纹）",
+      "tag": "kagero (fire emblem)",
+      "auto": "1girl|一个女孩;hair over one eye|遮单眼发;large breasts|大胸;brown hair|棕发;long hair|长发;brown eyes|棕瞳;ponytail|马尾;alternate costume|换装;ninja|忍者",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "阳炎（火纹）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "卡雷尔",
+      "tag": "karel (fire emblem)",
+      "auto": "1boy|一个男孩;sword|长剑;brown hair|棕发;hair over one eye|遮单眼发;yellow eyes|黄瞳;boots|靴子;long hair|长发;long coat|长外套;very long hair|超长发;teeth|牙齿;belt|腰带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "卡雷尔（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "卡拉",
+      "tag": "karla (fire emblem)",
+      "auto": "1girl|一个女孩;long hair|长发;black hair|黑发;large breasts|大胸;long sleeves|长袖;grey eyes|灰瞳;side slit|侧开衩;sash|饰带;katana|武士刀;medium breasts|中等胸",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "卡拉（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "肯特",
+      "tag": "kent (fire emblem)",
+      "auto": "1boy|一个男孩;fingerless gloves|露指手套;armor|盔甲;orange eyes|橙瞳;orange hair|橙发;arm guards|臂甲;brown eyes|棕瞳;brown footwear|棕色鞋靴;brown hair|棕发;brown pants|棕色裤子;clenched hands|紧握双拳;gold trim|金色镶边",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "肯特（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "艾克拉",
+      "tag": "kiran (male) (fire emblem)",
+      "auto": "hood up|戴上兜帽;1boy|一个男孩;hooded robe|连帽长袍;boots|靴子;brown gloves|棕色手套;brown footwear|棕色鞋靴;gold trim|金色镶边;faceless male|无脸男性;leather gloves|皮手套;belt|腰带;hooded cloak|连帽斗篷;long sleeves|长袖",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "艾克拉（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "拉克秀",
+      "tag": "larcei (fire emblem)",
+      "auto": "1girl|一个女孩;black hair|黑发;short hair|短发;sidelocks|鬓发;breastplate|胸甲;shoulder armor|肩甲;earrings|耳环;belt|腰带;purple eyes|紫瞳;gloves|手套;purple tunic|紫色束腰外衣",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "拉克秀（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "拉加尔特",
+      "tag": "legault (fire emblem)",
+      "auto": "cape|披风;1boy|一个男孩;long hair|长发;scar|伤疤;fingerless gloves|露指手套;purple eyes|紫瞳;belt|腰带;boots|靴子;headband|头带;torn clothes|撕裂衣物;purple hair|紫发;dagger|匕首",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "拉加尔特（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "莱拉（火纹）",
+      "tag": "leila (fire emblem)",
+      "auto": "1girl|一个女孩;short hair|短发;mole under mouth|嘴角痣;red hair|红发;medium breasts|中等胸;cape|披风;red eyes|红瞳;hair over one eye|遮单眼发;elbow gloves|长筒手套;holding|手持;thigh boots|过膝长靴;bracelet|手链",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "莱拉（火纹）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "利姆斯特拉",
+      "tag": "limstella (fire emblem)",
+      "auto": "1other|一个其他角色;androgynous|中性;black hair|黑发;long hair|长发;yellow eyes|黄瞳;long sleeves|长袖;white pants|白色裤子;white shirt|白衬衫;jewelry|珠宝;magic|魔法;black footwear|黑色鞋靴;black jacket|黑色夹克",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "利姆斯特拉（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "莱纳斯",
+      "tag": "linus (fire emblem)",
+      "auto": "1boy|一个男孩;belt|腰带;blonde hair|金发;open shirt|敞开的衬衫;boots|靴子;muscular male|肌肉男;axe|斧头;bandages|绷带;brown eyes|棕瞳;earrings|耳环;manly|男子气概;navel|肚脐",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "莱纳斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "洛伊德",
+      "tag": "lloyd (fire emblem)",
+      "auto": "1boy|一个男孩;blonde hair|金发;long coat|长外套;non-web source|非网页来源;official alternate eye color|官方替代瞳色;torn clothes|撕裂衣物;undead|亡灵;yellow eyes|黄瞳;1girl|一个女孩;bad id|失效来源;bad twitter id|失效推特链接;green eyes|绿瞳",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "洛伊德（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "露易丝",
+      "tag": "louise (fire emblem)",
+      "auto": "1girl|一个女孩;blonde hair|金发;long hair|长发;purple eyes|紫瞳;braid|单辫;large breasts|大胸;cape|披风;thigh boots|过膝长靴",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "露易丝（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "罗文",
+      "tag": "lowen (fire emblem)",
+      "auto": "1boy|一个男孩;hair over eyes|遮眼发;muscular male|肌肉男;short hair|短发;aqua hair|水色头发;large pectorals|大胸肌;facial hair|面部毛发;covered eyes|蒙住的眼睛;green hair|绿发;nipples|乳头;commission|约稿;day|白天",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "罗文（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "露琪娜",
+      "tag": "lucina (fire emblem)",
+      "auto": "1girl|一个女孩;blue hair|蓝发;blue eyes|蓝瞳;long hair|长发;tiara|冠冕;hair between eyes|眼间发;brand of the exalt|圣王纹;long sleeves|长袖;english commentary|英文注释;alternate costume|换装;fingerless gloves|露指手套",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "露琪娜（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "鲁塞亚",
+      "tag": "lucius (fire emblem)",
+      "auto": "1boy|一个男孩;blonde hair|金发;long hair|长发;blue eyes|蓝瞳;bad id|失效来源;cape|披风;long sleeves|长袖;robe|长袍;androgynous|中性;boots|靴子;bad pixiv id|Pixiv来源失效;staff|法杖",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "鲁塞亚（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "琳",
+      "tag": "lyn (fire emblem)",
+      "auto": "1girl|一个女孩;green hair|绿发;green eyes|绿瞳;earrings|耳环;very long hair|超长发;large breasts|大胸;ponytail|马尾;high ponytail|高马尾;fingerless gloves|露指手套;blue dress|蓝色连衣裙;short sleeves|短袖;long hair|长发",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "琳（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "马库斯",
+      "tag": "marcus (fire emblem)",
+      "auto": "1boy|一个男孩;beard|胡须;gloves|手套;spear|长枪;copyright name|作品名;horse|马;shield|盾牌;white hair|白发;armor|盔甲;purple hair|紫发;barding|马铠;armored boots|铠甲靴",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "马库斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "马尔斯",
+      "tag": "marth (fire emblem)",
+      "auto": "blue hair|蓝发;1boy|一个男孩;blue eyes|蓝瞳;tiara|冠冕;cape|披风;sword|长剑;armor|盔甲;gloves|手套;fingerless gloves|露指手套;bad id|失效来源",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "马尔斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "马修",
+      "tag": "matthew (fire emblem)",
+      "auto": "1boy|一个男孩;cloak|斗篷;brown eyes|棕瞳;brown hair|棕发;cape|披风;knife|小刀;weapon|武器;bad id|失效来源;bad pixiv id|Pixiv来源失效;dagger|匕首;reverse grip|反手握刀;short hair|短发",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "马修（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "瓦由",
+      "tag": "mia (fire emblem)",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;long hair|长发;blue hair|蓝发;fingerless gloves|露指手套;white hairband|白色发箍;ahoge|呆毛;purple hair|紫发;detached sleeves|分离袖;belt|腰带;black gloves|黑色手套",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "瓦由（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "米卡雅",
+      "tag": "micaiah (fire emblem)",
+      "auto": "1girl|一个女孩;yellow eyes|黄瞳;long hair|长发;grey hair|灰发;hair ribbon|发带;half updo|半扎发;blue scarf|蓝色围巾;fingerless gloves|露指手套;black gloves|黑色手套;sleeveless dress|无袖连衣裙;elbow gloves|长筒手套",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "米卡雅（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "涅尔加尔",
+      "tag": "nergal (fire emblem)",
+      "auto": "1boy|一个男孩;grey hair|灰发;beard|胡须;black robe|黑色长袍;holding book|抱着书;non-web source|非网页来源;old man|老年男性;book|书本;cape|披风;copyright name|作品名;dragon|龙",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "涅尔加尔（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "尼尔斯",
+      "tag": "nils (fire emblem)",
+      "auto": "1boy|一个男孩;red eyes|红瞳;flute|长笛;scarf|围巾;circlet|额环;blue hair|蓝发;boots|靴子;aqua hair|水色头发;teeth|牙齿;bandages|绷带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "尼尔斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "妮娜",
+      "tag": "nina (fire emblem)",
+      "auto": "1girl|一个女孩;ahoge|呆毛;parted bangs|中分刘海;blue eyes|蓝瞳;low twin braids|低双麻花辫;long hair|长发;low twintails|低双马尾;medium breasts|中等胸;commissioner upload|委托人上传;white hairband|白色发箍;hooded capelet|连帽短披肩;non-web source|非网页来源",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "妮娜（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "妮妮安",
+      "tag": "ninian (fire emblem)",
+      "auto": "1girl|一个女孩;red eyes|红瞳;long hair|长发;blue hair|蓝发;hair ornament|发饰;dress|连衣裙;cape|披风;bad id|失效来源;aqua hair|水色头发;wedding dress|婚纱",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "妮妮安（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "妮诺",
+      "tag": "nino (fire emblem)",
+      "auto": "1girl|一个女孩;green hair|绿发;blue eyes|蓝瞳;short hair|短发;cape|披风;hairband|发箍;long sleeves|长袖;purple hairband|紫色发带;skirt|半身裙;white skirt|白裙",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "妮诺（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "奥菲莉娅",
+      "tag": "ophelia (fire emblem)",
+      "auto": "1girl|一个女孩;blonde hair|金发;long hair|长发;ahoge|呆毛;medium breasts|中等胸;grey eyes|灰瞳;circlet|额环;bodystocking|连体丝袜;cape|披风;covered navel|隔衣显肚脐;turtleneck|高领衫",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "奥菲莉娅（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "奥斯温",
+      "tag": "oswin (fire emblem)",
+      "auto": "1boy|一个男孩;brown hair|棕发;armor|盔甲;gauntlets|护手;gloves|手套;spear|长枪;armored boots|铠甲靴;cape|披风;chain|锁链;company name|公司名;copyright name|作品名;holding weapon|手持武器",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "奥斯温（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "潘特",
+      "tag": "pent (fire emblem)",
+      "auto": "1boy|一个男孩;cape|披风;grey hair|灰发;long hair|长发;low ponytail|低马尾;purple eyes|紫瞳;alternate costume|换装;bottle|玻璃瓶;bow|蝴蝶结;epaulettes|肩章;gloves|手套;rose|玫瑰",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "潘特（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "普莉希拉",
+      "tag": "priscilla (fire emblem)",
+      "auto": "1girl|一个女孩;red hair|红发;green eyes|绿瞳;short hair|短发;elbow gloves|长筒手套;white gloves|白色手套;holding staff|持杖;wing hair ornament|翅膀发饰;bad id|失效来源;feather hair ornament|羽毛发饰;see-through|透视",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "普莉希拉（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "拉斯",
+      "tag": "rath (fire emblem)",
+      "auto": "1boy|一个男孩;green hair|绿发;earrings|耳环;bandana|方巾;fingerless gloves|露指手套;green eyes|绿瞳;quiver|箭袋;boots|靴子;fur trim|毛皮镶边;teeth|牙齿;bandages|绷带;belt|腰带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "拉斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "雷万",
+      "tag": "raven (fire emblem)",
+      "auto": "1boy|一个男孩;red eyes|红瞳;red hair|红发;sword|长剑",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "雷万（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "丽贝卡（火纹）",
+      "tag": "rebecca (fire emblem)",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;green hair|绿发;twin braids|双辫;bandana|方巾;fingerless gloves|露指手套;twintails|双马尾;quiver|箭袋;boots|靴子;long hair|长发;hair over shoulder|披肩发",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "丽贝卡（火纹）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "雷诺",
+      "tag": "renault (fire emblem)",
+      "auto": "1boy|一个男孩;cape|披风;grey hair|灰发;sword|长剑",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "雷诺（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "蕾雅",
+      "tag": "rhea (fire emblem)",
+      "auto": "1girl|一个女孩;green hair|绿发;green eyes|绿瞳;long hair|长发;hair flower|发花;large breasts|大胸;english commentary|英文注释;parted bangs|中分刘海;white dress|白色连衣裙",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "蕾雅（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "鲁弗莱（女）",
+      "tag": "robin (female) (fire emblem)",
+      "auto": "1girl|一个女孩;twintails|双马尾;long hair|长发;white hair|白发;brown eyes|棕瞳;grey hair|灰发;medium breasts|中等胸",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "鲁弗莱（女）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "鲁弗莱（男）",
+      "tag": "robin (male) (fire emblem)",
+      "auto": "1boy|一个男孩;white hair|白发;hood|兜帽;gloves|手套;red eyes|红瞳;cape|披风;wizard|巫师",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "鲁弗莱（男）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "罗兰",
+      "tag": "roland (fire emblem)",
+      "auto": "",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "罗兰（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "罗伊",
+      "tag": "roy (fire emblem)",
+      "auto": "1boy|一个男孩;blue eyes|蓝瞳;red hair|红发;headband|头带;cape|披风;fingerless gloves|露指手套;armor|盔甲;sword|长剑;blue armor|蓝色盔甲;short hair|短发;gloves|手套",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "罗伊（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "圣女艾利米涅",
+      "tag": "saint elimine (fire emblem)",
+      "auto": "1girl|一个女孩;blonde hair|金发;very long hair|超长发;green eyes|绿瞳;elbow gloves|长筒手套;white dress|白色连衣裙;long dress|长连衣裙;single glove|单只手套;cape|披风;medium breasts|中等胸;gold trim|金色镶边;armlet|臂环",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "圣女艾利米涅（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "塞因",
+      "tag": "sain (fire emblem)",
+      "auto": "1boy|一个男孩;green armor|绿色盔甲;green eyes|绿瞳;green hair|绿发;headband|头带;spear|长枪;elbow pads|护肘;gauntlets|护手;gold trim|金色镶边;knee boots|及膝靴;long sleeves|长袖;non-web source|非网页来源",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "塞因（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "樱（火纹）",
+      "tag": "sakura (fire emblem)",
+      "auto": "1girl|一个女孩;pink hair|粉发;short hair|短发;hairband|发箍;pink eyes|粉瞳;red eyes|红瞳;japanese clothes|日式传统服装;fingerless gloves|露指手套;hair ornament|发饰;cat ears|猫耳",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "樱（火纹）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "塞利斯",
+      "tag": "seliph (fire emblem)",
+      "auto": "blue hair|蓝发;1boy|一个男孩;blue eyes|蓝瞳;long hair|长发;headband|头带;cape|披风;ponytail|马尾;sword|长剑;gloves|手套;boots|靴子;white gloves|白色手套",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "塞利斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "塞拉",
+      "tag": "serra (fire emblem)",
+      "auto": "1girl|一个女孩;twintails|双马尾;pink hair|粉发;purple eyes|紫瞳;long hair|长发;elbow gloves|长筒手套;white gloves|白色手套;white dress|白色连衣裙;staff|法杖;scarf|围巾;dress|连衣裙",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "塞拉（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "谢兹（女）",
+      "tag": "shez (female) (fire emblem)",
+      "auto": "1girl|一个女孩;purple hair|紫发;hair over one eye|遮单眼发;purple eyes|紫瞳;long hair|长发;single hair bun|单发髻;large breasts|大胸;choker|颈圈;asymmetrical clothes|不对称衣物;armor|盔甲;medium breasts|中等胸",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "谢兹（女）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "索尼娅（火纹）",
+      "tag": "sonia (fire emblem the blazing blade)",
+      "auto": "1girl|一个女孩;mature female|成熟女性;yellow eyes|黄瞳;circlet|额环;large breasts|大胸;long hair|长发;red nails|红色指甲;black hair|黑发;lipstick|口红;fingernails|指甲;earrings|耳环",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "索尼娅（火纹）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "苏谛斯",
+      "tag": "sothis (fire emblem)",
+      "auto": "1girl|一个女孩;green hair|绿发;green eyes|绿瞳;ribbon braid|缎带编发;pointy ears|尖耳;twin braids|双辫;long hair|长发;tiara|冠冕;hair ornament|发饰;hair ribbon|发带;side braid|侧编发",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "苏谛斯（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "莎莉亚",
+      "tag": "tharja (fire emblem)",
+      "auto": "1girl|一个女孩;black hair|黑发;long hair|长发;blunt bangs|齐刘海;large breasts|大胸;two side up|半扎双马尾;tiara|冠冕;bodystocking|连体丝袜;medium breasts|中等胸;purple eyes|紫瞳;navel|肚脐",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "莎莉亚（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "琪琪（成年）",
+      "tag": "tiki (adult) (fire emblem)",
+      "auto": "1girl|一个女孩;green hair|绿发;pointy ears|尖耳;green eyes|绿瞳;long hair|长发;ponytail|马尾;tiara|冠冕;hair ornament|发饰;large breasts|大胸;english commentary|英文注释",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "琪琪（成年）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "琪琪（幼年）",
+      "tag": "tiki (young) (fire emblem)",
+      "auto": "1girl|一个女孩;green hair|绿发;green eyes|绿瞳;pointy ears|尖耳;long hair|长发;ponytail|马尾;tiara|冠冕;pink dress|粉色连衣裙;bracelet|手链;short dress|短连衣裙;hair ribbon|发带",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "琪琪（幼年）（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "乌苏拉",
+      "tag": "ursula (fire emblem)",
+      "auto": "1girl|一个女孩;short hair|短发;purple eyes|紫瞳;earrings|耳环;elbow gloves|长筒手套;purple hair|紫发;large breasts|大胸;medium breasts|中等胸;blue hair|蓝发;side slit|侧开衩;dress|连衣裙;blue eyes|蓝瞳",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "乌苏拉（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "瓦伊达",
+      "tag": "vaida (fire emblem)",
+      "auto": "1girl|一个女孩;blonde hair|金发;earrings|耳环;scar|伤疤;after sex|事后;cum on breasts|胸部精液;cumdrip|精液滴落;facial|颜射;female pubic hair|女性阴毛;licking lips|舔嘴唇;navel|肚脐;nipples|乳头",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "瓦伊达（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "华莱士",
+      "tag": "wallace (fire emblem)",
+      "auto": "1boy|一个男孩;armored boots|铠甲靴;bald|秃头;gauntlets|护手;gloves|手套;spear|长枪",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "华莱士（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "威尔",
+      "tag": "wil (fire emblem)",
+      "auto": "1boy|一个男孩;brown eyes|棕瞳;brown hair|棕发;fingerless gloves|露指手套;gloves|手套;flower|花朵;leaf|叶子;armor|盔甲;asymmetrical clothes|不对称衣物;holding weapon|手持武器;quiver|箭袋",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "威尔（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "尤娜卡",
+      "tag": "yunaka (fire emblem)",
+      "auto": "1girl|一个女孩;star facial mark|星形面部纹样;star hair ornament|星形发饰;red hair|红发;red eyes|红瞳;long hair|长发;large breasts|大胸;santa hat|圣诞帽;christmas|圣诞节;red bodysuit|红色连体衣",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "尤娜卡（火焰纹章）",
+      "subName": ""
+    },
+    {
+      "name": "泽菲尔",
+      "tag": "zephiel (fire emblem)",
+      "auto": "cape|披风;1boy|一个男孩;blonde hair|金发;aged down|年幼化;alternate costume|换装;bag|包;bell|铃铛;belt|腰带;boots|靴子;bow|蝴蝶结;christmas ornaments|圣诞树装饰;fur trim|毛皮镶边",
+      "gameTag": "fire emblem",
+      "game": "火焰纹章",
+      "charZh": "泽菲尔（火焰纹章）",
+      "subName": ""
+    }
+  ],
+  "parentId": "games",
+  "file": "games/fire_emblem.json"
+}

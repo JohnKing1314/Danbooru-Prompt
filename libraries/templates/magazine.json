@@ -1,0 +1,15 @@
+{
+  "id": "magazine",
+  "icon": "📰",
+  "name": "杂志封面",
+  "desc": "刊头 + 封面人物 + 封面条",
+  "tags": "1girl|一个女孩;magazine cover|杂志封面;magazine masthead|杂志刊头;editorial photo|杂志大片;negative space|留白",
+  "layout": {
+    "tpl": "magazine",
+    "size": "1024x1536",
+    "title": "MOSS",
+    "sub": "ISSUE 01",
+    "info": "WINTER 2026"
+  },
+  "builtin": true
+}

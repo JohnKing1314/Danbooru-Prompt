@@ -1,0 +1,10 @@
+{
+  "id": "custom",
+  "name": "⭐ 自定义角色",
+  "icon": "⭐",
+  "order": 4,
+  "file": "custom.json",
+  "subDir": "custom",
+  "children": [],
+  "count": 0
+}

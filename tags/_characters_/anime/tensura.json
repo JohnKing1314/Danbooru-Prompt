@@ -1,0 +1,55 @@
+{
+  "id": "tensura",
+  "name": "关于我转生变成史莱姆这档事",
+  "parentId": "anime",
+  "order": 27,
+  "file": "anime/tensura.json",
+  "characters": [
+    {
+      "game": "关于我转生变成史莱姆这档事",
+      "gameTag": "that time i got reincarnated as a slime",
+      "name": "利姆鲁",
+      "tag": "rimuru tempest",
+      "charZh": "利姆鲁（关于我转生变成史莱姆这档事）",
+      "auto": "blue hair|蓝发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "关于我转生变成史莱姆这档事",
+      "gameTag": "that time i got reincarnated as a slime",
+      "name": "米莉姆",
+      "tag": "milim nava",
+      "charZh": "米莉姆（关于我转生变成史莱姆这档事）",
+      "auto": "pink hair|粉发;twintails|双马尾",
+      "subName": ""
+    },
+    {
+      "game": "关于我转生变成史莱姆这档事",
+      "gameTag": "that time i got reincarnated as a slime",
+      "name": "紫苑",
+      "tag": "shion (tensura)",
+      "charZh": "紫苑（关于我转生变成史莱姆这档事）",
+      "auto": "purple hair|紫发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "关于我转生变成史莱姆这档事",
+      "gameTag": "that time i got reincarnated as a slime",
+      "name": "朱菜",
+      "tag": "shuna (tensura)",
+      "charZh": "朱菜（关于我转生变成史莱姆这档事）",
+      "auto": "pink hair|粉发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "关于我转生变成史莱姆这档事",
+      "gameTag": "that time i got reincarnated as a slime",
+      "name": "静",
+      "tag": "shizu (tensura)",
+      "charZh": "静（关于我转生变成史莱姆这档事）",
+      "auto": "black hair|黑发;long hair|长发;mask|口罩",
+      "subName": ""
+    }
+  ],
+  "count": 5
+}

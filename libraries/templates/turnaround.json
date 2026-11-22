@@ -1,0 +1,12 @@
+{
+  "id": "turnaround",
+  "icon": "🔁",
+  "name": "角色三视图",
+  "desc": "正面 / 侧面 / 背面 + 设定注释",
+  "tags": "1girl|一个女孩;character turnaround|角色三视图;reference sheet layout|设定集版式;full body|全身;white background|白色背景;multiple views|多视图",
+  "layout": {
+    "tpl": "single",
+    "size": "1024x1024"
+  },
+  "builtin": true
+}

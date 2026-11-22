@@ -1,0 +1,136 @@
+{
+  "id": "demon_slayer",
+  "name": "鬼灭之刃",
+  "parentId": "anime",
+  "order": 5,
+  "file": "anime/demon_slayer.json",
+  "characters": [
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "灶门炭治郎",
+      "tag": "kamado tanjirou",
+      "charZh": "灶门炭治郎（鬼灭之刃）",
+      "auto": "red hair|红发;red eyes|红瞳;forehead|额头;scar|伤疤;earrings|耳环;angel|天使",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "灶门祢豆子",
+      "tag": "kamado nezuko",
+      "charZh": "灶门祢豆子（鬼灭之刃）",
+      "auto": "black hair|黑发;pink eyes|粉瞳;forehead|额头;updo|盘发;kimono|和服;bamboo|竹筒;ribbon|丝带;single horn|独角;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "我妻善逸",
+      "tag": "agatsuma zenitsu",
+      "charZh": "我妻善逸（鬼灭之刃）",
+      "auto": "black hair|黑发",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "嘴平伊之助",
+      "tag": "hashibira inosuke",
+      "charZh": "嘴平伊之助（鬼灭之刃）",
+      "auto": "black hair|黑发;long hair|长发;green eyes|绿瞳;bangs|刘海;mask|口罩",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "蝴蝶忍",
+      "tag": "kochou shinobu",
+      "charZh": "蝴蝶忍（鬼灭之刃）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;updo|盘发;hair ornament|发饰;small breasts|小胸;tareme|垂眼",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "炼狱杏寿郎",
+      "tag": "rengoku kyoujurou",
+      "charZh": "炼狱杏寿郎（鬼灭之刃）",
+      "auto": "blonde hair|金发;long hair|长发;ponytail|马尾",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "猗窝座",
+      "tag": "akaza (kimetsu no yaiba)",
+      "charZh": "猗窝座（鬼灭之刃）",
+      "auto": "pink hair|粉发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "堕姬",
+      "tag": "daki (kimetsu no yaiba)",
+      "charZh": "堕姬（鬼灭之刃）",
+      "auto": "black hair|黑发;high ponytail|高马尾;blue eyes|蓝瞳;bangs|刘海;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "甘露寺蜜璃",
+      "tag": "kanroji mitsuri",
+      "charZh": "甘露寺蜜璃（鬼灭之刃）",
+      "auto": "pink hair|粉发;long hair|长发;green eyes|绿瞳;braid|麻花辫",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "富冈义勇",
+      "tag": "tomioka giyuu",
+      "charZh": "富冈义勇（鬼灭之刃）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳;ponytail|马尾",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "时透无一郎",
+      "tag": "tokitou muichirou",
+      "charZh": "时透无一郎（鬼灭之刃）",
+      "auto": "black hair|黑发;long hair|长发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "黑死牟",
+      "tag": "kokushibou (kimetsu no yaiba)",
+      "charZh": "黑死牟（鬼灭之刃）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "宇髓天元",
+      "tag": "uzui tengen (kimetsu no yaiba)",
+      "charZh": "宇髓天元（鬼灭之刃）",
+      "auto": "white hair|白发;short hair|短发;red eyes|红瞳;headband|头巾",
+      "subName": ""
+    },
+    {
+      "game": "鬼灭之刃",
+      "gameTag": "anime",
+      "name": "童磨",
+      "tag": "douma (kimetsu no yaiba)",
+      "charZh": "童磨（鬼灭之刃）",
+      "auto": "blonde hair|金发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    }
+  ],
+  "count": 14
+}

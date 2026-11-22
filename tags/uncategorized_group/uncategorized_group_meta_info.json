@@ -1,0 +1,2437 @@
+{
+  "id": "meta_info",
+  "name": "元数据与软件",
+  "icon": "🗂",
+  "color": "#64748b",
+  "majorId": "uncategorized_group",
+  "majorName": "未分类",
+  "tags": [
+    {
+      "en": "60+fps",
+      "zh": "60帧以上",
+      "rating": "g",
+      "count": 957,
+      "desc": "帧率达60fps以上的动画",
+      "kw": "高帧率 / 60帧 / 高帧率动画"
+    },
+    {
+      "en": "adobe animate (medium)",
+      "zh": "Adobe Animate作品",
+      "rating": "g",
+      "count": 127,
+      "desc": "用Adobe Animate（原Flash）制作的图像或动画",
+      "kw": "Flash动画 / Animate动画 / Adobe Flash动画 / Flash作品 / adobe flash (medium)"
+    },
+    {
+      "en": "adoptable",
+      "zh": "领养设",
+      "rating": "g",
+      "count": 1071,
+      "desc": "画师出售或拍卖的原创角色设定，买家获得使用权",
+      "kw": "可领养设 / 领养设定 / 出售设定 / 开放领养 / 拍卖设 / 卖设 / adopt / adoptables / adoptableth / adopts"
+    },
+    {
+      "en": "ai-assisted",
+      "zh": "AI辅助",
+      "rating": "g",
+      "count": 8811,
+      "desc": "先由AI生成、再经画师修正或覆盖绘制的作品",
+      "kw": "AI辅助作画 / AI辅助生成 / AI修图 / AI协助绘制 / AI辅助绘画 / ai assisted / aiassisted"
+    },
+    {
+      "en": "ai-generated",
+      "zh": "AI生成",
+      "rating": "g",
+      "count": 19396,
+      "desc": "完全由人工智能模型生成的图片或动画",
+      "kw": "人工智能生成 / AI绘图 / AI绘画 / AI作图 / AI画作 / AI制作 / AI生成图片 / ai / ai-created / ai generated / ai generated art"
+    },
+    {
+      "en": "alpha transparency",
+      "zh": "透明通道",
+      "rating": "g",
+      "count": 2124,
+      "desc": "含半透明区域的图片，深浅色背景下显示效果不同",
+      "kw": "透明背景 / 透明图 / 透明效果 / 半透明 / 透明像素 / 背景透明 / PNG透明"
+    },
+    {
+      "en": "alt text",
+      "zh": "替代文本",
+      "rating": "g",
+      "count": 17113,
+      "desc": "图片的替代文本说明，通常点击ALT按钮查看附加描述。",
+      "kw": "替代文字 / 替换文本 / 图片替代文字 / 图像替代文本 / 图片描述文字 / 替代说明 / 无障碍替代文本 / source image text"
+    },
+    {
+      "en": "alternate language",
+      "zh": "其他语言版",
+      "rating": "g",
+      "count": 4238,
+      "desc": "画师或授权方硬翻成其他语言（多为英文）的版本",
+      "kw": "另译版 / 官方翻译版 / 异语言版 / 多语言版 / 翻译版 / 英译版 / 硬翻版 / 正规翻訳版"
+    },
+    {
+      "en": "animated",
+      "zh": "动图",
+      "rating": "g",
+      "count": 138422,
+      "desc": "帖子为动画序列，如动图、APNG、Ugoira、视频等。",
+      "kw": "动画 / 动态图 / 动态图片 / 动态 / 动画片段 / 小动画 / GIF动图 / APNG动图 / animation"
+    },
+    {
+      "en": "animated gif",
+      "zh": "GIF动图",
+      "rating": "g",
+      "count": 27177,
+      "desc": "多帧动画GIF图片，由Danbooru自动添加。",
+      "kw": "动图 / GIF动画 / GIF动态图 / gif动图 / 动态GIF / gif"
+    },
+    {
+      "en": "animated png",
+      "zh": "动态PNG",
+      "rating": "g",
+      "count": 417,
+      "desc": "APNG格式的动态图，支持全彩与透明度。",
+      "kw": "动态PNG格式 / PNG动图 / 动图PNG"
+    },
+    {
+      "en": "annotated",
+      "zh": "有批注",
+      "rating": "g",
+      "count": 3746,
+      "desc": "图上附加了翻译、解说或人物标注",
+      "kw": "带注释 / 有注释 / 有标注 / 带解说"
+    },
+    {
+      "en": "annotation request",
+      "zh": "请求批注",
+      "rating": "g",
+      "count": 1188,
+      "desc": "请求为图中人物添加翻译或注释；完成后应改为 annotated",
+      "kw": "请求标注 / 请求注释 / 请求加注 / 请求翻译 / 请求标记 / 标注请求 / 注释请求 / 批注请求"
+    },
+    {
+      "en": "archived source",
+      "zh": "存档来源",
+      "rating": "g",
+      "count": 2693,
+      "desc": "来源填的是网页存档链接而非原始链接",
+      "kw": "存档链接 / 网页存档来源 / 存档来源链接 / 存档页面 / 归档来源"
+    },
+    {
+      "en": "art trade",
+      "zh": "交换绘",
+      "rating": "g",
+      "count": 533,
+      "desc": "画师互赠等复杂度作品的交换绘画",
+      "kw": "互绘 / 交换绘画 / 绘画交换 / 绘交换 / 交换图 / 互赠图 / arttrade"
+    },
+    {
+      "en": "artist collaboration",
+      "zh": "合绘",
+      "rating": "g",
+      "count": 11040,
+      "desc": "多位画师共同完成一张图",
+      "kw": "合作绘图 / 画师合作 / 共同创作 / 合作 / 联合绘制 / 协力创作 / 合图 / 合作画 / multiple artists / collaboration / artcollab / collab"
+    },
+    {
+      "en": "artist request",
+      "zh": "请求画师",
+      "rating": "g",
+      "count": 146461,
+      "desc": "请求识别帖子画师的标记，有来源时应直接创建画师标签。",
+      "kw": "画师识别 / 求画师 / 画师求助 / 识别画师 / 寻找画师 / 画师未知 / 请求识别画师 / 画师查询 / tagme (artist)"
+    },
+    {
+      "en": "artist self-reference",
+      "zh": "画师自我引用",
+      "rating": "g",
+      "count": 735,
+      "desc": "画面中包含画师对自己其他作品的引用",
+      "kw": "艺术家自我参考 / 画师自我参考 / 画师自指 / 作者自我引用 / 画师自我指涉 / 作者自画 / 元标签 / 作者"
+    },
+    {
+      "en": "artist-provided artwork",
+      "zh": "画师提供原图",
+      "rating": "g",
+      "count": 786,
+      "desc": "文件由画师本人直接提供给上传者，故非网络来源",
+      "kw": "画师提供 / 画师供图 / 画师直接提供 / 作者提供原图 / 画师提供的作品 / 画师直供图"
+    },
+    {
+      "en": "artstation sample",
+      "zh": "ArtStation缩略图",
+      "rating": "g",
+      "count": 633,
+      "desc": "ArtStation缩略图，尺寸或画质低于原图",
+      "kw": "ArtStation样图 / ArtStation采样图 / ArtStation截图 / ArtStation低清图 / ArtStation压缩图 / ArtStation预览图 / A站缩略图"
+    },
+    {
+      "en": "aseprite (medium)",
+      "zh": "Aseprite作品",
+      "rating": "g",
+      "count": 243,
+      "desc": "用像素绘图软件Aseprite制作或编辑的作品",
+      "kw": "Aseprite像素绘 / 像素绘图软件Aseprite作品 / Aseprite像素画 / aseprite"
+    },
+    {
+      "en": "audible music",
+      "zh": "可听到音乐",
+      "rating": "g",
+      "count": 14483,
+      "desc": "视频或动画中包含可听到的音乐",
+      "kw": "有音乐 / 带音乐 / 背景音乐 / 音乐可听见 / 配乐有声 / 音乐播放中 / 有声乐 / 可听背景乐 / song"
+    },
+    {
+      "en": "audible speech",
+      "zh": "有人声说话",
+      "rating": "g",
+      "count": 13128,
+      "desc": "视频/动画中有可辨语言的说话声，单纯呻吟不算",
+      "kw": "有语音 / 有声对白 / 有台词 / 可听到说话 / 有人声 / 有说话声 / 可辨识语音"
+    },
+    {
+      "en": "autodesk 3ds max (medium)",
+      "zh": "3ds Max",
+      "rating": "g",
+      "count": 213,
+      "desc": "使用Autodesk 3ds Max制作的3D作品",
+      "kw": "3D Studio Max / Autodesk 3ds Max / 3dsmax / 3ds max"
+    },
+    {
+      "en": "avatar generator",
+      "zh": "头像生成器",
+      "rating": "g",
+      "count": 102,
+      "desc": "用Picrew等头像生成器的预制素材拼出的图片",
+      "kw": "头像制作器 / 捏头像 / 头像拼制 / 头像生成工具"
+    },
+    {
+      "en": "bad arca.live id",
+      "zh": "错误Arca.live ID",
+      "rating": "g",
+      "count": 747,
+      "desc": "Arca.live 上的原帖已无法访问或 ID 错误。",
+      "kw": "Arca.live链接失效 / Arca.live ID错误 / Arca.live帖子失效 / 无效Arca.live ID"
+    },
+    {
+      "en": "bad artstation id",
+      "zh": "失效ArtStation ID",
+      "rating": "g",
+      "count": 739,
+      "desc": "ArtStation原帖或原图已不可公开访问",
+      "kw": "错误ArtStation ID / ArtStation链接失效 / ArtStation无效ID / 失效ArtStation链接 / ArtStation失效链接"
+    },
+    {
+      "en": "bad bcy id",
+      "zh": "失效半次元链接",
+      "rating": "g",
+      "count": 2685,
+      "desc": "半次元停服后原帖不可见的标记",
+      "kw": "错误半次元ID / 半次元失效 / 失效半次元ID / 半次元链接失效"
+    },
+    {
+      "en": "bad blogger link",
+      "zh": "损坏的Blogger链接",
+      "rating": "g",
+      "count": 1099
+    },
+    {
+      "en": "bad blogspot link",
+      "zh": "错误Blogspot链接",
+      "rating": "g",
+      "count": 1099,
+      "desc": "来源为Blogger图片直链，而非文章页面",
+      "kw": "错误的Blogger链接 / Blogspot直链 / Blogger图片直链 / 无效Blogspot链接 / bad blogger link"
+    },
+    {
+      "en": "bad deviantart id",
+      "zh": "无效DeviantArt ID",
+      "rating": "g",
+      "count": 9028,
+      "desc": "DeviantArt原帖或原图已不可见",
+      "kw": "无效DA链接 / 失效DA链接 / DA源失效 / 坏链 / 失效链接"
+    },
+    {
+      "en": "bad discord link",
+      "zh": "失效的Discord链接",
+      "rating": "g",
+      "count": 1489,
+      "desc": "来源为Discord图片直链，链接会过期失效",
+      "kw": "Discord链接失效 / 错误Discord链接 / Discord直链失效 / Discord图片链接过期"
+    },
+    {
+      "en": "bad drawr id",
+      "zh": "失效Drawr链接",
+      "rating": "g",
+      "count": 2668,
+      "desc": "Drawr网站停服后原帖不可见的标记",
+      "kw": "错误Drawr ID / Drawr失效链接 / 失效drawr图片源"
+    },
+    {
+      "en": "bad facebook link",
+      "zh": "失效脸书链接",
+      "rating": "g",
+      "count": 873,
+      "desc": "来源为脸书图片直链，链接会过期且无法回溯",
+      "kw": "无效脸书链接 / 脸书坏链 / 脸书链接失效"
+    },
+    {
+      "en": "bad fanbox id",
+      "zh": "错误Fanbox ID",
+      "rating": "g",
+      "count": 832,
+      "desc": "Pixiv FANBOX来源链接已失效。",
+      "kw": "无效Fanbox ID / 错误FANBOX ID / 失效Fanbox链接 / 错误Pixiv FANBOX ID / 坏Fanbox ID / Fanbox链接失效"
+    },
+    {
+      "en": "bad fc2 link",
+      "zh": "错误FC2链接",
+      "rating": "g",
+      "count": 26703,
+      "desc": "来源为FC2图片直链而非博客文章页面的链接。",
+      "kw": "FC2直链错误 / 失效FC2链接 / FC2图片直链 / 错误FC2外链"
+    },
+    {
+      "en": "bad hentai foundry id",
+      "zh": "失效的Hentai Foundry链接",
+      "rating": "g",
+      "count": 1492,
+      "desc": "Hentai Foundry原帖已被删除或设为私密",
+      "kw": "错误Hentai Foundry ID / Hentai Foundry链接失效 / 失效的HF链接 / HF链接错误 / bad hentai-foundry id"
+    },
+    {
+      "en": "bad hentai-foundry id",
+      "zh": "失效的Hentai-Foundry_ID",
+      "rating": "g",
+      "count": 1464
+    },
+    {
+      "en": "bad id",
+      "zh": "失效来源",
+      "rating": "g",
+      "count": 1481273,
+      "desc": "原来源链接已失效（图被删或设私）的帖子",
+      "kw": "坏链 / 死链 / 源失效 / 链接失效 / 失效链接 / 无效来源 / 坏ID / 错误ID"
+    },
+    {
+      "en": "bad imgur id",
+      "zh": "Imgur链接失效",
+      "rating": "g",
+      "count": 1903,
+      "desc": "Imgur原图已被删除或设为私密",
+      "kw": "Imgur图片失效 / Imgur已删除 / Imgur已私密 / 错误Imgur ID / Imgur链接错误 / 图床链接失效"
+    },
+    {
+      "en": "bad instagram id",
+      "zh": "无效Instagram ID",
+      "rating": "g",
+      "count": 1008,
+      "desc": "来源Instagram链接ID无效或已失效。",
+      "kw": "错误Instagram ID / 无效INS ID / 错误INS ID / 失效Instagram ID / 失效INS ID"
+    },
+    {
+      "en": "bad link",
+      "zh": "错误链接",
+      "rating": "g",
+      "count": 61030,
+      "desc": "来源为图片直链而非包含该图的页面",
+      "kw": "坏链接 / 无效链接 / 失效链接 / 错误来源 / 图片直链"
+    },
+    {
+      "en": "bad lofter id",
+      "zh": "失效Lofter ID",
+      "rating": "g",
+      "count": 3581,
+      "desc": "Lofter原帖或原图已不可见。",
+      "kw": "错误Lofter ID / Lofter链接失效 / Lofter不可见 / Lofter原帖失效"
+    },
+    {
+      "en": "bad mihuashi id",
+      "zh": "错误米画师ID",
+      "rating": "g",
+      "count": 604,
+      "desc": "米画师上的原帖或原图已不可见",
+      "kw": "米画师失效ID / 米画师失效链接 / 米画师坏链 / 米画师无效ID / 米画师已删除"
+    },
+    {
+      "en": "bad nico seiga link",
+      "zh": "错误Nico静画链接",
+      "rating": "g",
+      "count": 1950,
+      "desc": "来源为Niconico静画图片直链，而非作品页面。",
+      "kw": "坏Nico静画链接 / Nico静画链接错误 / 错误静画链接 / Nico静画错误链接"
+    },
+    {
+      "en": "bad nicoseiga id",
+      "zh": "错误Niconico静画ID",
+      "rating": "g",
+      "count": 5752,
+      "desc": "Niconico静画源图不可见或ID错误",
+      "kw": "失效Niconico静画ID / 无效Nico静画ID / Niconico静画ID错误 / nico静画失效"
+    },
+    {
+      "en": "bad nijie id",
+      "zh": "错误Nijie ID",
+      "rating": "g",
+      "count": 1227,
+      "desc": "Nijie原帖或原图已不可见",
+      "kw": "无效Nijie ID / Nijie ID失效 / 错误Nijie链接"
+    },
+    {
+      "en": "bad patreon id",
+      "zh": "错误Patreon ID",
+      "rating": "g",
+      "count": 1428,
+      "desc": "Patreon来源链接已失效或ID错误。",
+      "kw": "Patreon ID错误 / 失效Patreon ID / Patreon ID无效 / Patreon链接失效 / Patreon来源失效"
+    },
+    {
+      "en": "bad piapro id",
+      "zh": "Piapro链接失效",
+      "rating": "g",
+      "count": 614,
+      "desc": "Piapro原图不可访问或ID无效。",
+      "kw": "Piapro ID错误 / Piapro图片失效 / Piapro原图不可用 / Piapro链接错误"
+    },
+    {
+      "en": "bad pixiv id",
+      "zh": "Pixiv来源失效",
+      "rating": "g",
+      "count": 1121571,
+      "desc": "Pixiv原图已被删除或设为私密",
+      "kw": "Pixiv死链 / Pixiv坏链 / Pixiv链接失效 / Pixiv无效ID / Pixiv源失效 / 错误Pixiv ID / 失效Pixiv投稿"
+    },
+    {
+      "en": "bad poipiku id",
+      "zh": "无效Poipiku ID",
+      "rating": "g",
+      "count": 973,
+      "desc": "Poipiku原帖或原图已不可见",
+      "kw": "错误Poipiku ID / Poipiku无效ID / 无法访问的Poipiku / Poipiku链接失效"
+    },
+    {
+      "en": "bad source",
+      "zh": "错误来源",
+      "rating": "g",
+      "count": 26183,
+      "desc": "来源未直接指向原图或原页面，含跳转链接与主页链接",
+      "kw": "坏来源 / 无效来源 / 来源错误 / 来源不正确"
+    },
+    {
+      "en": "bad tumblr id",
+      "zh": "错误Tumblr ID",
+      "rating": "g",
+      "count": 25468,
+      "desc": "Tumblr原帖已不可见，应改标第三方来源",
+      "kw": "无效Tumblr ID / 失效Tumblr ID / 错误Tumblr链接 / Tumblr源失效 / Tumblr ID错误 / Tumblr原帖失效"
+    },
+    {
+      "en": "bad tumblr link",
+      "zh": "错误Tumblr链接",
+      "rating": "g",
+      "count": 3254,
+      "desc": "来源为Tumblr图片直链，而非帖子页面。",
+      "kw": "错误汤不热链接 / Tumblr直链 / 错误Tumblr来源 / 错误Tumblr地址"
+    },
+    {
+      "en": "bad twitter id",
+      "zh": "失效推特链接",
+      "rating": "g",
+      "count": 259644,
+      "desc": "Twitter原帖或原图已不可见或链接失效。",
+      "kw": "失效推特ID / 错误推特ID / 无效推特链接 / 坏推特ID / 推特原帖不可见"
+    },
+    {
+      "en": "bad twitter link",
+      "zh": "错误Twitter链接",
+      "rating": "g",
+      "count": 6243,
+      "desc": "来源为Twitter图片直链，而非推文页面",
+      "kw": "错误推特链接 / 坏推特链接 / 无效推特链接 / 推特直链 / Twitter直链"
+    },
+    {
+      "en": "bad weibo id",
+      "zh": "错误微博ID",
+      "rating": "g",
+      "count": 989,
+      "desc": "微博原帖已删除、设私或链接失效",
+      "kw": "失效微博 / 微博链接失效 / 微博ID无效 / 坏微博ID / 微博已删除"
+    },
+    {
+      "en": "bad yandere id",
+      "zh": "错误Yandere ID",
+      "rating": "g",
+      "count": 643,
+      "desc": "Yandere原帖或原图已不可见",
+      "kw": "失效Yandere ID / 坏Yandere ID / Yandere图ID无效 / Yandere ID错误"
+    },
+    {
+      "en": "bilingual commentary",
+      "zh": "双语注释",
+      "rating": "g",
+      "count": 11562,
+      "desc": "图像中包含两种语言的注释或说明文字。",
+      "kw": "双语说明 / 双语标签 / 双语文本 / 双语字幕 / 双语备注"
+    },
+    {
+      "en": "blender (medium)",
+      "zh": "Blender 软件",
+      "rating": "g",
+      "count": 4482,
+      "desc": "使用开源3D软件 Blender 制作的图像或动画。",
+      "kw": "Blender渲染 / Blender制作 / Blender 3D / Blender软件 / blender / blender3d"
+    },
+    {
+      "en": "bmp-to-png conversion",
+      "zh": "BMP转PNG",
+      "rating": "g",
+      "count": 610,
+      "desc": "图片由BMP转换为PNG格式",
+      "kw": "BMP转PNG格式 / BMP转换PNG / 位图转PNG / BMP转档PNG"
+    },
+    {
+      "en": "borrowed design",
+      "zh": "借用设计",
+      "rating": "g",
+      "count": 2292,
+      "desc": "画其他画师创作的非官方设定",
+      "kw": "借鉴的设计 / 借用服饰设计 / 借来的服装设计 / 借鉴造型 / 借用他人设计 / borrowed costume"
+    },
+    {
+      "en": "card commentary",
+      "zh": "卡牌注释",
+      "rating": "g",
+      "count": 4363,
+      "desc": "来自实体卡牌或游戏卡牌的说明文字",
+      "kw": "卡牌说明 / 卡片注释 / 卡片说明 / 卡牌文字 / 卡面文字 / 卡牌解说"
+    },
+    {
+      "en": "character counter request",
+      "zh": "请求角色计数",
+      "rating": "g",
+      "count": 278,
+      "desc": "图中角色数量或性别不明时请求补上计数标签",
+      "kw": "请求补充角色计数 / 求角色计数 / 角色计数请求 / 请求标注角色数量 / 需要角色计数"
+    },
+    {
+      "en": "character request",
+      "zh": "请求角色识别",
+      "rating": "g",
+      "count": 76023,
+      "desc": "请求识别图中出自已知作品的具体角色",
+      "kw": "角色识别请求 / 请求角色 / 求角色 / 角色求助 / 请求辨认角色 / tagme (character)"
+    },
+    {
+      "en": "check artist",
+      "zh": "核对画师",
+      "rating": "g",
+      "count": 3672,
+      "desc": "画师已识别但需要第二人复核确认。",
+      "kw": "待核实画师 / 画师待核实 / 画师验证 / 待确认画师 / 画师待确认 / 画师待验证"
+    },
+    {
+      "en": "check character",
+      "zh": "角色待确认",
+      "rating": "g",
+      "count": 3466,
+      "desc": "角色已识别但需第二人复核确认。",
+      "kw": "角色待核实 / 角色待复核 / 角色需核对 / 角色待复审 / 角色标记核对 / 角色鉴定中 / 角色需确认"
+    },
+    {
+      "en": "check clothing",
+      "zh": "待核对服装",
+      "rating": "g",
+      "count": 1104,
+      "desc": "服饰已识别，但需要第二人复核确认",
+      "kw": "服饰待确认 / 服装待复核 / 待确认服装 / 待查服装 / 服装待核"
+    },
+    {
+      "en": "check commentary",
+      "zh": "核对注释",
+      "rating": "g",
+      "count": 23201,
+      "desc": "注释已翻译但需第二人复核译文准确性，勿用作劣质翻译借口。",
+      "kw": "检查注释 / 复核注释 / 校对注释 / 注释待审 / 解说翻译核查 / 检查解说翻译"
+    },
+    {
+      "en": "check copyright",
+      "zh": "核对作品",
+      "rating": "g",
+      "count": 4694,
+      "desc": "作品归属已识别，但需要第二人复核确认",
+      "kw": "核对版权 / 版权待确认 / 待复核版权 / 检查著作权 / 核对著作权"
+    },
+    {
+      "en": "check source",
+      "zh": "核对来源",
+      "rating": "g",
+      "count": 224,
+      "desc": "来源需要复核，尤其怀疑是第三方来源时",
+      "kw": "来源待核实 / 来源需核实 / 需核对来源 / 检查来源 / 来源存疑 / 来源确认"
+    },
+    {
+      "en": "check translation",
+      "zh": "核对翻译",
+      "rating": "g",
+      "count": 44433,
+      "desc": "翻译已完成，需要第二人复核准确性",
+      "kw": "翻译校对 / 翻译检查 / 求翻译校对 / 需要校对翻译 / 翻译复核 / translation check"
+    },
+    {
+      "en": "chinese commentary",
+      "zh": "中文注释",
+      "rating": "g",
+      "count": 335960,
+      "desc": "画师注释包含中文文字。",
+      "kw": "中文文字 / 中文评论 / 简体中文注释 / 中文标注 / simplified chinese commentary"
+    },
+    {
+      "en": "cinema 4d (medium)",
+      "zh": "C4D（媒介）",
+      "rating": "g",
+      "count": 111,
+      "desc": "用Cinema 4D制作的3D作品",
+      "kw": "C4D作品 / C4D渲染 / C4D制作 / C4D模型 / C4D绘图"
+    },
+    {
+      "en": "cleaned",
+      "zh": "清理版",
+      "rating": "g",
+      "count": 140,
+      "desc": "去除了文字、杂物或背景的清理版扫描图",
+      "kw": "已清理 / 去字 / 修图 / 清洁版 / 去杂物"
+    },
+    {
+      "en": "clip studio paint",
+      "zh": "优动漫绘画软件",
+      "rating": "g",
+      "count": 530,
+      "desc": "漫画和插画绘图软件Clip Studio Paint。",
+      "kw": "漫画绘图软件 / 插画软件 / 绘画软件 / 创作软件 / Clip Studio Paint"
+    },
+    {
+      "en": "clip studio paint (medium)",
+      "zh": "优动漫 PAINT",
+      "rating": "g",
+      "count": 13755,
+      "desc": "使用CLIP STUDIO PAINT软件绘制的作品",
+      "kw": "优动漫 / 优动漫绘画 / 漫画工作室 / 插画工作室 / 优动漫绘制 / 优动漫软件 / manga studio (medium) / comic studio (medium) / illust studio (medium) / clip studio paint"
+    },
+    {
+      "en": "clothing request",
+      "zh": "请求服装",
+      "rating": "g",
+      "count": 8051,
+      "desc": "不确定服装标签时使用的请求标签",
+      "kw": "求服装 / 服装请求 / 请求服装标签 / 求服装标签 / 请求服饰 / 服饰请求"
+    },
+    {
+      "en": "commentary",
+      "zh": "作者注释",
+      "rating": "g",
+      "count": 3348751,
+      "desc": "画师注释可被英语读者理解（已英译或原为英文）",
+      "kw": "画师注释 / 画师留言 / 作者留言 / 注释 / 作者评论 / 画师评论 / 创作说明 / 作者说明 / commentaries"
+    },
+    {
+      "en": "commentary request",
+      "zh": "注释翻译请求",
+      "rating": "g",
+      "count": 6492783,
+      "desc": "画师注释尚未完全英译，等待翻译",
+      "kw": "求翻译 / 待翻译注释 / 注释待翻译 / 请求翻译注释 / 翻译请求 / 注释请求 / 求汉化 / 待译注释"
+    },
+    {
+      "en": "commentary typo",
+      "zh": "注释笔误",
+      "rating": "g",
+      "count": 1719,
+      "desc": "画师注释中出现拼写或打字错误的图。",
+      "kw": "注释拼写错误 / 注释打字错误 / 画师笔误 / 作者笔误 / 注释错字 / 注释错误"
+    },
+    {
+      "en": "commission",
+      "zh": "约稿",
+      "rating": "g",
+      "count": 349698,
+      "desc": "画师受付费委托绘制的作品。",
+      "kw": "委托 / 付费委托 / 约稿图 / 委托图 / 稿件 / 稿子 / 定制画 / 付费约稿 / artcommission / com / comission / comm"
+    },
+    {
+      "en": "commissioner insert",
+      "zh": "委托者登场",
+      "rating": "g",
+      "count": 1276,
+      "desc": "应委托者要求把自己画进画面。",
+      "kw": "委托人本人登场 / 金主登场 / 梦女图 / 自设登场 / 画师画委托者 / 老板入画 / 委托人插入 / 自己代入 / 梦女"
+    },
+    {
+      "en": "commissioner upload",
+      "zh": "委托人上传",
+      "rating": "g",
+      "count": 14363,
+      "desc": "由付费约稿人本人上传的作品。",
+      "kw": "约稿人上传 / 金主上传 / 甲方上传 / 委托者上传 / 委托人发布 / 约稿者上传"
+    },
+    {
+      "en": "completion time",
+      "zh": "完成耗时",
+      "rating": "g",
+      "count": 1421,
+      "desc": "图中或注释标明绘制该作品总耗时的图",
+      "kw": "绘制耗时 / 绘画时间 / 绘制时间 / 作图耗时 / 画画时间 / 完成时间 / 创作时间 / drawing time"
+    },
+    {
+      "en": "content rating",
+      "zh": "内容分级",
+      "rating": "g",
+      "count": 15608,
+      "desc": "标示作品适龄程度的分级标识",
+      "kw": "分级标识 / 年龄分级 / 分级标志 / 适龄提示 / 适用年龄标记 / 内容分级标识 / 年龄限制标记 / R指定标记 / rating / age rating / r指定マーク / レイティング"
+    },
+    {
+      "en": "contest winner",
+      "zh": "比赛获奖",
+      "rating": "g",
+      "count": 661,
+      "desc": "在某项比赛中获奖的作品",
+      "kw": "比赛优胜 / 竞赛得奖 / 比赛得奖作品 / 获奖作品 / 比赛冠军 / 大赛获奖 / 比赛优胜者 / 竞赛获奖"
+    },
+    {
+      "en": "copyright request",
+      "zh": "请求识别作品",
+      "rating": "g",
+      "count": 124524,
+      "desc": "请求他人识别帖子出处/版权作品的标签。",
+      "kw": "请求出处 / 求作品 / 作品识别请求 / 求助作品 / 版权请求 / 寻求作品识别 / 求版权 / series request"
+    },
+    {
+      "en": "cosplay request",
+      "zh": "请求角色扮演识别",
+      "rating": "g",
+      "count": 543,
+      "desc": "请求识别图中cosplay对象，识别后应移除该标签",
+      "kw": "cosplay请求 / 求识别cos / 请求鉴定cos / COS识别请求 / 求cos角色"
+    },
+    {
+      "en": "costume request",
+      "zh": "服装请求",
+      "rating": "g",
+      "count": 767,
+      "desc": "请求识别角色所穿官方换装/服装名",
+      "kw": "衣装请求 / 求衣装 / 服装识别请求 / 换装请求 / 官方服装请求"
+    },
+    {
+      "en": "countdown illustration",
+      "zh": "倒计时图",
+      "rating": "g",
+      "count": 876,
+      "desc": "为活动或作品发售倒数绘制的插图",
+      "kw": "倒数图 / 倒计时插画 / 倒数插图 / 倒计时贺图 / 倒计时绘画"
+    },
+    {
+      "en": "craft essence (fate)",
+      "zh": "概念礼装",
+      "rating": "g",
+      "count": 557,
+      "desc": "带FGO概念礼装卡面与数值的图",
+      "kw": "概念礼装卡 / 礼装 / FGO概念礼装 / 概念礼装（Fate） / Fate概念礼装 / 概念礼装 (Fate) / FGO / 卡牌 / craft essence"
+    },
+    {
+      "en": "crease",
+      "zh": "折痕",
+      "rating": "g",
+      "count": 2033,
+      "desc": "扫描图像上可见的纸张折叠痕迹。",
+      "kw": "纸折痕 / 折叠痕 / 压痕 / 折线 / 摺痕 / 折印"
+    },
+    {
+      "en": "credits",
+      "zh": "制作人员名单",
+      "rating": "g",
+      "count": 1515,
+      "desc": "列出作品创作人员与工具",
+      "kw": "片尾字幕 / 演职员表 / 制作团队 / 制作人员 / 片尾名单 / 工作人员名单 / 致谢名单 / 片尾滚屏"
+    },
+    {
+      "en": "credits page",
+      "zh": "制作人员页",
+      "rating": "g",
+      "count": 1103,
+      "desc": "漫画中用于致谢创作人员的一页",
+      "kw": "版权页 / 制作名单页 / 工作人员页 / 鸣谢页 / 职员表页 / 制作人员名单 / 汉化页 / 页面"
+    },
+    {
+      "en": "dated commentary",
+      "zh": "带日期注释",
+      "rating": "g",
+      "count": 26344,
+      "desc": "注释中包含创作日期信息。",
+      "kw": "日期注释 / 标注日期注释 / 注明日期 / 带日期的注释 / 时间戳注释"
+    },
+    {
+      "en": "decensored",
+      "zh": "去码",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1495,
+      "desc": "第三方将原图马赛克补画掉的无码版本",
+      "kw": "解码 / 除码 / 消码 / 去马赛克 / 除马赛克 / 无码化 / 修复无码 / 补画解码 / descensored"
+    },
+    {
+      "en": "derivative work",
+      "zh": "衍生作品",
+      "rating": "g",
+      "count": 25889,
+      "desc": "参考、临摹或描改他人作品而成的衍生作品",
+      "kw": "二次创作 / 派生作品 / 临摹作品 / 描改作品 / 参考作品 / 改编 / 仿作 / 盗作 / plagiarism / derivative / 临摹 / 描改"
+    },
+    {
+      "en": "design speculation",
+      "zh": "设计推测",
+      "rating": "g",
+      "count": 1533,
+      "desc": "对未公开角色形象的粉丝推测设计",
+      "kw": "设计猜想 / 设计假想 / 造型推测 / 形象推测 / 粉丝推测设计 / 设定考据 / 粉丝创作"
+    },
+    {
+      "en": "designer's reflection (shining nikki)",
+      "zh": "设计师之影（闪耀暖暖）",
+      "rating": "g",
+      "count": 682,
+      "desc": "《闪耀暖暖》中记录设计师经历的收藏卡",
+      "kw": "设计师之影 / 设计师之影卡片 / 闪耀暖暖设计师之影 / 设计师卡片 / 暖女儿设计师之影 / 闪耀暖暖收藏 / 设计师投影 / 服装设计回忆"
+    },
+    {
+      "en": "detexted",
+      "zh": "去字",
+      "rating": "g",
+      "count": 1291,
+      "desc": "第三方将封面等图中的文字去除并补全背景的版本。",
+      "kw": "去文字 / 去文字版 / 文字抹除版 / 重绘去字 / 去字版"
+    },
+    {
+      "en": "deviantart sample",
+      "zh": "DeviantArt缩略图",
+      "rating": "g",
+      "count": 613,
+      "desc": "从DeviantArt抓取的缩略图而非原图",
+      "kw": "DA缩略图 / DeviantArt预览图 / DA预览图 / DeviantArt小图 / DeviantArt样本图"
+    },
+    {
+      "en": "download link",
+      "zh": "下载链接",
+      "rating": "g",
+      "count": 244,
+      "desc": "来源为下载链接而非普通页面或直链的帖子",
+      "kw": "下载直链 / 直接下载链接 / 下载地址 / 下载页面链接 / 直链下载"
+    },
+    {
+      "en": "downscaled",
+      "zh": "缩小",
+      "rating": "g",
+      "count": 2790,
+      "desc": "由原图缩小尺寸得到的图片。",
+      "kw": "降采样 / 缩小尺寸 / 分辨率缩小 / 图片缩小 / 压缩图片 / 缩小版本 / 降分辨率"
+    },
+    {
+      "en": "draw this in your style challenge",
+      "zh": "画风重绘挑战",
+      "rating": "g",
+      "count": 634,
+      "desc": "号召他人用自己的画风重绘作品的挑战",
+      "kw": "画风挑战 / 按你的画风重绘挑战 / 画风演绎挑战 / 重绘挑战 / 画风模仿挑战 / 画风重绘活动 / 用你的风格挑战画作 (DTIYS) / 绘画挑战 / drawthisinyourstyle"
+    },
+    {
+      "en": "drawpile (medium)",
+      "zh": "Drawpile",
+      "rating": "g",
+      "count": 161,
+      "desc": "用协作绘图工具Drawpile创作的作品",
+      "kw": "Drawpile绘图 / Drawpile软件 / 协作绘图Drawpile"
+    },
+    {
+      "en": "e-hentai sample",
+      "zh": "E-Hentai缩略图",
+      "rating": "g",
+      "count": 640,
+      "desc": "从E-Hentai抓到的缩小版图片而非原图",
+      "kw": "E绅士缩略图 / EH缩略图 / E站缩略图 / E-Hentai预览图 / ehentai sample"
+    },
+    {
+      "en": "emofuri",
+      "zh": "E-mote动画",
+      "rating": "g",
+      "count": 400,
+      "desc": "使用 E-Mote Free Movie Maker 制作的动画。",
+      "kw": "E-mote制作动画 / Emofuri动画 / E-mote软件动画 / E-mote动作动画"
+    },
+    {
+      "en": "end card",
+      "zh": "片尾卡",
+      "rating": "g",
+      "count": 1293,
+      "desc": "动画片尾由客座画师绘制的插图。",
+      "kw": "片尾插图 / 片尾图 / ED卡 / 结束卡 / 片尾绘 / 尾页插画 / endcard"
+    },
+    {
+      "en": "english audio",
+      "zh": "英语音频",
+      "rating": "g",
+      "count": 4712,
+      "desc": "含英语人声或英语歌词的帖子",
+      "kw": "英文音频 / 英语声音 / 英文语音 / 英语配音 / 英文配音 / 英语对白 / 英文对白"
+    },
+    {
+      "en": "english commentary",
+      "zh": "英文注释",
+      "rating": "g",
+      "count": 1373321,
+      "desc": "画师附带的注释/说明为英文",
+      "kw": "英文说明 / 英文描述 / 英文评论 / 英文留言 / 英文文字注释 / 英文注解 / 英文解说"
+    },
+    {
+      "en": "engrish commentary",
+      "zh": "日式英语注释",
+      "rating": "g",
+      "count": 1525,
+      "desc": "注释为语法生硬、不自然的英文",
+      "kw": "生硬英文注释 / 蹩脚英语注释 / 不自然英文注释 / 日式英文注释"
+    },
+    {
+      "en": "enty reward",
+      "zh": "Enty内容",
+      "rating": "g",
+      "count": 835,
+      "desc": "Enty平台的付费赞助图，现已禁止上传",
+      "kw": "Enty奖励 / Enty赞助图 / Enty付费图 / Enty平台内容"
+    },
+    {
+      "en": "epilepsy warning",
+      "zh": "癫痫警告",
+      "rating": "g",
+      "count": 798,
+      "desc": "含快速闪烁画面，可能诱发光敏性癫痫",
+      "kw": "光敏性癫痫警告 / 闪光警告 / 闪烁警告 / 癫痫发作警告 / 光敏感警告 / flashing lights / seizure warning / strobing lights"
+    },
+    {
+      "en": "exif rotation",
+      "zh": "EXIF旋转",
+      "rating": "g",
+      "count": 556,
+      "desc": "旋转方向由EXIF元数据指定、部分软件显示异常的图",
+      "kw": "EXIF旋转信息 / EXIF方向旋转 / 图像元数据旋转 / 照片方向旋转 / EXIF方向标记"
+    },
+    {
+      "en": "fan request",
+      "zh": "点图",
+      "rating": "g",
+      "count": 4627,
+      "desc": "应观看者免费请求而创作的作品。",
+      "kw": "粉丝点图 / 粉丝请求 / 观众点图 / 无偿点图 / 请求绘 / 应求绘"
+    },
+    {
+      "en": "fanbox reward",
+      "zh": "Fanbox奖励",
+      "rating": "g",
+      "count": 3904,
+      "desc": "Pixiv FANBOX的付费赞助内容，现已禁止上传",
+      "kw": "FANBOX赞助内容 / FANBOX付费图 / FANBOX特典 / FANBOX限定 / Fanbox内容 / Pixiv FANBOX奖励 / Fanbox付费奖励 / Fanbox赞助图"
+    },
+    {
+      "en": "fancy embedded notes",
+      "zh": "花式注释",
+      "rating": "g",
+      "count": 1715,
+      "desc": "翻译或注解形式远超普通文字、排版华丽的注释图",
+      "kw": "华丽注释 / 花式嵌字 / 嵌入花字 / 装饰性注释 / 花哨的注释"
+    },
+    {
+      "en": "fantia reward",
+      "zh": "Fantia付费奖励",
+      "rating": "g",
+      "count": 1042,
+      "desc": "Fantia平台上的付费赞助图，现已禁止上传",
+      "kw": "Fantia赞助图 / Fantia付费图 / Fantia奖励 / Fantia特典 / Fantia付费内容 / Fantia赞助内容"
+    },
+    {
+      "en": "fashion style request",
+      "zh": "时尚风格请求",
+      "rating": "g",
+      "count": 145,
+      "desc": "请求识别图中角色所穿时尚风格的标签，识别后应移除。",
+      "kw": "求时尚风格 / 请求识别穿搭风格 / 时尚风格鉴定 / 穿搭风格请求 / 时尚风格求助"
+    },
+    {
+      "en": "figure available",
+      "zh": "有手办",
+      "rating": "g",
+      "count": 622,
+      "desc": "该角色/形象已有实体手办",
+      "kw": "已手办化 / 有对应手办 / 已出手办 / 有实体手办 / 有手办商品 / 手办已出"
+    },
+    {
+      "en": "fixed",
+      "zh": "数字修复",
+      "rating": "g",
+      "count": 189,
+      "desc": "扫描瑕疵或折痕经数字修复的干净版本",
+      "kw": "已修复 / 修复版 / 去瑕疵 / 去折痕 / 画面修复 / 扫描修复"
+    },
+    {
+      "en": "flash",
+      "zh": "Flash作品",
+      "rating": "g",
+      "count": 1202,
+      "desc": "用Adobe Flash制作的游戏、动画或MV",
+      "kw": "Flash动画 / Flash游戏 / Flash影片 / Flash内容 / Adobe Flash作品"
+    },
+    {
+      "en": "flash game",
+      "zh": "Flash游戏",
+      "rating": "g",
+      "count": 201,
+      "desc": "用Adobe Flash制作的游戏",
+      "kw": "flash小游戏 / 网页小游戏 / Flash动画游戏 / swf游戏 / game"
+    },
+    {
+      "en": "flipnote studio (medium)",
+      "zh": "Flipnote Studio（媒介）",
+      "rating": "g",
+      "count": 261,
+      "desc": "用任天堂DSi/3DS的Flipnote Studio制作的动画",
+      "kw": "Flipnote Studio作品 / Flipnote Studio动画 / Flipnote动画 / 便携笔记动画 / Flipnote创作"
+    },
+    {
+      "en": "flower request",
+      "zh": "请求识别花卉",
+      "rating": "g",
+      "count": 4872,
+      "desc": "请求补充图中花卉种类标签",
+      "kw": "花卉请求 / 请求花名 / 求花名 / 花卉识别请求 / 请求补充花卉标签"
+    },
+    {
+      "en": "food request",
+      "zh": "请求食物",
+      "rating": "g",
+      "count": 2677,
+      "desc": "请求识别图中食物种类的标签。",
+      "kw": "食物请求 / 求食物 / 求问食物 / 询问食物 / 食物识别"
+    },
+    {
+      "en": "french commentary",
+      "zh": "法文注释",
+      "rating": "g",
+      "count": 906,
+      "desc": "画师注释为法文的图",
+      "kw": "法语注释 / 法文说明 / 法语文字 / 法文旁白"
+    },
+    {
+      "en": "game asset",
+      "zh": "游戏素材",
+      "rating": "g",
+      "count": 175699,
+      "desc": "从电子游戏中提取的插画或动画素材",
+      "kw": "游戏资源 / 游戏提取图 / 游戏CG / 游戏素材图片 / 游戏画面素材 / game cg / gamecg"
+    },
+    {
+      "en": "game screenshot",
+      "zh": "游戏截图",
+      "rating": "g",
+      "count": 1375,
+      "desc": "电子游戏的截图，通常被视为离题内容",
+      "kw": "游戏画面截图 / 电子游戏截图 / 游戏截屏 / 游戏屏摄 / 游戏画面截取 / 游戏截图画面"
+    },
+    {
+      "en": "gender request",
+      "zh": "请求性别",
+      "rating": "g",
+      "count": 2823,
+      "desc": "请求为角色补上性别标签（1girl等）。",
+      "kw": "性别请求 / 求性别标签 / 添加性别标签 / 请求补性别 / 求补性别 / 性别请求标签"
+    },
+    {
+      "en": "german commentary",
+      "zh": "德文注释",
+      "rating": "g",
+      "count": 560,
+      "desc": "图片中有德文注释或说明文字。",
+      "kw": "德语注释 / 德文评论 / 德语评论 / 德文说明 / 德语文字"
+    },
+    {
+      "en": "gift art",
+      "zh": "赠图",
+      "rating": "g",
+      "count": 3060,
+      "desc": "画师无偿赠送给他人而绘制的图。",
+      "kw": "礼物图 / 赠送图 / 无偿赠图 / 馈赠图 / 礼物绘 / 赠画 / 礼物插画 / 无偿图"
+    },
+    {
+      "en": "gimp (medium)",
+      "zh": "GIMP",
+      "rating": "g",
+      "count": 2232,
+      "desc": "用GIMP软件制作或编辑的图",
+      "kw": "GIMP图像 / GIMP作品 / GIMP绘制 / GIMP编辑 / gimp"
+    },
+    {
+      "en": "guest art",
+      "zh": "嘉宾绘",
+      "rating": "g",
+      "count": 3456,
+      "desc": "客座画师为作品绘制的官方应援插画。",
+      "kw": "客座画师图 / 应援绘 / 特邀画师绘 / 客座绘 / 嘉宾插图 / 合作绘 / 外援图 / 商业图 / 商业绘图 / 応援绘"
+    },
+    {
+      "en": "gumroad reward",
+      "zh": "Gumroad 赞助图",
+      "rating": "g",
+      "count": 244,
+      "desc": "Gumroad的付费赞助图，现已禁止上传",
+      "kw": "赞助图 / 付费赞助图 / 内容解锁图 / 会员赞助图 / 平台赞助内容 / 奖励图 / 付费内容 / 福利图"
+    },
+    {
+      "en": "hairstyle request",
+      "zh": "发型请求",
+      "rating": "g",
+      "count": 564,
+      "desc": "请求识别图中发型类型的标签",
+      "kw": "求发型 / 发型识别请求 / 询问发型 / 发型求助 / hair style request / hair request / check hairstyle"
+    },
+    {
+      "en": "hard-translated",
+      "zh": "硬翻译",
+      "rating": "g",
+      "count": 7124,
+      "desc": "第三方将原文字直接替换成译文的图片。",
+      "kw": "硬翻 / 硬译 / 硬嵌字 / 内嵌翻译 / 硬字幕 / 原文替换翻译 / 嵌入翻译 / hardsub / hard translation / hard translated"
+    },
+    {
+      "en": "hard-translated (non-english)",
+      "zh": "非英文硬翻",
+      "rating": "g",
+      "count": 763,
+      "desc": "第三方将图片文字替换为英文以外语言的翻译图。",
+      "kw": "非英文硬翻译 / 非英文翻译图片 / 非英文改图 / 非英文译图 / hard translated (non-english)"
+    },
+    {
+      "en": "has adversarial noise revision",
+      "zh": "有对抗噪声修订",
+      "rating": "g",
+      "count": 124,
+      "desc": "来源修订版被加入对抗噪声软件的帖子。",
+      "kw": "有对抗噪声版本 / 有防AI噪声修订 / 抗噪修订 / 对抗样本修订 / 对抗噪声处理 / has glazed revision"
+    },
+    {
+      "en": "has artifacted revision",
+      "zh": "有压缩瑕疵修订版",
+      "rating": "g",
+      "count": 149,
+      "desc": "来源的修订版相比原图有更多压缩瑕疵。",
+      "kw": "带压缩伪影修订 / 压缩瑕疵版本 / 压缩痕迹修订版 / 有压缩失真的修订"
+    },
+    {
+      "en": "has bad revision",
+      "zh": "有劣质修订",
+      "rating": "g",
+      "count": 8501,
+      "desc": "来源修订版质量差、不应上传的帖子",
+      "kw": "劣质修订版 / 有低质修订 / 有劣质版本 / 来源有劣质修订 / bad revision"
+    },
+    {
+      "en": "has censored revision",
+      "zh": "有和谐修订",
+      "rating": "g",
+      "count": 3703,
+      "desc": "来源修订版被加码或遮挡更多的帖子",
+      "kw": "有打码修订 / 有审查版本 / 来源有码 / 有遮挡修订 / 有修正版 / 有和谐版"
+    },
+    {
+      "en": "has cropped revision",
+      "zh": "有裁剪修订版",
+      "rating": "g",
+      "count": 273,
+      "desc": "帖子在源处有经过裁切的修订版本。",
+      "kw": "有裁切修订 / 有剪裁版本 / 源文件有裁剪版 / 含裁剪修订 / 有裁切版"
+    },
+    {
+      "en": "has downscaled revision",
+      "zh": "有缩小修订",
+      "rating": "g",
+      "count": 2279,
+      "desc": "帖子来源的修订版为缩小尺寸版本",
+      "kw": "有缩小版修订 / 有降采样修订 / 有缩小分辨率的修订 / 来源为缩小修订"
+    },
+    {
+      "en": "has lossy revision",
+      "zh": "有损修订",
+      "rating": "g",
+      "count": 106,
+      "desc": "源文件修订版为有损格式（如jpg）",
+      "kw": "有损重制 / 有损源文件 / 源文件有损 / 有损图源 / 有损压缩源"
+    },
+    {
+      "en": "has watermarked revision",
+      "zh": "带水印修订版",
+      "rating": "g",
+      "count": 376,
+      "desc": "帖子的来源修订版被加了水印",
+      "kw": "有水印版本 / 源修订带水印 / 带水印的源修订"
+    },
+    {
+      "en": "hashtag-only commentary",
+      "zh": "仅标签注释",
+      "rating": "g",
+      "count": 15137
+    },
+    {
+      "en": "headshop",
+      "zh": "换头",
+      "rating": "g",
+      "count": 532,
+      "desc": "违规将角色头部换成其他角色的改图",
+      "kw": "换头图 / 换头改图 / 换头编辑 / PS换头 / 头部替换 / 偷换头"
+    },
+    {
+      "en": "headwear request",
+      "zh": "请求头饰",
+      "rating": "g",
+      "count": 1232,
+      "desc": "请求识别帽子、头盔等头饰的标签",
+      "kw": "头饰请求 / 询问头饰 / 求头饰 / 头部服饰请求 / 头饰识别请求 / headwear"
+    },
+    {
+      "en": "ibispaint (medium)",
+      "zh": "ibisPaint",
+      "rating": "g",
+      "count": 2179,
+      "desc": "用ibisPaint制作或编辑的图",
+      "kw": "爱笔思画 / 爱笔思画X / 爱笔思画软件 / ibispaint / ibispaintx / ibispaintxartist"
+    },
+    {
+      "en": "image sample",
+      "zh": "缩略图",
+      "rating": "g",
+      "count": 11193,
+      "desc": "网站自动生成的压缩或缩小版图片，不应上传。",
+      "kw": "压缩图 / 样图 / 样品图 / 图站缩略图 / 低分辨率图"
+    },
+    {
+      "en": "imageboard desourced",
+      "zh": "图站去源",
+      "rating": "g",
+      "count": 10842,
+      "desc": "来源被站方改写为图站通用地址的历史遗留",
+      "kw": "图站来源丢失 / 图站去来源 / 图站源被清除 / 图站来源被改写"
+    },
+    {
+      "en": "imageboard first-party source",
+      "zh": "图站一手来源",
+      "rating": "g",
+      "count": 948,
+      "desc": "画师本人先发在其他图站、再从那里转来的帖子",
+      "kw": "图片站一手来源 / 画师原发图站 / 首发图站 / 一手图站来源"
+    },
+    {
+      "en": "inactive account",
+      "zh": "账号停用",
+      "rating": "g",
+      "count": 29061,
+      "desc": "来源账号已被停用、冻结或注销",
+      "kw": "账号已注销 / 账号冻结 / 账户停用 / 源账号失效 / 来源账号已停用"
+    },
+    {
+      "en": "incredibly absurdres",
+      "zh": "极高分辨率",
+      "rating": "g",
+      "count": 6881,
+      "desc": "宽或高至少10000像素的超高分辨率图",
+      "kw": "超高分辨率 / 巨大分辨率 / 极高清晰度 / 超高清晰度 / 10000像素以上 / 超高解析度"
+    },
+    {
+      "en": "indonesian commentary",
+      "zh": "印尼文注释",
+      "rating": "g",
+      "count": 797,
+      "desc": "画师注释为印尼文的图",
+      "kw": "印尼语注释 / 印度尼西亚文注释 / 印尼文说明 / 印尼语说明文字"
+    },
+    {
+      "en": "japanese audio",
+      "zh": "日语音频",
+      "rating": "g",
+      "count": 4641,
+      "desc": "帖子包含日语人声或日语歌词。",
+      "kw": "日语配音 / 日语音声 / 日语声音 / 日文音频 / 日文语音 / 日语语音"
+    },
+    {
+      "en": "ko-fi commission",
+      "zh": "Ko-fi约稿",
+      "rating": "g",
+      "count": 674,
+      "desc": "通过Ko-fi平台委托创作的作品",
+      "kw": "Ko-fi委托 / Ko-fi平台约稿 / Ko-fi稿 / 通过Ko-fi约稿"
+    },
+    {
+      "en": "koikatsu (medium)",
+      "zh": "恋活",
+      "rating": "g",
+      "count": 1346,
+      "desc": "用《恋活》游戏制作的3D内容",
+      "kw": "恋活！ / 恋活游戏 / 恋活制作 / koikatu"
+    },
+    {
+      "en": "korean commentary",
+      "zh": "韩文注释",
+      "rating": "g",
+      "count": 210270,
+      "desc": "画师注释为韩文的图",
+      "kw": "韩语注释 / 韩语说明 / 韩文说明 / 韩文文字 / 韩语字幕 / 韩文标签"
+    },
+    {
+      "en": "krita (medium)",
+      "zh": "Krita（绘画软件）",
+      "rating": "g",
+      "count": 852,
+      "desc": "用Krita制作或编辑的图",
+      "kw": "Krita绘制 / Krita绘图 / Krita作品 / 用Krita画的 / Krita画作 / krita / kritaart"
+    },
+    {
+      "en": "large variant set",
+      "zh": "大量差分",
+      "rating": "g",
+      "count": 120179,
+      "desc": "属于含6张以上图片的差分组中的帖子",
+      "kw": "多差分 / 大差分组 / 多张差分 / 大量版本"
+    },
+    {
+      "en": "line sticker available",
+      "zh": "有LINE贴纸",
+      "rating": "g",
+      "count": 124,
+      "desc": "有对应的LINE贴纸可用的图",
+      "kw": "有Line贴纸 / LINE贴纸可用 / line贴纸 / LINE表情贴图 / 对应LINE贴纸 / LINE贴纸可得"
+    },
+    {
+      "en": "lossless-lossy",
+      "zh": "无损转有损",
+      "rating": "g",
+      "count": 288,
+      "desc": "无损格式被转成有损格式的图，原图可得时会被删。",
+      "kw": "无损转为有损 / 无损图转有损 / 无损压缩转有损 / 无损格式转有损 / 有损转换 / 无损变有损"
+    },
+    {
+      "en": "lossy-lossless",
+      "zh": "有损转无损",
+      "rating": "g",
+      "count": 1894,
+      "desc": "有损格式转无损，常为带JPEG瑕疵的PNG。",
+      "kw": "有损格式转无损 / 伪无损 / 有损转无损图像 / JPEG转PNG / 假无损"
+    },
+    {
+      "en": "magazine scan",
+      "zh": "杂志扫图",
+      "rating": "g",
+      "count": 7441,
+      "desc": "杂志内页扫描图，不含封面",
+      "kw": "杂志内页扫图 / 杂志内页扫描 / 杂志内页扫描图 / 杂志内页图"
+    },
+    {
+      "en": "magicaldraw (medium)",
+      "zh": "MagicalDraw（画材）",
+      "rating": "g",
+      "count": 105,
+      "desc": "用在线绘图工具MagicalDraw创作的作品",
+      "kw": "MagicalDraw绘画 / MagicalDraw作品 / MagicalDraw画作"
+    },
+    {
+      "en": "magma (medium)",
+      "zh": "Magma（绘画工具）",
+      "rating": "g",
+      "count": 208,
+      "desc": "用在线协作绘图工具Magma（原aggie.io）创作的作品。",
+      "kw": "Magma软件绘制 / Magma绘图 / 在线协作绘图Magma作品 / Magma媒介 / Magma绘制"
+    },
+    {
+      "en": "making-of",
+      "zh": "制作过程",
+      "rating": "g",
+      "count": 5955,
+      "desc": "展示创作过程的多图或延时视频",
+      "kw": "绘画过程 / 创作过程 / 绘制过程 / 过程图 / 制作花絮 / 进度图 / making of / wip / work in progress"
+    },
+    {
+      "en": "making-of available",
+      "zh": "有制作过程",
+      "rating": "g",
+      "count": 15572,
+      "desc": "站内或站外存有该图制作过程视频或图片的帖子",
+      "kw": "有作画过程 / 有绘画过程 / 有制作视频 / 有过程图 / 有绘程 / 有作画记录 / 有工序视频 / 作业工程"
+    },
+    {
+      "en": "marshmallow (site)",
+      "zh": "棉花糖（匿名提问箱）",
+      "rating": "g",
+      "count": 2907,
+      "desc": "日本可匿名收发的私信提问箱服务。",
+      "kw": "棉花糖提问箱 / 匿名提问箱 / 棉花糖匿名提问箱 / 提问箱服务 / 匿名问答箱 / 棉花糖问答箱 / 棉花糖 (提问箱) / 网站 / マシュマロ / マシュマロを投げ合おう"
+    },
+    {
+      "en": "maya (medium)",
+      "zh": "Maya（软件）",
+      "rating": "g",
+      "count": 355,
+      "desc": "用Autodesk Maya制作或编辑的图",
+      "kw": "Maya软件 / Maya制作 / Maya渲染 / Autodesk Maya制作 / 玛雅软件"
+    },
+    {
+      "en": "md5 mismatch",
+      "zh": "MD5不匹配",
+      "rating": "g",
+      "count": 117884,
+      "desc": "文件MD5与来源处不同的帖子",
+      "kw": "MD5不一致 / MD5不同 / 文件校验不匹配 / 源文件不一致"
+    },
+    {
+      "en": "mecha request",
+      "zh": "请求识别机甲",
+      "rating": "g",
+      "count": 272,
+      "desc": "用于请求识别图中机甲或机械名称的标签。",
+      "kw": "机甲识别请求 / 请求辨认机甲 / 机甲求辨认 / 机甲求助 / 求机甲名 / 机甲待识别 / 机甲识别 / 求解机甲名称 / mecha to identify / check mecha"
+    },
+    {
+      "en": "medibang paint (medium)",
+      "zh": "MediBang Paint",
+      "rating": "g",
+      "count": 282,
+      "desc": "用MediBang Paint制作或编辑的图",
+      "kw": "MediBang绘画软件 / MediBang Paint作品 / 使用MediBang Paint绘制 / MediBang Paint制作 / MediBang Paint绘画 / mediabangpaint / medibangpaint / medibangpaintpro"
+    },
+    {
+      "en": "meme request",
+      "zh": "请求梗",
+      "rating": "g",
+      "count": 719,
+      "desc": "无法识别图中梗或不知对应标签时使用",
+      "kw": "求梗 / 梗求助 / 请求解释梗 / 求解释梗 / 梗请求"
+    },
+    {
+      "en": "merchandise available",
+      "zh": "有周边",
+      "rating": "g",
+      "count": 4429,
+      "desc": "图片被设计成可作手办、徽章、立牌等周边售卖",
+      "kw": "有商品 / 有官方周边 / 周边化 / 商品化 / 有卖周边 / 可购买周边"
+    },
+    {
+      "en": "microphone request",
+      "zh": "麦克风求图",
+      "rating": "g",
+      "count": 445
+    },
+    {
+      "en": "microsoft paint (medium)",
+      "zh": "微软画图（媒介）",
+      "rating": "g",
+      "count": 1211,
+      "desc": "用Windows画图制作或编辑的图",
+      "kw": "微软画图 / 画图软件 / 小画家 / 画图板 / Windows画图 / mspaint (medium) / ms paint (medium) / ms paint / mspaint"
+    },
+    {
+      "en": "microsoft paint (software)",
+      "zh": "画图（软件）",
+      "rating": "g",
+      "count": 837,
+      "desc": "微软Windows自带的简易绘图软件。",
+      "kw": "微软画图 / MS画图 / 小画家 / 画图工具 / Windows画图 / 系统画图 / 画板程序 / 画图 (软件) / mspaint (software) / ms paint (software)"
+    },
+    {
+      "en": "mihuashi commission",
+      "zh": "米画师约稿",
+      "rating": "g",
+      "count": 7090,
+      "desc": "通过米画师平台委托创作的约稿作品",
+      "kw": "米画师委托 / 米画师稿 / 米画师定制"
+    },
+    {
+      "en": "mikumikudance (medium)",
+      "zh": "MMD",
+      "rating": "g",
+      "count": 1180,
+      "desc": "用MikuMikuDance制作的3D动画或静图",
+      "kw": "MMD动画 / MMD视频 / MMD作品 / MMD静画 / MikuMikuDance动画 / mikumikudance / mmd (medium)"
+    },
+    {
+      "en": "mixed-language commentary",
+      "zh": "多语言注释",
+      "rating": "g",
+      "count": 90049,
+      "desc": "画师注释或评论混用多种语言。",
+      "kw": "混合语言注释 / 双语注释 / 多语注释 / 多语言说明 / 多语言评论 / 双语说明 / 混语注释 / 多语种注释 / bilingual commentary / multilingual commentary"
+    },
+    {
+      "en": "multi-source commentary",
+      "zh": "多来源注释",
+      "rating": "g",
+      "count": 3734,
+      "desc": "画师注释来自多个不同来源的帖子。",
+      "kw": "多来源评论 / 多方注释 / 多来源解说 / multiple commentaries"
+    },
+    {
+      "en": "multilingual commentary",
+      "zh": "多语注释",
+      "rating": "g",
+      "count": 1846,
+      "desc": "同一段注释用两种以上语言重复书写。",
+      "kw": "多语言注释 / 多语解说 / 多语言解说 / 多语种注释 / 多国语注释"
+    },
+    {
+      "en": "music video",
+      "zh": "音乐视频",
+      "rating": "g",
+      "count": 1047,
+      "desc": "配有音乐的视频，可为纯音乐或歌曲",
+      "kw": "音乐录影带 / 音乐影片 / 音乐短片 / 音乐录影"
+    },
+    {
+      "en": "nicoseiga sample",
+      "zh": "Niconico静画缩略图",
+      "rating": "g",
+      "count": 160,
+      "desc": "来自Niconico静画的缩略图，并非原图",
+      "kw": "静画缩略图 / Nico静画缩略图 / niconico静画样本 / 静画缩略样本"
+    },
+    {
+      "en": "non-repeating animation",
+      "zh": "非循环动画",
+      "rating": "g",
+      "count": 294,
+      "desc": "播放到结尾即停止、不循环的GIF或PNG动画",
+      "kw": "不循环动画 / 非循环图 / 单次播放动画 / 播完即停动图 / 非循环图片 / 有限循环动画 / non-repeating gif"
+    },
+    {
+      "en": "non-web source",
+      "zh": "非网页来源",
+      "rating": "g",
+      "count": 184302,
+      "desc": "来源为纯文字说明或本地文件名而非网址的帖子",
+      "kw": "非网页源 / 非网络来源 / 本地来源 / 文件来源 / 纯文本来源 / 非URL来源"
+    },
+    {
+      "en": "nude filter",
+      "zh": "去衣滤镜",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2353,
+      "desc": "通过编辑移除角色衣物使其裸露的图片，违反上传规则。",
+      "kw": "脱衣滤镜 / 裸体滤镜 / 去衣处理 / 扒衣滤镜 / 一键脱衣 / AI去衣 / 裸体化滤镜 / nudefilter"
+    },
+    {
+      "en": "object request",
+      "zh": "请求物品",
+      "rating": "g",
+      "count": 939,
+      "desc": "请求他人识别图中物品名称",
+      "kw": "求物 / 物品请求 / 求鉴定 / 求问物品 / 询问物品名称 / 求物品名称 / check object"
+    },
+    {
+      "en": "off-topic",
+      "zh": "跑题",
+      "rating": "g",
+      "count": 8752,
+      "desc": "与 Danbooru 主题无关的违规帖子",
+      "kw": "离题 / 无关主题 / 无关内容 / 违规帖子 / 站外内容 / 无关动漫 / non-anime related"
+    },
+    {
+      "en": "official alternate color",
+      "zh": "官方异色",
+      "rating": "g",
+      "count": 4144,
+      "desc": "官方设定的角色整体配色变化。",
+      "kw": "官方换色 / 官方异色版 / 官方配色变更 / 备用配色 / 官方换色造型 / 变体 / 官方艺术"
+    },
+    {
+      "en": "official alternate costume",
+      "zh": "官方换装",
+      "rating": "g",
+      "count": 595222,
+      "desc": "官方创作的另一套角色服装",
+      "kw": "官方新装 / 官方服装 / 官方替代服装 / 官方衣装 / 官方皮肤 / 官方新衣 / 官方第二套服装 / 官方演出服 / official alternate outfit / alternate costume (official) / 新衣装公开 / セカコス"
+    },
+    {
+      "en": "official artist extra",
+      "zh": "官方画师同人",
+      "rating": "g",
+      "count": 10268,
+      "desc": "官方画师为自己笔下的角色画的同人图",
+      "kw": "原画师同人 / 官方画师图 / 画师官方同人 / 原画家同人 / 官方画师绘制"
+    },
+    {
+      "en": "official wallpaper",
+      "zh": "官方壁纸",
+      "rating": "g",
+      "count": 10898,
+      "desc": "官方渠道发布的壁纸",
+      "kw": "官方墙纸 / 官方桌面壁纸 / 官壁 / 官方桌面 / 官方桌布 / 官方壁纸图"
+    },
+    {
+      "en": "omake",
+      "zh": "特典",
+      "rating": "g",
+      "count": 429,
+      "desc": "随主作品附赠的额外内容或小漫画",
+      "kw": "附赠 / 加笔 / 小番外 / 附赠漫画 / 追加内容 / 周边 / 赠品 / 御負け / おまけ"
+    },
+    {
+      "en": "origins",
+      "zh": "梗源",
+      "rating": "g",
+      "count": 787,
+      "desc": "开创某个持续流传的梗或风潮的原始作品",
+      "kw": "起源 / 出处 / 源头 / 原始作品 / 风潮起源"
+    },
+    {
+      "en": "paid reward",
+      "zh": "付费内容",
+      "rating": "g",
+      "count": 17736,
+      "desc": "Patreon等平台的付费限定图，禁止上传。",
+      "kw": "付费奖励 / 付费订阅内容 / 付费限定 / 付费赞助内容 / 赞助者限定"
+    },
+    {
+      "en": "paid reward available",
+      "zh": "有付费内容",
+      "rating": "g",
+      "count": 138279,
+      "desc": "画师在订阅平台提供完整版或相关素材的标记。",
+      "kw": "有付费奖励 / 付费奖励 / 付费内容 / 订阅内容 / 付费版 / 有料内容 / 付费获取 / 奖励内容 / reward available"
+    },
+    {
+      "en": "paint chat (medium)",
+      "zh": "绘茶",
+      "rating": "g",
+      "count": 1331,
+      "desc": "多人协作绘画聊天室产出的作品。",
+      "kw": "绘聊 / 涂鸦聊天 / 绘画聊天室 / 协同绘画 / 在线合绘 / 画聊"
+    },
+    {
+      "en": "paint.net (medium)",
+      "zh": "Paint.NET软件作品",
+      "rating": "g",
+      "count": 3341,
+      "desc": "使用Paint.NET软件绘制或编辑的图片",
+      "kw": "Paint.NET作品 / 使用Paint.NET绘制 / Paint.NET制图 / Paint.NET图片"
+    },
+    {
+      "en": "painttool sai (medium)",
+      "zh": "SAI",
+      "rating": "g",
+      "count": 14508,
+      "desc": "用 PaintTool SAI 创建或编辑的图片",
+      "kw": "SAI绘画 / SAI软件 / SAI绘制 / SAI绘图软件 / 用SAI画图 / paint tool sai / painttoolsai / painttoolsai2 / sai"
+    },
+    {
+      "en": "parody request",
+      "zh": "请求恶搞对象",
+      "rating": "g",
+      "count": 696,
+      "desc": "请求他人识别图中恶搞作品出处的帖子",
+      "kw": "请求识别恶搞 / 求恶搞出处 / 恶搞识别请求 / 求恶搞来源 / 寻求恶搞出处 / 请求告知恶搞对象 / 恶搞求助"
+    },
+    {
+      "en": "partial commentary",
+      "zh": "部分译注",
+      "rating": "g",
+      "count": 162440,
+      "desc": "作者注释仅部分翻译，通常只有标题。",
+      "kw": "部分翻译 / 部分翻译注释 / 部分作者注释 / 部分翻译作者评论 / 部分翻译评论 / 未完全翻译注释 / 部分译文 / 译注部分"
+    },
+    {
+      "en": "partially annotated",
+      "zh": "部分批注",
+      "rating": "g",
+      "count": 624,
+      "desc": "图中只有部分内容被批注",
+      "kw": "部分注释 / 部分标注 / 部分解说文字 / 部分标注图 / 部分批注图 / 仅有部分批注"
+    },
+    {
+      "en": "partially translated",
+      "zh": "部分翻译",
+      "rating": "g",
+      "count": 23693,
+      "desc": "带有翻译批注但翻译不完整的帖子。",
+      "kw": "部分汉化 / 未完全翻译 / 翻译不完整 / 半翻译 / 局部翻译 / 部分译注 / 翻译了一部分 / partly translated / partial translation"
+    },
+    {
+      "en": "patreon reward",
+      "zh": "Patreon奖励",
+      "rating": "g",
+      "count": 9015,
+      "desc": "Patreon的付费赞助图，现已禁止上传",
+      "kw": "赞助奖励 / 付费赞助内容 / 赞助特典 / Patreon赞助内容"
+    },
+    {
+      "en": "paywall cliffhanger",
+      "zh": "付费墙截断",
+      "rating": "g",
+      "count": 496,
+      "desc": "视频被结尾卡片截断，需付费才能观看完整内容",
+      "kw": "付费截断 / 付费墙悬念 / 付费墙吊胃口 / 付费内容截断 / 会员付费截断 / 后续付费截断"
+    },
+    {
+      "en": "pdf available",
+      "zh": "有PDF",
+      "rating": "g",
+      "count": 900,
+      "desc": "画师网站提供PDF下载",
+      "kw": "提供PDF / PDF可下载 / 附带PDF / 有PDF下载"
+    },
+    {
+      "en": "phonecard (medium)",
+      "zh": "电话卡（媒介）",
+      "rating": "g",
+      "count": 162,
+      "desc": "用于支付电话费的电话卡，也指其扫描或照片",
+      "kw": "电话卡 / 电话卡卡片 / 电话费卡 / 公共电话卡 / 电话充值卡 / 电话卡扫描 / 电话卡图片 / 电话卡插画 / telephone card"
+    },
+    {
+      "en": "photo-referenced",
+      "zh": "照片参考",
+      "rating": "g",
+      "count": 12969,
+      "desc": "以照片或视频为参考创作的图，常标注写真模写",
+      "kw": "参考照片 / 写真参考 / 写真模写 / 照片模写 / 照片临摹 / 照片学习 / 参考摄影 / 照片素材参考 / photo reference / photo study / photostudy"
+    },
+    {
+      "en": "photoshop (medium)",
+      "zh": "Photoshop",
+      "rating": "g",
+      "count": 710081,
+      "desc": "用 Photoshop 处理的图片",
+      "kw": "PS / 修图 / P图 / 图像处理 / photoshop"
+    },
+    {
+      "en": "pixel-perfect duplicate",
+      "zh": "像素级重复图",
+      "rating": "g",
+      "count": 27026,
+      "desc": "与父帖逐像素完全相同但来源更差的重复图。",
+      "kw": "像素完全相同的重复图 / 逐像素重复 / 像素级重复 / 完全重复图 / 像素相同重复"
+    },
+    {
+      "en": "pixiv commission",
+      "zh": "Pixiv约稿",
+      "rating": "g",
+      "count": 45899,
+      "desc": "通过Pixiv约稿功能委托创作的作品",
+      "kw": "Pixiv委托 / P站约稿 / P站委托 / Pixiv请求 / Pixiv委托创作 / Pixiv接稿 / pixiv request"
+    },
+    {
+      "en": "pixiv sample",
+      "zh": "Pixiv样本图",
+      "rating": "g",
+      "count": 4782,
+      "desc": "Pixiv的缩略图样本，并非原图",
+      "kw": "Pixiv缩略图 / P站样本图 / P站缩略图 / pixiv样张 / pixiv预览图 / pixiv小图 / pixiv thumbnail / pixiv manga sample"
+    },
+    {
+      "en": "poorly translated",
+      "zh": "翻译质量差",
+      "rating": "g",
+      "count": 106,
+      "desc": "字幕或硬翻与原文不符、质量低劣的帖子。",
+      "kw": "劣质翻译 / 翻译错误 / 字幕翻译差 / 翻译不当"
+    },
+    {
+      "en": "portuguese commentary",
+      "zh": "葡萄牙语注释",
+      "rating": "g",
+      "count": 724,
+      "desc": "图片或作品带有葡萄牙语的注释或评论文字。",
+      "kw": "葡萄牙语评论 / 葡语注释 / 葡文注释 / 葡萄牙语解说 / 葡语评论 / 葡萄牙文评论"
+    },
+    {
+      "en": "procreate (medium)",
+      "zh": "Procreate（绘画软件）",
+      "rating": "g",
+      "count": 8382,
+      "desc": "用iPad绘画应用Procreate创作的图片",
+      "kw": "iPad绘画应用Procreate / Procreate绘图 / Procreate画作 / procreate / procreate3 / procreate4 / procreateart"
+    },
+    {
+      "en": "production art",
+      "zh": "制作资料图",
+      "rating": "g",
+      "count": 2857,
+      "desc": "动画等制作过程中的未完成稿或参考资料",
+      "kw": "制作资料 / 设定集 / 概念图 / 动画制作稿 / 原画草图 / 制作过程图 / 制作参考资料"
+    },
+    {
+      "en": "profile picture",
+      "zh": "头像",
+      "rating": "g",
+      "count": 738,
+      "desc": "账号或个人资料所用的头像图片",
+      "kw": "头像图片 / 用户头像 / 账号头像 / 个人头像 / 虚拟头像 / 头像图标 / 图像类型 / 社交媒体 / avatar icon"
+    },
+    {
+      "en": "protected link",
+      "zh": "受保护链接",
+      "rating": "g",
+      "count": 36968,
+      "desc": "来源链接仅特定用户可见，如关注者限定或需登录。",
+      "kw": "受限链接 / 私密链接 / 关注者可见 / 非公开来源 / 需登录查看 / 受限来源 / 保护链接"
+    },
+    {
+      "en": "prototype design",
+      "zh": "原型设计",
+      "rating": "g",
+      "count": 2655,
+      "desc": "未正式公开的概念设计或早期设定稿",
+      "kw": "初期设定 / 概念设计 / 未采用设计 / 雏形设计 / 初稿设定 / 早期设计 / 原始设计 / 初期设计 / prototype / beta design"
+    },
+    {
+      "en": "psd available",
+      "zh": "有PSD源文件",
+      "rating": "g",
+      "count": 1095,
+      "desc": "该帖作品另有PSD源文件可供下载",
+      "kw": "PSD可下载 / 附带PSD / 提供PSD / PSD源文件 / 有PSD文件"
+    },
+    {
+      "en": "recolored",
+      "zh": "重上色",
+      "rating": "g",
+      "count": 209,
+      "desc": "与原图配色不同的重新上色版本。",
+      "kw": "重新上色 / 改色 / 换色 / 重涂色 / 再上色 / 重着色 / 配色更改"
+    },
+    {
+      "en": "redesign",
+      "zh": "重新设计",
+      "rating": "g",
+      "count": 4015,
+      "desc": "把角色或物体的官方外观改成原创设计",
+      "kw": "再设计 / 改设计 / 重设计 / 原创改版 / 设计 / 改版"
+    },
+    {
+      "en": "redrawn",
+      "zh": "重绘",
+      "rating": "g",
+      "count": 3638,
+      "desc": "画师把旧作完全重画一遍的版本。",
+      "kw": "重画 / 重新绘制 / 翻新绘制 / 再绘 / 重制"
+    },
+    {
+      "en": "resized",
+      "zh": "已缩放",
+      "rating": "g",
+      "count": 6799,
+      "desc": "图像尺寸被改动过，需配合upscaled或downscaled使用",
+      "kw": "缩放 / 调整大小 / 尺寸调整 / 改分辨率 / 分辨率改动 / 补分辨率"
+    },
+    {
+      "en": "resolution mismatch",
+      "zh": "分辨率不匹配",
+      "rating": "g",
+      "count": 32848,
+      "desc": "Danbooru图片分辨率与来源不同",
+      "kw": "分辨率不符 / 分辨率不一致 / 分辨率差异 / 分辨率不同"
+    },
+    {
+      "en": "reverse translation",
+      "zh": "回译",
+      "rating": "g",
+      "count": 645,
+      "desc": "图中英文被回译成其他语言（多为日语）的帖子",
+      "kw": "反向翻译 / 逆向翻译 / 译回 / 翻译回注 / 回翻"
+    },
+    {
+      "en": "reversed",
+      "zh": "左右翻转",
+      "rating": "g",
+      "count": 292,
+      "desc": "整图被水平翻转，常见为第三方修改。",
+      "kw": "水平翻转 / 镜像翻转 / 左右镜像 / 反向图 / 翻转图 / 镜像反转 / 水平镜像"
+    },
+    {
+      "en": "revision",
+      "zh": "修订版",
+      "rating": "g",
+      "count": 84467,
+      "desc": "画师本人修正错误或加笔后的修订版本。",
+      "kw": "修正版 / 修改版 / 修正 / 改图 / 加笔 / 加工 / 更正版 / 修正图 / revised / 修改"
+    },
+    {
+      "en": "romaji commentary",
+      "zh": "罗马字注释",
+      "rating": "g",
+      "count": 3701,
+      "desc": "注释用罗马字拼写写成的帖子",
+      "kw": "罗马音注释 / 罗马字评论 / 罗马音评论 / 罗马字标注 / 罗马字说明 / 罗马拼音注释"
+    },
+    {
+      "en": "rotated",
+      "zh": "已旋转",
+      "rating": "g",
+      "count": 560,
+      "desc": "整图被旋转的图，多用于把倒图转正",
+      "kw": "旋转过 / 图像旋转 / 整图旋转 / 旋转图片 / 旋转方向调整"
+    },
+    {
+      "en": "roulette animation",
+      "zh": "轮盘动画",
+      "rating": "g",
+      "count": 267,
+      "desc": "快速轮播多张图的动画，需暂停截取其中一张",
+      "kw": "轮盘式动画 / 快速轮播动画 / 转盘动画 / 抽选动画 / 走马灯动画"
+    },
+    {
+      "en": "ruffle compatible",
+      "zh": "Ruffle兼容",
+      "rating": "g",
+      "count": 781,
+      "desc": "确认可在站内Ruffle模拟器上正常播放的Flash",
+      "kw": "Ruffle兼容性 / 支持Ruffle / Ruffle可播放 / Ruffle模拟器兼容 / Flash可用Ruffle播放"
+    },
+    {
+      "en": "russian commentary",
+      "zh": "俄文注释",
+      "rating": "g",
+      "count": 2577,
+      "desc": "注释用俄文写成的帖子",
+      "kw": "俄语注释 / 俄文评论 / 俄语评论 / 俄语说明文字 / 俄文文字注释"
+    },
+    {
+      "en": "scan",
+      "zh": "扫图",
+      "rating": "g",
+      "count": 95134,
+      "desc": "从海报、画集或杂志等实体媒介扫描的图片",
+      "kw": "扫描 / 扫描件 / 扫描图 / 扫描图片 / 扫描版 / 高清扫图 / 扫描本"
+    },
+    {
+      "en": "screenshot",
+      "zh": "截图",
+      "rating": "g",
+      "count": 5445,
+      "desc": "来自动画与游戏以外内容的截图",
+      "kw": "截屏 / 屏幕截图 / 画面截图 / 视频截图 / 影视截图 / 非动画游戏截图"
+    },
+    {
+      "en": "second-party source",
+      "zh": "第二方来源",
+      "rating": "g",
+      "count": 109751,
+      "desc": "来源为代画师转发作品的账号",
+      "kw": "第二方 / 代发来源 / 官方代发 / 约稿方发布 / 代画师转发 / 非画师本人发布 / 来源:约稿方"
+    },
+    {
+      "en": "self-datamine",
+      "zh": "自行解包",
+      "rating": "g",
+      "count": 50936,
+      "desc": "上传者自己从游戏中提取的资源图，来源为本地",
+      "kw": "自提取 / 自己解包 / 自解包 / 个人解包 / 自行提取 / 本地解包"
+    },
+    {
+      "en": "self-scan",
+      "zh": "自行扫图",
+      "rating": "g",
+      "count": 432,
+      "desc": "由扫描者本人上传的扫图，来源为本地",
+      "kw": "自扫 / 自扫描 / 本人扫图 / 个人扫描 / 自己扫的图 / 扫描者上传 / 亲扫"
+    },
+    {
+      "en": "self-upload",
+      "zh": "作者本人上传",
+      "rating": "g",
+      "count": 30893,
+      "desc": "由作品作者本人上传到站内的图片",
+      "kw": "自上传 / 作者自传 / 作者上传 / 本人上传 / 自投稿 / self upload"
+    },
+    {
+      "en": "skeb commission",
+      "zh": "Skeb约稿",
+      "rating": "g",
+      "count": 116983,
+      "desc": "通过Skeb平台委托创作的作品",
+      "kw": "Skeb委托 / Skeb稿 / Skeb作品 / Skeb插图 / Skeb定制 / skeb"
+    },
+    {
+      "en": "sound",
+      "zh": "有声音",
+      "rating": "g",
+      "count": 37546,
+      "desc": "帖子包含可听声音，常见于视频或Flash。",
+      "kw": "有声 / 带声音 / 含音频 / 有音频 / 带音效 / 有音效 / 声音 / 配音 / video with sound / flash with sound / audio / has audio"
+    },
+    {
+      "en": "source filmmaker (medium)",
+      "zh": "Source Filmmaker",
+      "rating": "g",
+      "count": 709,
+      "desc": "用Valve的Source Filmmaker制作的图或动画。",
+      "kw": "SFM"
+    },
+    {
+      "en": "source larger",
+      "zh": "来源图更大",
+      "rating": "g",
+      "count": 13984,
+      "desc": "来源图片分辨率高于站内图片",
+      "kw": "源图更大 / 来源分辨率更高 / 源图高清 / 来源图更高清 / 源图尺寸更大 / 原始图更大 / 源文件更大 / 来源图片更大"
+    },
+    {
+      "en": "source mismatch",
+      "zh": "来源不匹配",
+      "rating": "g",
+      "count": 1142,
+      "desc": "来源链接现已指向与帖子完全不同的内容",
+      "kw": "来源不符 / 源不匹配 / 源链接不符 / 来源失效 / 来源不一致"
+    },
+    {
+      "en": "source request",
+      "zh": "来源请求",
+      "rating": "g",
+      "count": 34895,
+      "desc": "来源不明、请求他人补充出处。",
+      "kw": "请求来源 / 求来源 / 求出处 / 请求出处 / 来源不明 / 无来源 / 求图源 / 求原始来源 / no source / need source / cg request"
+    },
+    {
+      "en": "source smaller",
+      "zh": "来源图较小",
+      "rating": "g",
+      "count": 17370,
+      "desc": "来源图片分辨率低于 Danbooru 上传版本",
+      "kw": "源图较小 / 来源分辨率低 / 源分辨率较低 / 来源图片更小 / 来源图分辨率低"
+    },
+    {
+      "en": "spanish commentary",
+      "zh": "西班牙文注释",
+      "rating": "g",
+      "count": 6271,
+      "desc": "注释或留言使用西班牙文",
+      "kw": "西班牙语注释 / 西语注释 / 西班牙文评论 / 西班牙语留言 / 西文注释"
+    },
+    {
+      "en": "spine (medium)",
+      "zh": "Spine软件制作（媒介）",
+      "rating": "g",
+      "count": 760,
+      "desc": "用Spine制作的2D骨骼动画作品",
+      "kw": "Spine动画 / Spine制作 / Spine作品 / 2D骨骼动画 / Spine骨骼动画 / Spine软件动画"
+    },
+    {
+      "en": "spoilers",
+      "zh": "剧透",
+      "rating": "g",
+      "count": 48738,
+      "desc": "内容会剧透作品情节或结局的帖子。",
+      "kw": "剧透警告 / 剧透内容 / 剧透注意 / 剧透帖 / 剧透预警 / spoiler / spoiler warning / tma spoilers / 捏他"
+    },
+    {
+      "en": "story in commentary",
+      "zh": "注释故事",
+      "rating": "g",
+      "count": 964,
+      "desc": "画师在注释里讲述角色背景或后续故事",
+      "kw": "附注故事 / 说明故事 / 帖子注释故事 / 评论区故事"
+    },
+    {
+      "en": "symbol-only commentary",
+      "zh": "仅符号评论",
+      "rating": "g",
+      "count": 222687
+    },
+    {
+      "en": "tagme",
+      "zh": "待补标签",
+      "rating": "g",
+      "count": 4910,
+      "desc": "用于表示图片还缺标签，满30个标签后自动移除。",
+      "kw": "求补标签 / 请求标签 / 需要补标签 / 标签请求 / 补标签 / 待补充标签 / tag me"
+    },
+    {
+      "en": "tegaki draw and tweet",
+      "zh": "Tegaki Draw and Tweet（手绘发推）",
+      "rating": "g",
+      "count": 578,
+      "desc": "用Tegaki Draw and Tweet在线绘图工具画的图",
+      "kw": "手绘发推 / TegakiDT绘图 / 在线手绘发推 / tegaki dt"
+    },
+    {
+      "en": "textless cover page",
+      "zh": "无字封面",
+      "rating": "g",
+      "count": 5481,
+      "desc": "不含文字的封面页版本",
+      "kw": "无字封面页 / 无文字封面 / 封面无字 / 无字版封面 / 无标题封面 / 纯图封面 / 表纸絵 / 无字表纸 / cover image / 表纸绘"
+    },
+    {
+      "en": "textless version",
+      "zh": "无字版",
+      "rating": "g",
+      "count": 28971,
+      "desc": "画师另发布的去除文字版本",
+      "kw": "无文字版 / 无字版本 / 无字图 / 去除文字版 / 无对话框版 / 无标题版 / textless"
+    },
+    {
+      "en": "thai commentary",
+      "zh": "泰文注释",
+      "rating": "g",
+      "count": 3465,
+      "desc": "注释用泰文写成的帖子。",
+      "kw": "泰语注释 / 泰文评语 / 泰文说明 / 泰文评论 / 泰语文字 / 泰文旁白"
+    },
+    {
+      "en": "third-party edit",
+      "zh": "第三方修改",
+      "rating": "g",
+      "count": 28115,
+      "desc": "画师以外的人修改过的图，一般禁止上传",
+      "kw": "二改 / 二次修改 / 他人改图 / 第三方编辑 / 非画师修改 / 图改 / photoshopped / cardedit / 加工"
+    },
+    {
+      "en": "third-party extraction",
+      "zh": "第三方提取",
+      "rating": "g",
+      "count": 747,
+      "desc": "他人从原图中抠出角色的提取图",
+      "kw": "第三方抠图 / 他人提取 / 提取图 / 抠图提取 / 第三方抠出"
+    },
+    {
+      "en": "third-party source",
+      "zh": "第三方来源",
+      "rating": "g",
+      "count": 112597,
+      "desc": "来源为画师官方之外的搬运、转载等第三方网站",
+      "kw": "第三方 / 搬运 / 转载 / 非官方来源 / 第三方图源 / 二手来源 / 转载图源 / 盗作 / 遗作"
+    },
+    {
+      "en": "thumbnail surprise",
+      "zh": "缩略图反差",
+      "rating": "g",
+      "count": 242,
+      "desc": "缩略图与完整图观感差别很大，常故意制造反转。",
+      "kw": "缩略图骗局 / 缩略图欺诈 / 缩略图惊喜 / 缩略图意外 / 小图与大图反差 / 缩略图误导 / 点开大图有惊喜 / 缩略图陷阱"
+    },
+    {
+      "en": "traditional chinese commentary",
+      "zh": "繁体中文注释",
+      "rating": "g",
+      "count": 732,
+      "desc": "注释用繁体中文写成的帖子",
+      "kw": "繁体注释 / 正体中文注释 / 繁体字注释 / 港台中文注释 / 繁体说明"
+    },
+    {
+      "en": "translated",
+      "zh": "已翻译",
+      "rating": "g",
+      "count": 659443,
+      "desc": "帖子已被翻译成英文",
+      "kw": "有翻译 / 翻译完成 / 英文翻译 / translation / translatied"
+    },
+    {
+      "en": "translation request",
+      "zh": "请求翻译",
+      "rating": "g",
+      "count": 885771,
+      "desc": "图中非英文文字需翻译成英文",
+      "kw": "求翻译 / 翻译请求 / 需要翻译 / 待翻译 / 求英文翻译 / translate request / translationrequest / translation requested"
+    },
+    {
+      "en": "trim marks",
+      "zh": "裁切标记",
+      "rating": "g",
+      "count": 277,
+      "desc": "印刷品上标示裁切位置的角线",
+      "kw": "裁切角线 / 裁切线 / 剪切标记 / 裁剪标记 / 裁切记号 / 印刷标记 / 设计标记 / crop marks"
+    },
+    {
+      "en": "tumblr sample",
+      "zh": "Tumblr缩略图",
+      "rating": "g",
+      "count": 791,
+      "desc": "来自Tumblr的缩略图样本，并非原图",
+      "kw": "汤不热缩略图 / 汤不热样图"
+    },
+    {
+      "en": "twitter sample",
+      "zh": "Twitter缩略图",
+      "rating": "g",
+      "count": 899,
+      "desc": "Twitter上的缩略图样本",
+      "kw": "Twitter样本图 / 推特缩略图 / 推特示例图 / Twitter压缩图"
+    },
+    {
+      "en": "ugoira",
+      "zh": "动图（Ugoira格式）",
+      "rating": "g",
+      "count": 23145,
+      "desc": "Pixiv专用的动图格式，本质为图片ZIP包。",
+      "kw": "动图 / Pixiv动图 / P站动图 / 动画格式"
+    },
+    {
+      "en": "ugoira conversion",
+      "zh": "动图转换",
+      "rating": "g",
+      "count": 353,
+      "desc": "把Pixiv Ugoira转成其他动图或视频格式上传的图",
+      "kw": "Pixiv动图转换 / 动画转换 / 动态图片转码 / 视频转换 / 动图格式转换"
+    },
+    {
+      "en": "uncensored",
+      "zh": "无码",
+      "rating": "q",
+      "nsfw": true,
+      "count": 203314,
+      "desc": "性器或性行为未经打码遮挡的原图。",
+      "kw": "无修正 / 未打码 / 无码版 / 无遮 / 无圣光 / 无和谐 / 原图 / 无码原图 / uncensoring / descensored / 無修正"
+    },
+    {
+      "en": "untranslatable commentary",
+      "zh": "无需翻译注释",
+      "rating": "g",
+      "count": 348678,
+      "desc": "注释只有符号、数字、表情或乱码等无法翻译的内容。",
+      "kw": "不可译注释 / 符号注释 / 表情注释 / 无法翻译注释 / 纯符号注释 / emoji commentary / symbol-only commentary / symbol commentary"
+    },
+    {
+      "en": "upscaled",
+      "zh": "超分辨率放大",
+      "rating": "g",
+      "count": 3142,
+      "desc": "图像被超分辨率技术放大，第三方放大一般禁止上传。",
+      "kw": "超分 / 高清放大 / 放大处理 / 超分放大 / 超分辨率处理 / 图像超分 / upscale"
+    },
+    {
+      "en": "variant set",
+      "zh": "差分",
+      "rating": "g",
+      "count": 242447,
+      "desc": "同一姿势的基准图加若干变体组成的一组图",
+      "kw": "差分图 / 变体 / 变体图 / 替代版本 / 多版本 / 差分套图 / 差分集 / 服装差分"
+    },
+    {
+      "en": "variant set available",
+      "zh": "有完整差分",
+      "rating": "g",
+      "count": 610,
+      "desc": "来源处有完整差分图组但站内未全部搬运",
+      "kw": "有差分组 / 有全套差分 / 差分图集 / 可获取差分"
+    },
+    {
+      "en": "vehicle request",
+      "zh": "求车辆型号",
+      "rating": "g",
+      "count": 776,
+      "desc": "请求他人识别图中车辆型号或类型",
+      "kw": "车辆识别请求 / 求车 / 求载具型号 / 请求识别车辆 / 车辆求助 / 求车辆类型 / car request"
+    },
+    {
+      "en": "vgen commission",
+      "zh": "VGen约稿",
+      "rating": "g",
+      "count": 2771,
+      "desc": "通过VGen平台委托创作的作品",
+      "kw": "VGen委托 / VGen稿 / Vgen约稿 / VGen作品 / Vgen委托图 / VGen委托作品 / vgen / vgencomm / vgencomms"
+    },
+    {
+      "en": "video",
+      "zh": "视频",
+      "rating": "g",
+      "count": 87046,
+      "desc": "站内视频帖，支持WebM与MP4等格式。",
+      "kw": "影片 / 动画 / 视频帖 / 短片 / 动态图 / webm / mp4 / videos"
+    },
+    {
+      "en": "video thumbnail",
+      "zh": "视频封面",
+      "rating": "g",
+      "count": 631,
+      "desc": "用作视频封面的画作",
+      "kw": "视频缩略图 / 视频预览图 / 视频截图封面 / 视频封面画 / 视频封面图"
+    },
+    {
+      "en": "vietnamese commentary",
+      "zh": "越南文注释",
+      "rating": "g",
+      "count": 565,
+      "desc": "注释用越南文写成的帖子",
+      "kw": "越南语注释 / 越文注释 / 越南语解说 / 越南文解说 / 越语注释"
+    },
+    {
+      "en": "voice drama available",
+      "zh": "有音声",
+      "rating": "g",
+      "count": 5839,
+      "desc": "为音声作品、多为ASMR绘制的配图。",
+      "kw": "附带音声 / 音声作品 / 有声音剧 / 同人音声 / ASMR音声"
+    },
+    {
+      "en": "volume warning",
+      "zh": "音量警告",
+      "rating": "g",
+      "count": 328,
+      "desc": "含有突然大音量或极响声音，请调低音量",
+      "kw": "声音警告 / 音量提醒 / 高音量警告 / 注意音量 / 声音过大警告 / sound warning"
+    },
+    {
+      "en": "waifu2x",
+      "zh": "waifu2x放大",
+      "rating": "g",
+      "count": 809,
+      "desc": "使用 waifu2x 算法放大的图像",
+      "kw": "waifu2x处理 / waifu2x超分辨率 / waifu2x增强"
+    },
+    {
+      "en": "weapon request",
+      "zh": "请求武器",
+      "rating": "g",
+      "count": 2444,
+      "desc": "请求他人识别图中武器具体型号的标签。",
+      "kw": "求武器名 / 武器识别请求 / 求武器型号 / 武器辨识 / 求枪支型号 / 武器求助 / 求装备名"
+    },
+    {
+      "en": "yandere sample",
+      "zh": "Yandere缩略图",
+      "rating": "g",
+      "count": 497,
+      "desc": "来自Yande.re的缩略图样本，并非原图",
+      "kw": "Y站缩略图 / Y站样本 / Y站小图 / Yande.re样本图"
+    },
+    {
+      "en": "ych commission",
+      "zh": "模板约稿",
+      "rating": "g",
+      "count": 1160,
+      "desc": "画师先出模板，再由约稿方替换成自己角色的委托",
+      "kw": "模板委托 / 改图约稿 / YCH委托 / YCH约稿 / 模板改图 / 角色替换约稿"
+    },
+    {
+      "en": "zbrush (medium)",
+      "zh": "ZBrush（软件）",
+      "rating": "g",
+      "count": 371,
+      "desc": "用3D建模软件ZBrush制作或编辑的作品",
+      "kw": "ZBrush制作 / ZBrush建模 / ZBrush作品 / ZBrush软件 / ZBrush媒介 / ZBrush雕刻 / zbrush"
+    },
+    {
+      "en": "zip available",
+      "zh": "有ZIP下载",
+      "rating": "g",
+      "count": 188,
+      "desc": "画师在来源页面提供ZIP压缩包下载的帖子",
+      "kw": "提供ZIP压缩包 / 有压缩包下载 / 附带ZIP下载 / ZIP资源"
+    },
+    {
+      "en": "adversarial noise",
+      "zh": "对抗噪声",
+      "rating": "g",
+      "count": 12312,
+      "desc": "使用Glaze或Nightshade等工具加入的对抗性噪点，防AI学习。",
+      "kw": "防AI噪声 / 对抗性噪声 / 防训练噪音 / AI干扰噪声 / glaze protected image / glaze artifacts"
+    },
+    {
+      "en": "art study",
+      "zh": "习作",
+      "rating": "g",
+      "count": 1658,
+      "desc": "为学习特定对象或部位而画的练习作品",
+      "kw": "练习作品 / 绘画练习 / 素描习作 / 艺术习作 / 研究性习作 / 学习画作 / 习作练习 / 美术练习 / artstudy / studies / study"
+    },
+    {
+      "en": "artbook",
+      "zh": "画集",
+      "rating": "g",
+      "count": 4957,
+      "desc": "从画集中扫描的作品，含官方图与原创图",
+      "kw": "画册 / 原画集 / 美术画集 / 插画集 / 作品集"
+    },
+    {
+      "en": "audible internal cumshot",
+      "zh": "可听见的内射",
+      "rating": "e",
+      "nsfw": true,
+      "count": 975,
+      "desc": "带声音作品中能听到内射声响",
+      "kw": "可听见内射 / 内射射精声 / 体内射精声 / 可听内射 / 内部射精音 / 内射声"
+    },
+    {
+      "en": "color guide",
+      "zh": "配色指南",
+      "rating": "g",
+      "count": 8232,
+      "desc": "画面中出现的配色表或色卡",
+      "kw": "配色表 / 色卡 / 颜色参考 / 色板 / 色标卡 / 调色盘 / 颜色指南 / color palette / palette (guide) / color swatch"
+    },
+    {
+      "en": "comic panel redraw",
+      "zh": "漫画分镜重绘",
+      "rating": "g",
+      "count": 1436,
+      "desc": "重绘漫画或同人志分镜、页面的作品",
+      "kw": "漫画格子重绘 / 分镜重绘 / 同人志重绘 / 漫画页重绘 / 漫画场景重绘 / manga panel redraw"
+    },
+    {
+      "en": "corrupted file",
+      "zh": "文件损坏",
+      "rating": "g",
+      "count": 418,
+      "desc": "图片文件损坏、只显示部分或出现坏像素",
+      "kw": "损坏文件 / 损坏图片 / 图像损坏 / 图片损坏 / 坏图 / 花屏 / 数据损坏 / 损坏图像 / corrupted image / corrupted video"
+    },
+    {
+      "en": "corrupted metadata",
+      "zh": "元数据损坏",
+      "rating": "g",
+      "count": 671,
+      "desc": "EXIF等元数据错误或损坏，导致旋转或色彩异常。",
+      "kw": "元数据错误 / 损坏元数据 / EXIF损坏 / EXIF错误 / 元数据异常 / corrupted exif data"
+    },
+    {
+      "en": "corrupted twitter file",
+      "zh": "推特文件损坏图",
+      "rating": "g",
+      "count": 11917,
+      "desc": "被推特压缩损坏的图片，底部常出现重复像素行。",
+      "kw": "推特压缩损坏 / 推特压图损坏 / 推特损坏图 / 平台压缩损坏图 / 推特图片损坏"
+    },
+    {
+      "en": "cosplay photo",
+      "zh": "角色扮演照片",
+      "rating": "g",
+      "count": 2210,
+      "desc": "现实中的真人cosplay摄影照片",
+      "kw": "COS照片 / cosplay照片 / 角色扮演摄影 / COS照 / 真人COS / cos正片 / cosplay摄影 / cosplay"
+    },
+    {
+      "en": "eyecatch",
+      "zh": "过场图",
+      "rating": "g",
+      "count": 759,
+      "desc": "动画广告前后或漫画章首的整页插图",
+      "kw": "章节首图 / 插页 / 中插 / 过渡图 / 广告前后静止图 / 章节封面图 / eye catch"
+    },
+    {
+      "en": "official alternate eye color",
+      "zh": "官方替代瞳色",
+      "rating": "g",
+      "count": 3363,
+      "desc": "角色在官方设定中有不同的眼睛颜色。",
+      "kw": "官方异色瞳 / 官方瞳色变化 / 官方设定瞳色 / 官方不同瞳色 / 官方替换眼睛颜色 / 官方异瞳 / 眼睛 / 异色瞳"
+    },
+    {
+      "en": "official art redraw",
+      "zh": "官方图重绘",
+      "rating": "g",
+      "count": 604,
+      "desc": "他人重新绘制官方图的帖子，常附原图作对照",
+      "kw": "重绘官方图 / 官方图重画 / 官方插图重绘 / 官图重绘"
+    }
+  ],
+  "updatedAt": "2026-11-22T14:04:42.467Z"
+}

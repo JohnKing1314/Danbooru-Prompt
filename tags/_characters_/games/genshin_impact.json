@@ -1,0 +1,1198 @@
+{
+  "id": "genshin_impact",
+  "name": "原神",
+  "parentId": "games",
+  "order": 2,
+  "file": "games/genshin_impact.json",
+  "characters": [
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "荧",
+      "tag": "lumine (genshin impact)",
+      "charZh": "荧（原神）",
+      "auto": "blonde hair|金发;short hair|短发;twins|双胞胎;hair flower|头花;scarf|围巾;thigh boots|过膝靴;short hair with long locks|短发长鬓;white flower|白花;bare shoulders|露肩;sidelocks|鬓角;white dress|白裙",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "空",
+      "tag": "aether (genshin impact)",
+      "charZh": "空（原神）",
+      "auto": "blonde hair|金发;long hair|长发;braid|麻花辫;ahoge|呆毛;orange eyes|橙瞳;twins|双胞胎;cape|披风;boots|靴子;gloves|手套;single earring|单边耳环;short sleeves|短袖;white scarf|白围巾;black gloves|黑手套;black shirt|黑衬衫;crop top|露脐上衣;white cape|白色披风;black pants|黑色长裤;black footwear|黑色鞋靴",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "派蒙",
+      "tag": "paimon (genshin impact)",
+      "charZh": "派蒙（原神）",
+      "auto": "white hair|白发;short hair|短发;blue eyes|蓝瞳;halo|光环;hair ornament|发饰;headdress|头饰;boots|靴子;long sleeves|长袖;white romper|白色连体短裤;white dress|白裙;single thighhigh|单边过膝袜;white thighhighs|白色过膝袜;:d|开口大笑（:D）",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "琴",
+      "tag": "jean (genshin impact)",
+      "charZh": "琴（原神）",
+      "auto": "blonde hair|金发;high ponytail|高马尾;blue eyes|蓝瞳;knight|骑士;tsurime|吊眼;bangs|刘海;small breasts|小胸;backless|露背;cape|披风;boots|靴子;ponytail|马尾;long hair|长发;hair between eyes|眼间刘海;black gloves|黑手套;hair bow|发饰蝴蝶结;sidelocks|鬓角;detached sleeves|分离袖;bare shoulders|露肩;white pants|白色长裤;animated|动图;sound|有声音;video|视频;audible music|可听到音乐;red headwear|红色头饰;child's drawing|儿童画风",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "安柏",
+      "tag": "amber (genshin impact)",
+      "charZh": "安柏（原神）",
+      "auto": "brown hair|棕发;rabbit ears|兔耳;bangs|刘海;knight|骑士;goggles|护目镜;longbow|长弓;thighhighs|过膝袜;thigh boots|过膝靴;gloves|手套;short shorts|超短裤;red ribbon|红丝带;hair ribbon|发带丝带;long sleeves|长袖;brown shorts|棕色短裤;brown gloves|棕色手套;goggles around neck|颈挂护目镜;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "丽莎",
+      "tag": "lisa (genshin impact)",
+      "charZh": "丽莎（原神）",
+      "auto": "brown hair|棕发;curly hair|卷发;green eyes|绿瞳;small breasts|小胸;hair flower|头花;thighhighs|过膝袜;gloves|手套;hat|帽子;witch hat|女巫帽;long hair|长发;hair between eyes|眼间刘海;purple rose|紫玫瑰;black gloves|黑手套;vision (genshin impact)|神之眼;large breasts|大胸;english commentary|英文注释",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "凯亚",
+      "tag": "kaeya (genshin impact)",
+      "charZh": "凯亚（原神）",
+      "auto": "blue hair|蓝发;ponytail|马尾;blue eyes|蓝瞳;eyepatch|眼罩;cape|披风;boots|靴子;knight|骑士;dark-skinned male|深肤色男性;black gloves|黑手套;single earring|单边耳环;fingerless gloves|露指手套;one eye covered|遮住单眼;hair over shoulder|单肩披发;white shirt|白衬衫;sidelocks|鬓角",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "芭芭拉",
+      "tag": "barbara (genshin impact)",
+      "charZh": "芭芭拉（原神）",
+      "auto": "blonde hair|金发;hair bun|发髻;blue eyes|蓝瞳;idol|偶像;bare shoulders|裸肩;bowtie|领结;detached sleeves|分离袖;dress|连衣裙;pantyhose|连裤袜;ankle boots|短靴;white dress|白裙;twin drills|双螺旋卷;white headwear|白色头饰;long sleeves|长袖;hetero|异性恋;sound|有声音;video|视频;animated|动图;vaginal|阴道性交;cum in pussy|阴道内射;pov|第一人称视角;medium breasts|中等胸;doggystyle|后入式;english commentary|英文注释",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "迪卢克",
+      "tag": "diluc (genshin impact)",
+      "charZh": "迪卢克（原神）",
+      "auto": "red hair|红发;ponytail|马尾;red eyes|红瞳;bangs|刘海;long sleeves|长袖;black gloves|黑手套;collared shirt|有领衬衫;black shirt|黑衬衫;sidelocks|鬓角;black necktie|黑色领带;black pants|黑色长裤",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "温迪",
+      "tag": "venti (genshin impact)",
+      "charZh": "温迪（原神）",
+      "auto": "black hair|黑发;multicolored hair|多色发;braid|麻花辫;green eyes|绿瞳;pointy ears|尖耳;pantyhose|连裤袜;hair flower|头花;cape|披风;longbow|长弓;shorts|短裤;twin braids|双麻花辫;long sleeves|长袖;white shirt|白衬衫;green headwear|绿色头饰;beret|贝雷帽;white flower|白花;short hair with long locks|短发长鬓;androgynous|中性气质;green cape|绿色披风;side braids|侧麻花辫",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "可莉",
+      "tag": "klee (genshin impact)",
+      "charZh": "可莉（原神）",
+      "auto": "blonde hair|金发;twintails|双马尾;ahoge|呆毛;red eyes|红瞳;pointy ears|尖耳;student|学生;backpack|背包;kneehighs|及膝袜;boots|靴子;knight|骑士;cabbie hat|报童帽;low twintails|低双马尾;brown gloves|棕色手套;red hat|红帽子;hat feather|帽羽;long sleeves|长袖;medium hair|中长发;hair between eyes|眼间刘海;red dress|红裙;brown footwear|棕色鞋靴;red headwear|红色头饰;sidelocks|鬓角",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "莫娜",
+      "tag": "mona (genshin impact)",
+      "charZh": "莫娜（原神）",
+      "auto": "purple hair|紫发;twintails|双马尾;grey eyes|灰瞳;hat|帽子;black pantyhose|黑色连裤袜;tsurime|吊眼;cape|披风;high heels|高跟鞋;detached sleeves|分离袖;witch hat|魔女帽;black gloves|黑手套;blue leotard|蓝色紧身衣;thighlet|腿环;star earrings|星形耳环;purple headwear|紫色头饰;gold trim|金边装饰;medium breasts|中等胸;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "刻晴",
+      "tag": "keqing (genshin impact)",
+      "charZh": "刻晴（原神）",
+      "auto": "purple hair|紫发;twintails|双马尾;pink eyes|粉瞳;detached sleeves|分离袖;gloves|手套;black pantyhose|黑色连裤袜;small breasts|小胸;bare shoulders|裸肩;high heels|高跟鞋;cone hair bun|锥形发髻;double bun|双丸子头;purple dress|紫裙;medium breasts|中等胸;thighs|大腿;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "七七",
+      "tag": "qiqi (genshin impact)",
+      "charZh": "七七（原神）",
+      "auto": "purple hair|紫发;braid|麻花辫;pink eyes|粉瞳;small breasts|小胸;tareme|垂眼;bandage|绷带;thighhighs|过膝袜;shorts|短裤;hat|帽子;long sleeves|长袖;qingdai guanmao|清代官帽;bead necklace|念珠项链;jiangshi|僵尸;ofuda|符箓;purple headwear|紫色头饰;white thighhighs|白色过膝袜;vision (genshin impact)|神之眼;black nails|黑色美甲",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "菲谢尔",
+      "tag": "fischl (genshin impact)",
+      "charZh": "菲谢尔（原神）",
+      "auto": "blonde hair|金发;twintails|双马尾;green eyes|绿瞳;small breasts|小胸;longbow|长弓;bare shoulders|裸肩;eyepatch|眼罩;bowtie|领结;armlet|臂环;gloves|手套;long hair|长发;two side up|双侧扎发;hair ribbon|发带丝带;hair over one eye|单眼遮发;purple bowtie|紫色领结;black ribbon|黑丝带;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "诺艾尔",
+      "tag": "noelle (genshin impact)",
+      "charZh": "诺艾尔（原神）",
+      "auto": "silver hair|银发;short hair|短发;green eyes|绿瞳;maid|女仆;knight|骑士;black pantyhose|黑色连裤袜;armor|盔甲;hair flower|头花;thigh boots|过膝靴;red rose|红玫瑰;maid headdress|女仆头饰;braid|麻花辫;gauntlets|护手甲;red ascot|红色领巾;shoulder armor|肩甲;armored dress|装甲连衣裙;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "凝光",
+      "tag": "ningguang (genshin impact)",
+      "charZh": "凝光（原神）",
+      "auto": "white hair|白发;red eyes|红瞳;bangs|刘海;updo|盘发;qipao|旗袍;gloves|手套;high heels|高跟鞋;tsurime|吊眼;small breasts|小胸;hair stick|发簪;black gloves|黑手套;bare shoulders|露肩;elbow gloves|过肘手套;china dress|旗袍;sidelocks|鬓角;long hair|长发;tassel hair ornament|流苏发饰;large breasts|大胸;sitting|坐姿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "甘雨",
+      "tag": "ganyu (genshin impact)",
+      "charZh": "甘雨（原神）",
+      "auto": "blue hair|蓝发;curly hair|卷发;ahoge|呆毛;pink eyes|粉瞳;black pantyhose|黑色连裤袜;bare shoulders|裸肩;longbow|长弓;gloves|手套;detached sleeves|分离袖;neck bell|颈铃;black gloves|黑手套;bodystocking|全身连裤袜;sidelocks|鬓角;medium breasts|中等胸;video|视频;animated|动图;sitting|坐姿;large breasts|大胸;outdoors|室外",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "胡桃",
+      "tag": "hu tao (genshin impact)",
+      "charZh": "胡桃（原神）",
+      "auto": "brown hair|棕发;twintails|双马尾;red eyes|红瞳;hair flower|头花;headdress|头饰;spear|长枪;ring|戒指;hanfu|汉服;small breasts|小胸;flower-shaped pupils|花形瞳孔;long sleeves|长袖;black nails|黑色美甲;boo tao (genshin impact)|胡桃幽灵;black headwear|黑色头饰;hat flower|帽饰花;black shorts|黑色短裤;nail polish|指甲油;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "雷电将军",
+      "tag": "raiden shogun",
+      "charZh": "雷电将军（原神）",
+      "auto": "purple hair|紫发;braid|麻花辫;purple eyes|紫瞳;halo|光环;sidelocks|鬓发;small breasts|小胸;kimono|和服;thighhighs|过膝袜;geta|木屐;hair flower|头花;mole under eye|泪痣;purple kimono|紫色和服;long sleeves|长袖;obi|腰带;long braid|长麻花辫;bridal gauntlets|礼服长手套;purple nails|紫色美甲;raiden shogun|雷电将军;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "宵宫",
+      "tag": "yoimiya (genshin impact)",
+      "charZh": "宵宫（原神）",
+      "auto": "blonde hair|金发;high ponytail|高马尾;longbow|长弓;kimono|和服;angel|天使;bandage|绷带;bare shoulders|裸肩;ankle socks|短袜;tsurime|吊眼;bow|蝴蝶结;orange kimono|橙色和服;red choker|红色颈环;chest sarashi|缠胸布;arm tattoo|手臂纹身;ponytail|马尾;bandaged leg|绷带腿;chest tattoo|胸部纹身;bandaged arm|绷带手臂;hadanugi dousa|半褪衣;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "八重神子",
+      "tag": "yae miko",
+      "charZh": "八重神子（原神）",
+      "auto": "pink hair|粉发;long hair|长发;purple eyes|紫瞳;fox girl|狐娘;small breasts|小胸;miko|巫女服;kimono|和服;bangs|刘海;detached sleeves|分离袖;tsurime|吊眼;fox ears|狐耳;bare shoulders|露肩;white shirt|白衬衫;earrings|耳环;nontraditional miko|改良巫女服;long sleeves|长袖;wide sleeves|宽袖;sleeveless shirt|无袖衬衫;floppy ears|垂耳;yae miko|八重神子;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "珊瑚宫心海",
+      "tag": "sangonomiya kokomi",
+      "charZh": "珊瑚宫心海（原神）",
+      "auto": "pink hair|粉发;high ponytail|高马尾;blue eyes|蓝瞳;blunt bangs|齐刘海;bare shoulders|裸肩;gloves|手套;geta|木屐;bow|蝴蝶结;white gloves|白手套;colored tips|挑染发梢;long sleeves|长袖;white thighhighs|白色过膝袜;wide sleeves|宽袖;half gloves|半截手套;vision (genshin impact)|神之眼;navel|肚脐;blue bow|蓝色蝴蝶结",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "枫原万叶",
+      "tag": "kaedehara kazuha",
+      "charZh": "枫原万叶（原神）",
+      "auto": "white hair|白发;ponytail|马尾;ahoge|呆毛;red eyes|红瞳;armor|盔甲;samurai|武士;japanese clothes|和风服饰;fingerless gloves|露指手套;bandaged hand|绷带手;black gloves|黑手套;bishounen|美少年;bandaged arm|绷带手臂",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "纳西妲",
+      "tag": "nahida (genshin impact)",
+      "charZh": "纳西妲（原神）",
+      "auto": "green hair|绿发;long hair|长发;green eyes|绿瞳;pointy ears|尖耳;small breasts|小胸;cape|披风;side ponytail|侧马尾;white dress|白裙;cross-shaped pupils|十字瞳孔;sidelocks|鬓角;detached sleeves|分离袖;sleeveless dress|无袖连衣裙;bracelet|手镯",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "妮露",
+      "tag": "nilou (genshin impact)",
+      "charZh": "妮露（原神）",
+      "auto": "red hair|红发;twintails|双马尾;blue eyes|蓝瞳;blunt bangs|齐刘海;sandals|凉鞋;hair ornament|发饰;navel|肚脐;harem outfit|舞娘装;stomach|腹部;blue skirt|蓝色短裙;white veil|白纱;midriff|露腰;detached sleeves|分离袖;veil|面纱;crop top|露脐上衣;circlet|额环;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "迪希雅",
+      "tag": "dehya (genshin impact)",
+      "charZh": "迪希雅（原神）",
+      "auto": "black hair|黑发;blue eyes|蓝瞳;bangs|刘海;slit pupils|竖瞳;earrings|耳环;belt|腰带;shorts|短裤;thigh boots|过膝靴;dark-skinned female|深肤色女性;navel|肚脐;hair ears|发耳;stomach|腹部;hair intakes|M形刘海;criss-cross halter|交叉挂脖;bare shoulders|露肩;black gloves|黑手套;armlet|臂环;elbow gloves|过肘手套;gold choker|金色颈环;large breasts|大胸;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "芙宁娜",
+      "tag": "furina (genshin impact)",
+      "charZh": "芙宁娜（原神）",
+      "auto": "white hair|白发;curly hair|卷发;ahoge|呆毛;blue eyes|蓝瞳;heterochromia|异色瞳;small breasts|小胸;fedora|礼帽;gloves|手套;shorts|短裤;ankle socks|短袜;long sleeves|长袖;blue headwear|蓝色头饰;blue jacket|蓝色夹克;top hat|高礼帽;white gloves|白手套;blue ascot|蓝色领巾;black gloves|黑手套;hair intakes|M形刘海",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "那维莱特",
+      "tag": "neuvillette (genshin impact)",
+      "charZh": "那维莱特（原神）",
+      "auto": "silver hair|银发;long hair|长发;silver eyes|银瞳;pointy ears|尖耳;bow|蝴蝶结;gloves|手套;thigh boots|过膝靴;sidelocks|鬓发;slit pupils|竖瞳;white ascot|白色领巾;long sleeves|长袖;black gloves|黑手套;brooch|胸针;blue coat|蓝色大衣;frilled sleeves|荷叶边袖;gold trim|金边装饰;lapels|翻领",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "娜维娅",
+      "tag": "navia (genshin impact)",
+      "charZh": "娜维娅（原神）",
+      "auto": "blonde hair|金发;curly hair|卷发;blue eyes|蓝瞳;pointy ears|尖耳;small breasts|小胸;sunglasses|墨镜;detached sleeves|分离袖;sun hat|遮阳帽;thigh boots|过膝靴;necklace|项链;black headwear|黑色头饰;bare shoulders|露肩;drill sidelocks|螺旋鬓角;black gloves|黑手套;hat flower|帽饰花;strapless dress|抹胸连衣裙;blue gemstone|蓝宝石;large breasts|大胸;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "申鹤",
+      "tag": "shenhe (genshin impact)",
+      "charZh": "申鹤（原神）",
+      "auto": "white hair|白发;braid|麻花辫;silver eyes|银瞳;hair ornament|发饰;small breasts|小胸;hair over one eye|遮单眼发;spear|长枪;blue eyes|蓝瞳;long hair|长发;very long hair|超长发;grey hair|灰发;hip vent|高开叉;tassel earrings|流苏耳环;large breasts|大胸;nipples|乳头",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "优菈",
+      "tag": "eula (genshin impact)",
+      "charZh": "优菈（原神）",
+      "auto": "blue hair|蓝发;short hair|短发;knight|骑士;small breasts|小胸;hairband|发箍;necktie|领带;backless|露背;cape|披风;shorts|短裤;thighhighs|过膝袜;black hairband|黑色发箍;blue necktie|蓝色领带;sidelocks|鬓角;high-waist shorts|高腰短裤;black gloves|黑手套;long sleeves|长袖;thigh boots|过膝靴;wide sleeves|宽袖;large breasts|大胸;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "散兵",
+      "tag": "scaramouche (genshin impact)",
+      "charZh": "散兵（原神）",
+      "auto": "purple hair|紫发;purple eyes|紫瞳;doll joints|人偶关节;geta|木屐;cape|披风;flying|飞行;black shirt|黑衬衫;japanese clothes|和风服饰;red eyeshadow|红色眼影;mandarin collar|立领;jingasa|阵笠/斗笠;short sleeves|短袖;black shorts|黑色短裤",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "钟离",
+      "tag": "zhongli (genshin impact)",
+      "charZh": "钟离（原神）",
+      "auto": "black hair|黑发;multicolored hair|多色发;braid|麻花辫;ahoge|呆毛;spear|长枪;long sleeves|长袖;black gloves|黑手套;single earring|单边耳环;low ponytail|低马尾;tassel earrings|流苏耳环;collared shirt|有领衬衫;red eyeshadow|红色眼影;white necktie|白色领带;standing|站立",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "达达利亚",
+      "tag": "tartaglia (genshin impact)",
+      "charZh": "达达利亚（原神）",
+      "auto": "orange hair|橙发;ahoge|呆毛;blue eyes|蓝瞳;bangs|刘海;gloves|手套;mask|口罩;black gloves|黑手套;single earring|单边耳环;mask on head|头戴面具;long sleeves|长袖;red mask|红色面具;red scarf|红围巾;grey jacket|灰色夹克;hand up|举手示意",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "魈",
+      "tag": "xiao (genshin impact)",
+      "charZh": "魈（原神）",
+      "auto": "green hair|绿发;ahoge|呆毛;mask|口罩;necklace|项链;gloves|手套;boots|靴子;spear|长枪;forehead mark|额头印记;white shirt|白衬衫;arm tattoo|手臂纹身;bead necklace|念珠项链;sleeveless shirt|无袖衬衫;black gloves|黑手套;tassel|流苏;red eyeshadow|红色眼影;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "阿蕾奇诺",
+      "tag": "arlecchino (genshin impact)",
+      "charZh": "阿蕾奇诺（原神）",
+      "auto": "white hair|白发;low ponytail|低马尾;black eyes|黑瞳;high heels|高跟鞋;long sleeves|长袖;bare shoulders|露肩;black pants|黑色长裤;white coat|白色大衣;x-shaped pupils|X形瞳孔;red pupils|红色瞳孔;commentary|作者注释;standing|站立;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "茜特菈莉",
+      "tag": "citlali (genshin impact)",
+      "charZh": "茜特菈莉（原神）",
+      "auto": "pink hair|粉发;braid|麻花辫;blue eyes|蓝瞳;bangs|刘海;sleeveless|无袖;backless|露背;gloves|手套;high heels|高跟鞋;sandals|凉鞋",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "夜兰",
+      "tag": "yelan (genshin impact)",
+      "charZh": "夜兰（原神）",
+      "auto": "black hair|黑发;short hair|短发;green eyes|绿瞳;necklace|项链;small breasts|小胸;detached sleeves|分离袖;backless|露背;gloves|手套;sidelocks|鬓发;high heels|高跟鞋;bare shoulders|露肩;bob cut|波波头;earrings|耳环;dice|骰子;mole on breast|胸部痣;black gloves|黑手套;fur-trimmed jacket|毛边夹克;white gloves|白手套;mismatched gloves|异色手套;large breasts|大胸;armpits|腋窝",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "艾尔海森",
+      "tag": "alhaitham (genshin impact)",
+      "charZh": "艾尔海森（原神）",
+      "auto": "grey hair|灰发;ahoge|呆毛;green eyes|绿瞳;cape|披风;hair over one eye|遮单眼发;bare shoulders|裸肩;boots|靴子;black shirt|黑衬衫;black gloves|黑手套;cable|线缆;gold trim|金边装饰;sleeveless shirt|无袖衬衫;green gemstone|绿宝石;chest jewel|胸前宝石;headphones|耳机;sidelocks|鬓角;partially fingerless gloves|半露指手套",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "克洛琳德",
+      "tag": "clorinde (genshin impact)",
+      "charZh": "克洛琳德（原神）",
+      "auto": "navy blue hair|藏蓝发;purple eyes|紫瞳;small breasts|小胸;pistol|手枪;cape|披风;gloves|手套;black pantyhose|黑色连裤袜;ankle boots|短靴;high heels|高跟鞋;tricorne|三角帽;white gloves|白手套;white shirt|白衬衫;epaulettes|肩章;vision (genshin impact)|神之眼;hat feather|帽羽;long hair|长发;blue cape|蓝色披风;black skirt|黑色短裙;thigh strap|大腿绑带;low ponytail|低马尾;blue headwear|蓝色头饰;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "卡维",
+      "tag": "kaveh (genshin impact)",
+      "charZh": "卡维（原神）",
+      "auto": "blonde hair|金发;red eyes|红瞳;cape|披风;tsurime|吊眼;hair ornament|发饰;white shirt|白衬衫;earrings|耳环;long sleeves|长袖;red cape|红色披风;black gloves|黑手套;fingerless gloves|露指手套;black pants|黑色长裤",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "赛诺",
+      "tag": "cyno (genshin impact)",
+      "charZh": "赛诺（原神）",
+      "auto": "white hair|白发;slit pupils|竖瞳;hair over one eye|遮单眼发;gun|枪;dark-skinned male|深肤色男性;black choker|黑色颈环;black headwear|黑色头饰;short sleeves|短袖;animal hat|动物帽;jackal ears|胡狼耳;fake animal ears|假兽耳;egyptian clothes|埃及风服饰",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "提纳里",
+      "tag": "tighnari (genshin impact)",
+      "charZh": "提纳里（原神）",
+      "auto": "black hair|黑发;long hair|长发;brown eyes|棕瞳;animal ears|兽耳;fox tail|狐尾;hood|兜帽;ankle boots|短靴;gloves|手套;earrings|耳环;cape|披风;fox ears|狐耳;fox boy|狐耳少年;animal ear fluff|兽耳绒毛;black gloves|黑手套;yellow flower|黄花;hood down|放下兜帽;single earring|单边耳环",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "柯莱",
+      "tag": "collei (genshin impact)",
+      "charZh": "柯莱（原神）",
+      "auto": "green hair|绿发;purple eyes|紫瞳;bandage|绷带;student|学生;backless|露背;cape|披风;detached sleeves|分离袖;longbow|长弓;thighhighs|过膝袜;doll joints|人偶关节;green capelet|绿色披肩;black dress|黑裙;long sleeves|长袖;brown thighhighs|棕色过膝袜;bridal gauntlets|礼服长手套;single earring|单边耳环;earrings|耳环",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "坎蒂丝",
+      "tag": "candace (genshin impact)",
+      "charZh": "坎蒂丝（原神）",
+      "auto": "black hair|黑发;short hair|短发;twintails|双马尾;heterochromia|异色瞳;headband|头带;bangs|刘海;sandals|凉鞋;shield|盾牌;gun|枪;hair ornament|发饰;eye of horus|荷鲁斯之眼;dark-skinned female|深肤色女性;navel|肚脐;bare shoulders|露肩;egyptian clothes|埃及风服饰;short hair with long locks|短发长鬓;stomach|腹部;neck ring|颈环;sidelocks|鬓角;large breasts|大胸;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "莱依拉",
+      "tag": "layla (genshin impact)",
+      "charZh": "莱依拉（原神）",
+      "auto": "blue hair|蓝发;hair bun|发髻;pointy ears|尖耳;tareme|垂眼;confident|自信;high heels|高跟鞋;pantyhose|连裤袜;gloves|手套;cape|披风;cloak|斗篷;drill sidelocks|螺旋鬓角;detached sleeves|分离袖;bare shoulders|露肩;black gloves|黑手套;blue hood|蓝色兜帽;hood up|戴兜帽;neck ring|颈环;white pantyhose|白色连裤袜;thighlet|腿环;twin drills|双螺旋卷;claw ring|爪形戒指;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "珐露珊",
+      "tag": "faruzan (genshin impact)",
+      "charZh": "珐露珊（原神）",
+      "auto": "teal hair|青绿发;twintails|双马尾;ahoge|呆毛;blue eyes|蓝瞳;dress|连衣裙;tsurime|吊眼;heterochromia|异色瞳;hair ornament|发饰;blunt bangs|齐刘海;white dress|白裙;symbol-shaped pupils|符号瞳孔;triangle-shaped pupils|三角瞳孔;small breasts|小胸;bare shoulders|露肩;shoulder cutout|露肩镂空;bracelet|手镯",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "绮良良",
+      "tag": "kirara (genshin impact)",
+      "charZh": "绮良良（原神）",
+      "auto": "ash blonde hair|灰金发;green eyes|绿瞳;cat ears|猫耳;catgirl|猫娘;bow|蝴蝶结;detached sleeves|分离袖;cat tail|猫尾;two tails|双尾;cat girl|猫娘;hairclip|发夹;bare shoulders|露肩;crop top|露脐上衣;midriff|露腰",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "琳妮特",
+      "tag": "lynette (genshin impact)",
+      "charZh": "琳妮特（原神）",
+      "auto": "brown hair|棕发;braid|麻花辫;purple eyes|紫瞳;cat ears|猫耳;cat tail|猫尾;fedora|礼帽;black pantyhose|黑色连裤袜;ankle boots|短靴;gloves|手套;sidelocks|鬓发;cat girl|猫娘;star facial mark|星形面纹;animal ear fluff|兽耳绒毛;long sleeves|长袖;aqua bow|水蓝蝴蝶结;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "林尼",
+      "tag": "lyney (genshin impact)",
+      "charZh": "林尼（原神）",
+      "auto": "brown hair|棕发;braid|麻花辫;purple eyes|紫瞳;tongue out|吐舌;fedora|礼帽;gloves|手套;detached sleeves|分离袖;top hat|高礼帽;teardrop facial mark|泪滴面纹;black gloves|黑手套;black headwear|黑色头饰;white shirt|白衬衫;playing card|扑克牌;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "菲米尼",
+      "tag": "freminet (genshin impact)",
+      "charZh": "菲米尼（原神）",
+      "auto": "blonde hair|金发;blue eyes|蓝瞳;shorts|短裤;beret|贝雷帽;hair over one eye|遮单眼发;gloves|手套;freckles|雀斑;black headwear|黑色头饰;long sleeves|长袖;fingerless gloves|露指手套;androgynous|中性气质;black gloves|黑手套;black shorts|黑色短裤",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "莱欧斯利",
+      "tag": "wriothesley (genshin impact)",
+      "charZh": "莱欧斯利（原神）",
+      "auto": "black hair|黑发;ahoge|呆毛;purple eyes|紫瞳;bandage|绷带;gloves|手套;thigh boots|过膝靴;ear piercing|耳钉;shawl|披肩;scar|伤疤;black gloves|黑手套;fingerless gloves|露指手套;red necktie|红色领带;black shirt|黑衬衫;bandaged neck|绷带颈;stud earrings|耳钉;scar on neck|颈部伤疤;fur-trimmed coat|毛边外套;collared shirt|有领衬衫",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "希格雯",
+      "tag": "sigewinne (genshin impact)",
+      "charZh": "希格雯（原神）",
+      "auto": "blue hair|蓝发;twintails|双马尾;ahoge|呆毛;red eyes|红瞳;tail|尾巴;animal ears|兽耳;small breasts|小胸;antennae|触角;nurse|护士;nurse uniform|护士服;white gloves|白手套;low twintails|低双马尾;white hat|白帽子;pom pom hair ornament|毛球发饰;long sleeves|长袖;nurse cap|护士帽;white apron|白色围裙",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "玛薇卡",
+      "tag": "mavuika (genshin impact)",
+      "charZh": "玛薇卡（原神）",
+      "auto": "red hair|红发;multicolored hair|多色发;long hair|长发;ahoge|呆毛;red eyes|红瞳;small breasts|小胸;gloves|手套;ankle boots|短靴;sunglasses|墨镜",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "希诺宁",
+      "tag": "xilonen (genshin impact)",
+      "charZh": "希诺宁（原神）",
+      "auto": "multicolored hair|多色发;curly hair|卷发;blonde hair|金发;wavy hair|波浪发;braid|麻花辫;ahoge|呆毛;green eyes|绿瞳;cat ears|猫耳;cat tail|猫尾;catgirl|猫娘",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "基尼奇",
+      "tag": "kinich (genshin impact)",
+      "charZh": "基尼奇（原神）",
+      "auto": "black hair|黑发;ahoge|呆毛;green eyes|绿瞳;bandana|方巾;gloves|手套;ankle boots|短靴",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "玛拉妮",
+      "tag": "mualani (genshin impact)",
+      "charZh": "玛拉妮（原神）",
+      "auto": "grey hair|灰发;ponytail|马尾;braid|麻花辫;red eyes|红瞳;headband|头带;sandals|凉鞋;fingerless gloves|露指手套",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "卡齐娜",
+      "tag": "kachina (genshin impact)",
+      "charZh": "卡齐娜（原神）",
+      "auto": "brown hair|棕发;ponytail|马尾;black eyes|黑瞳;animal ears|兽耳;small breasts|小胸;gloves|手套;shorts|短裤;kneehighs|及膝袜;bandaid|创可贴",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "欧洛伦",
+      "tag": "ororon (genshin impact)",
+      "charZh": "欧洛伦（原神）",
+      "auto": "navy blue hair|藏蓝发;pink eyes|粉瞳;animal ears|兽耳;heterochromia|异色瞳;hood|兜帽;scarf|围巾;fingerless gloves|露指手套;sleeveless|无袖",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "瓦蕾莎",
+      "tag": "varesa (genshin impact)",
+      "charZh": "瓦蕾莎（原神）",
+      "auto": "pink hair|粉发;braid|麻花辫;ahoge|呆毛;purple eyes|紫瞳;animal ears|兽耳;tail|尾巴;small breasts|小胸;mask|口罩;plump|丰满;bandaid|创可贴",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "爱可菲",
+      "tag": "escoffier (genshin impact)",
+      "charZh": "爱可菲（原神）",
+      "auto": "blonde hair|金发;ahoge|呆毛;blue eyes|蓝瞳;tail|尾巴;chef|厨师;high heels|高跟鞋;thighhighs|过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "丝柯克",
+      "tag": "skirk (genshin impact)",
+      "charZh": "丝柯克（原神）",
+      "auto": "white hair|白发;red eyes|红瞳;tail|尾巴;bare shoulders|裸肩;guitar|吉他;detached sleeves|分离袖;expressionless|面无表情;elbow gloves|过肘手套;gradient gloves|渐变手套;purple gloves|紫色手套;medium breasts|中等胸;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "艾丽丝",
+      "tag": "alice (genshin impact)",
+      "charZh": "艾丽丝（原神）",
+      "auto": "long hair|长发;pointy ears|尖耳;witch|魔女;hat|帽子",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "队长",
+      "tag": "capitano (genshin impact)",
+      "charZh": "队长（原神）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳;mask|口罩;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "少女",
+      "tag": "columbina (genshin impact)",
+      "charZh": "少女（原神）",
+      "auto": "black hair|黑发;gradient hair|渐变发;long hair|长发;closed eyes|闭眼;wings|翅膀;blunt bangs|齐刘海;eyepatch|眼罩;bow|蝴蝶结;ribbon|丝带;uniform|制服;eye mask|眼罩面具;head wings|头翼;white mask|白色面具;fur-trimmed coat|毛边外套;white coat|白色大衣;white bow|白色蝴蝶结;fur trim|毛边装饰;sidelocks|鬓角;white ribbon|白丝带;commentary|作者注释;facing viewer|面向观者",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "木偶",
+      "tag": "sandrone (genshin impact)",
+      "charZh": "木偶（原神）",
+      "auto": "brown hair|棕发;blue eyes|蓝瞳;uniform|制服;scientist|科学家",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "女士",
+      "tag": "signora (genshin impact)",
+      "charZh": "女士（原神）",
+      "auto": "white hair|白发;purple eyes|紫瞳;mask|口罩;small breasts|小胸;sidelocks|鬓发;bare shoulders|露肩;one eye covered|遮住单眼;elbow gloves|过肘手套;collarbone|锁骨;black mask|黑色面具;mask over one eye|单眼面具;black gloves|黑手套;earrings|耳环;fur trim|毛边装饰;half mask|半脸面具;lace-trimmed eyepatch|蕾丝边眼罩;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "博士",
+      "tag": "dottore (genshin impact)",
+      "charZh": "博士（原神）",
+      "auto": "blue hair|蓝发;red eyes|红瞳;scientist|科学家;mask|口罩;eye mask|眼罩面具;sidelocks|鬓角;black gloves|黑手套;single earring|单边耳环;long sleeves|长袖;white coat|白色大衣;blue scarf|蓝围巾;fur-trimmed coat|毛边外套;blue gloves|蓝色手套;two-tone gloves|双色手套;hand up|举手示意",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "千织",
+      "tag": "chiori (genshin impact)",
+      "charZh": "千织（原神）",
+      "auto": "brown hair|棕发;curly hair|卷发;high ponytail|高马尾;red eyes|红瞳;hair flower|头花;kimono|和服;geta|木屐;tsurime|吊眼;black gloves|黑手套;grey kimono|灰色和服;obi|腰带;yellow skirt|黄色短裙;side ponytail|侧马尾;hair stick|发簪;short sleeves|短袖;black pantyhose|黑色连裤袜;bare shoulders|露肩;haori|羽织",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "闲云",
+      "tag": "xianyun (genshin impact)",
+      "charZh": "闲云（原神）",
+      "auto": "black hair|黑发;blue eyes|蓝瞳;glasses|眼镜;red-framed eyewear|红框眼镜;semi-rimless eyewear|半框眼镜;tassel earrings|流苏耳环;bodystocking|全身连裤袜;long sleeves|长袖;gloves|手套;aqua lips|水色唇妆;black gloves|黑手套;large breasts|大胸;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "云堇",
+      "tag": "yun jin (genshin impact)",
+      "charZh": "云堇（原神）",
+      "auto": "black hair|黑发;red eyes|红瞳;hime cut|姬发式;spear|长枪;black pantyhose|黑色连裤袜;boots|靴子;hanfu|汉服;bonnet|软帽;long sleeves|长袖;pink capelet|粉色披肩;lolita fashion|洛丽塔服饰;qi lolita|中华洛丽塔;vision (genshin impact)|神之眼;tassel|流苏;black headwear|黑色头饰",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "烟绯",
+      "tag": "yanfei (genshin impact)",
+      "charZh": "烟绯（原神）",
+      "auto": "pink hair|粉发;green eyes|绿瞳;tareme|垂眼;hat|帽子;scarf|围巾;jacket|夹克;bare shoulders|裸肩;detached sleeves|分离袖;ankle boots|短靴;boots|靴子;red headwear|红色头饰;midriff|露腰;crop top|露脐上衣;long sleeves|长袖;stomach|腹部;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "辛焱",
+      "tag": "xinyan (genshin impact)",
+      "charZh": "辛焱（原神）",
+      "auto": "black hair|黑发;twintails|双马尾;tsurime|吊眼;dark-skinned female|深肤色女性;spikes|尖刺饰品;black nails|黑色美甲;holding instrument|手持乐器;nail polish|指甲油;hair down|披发;spiked hairband|铆钉发箍;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "罗莎莉亚",
+      "tag": "rosaria (genshin impact)",
+      "charZh": "罗莎莉亚（原神）",
+      "auto": "purple hair|紫发;short hair|短发;purple eyes|紫瞳;nun|修女;small breasts|小胸;high heels|高跟鞋;spear|长枪;gloves|手套;elbow gloves|过肘手套;habit|修女服;white gloves|白手套;fishnet pantyhose|渔网连裤袜;bare shoulders|露肩;hair over one eye|单眼遮发;veil|面纱;claw ring|爪形戒指;thigh strap|大腿绑带;purple pantyhose|紫色连裤袜;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "迪奥娜",
+      "tag": "diona (genshin impact)",
+      "charZh": "迪奥娜（原神）",
+      "auto": "pink hair|粉发;braid|麻花辫;green eyes|绿瞳;catgirl|猫娘;small breasts|小胸;tsurime|吊眼;bangs|刘海;forehead|额头;detached sleeves|分离袖;ankle boots|短靴;cat ears|猫耳;cat tail|猫尾;animal ear fluff|兽耳绒毛;cat girl|猫娘;bangs pinned back|夹起刘海;thick eyebrows|浓眉;hat|帽子;sidelocks|鬓角;navel|肚脐;white gloves|白手套",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "砂糖",
+      "tag": "sucrose (genshin impact)",
+      "charZh": "砂糖（原神）",
+      "auto": "green hair|绿发;low ponytail|低马尾;ahoge|呆毛;animal ears|兽耳;glasses|眼镜;gloves|手套;cape|披风;curious|好奇;semi-rimless eyewear|半框眼镜;long sleeves|长袖;vision (genshin impact)|神之眼;white gloves|白手套;hat|帽子;ponytail|马尾;white headwear|白色头饰;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "班尼特",
+      "tag": "bennett (genshin impact)",
+      "charZh": "班尼特（原神）",
+      "auto": "white hair|白发;green eyes|绿瞳;goggles|护目镜;bandaid|创可贴;scar|伤疤;gloves|手套;goggles on head|头戴护目镜;bandaid on nose|鼻梁创可贴;scar on arm|手臂伤疤;brown gloves|棕色手套;sleeveless|无袖;arm scarf|臂带;blue shorts|蓝色短裤;sleeveless shirt|无袖衬衫",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "雷泽",
+      "tag": "razor (genshin impact)",
+      "charZh": "雷泽（原神）",
+      "auto": "silver hair|银发;red eyes|红瞳;scar|伤疤;hood|兜帽;scar on face|面部伤疤;hood up|戴兜帽;bishounen|美少年;scar on arm|手臂伤疤;orange gloves|橙色手套;bone necklace|骨制项链;green pants|绿色长裤;brown gloves|棕色手套",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "行秋",
+      "tag": "xingqiu (genshin impact)",
+      "charZh": "行秋（原神）",
+      "auto": "blue hair|蓝发;yellow eyes|黄瞳;sidelocks|鬓发;blunt bangs|齐刘海;earrings|耳环;tareme|垂眼;hanfu|汉服;long sleeves|长袖;single earring|单边耳环;frilled sleeves|荷叶边袖;tassel earrings|流苏耳环;chinese clothes|中式服饰;holding book|手持书籍;wide sleeves|宽袖",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "重云",
+      "tag": "chongyun (genshin impact)",
+      "charZh": "重云（原神）",
+      "auto": "blue hair|蓝发;ahoge|呆毛;blue eyes|蓝瞳;bandage|绷带;hood|兜帽;slit pupils|竖瞳;chinese clothes|中式服饰;fingerless gloves|露指手套;hood down|放下兜帽;black gloves|黑手套;long sleeves|长袖;black bodysuit|黑色紧身衣;popsicle|冰棒",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "北斗",
+      "tag": "beidou (genshin impact)",
+      "charZh": "北斗（原神）",
+      "auto": "black hair|黑发;red eyes|红瞳;eyepatch|眼罩;hair ornament|发饰;qipao|旗袍;thigh boots|过膝靴;small breasts|小胸;hair stick|发簪;hair over one eye|单眼遮发;fingerless gloves|露指手套;colored eyepatch|彩色眼罩;one eye covered|遮住单眼;black gloves|黑手套;bare shoulders|露肩;hairpin|发簪;large breasts|大胸;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "香菱",
+      "tag": "xiangling (genshin impact)",
+      "charZh": "香菱（原神）",
+      "auto": "blue hair|蓝发;short hair|短发;braid|麻花辫;chef|厨师;fingerless gloves|露指手套;spear|长枪;hair ornament|发饰;qipao|旗袍;hairclip|发夹;guoba (genshin impact)|锅巴;bare shoulders|露肩;braided hair rings|编发发环;black gloves|黑手套;thick eyebrows|浓眉;china dress|旗袍;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "瑶瑶",
+      "tag": "yaoyao (genshin impact)",
+      "charZh": "瑶瑶（原神）",
+      "auto": "brown hair|棕发;twintails|双马尾;braid|麻花辫;small breasts|小胸;student|学生;angel|天使;blunt bangs|齐刘海;hair bell|发铃;yuegui (genshin impact)|月桂;long sleeves|长袖;sidelocks|鬓角;jingle bell|铃铛;backpack basket|背篓;:d|开口大笑（:D）",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "夏洛蒂",
+      "tag": "charlotte (genshin impact)",
+      "charZh": "夏洛蒂（原神）",
+      "auto": "pink hair|粉发;green eyes|绿瞳;monocle|单片眼镜;detached sleeves|分离袖;gloves|手套;ankle boots|短靴;red headwear|红色头饰;white gloves|白手套;cabbie hat|报童帽;bare shoulders|露肩;long sleeves|长袖;hat feather|帽羽;white shirt|白衬衫;holding camera|手持相机;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "托马",
+      "tag": "thoma (genshin impact)",
+      "charZh": "托马（原神）",
+      "auto": "blonde hair|金发;ponytail|马尾;ahoge|呆毛;green eyes|绿瞳;hair ornament|发饰;ear piercing|耳钉;jacket|夹克;necklace|项链;spear|长枪;bangs|刘海;horned headwear|带角头饰;headband|发带;fingerless gloves|露指手套;black gloves|黑手套;dog tags|军牌;black shirt|黑衬衫;tassel|流苏",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "五郎",
+      "tag": "gorou (genshin impact)",
+      "charZh": "五郎（原神）",
+      "auto": "brown hair|棕发;blue eyes|蓝瞳;longbow|长弓;dog ears|犬耳;dog boy|犬耳少年;dog tail|犬尾;black gloves|黑手套;japanese clothes|和风服饰;japanese armor|日式铠甲;tassel|流苏;paw print|爪印",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "早柚",
+      "tag": "sayu (genshin impact)",
+      "charZh": "早柚（原神）",
+      "auto": "green hair|绿发;twintails|双马尾;purple eyes|紫瞳;tail|尾巴;small breasts|小胸;ninja|忍者;hood|兜帽;bangs|刘海;leaf on head|头顶树叶;animal hood|动物兜帽;raccoon ears|狸猫耳;fake animal ears|假兽耳;fingerless gloves|露指手套;raccoon tail|狸猫尾;black gloves|黑手套;short sleeves|短袖;fake tail|假尾巴;sidelocks|鬓角;child|儿童",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "阿贝多",
+      "tag": "albedo (genshin impact)",
+      "charZh": "阿贝多（原神）",
+      "auto": "blonde hair|金发;blue eyes|蓝瞳;thigh boots|过膝靴;artist|画家;black gloves|黑手套;blue shirt|蓝衬衫;short sleeves|短袖;vision (genshin impact)|神之眼;hood down|放下兜帽;hooded coat|连帽大衣;braid|麻花辫;white coat|白色大衣;scar on neck|颈部伤疤",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "白术",
+      "tag": "baizhu (genshin impact)",
+      "charZh": "白术（原神）",
+      "auto": "green hair|绿发;braid|麻花辫;ahoge|呆毛;red eyes|红瞳;glasses|眼镜;slit pupils|竖瞳;gloves|手套;sidelocks|鬓发;changsheng (genshin impact)|长生(白蛇);white snake|白蛇;crop top|露脐上衣;short sleeves|短袖;hair stick|发簪;tassel|流苏;animal around neck|颈绕动物;black gloves|黑手套;cropped shirt|露脐短衬衫;midriff|露腰;bead bracelet|念珠手链",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "夏沃蕾",
+      "tag": "chevreuse (genshin impact)",
+      "charZh": "夏沃蕾（原神）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳;small breasts|小胸;bangs|刘海;beauty mark|美人痣;eyepatch|眼罩;bare shoulders|裸肩;gloves|手套;black pantyhose|黑色连裤袜;shako cap|筒状军帽;white gloves|白手套;earmuffs around neck|颈挂耳罩;mole under mouth|唇下痣;puffy detached sleeves|蓬松分离袖;gold trim|金边装饰;red dress|红裙;detached collar|分离领;black headwear|黑色头饰;white pupils|白色瞳孔;black necktie|黑色领带;two-tone dress|双色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "嘉明",
+      "tag": "gaming (genshin impact)",
+      "charZh": "嘉明（原神）",
+      "auto": "black hair|黑发;ponytail|马尾;ahoge|呆毛;gloves|手套;eyebrow piercing|眉钉;fingerless gloves|露指手套;black gloves|黑手套;long sleeves|长袖;chinese clothes|中式服饰;tassel|流苏;mole on neck|颈部痣;red shirt|红衬衫;hooded jacket|连帽夹克",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "恰斯卡",
+      "tag": "chasca (genshin impact)",
+      "charZh": "恰斯卡（原神）",
+      "auto": "red hair|红发;braid|麻花辫;blue eyes|蓝瞳;pointy ears|尖耳;hair over one eye|遮单眼发;earrings|耳环;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "多莉",
+      "tag": "dori (genshin impact)",
+      "charZh": "多莉（原神）",
+      "auto": "pink hair|粉发;ahoge|呆毛;bloomers|灯笼裤;detached sleeves|分离袖;sunglasses|墨镜;ring|戒指;purple headwear|紫色头饰;looking over eyewear|镜框上缘注视;crop top|露脐上衣;navel|肚脐;purple pants|紫色长裤;hat|帽子;short hair with long locks|短发长鬓;pince-nez|夹鼻眼镜;jinni (genshin impact)|镇灵",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "米卡",
+      "tag": "mika (genshin impact)",
+      "charZh": "米卡（原神）",
+      "auto": "blonde hair|金发;ahoge|呆毛;blue eyes|蓝瞳;knight|骑士;tareme|垂眼;ear piercing|耳钉;kneehighs|及膝袜;long sleeves|长袖;white hoodie|白色卫衣;blue jacket|蓝色夹克;black gloves|黑手套;hood down|放下兜帽;yellow necktie|黄色领带;vision (genshin impact)|神之眼;short ponytail|短马尾",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "戴因斯雷布",
+      "tag": "dainsleif (genshin impact)",
+      "charZh": "戴因斯雷布（原神）",
+      "auto": "blonde hair|金发;blue eyes|蓝瞳;knight|骑士;mask over one eye|单眼面具;high collar|高领;black gloves|黑手套;half mask|半脸面具;long sleeves|长袖;black pants|黑色长裤;black cape|黑色披风;blue cape|蓝色披风;artist name|画师签名水印;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "艾梅莉埃",
+      "tag": "emilie (genshin impact)",
+      "charZh": "艾梅莉埃（原神）",
+      "auto": "blonde hair|金发;multicolored hair|多色发;ahoge|呆毛;red eyes|红瞳;fedora|礼帽;gloves|手套;detached sleeves|分离袖;dress|连衣裙;glasses|眼镜;high heels|高跟鞋",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "潘塔罗涅",
+      "tag": "pantalone (genshin impact)",
+      "charZh": "潘塔罗涅（原神）",
+      "auto": "grey hair|灰发;short hair|短发;glasses|眼镜;squinting|眯眼;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "归终",
+      "tag": "guizhong (genshin impact)",
+      "charZh": "归终（原神）",
+      "auto": "grey hair|灰发;very long hair|超长发;grey eyes|灰瞳;small breasts|小胸;hanfu|汉服;backless|露背;detached sleeves|分离袖;long sleeves|长袖;shorts|短裤;bare shoulders|露肩;white dress|白裙;sleeves past fingers|超长袖;wide sleeves|宽袖;short hair with long locks|短发长鬓;barefoot|赤脚;sidelocks|鬓角",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "真",
+      "tag": "makoto (genshin impact)",
+      "charZh": "真（原神）",
+      "auto": "purple hair|紫发;purple eyes|紫瞳;kimono|和服;tabi|足袋;japanese clothes|和风服饰;sash|绶带;braid|麻花辫;purple kimono|紫色和服;obi|腰带;mole under eye|泪痣;purple flower|紫花;hair flower|发花;long sleeves|长袖;raiden shogun|雷电将军;flower|花朵;2girls|两个女孩;mole|痣;breasts|胸部",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "伊安珊",
+      "tag": "iansan (genshin impact)",
+      "charZh": "伊安珊（原神）",
+      "auto": "white hair|白发;twintails|双马尾;green eyes|绿瞳;pointy ears|尖耳;bandana|方巾;earrings|耳环;ankle socks|短袜",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "留云借风真君",
+      "tag": "cloud retainer (genshin impact)",
+      "charZh": "留云借风真君（原神）",
+      "auto": "black hair|黑发;blue eyes|蓝瞳;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "芙卡洛斯",
+      "tag": "focalors (genshin impact)",
+      "charZh": "芙卡洛斯（原神）",
+      "auto": "white hair|白发;multicolored hair|多色发;curly hair|卷发;ahoge|呆毛;blue eyes|蓝瞳;heterochromia|异色瞳;small breasts|小胸;fedora|礼帽;gloves|手套;shorts|短裤;juliet sleeves|朱丽叶袖;cowlick|翘发/呆毛;white dress|白裙;symbol-shaped pupils|符号瞳孔;drop-shaped pupils|水滴瞳孔;mismatched pupils|异形瞳孔;gradient dress|渐变连衣裙;blue nails|蓝色美甲;sidelocks|鬓角;blue dress|蓝裙;spoilers|剧透",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "法尔伽",
+      "tag": "varka (genshin impact)",
+      "charZh": "法尔伽（原神）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;coat|大衣",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "神里绫华",
+      "tag": "kamisato ayaka",
+      "charZh": "神里绫华（原神）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;mole under eye|泪痣;ponytail|马尾;sidelocks|鬓角;blunt tresses|姬发式鬓发;long sleeves|长袖;tress ribbon|鬓发丝带;hair ribbon|发带丝带;white shirt|白衬衫;serafuku|水手服;pleated skirt|百褶裙;white sailor collar|白色水手领;blue skirt|蓝裙;hair bow|蝴蝶结发饰;blue dress|蓝色连衣裙;hair flower|发花;braid|单辫;white collar|白色衣领;puffy long sleeves|泡泡长袖;alternate costume|换装;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "神里绫人",
+      "tag": "kamisato ayato",
+      "charZh": "神里绫人（原神）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;mole under mouth|唇下痣;black gloves|黑手套;long sleeves|长袖;white jacket|白色夹克;tassel|流苏;wide sleeves|宽袖;japanese clothes|和风服饰;sidelocks|鬓角",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "九条裟罗",
+      "tag": "kujou sara",
+      "charZh": "九条裟罗（原神）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;wings|翅膀;mask on head|头戴面具;bird mask|鸟形面具;black gloves|黑手套;detached sleeves|分离袖;japanese clothes|和风服饰;elbow gloves|过肘手套;large breasts|大胸;commentary|作者注释;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "久岐忍",
+      "tag": "kuki shinobu",
+      "charZh": "久岐忍（原神）",
+      "auto": "green hair|绿发;short hair|短发;purple eyes|紫瞳;mask|口罩;ponytail|马尾;navel|肚脐;crop top|露脐上衣;midriff|露腰;purple jacket|紫色夹克;short shorts|超短裤;stomach|腹部;black gloves|黑手套;mouth mask|口罩;black shorts|黑色短裤;medium breasts|中等胸;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "荒泷一斗",
+      "tag": "arataki itto",
+      "charZh": "荒泷一斗（原神）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;horns|角;black nails|黑色美甲;vision (genshin impact)|神之眼;oni|鬼族;bodypaint|身体彩绘;facepaint|面部彩绘;japanese clothes|和风服饰;body markings|身体纹路;abs|腹肌;spiked bracelet|铆钉手环",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "鹿野院平藏",
+      "tag": "shikanoin heizou",
+      "charZh": "鹿野院平藏（原神）",
+      "auto": "brown hair|棕发;short hair|短发;green eyes|绿瞳;mole under eye|泪痣;multiple moles|多处痣;kurokote|黑手甲;black choker|黑色颈环;mole under each eye|双泪痣;white shirt|白衬衫;low ponytail|低马尾;japanese clothes|和风服饰",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "蓝砚",
+      "tag": "lanyan (genshin impact)",
+      "charZh": "蓝砚（原神）",
+      "auto": "blue hair|蓝发;long hair|长发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "伊法",
+      "tag": "ifa (genshin impact)",
+      "charZh": "伊法（原神）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "流浪者",
+      "tag": "wanderer (genshin impact)",
+      "charZh": "流浪者（原神）",
+      "auto": "blue hair|蓝发;short hair|短发;purple eyes|紫瞳;kasa|斗笠;hat|帽子;blue clothes|蓝衣;tassel|流苏;black shirt|黑衬衫;vision (genshin impact)|神之眼;japanese clothes|和风服饰;red eyeshadow|红色眼影;mandarin collar|立领;jingasa|阵笠/斗笠;short sleeves|短袖;black shorts|黑色短裤",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "菈乌玛",
+      "tag": "lauma (genshin impact)",
+      "charZh": "菈乌玛（原神）",
+      "auto": "silver hair|银发;long hair|长发;antlers|鹿角;green eyes|绿瞳;white dress|白裙;gold trim|金边",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "赛索斯",
+      "tag": "sethos (genshin impact)",
+      "charZh": "赛索斯（原神）",
+      "auto": "brown hair|棕发;green eyes|绿瞳;long hair|长发;hair ornament|发饰;dark-skinned male|深肤色男性;hair between eyes|眼间刘海;white shirt|白衬衫;tassel|流苏;sleeveless shirt|无袖衬衫;low ponytail|低马尾",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "锅巴",
+      "tag": "guoba (genshin impact)",
+      "charZh": "锅巴（原神）",
+      "auto": "red panda|小熊猫;chili pepper|辣椒;yellow eyes|黄瞳;mascot|吉祥物;hairclip|发夹;fingerless gloves|露指手套;chinese clothes|中式服装;twin braids|双辫;sidelocks|鬓发;black gloves|黑色手套;:d|开口大笑（:D）;thick eyebrows|浓眉;braided hair rings|编发圆环;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "萍姥姥",
+      "tag": "madame ping (genshin impact)",
+      "charZh": "萍姥姥（原神）",
+      "auto": "bare shoulders|露肩;detached sleeves|分离袖;long sleeves|长袖;wide sleeves|宽袖;chinese clothes|中式服饰;black gloves|黑手套;hair stick|发簪;teal hair|青绿发;gold eyes|金瞳;aged down|年幼化",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "应达",
+      "tag": "indarias (genshin impact)",
+      "charZh": "应达（原神）",
+      "auto": "red hair|红发;long hair|长发;orange eyes|橙瞳;forehead mark|额头印记;chinese clothes|中式服饰;bare shoulders|露肩;tassel|流苏",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "伐难",
+      "tag": "bonanus (genshin impact)",
+      "charZh": "伐难（原神）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;forehead mark|额头印记;bare shoulders|露肩;chinese clothes|中式服饰;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "志琼",
+      "tag": "zhiqiong (genshin impact)",
+      "charZh": "志琼（原神）",
+      "auto": "brown hair|棕发;green headwear|绿色头饰;red necktie|红色领带;sidelocks|鬓角;backpack|背包;hair bun|发髻;green dress|绿裙;single hair bun|单发髻;medium breasts|中等胸;speech bubble|对话气泡;english text|英文文字",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "希娜小姐",
+      "tag": "hina (genshin impact)",
+      "charZh": "希娜小姐（原神）",
+      "auto": "dog ears|犬耳;brown hair|棕发;bare shoulders|露肩;long hair|长发;white hair|白发;green eyes|绿瞳;streaked hair|挑染发;black gloves|黑手套;dog tail|犬尾;dog girl|犬娘;hair between eyes|眼间刘海;small breasts|小胸;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "狐斋宫",
+      "tag": "kitsune saiguu",
+      "charZh": "狐斋宫（原神）",
+      "auto": "white hair|白发;long hair|长发;fox ears|狐耳;fox girl|狐娘;detached sleeves|分离袖;white kimono|白色和服;long sleeves|长袖;red hakama|红色袴;wide sleeves|宽袖;miko|巫女;fox tail|狐尾;animal ear fluff|兽耳绒毛;holding smoking pipe|手持烟斗;earrings|耳环;small breasts|小胸;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "大慈树王",
+      "tag": "rukkhadevata (genshin impact)",
+      "charZh": "大慈树王（原神）",
+      "auto": "white hair|白发;long hair|长发;green eyes|绿瞳;pointy ears|尖耳;white dress|白裙;bare shoulders|露肩;detached sleeves|分离袖;cross-shaped pupils|十字瞳孔;barefoot|赤脚;gold trim|金边装饰;strapless dress|抹胸连衣裙;single braid|单麻花辫;small breasts|小胸;spoilers|剧透;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "克雷薇",
+      "tag": "clervie (genshin impact)",
+      "charZh": "克雷薇（原神）",
+      "auto": "pink hair|粉发;short hair|短发;black eyes|黑瞳;white dress|白裙;white hairband|白色发箍;ahoge|呆毛;off-shoulder dress|露肩连衣裙;small breasts|小胸;2girls|两个女孩;streaked hair|挑染;long hair|长发;aged down|年幼化;red pupils|红色瞳孔;two-tone hair|双色发;black hair|黑发;cross-shaped pupils|十字瞳孔",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "埃洛伊",
+      "tag": "aloy (horizon)",
+      "charZh": "埃洛伊（原神联动）",
+      "auto": "red hair|红发;long hair|长发;green eyes|绿瞳;freckles|雀斑;braid|麻花辫;focus (horizon)|全息耳机(Focus);arrow (projectile)|箭矢;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "若陀龙王",
+      "tag": "azhdaha (genshin impact)",
+      "charZh": "若陀龙王（原神）",
+      "auto": "dragon|龙;horns|龙角;glowing eyes|发光瞳;crystal|晶体;geo|岩元素",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "雷萤术士",
+      "tag": "electro cicin mage (genshin impact)",
+      "charZh": "愚人众·雷萤术士（原神）",
+      "auto": "purple hair|紫发;eye mask|眼罩面具;long sleeves|长袖;delusion (genshin impact)|邪眼;hooded cloak|连帽斗篷;gem|宝石;gloves|手套;fur cuffs|毛绒袖口;hood up|戴兜帽;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "镀金旅团·叶轮舞者",
+      "tag": "eremite floral ring-dancer (genshin impact)",
+      "charZh": "镀金旅团·叶轮舞者（原神）",
+      "auto": "brown hair|棕发;long hair|长发;dark-skinned female|深肤色女性;navel|肚脐;blindfold|蒙眼布;red blindfold|红布蒙眼;detached sleeves|分离袖;red sash|红腰带;egyptian clothes|埃及风服饰;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "凯瑟琳",
+      "tag": "katheryne (genshin impact)",
+      "charZh": "凯瑟琳（原神）",
+      "auto": "black hair|黑发;bob cut|波波头;green eyes|绿瞳;white thighhighs|白色过膝袜;detached collar|分离领;bare shoulders|露肩;green dress|绿裙;white dress|白裙;maid headdress|女仆头饰;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "藏镜仕女",
+      "tag": "mirror maiden (genshin impact)",
+      "charZh": "愚人众·藏镜仕女（原神）",
+      "auto": "white hair|白发;long hair|长发;elbow gloves|过肘手套;eye mask|眼罩面具;blue gloves|蓝色手套;detached collar|分离领;white pants|白色长裤;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "天理的维系者",
+      "tag": "asmoday (genshin impact)",
+      "charZh": "天理的维系者 / 阿斯莫代（原神）",
+      "auto": "white hair|白发;long hair|长发;yellow eyes|黄瞳;cube|立方体;bare shoulders|露肩;fur collar|毛领;white dress|白裙;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "原神",
+      "gameTag": "genshin impact",
+      "name": "不倒貉貉",
+      "tag": "muji-muji daruma (genshin impact)",
+      "charZh": "不倒貉貉（原神）",
+      "auto": "daruma doll|达摩不倒翁;raccoon ears|狸猫耳;leaf on head|头顶树叶;mascot|吉祥物",
+      "subName": ""
+    }
+  ],
+  "count": 132
+}

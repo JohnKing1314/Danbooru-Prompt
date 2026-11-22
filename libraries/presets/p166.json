@@ -1,0 +1,9 @@
+{
+  "key": "p166",
+  "id": "p166",
+  "name": "广角畸变",
+  "desc": "边缘拉伸的广角感",
+  "cat": "构图镜头",
+  "tags": "1girl|一个女孩;wide angle lens|广角镜头;lens distortion|镜头畸变;dynamic pose|动态姿势;close framing|近景构图",
+  "builtin": true
+}

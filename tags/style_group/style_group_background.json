@@ -1,0 +1,860 @@
+{
+  "id": "background",
+  "name": "背景",
+  "icon": "🖼️",
+  "parentId": "style_group",
+  "level": 2,
+  "order": 6,
+  "file": "style_group/style_group_background.json",
+  "updatedAt": "2026-11-18T05:36:30.152Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "argyle background",
+      "zh": "菱格纹背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7851,
+      "desc": "以菱形格纹（阿盖尔图案）为主的背景。",
+      "kw": "菱形背景 / 阿盖尔背景 / 菱形花纹背景 / 菱格背景 / 钻石格纹背景 / 阿盖尔格纹背景 / 菱形图案背景 / 方格菱形背景 / diamond background"
+    },
+    {
+      "en": "checkered background",
+      "zh": "棋盘格背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14075,
+      "desc": "仅两色整齐交替的棋盘格背景",
+      "kw": "格子背景 / 棋盘背景 / 国际象棋棋盘背景 / 黑白格背景 / 方格背景 / 网格背景 / 方格纹背景 / 棋盘格纹"
+    },
+    {
+      "en": "gingham background",
+      "zh": "细格纹背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 570,
+      "desc": "以方格纹铺满的背景",
+      "kw": "格子背景 / 棋盘格背景 / 方格纹背景 / 格纹背景 / 格子纹背景 / 花格背景 / 方格花纹背景 / 背景"
+    },
+    {
+      "en": "plaid background",
+      "zh": "格子背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4393,
+      "desc": "完全或大部分为格纹的背景",
+      "kw": "方格背景 / 苏格兰格背景 / 花呢格背景 / 菱格背景 / 条纹格背景 / 背景图案"
+    },
+    {
+      "en": "striped background",
+      "zh": "条纹背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18382,
+      "desc": "整体或大部分为条纹的背景",
+      "kw": "条纹底 / 条纹图案背景 / 条纹背景图 / 横条纹背景 / 竖条纹背景 / 条子纹背景 / 斑马纹背景 / 斜条纹背景"
+    },
+    {
+      "en": "diagonal-striped background",
+      "zh": "斜条纹背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3335,
+      "desc": "斜向条纹构成的背景。",
+      "kw": "斜纹背景 / 斜线背景 / 对角线条纹背景 / 斜条背景 / 对角条纹背景 / 背景 / 条纹"
+    },
+    {
+      "en": "vertical-striped background",
+      "zh": "竖条纹背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3393,
+      "desc": "背景由竖向条纹构成",
+      "kw": "竖向条纹背景 / 竖条背景 / 竖直条纹背景 / 纵向条纹背景 / 竖线背景 / 垂直线条背景 / 条纹背景 / 背景"
+    },
+    {
+      "en": "lipstick mark on background",
+      "zh": "背景上的唇印",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "detailed background",
+      "zh": "精细背景",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "plain background",
+      "zh": "纯色背景",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "black background",
+      "zh": "黑色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 139496,
+      "desc": "背景为纯黑或大面积黑色。",
+      "kw": "纯黑背景 / 黑背景 / 背景黑色 / 黑色底 / 黑底 / 暗黑背景 / 漆黑背景 / 黑色底色"
+    },
+    {
+      "en": "white background",
+      "zh": "白色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2425536,
+      "desc": "背景完全或大部分为白色",
+      "kw": "白背景 / 白底 / 纯白背景 / 白色底 / 白底色 / 白色背景图 / 素白背景 / 背景"
+    },
+    {
+      "en": "simple background",
+      "zh": "简单背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2983517,
+      "desc": "空白或无特征的背景，常为纯色",
+      "kw": "纯色背景 / 空白背景 / 无背景 / 单色背景 / 素色背景 / 简约背景 / 简洁背景 / 无特征背景"
+    },
+    {
+      "en": "transparent background",
+      "zh": "透明背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 183763,
+      "desc": "图像背景为透明",
+      "kw": "透明底 / 透明背景图 / 背景透明 / 透明图片 / 透明底图 / 无背景 / 背景效果 / transparent gif / transparent png / 透明な背景 / 背景が透明"
+    },
+    {
+      "en": "gradient background",
+      "zh": "渐变背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 193622,
+      "desc": "由渐变色构成的背景。",
+      "kw": "渐变色背景 / 渐变底 / 渐变背景色 / 色彩渐变背景 / 背景"
+    },
+    {
+      "en": "two-tone background",
+      "zh": "双色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 66856,
+      "desc": "仅由两种颜色构成的背景，可含渐变过渡。",
+      "kw": "两色背景 / 双色底 / 二色背景 / 双色调背景 / 双色渐变背景 / 两种颜色背景 / 纯双色背景 / 背景"
+    },
+    {
+      "en": "abstract background",
+      "zh": "抽象背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10765,
+      "desc": "由抽象形状或非常规色彩构成的背景。",
+      "kw": "抽象风背景 / 抽象图案背景 / 抽象艺术背景 / 抽象风格背景 / 几何抽象背景 / 背景 / 抽象 / 艺术"
+    },
+    {
+      "en": "blurry background",
+      "zh": "模糊背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 190160,
+      "desc": "画面背景失焦虚化。",
+      "kw": "虚化背景 / 背景虚化 / 失焦背景 / 散景背景 / 背景"
+    },
+    {
+      "en": "background",
+      "zh": "背景",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "aqua background",
+      "zh": "水色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18984,
+      "desc": "以水色（蓝绿、青绿）为主的背景",
+      "kw": "水蓝色背景 / 浅蓝色背景 / 青色背景 / 蓝绿色背景 / 青绿色背景 / 水绿背景 / 浅蓝背景 / 背景 / cyan background"
+    },
+    {
+      "en": "blue background",
+      "zh": "蓝色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 199405,
+      "desc": "以纯蓝或蓝色为主的背景。",
+      "kw": "蓝背景 / 蓝色底 / 蓝色系背景 / 天蓝色背景 / 深蓝背景 / 浅蓝背景 / 背景 / light blue background"
+    },
+    {
+      "en": "brown background",
+      "zh": "棕色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62849,
+      "desc": "以纯棕或棕色为主的背景",
+      "kw": "褐色背景 / 咖啡色背景 / 茶色背景 / 棕色底 / 棕背景 / 褐色底 / 背景"
+    },
+    {
+      "en": "green background",
+      "zh": "绿色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69857,
+      "desc": "以绿色为主的背景，可含渐变。",
+      "kw": "绿背景 / 绿底 / 绿色底 / 纯绿背景 / 绿色调背景 / 绿色系背景 / 背景色 / light green background / dark green background"
+    },
+    {
+      "en": "grey background",
+      "zh": "灰色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 393366,
+      "desc": "背景以纯灰或渐变灰为主",
+      "kw": "灰背景 / 灰色底 / 灰底 / 背景 / gray background"
+    },
+    {
+      "en": "orange background",
+      "zh": "橙色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45372,
+      "desc": "以橙色为主或纯橙色的背景",
+      "kw": "橙背景 / 橘色背景 / 纯橙背景 / 橙色系背景 / 橘色系背景 / 背景 / 橙色"
+    },
+    {
+      "en": "pink background",
+      "zh": "粉色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 155704,
+      "desc": "以粉色为主或纯粉色背景。",
+      "kw": "粉红背景 / 粉背景 / 粉色系背景 / 纯粉色背景 / 粉红色背景 / 粉色底 / 粉底 / 背景"
+    },
+    {
+      "en": "purple background",
+      "zh": "紫色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69912,
+      "desc": "以紫色或淡紫色为主的背景，可含渐变。",
+      "kw": "紫背景 / 紫色底 / 紫底 / 纯紫背景 / 紫色调背景 / 淡紫色背景 / 紫罗兰色背景 / 紫色系背景"
+    },
+    {
+      "en": "red background",
+      "zh": "红色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 99140,
+      "desc": "纯红或红色为主的背景。",
+      "kw": "红背景 / 红底 / 纯红背景 / 红颜色背景 / 红色系背景 / 红底色 / 背景 / 纯色"
+    },
+    {
+      "en": "yellow background",
+      "zh": "黄色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 104216,
+      "desc": "纯色或大面积为黄色的背景。",
+      "kw": "黄背景 / 黄底 / 纯黄背景 / 黄色底 / 黄颜色背景 / 黄色系背景 / 黄色底色"
+    },
+    {
+      "en": "colorful background",
+      "zh": "彩色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2483,
+      "desc": "背景包含多种明显颜色，而非单一色调。",
+      "kw": "多彩背景 / 缤纷背景 / 绚彩背景 / 彩色底 / 彩色底纹 / 彩色背景幕 / 多色背景 / 背景"
+    },
+    {
+      "en": "greyscale with colored background",
+      "zh": "灰度主体彩色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13960,
+      "desc": "灰阶主体配彩色背景的构图，勿标grayscale或spot color",
+      "kw": "灰色主体彩色背景 / 黑白主体彩色背景 / 灰度人物彩色背景 / 灰阶彩色背景 / 灰底彩景 / 灰色人物彩色背景 / 灰度配彩色背景 / 背景 / 灰度配彩色背景"
+    },
+    {
+      "en": "halftone background",
+      "zh": "网点背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9368,
+      "desc": "以网点为主的背景",
+      "kw": "半色调背景 / 网点图背景 / 网点纸背景 / 漫画网点背景 / 点阵背景 / 印刷网点背景 / 背景 / 印刷效果"
+    },
+    {
+      "en": "monochrome background",
+      "zh": "单色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1934,
+      "desc": "背景为单色/灰阶而主体保持彩色的画面。",
+      "kw": "黑白背景 / 灰色背景 / 背景单色 / 主体彩色背景黑白 / 灰阶背景 / 背景 / 颜色 / 单色底 / colored with greyscale background"
+    },
+    {
+      "en": "rainbow background",
+      "zh": "彩虹色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1078,
+      "desc": "以彩虹渐变作背景的图。",
+      "kw": "彩虹渐变背景 / 虹色背景 / 七彩背景 / 彩色背景"
+    },
+    {
+      "en": "three-toned background",
+      "zh": "三色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 229,
+      "desc": "由三种颜色构成的背景",
+      "kw": "三色底 / 三色背景墙 / 三色调背景 / 三色渐变背景 / 三种颜色背景 / 多色背景"
+    },
+    {
+      "en": "multicolored background",
+      "zh": "多色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13479,
+      "desc": "包含多种颜色的背景。",
+      "kw": "背景"
+    },
+    {
+      "en": "cross background",
+      "zh": "十字架背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120,
+      "desc": "以十字架为主要元素的背景",
+      "kw": "十字形背景 / 十字图案背景 / 十字架元素背景 / 宗教背景 / 旗帜背景"
+    },
+    {
+      "en": "dithered background",
+      "zh": "抖动背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 124,
+      "desc": "用抖动网点构成的复古背景",
+      "kw": "抖动网点背景 / 像素抖动背景 / 点阵抖动背景 / 复古抖动背景 / 背景 / 效果"
+    },
+    {
+      "en": "dotted background",
+      "zh": "点状背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2152,
+      "desc": "由大小间距不等的圆点组成的背景。",
+      "kw": "不规则圆点背景 / 圆点底纹 / 圆点图案 / 背景 / 图案背景"
+    },
+    {
+      "en": "grid background",
+      "zh": "网格背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18124,
+      "desc": "由细线划分成方格的背景。",
+      "kw": "方格背景 / 格子背景 / 网格底 / 方格子背景 / 坐标格背景 / 背景 / tile background"
+    },
+    {
+      "en": "honeycomb background",
+      "zh": "蜂巢背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1279,
+      "desc": "由六角形蜂窝纹样构成的背景",
+      "kw": "蜂窝背景 / 六边形背景 / 六角形背景 / 蜂窝纹背景 / 六角蜂窝背景 / 背景 / 图案 / hexagonal background"
+    },
+    {
+      "en": "lace background",
+      "zh": "蕾丝背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1012,
+      "desc": "背景中出现蕾丝图案",
+      "kw": "花边背景 / 蕾丝纹样背景 / 蕾丝图案背景 / 蕾丝花纹背景 / 背景 / 蕾丝图案 / 蕾丝装饰"
+    },
+    {
+      "en": "marble background",
+      "zh": "大理石背景",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "mosaic background",
+      "zh": "马赛克背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 343,
+      "desc": "由不规则小方格拼成的背景，区别于棋盘格",
+      "kw": "方格背景 / 瓷砖背景 / 马赛克样式背景 / 拼贴方格背景 / 不规则方格背景 / 背景"
+    },
+    {
+      "en": "patterned background",
+      "zh": "花纹背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5184,
+      "desc": "带有重复图案的背景",
+      "kw": "重复图案背景 / 印花背景 / 纹样背景 / 图案底纹 / 背景图案 / 花背景 / 连续图案背景"
+    },
+    {
+      "en": "polka dot background",
+      "zh": "波点背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24569,
+      "desc": "整体或大部分由圆点构成的背景。",
+      "kw": "斑点背景 / 点状背景 / 波卡点背景 / 波尔卡圆点背景 / 波点 / 背景图案 / polka-dot background"
+    },
+    {
+      "en": "spiral background",
+      "zh": "螺旋背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 356,
+      "desc": "背景以螺旋纹样为主。",
+      "kw": "螺旋纹背景 / 漩涡背景 / 螺旋图案背景 / 旋转背景 / 回旋背景 / 背景 / 抽象"
+    },
+    {
+      "en": "splatter background",
+      "zh": "飞溅背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 739,
+      "desc": "由血、墨、颜料等溅洒形成的背景",
+      "kw": "泼溅背景 / 喷溅背景 / 溅射背景 / 血迹飞溅背景 / 墨迹飞溅背景 / 背景 / 抽象"
+    },
+    {
+      "en": "sunburst background",
+      "zh": "放射状背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3261,
+      "desc": "以放射状光线为背景的构图，类似马其顿国旗",
+      "kw": "放射状日纹背景 / 阳光放射背景 / 光芒背景 / 放射光线背景 / 放射状光芒背景 / 太阳光芒背景 / 射线状背景 / 马其顿国旗背景 / macedonian flag / マケドニア国旗"
+    },
+    {
+      "en": "triangle background",
+      "zh": "三角形背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 425,
+      "desc": "背景由三角形图案构成",
+      "kw": "三角背景 / 三角图案背景 / 几何三角背景 / 三角纹样背景 / 几何背景 / 图案"
+    },
+    {
+      "en": "bright background",
+      "zh": "明亮背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 281,
+      "desc": "由特别明亮或刺眼颜色构成的背景。",
+      "kw": "亮色背景 / 高亮背景 / 刺眼背景 / 鲜艳背景 / 明亮背景色 / 强光背景 / 明亮的背景 / 背景"
+    },
+    {
+      "en": "dark background",
+      "zh": "暗色背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17501,
+      "desc": "昏暗但非纯黑的背景",
+      "kw": "昏暗背景 / 暗背景 / 背景"
+    },
+    {
+      "en": "animal background",
+      "zh": "动物背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 330,
+      "desc": "由动物构成的背景",
+      "kw": "动物作为背景 / 背景动物 / 由动物组成的背景 / 背景"
+    },
+    {
+      "en": "bow background",
+      "zh": "蝴蝶结背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 74,
+      "desc": "由蝴蝶结构成的背景",
+      "kw": "蝴蝶结背景墙 / 蝴蝶结底图 / 蝴蝶结花纹背景 / 蝴蝶结图案背景 / 蝴蝶结壁纸背景"
+    },
+    {
+      "en": "bubble background",
+      "zh": "气泡背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 895,
+      "desc": "由气泡构成的背景",
+      "kw": "泡泡背景 / 气泡底 / 泡泡底 / 气泡背景图 / 泡泡背景图 / 气泡底纹 / 背景"
+    },
+    {
+      "en": "butterfly background",
+      "zh": "蝴蝶背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 221,
+      "desc": "以蝴蝶为主要元素的背景",
+      "kw": "蝴蝶装饰背景 / 蝴蝶图案背景 / 蝴蝶背景板 / 蝴蝶氛围背景 / 背景 / 蝴蝶图案"
+    },
+    {
+      "en": "card background",
+      "zh": "卡牌背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 86,
+      "desc": "由卡片构成的背景",
+      "kw": "纸牌背景 / 卡背景 / 卡片构成背景 / 卡牌背景墙"
+    },
+    {
+      "en": "cherry background",
+      "zh": "樱桃背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 66,
+      "desc": "由樱桃图案或樱桃元素构成的背景",
+      "kw": "樱桃图案背景 / 樱桃壁纸 / 樱桃底纹背景 / 樱桃平铺背景 / 樱桃装饰背景 / 樱桃背景图"
+    },
+    {
+      "en": "cloud background",
+      "zh": "云朵背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 312,
+      "desc": "以云朵/云层构成的背景。",
+      "kw": "天空云背景 / 白云背景 / 云层背景 / 云海背景 / 云彩背景 / 背景 / 云朵"
+    },
+    {
+      "en": "fiery background",
+      "zh": "火焰背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1134,
+      "desc": "大部分被火焰占据的背景",
+      "kw": "燃烧背景 / 烈焰背景 / 火焰场景 / 火海背景 / 火背景 / 火焰环绕背景 / 背景 / 火焰 / burning background / fire background / flame background"
+    },
+    {
+      "en": "flag background",
+      "zh": "旗帜背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1503,
+      "desc": "以国旗颜色或图案构成的背景",
+      "kw": "国旗背景 / 旗子背景 / 旗帜图案背景 / 背景 / 旗帜"
+    },
+    {
+      "en": "floral background",
+      "zh": "花卉背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32106,
+      "desc": "以花朵或花卉图案构成的背景",
+      "kw": "花背景 / 花朵背景 / 花丛背景 / 鲜花背景 / 花卉图案背景 / 背景 / 花朵 / flower background"
+    },
+    {
+      "en": "rose background",
+      "zh": "玫瑰背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 632,
+      "desc": "由玫瑰花构成的背景",
+      "kw": "玫瑰花背景 / 玫瑰花纹背景 / 玫瑰花丛背景 / 玫瑰图案背景 / 花朵背景 / 植物背景"
+    },
+    {
+      "en": "food-themed background",
+      "zh": "食物主题背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1520,
+      "desc": "由食物或食品图案构成的背景",
+      "kw": "食品主题背景 / 食物背景 / 美食背景 / 以食物为背景 / 食物构成背景 / 背景 / food themed background"
+    },
+    {
+      "en": "fruit background",
+      "zh": "水果背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 651,
+      "desc": "由水果构成的背景",
+      "kw": "水果构成背景 / 水果图案背景 / 水果背景墙 / 果实背景 / 背景"
+    },
+    {
+      "en": "strawberry background",
+      "zh": "草莓背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 199,
+      "desc": "背景由单个草莓或重复草莓图案构成",
+      "kw": "草莓图案背景 / 草莓纹背景 / 草莓底 / 草莓墙纸 / 草莓壁纸 / 背景 / 图案"
+    },
+    {
+      "en": "heart background",
+      "zh": "心形背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9570,
+      "desc": "背景中有爱心图案",
+      "kw": "背景爱心 / 心形图案背景 / 爱心图案背景 / 心形背景图案 / 背景 / 心形 / 爱心"
+    },
+    {
+      "en": "leaf background",
+      "zh": "叶子背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1057,
+      "desc": "以叶子为主题的背景，可为图案或真实叶片",
+      "kw": "树叶背景 / 叶片背景 / 叶子图案背景 / 背景 / 自然 / 植物"
+    },
+    {
+      "en": "lightning background",
+      "zh": "闪电背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 264,
+      "desc": "用作背景的闪电图案",
+      "kw": "雷电背景 / 闪电效果背景 / 背景闪电 / 闪电图案背景 / 电光背景 / 背景 / 特效"
+    },
+    {
+      "en": "paw print background",
+      "zh": "爪印背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2600,
+      "desc": "由爪印图案构成的背景",
+      "kw": "爪子印背景 / 动物爪印背景 / 肉球印背景 / 肉垫印背景 / 掌印背景 / 猫爪背景 / 狗爪背景 / 小爪印背景 / paw background"
+    },
+    {
+      "en": "poke ball background",
+      "zh": "精灵球背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 78,
+      "desc": "背景中显著出现精灵球图案",
+      "kw": "精灵球背景图 / 精灵球底纹 / 宝可梦球背景 / 精灵球图案背景 / 精灵球背景板"
+    },
+    {
+      "en": "rabbit background",
+      "zh": "兔子背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 409,
+      "desc": "以兔子或兔子图案为主题的背景。",
+      "kw": "兔背景 / 兔子主题背景 / 兔子图案背景 / 小兔背景 / 兔元素背景 / 兔兔背景 / 背景 / 动物 / bunny background"
+    },
+    {
+      "en": "snowflake background",
+      "zh": "雪花背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1521,
+      "desc": "由雪花图案构成的抽象背景，非真实下雪",
+      "kw": "雪晶背景 / 雪花图案背景 / 雪花纹样背景 / 抽象雪花背景 / 背景 / 雪景"
+    },
+    {
+      "en": "sofmap background",
+      "zh": "Sofmap背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 379,
+      "desc": "带Sofmap标志的蓝白格纹背景",
+      "kw": "Sofmap蓝白格背景 / Sofmap格子背景 / Sofmap背景墙 / Sofmap壁纸背景 / 蓝白格纹Sofmap背景 / 商店背景 / 背景 / ソフマップ / 例の壁"
+    },
+    {
+      "en": "sparkle background",
+      "zh": "闪耀背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6901,
+      "desc": "由闪光点构成的背景",
+      "kw": "闪光背景 / 闪闪发光的背景 / 星点背景 / 闪亮背景 / 闪烁背景 / 背景 / 闪光"
+    },
+    {
+      "en": "spider web background",
+      "zh": "蜘蛛网背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 195,
+      "desc": "以蜘蛛网为主题的背景。",
+      "kw": "蛛网背景 / 蜘蛛网图案背景 / 蛛丝背景 / 恐怖背景 / 装饰"
+    },
+    {
+      "en": "star symbol background",
+      "zh": "星星符号背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11079,
+      "desc": "由星形符号构成的背景，非真实星空",
+      "kw": "星号背景 / 星形图案背景 / 星星图案背景 / 符号星背景 / 星形背景 / 图案 / 背景"
+    },
+    {
+      "en": "starry sky background",
+      "zh": "星空背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4059,
+      "desc": "以真实星空作为背景。",
+      "kw": "星空 / 繁星背景 / 夜空背景 / 星夜背景 / 星辰背景 / 背景"
+    },
+    {
+      "en": "text background",
+      "zh": "文字背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7363,
+      "desc": "文字占画面相当比例的背景",
+      "kw": "文字构成的背景 / 文本背景 / 文字背景图 / 文字布满背景 / 背景文字 / 文字堆积背景 / 背景 / 文字 / background text"
+    },
+    {
+      "en": "weapon background",
+      "zh": "武器背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 220,
+      "desc": "背景中以剪影或写实方式描绘武器",
+      "kw": "背景武器 / 武器背景墙 / 武器剪影背景 / 刀剑背景 / 武器图案背景 / 背景 / sword background"
+    },
+    {
+      "en": "3d background",
+      "zh": "3D背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3982,
+      "desc": "手绘角色配3D渲染背景",
+      "kw": "三维背景 / 3D渲染背景 / 立体背景 / 3D场景 / CG背景 / 背景 / 3D效果"
+    },
+    {
+      "en": "ai-generated background",
+      "zh": "AI生成背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 351,
+      "desc": "背景由AI生成，角色为手绘",
+      "kw": "AI背景 / AI生成的背景 / 人工智能生成背景 / 背景AI生成"
+    },
+    {
+      "en": "collage background",
+      "zh": "拼贴背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 223,
+      "desc": "由多幅图画拼贴构成的背景",
+      "kw": "拼贴画背景 / 剪贴背景 / 多图拼贴背景 / 背景 / 拼贴 / 艺术风格"
+    },
+    {
+      "en": "paneled background",
+      "zh": "分格背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 290,
+      "desc": "模仿漫画分格样式的背景。",
+      "kw": "多格背景 / 镶板背景 / 漫画格背景 / 分镜背景 / 分割背景 / 背景 / 漫画风"
+    },
+    {
+      "en": "photo background",
+      "zh": "照片背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15129,
+      "desc": "以真实照片作为画作背景，与动画角色形成对比。",
+      "kw": "真实照片背景 / 实景背景 / 写实背景 / 照片实景 / 摄影背景 / 实拍背景 / 图片背景 / 照片风背景 / anime in real life / 実写背景 / デジラマ"
+    },
+    {
+      "en": "game screenshot background",
+      "zh": "游戏截图背景重绘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2310,
+      "desc": "以游戏截图为背景并在其上作画",
+      "kw": "游戏屏幕截图背景 / 游戏截图作背景 / 游戏画面背景 / 游戏背景截图 / 游戏UI / 背景"
+    },
+    {
+      "en": "paper background",
+      "zh": "纸质背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 934,
+      "desc": "带有纸张纹理质感的背景。",
+      "kw": "纸背景 / 纸纹背景 / 纸张纹理背景 / 纸张质感背景 / 纸面背景 / 信纸背景 / 牛皮纸背景"
+    },
+    {
+      "en": "newsprint background",
+      "zh": "新闻纸背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 87,
+      "desc": "以报纸作为背景的画面",
+      "kw": "报纸底纹背景 / 报纸图案背景 / 报纸铺底 / 报纸墙背景 / 旧报纸背景"
+    },
+    {
+      "en": "screenshot background",
+      "zh": "截图背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2772,
+      "desc": "在网页截图等各类截图之上绘制的画作，若截图仅占小部分用screenshot_inset。",
+      "kw": "截屏背景 / 桌面截图背景 / 网页截图背景 / 软件界面背景 / 截图之上绘画 / 背景 / 截屏 / screencap background"
+    },
+    {
+      "en": "sketch background",
+      "zh": "草稿背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1151,
+      "desc": "主体已完成而背景明显未完成的图。",
+      "kw": "未完成背景 / 草图背景 / 线稿背景 / 简略背景 / 半成品背景 / 背景 / 草图风格 / unfinished background"
+    },
+    {
+      "en": "watercolor background",
+      "zh": "水彩背景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 428,
+      "desc": "背景模仿水彩效果的数码绘画",
+      "kw": "水彩风背景 / 水彩风格背景 / 水彩效果背景 / 水彩绘画背景 / 水彩质感背景 / 背景 / 水彩画"
+    },
+    {
+      "en": "blending",
+      "zh": "背景融合",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3193,
+      "desc": "前景与背景颜色相同而融为一体的效果。",
+      "kw": "颜色融合 / 融入背景 / 同色融合 / 融色 / 渐融 / 混色融合 / 色融 / 隐形 / 融入"
+    },
+    {
+      "en": "projected inset",
+      "zh": "背景投影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3945,
+      "desc": "背景中出现某人或某物的投影影像",
+      "kw": "投影插入 / 投影图层 / 投影画面 / 插入投影 / 影像嵌入 / 插图投影 / 艺术效果"
+    },
+    {
+      "en": "step and repeat",
+      "zh": "签名背景墙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 493,
+      "desc": "重复排列的标志图案，常作活动拍照背景",
+      "kw": "赞助商背景板 / LOGO背景墙 / 媒体墙 / 重复标志墙 / 品牌背景板 / 活动背景板 / 签名背景板"
+    },
+    {
+      "en": "explosion background",
+      "zh": "爆炸背景",
+      "rating": "g",
+      "count": 788,
+      "desc": "爆炸占据画面大部分背景的构图",
+      "kw": "大爆炸背景 / 背景爆炸 / 爆炸背景板 / 爆炸效果背景 / 爆炸场景 / 爆炸画面背景 / 爆炸填补背景 / 背景 / cool guys don't look at explosions / unflinching walk"
+    },
+    {
+      "en": "saturated background",
+      "zh": "高饱和背景",
+      "rating": "g",
+      "count": 565,
+      "desc": "纯红纯绿等极鲜艳单色构成的背景",
+      "kw": "纯色背景 / 鲜艳背景 / 单色背景 / 饱和背景 / 高彩度背景 / 高饱和度背景 / 颜色"
+    }
+  ]
+}

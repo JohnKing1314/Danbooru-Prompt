@@ -1,0 +1,54 @@
+{
+  "id": "style_group",
+  "name": "画风",
+  "icon": "🎨",
+  "level": 1,
+  "order": 1,
+  "file": "style_group/style_group.json",
+  "subDir": "style_group",
+  "updatedAt": "2026-11-18T05:36:30.147Z",
+  "children": [
+    {
+      "id": "style",
+      "name": "质量与风格",
+      "icon": "✨",
+      "order": 1,
+      "file": "style_group/style_group_style.json"
+    },
+    {
+      "id": "artist",
+      "name": "画师风格",
+      "icon": "🖌",
+      "order": 2,
+      "file": "style_group/style_group_artist.json"
+    },
+    {
+      "id": "composition",
+      "name": "构图",
+      "icon": "🖼",
+      "order": 3,
+      "file": "style_group/style_group_composition.json"
+    },
+    {
+      "id": "camera",
+      "name": "镜头",
+      "icon": "📷",
+      "order": 4,
+      "file": "style_group/style_group_camera.json"
+    },
+    {
+      "id": "lighting",
+      "name": "光影和氛围",
+      "icon": "💡",
+      "order": 5,
+      "file": "style_group/style_group_lighting.json"
+    },
+    {
+      "id": "background",
+      "name": "背景",
+      "icon": "🖼️",
+      "order": 6,
+      "file": "style_group/style_group_background.json"
+    }
+  ]
+}

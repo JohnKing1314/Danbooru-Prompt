@@ -1,0 +1,54 @@
+{
+  "id": "action_group",
+  "name": "动作",
+  "icon": "🏃",
+  "level": 1,
+  "order": 3,
+  "file": "action_group/action_group.json",
+  "subDir": "action_group",
+  "updatedAt": "2026-11-18T05:36:30.171Z",
+  "children": [
+    {
+      "id": "pose",
+      "name": "姿势",
+      "icon": "🧘",
+      "order": 1,
+      "file": "action_group/action_group_pose.json"
+    },
+    {
+      "id": "head_action",
+      "name": "头部动作",
+      "icon": "🗣️",
+      "order": 2,
+      "file": "action_group/action_group_head_action.json"
+    },
+    {
+      "id": "mouth_action",
+      "name": "嘴部动作",
+      "icon": "👄",
+      "order": 3,
+      "file": "action_group/action_group_mouth_action.json"
+    },
+    {
+      "id": "hand_action",
+      "name": "手部动作",
+      "icon": "✋",
+      "order": 4,
+      "file": "action_group/action_group_hand_action.json"
+    },
+    {
+      "id": "foot_action",
+      "name": "脚部动作",
+      "icon": "🦶",
+      "order": 5,
+      "file": "action_group/action_group_foot_action.json"
+    },
+    {
+      "id": "interaction",
+      "name": "互动与行为",
+      "icon": "💞",
+      "order": 6,
+      "file": "action_group/action_group_interaction.json"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "anime",
+  "name": "📺 番剧",
+  "icon": "📺",
+  "order": 2,
+  "file": "anime.json",
+  "subDir": "anime",
+  "children": [
+    {
+      "id": "hot_anime",
+      "name": "热门番剧",
+      "order": 1,
+      "count": 79,
+      "file": "anime/hot_anime.json"
+    },
+    {
+      "id": "bang_dream",
+      "name": "BanG Dream!",
+      "order": 2,
+      "count": 44,
+      "file": "anime/bang_dream.json"
+    },
+    {
+      "id": "love_live",
+      "name": "Love Live!",
+      "order": 3,
+      "count": 50,
+      "file": "anime/love_live.json"
+    },
+    {
+      "id": "girls_band_cry",
+      "name": "Girls Band Cry",
+      "order": 4,
+      "count": 5,
+      "file": "anime/girls_band_cry.json"
+    },
+    {
+      "id": "demon_slayer",
+      "name": "鬼灭之刃",
+      "order": 5,
+      "count": 14,
+      "file": "anime/demon_slayer.json"
+    },
+    {
+      "id": "jujutsu_kaisen",
+      "name": "咒术回战",
+      "order": 6,
+      "count": 11,
+      "file": "anime/jujutsu_kaisen.json"
+    },
+    {
+      "id": "frieren",
+      "name": "葬送的芙莉莲",
+      "order": 7,
+      "count": 9,
+      "file": "anime/frieren.json"
+    },
+    {
+      "id": "attack_on_titan",
+      "name": "进击的巨人",
+      "order": 8,
+      "count": 9,
+      "file": "anime/attack_on_titan.json"
+    },
+    {
+      "id": "one_piece",
+      "name": "海贼王",
+      "order": 9,
+      "count": 9,
+      "file": "anime/one_piece.json"
+    },
+    {
+      "id": "idolmaster",
+      "name": "偶像大师",
+      "order": 10,
+      "count": 257,
+      "file": "anime/idolmaster.json"
+    },
+    {
+      "id": "naruto",
+      "name": "火影忍者",
+      "order": 11,
+      "count": 8,
+      "file": "anime/naruto.json"
+    },
+    {
+      "id": "dragon_ball",
+      "name": "龙珠",
+      "order": 12,
+      "count": 8,
+      "file": "anime/dragon_ball.json"
+    },
+    {
+      "id": "fate",
+      "name": "Fate",
+      "order": 13,
+      "count": 79,
+      "file": "anime/fate.json"
+    },
+    {
+      "id": "fullmetal_alchemist",
+      "name": "钢之炼金术师",
+      "order": 14,
+      "count": 8,
+      "file": "anime/fullmetal_alchemist.json"
+    },
+    {
+      "id": "vocaloid",
+      "name": "VOCALOID",
+      "order": 15,
+      "count": 14,
+      "file": "anime/vocaloid.json"
+    },
+    {
+      "id": "hunter_x_hunter",
+      "name": "全职猎人",
+      "order": 16,
+      "count": 8,
+      "file": "anime/hunter_x_hunter.json"
+    },
+    {
+      "id": "sailor_moon",
+      "name": "美少女战士",
+      "order": 17,
+      "count": 8,
+      "file": "anime/sailor_moon.json"
+    },
+    {
+      "id": "evangelion",
+      "name": "新世纪福音战士",
+      "order": 18,
+      "count": 7,
+      "file": "anime/evangelion.json"
+    },
+    {
+      "id": "chainsaw_man",
+      "name": "电锯人",
+      "order": 19,
+      "count": 6,
+      "file": "anime/chainsaw_man.json"
+    },
+    {
+      "id": "umamusume",
+      "name": "赛马娘",
+      "order": 20,
+      "count": 125,
+      "file": "anime/umamusume.json"
+    },
+    {
+      "id": "kaguya_sama",
+      "name": "辉夜大小姐想让我告白",
+      "order": 21,
+      "count": 6,
+      "file": "anime/kaguya_sama.json"
+    },
+    {
+      "id": "inuyasha",
+      "name": "犬夜叉",
+      "order": 22,
+      "count": 6,
+      "file": "anime/inuyasha.json"
+    },
+    {
+      "id": "my_hero_academia",
+      "name": "我的英雄学院",
+      "order": 23,
+      "count": 5,
+      "file": "anime/my_hero_academia.json"
+    },
+    {
+      "id": "dungeon_meshi",
+      "name": "迷宫饭",
+      "order": 24,
+      "count": 5,
+      "file": "anime/dungeon_meshi.json"
+    },
+    {
+      "id": "bleach",
+      "name": "死神",
+      "order": 25,
+      "count": 5,
+      "file": "anime/bleach.json"
+    },
+    {
+      "id": "k_on",
+      "name": "轻音少女",
+      "order": 26,
+      "count": 5,
+      "file": "anime/k_on.json"
+    },
+    {
+      "id": "quintessential_quintuplets",
+      "name": "五等分的新娘",
+      "order": 27,
+      "count": 5,
+      "file": "anime/quintessential_quintuplets.json"
+    },
+    {
+      "id": "cardcaptor_sakura",
+      "name": "魔卡少女樱",
+      "order": 28,
+      "count": 5,
+      "file": "anime/cardcaptor_sakura.json"
+    },
+    {
+      "id": "haruhi_suzumiya",
+      "name": "凉宫春日的忧郁",
+      "order": 29,
+      "count": 5,
+      "file": "anime/haruhi_suzumiya.json"
+    },
+    {
+      "id": "anohana",
+      "name": "未闻花名",
+      "order": 30,
+      "count": 5,
+      "file": "anime/anohana.json"
+    },
+    {
+      "id": "tensura",
+      "name": "关于我转生变成史莱姆这档事",
+      "order": 31,
+      "count": 5,
+      "file": "anime/tensura.json"
+    }
+  ],
+  "count": 815
+}

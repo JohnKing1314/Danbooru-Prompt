@@ -1,0 +1,2768 @@
+{
+  "id": "urban",
+  "name": "城市街道",
+  "icon": "🌃",
+  "parentId": "scene_group",
+  "level": 2,
+  "order": 3,
+  "file": "scene_group/scene_group_urban.json",
+  "updatedAt": "2026-11-18T05:36:30.208Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "wet asphalt reflection",
+      "zh": "湿沥青反光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rain-slicked street",
+      "zh": "雨后街道",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "fence",
+      "zh": "铁丝网",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32980,
+      "desc": "用木桩、铁丝等围起的屏障",
+      "kw": "围栏 / 篱笆 / 护栏 / 栅栏墙 / 背景 / 建筑"
+    },
+    {
+      "en": "shopping district",
+      "zh": "商店街",
+      "rating": "g",
+      "nsfw": false,
+      "count": 160,
+      "desc": "集中了众多商店的街区",
+      "kw": "商业街 / 商圈 / 购物区 / 购物街 / 商业区 / 商店区 / 商店街区 / 场景"
+    },
+    {
+      "en": "stone stairs",
+      "zh": "石阶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1971,
+      "desc": "用石头或混凝土等石材制成的楼梯。",
+      "kw": "石楼梯 / 石头台阶 / 石板台阶 / 石梯 / 石制楼梯 / 石级 / 石台阶 / 楼梯 / 石段"
+    },
+    {
+      "en": "poolside",
+      "zh": "泳池边",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12994,
+      "desc": "位于泳池旁边的场景。",
+      "kw": "游泳池边 / 池边 / 泳池旁 / 在泳池旁边 / 池畔 / 泳池岸边 / 游泳池畔 / 户外 / プールサイド"
+    },
+    {
+      "en": "courtyard",
+      "zh": "庭院",
+      "rating": "g",
+      "nsfw": false,
+      "count": 138,
+      "desc": "建筑围合出的庭院",
+      "kw": "中庭 / 院子 / 天井 / 院落 / 庭园 / 庭院空间 / 内庭 / 场景"
+    },
+    {
+      "en": "graveyard",
+      "zh": "墓地",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2948,
+      "desc": "集中埋葬死者并立有墓碑的地方。",
+      "kw": "坟墓 / 坟场 / 墓园 / 公墓 / 陵园 / 背景 / 场景 / cemetery / 墓场"
+    },
+    {
+      "en": "industrial area",
+      "zh": "工业区",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "factory",
+      "zh": "工厂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 673,
+      "desc": "用于生产制造产品的建筑设施。",
+      "kw": "工场 / 厂房 / 制造厂 / 建筑 / 工业 / 工場"
+    },
+    {
+      "en": "windmill",
+      "zh": "风车",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1722,
+      "desc": "以风车叶轮驱动的传统建筑",
+      "kw": "风车小屋 / 风车房 / 磨坊风车 / 荷兰风车 / 建筑 / 风景 / windmills / 風車 / 風車小屋"
+    },
+    {
+      "en": "lighthouse",
+      "zh": "灯塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2095,
+      "desc": "为船只导航而在海岸设置的发光建筑",
+      "kw": "灯塔建筑 / 航标灯塔 / 海岸灯塔 / 建筑 / 景观 / 灯台"
+    },
+    {
+      "en": "tower",
+      "zh": "高塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8382,
+      "desc": "高而窄的塔状建筑",
+      "kw": "塔楼 / 尖塔 / 塔状建筑 / 建筑 / 场景 / タワー"
+    },
+    {
+      "en": "fortress",
+      "zh": "要塞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 197,
+      "desc": "具有多层城墙防卫的大型要塞",
+      "kw": "城塞 / 城堡（防御） / 军事堡垒 / 据点 / 建筑 / 军事设施"
+    },
+    {
+      "en": "village",
+      "zh": "村庄",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1269,
+      "desc": "乡村中的小型聚落。",
+      "kw": "村落 / 村子 / 乡 / 屯 / 寨 / 乡村聚落 / 小村庄 / 农村 / 村"
+    },
+    {
+      "en": "town",
+      "zh": "小镇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4876,
+      "desc": "中等规模聚落，比村庄大比城市小",
+      "kw": "城镇 / 镇子 / 市镇 / 小城镇 / 城市 / 背景 / 街 / 町 / 镇"
+    },
+    {
+      "en": "metropolis",
+      "zh": "大都市",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40
+    },
+    {
+      "en": "battlefield",
+      "zh": "战场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 911,
+      "desc": "发生过或正在发生战斗的战场。",
+      "kw": "战地 / 沙场 / 作战场 / 交战地 / 战场场景 / 战争场景 / 战斗场地 / 戦场 / 戦場"
+    },
+    {
+      "en": "crowd",
+      "zh": "人群",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9059,
+      "desc": "大量不画五官的围观人群",
+      "kw": "群众 / 围观人群 / 人海 / 路人 / 背景人群 / 酱油人群 / 群众演员 / 多人 / 群衆"
+    },
+    {
+      "en": "food stall",
+      "zh": "小吃摊",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "torii",
+      "zh": "鸟居",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17084,
+      "desc": "神社入口的鸟居牌坊",
+      "kw": "神社牌坊 / 鸟居门 / 日式牌坊 / 门 / 神社入口 / 鸟居通道 / torii gate / torii (gate) / shrine gate / 鳥居"
+    },
+    {
+      "en": "rooftop",
+      "zh": "屋顶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7214,
+      "desc": "建筑物的屋顶表面",
+      "kw": "天台 / 楼顶 / 房顶 / 屋上 / 屋顶平台 / 屋顶场景 / 建筑 / roof"
+    },
+    {
+      "en": "school gate",
+      "zh": "校门",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sports field",
+      "zh": "操场",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "city street",
+      "zh": "城市街道",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "park",
+      "zh": "公园",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3153,
+      "desc": "城市中供休闲的户外绿地。",
+      "kw": "公共公园 / 城市公园 / 街心公园 / 游园 / 户外场景 / 公園 / 공원"
+    },
+    {
+      "en": "market",
+      "zh": "集市",
+      "rating": "g",
+      "nsfw": false,
+      "count": 687,
+      "desc": "售卖食品杂货的露天市场或集市区域",
+      "kw": "市集 / 菜市场 / 农贸市场 / 露天市场 / 市販 / 市场区域 / 集市区域 / marketplace"
+    },
+    {
+      "en": "festival",
+      "zh": "祭典",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3665,
+      "desc": "以特定主题举办的社区节庆或祭典活动。",
+      "kw": "节庆 / 庆典 / 祭日 / 庙会 / 嘉年华 / 文化节 / 日本风 / 祭り / お祭り"
+    },
+    {
+      "en": "airport",
+      "zh": "机场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 557,
+      "desc": "供飞机起降的机场",
+      "kw": "空港 / 飞机场 / 航空港 / 场景 / 建筑 / 飞行场 / 飛行場"
+    },
+    {
+      "en": "harbor",
+      "zh": "港口",
+      "rating": "g",
+      "nsfw": false,
+      "count": 623,
+      "desc": "可停泊船只的港湾。",
+      "kw": "港湾 / 海港 / 码头 / 港 / 口岸 / 避风港 / 场景 / harbour"
+    },
+    {
+      "en": "bridge",
+      "zh": "桥梁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13765,
+      "desc": "跨越障碍的人工桥梁",
+      "kw": "大桥 / 小桥 / 拱桥 / 吊桥 / 栈桥 / 立交桥 / 天桥 / 橋"
+    },
+    {
+      "en": "alley",
+      "zh": "小巷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4568,
+      "desc": "城市建筑之间的窄巷，常仅供行人通行",
+      "kw": "巷子 / 胡同 / 小巷子 / 弄堂 / 巷道 / 窄巷 / 后巷 / 小径 / 路地里"
+    },
+    {
+      "en": "crosswalk",
+      "zh": "人行横道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3737,
+      "desc": "供行人穿越马路的人行横道",
+      "kw": "斑马线 / 行人穿越道 / 过街横道 / 斑马纹线 / 斑马线人行道 / 行人道 / 人行道 / 道路 / zebra crossing / pedestrian crossing / 横断歩道 / 斑馬線"
+    },
+    {
+      "en": "skyscraper",
+      "zh": "摩天大楼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11920,
+      "desc": "高度至少100米的多层可居住建筑。",
+      "kw": "摩天楼 / 摩天大厦 / 高楼大厦 / 高层建筑 / 超高层建筑 / 建筑 / 城市景观 / 超高层建筑物 / 超高層ビル / 高層ビル / 高層建築"
+    },
+    {
+      "en": "broken building",
+      "zh": "残破建筑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "city",
+      "zh": "城市",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35959,
+      "desc": "以城市为背景或场景。",
+      "kw": "都市 / 都会 / 城 / 城市景观 / 城市背景 / 城市风景 / 市区 / 地点"
+    },
+    {
+      "en": "road",
+      "zh": "公路",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24756,
+      "desc": "经过铺装或修整的通行道路。",
+      "kw": "马路 / 大路 / 车道 / 行车路 / 铺装路 / 地点"
+    },
+    {
+      "en": "school",
+      "zh": "学校",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9185,
+      "desc": "进行教学的场所",
+      "kw": "校园 / 校舍 / 学堂 / 学园 / 学院 / 学校场景 / 场景 / 建筑 / 學校 / 학교"
+    },
+    {
+      "en": "street",
+      "zh": "街道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11976,
+      "desc": "城市中铺设、供车辆和行人通行的道路。",
+      "kw": "马路 / 道路 / 街区 / 街景 / 城市街道 / 大街 / 背景"
+    },
+    {
+      "en": "streetlight",
+      "zh": "路灯",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wet street",
+      "zh": "湿滑街道",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lamppost",
+      "zh": "路灯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14774,
+      "desc": "照亮街道的固定户外照明柱",
+      "kw": "街灯 / 灯柱 / 街灯柱 / 道路照明灯 / 电灯柱 / 户外灯柱 / 建筑 / street lamp / streetlight / streetlamp / streetlights"
+    },
+    {
+      "en": "airfield",
+      "zh": "机场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60,
+      "desc": "供飞机起降和维护的场地。",
+      "kw": "飞机场 / 飞行场 / 机场跑道 / 军用机场 / 起降场 / 航空场地"
+    },
+    {
+      "en": "runway",
+      "zh": "机场跑道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 287,
+      "desc": "机场供飞机起降的跑道；模特T台见catwalk",
+      "kw": "飞机跑道 / 跑道 / 起飞跑道 / 降落跑道 / 伸展台 / 场所 / landing strip (aircraft) / 滑走路 / 跑道（机场） / 跑道(机场)"
+    },
+    {
+      "en": "amusement park",
+      "zh": "游乐园",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1426,
+      "desc": "有各种游乐设施的大型游乐园",
+      "kw": "游乐场 / 主题公园 / 游园地 / 乐园 / 游乐公园 / 大型游乐园 / 娱乐场所 / 遊園地 / テーマパーク"
+    },
+    {
+      "en": "carousel",
+      "zh": "旋转木马",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1663,
+      "desc": "绕固定轴旋转的木马游乐设施",
+      "kw": "回转木马 / 旋木 / 木马转盘 / 旋转木马游乐设施 / 游乐场木马 / 游乐设施 / 旋木马 / merry go round / merry-go-round / 回転木马 / メリーゴーラウンド"
+    },
+    {
+      "en": "ferris wheel",
+      "zh": "摩天轮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3089,
+      "desc": "游乐场中垂直旋转的观览车",
+      "kw": "观览车 / 摩天輪 / 大转轮 / 巨轮 / 游乐设施 / 観覧车 / 観覧車"
+    },
+    {
+      "en": "roller coaster",
+      "zh": "过山车",
+      "rating": "g",
+      "nsfw": false,
+      "count": 776,
+      "desc": "游乐园的过山车",
+      "kw": "云霄飞车 / 雲霄飛車 / 过山龙 / 环滑车 / 飞车 / 游乐设施 / 游乐园 / ジェットコースター"
+    },
+    {
+      "en": "aqueduct",
+      "zh": "引水道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 90,
+      "desc": "跨越山谷引水的高架水道桥。",
+      "kw": "水道桥 / 高架水渠 / 水桥 / 引水桥 / 高架水道 / 输水桥"
+    },
+    {
+      "en": "rope bridge",
+      "zh": "绳桥",
+      "rating": "g",
+      "nsfw": false,
+      "count": 88,
+      "desc": "用绳索搭成的桥",
+      "kw": "绳索桥 / 吊桥 / 藤桥 / 绳索吊桥 / 粗绳桥"
+    },
+    {
+      "en": "wooden bridge",
+      "zh": "木桥",
+      "rating": "g",
+      "nsfw": false,
+      "count": 641,
+      "desc": "木质结构的桥，多见于乡村地区",
+      "kw": "木制桥 / 木头桥 / 木质桥 / 木栈桥 / 木板桥 / 木造桥 / 木桥建筑 / 桥梁"
+    },
+    {
+      "en": "canal",
+      "zh": "运河",
+      "rating": "g",
+      "nsfw": false,
+      "count": 777,
+      "desc": "人工开凿的大型水道",
+      "kw": "人工河 / 水道 / 水渠 / 运河河道 / 人工运河 / 地点 / 人工水道 / 水路 / 水路 / 運河"
+    },
+    {
+      "en": "rural",
+      "zh": "乡村",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1369,
+      "desc": "城市之外的乡村田园地区，包括农田和小村镇",
+      "kw": "田园 / 乡下 / 农村 / 村庄 / 乡间 / 田野 / 乡村地区 / 场景 / countryside / 田舎 / 田園"
+    },
+    {
+      "en": "suburb",
+      "zh": "郊区",
+      "rating": "g",
+      "nsfw": false,
+      "count": 114,
+      "desc": "城市边缘的住宅区",
+      "kw": "郊外 / 城郊 / 市郊 / 近郊 / 远郊 / 郊区风景 / 郊区住宅区 / 住宅区"
+    },
+    {
+      "en": "slums",
+      "zh": "贫民窟",
+      "rating": "g",
+      "nsfw": false,
+      "count": 80,
+      "desc": "拥挤破败、贫困的城中贫民区",
+      "kw": "贫民街 / 贫民区 / 棚户区 / 陋巷 / 贫民窟地带"
+    },
+    {
+      "en": "town square",
+      "zh": "城镇广场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 133,
+      "desc": "城镇中心供社区集会的开放广场。",
+      "kw": "广场 / 市镇广场 / 城市广场 / 市集广场 / 公共广场 / 広场"
+    },
+    {
+      "en": "dam",
+      "zh": "水坝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "拦截或限制水流的人造屏障",
+      "kw": "大坝 / 堤坝 / 拦河坝 / 拦水坝 / 坝 / 堰 / 堤堰 / 挡水坝"
+    },
+    {
+      "en": "dock",
+      "zh": "码头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1422,
+      "desc": "供船舶停靠、装卸货物的水边结构。",
+      "kw": "船坞 / 港口 / 泊位 / 停靠码头 / 装卸码头 / 船码头 / 港区 / 埠头"
+    },
+    {
+      "en": "drydock",
+      "zh": "干船坞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "shipyard",
+      "zh": "造船厂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "建造和修理船只的场所",
+      "kw": "修船厂 / 船坞 / 船舶修造厂 / 造船所"
+    },
+    {
+      "en": "horse racing track",
+      "zh": "赛马场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 922,
+      "desc": "专为赛马修建的赛道或场地。",
+      "kw": "赛马跑道 / 竞马场 / 马场 / 跑马场 / 赛马赛道 / 赛马场跑道 / 场景 / 赛道 / 競馬場 / トラック"
+    },
+    {
+      "en": "jetty",
+      "zh": "防波堤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 77,
+      "desc": "从岸边伸入水中的实心码头，可泊船或改变水流。",
+      "kw": "防波堤码头 / 突堤 / 石堤码头 / 堤坝码头"
+    },
+    {
+      "en": "farm",
+      "zh": "农场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 752,
+      "desc": "以农业生产为主的土地",
+      "kw": "农庄 / 农场庄园 / 农业园 / 田庄 / 场景 / 乡村 / 牧场 / 農場"
+    },
+    {
+      "en": "fountain",
+      "zh": "喷泉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2763,
+      "desc": "向上喷射水柱的装饰性喷泉，区别于饮水台",
+      "kw": "喷水池 / 喷水泉 / 人工喷泉 / 景观喷泉 / 喷水装置 / 景观 / 建筑 / 水景 / 喷水 / 噴水"
+    },
+    {
+      "en": "junkyard",
+      "zh": "废料场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 216,
+      "desc": "堆放废品的场所",
+      "kw": "废品场 / 废品堆放场 / 垃圾堆 / 废车场 / 场景 / 废墟 / landfill / scrapyard / wrecking yard"
+    },
+    {
+      "en": "market stall",
+      "zh": "摊位",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1273,
+      "desc": "集市或节庆上临时搭建的售货摊位。",
+      "kw": "摊档 / 摊子 / 摊贩 / 集市摊位 / 小摊 / 路边摊 / 售货摊 / stall / stall (market)"
+    },
+    {
+      "en": "marina",
+      "zh": "游艇码头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "maritime port",
+      "zh": "海港",
+      "rating": "g",
+      "nsfw": false,
+      "count": 119,
+      "desc": "设有港口可供船舶装卸货物的沿海城镇",
+      "kw": "港口城市 / 港城 / 港口 / 码头城市"
+    },
+    {
+      "en": "playground",
+      "zh": "儿童游乐场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1254,
+      "desc": "供儿童活动嬉戏的户外场地，常设秋千滑梯等",
+      "kw": "游戏场 / 游乐场地 / 操场 / 场景 / 户外 / 游具 / 运动场 / 遊び場 / 遊具"
+    },
+    {
+      "en": "parking garage",
+      "zh": "室内停车场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 123,
+      "desc": "建在建筑物内部或地下的室内停车场。",
+      "kw": "地下停车场 / 停车楼 / 停车场 / 车库 / 屋内停车场 / 驻车场 / 建筑 / 屋内驻车场"
+    },
+    {
+      "en": "parking lot",
+      "zh": "停车场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 714,
+      "desc": "商店、球场等场所外供人停车的公共场地。",
+      "kw": "露天停车场 / 停车区 / 泊车场 / 停车位 / 户外停车场 / 场景 / 都市 / car park / 驻车场 / 駐車場 / 주차장"
+    },
+    {
+      "en": "pier",
+      "zh": "栈桥",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1683,
+      "desc": "从岸边伸向水面的栈桥式平台。",
+      "kw": "码头 / 突堤 / 栈桥码头 / 突堤码头 / 场景 / 桟桥"
+    },
+    {
+      "en": "phone booth",
+      "zh": "电话亭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 918,
+      "desc": "内有公用电话的封闭式电话亭。",
+      "kw": "公用电话亭 / 公共电话亭 / 电话间 / 投币电话亭 / 电话亭子 / 建筑 / 设施 / phonebooth / telephone booth / 電話ボックス"
+    },
+    {
+      "en": "waterpark",
+      "zh": "水上乐园",
+      "rating": "g",
+      "nsfw": false,
+      "count": 338,
+      "desc": "设有水滑梯、造浪池等设施的水上乐园。",
+      "kw": "水乐园 / 水上公园 / 水上世界 / 戏水乐园 / 水上游乐园 / 游乐场所 / 夏季场景 / アクアパーク / ウォーターパーク"
+    },
+    {
+      "en": "racetrack",
+      "zh": "赛道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 680,
+      "desc": "供赛车竞速的赛道。",
+      "kw": "赛车场 / 竞速赛道 / 跑道 / 赛车道 / 场地 / サーキット"
+    },
+    {
+      "en": "railroad tracks",
+      "zh": "铁轨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3646,
+      "desc": "供列车行驶的铁轨。注意别与跑道混淆。",
+      "kw": "轨道 / 铁路轨道 / 铁路线 / 火车轨道 / 铁道路线 / 铁轨线 / 铁路 / train tracks / railroad / railway tracks / 线路"
+    },
+    {
+      "en": "railroad crossing",
+      "zh": "铁路道口",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1153,
+      "desc": "铁路与道路交叉的道口",
+      "kw": "铁路平交道 / 平交道口 / 道口 / 火车道口 / 铁道路口 / 铁路交叉口 / 铁路十字路口 / 铁路 / railway crossing / train crossing / 踏切"
+    },
+    {
+      "en": "dirt road",
+      "zh": "土路",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1083,
+      "desc": "未铺装的土路或碎石路，常见于乡村。",
+      "kw": "泥土路 / 泥路 / 土石路 / 碎石路 / 乡间土路 / 未铺装路 / 黄土路 / 地点 / dirt path"
+    },
+    {
+      "en": "highway",
+      "zh": "高速公路",
+      "rating": "g",
+      "nsfw": false,
+      "count": 642,
+      "desc": "多车道的高速公路",
+      "kw": "高速 / 高速路 / 公路 / 道路 / 场景 / 高速道路"
+    },
+    {
+      "en": "path",
+      "zh": "小径",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5754,
+      "desc": "供人步行的小路，如徒步小径、参道等。",
+      "kw": "小路 / 步道 / 山径 / 小道 / 人行道 / 参道 / 远足径 / 路径"
+    },
+    {
+      "en": "sidewalk",
+      "zh": "人行道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2962,
+      "desc": "道路旁供行人行走的铺装路。",
+      "kw": "步道 / 行人道 / 人行步道 / 行人路 / 便道 / 街道 / 背景 / 歩道"
+    },
+    {
+      "en": "stone walkway",
+      "zh": "石板路",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1010,
+      "desc": "由大块石板依次铺成的人行通道",
+      "kw": "石板小径 / 石板步道 / 石头路 / 石板道 / 石板铺路 / 石板走道 / 石块路 / 铺石路 / stone path"
+    },
+    {
+      "en": "running track",
+      "zh": "塑胶跑道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1673,
+      "desc": "供跑步比赛用的铺装跑道，画有分道线",
+      "kw": "田径跑道 / 赛跑跑道 / 运动场跑道 / 环形跑道 / 跑步道 / 竞技跑道 / 运动场 / track / 跑道（体育） / ランニングトラック / トラック"
+    },
+    {
+      "en": "shooting range",
+      "zh": "射击场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 155,
+      "desc": "供枪械射击训练的场地",
+      "kw": "靶场 / 射击训练场 / 打靶场 / 枪械射击场 / 场景 / 射撃场"
+    },
+    {
+      "en": "soccer field",
+      "zh": "足球场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 294,
+      "desc": "进行足球比赛的场地",
+      "kw": "足球场地 / 绿茵场 / 球场 / 英式足球场 / 体育场 / 场景"
+    },
+    {
+      "en": "trench",
+      "zh": "战壕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 254,
+      "desc": "一战中供步兵掩蔽的狭长壕沟",
+      "kw": "壕沟 / 战沟 / 堑壕 / 战壕沟 / 阵地壕 / 防御工事 / trenches / 塹壕"
+    },
+    {
+      "en": "tunnel",
+      "zh": "隧道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 891,
+      "desc": "穿过山体或地下的通道",
+      "kw": "地下通道 / 坑道 / 地下道 / 穿山隧道 / 场景 / 建筑 / トンネル / ちかどう / すいどう / うどう"
+    },
+    {
+      "en": "wharf",
+      "zh": "码头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 94,
+      "desc": "供船只停靠装卸货物的码头",
+      "kw": "货运码头 / 港口码头 / 泊位 / 趸船码头 / 突堤码头 / 船码头 / 装卸码头"
+    },
+    {
+      "en": "well",
+      "zh": "水井",
+      "rating": "g",
+      "nsfw": false,
+      "count": 598,
+      "desc": "为取地下水挖的洞，通常砌砖配吊桶",
+      "kw": "井 / 井口 / 水井口 / 古井 / 井台 / 井边 / 井栏 / 景观 / 井戸"
+    },
+    {
+      "en": "zoo",
+      "zh": "动物园",
+      "rating": "g",
+      "nsfw": false,
+      "count": 332,
+      "desc": "饲养并展示动物的动物园。",
+      "kw": "动物展示园 / 动物园场景 / 动物园背景 / 动物园区 / 野生动物园 / 场所 / 场景 / 動物園 / 동물원"
+    },
+    {
+      "en": "building",
+      "zh": "建筑物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 87030,
+      "desc": "人工建造的封闭固定结构，可居住或使用。",
+      "kw": "建筑 / 楼房 / 房屋 / 大楼 / 楼宇 / 房舍 / 建筑体 / 房子 / buildings / 建物 / ビル / 建築物"
+    },
+    {
+      "en": "control tower",
+      "zh": "管制塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 56,
+      "desc": "机场用于指挥飞机的地面控制塔。",
+      "kw": "塔台 / 指挥塔 / 机场塔台 / 航空管制塔"
+    },
+    {
+      "en": "apartment",
+      "zh": "公寓",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2165,
+      "desc": "大型住宅楼中的公寓",
+      "kw": "公寓楼 / 住宅楼 / 居民楼 / 单元房 / 套房 / 公寓住宅 / 集合住宅 / 筒子楼 / アパート / マンション"
+    },
+    {
+      "en": "ashiyu",
+      "zh": "足汤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 302,
+      "desc": "日本可以泡脚的温泉设施。",
+      "kw": "足浴 / 泡脚温泉 / 日式足汤 / 足部温泉 / 泡脚池 / 日本风 / 泡脚 / 足湯"
+    },
+    {
+      "en": "barn",
+      "zh": "谷仓",
+      "rating": "g",
+      "nsfw": false,
+      "count": 530,
+      "desc": "农场上用于存放农具和牲畜的谷仓，常漆成红色",
+      "kw": "粮仓 / 农仓 / 仓库 / 牛棚 / 马厩 / 农舍仓库 / 红色谷仓 / 建筑 / 厩舎 / 牛舎 / 畜舎 / 马小屋"
+    },
+    {
+      "en": "bunker",
+      "zh": "掩体",
+      "rating": "g",
+      "nsfw": false,
+      "count": 74,
+      "desc": "抵御轰炸与炮击的军用防御工事",
+      "kw": "地堡 / 碉堡 / 防空洞 / 防御工事 / 地下掩体 / 军事掩体"
+    },
+    {
+      "en": "bus stop",
+      "zh": "公交站",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2095,
+      "desc": "有站牌标志的公交车站",
+      "kw": "巴士站 / 公共汽车站 / 候车亭 / 公交车停靠站 / 场景 / 城市 / busstop / バス停"
+    },
+    {
+      "en": "construction site",
+      "zh": "施工现场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 408,
+      "desc": "正在施工建造的场所",
+      "kw": "建筑工地 / 施工场地 / 建设工地 / 工地现场 / 建筑现场 / 工程现场 / 建筑场景 / 工事现场 / 建设现场 / 工事現場 / 建設現場"
+    },
+    {
+      "en": "convention",
+      "zh": "漫展",
+      "rating": "g",
+      "nsfw": false,
+      "count": 456,
+      "desc": "动漫展等同好集会活动。",
+      "kw": "同人展 / 动漫展 / 动漫展会 / 同人志即卖会 / 即卖会 / ACG展会 / 活动 / 即売会"
+    },
+    {
+      "en": "garage",
+      "zh": "车库",
+      "rating": "g",
+      "nsfw": false,
+      "count": 411,
+      "desc": "用来停放汽车等机动车的建筑",
+      "kw": "停车库 / 汽车库 / 修车厂 / 车库场景 / 建筑 / 场景 / 室内"
+    },
+    {
+      "en": "gas station",
+      "zh": "加油站",
+      "rating": "g",
+      "nsfw": false,
+      "count": 297,
+      "desc": "为汽车、摩托车提供汽油的场所。",
+      "kw": "汽油站 / 油站 / 汽油加油站 / 加气站 / 建筑 / 场景 / petrol station / ガソリンスタンド / 주유소"
+    },
+    {
+      "en": "gazebo",
+      "zh": "凉亭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 540,
+      "desc": "公园或庭院中常为八边形、四面通透的亭子",
+      "kw": "亭子 / 园亭 / 八角亭 / 公园亭 / 四角亭 / 园林建筑 / 建筑 / 东屋 / ガゼボ / あずまや"
+    },
+    {
+      "en": "house",
+      "zh": "住宅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16940,
+      "desc": "一般供单户家庭居住的独立房屋建筑。",
+      "kw": "房屋 / 独栋房 / 民宅 / 家居房屋 / 独立住宅 / 屋子 / 独栋住宅 / houses / 家"
+    },
+    {
+      "en": "hotel",
+      "zh": "酒店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 367,
+      "desc": "提供住宿、餐饮等服务的场所。",
+      "kw": "旅馆 / 宾馆 / 饭店 / 旅店 / 住宿设施 / 建筑 / 场景 / ホテル"
+    },
+    {
+      "en": "motel",
+      "zh": "汽车旅馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34
+    },
+    {
+      "en": "hut",
+      "zh": "简陋小屋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 359,
+      "desc": "用泥土、树枝等自然材料搭成的简陋小屋",
+      "kw": "原始小屋 / 茅屋 / 草屋 / 窝棚 / 土屋 / 树枝屋 / 茅草屋"
+    },
+    {
+      "en": "industrial",
+      "zh": "工业风",
+      "rating": "g",
+      "nsfw": false,
+      "count": 669,
+      "desc": "以工厂或重工业环境为背景的设定",
+      "kw": "工业背景 / 重工业环境 / 工厂场景 / 工业设定 / 重工业风 / 工业废墟风格 / 工业建筑场景"
+    },
+    {
+      "en": "refinery",
+      "zh": "炼油厂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33
+    },
+    {
+      "en": "oil rig",
+      "zh": "钻井平台",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33
+    },
+    {
+      "en": "power plant",
+      "zh": "发电厂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30
+    },
+    {
+      "en": "nuclear powerplant",
+      "zh": "核电站",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40
+    },
+    {
+      "en": "cooling tower",
+      "zh": "冷却塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55,
+      "desc": "把废热排入大气的冷却塔",
+      "kw": "散热塔 / 凉水塔 / 冷却水塔"
+    },
+    {
+      "en": "warehouse",
+      "zh": "仓库",
+      "rating": "g",
+      "nsfw": false,
+      "count": 304,
+      "desc": "用于存放货物的大型建筑，常配有装卸台和货架。",
+      "kw": "货仓 / 库房 / 仓储建筑 / 厂房仓库 / 大型仓库 / 堆栈 / 建筑 / 场景 / 倉庫"
+    },
+    {
+      "en": "mall",
+      "zh": "购物中心",
+      "rating": "g",
+      "nsfw": false,
+      "count": 412,
+      "desc": "大型室内购物中心，通常有多家店铺和百货公司",
+      "kw": "商场 / 大型购物中心 / 购物广场 / 购物城 / 大型商场 / 建筑"
+    },
+    {
+      "en": "military base",
+      "zh": "军事基地",
+      "rating": "g",
+      "nsfw": false,
+      "count": 108,
+      "desc": "供军队驻扎训练、存放装备的设施",
+      "kw": "军事据点 / 军队基地 / 基地 / 地点 / 军事设施"
+    },
+    {
+      "en": "observatory",
+      "zh": "天文台",
+      "rating": "g",
+      "nsfw": false,
+      "count": 131,
+      "desc": "用于观测天文或自然现象的设施。",
+      "kw": "观测站 / 瞭望台 / 观象台 / 天文观测台 / 建筑 / 天文设施"
+    },
+    {
+      "en": "on roof",
+      "zh": "在屋顶上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1866,
+      "desc": "角色位于房屋等倾斜不可通行的屋顶上。",
+      "kw": "在斜屋顶上 / 屋顶上 / 站在屋顶 / 位于屋顶 / 场景 / 户外"
+    },
+    {
+      "en": "school gateway",
+      "zh": "校门",
+      "rating": "g",
+      "nsfw": false,
+      "count": 363,
+      "desc": "进入学校区域的正门，常有校名牌",
+      "kw": "学校大门 / 学校正门 / 校门口 / 校园大门 / 学校建筑 / 入口"
+    },
+    {
+      "en": "sewer",
+      "zh": "下水道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 265,
+      "desc": "排放污水和废水的下水道",
+      "kw": "排水沟 / 污水管 / 下水管道 / 阴沟 / 排污管道 / 排水管道 / 地下通道 / 环境"
+    },
+    {
+      "en": "skating rink",
+      "zh": "滑冰场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 305,
+      "desc": "可供滑冰的结冰水面或人造冰场",
+      "kw": "溜冰场 / 冰场 / 室内冰场 / 滑冰馆 / 溜冰馆 / 场景"
+    },
+    {
+      "en": "shack",
+      "zh": "简易棚屋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 205,
+      "desc": "用捡来的材料搭成的简陋小棚屋",
+      "kw": "棚屋 / 简易棚 / 木板棚 / 铁皮棚 / 破烂棚 / 贫民窟棚屋 / 临时棚 / 陋棚"
+    },
+    {
+      "en": "shed",
+      "zh": "储物棚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 244,
+      "desc": "主要用于存放物品或作业的小屋",
+      "kw": "棚 / 棚子 / 小屋 / 工具棚 / 仓房 / 库房 / 建筑"
+    },
+    {
+      "en": "shop",
+      "zh": "商店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8553,
+      "desc": "售卖特定商品的小店",
+      "kw": "小店 / 商铺 / 铺子 / 门市 / 建筑 / 场景 / shops / store / 店 / お店"
+    },
+    {
+      "en": "stable",
+      "zh": "马厩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 271,
+      "desc": "饲养马等家畜的建筑物。",
+      "kw": "马房 / 马棚 / 马舍 / 马圈 / 厩舍 / 马栏 / 养马场 / 马屋 / 厩舎 / 馬房"
+    },
+    {
+      "en": "stadium",
+      "zh": "体育场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3022,
+      "desc": "举办体育比赛或演唱会的大型场地。",
+      "kw": "运动场 / 大型体育场 / 竞技场 / 球场 / 体育场馆 / 露天体育场 / 看台体育场 / 场地 / スタジアム / 스타디움 / 體育場"
+    },
+    {
+      "en": "arena",
+      "zh": "竞技场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 347,
+      "desc": "四周有观众席的比赛场地。",
+      "kw": "斗技场 / 赛场 / 比赛场 / 角斗场 / 擂台 / 竞技场馆 / 场所 / 战斗场地 / 土俵 / 闘技场"
+    },
+    {
+      "en": "baseball stadium",
+      "zh": "棒球场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 802,
+      "desc": "专为棒球比赛建造的体育场",
+      "kw": "棒球体育场 / 棒球馆 / 野球场 / 球赛场地 / 运动场 / 球场 / 野球場 / やきゅうじょう / 球場"
+    },
+    {
+      "en": "stilt house",
+      "zh": "高脚屋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57,
+      "desc": "建在支柱上的房屋，防潮防洪",
+      "kw": "吊脚楼 / 高床建筑 / 高床式建筑 / 高架屋 / 桩上房屋 / 水上高脚屋 / 高脚楼 / 高床式 / 高床建物"
+    },
+    {
+      "en": "subway",
+      "zh": "地铁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 770,
+      "desc": "多建于地下的城市轨道交通系统",
+      "kw": "地下铁 / 地下铁路 / 地鐵 / 捷运 / 地下鐵 / 交通 / 场景 / 地下鉄"
+    },
+    {
+      "en": "subway entrance",
+      "zh": "地铁入口",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "subway station",
+      "zh": "地铁站",
+      "rating": "g",
+      "nsfw": false,
+      "count": 402,
+      "desc": "地铁系统中乘客上下车的车站",
+      "kw": "地铁车站 / 地下铁站 / 地铁站台 / 地铁站点 / 地铁站厅 / 交通设施 / 城市景观"
+    },
+    {
+      "en": "amphitheater",
+      "zh": "露天剧场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "tomb",
+      "zh": "坟墓",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46
+    },
+    {
+      "en": "bell tower",
+      "zh": "钟楼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 215,
+      "desc": "内悬可敲响的钟的塔楼，常见于教堂",
+      "kw": "钟塔 / 钟楼建筑 / 教堂钟楼 / 报时钟楼 / 建筑 / 塔楼"
+    },
+    {
+      "en": "clock tower",
+      "zh": "钟楼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2179,
+      "desc": "建有一个或多个钟面的塔楼",
+      "kw": "钟塔 / 时钟塔 / 报时钟楼 / 钟楼建筑 / 建筑 / 时计台 / 时计塔 / 時計塔 / 時計台"
+    },
+    {
+      "en": "watchtower",
+      "zh": "望楼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 100,
+      "desc": "军队或警察用于警戒瞭望的塔楼",
+      "kw": "岗楼 / 监视塔 / 警戒塔 / 瞭望楼 / 观察塔 / 哨塔 / 地点 / guard tower / guardtower / watch tower"
+    },
+    {
+      "en": "minaret",
+      "zh": "宣礼塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37
+    },
+    {
+      "en": "train station",
+      "zh": "火车站",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3277,
+      "desc": "列车停靠上下客货的铁路设施，含站台与站房。",
+      "kw": "车站 / 铁路站 / 列车站 / 火车站台 / 火车站房 / 铁路车站 / 场景 / 駅舎 / 駅"
+    },
+    {
+      "en": "train station platform",
+      "zh": "火车站台",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1048,
+      "desc": "火车站中乘客上下车的站台",
+      "kw": "站台 / 月台 / 火车月台 / 车站月台 / 交通 / 駅のホーム / プラットホーム"
+    },
+    {
+      "en": "treehouse",
+      "zh": "树屋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 353,
+      "desc": "建在树上或树枝间的建筑",
+      "kw": "树房子 / 树上小屋 / 树上房屋 / 树上木屋 / 建筑 / 房屋 / ツリーハウス"
+    },
+    {
+      "en": "cathedral",
+      "zh": "大教堂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 742,
+      "desc": "设有主教座的大教堂",
+      "kw": "主教座堂 / 大圣堂 / 圣堂 / 哥特式教堂 / 哥特教堂 / 建筑 / 宗教建筑 / 大聖堂 / カテドラル"
+    },
+    {
+      "en": "mosque",
+      "zh": "清真寺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36
+    },
+    {
+      "en": "pagoda",
+      "zh": "宝塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1329,
+      "desc": "亚洲常见的多层屋檐塔式建筑",
+      "kw": "佛塔 / 中国风 / 建筑"
+    },
+    {
+      "en": "synagogue",
+      "zh": "犹太教堂",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "architecture",
+      "zh": "建筑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22152,
+      "desc": "图中具有明确建筑风格的建筑或结构",
+      "kw": "建筑设计 / 特色建筑 / 建筑景观 / 建筑艺术 / 建筑物 / 背景 / 建築"
+    },
+    {
+      "en": "cityscape",
+      "zh": "城市景观",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24553,
+      "desc": "表现城市面貌的景观。",
+      "kw": "城市风景 / 都市风景 / 都市景观 / 城景 / 市景 / 都市风光 / 背景 / 都市 / 都市"
+    },
+    {
+      "en": "food stand",
+      "zh": "小吃摊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2365,
+      "desc": "可移动的食品摊位",
+      "kw": "饮食摊 / 路边摊 / 摊位 / 美食摊 / 餐饮 / 出店 / でみせ"
+    },
+    {
+      "en": "ice cream stand",
+      "zh": "冰淇淋摊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 129,
+      "desc": "售卖冰淇淋或刨冰的小摊位。",
+      "kw": "冰淇淋小摊 / 雪糕摊 / 冰淇淋摊位 / 刨冰摊 / 冰激凌摊 / 摊位 / 食物摊 / 街头摊"
+    },
+    {
+      "en": "yatai",
+      "zh": "屋台",
+      "rating": "g",
+      "nsfw": false,
+      "count": 720,
+      "desc": "日本街头售卖拉面等热食的小型移动摊车",
+      "kw": "日本路边摊 / 日本小吃摊 / 摊贩车 / 移动摊车 / 拉面摊 / 日本摊位 / 日本风格 / やたい"
+    },
+    {
+      "en": "starbucks",
+      "zh": "星巴克",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1546,
+      "desc": "美国国际连锁咖啡店品牌",
+      "kw": "星爸爸 / 星巴克咖啡 / 品牌 / 咖啡店 / スターバックス / スタバ"
+    },
+    {
+      "en": "7-eleven",
+      "zh": "7-Eleven",
+      "rating": "g",
+      "nsfw": false,
+      "count": 417,
+      "desc": "起源于美国德克萨斯州的国际连锁便利店品牌，在日本拥有庞大市场",
+      "kw": "711 / 7-11便利店 / 小七 / 便利店 / 711便利店 / セブンイレブン"
+    },
+    {
+      "en": "a&w",
+      "zh": "A&W",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29
+    },
+    {
+      "en": "black star burger",
+      "zh": "Black Star Burger（汉堡店）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "blake's lotaburger",
+      "zh": "Blake's Lotaburger（快餐）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "burger king",
+      "zh": "汉堡王",
+      "rating": "g",
+      "nsfw": false,
+      "count": 275,
+      "desc": "国际快餐连锁品牌，以汉堡为主打，吉祥物是国王",
+      "kw": "漢堡王 / BK / 品牌 / 快餐 / バーガーキング / 버거킹"
+    },
+    {
+      "en": "carl's jr.",
+      "zh": "卡乐星（Carl's Jr.）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "checkers and rally's",
+      "zh": "Checkers & Rally's（快餐）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "culver's",
+      "zh": "Culver's",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "dairy queen",
+      "zh": "冰雪皇后",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "domino's pizza",
+      "zh": "达美乐比萨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 118,
+      "desc": "1960年创立的美国披萨连锁品牌",
+      "kw": "达美乐 / 达美乐披萨 / 多米诺披萨 / 公司 / 品牌 / 食物 / 外卖 / 披萨"
+    },
+    {
+      "en": "good times burgers & frozen custard",
+      "zh": "Good Times 汉堡冻奶昔",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gyouza no manshuu",
+      "zh": "满洲饺子馆",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gyu-kaku",
+      "zh": "牛角烧肉",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "in-n-out burger",
+      "zh": "In-N-Out汉堡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35
+    },
+    {
+      "en": "jack in the box (restaurant)",
+      "zh": "Jack in the Box（餐厅）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10
+    },
+    {
+      "en": "jollibee",
+      "zh": "快乐蜂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 92,
+      "desc": "菲律宾的跨国连锁快餐企业，招牌为炸鸡与意大利面"
+    },
+    {
+      "en": "kfc",
+      "zh": "肯德基",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1404,
+      "desc": "以炸鸡为主的美国快餐连锁品牌",
+      "kw": "KFC / 开封菜 / 肯德基炸鸡 / 快餐 / 品牌 / 鸡肉 / kfc (company) / kentucky fried chicken / ケンタッキーフライドチキン"
+    },
+    {
+      "en": "little caesars",
+      "zh": "小凯撒披萨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29
+    },
+    {
+      "en": "mcdonald's",
+      "zh": "麦当劳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4709,
+      "desc": "国际快餐连锁品牌",
+      "kw": "金拱门 / M记 / 麦记 / 快餐店 / 品牌 / mcdonalds / マクドナルド"
+    },
+    {
+      "en": "mos burger",
+      "zh": "摩斯汉堡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33
+    },
+    {
+      "en": "papa john's",
+      "zh": "棒约翰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "pizza hut",
+      "zh": "必胜客",
+      "rating": "g",
+      "nsfw": false,
+      "count": 572,
+      "desc": "1958年创立的美国披萨连锁餐厅品牌",
+      "kw": "必胜客披萨 / 快餐 / 品牌 / ピザハット"
+    },
+    {
+      "en": "sonic's drive-in",
+      "zh": "Sonic 免下车快餐",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "subway (company)",
+      "zh": "赛百味",
+      "rating": "g",
+      "nsfw": false,
+      "count": 128,
+      "desc": "售卖潜艇三明治的美国快餐连锁店",
+      "kw": "赛百味快餐 / 赛百味三明治 / 赛百味潜艇堡 / 赛百味餐厅 / 赛百味 (公司) / 品牌 / 快餐"
+    },
+    {
+      "en": "taco bell",
+      "zh": "塔可钟",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46
+    },
+    {
+      "en": "tim hortons",
+      "zh": "Tim Hortons",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23
+    },
+    {
+      "en": "wendy's",
+      "zh": "温蒂汉堡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 370,
+      "desc": "美国的快餐连锁品牌，以方形汉堡与新鲜牛肉为特色",
+      "kw": "温蒂 / 品牌 / 快餐 / wendys / ウェンディーズ"
+    },
+    {
+      "en": "whataburger",
+      "zh": "Whataburger",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "mixue",
+      "zh": "蜜雪冰城",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34
+    },
+    {
+      "en": "bronze parrot",
+      "zh": "Bronze Parrot（餐厅）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 100,
+      "desc": "不二家经营的旧餐厅连锁，店员制服为白衬衫与红裙",
+      "kw": "布隆兹帕罗特 / 不二家餐厅制服 / ブロンズパロット / 食物 / 餐厅 / 女服务员 / 制服"
+    },
+    {
+      "en": "hooters",
+      "zh": "猫头鹰餐厅",
+      "rating": "s",
+      "nsfw": false,
+      "count": 811,
+      "desc": "美国连锁餐厅，以橙色制服女服务员闻名",
+      "kw": "呼特斯 / 餐厅 / 品牌 / pooters / フーターズ"
+    },
+    {
+      "en": "yoshinoya (restaurant)",
+      "zh": "吉野家",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30
+    },
+    {
+      "en": "location request",
+      "zh": "位置请求",
+      "rating": "g",
+      "nsfw": false,
+      "count": 133,
+      "desc": "请求为图片添加地点标签或识别现实地点",
+      "kw": "请求识别地点 / 地点标识请求 / 需要地点标签 / 地点未知 / 请求添加地点"
+    },
+    {
+      "en": "real world location",
+      "zh": "现实场景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4611,
+      "desc": "场景设定在现实中真实存在的地标或具体地点",
+      "kw": "真实地点 / 实景地点 / 实地取景 / 现实地标 / 真实世界地点 / 现实世界地标 / 现实场所 / googlemapの旅"
+    },
+    {
+      "en": "in-universe location",
+      "zh": "作品内场景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5062,
+      "desc": "游戏或动画中可辨认的虚构地点。",
+      "kw": "虚构场景 / 作品内地点 / 游戏场景 / 动画场景 / 剧内地点 / 场景 / 地点"
+    },
+    {
+      "en": "arc de triomphe",
+      "zh": "巴黎凯旋门",
+      "rating": "g",
+      "count": 132,
+      "desc": "巴黎凯旋门，为纪念奥斯特里茨胜利而建",
+      "kw": "凯旋门 / 雄狮凯旋门 / 星形广场凯旋门 / 巴黎大凯旋门 / 星形凯旋门 / 拿破仑地标"
+    },
+    {
+      "en": "arch",
+      "zh": "拱门",
+      "rating": "g",
+      "count": 6010,
+      "desc": "跨越空间、呈弧线形的拱形结构",
+      "kw": "拱 / 拱形 / 拱形结构 / 弧拱 / 拱券 / 拱形门 / 圆拱 / 弧形结构 / アーチ"
+    },
+    {
+      "en": "argentina",
+      "zh": "阿根廷",
+      "rating": "g",
+      "count": 387,
+      "desc": "与阿根廷相关的国旗、地点或文化梗图",
+      "kw": "阿根廷国旗 / 阿根廷元素 / 阿根廷人 / 阿国 / 阿根廷文化 / 真实地点 / 南美国家 / アルゼンチン"
+    },
+    {
+      "en": "australia",
+      "zh": "澳大利亚",
+      "rating": "g",
+      "count": 149,
+      "desc": "澳大利亚国家相关元素，如国旗、地点或文化梗",
+      "kw": "澳洲 / 澳大利亚联邦 / 大洋洲国家 / 土澳 / 袋鼠国 / 国家 / 地点"
+    },
+    {
+      "en": "aviation obstruction lighting",
+      "zh": "航空障碍灯",
+      "rating": "g",
+      "count": 722,
+      "desc": "高楼或塔架上防撞的高亮红色闪灯",
+      "kw": "航空警示灯 / 防撞灯 / 高空障碍灯 / 航标灯 / 航空障碍指示灯 / 障碍物警示灯 / 航空防撞灯 / 障碍灯 / aircraft warning lights / 航空障害灯"
+    },
+    {
+      "en": "bamboo fence",
+      "zh": "竹栅栏",
+      "rating": "g",
+      "count": 582,
+      "desc": "竹子制成的栅栏。",
+      "kw": "竹篱笆 / 竹围墙 / 竹围栏 / 竹栏 / 竹篱 / 围栏 / 建筑 / 中国风 / 竹垣"
+    },
+    {
+      "en": "barbed wire",
+      "zh": "带刺铁丝网",
+      "rating": "g",
+      "count": 2119,
+      "desc": "沿铁丝间隔带有尖刺或刀片的防护铁丝",
+      "kw": "有刺铁丝 / 铁丝网 / 刺铁丝 / 刀片刺网 / 尖刺铁丝网 / 围栏 / 防护 / razor wire / 有刺铁线 / 有刺鉄線"
+    },
+    {
+      "en": "basketball hoop",
+      "zh": "篮筐",
+      "rating": "g",
+      "count": 864,
+      "desc": "篮球运动中用于投篮得分的篮筐。",
+      "kw": "篮球框 / 篮球筐 / 投篮框 / 球篮 / 体育用品 / 篮球"
+    },
+    {
+      "en": "bench",
+      "zh": "长椅",
+      "rating": "g",
+      "count": 22363,
+      "desc": "可供多人并排坐的长椅",
+      "kw": "长凳 / 长椅凳 / 公园长椅 / 公共长椅 / 条凳 / 长条椅 / 座椅 / 家具 / ベンチ"
+    },
+    {
+      "en": "billboard",
+      "zh": "广告牌",
+      "rating": "g",
+      "count": 1396,
+      "desc": "立在路边的大型广告牌。",
+      "kw": "广告看板 / 看板 / 大型广告牌 / 路边广告牌 / 招牌看板 / 标牌 / 宣传 / 広告板 / かんばん / ビルボード / こうこくばん"
+    },
+    {
+      "en": "boom barrier",
+      "zh": "道闸横杆",
+      "rating": "g",
+      "count": 630,
+      "desc": "拦阻通行的道闸横杆",
+      "kw": "拦车杆 / 道闸 / 挡车杆 / 遮断机 / 栏杆机 / 关卡横杆 / 交通设施"
+    },
+    {
+      "en": "brazil",
+      "zh": "巴西",
+      "rating": "g",
+      "count": 636,
+      "desc": "南美洲国家巴西",
+      "kw": "巴西联邦共和国 / 国家 / 南美 / brazilian / ブラジル"
+    },
+    {
+      "en": "brick road",
+      "zh": "砖路",
+      "rating": "g",
+      "count": 824,
+      "desc": "用砖块铺成的道路",
+      "kw": "砖铺路 / 砖块路 / 红砖路 / 石砖路 / 砖砌路 / 铺砖路 / 路面"
+    },
+    {
+      "en": "burning building",
+      "zh": "燃烧的建筑",
+      "rating": "g",
+      "count": 440,
+      "desc": "正在燃烧的建筑",
+      "kw": "着火建筑 / 起火大楼 / 燃烧的大楼 / 火中建筑 / 建筑火灾 / 火灾 / 建筑物 / 场景"
+    },
+    {
+      "en": "bus stop shelter",
+      "zh": "公交候车亭",
+      "rating": "g",
+      "count": 943,
+      "desc": "公交站旁供候车遮阳避雨的亭子。",
+      "kw": "公交站棚 / 候车亭 / 巴士站遮棚 / 公车站候车亭 / 公交车站雨棚 / 巴士站候车亭 / 建筑 / 场景"
+    },
+    {
+      "en": "canada",
+      "zh": "加拿大",
+      "rating": "g",
+      "count": 175,
+      "desc": "北美洲国家。",
+      "kw": "加国 / 枫叶国 / 国家 / 地点 / カナダ"
+    },
+    {
+      "en": "chain-link fence",
+      "zh": "铁丝网围栏",
+      "rating": "g",
+      "count": 11768,
+      "desc": "钢丝编织的菱形网围栏",
+      "kw": "铁网 / 铁丝网 / 菱形网围栏 / 金属网围栏 / 钢丝网 / 链条围栏 / 铁丝网围墙 / 铁网栅栏 / chainlink fence / chain link fence / 金网 / 金網"
+    },
+    {
+      "en": "chimney",
+      "zh": "烟囱",
+      "rating": "g",
+      "count": 2460,
+      "desc": "屋顶排烟的竖直烟囱，圣诞老人由此进入",
+      "kw": "烟筒 / 烟突 / 屋顶烟囱 / 建筑 / 烟道 / 煙突"
+    },
+    {
+      "en": "china",
+      "zh": "中国",
+      "rating": "g",
+      "count": 660,
+      "desc": "指中国或中华文化圈。",
+      "kw": "中华人民共和国 / 中国大陆 / 中华 / 中国本土 / 真实地点 / people's republic of china / 中国共产党 / 中國 / 中華人民共和国"
+    },
+    {
+      "en": "chinese empire",
+      "zh": "古代中国",
+      "rating": "g",
+      "count": 348,
+      "desc": "1912年中华民国成立前的中国历史时期",
+      "kw": "中华帝国 / 中国王朝 / 帝制中国 / 中国帝国 / 封建中国 / 历代中国 / 中国风 / 历史 / 中華帝国 / 春秋戦国 / 五代十国 / 五代十国時代"
+    },
+    {
+      "en": "cobblestone",
+      "zh": "鹅卵石",
+      "rating": "g",
+      "count": 1674,
+      "desc": "用于铺路的圆形石块，比卵石大。",
+      "kw": "圆石 / 卵石 / 铺路石 / 小圆石 / 石子路 / 石头 / 路面 / 玉石"
+    },
+    {
+      "en": "coco's",
+      "zh": "Coco's餐厅",
+      "rating": "g",
+      "count": 646,
+      "desc": "日本连锁餐厅Coco's的制服、店铺与标志",
+      "kw": "日本家庭餐厅Coco's / Coco's制服 / Coco's店铺 / Coco's (餐厅) / 餐厅 / 日式 / ココス / ココス道"
+    },
+    {
+      "en": "colosseum",
+      "zh": "罗马斗兽场",
+      "rating": "g",
+      "count": 354,
+      "desc": "罗马市中心的大型圆形斗兽场",
+      "kw": "斗兽场 / 罗马竞技场 / 古罗马斗兽场 / 圆形竞技场 / 罗马圆形剧场 / 竞技场 / 古罗马 / 建筑 / coliseum / 闘技场 / コロシアム / 闘技場"
+    },
+    {
+      "en": "column",
+      "zh": "圆柱",
+      "rating": "g",
+      "count": 3870,
+      "desc": "带柱头柱基的装饰性圆柱",
+      "kw": "柱子 / 石柱 / 立柱 / 装饰柱 / 柱式 / 建筑圆柱 / 建筑 / 背景 / columns"
+    },
+    {
+      "en": "concert",
+      "zh": "音乐会",
+      "rating": "g",
+      "count": 3617,
+      "desc": "在观众面前进行的现场音乐演出。",
+      "kw": "演唱会 / 演奏会 / 现场演出 / 音乐现场 / 场景 / 活动 / musical performance / コンサート / ライブ"
+    },
+    {
+      "en": "crowded",
+      "zh": "拥挤",
+      "rating": "g",
+      "count": 517,
+      "desc": "人群密集、彼此间空间狭小的场景",
+      "kw": "人群拥挤 / 人山人海 / 人挤人 / 拥挤不堪 / 人多拥挤 / 密集人群 / 人群密集 / 场景 / 員電車"
+    },
+    {
+      "en": "deck chair",
+      "zh": "折叠躺椅",
+      "rating": "g",
+      "count": 961,
+      "desc": "布面或塑面可折叠的户外躺椅",
+      "kw": "躺椅 / 户外躺椅 / 沙滩椅 / 折叠椅 / 休闲躺椅 / 家具"
+    },
+    {
+      "en": "dilapidated",
+      "zh": "破旧",
+      "rating": "g",
+      "count": 502,
+      "desc": "因风化或破坏而显得破旧的建筑",
+      "kw": "破败 / 残破 / 破烂 / 荒废 / 陈旧 / 失修 / 摇摇欲坠 / 废墟"
+    },
+    {
+      "en": "drainpipe",
+      "zh": "排水管",
+      "rating": "g",
+      "count": 535,
+      "desc": "把雨水排走的排水管",
+      "kw": "雨水管 / 落水管 / 下水管 / 排水管道 / 雨水排水管 / 排水管槽 / 雨樋 / 雨樋 / 雨どい / 雨とい"
+    },
+    {
+      "en": "east asian architecture",
+      "zh": "东亚建筑",
+      "rating": "g",
+      "count": 17558,
+      "desc": "东亚传统风格的建筑。",
+      "kw": "东方建筑 / 日式建筑 / 中式建筑 / 和风建筑 / 古建筑 / 东亚传统建筑 / 日本建筑 / 中国建筑 / japanese architecture / chinese architecture / japanese house"
+    },
+    {
+      "en": "east germany",
+      "zh": "东德",
+      "rating": "g",
+      "count": 200,
+      "desc": "二战后的德意志民主共和国",
+      "kw": "德意志民主共和国 / 民主德国 / 东德意志 / 德国 / 历史国家 / german democratic republic"
+    },
+    {
+      "en": "egypt",
+      "zh": "埃及",
+      "rating": "g",
+      "count": 133,
+      "desc": "以古文明闻名的北非国家埃及",
+      "kw": "埃及风格 / 背景"
+    },
+    {
+      "en": "eiffel tower",
+      "zh": "埃菲尔铁塔",
+      "rating": "g",
+      "count": 524,
+      "desc": "为巴黎世博会建造的埃菲尔铁塔",
+      "kw": "巴黎铁塔 / 艾菲尔铁塔 / 巴黎埃菲尔铁塔 / 埃菲尔塔 / 铁塔 / 巴黎地标 / 建筑 / エッフェル塔"
+    },
+    {
+      "en": "elizabeth tower",
+      "zh": "伊丽莎白塔",
+      "rating": "g",
+      "count": 421,
+      "desc": "威斯敏斯特宫的大本钟钟楼",
+      "kw": "大本钟 / 大笨钟 / 威斯敏斯特宫钟楼 / 国会大厦钟楼 / 英国议会大厦钟楼 / 钟楼 / 建筑 / big ben / ビッグ・ベン / ビッグベン / エリザベス・タワー"
+    },
+    {
+      "en": "empty pool",
+      "zh": "空泳池",
+      "rating": "g",
+      "count": 652,
+      "desc": "抽干了水的泳池",
+      "kw": "空池 / 没水的泳池 / 干泳池 / 无水泳池 / 抽干水的泳池 / 泳池 / 场景 / プール掃除"
+    },
+    {
+      "en": "england",
+      "zh": "英格兰",
+      "rating": "g",
+      "count": 318,
+      "desc": "英国的构成国之一，位于大不列颠岛南部。",
+      "kw": "英国英格兰 / 大不列颠英格兰 / 英伦 / 英格兰地区 / 英吉利 / 英国 / 欧洲 / 国家 / イングランド"
+    },
+    {
+      "en": "european architecture",
+      "zh": "欧式建筑",
+      "rating": "g",
+      "count": 1298,
+      "desc": "采用欧洲传统风格建造的建筑。",
+      "kw": "欧洲建筑 / 欧风建筑 / 欧式风格建筑 / 西欧建筑 / 欧陆建筑 / 西方建筑 / 欧洲古典建筑 / 欧洲传统建筑"
+    },
+    {
+      "en": "fare gate",
+      "zh": "检票闸机",
+      "rating": "g",
+      "count": 261,
+      "desc": "车站限制无票者进入的闸机",
+      "kw": "闸机 / 检票闸门 / 自动检票机 / 自动改札机 / 改札机 / 改札口 / 验票闸机 / 验票闸门 / 改札機 / 自動改札機"
+    },
+    {
+      "en": "finland",
+      "zh": "芬兰",
+      "rating": "g",
+      "count": 162,
+      "desc": "北欧国家芬兰",
+      "kw": "芬兰共和国 / 国家"
+    },
+    {
+      "en": "fire hydrant",
+      "zh": "消防栓",
+      "rating": "g",
+      "count": 356,
+      "desc": "供消防取水的消防栓",
+      "kw": "消火栓 / 灭火栓 / 消防水栓 / 消防龙头 / 防火栓 / 城市设施 / 消防设备"
+    },
+    {
+      "en": "flagpole",
+      "zh": "旗杆",
+      "rating": "g",
+      "count": 944,
+      "desc": "悬挂旗帜的竖杆",
+      "kw": "旗竿 / 旗帜杆 / 挂旗杆 / 升旗杆 / 杆子 / 旗帜配件"
+    },
+    {
+      "en": "flight deck",
+      "zh": "飞行甲板",
+      "rating": "g",
+      "count": 5300,
+      "desc": "航空母舰上供飞机起降的甲板",
+      "kw": "航母甲板 / 航空甲板 / 舰船 / 军事 / 飛行甲板 / 비행갑판"
+    },
+    {
+      "en": "france",
+      "zh": "法国",
+      "rating": "g",
+      "count": 649,
+      "desc": "描绘法国或其文化地标的作品",
+      "kw": "法兰西 / 法兰西共和国 / 法国背景 / 国家 / 欧洲 / 仏国 / フランス"
+    },
+    {
+      "en": "fushimi inari taisha",
+      "zh": "伏见稻荷大社",
+      "rating": "g",
+      "count": 100,
+      "desc": "京都以千本鸟居闻名的伏见稻荷大社",
+      "kw": "伏见稻荷神社 / 稻荷大社 / 京都伏见稻荷 / 真实地点 / 神社 / 千本鸟居"
+    },
+    {
+      "en": "gas pump",
+      "zh": "加油机",
+      "rating": "g",
+      "count": 146,
+      "desc": "给车辆加注汽油的加油设备",
+      "kw": "加油泵 / 汽油加油机 / 油泵 / 燃油加油机 / 加油站油枪 / 泵 / 设施 / 汽车"
+    },
+    {
+      "en": "gate",
+      "zh": "大门",
+      "rating": "g",
+      "count": 3352,
+      "desc": "设在围墙或围栏上的大型出入门",
+      "kw": "门 / 城门 / 门扉 / 大门口 / 闸门 / 铁门 / 围墙门 / 建筑 / 門"
+    },
+    {
+      "en": "germany",
+      "zh": "德国",
+      "rating": "g",
+      "count": 833,
+      "desc": "现代德国及其文化与地标。",
+      "kw": "德意志 / 德国联邦共和国 / 德意志联邦共和国 / 德国文化象征 / 真实地点 / 欧洲国家 / 德国文化 / 独逸 / ドイツ連邦共和国 / ドイツ"
+    },
+    {
+      "en": "gothic architecture",
+      "zh": "哥特式建筑",
+      "rating": "g",
+      "count": 588,
+      "desc": "中世纪盛行、常见于大教堂的建筑风格",
+      "kw": "哥特建筑 / 哥德式建筑 / 哥德建筑 / 建筑 / 哥特风"
+    },
+    {
+      "en": "grate",
+      "zh": "格栅",
+      "rating": "g",
+      "count": 719,
+      "desc": "由平行铁条构成、可透光透水的格栅。",
+      "kw": "格栅板 / 铁格栅 / 栅格 / 篦子 / 排水格栅 / 栅栏 / 围栏 / 建筑"
+    },
+    {
+      "en": "greece",
+      "zh": "希腊",
+      "rating": "g",
+      "count": 163,
+      "desc": "欧洲东南部的国家希腊",
+      "kw": "希腊共和国 / 希腊王国 / 希腊国 / 希国 / 希腊风光 / 希腊场景 / 希腊背景 / 国家 / greek / greek art / ギリシャ / ギリシャ共和国"
+    },
+    {
+      "en": "hokkaido prefecture",
+      "zh": "北海道",
+      "rating": "g",
+      "count": 216,
+      "desc": "日本最北端、面积最大的都道府县",
+      "kw": "日本北海道 / 北海道地区 / 真实地点 / 日本 / 札幌 / hokkaido"
+    },
+    {
+      "en": "hong kong",
+      "zh": "香港",
+      "rating": "g",
+      "count": 163,
+      "desc": "中国香港特别行政区，以霓虹与密集高楼闻名",
+      "kw": "香港特别行政区 / 中国香港 / 港 / 中国城市 / 亚洲地点 / heungkong"
+    },
+    {
+      "en": "indonesia",
+      "zh": "印度尼西亚",
+      "rating": "g",
+      "count": 187,
+      "desc": "东南亚国家，由众多岛屿组成。",
+      "kw": "印尼 / 印度尼西亚共和国 / 千岛之国 / 国家 / 东南亚 / インドネシア"
+    },
+    {
+      "en": "industrial pipe",
+      "zh": "工业管道",
+      "rating": "g",
+      "count": 4247,
+      "desc": "输送水、燃气或油等的工业管道",
+      "kw": "工业管 / 工业管子 / 输水管 / 输气管 / 工业配管 / 金属管道 / 工厂管道 / 管道 / pipes / pipe (plumbing) / water pipe / pipe (industrial)"
+    },
+    {
+      "en": "iron fence",
+      "zh": "铁栅栏",
+      "rating": "g",
+      "count": 751,
+      "desc": "用铁制成的栅栏，多带竖条或花纹装饰。",
+      "kw": "铁围栏 / 铁栅 / 铁栏杆 / 铁栏栅 / 铁护栏 / 栅栏 / 围栏"
+    },
+    {
+      "en": "ishikawa prefecture",
+      "zh": "石川县",
+      "rating": "g",
+      "count": 221,
+      "desc": "日本北陆地方的一个县",
+      "kw": "石川 / 石川縣 / 日本 / 地名"
+    },
+    {
+      "en": "israel",
+      "zh": "以色列",
+      "rating": "g",
+      "count": 119,
+      "desc": "中东国家以色列。",
+      "kw": "以色列国 / 以色列地区 / 中东国家以色列 / Israel / 国旗 / 大卫之星 / 中东国家"
+    },
+    {
+      "en": "italy",
+      "zh": "意大利",
+      "rating": "g",
+      "count": 605,
+      "desc": "欧洲国家意大利相关的内容",
+      "kw": "意国 / 意呆利 / 国家 / 欧洲 / italia / イタリア"
+    },
+    {
+      "en": "japan",
+      "zh": "日本",
+      "rating": "g",
+      "count": 1392,
+      "desc": "以日本这个国家为中心的内容，如国旗、地标、文化元素等",
+      "kw": "日本国 / 霓虹 / 11区 / 东瀛 / 扶桑 / 日之本 / 日本风格 / 背景 / 일본"
+    },
+    {
+      "en": "kamakura (city)",
+      "zh": "镰仓（城市）",
+      "rating": "g",
+      "count": 100,
+      "desc": "日本神奈川县的镰仓市",
+      "kw": "镰仓 / 镰仓市 / 日本镰仓 / 镰仓 (城市) / 神奈川县 / 历史城市"
+    },
+    {
+      "en": "kanagawa prefecture",
+      "zh": "神奈川县",
+      "rating": "g",
+      "count": 158,
+      "desc": "日本关东地方的一级行政区，紧邻东京",
+      "kw": "神奈川 / 日本神奈川 / 神奈川地区 / 真实地点 / 关东地区 / 横滨 / kanagawa / 神奈川県"
+    },
+    {
+      "en": "kanazawa (city)",
+      "zh": "金泽（城市）",
+      "rating": "g",
+      "count": 161,
+      "desc": "日本石川县县厅所在地金泽市",
+      "kw": "金泽市 / 金沢市 / 日本金泽 / 石川县金泽 / 金泽 (城市) / 地点 / 日本"
+    },
+    {
+      "en": "kobe",
+      "zh": "神户",
+      "rating": "g",
+      "count": 100,
+      "desc": "日本兵库县港口城市神户",
+      "kw": "神户市 / 日本神户 / 神戸 / 兵库县 / 真实地点 / 神戸市"
+    },
+    {
+      "en": "korea",
+      "zh": "韩国",
+      "rating": "g",
+      "count": 192,
+      "desc": "韩国、朝鲜等朝鲜半岛相关内容。",
+      "kw": "朝鲜 / 北韩 / 南韩 / 朝鲜半岛 / 韩半岛 / 高丽 / 南北朝鲜 / 韩风 / 朝鮮 / 한국"
+    },
+    {
+      "en": "kyoto (city)",
+      "zh": "京都市",
+      "rating": "g",
+      "count": 441,
+      "desc": "位于日本本州岛中部的城市，人口接近150万。曾是日本一千多年的首都，现在是京都府的首府，位于关西地区，也是京阪神都市圈的重要组成部分。",
+      "kw": "京都 / 日本京都 / 京都城 / 京都府京都市 / 西京"
+    },
+    {
+      "en": "london",
+      "zh": "伦敦",
+      "rating": "g",
+      "count": 260,
+      "desc": "英国首都伦敦",
+      "kw": "英国伦敦 / 大伦敦 / 伦敦市 / 英国首都 / 不列颠首都 / 城市 / 英国 / ロンドン / 倫敦"
+    },
+    {
+      "en": "mailbox (incoming mail)",
+      "zh": "收件信箱",
+      "rating": "g",
+      "count": 861,
+      "desc": "住宅或商铺外用于投递信件的实体邮箱",
+      "kw": "收件邮箱 / 信箱 / 邮箱 / 收信箱 / 住宅信箱 / 信箱（收件） / 邮筒 / 设施 / mailbox / letterbox (object) / 郵便受け"
+    },
+    {
+      "en": "manhole cover",
+      "zh": "人孔盖",
+      "rating": "g",
+      "count": 652,
+      "desc": "盖住人孔开口的金属盖板，常有花纹",
+      "kw": "井盖 / 下水道盖 / 排水盖 / 马路井盖 / 检修孔盖 / 窨井盖 / 人孔井盖 / 市政设施 / マンホールの蓋"
+    },
+    {
+      "en": "mexico",
+      "zh": "墨西哥",
+      "rating": "g",
+      "count": 720,
+      "desc": "与墨西哥国家及其文化相关的图",
+      "kw": "墨西哥风格 / 墨西哥风情 / 墨西哥裔 / 墨西哥人 / 国家 / 地理 / mexican / メキシコ / メキシカン / メキシコ人"
+    },
+    {
+      "en": "mitsukoshi (department store)",
+      "zh": "三越（百货商店）",
+      "rating": "g",
+      "count": 259,
+      "desc": "总部位于东京的国际连锁百货公司三越",
+      "kw": "三越百货 / 三越百货店 / 三越商店 / 日本三越 / 三越百货商店 / 三越百货公司 / 三越 (百货公司) / 百货商店 / 三越"
+    },
+    {
+      "en": "moai",
+      "zh": "摩艾石像",
+      "rating": "g",
+      "count": 307,
+      "desc": "复活节岛巨型石像，表情常被用于面无表情梗。",
+      "kw": "摩艾像 / 复活节岛石像 / 摩埃石像 / 莫埃石像 / 石像 / 雕塑 / 文化遗产 / モアイ像 / モアイ"
+    },
+    {
+      "en": "multiple torii",
+      "zh": "多座鸟居",
+      "rating": "g",
+      "count": 1419,
+      "desc": "多座鸟居排列，常形成神社参道隧道。",
+      "kw": "千本鸟居 / 成排鸟居 / 鸟居群 / 鸟居隧道 / 连续鸟居 / 数座鸟居 / 多个鸟居 / 日本风格"
+    },
+    {
+      "en": "netherlands",
+      "zh": "荷兰",
+      "rating": "g",
+      "count": 125,
+      "desc": "位于西欧的国家荷兰",
+      "kw": "尼德兰 / 荷兰王国 / 荷蘭 / 真实地点 / 国家 / 欧洲"
+    },
+    {
+      "en": "new york city",
+      "zh": "纽约市",
+      "rating": "g",
+      "count": 430,
+      "desc": "美国纽约州最大城市。",
+      "kw": "纽约 / 纽约城 / 纽约都会区 / 纽约市（美国） / 城市 / 美国 / 背景 / new york / ニューヨーク"
+    },
+    {
+      "en": "no entry sign",
+      "zh": "禁止驶入标志",
+      "rating": "g",
+      "count": 632,
+      "desc": "红圈横杠的禁止驶入交通标志",
+      "kw": "禁止进入标志 / 禁止驶入交通标志 / 禁止通行标志 / 禁入标志 / 禁止进入警示牌 / 标志 / 交通标志 / 车両进入禁止 / 車両進入禁止"
+    },
+    {
+      "en": "no parking sign",
+      "zh": "禁止停车标志",
+      "rating": "g",
+      "count": 314,
+      "desc": "表示禁止停车的交通标志。",
+      "kw": "禁止停车标识 / 禁停标志 / 禁止停车牌 / 禁止泊车标志 / 不准停车标志 / 禁停标识 / 交通标志 / 路牌 / 驻车禁止 / 駐車禁止"
+    },
+    {
+      "en": "norway",
+      "zh": "挪威",
+      "rating": "g",
+      "count": 135,
+      "desc": "位于北欧斯堪的纳维亚半岛的国家挪威",
+      "kw": "挪威王国 / 挪威国 / 北欧挪威 / 真实地点 / 斯堪的纳维亚 / 北欧国家"
+    },
+    {
+      "en": "okinawa prefecture",
+      "zh": "冲绳县",
+      "rating": "g",
+      "count": 120,
+      "desc": "日本最南端的冲绳县，也常关联琉球文化",
+      "kw": "冲绳 / 琉球 / 琉球群岛 / 冲绳地区 / 琉球王国 / 真实地点 / 那霸 / okinawa / 冲縄"
+    },
+    {
+      "en": "one way sign",
+      "zh": "单行路标志",
+      "rating": "g",
+      "count": 121,
+      "desc": "指示道路只允许单向通行的交通标志",
+      "kw": "单行道标志 / 单向行驶标志 / 单行线标志 / 单行标志 / 单向通行标志 / 单行路标 / 单行道路标 / 单行道标 / 一方通行"
+    },
+    {
+      "en": "ooarai (ibaraki)",
+      "zh": "大洗（茨城）",
+      "rating": "g",
+      "count": 104,
+      "desc": "茨城县的大洗町，《少女与战车》的主要取景地",
+      "kw": "大洗町 / 茨城县大洗 / 大洗地区 / 大洗（茨城县） / 大洗镇 / 少女与战车 / 茨城县"
+    },
+    {
+      "en": "osaka (city)",
+      "zh": "大阪（城市）",
+      "rating": "g",
+      "count": 192,
+      "desc": "日本关西地区的主要城市大阪",
+      "kw": "大阪 / 大阪市 / 日本大阪 / 日本 / 城市 / 地点"
+    },
+    {
+      "en": "paris",
+      "zh": "巴黎",
+      "rating": "g",
+      "count": 224,
+      "desc": "法国首都，有埃菲尔铁塔等标志建筑。",
+      "kw": "法国巴黎 / 巴黎市 / 光之城 / 帕里斯 (Fate) / Fate / 英灵 / パリ"
+    },
+    {
+      "en": "park bench",
+      "zh": "公园长椅",
+      "rating": "g",
+      "count": 3914,
+      "desc": "设在公园里的长椅",
+      "kw": "公园长凳 / 公园椅 / 公园座椅 / 长椅 / 公园木椅 / 家具 / 户外"
+    },
+    {
+      "en": "pavement",
+      "zh": "石板路",
+      "rating": "g",
+      "count": 3173,
+      "desc": "用石块铺成的路面。",
+      "kw": "石铺路面 / 铺石路 / 石头路面 / 石块路 / 石板地面 / 石铺地面 / 石路 / 路面 / 石畳"
+    },
+    {
+      "en": "pavilion",
+      "zh": "亭子",
+      "rating": "g",
+      "count": 671,
+      "desc": "开放式结构的独立亭阁建筑",
+      "kw": "凉亭 / 亭阁 / 楼阁 / 亭台"
+    },
+    {
+      "en": "payphone",
+      "zh": "公用电话",
+      "rating": "g",
+      "count": 767,
+      "desc": "投入硬币使用的公共电话",
+      "kw": "公共电话 / 投币电话 / 付费电话 / 电话亭电话 / 公用電話 / 公共電話 / 电话 / 物品 / 公众电话 / 公衆電話"
+    },
+    {
+      "en": "pedestrian crossing sign",
+      "zh": "人行横道标志",
+      "rating": "g",
+      "count": 115,
+      "desc": "提示前方有人行横道的交通标志",
+      "kw": "行人过街标志 / 人行道标志 / 斑马线标志 / 行人过路标志 / 过街人行道标志 / 符号 / 象征 / 路标"
+    },
+    {
+      "en": "philippines",
+      "zh": "菲律宾",
+      "rating": "g",
+      "count": 164,
+      "desc": "菲律宾相关的事物",
+      "kw": "菲律宾相关 / 菲律宾风格 / 菲律宾元素 / 菲律宾背景 / 菲律宾服饰 / 菲律宾场景 / 国家 / 东南亚 / pilipinas"
+    },
+    {
+      "en": "planter",
+      "zh": "花箱",
+      "rating": "g",
+      "count": 537,
+      "desc": "户外大型长方形种植容器",
+      "kw": "花槽 / 种植箱 / 长花盆 / 园艺花箱 / 户外花盆 / 植物箱 / 花器 / 花盆 / flower box"
+    },
+    {
+      "en": "poland",
+      "zh": "波兰",
+      "rating": "g",
+      "count": 177,
+      "desc": "欧洲国家波兰",
+      "kw": "波兰共和国 / 波兰国 / 波国 / 国家 / 欧洲"
+    },
+    {
+      "en": "pool ladder",
+      "zh": "泳池扶梯",
+      "rating": "g",
+      "count": 3987,
+      "desc": "安装在泳池边供人上下的扶梯",
+      "kw": "游泳池梯子 / 泳池梯 / 泳池阶梯 / 泳池爬梯 / 池边梯子 / 泳池扶手梯 / 泳池 / 设施"
+    },
+    {
+      "en": "porch",
+      "zh": "门廊",
+      "rating": "g",
+      "count": 1632,
+      "desc": "房屋前带顶棚的门廊",
+      "kw": "前廊 / 门厅 / 屋前门廊 / 带顶门廊 / 建筑 / 场景"
+    },
+    {
+      "en": "postbox (outgoing mail)",
+      "zh": "邮筒（寄出邮件）",
+      "rating": "g",
+      "count": 702,
+      "desc": "街边供投递寄出邮件的邮筒",
+      "kw": "邮筒 / 寄信邮筒 / 投递邮筒 / 邮局邮筒 / 红色邮筒 / 街边邮筒 / 邮便箱 / 设施 / postbox / mail collection box / 郵便ポスト"
+    },
+    {
+      "en": "power lines",
+      "zh": "输电线",
+      "rating": "g",
+      "count": 14621,
+      "desc": "由电线杆或铁塔架设的输电电线",
+      "kw": "电线 / 电缆 / 供电线 / 高压线 / 电力线 / 送电线 / 电塔线 / 电杆线 / power line / 送電線 / 電線"
+    },
+    {
+      "en": "radio tower",
+      "zh": "无线电塔",
+      "rating": "g",
+      "count": 322,
+      "desc": "支撑广播通信天线的铁塔",
+      "kw": "广播塔 / 无线电铁塔 / 天线塔 / 信号塔 / 电波塔 / 建筑 / 塔"
+    },
+    {
+      "en": "railing",
+      "zh": "栏杆",
+      "rating": "g",
+      "count": 35040,
+      "desc": "沿走道、桥梁等设置的防护栏杆。",
+      "kw": "扶手 / 护栏 / 围栏 / 栏杆扶手 / 栅栏 / 栏杆柱 / 建筑 / 手すり"
+    },
+    {
+      "en": "road sign",
+      "zh": "道路标志",
+      "rating": "g",
+      "count": 9433,
+      "desc": "立在路边向驾驶员指示路况的标志",
+      "kw": "路标 / 交通标志 / 路牌 / 指示牌 / 道路指示牌 / 标牌 / roadsign / traffic sign / street sign / 道路标识"
+    },
+    {
+      "en": "rubble",
+      "zh": "瓦砾",
+      "rating": "g",
+      "count": 4165,
+      "desc": "废墟或破坏后堆积的碎石碎砖",
+      "kw": "碎石 / 碎砖 / 建筑残骸 / 废墟 / 瓦砾堆 / 残垣断壁 / 残骸 / 瓦礫"
+    },
+    {
+      "en": "running bond",
+      "zh": "错缝砌砖",
+      "rating": "g",
+      "count": 5219,
+      "desc": "砖块逐排错开半块的常见砌墙方式。",
+      "kw": "顺砖错缝 / 交错砌砖 / 错缝砖墙 / 错缝铺砖 / 砖块错缝 / 顺砌法 / 建筑 / 砖墙"
+    },
+    {
+      "en": "russia",
+      "zh": "俄罗斯",
+      "rating": "g",
+      "count": 860,
+      "desc": "横跨欧亚的世界面积最大国家。",
+      "kw": "俄国 / 俄罗斯联邦 / 罗斯 / 国家 / 背景 / ロシア"
+    },
+    {
+      "en": "russian empire",
+      "zh": "俄罗斯帝国",
+      "rating": "g",
+      "count": 326,
+      "desc": "1721-1917年罗曼诺夫王朝统治的俄罗斯帝国",
+      "kw": "沙俄 / 帝俄 / 俄罗斯帝国时期 / 罗曼诺夫王朝 / 历史风格 / 俄罗斯风"
+    },
+    {
+      "en": "security shutter",
+      "zh": "卷帘门",
+      "rating": "g",
+      "count": 350,
+      "desc": "可卷下封闭店铺或建筑门窗的金属卷帘。",
+      "kw": "卷闸门 / 卷门 / 铁卷门 / 防盗卷帘 / 铁闸门 / 金属卷帘门 / 防盗卷帘门 / 建筑设施"
+    },
+    {
+      "en": "shibuya (tokyo)",
+      "zh": "涩谷（东京）",
+      "rating": "g",
+      "count": 516,
+      "desc": "东京以十字路口闻名的地区。",
+      "kw": "涩谷区 / 东京涩谷 / 涩谷街头 / 涩谷十字路口 / 东京涩谷区 / 涩谷地标 / 涩谷街 / 涩谷 (东京) / 涩谷 / 渋谷 / 渋谷区"
+    },
+    {
+      "en": "shibuya 109",
+      "zh": "涩谷109",
+      "rating": "g",
+      "count": 201,
+      "desc": "涩谷的109百货大楼",
+      "kw": "涩谷109百货 / 109百货 / 涩谷一零九 / 涩谷109大厦 / 涩谷109购物中心 / 日本 / 地点 / 购物"
+    },
+    {
+      "en": "shinjuku (tokyo)",
+      "zh": "新宿",
+      "rating": "g",
+      "count": 225,
+      "desc": "东京都厅所在的新宿区",
+      "kw": "东京新宿 / 新宿区 / 新宿 (东京) / 地点 / 城市 / 日本"
+    },
+    {
+      "en": "shooting gallery",
+      "zh": "打靶游戏摊",
+      "rating": "g",
+      "count": 178,
+      "desc": "节庆上用玩具枪射击靶子的游戏摊位",
+      "kw": "射击游戏摊 / 打靶摊 / 气枪打靶 / 射靶游戏摊 / 打枪游戏 / 射击摊位 / 射靶摊 / 打气球摊 / 射的"
+    },
+    {
+      "en": "signpost",
+      "zh": "指路牌",
+      "rating": "g",
+      "count": 940,
+      "desc": "立柱式指示方向/距离的牌子。",
+      "kw": "路标 / 方向牌 / 道路指示牌 / 指路标 / 指示牌 / 场景物品 / 道标 / 道標 / 道しるべ"
+    },
+    {
+      "en": "skyline",
+      "zh": "天际线",
+      "rating": "g",
+      "count": 4091,
+      "desc": "城市建筑在天空背景下形成的天际轮廓。",
+      "kw": "城市天际线 / 城市轮廓 / 天际轮廓 / 高楼天际线 / 城市景观 / 背景 / city skyline"
+    },
+    {
+      "en": "smokestack",
+      "zh": "烟囱",
+      "rating": "g",
+      "count": 5573,
+      "desc": "机车、船只或工厂排烟的直立烟囱。",
+      "kw": "烟筒 / 排烟管 / 烟突 / 烟囱管 / 船烟囱 / 建筑部件 / ship funnel"
+    },
+    {
+      "en": "south korea",
+      "zh": "韩国",
+      "rating": "g",
+      "count": 103,
+      "desc": "位于朝鲜半岛南部的国家",
+      "kw": "大韩民国 / 南韩 / 南朝鲜 / 真实地点 / 国家 / 东亚"
+    },
+    {
+      "en": "soviet",
+      "zh": "苏联",
+      "rating": "g",
+      "count": 1346,
+      "desc": "与苏联或苏维埃相关的服装、符号、背景等。",
+      "kw": "苏联的 / 苏维埃 / 苏维埃联盟 / 苏联风格 / 苏联相关 / 真实地点 / 冷战 / soviet union / ussr / ソビエト連邦 / ソビエト"
+    },
+    {
+      "en": "spain",
+      "zh": "西班牙",
+      "rating": "g",
+      "count": 236,
+      "desc": "位于欧洲西南部伊比利亚半岛的国家",
+      "kw": "西班牙王国 / 西国 / 国家 / 欧洲 / スペイン"
+    },
+    {
+      "en": "speed limit sign",
+      "zh": "速度限制标志",
+      "rating": "g",
+      "count": 249,
+      "desc": "标示车辆最高限速的道路标志",
+      "kw": "限速标志 / 最高限速标志 / 限速牌 / 最高速度标志 / 限速路标 / 交通标志 / 路牌 / 标示 / 最高速度"
+    },
+    {
+      "en": "starting block",
+      "zh": "游泳出发台",
+      "rating": "g",
+      "count": 597,
+      "desc": "游泳比赛出发时蹬踏的台子",
+      "kw": "出发台 / 起跳台 / 跳台 / 游泳起跳台 / 起跑器 / 体育器材 / 田径"
+    },
+    {
+      "en": "statue",
+      "zh": "雕像",
+      "rating": "g",
+      "count": 9476,
+      "desc": "写实的人、动物或神祇立体雕塑",
+      "kw": "雕塑 / 塑像 / 石像 / 铜像 / 神像 / 人像雕塑 / 艺术品 / 彫像"
+    },
+    {
+      "en": "statue of liberty",
+      "zh": "自由女神像",
+      "rating": "g",
+      "count": 351,
+      "desc": "纽约港自由岛上的自由女神像。",
+      "kw": "自由女神 / 自由女神铜像 / 自由神像 / 纽约自由女神 / 自由女神雕像 / 雕塑 / 地标 / 自由の女神 / 自由の女神像"
+    },
+    {
+      "en": "steel beam",
+      "zh": "钢梁",
+      "rating": "g",
+      "count": 607,
+      "desc": "建筑工地使用的钢梁",
+      "kw": "钢桁架 / 工字钢 / H型钢 / 铁梁 / 建筑钢梁 / 钢材梁 / 铁骨 / 建筑材料 / girder"
+    },
+    {
+      "en": "stone lantern",
+      "zh": "石灯笼",
+      "rating": "g",
+      "count": 2593,
+      "desc": "日式石制灯笼，常见于寺院、神社与庭院。",
+      "kw": "石灯 / 石灯篭 / 石灯籠 / 日式石灯笼 / 庭院石灯 / 和风 / 园林灯"
+    },
+    {
+      "en": "stone wall",
+      "zh": "石墙",
+      "rating": "g",
+      "count": 3616,
+      "desc": "用天然石块砌成的墙。",
+      "kw": "石头墙 / 石壁 / 岩墙 / 石砌墙 / 墙壁 / 建筑 / 石垣"
+    },
+    {
+      "en": "stop sign",
+      "zh": "停止标志",
+      "rating": "g",
+      "count": 1047,
+      "desc": "写有“停止”或“STOP”字样的红色交通标志",
+      "kw": "停止牌 / 停车标志 / 停牌 / 停止路牌 / 红色停止标志 / 交通标志 / 路标 / 一时停止 / 一時停止 / 止まれ"
+    },
+    {
+      "en": "storefront",
+      "zh": "店面",
+      "rating": "g",
+      "count": 1838,
+      "desc": "商店或餐馆正面的入口处。",
+      "kw": "商店门面 / 店铺正面 / 店头 / 商店入口 / 门面 / 商店 / 建筑 / 店先 / 店前"
+    },
+    {
+      "en": "sweden",
+      "zh": "瑞典",
+      "rating": "g",
+      "count": 238,
+      "desc": "北欧斯堪的纳维亚半岛国家",
+      "kw": "瑞典王国 / 国家 / 欧洲 / スウェーデン"
+    },
+    {
+      "en": "swing set",
+      "zh": "秋千架",
+      "rating": "g",
+      "count": 904,
+      "desc": "由金属或木制框架和一个以上秋千组成的游乐设施",
+      "kw": "秋千 / 荡秋千架 / 秋千设施 / 游乐设施 / 户外"
+    },
+    {
+      "en": "tactile paving",
+      "zh": "盲道",
+      "rating": "g",
+      "count": 982,
+      "desc": "带凸条纹路、供视障人士辨识方向的路面，多见于车站路口",
+      "kw": "导盲砖 / 触觉铺路 / 触觉地砖 / 盲人砖 / 盲道砖 / 点字砖 / 无障碍引导砖 / 视障引导砖 / 点字ブロック"
+    },
+    {
+      "en": "taiwan",
+      "zh": "台湾",
+      "rating": "g",
+      "count": 350,
+      "desc": "位于东亚的台湾岛及其相关主题",
+      "kw": "台湾岛 / 台湾省 / 宝岛台湾 / 台岛 / 台湾地区 / 中国台湾 / 地名 / 亚洲 / republic of china (post-1949) / 中华民国 / 臺灣 / 台灣"
+    },
+    {
+      "en": "tennis court",
+      "zh": "网球场",
+      "rating": "g",
+      "count": 705,
+      "desc": "被球网分隔的网球场地",
+      "kw": "网球场地 / 网球球场 / 网球场区 / 网球场馆 / 运动场 / 场景"
+    },
+    {
+      "en": "thailand",
+      "zh": "泰国",
+      "rating": "g",
+      "count": 131,
+      "desc": "与泰国相关的图片",
+      "kw": "泰王国 / 泰国相关 / 泰兰德 / 国家 / 东南亚"
+    },
+    {
+      "en": "tile roof",
+      "zh": "瓦屋顶",
+      "rating": "g",
+      "count": 1051,
+      "desc": "用陶土瓦片铺设的屋顶",
+      "kw": "瓦片屋顶 / 陶瓦屋顶 / 瓦屋面 / 青瓦屋顶 / 筒瓦屋顶 / 瓦顶 / 建筑 / 中国风 / 瓦屋根"
+    },
+    {
+      "en": "tokyo",
+      "zh": "东京",
+      "rating": "g",
+      "count": 1824,
+      "desc": "日本首都及都市圈",
+      "kw": "东京都 / 日本东京 / 东京地区 / 东京市 / 日本首都"
+    },
+    {
+      "en": "tokyo (city)",
+      "zh": "东京",
+      "rating": "g",
+      "count": 1745,
+      "desc": "日本的首都，也是世界上人口最多的城市",
+      "kw": "日本城市 / 都市"
+    },
+    {
+      "en": "tokyo big sight",
+      "zh": "东京国际展示场",
+      "rating": "g",
+      "count": 618,
+      "desc": "东京台场的会展中心，Comiket举办地。",
+      "kw": "东京国际展览中心 / 东京国际展览馆 / 东京国际展示中心 / 台场国际展示场 / 东京国际展示场 (Big Sight) / 建筑 / 会场 / 東京ビッグサイト / 東京国際展示場"
+    },
+    {
+      "en": "tokyo skytree",
+      "zh": "东京晴空塔",
+      "rating": "g",
+      "count": 220,
+      "desc": "高634米的东京电波塔，日本最高建筑。",
+      "kw": "晴空塔 / 东京天空树 / 天空树 / 新东京铁塔 / 建筑 / 地标 / 日本 / 東京スカイツリー / スカイツリー"
+    },
+    {
+      "en": "tokyo tower",
+      "zh": "东京塔",
+      "rating": "g",
+      "count": 625,
+      "desc": "1958年建成的红白配色东京塔",
+      "kw": "东京铁塔 / 红白东京塔 / 日本东京塔 / 地标 / 建筑 / 日本 / 東京タワー"
+    },
+    {
+      "en": "tombstone",
+      "zh": "墓碑",
+      "rating": "g",
+      "count": 5219,
+      "desc": "坟墓旁的石头标记",
+      "kw": "墓石 / 石碑 / 墓碑石 / 墓标 / 坟碑 / 墓牌 / 纪念墓碑 / 坟墓 / gravestone / headstone / grave stone"
+    },
+    {
+      "en": "traffic cone",
+      "zh": "交通锥",
+      "rating": "g",
+      "count": 2641,
+      "desc": "放在路上临时引导车流的锥形标志，多为红白色",
+      "kw": "路锥 / 雪糕筒 / 锥形交通标 / 红白锥 / 安全锥 / 反光锥 / 交通路锥 / 道路用品 / traffic cones / road cone / pylon (traffic) / カラーコーン"
+    },
+    {
+      "en": "traffic light",
+      "zh": "红绿灯",
+      "rating": "g",
+      "count": 3939,
+      "desc": "路口控制车辆通行的信号灯",
+      "kw": "交通灯 / 信号灯 / 交通信号灯 / 红绿信号灯 / 红绿灯信号 / 交通号志 / 红绿灯号志 / 马路红绿灯 / traffic lights / stoplight / traffic signal / 信号"
+    },
+    {
+      "en": "traffic mirror",
+      "zh": "道路广角镜",
+      "rating": "g",
+      "count": 772,
+      "desc": "装在盲区急弯处的凸面广角反光镜",
+      "kw": "广角镜 / 转弯镜 / 凸面镜 / 道路反光镜 / 弯道反光镜 / 路口反光镜 / 交通反光镜 / 交通设施 / カーブミラー"
+    },
+    {
+      "en": "transmission tower",
+      "zh": "输电铁塔",
+      "rating": "g",
+      "count": 1073,
+      "desc": "支撑高压电线的钢架铁塔。",
+      "kw": "送电塔 / 高压电塔 / 电力铁塔 / 电线塔 / 铁塔 / 输电塔 / 电力塔 / 电力设施 / electricity pylon / 送电铁塔 / 鉄塔 / 送電鉄塔"
+    },
+    {
+      "en": "ukraine",
+      "zh": "乌克兰",
+      "rating": "g",
+      "count": 564,
+      "desc": "东欧国家乌克兰",
+      "kw": "乌克兰国 / 乌国 / 国家 / 地名 / ukrayina / ウクライナ"
+    },
+    {
+      "en": "united kingdom",
+      "zh": "英国",
+      "rating": "g",
+      "count": 484,
+      "desc": "英国，即大不列颠及北爱尔兰联合王国",
+      "kw": "大不列颠 / 联合王国 / 不列颠 / 英伦三岛 / 大不列颠及北爱尔兰联合王国 / 国家 / 英式 / british / イギリス"
+    },
+    {
+      "en": "united states",
+      "zh": "美国",
+      "rating": "g",
+      "count": 1380,
+      "desc": "涉及美国的图，如美国国旗、地标或政客",
+      "kw": "美利坚合众国 / 美利坚 / 美帝 / 灯塔国 / 山姆大叔 / 米国 / 国家 / 美式 / usa (country) / america (country) / united states of america / america"
+    },
+    {
+      "en": "utility pole",
+      "zh": "电线杆",
+      "rating": "g",
+      "count": 12691,
+      "desc": "支撑架空电线与线缆的立柱",
+      "kw": "电杆 / 电线柱 / 电缆杆 / 电话线杆 / 输电杆 / 水泥电杆 / 电灯柱 / 电线杆子 / telephone pole / power pole / 电信柱 / 电柱"
+    },
+    {
+      "en": "vending machine",
+      "zh": "自动售货机",
+      "rating": "g",
+      "count": 4813,
+      "desc": "投币后自动出货的售货机",
+      "kw": "自动贩卖机 / 售货机 / 贩卖机 / 自贩机 / 自动售卖机 / 投币售货机 / 街头设施 / 机器 / 自动贩売机 / 自動販売機 / 自販機"
+    },
+    {
+      "en": "venice",
+      "zh": "威尼斯",
+      "rating": "g",
+      "count": 244,
+      "desc": "意大利东北部以运河和贡多拉闻名的城市",
+      "kw": "水城 / 威尼斯水城 / 意大利威尼斯 / 威尼斯城 / 城市 / 意大利 / venezia / ベニス / ベネチア / ヴェネツィア"
+    },
+    {
+      "en": "vietnam",
+      "zh": "越南",
+      "rating": "g",
+      "count": 207,
+      "desc": "东南亚国家越南",
+      "kw": "越南社会主义共和国 / 越南地区 / 越 / 国家 / 东南亚 / ベトナム / 베트남"
+    },
+    {
+      "en": "water slide",
+      "zh": "水上滑梯",
+      "rating": "g",
+      "count": 776,
+      "desc": "带水流的水上滑梯",
+      "kw": "水滑梯 / 滑水道 / 水上滑道 / 水道滑梯 / 水上乐园滑梯 / 游乐设施 / 滑梯"
+    },
+    {
+      "en": "wind turbine",
+      "zh": "风力发电机",
+      "rating": "g",
+      "count": 1172,
+      "desc": "塔状金属结构、带大型叶片的风力发电装置",
+      "kw": "风力涡轮机 / 风力发电机组 / 风力涡轮 / 风车 / 风力发电塔 / 风电机 / 风机 / 机械 / 风力原动机 / 风力発电机 / 風力発電機 / 風力タービン"
+    },
+    {
+      "en": "wooden bench",
+      "zh": "木长凳",
+      "rating": "g",
+      "count": 1355,
+      "desc": "木制长凳，常见于公园或庭院",
+      "kw": "木质长椅 / 木制长凳 / 公园长椅 / 木板凳 / 家具 / 座椅"
+    },
+    {
+      "en": "wooden fence",
+      "zh": "木栅栏",
+      "rating": "g",
+      "count": 4046,
+      "desc": "用木头搭建的栅栏",
+      "kw": "木围栏 / 木头栅栏 / 木栅 / 栅栏 / 木制 / 背景"
+    },
+    {
+      "en": "yokohama",
+      "zh": "横滨",
+      "rating": "g",
+      "count": 170,
+      "desc": "日本神奈川县的城市",
+      "kw": "横浜 / 横滨市 / 横浜市 / 地点 / 日本"
+    }
+  ]
+}

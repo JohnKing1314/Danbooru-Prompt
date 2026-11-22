@@ -1,0 +1,636 @@
+{
+  "id": "penis",
+  "name": "男性生殖器",
+  "icon": "🍆",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 19,
+  "file": "character_base/character_base_penis.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "hair on penis",
+      "zh": "阴毛",
+      "rating": "q",
+      "nsfw": true,
+      "count": 181,
+      "desc": "头发搭在阴茎上的状态",
+      "kw": "头发搭在阴茎 / 发丝落在阴茎 / 头发覆盖阴茎 / 头发垂在肉棒 / 发丝搭在肉棒 / 头发落在肉棒上 / 阴茎上的毛"
+    },
+    {
+      "en": "bulge",
+      "zh": "裆部鼓起",
+      "rating": "q",
+      "nsfw": true,
+      "count": 48890,
+      "desc": "衣服下阴茎或睾丸形成的凸起。",
+      "kw": "裆部隆起 / 裤裆凸起 / 胯下鼓包 / 下体鼓起 / 阴茎轮廓 / 裤裆鼓包 / 凸起 / 男性隆起 / 巾着袋 / 形くっきりペニス"
+    },
+    {
+      "en": "penis",
+      "zh": "阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 614762,
+      "desc": "男性生殖器官",
+      "kw": "丁丁 / 鸡巴 / 肉棒 / 男根 / 阳具 / 命根子 / 小弟弟 / 老二 / cock / dicks / dick / cocks"
+    },
+    {
+      "en": "testicles",
+      "zh": "睾丸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 146330,
+      "desc": "位于阴囊内的男性生殖器官，俗称蛋蛋。",
+      "kw": "蛋蛋 / 蛋 / 卵蛋 / 阴囊 / 春袋 / 金玉 / 精巢 / 外肾 / balls / 里玉 / 金玉妊娠 / キンタマ"
+    },
+    {
+      "en": "erection",
+      "zh": "勃起",
+      "rating": "q",
+      "nsfw": true,
+      "count": 157803,
+      "desc": "阴茎勃起状态。",
+      "kw": "阴茎勃起 / 硬了 / 挺立 / 勃起状态 / 下面硬了 / 鸡巴勃起 / 一柱擎天 / 昂首挺立 / erect penis / 剥けチン"
+    },
+    {
+      "en": "penis focus",
+      "zh": "男性部位特写",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1025,
+      "desc": "画面主要聚焦于角色的阴茎",
+      "kw": "生殖器特写 / 鸡巴特写 / 肉棒特写 / 男根特写 / 丁丁特写 / 特写 / 成人"
+    },
+    {
+      "en": "testicles focus",
+      "zh": "睾丸特写",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "panty bulge",
+      "zh": "内裤鼓起",
+      "rating": "q",
+      "nsfw": true,
+      "count": 228,
+      "desc": "内裤或比基尼上鼓起的阴茎轮廓",
+      "kw": "内裤鼓包 / 下体凸起 / 内裤顶起 / 裤裆隆起 / 内裤隆起 / 内裤 / 生理"
+    },
+    {
+      "en": "bulge focus",
+      "zh": "鼓起特写",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "foreskin",
+      "zh": "包皮",
+      "rating": "q",
+      "nsfw": true,
+      "count": 14112,
+      "desc": "覆盖龟头的包皮",
+      "kw": "包茎 / 未割包皮 / 包皮覆盖 / 龟头包皮 / 完整包皮 / 包皮过长 / 包皮未割 / 包皮裹头 / uncircumcised / 仮性包茎"
+    },
+    {
+      "en": "uncut",
+      "zh": "未割包皮",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "precum",
+      "zh": "前列腺液",
+      "rating": "q",
+      "nsfw": true,
+      "count": 25065,
+      "desc": "性兴奋时从阴茎流出的透明润滑液。",
+      "kw": "尿道球腺液 / 先走液 / 我慢汁 / 前液 / 兴奋液 / 预射液 / 先精 / ガマン汁 / 先走り汁 / カウパー"
+    },
+    {
+      "en": "extra penises",
+      "zh": "多阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 827,
+      "desc": "同一角色拥有多根阴茎",
+      "kw": "复数阴茎 / 复根 / 多根阴茎 / 双阴茎 / 生殖器 / multi cock / 额外阴茎 / 複根"
+    },
+    {
+      "en": "phimosis",
+      "zh": "包茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4570,
+      "desc": "包皮无法完全翻出龟头的状态。",
+      "kw": "包皮过长 / 包皮无法翻出 / 包皮口狭窄 / 包皮粘连 / 生理特征 / 半剥け"
+    },
+    {
+      "en": "flaccid",
+      "zh": "疲软",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8199,
+      "desc": "疲软、未勃起的阴茎",
+      "kw": "未勃起 / 软阴茎 / 软屌 / 疲软阴茎 / 未硬 / 阴茎 / 非勃起 / limp penis"
+    },
+    {
+      "en": "gigantic penis",
+      "zh": "巨型阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2226,
+      "desc": "与躯干相当、极其夸张的巨大阴茎",
+      "kw": "巨根 / 超巨大阴茎 / 大屌 / 巨屌 / 巨型阳具 / 超级巨根 / 生殖器 / 超根"
+    },
+    {
+      "en": "huge penis",
+      "zh": "巨根",
+      "rating": "q",
+      "nsfw": true,
+      "count": 17651,
+      "desc": "比小臂还长或粗的巨大阴茎，但小于躯干",
+      "kw": "巨屌 / 超粗大阴茎 / 大屌 / 巨棒 / 大型肉棒 / 大肉棒 / 超巨根 / 爆根 / 超根 / 極上の竿 / 巨根ショタ"
+    },
+    {
+      "en": "large penis",
+      "zh": "巨根",
+      "rating": "q",
+      "nsfw": true,
+      "count": 48166,
+      "desc": "比角色身体比例明显偏大的阴茎",
+      "kw": "大屌 / 大鸡巴 / 大肉棒 / 大丁丁 / 阴茎 / 巨大 / big penis"
+    },
+    {
+      "en": "small penis",
+      "zh": "小阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7460,
+      "desc": "明显小于成年男性平均尺寸的阴茎。",
+      "kw": "小丁丁 / 小鸡鸡 / 小弟弟 / 小肉棒 / 小阳具 / 短小阴茎 / 小几把 / 小分身 / little penis / 短小 / 粗チン"
+    },
+    {
+      "en": "veiny penis",
+      "zh": "青筋阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 43163,
+      "desc": "血管异常明显的阴茎。",
+      "kw": "暴筋阴茎 / 血管明显的阴茎 / 青筋暴起的阴茎 / 静脉凸显的阴茎 / 阴茎"
+    },
+    {
+      "en": "penis peek",
+      "zh": "阴茎微露",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2415,
+      "desc": "把内裤或衣服拉低，露出阴茎根部或部分柱身",
+      "kw": "阴茎露出根部 / 露鸟根部 / 露根 / 肉棒微露 / 阴茎半露 / 拉低内裤露阴茎 / 阴茎根部露出 / 丁丁微露 / 阴茎露出"
+    },
+    {
+      "en": "lipstick mark on penis",
+      "zh": "阴茎唇印",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2166,
+      "desc": "口交或亲吻后留在阴茎上的口红印",
+      "kw": "阴茎口红痕 / 鸡巴上的口红印 / 丁丁唇印 / 肉棒口红印 / 龟头唇印 / 口红痕迹 / 性标记"
+    },
+    {
+      "en": "lipstick ring",
+      "zh": "口红圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1457,
+      "desc": "口交在阴茎上留下的口红环",
+      "kw": "口红环 / 红唇印 / 唇印 / 口交唇印 / 口红印记 / 唇膏圈 / 唇膏戒指 / 首饰 / ルージュリング"
+    },
+    {
+      "en": "lipstick mark on testicles",
+      "zh": "睾丸上的唇印",
+      "rating": "q",
+      "nsfw": true,
+      "count": 977,
+      "desc": "口交或亲吻睾丸后留下的口红印。",
+      "kw": "蛋蛋上的口红印 / 睾丸口红印 / 阴囊口红痕 / 唇印 / 痕迹"
+    },
+    {
+      "en": "animal penis",
+      "zh": "兽茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 9342,
+      "desc": "图中出现的动物型阴茎。",
+      "kw": "动物型阴茎 / 兽根 / 动物生殖器 / 动物屌 / 身体部位 / 阴茎 / ケモチン"
+    },
+    {
+      "en": "dog penis",
+      "zh": "狗阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1935,
+      "desc": "狗的阴茎，常带龟头球或结。",
+      "kw": "犬阴茎 / 狗鞭 / 狗屌 / 犬鞭 / 狗生殖器 / 身体部位 / 阴茎 / 犬科 / canine penis"
+    },
+    {
+      "en": "dolphin penis",
+      "zh": "海豚生殖器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 97,
+      "desc": "海豚的阴茎这一部位",
+      "kw": "海豚屌 / 海豚鸡巴 / 海豚阳具 / 海豚肉棒 / 海豚下体 / 海豚性器 / 海豚阴茎部位"
+    },
+    {
+      "en": "horse penis",
+      "zh": "马阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4688,
+      "desc": "马的阴茎，多出现在人外或兽交题材中",
+      "kw": "马屌 / 马鞭 / 马鸡巴 / 马根 / 马吊 / 身体部位 / 阴茎 / 雄性生殖器 / horse cock / horsecock / 馬チンポ"
+    },
+    {
+      "en": "knotted penis",
+      "zh": "阴茎球腺",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2510,
+      "desc": "犬科等动物交配时膨大的阴茎球腺",
+      "kw": "打结的阴茎 / 阴茎球 / 龟头球 / 结 / 阴茎打结 / 身体部位 / 阴茎 / 犬科交配结 / 亀头球 / 亀頭球"
+    },
+    {
+      "en": "pig penis",
+      "zh": "猪阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 109,
+      "desc": "雄性猪的生殖器官",
+      "kw": "猪鞭 / 猪生殖器 / 猪阳具 / 猪屌 / 身体部位 / 动物生殖器"
+    },
+    {
+      "en": "snake penis",
+      "zh": "半阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 59,
+      "desc": "蛇的阴茎，生殖器的一种",
+      "kw": "蛇生殖器 / 蛇的阴茎 / 蛇阳具 / 蛇鞭"
+    },
+    {
+      "en": "spiked penis",
+      "zh": "带刺阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 814,
+      "desc": "长有尖刺、倒钩等突起的阴茎",
+      "kw": "尖刺丁丁 / 倒钩阴茎 / 刺状阴茎 / 棘刺阴茎 / 狼牙棒阴茎 / 生殖器 / 阴茎 / barbed penis / studded penis"
+    },
+    {
+      "en": "covered penis",
+      "zh": "衣物显露阴茎轮廓",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3138,
+      "desc": "衣物下可清晰看出阴茎形状",
+      "kw": "衣物透出阴茎 / 阴茎凸显 / 下体激凸 / 老二形状 / 肉棒透出 / 裤裆轮廓 / 裆部激凸 / 被覆盖的阴茎 / 形くっきりペニス"
+    },
+    {
+      "en": "erection under clothes",
+      "zh": "衣下勃起",
+      "rating": "q",
+      "nsfw": true,
+      "count": 16005,
+      "desc": "衣服下阴茎勃起、顶起布料",
+      "kw": "裤裆顶起 / 帐篷 / 裤裆隆起 / 裆部凸起 / 下体凸起 / 勃起顶衣 / 裤下勃起 / 勃起 / covered erection / もっこり / テントを張る"
+    },
+    {
+      "en": "disembodied penis",
+      "zh": "离体阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 9722,
+      "desc": "悬空漂浮、不连身体的阴茎",
+      "kw": "漂浮阴茎 / 脱离身体的阴茎 / 悬空鸡巴 / 无主阴茎 / 空中漂浮鸡巴 / 独立阴茎 / 阴茎 / 浮游器官 / magic penis / 离体阴茎"
+    },
+    {
+      "en": "prostate",
+      "zh": "前列腺",
+      "rating": "q",
+      "nsfw": true,
+      "count": 544,
+      "desc": "多数雄性哺乳动物分泌精液成分的腺体",
+      "kw": "摄护腺 / 前列腺器官 / 雄性前列腺 / 人体部位 / 前立腺"
+    },
+    {
+      "en": "pseudopenis",
+      "zh": "伪阴茎，假阴茎",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "covered testicles",
+      "zh": "遮盖的睾丸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2245,
+      "desc": "衣物下可看出睾丸形状",
+      "kw": "衣物下睾丸 / 睾丸被覆盖 / 裤下睾丸 / 睾丸轮廓 / 下体覆盖睾丸 / 睾丸裹住 / 睾丸被包住 / 被盖住的睾丸 / testicles under clothes"
+    },
+    {
+      "en": "small testicles",
+      "zh": "小睾丸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 594,
+      "desc": "尺寸偏小的睾丸",
+      "kw": "小蛋蛋 / 小蛋 / 小精巢 / 小蛋丸 / 小蛋子 / 小玉袋 / 睾丸 / 小美玉"
+    },
+    {
+      "en": "large testicles",
+      "zh": "大睾丸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4368,
+      "desc": "比正常偏大但未到巨大的睾丸",
+      "kw": "大蛋蛋 / 大卵蛋 / 大睾丸蛋 / 大蛋 / 大睾丸球 / 巨大睾丸 / 生殖器 / 夸张 / 巨玉"
+    },
+    {
+      "en": "huge testicles",
+      "zh": "巨大睾丸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3129,
+      "desc": "尺寸极大、比例夸张的睾丸，属尺寸分级标签",
+      "kw": "巨蛋 / 巨玉 / 爆玉 / 大睾丸 / 巨卵 / 大蛋蛋 / 大蛋 / 巨蛋蛋"
+    },
+    {
+      "en": "gigantic testicles",
+      "zh": "巨型睾丸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 540,
+      "desc": "比巨大睾丸更夸张、与身体比例严重失衡",
+      "kw": "巨大睾丸 / 超巨大睾丸 / 巨蛋 / 超大蛋蛋 / 巨型蛋蛋 / 睾丸 / 生殖器 / 超玉"
+    },
+    {
+      "en": "bouncing penis",
+      "zh": "阴茎弹跳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 803,
+      "desc": "角色阴茎随动作弹跳，常见于被插入时",
+      "kw": "丁丁弹跳 / 鸡儿跳动 / 阴茎晃动 / 男根弹跳 / 勃起弹跳 / 弹跳的阴茎 / 阴茎 / 动态 / 摇晃的阴茎 / ペニ分身"
+    },
+    {
+      "en": "bouncing testicles",
+      "zh": "睾丸弹跳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 665,
+      "desc": "睾丸随动作弹跳或摇晃。",
+      "kw": "弹跳的睾丸 / 睾丸摇晃 / 摇晃的睾丸 / 蛋蛋晃动 / 蛋蛋弹跳 / 睾丸 / 动态"
+    },
+    {
+      "en": "colored penis",
+      "zh": "异色阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1124,
+      "desc": "阴茎颜色与角色肤色不同",
+      "kw": "异色肉棒 / 彩色阴茎 / 非肤色阴茎 / 颜色异常阴茎 / 异色阳具 / 异色屌"
+    },
+    {
+      "en": "cum silk",
+      "zh": "精液拉丝",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "dark penis",
+      "zh": "深色阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2386,
+      "desc": "阴茎颜色比身体其他部位更深。",
+      "kw": "深色肉棒 / 黑色阴茎 / 黑阴茎 / 深色阳具 / 深色鸡巴 / 深色下体 / 暗色阴茎 / 阴茎 / black cock"
+    },
+    {
+      "en": "ejaculation under clothes",
+      "zh": "射精在衣服下",
+      "rating": "e",
+      "nsfw": true,
+      "count": 980,
+      "desc": "隔着衣服射精在裤子内",
+      "kw": "着衣内射 / 着衣射精 / 衣服内射精 / 裤内射精 / 射在衣服里 / 衣内射精 / 射精 / 着衣内射精"
+    },
+    {
+      "en": "excessive cum",
+      "zh": "超量射精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 4259,
+      "desc": "远超常理的巨量精液",
+      "kw": "巨量射精 / 大量精液 / 过量射精 / 精液过多 / 超多精液 / 过度射精 / 极大量精液 / 精液 / 大量射精 / 大量挟射 / 过量精液"
+    },
+    {
+      "en": "futa without balls",
+      "zh": "扶她无睾丸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2921,
+      "desc": "没有睾丸的扶她（双性）角色",
+      "kw": "无睾丸扶她 / 无蛋扶她 / 没睾丸的扶她 / 没有蛋蛋的扶她 / 无睾扶她 / 无球双性人 / 平滑裆部扶她 / 内阴扶她"
+    },
+    {
+      "en": "girthy penis",
+      "zh": "粗壮阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4962,
+      "desc": "阴茎直径明显粗于平均水平",
+      "kw": "粗阴茎 / 粗屌 / 粗肉棒 / 粗鸡巴 / 粗大阳具 / 粗壮阳物 / 粗大阴茎 / 生殖器 / thick penis"
+    },
+    {
+      "en": "invisible penis",
+      "zh": "透明阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2662,
+      "desc": "性交时隐去阴茎和男方身体，以便看清女方，常见于成人画作。",
+      "kw": "隐身阴茎 / 隐形阴茎 / 看不见的阴茎 / 无阴茎 / 隐匿阴茎 / 阴茎 / 生殖器 / invisicock"
+    },
+    {
+      "en": "large bulge",
+      "zh": "大包",
+      "rating": "s",
+      "count": 569,
+      "desc": "下体凸起明显大于一般水平",
+      "kw": "大鼓包 / 大帐篷 / 巨大凸起 / 大凸起 / 下体隆起 / 下面大包 / 鼓起大包 / 下体鼓起"
+    },
+    {
+      "en": "male pubic hair",
+      "zh": "男性阴毛",
+      "rating": "q",
+      "nsfw": true,
+      "count": 70999,
+      "desc": "男性角色下体阴毛的描绘。",
+      "kw": "男阴毛 / 男生阴毛 / 男性耻毛 / 男耻毛 / 阴毛 / 体毛 / pubic hair (male)"
+    },
+    {
+      "en": "multiple penises",
+      "zh": "多根阴茎包围",
+      "rating": "q",
+      "nsfw": true,
+      "count": 630,
+      "desc": "描绘多个阴茎的图像",
+      "kw": "阴茎 / 多重"
+    },
+    {
+      "en": "no testicles",
+      "zh": "无睾丸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3222,
+      "desc": "男性或扶她没有画出睾丸",
+      "kw": "没睾丸 / 没有睾丸 / 无蛋 / 没蛋 / 缺少睾丸 / 没有蛋蛋 / 未画睾丸 / 无睾丸状态"
+    },
+    {
+      "en": "penis in panties",
+      "zh": "内裤包裹阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1081,
+      "desc": "穿着内裤的阴茎露出或从内裤中探出。",
+      "kw": "阴茎从内裤露出 / 内裤里露阴茎 / 阴茎从内裤探出 / 内裤阴茎外露 / 阴茎在内裤外 / 内裤中的阴茎 / 内裤里的阴茎 / 生殖器"
+    },
+    {
+      "en": "penis out",
+      "zh": "露出阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4543,
+      "desc": "阴茎从衣物中露出",
+      "kw": "阴茎外露 / 鸡儿外露 / 露鸡 / 露鸟 / 露屌 / 吊外露 / 肉棒外露 / 丁丁外露 / penis outside"
+    },
+    {
+      "en": "penis out of frame",
+      "zh": "阴茎伸出画框",
+      "rating": "q",
+      "nsfw": true,
+      "count": 530,
+      "desc": "阴茎部分或全部被画面边缘裁掉",
+      "kw": "阴茎出画 / 阴茎超出画框 / 生殖器出框 / 下体伸出画框 / 阴茎在画面外 / 阴茎 / 画面外"
+    },
+    {
+      "en": "penis shadow",
+      "zh": "阴茎阴影",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1319,
+      "desc": "阴茎或类似形状物体投下的阴影，常落在脸上。",
+      "kw": "鸡巴影子 / 阳具阴影 / 阴茎的影子 / 棒状阴影 / 屌影子 / 阴茎 / 阴影"
+    },
+    {
+      "en": "penis size difference",
+      "zh": "阴茎尺寸差异",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4133,
+      "desc": "多个阴茎或凸起中一个明显更大。",
+      "kw": "生殖器尺寸差异 / 肉棒大小差 / 鸡儿大小差异 / 尺寸差 / 阳具大小差 / 阴茎尺寸差 / 尺寸差异 / 成人 / ちんこ比べ"
+    },
+    {
+      "en": "precum drip",
+      "zh": "前列腺液滴落",
+      "rating": "e",
+      "nsfw": true,
+      "count": 2934,
+      "desc": "前列腺液从阴茎滴落。",
+      "kw": "先走汁滴落 / 前列腺液滴 / 淫液滴落 / 前液滴落 / 兴奋液滴 / 阴茎滴液 / 尿道球腺液滴落 / 爱液滴落 / 滴落的先走汁"
+    },
+    {
+      "en": "precum string",
+      "zh": "前列腺液拉丝",
+      "rating": "q",
+      "nsfw": true,
+      "count": 822,
+      "desc": "在两点之间拉成丝的前列腺液",
+      "kw": "先走汁拉丝 / 前列腺液丝 / 前液拉丝 / 爱液拉丝 / 淫液拉丝 / 体液 / 色情 / precum trail"
+    },
+    {
+      "en": "precum through clothes",
+      "zh": "隔着衣服渗出前列腺液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 977,
+      "desc": "前列腺液多到透过衣物渗出。",
+      "kw": "前列腺液透衣 / 先走汁透衣服 / 先走汁浸透衣物 / 隔着裤子渗前列腺液 / 前列腺液渗透衣物 / 透过衣服的预射精 / 精液 / 成人 / 渗透衣服的先走汁"
+    },
+    {
+      "en": "prepuce",
+      "zh": "包皮",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3470,
+      "desc": "男性生殖器的包皮。",
+      "kw": "阴茎包皮 / 生殖器 / 男性生殖器"
+    },
+    {
+      "en": "projectile cum",
+      "zh": "精液飞射",
+      "rating": "e",
+      "nsfw": true,
+      "count": 12549,
+      "desc": "精液从阴茎射出并在空中飞行",
+      "kw": "射精液 / 精液射出 / 精液飞溅 / 精液喷射 / 射在空中 / 喷射射精 / 射精 / 液体 / 射精中 / 精液流 / 精液轨迹"
+    },
+    {
+      "en": "projectile cumdrip",
+      "zh": "喷射精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 634,
+      "desc": "从肛门或阴道口射出的空中精液流",
+      "kw": "飞溅精液 / 射精液 / 精液喷射 / 精液飞溅 / 喷出精液 / 射精液流 / 空中精液流 / 精液射出"
+    },
+    {
+      "en": "saliva on penis",
+      "zh": "阴茎上的唾液",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2260,
+      "desc": "阴茎上可见唾液，多因口交造成",
+      "kw": "阴茎上唾液 / 阳具上的唾液 / 口水在阴茎上 / 口交唾液残留 / 阴茎沾唾液 / 液体 / 成人"
+    },
+    {
+      "en": "smegma",
+      "zh": "包皮垢",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1112,
+      "desc": "包皮下积存的白色污垢",
+      "kw": "阴垢 / 耻垢 / 龟头垢 / 包皮污垢 / 陈年包皮垢 / 包皮泥 / 生理现象 / 成人 / チンカス / 恥垢 / チンカス掃除 / 髪コキチンカス掃除"
+    },
+    {
+      "en": "sperm cell",
+      "zh": "精子细胞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3059,
+      "desc": "人类或其他生物的精子细胞。",
+      "kw": "精子 / 精细胞 / 生殖细胞 / 精子形态 / 精虫"
+    },
+    {
+      "en": "twitching penis",
+      "zh": "抽搐的阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6088,
+      "desc": "因性兴奋而颤动搏动的阴茎",
+      "kw": "颤抖的阴茎 / 搏动的阴茎 / 跳动的阴茎 / 抖动阴茎 / 抽动阴茎 / 颤动的阴茎 / 阴茎抽搐 / 阴茎颤动 / trembling penis"
+    }
+  ]
+}

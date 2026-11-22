@@ -1,0 +1,415 @@
+{
+  "id": "honor_of_kings",
+  "name": "王者荣耀",
+  "parentId": "games",
+  "order": 6,
+  "file": "games/honor_of_kings.json",
+  "characters": [
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "貂蝉",
+      "tag": "diaochan (honor of kings)",
+      "charZh": "貂蝉（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;thighhighs|过膝袜;dress|连衣裙;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "孙尚香",
+      "tag": "lady sun (honor of kings)",
+      "charZh": "孙尚香（王者荣耀）",
+      "auto": "brown hair|棕发;twintails|双马尾;braid|麻花辫;ahoge|呆毛;thighhighs|过膝袜;bow|蝴蝶结;thigh boots|过膝靴",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "小乔",
+      "tag": "xiao qiao (honor of kings)",
+      "charZh": "小乔（王者荣耀）",
+      "auto": "hair bun|发髻;small breasts|小胸;double bun|双丸子头;fan|扇子;dress|连衣裙;thighhighs|过膝袜;ankle boots|短靴",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "大乔",
+      "tag": "da qiao (honor of kings)",
+      "charZh": "大乔（王者荣耀）",
+      "auto": "braid|麻花辫;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "上官婉儿",
+      "tag": "shangguan (honor of kings)",
+      "charZh": "上官婉儿（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;ponytail|马尾;hime cut|姬发式;high heels|高跟鞋;fan|扇子",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "诸葛亮",
+      "tag": "kongming (honor of kings)",
+      "charZh": "诸葛亮（王者荣耀）",
+      "auto": "curly hair|卷发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "李白",
+      "tag": "li bai (honor of kings)",
+      "charZh": "李白（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;ahoge|呆毛;trench coat|风衣",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "妲己",
+      "tag": "daji (honor of kings)",
+      "charZh": "妲己（王者荣耀）",
+      "auto": "pink hair|粉发;long hair|长发;doll|人偶;fox girl|狐娘;bangs|刘海;detached sleeves|分离袖;fox ears|狐耳",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "武则天",
+      "tag": "wu zetian (honor of kings)",
+      "charZh": "武则天（王者荣耀）",
+      "auto": "small breasts|小胸;long legs|长腿;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "杨玉环",
+      "tag": "yuhuan (honor of kings)",
+      "charZh": "杨玉环（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;plump|丰满",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "甄姬",
+      "tag": "lady zhen (honor of kings)",
+      "charZh": "甄姬（王者荣耀）",
+      "auto": "purple hair|紫发;high ponytail|高马尾;blue eyes|蓝瞳;melancholic|忧郁",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "虞姬",
+      "tag": "consort yu (honor of kings)",
+      "charZh": "虞姬（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "兰陵王",
+      "tag": "lanling wang (honor of kings)",
+      "charZh": "兰陵王（王者荣耀）",
+      "auto": "purple hair|紫发;long hair|长发;braid|麻花辫;forehead|额头;mask|口罩",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "嬴政",
+      "tag": "ying zheng (honor of kings)",
+      "charZh": "嬴政（王者荣耀）",
+      "auto": "white hair|白发;long hair|长发;golden eyes|金瞳;armor|盔甲;crown|王冠",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "白起",
+      "tag": "bai qi (honor of kings)",
+      "charZh": "白起（王者荣耀）",
+      "auto": "white hair|白发;short hair|短发;mask|口罩;cape|披风;armor|盔甲",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "狄仁杰",
+      "tag": "di renjie (honor of kings)",
+      "charZh": "狄仁杰（王者荣耀）",
+      "auto": "black hair|黑发;short hair|短发;detective|侦探",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "澜",
+      "tag": "lam (honor of kings)",
+      "charZh": "澜（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;scarf|围巾;detached sleeves|分离袖;tank top|背心",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "米莱狄",
+      "tag": "milady (honor of kings)",
+      "charZh": "米莱狄（王者荣耀）",
+      "auto": "blonde hair|金发;eyepatch|眼罩;thigh boots|过膝靴;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "雅典娜",
+      "tag": "athena (honor of kings)",
+      "charZh": "雅典娜（王者荣耀）",
+      "auto": "blonde hair|金发;long hair|长发;princess|公主",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "马可波罗",
+      "tag": "marco polo (honor of kings)",
+      "charZh": "马可波罗（王者荣耀）",
+      "auto": "blonde hair|金发;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "周瑜",
+      "tag": "zhou yu (honor of kings)",
+      "charZh": "周瑜（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;chinese clothes|中式服装",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "司马懿",
+      "tag": "sima yi (honor of kings)",
+      "charZh": "司马懿（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;yandere|病娇",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "马超",
+      "tag": "ma chao (honor of kings)",
+      "charZh": "马超（王者荣耀）",
+      "auto": "silver hair|银发;spiked hair|刺猬头;detached sleeves|分离袖;tank top|背心;helmet|头盔",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "孙策",
+      "tag": "sun ce (honor of kings)",
+      "charZh": "孙策（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;armor|盔甲",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "安琪拉",
+      "tag": "angela (honor of kings)",
+      "charZh": "安琪拉（王者荣耀）",
+      "auto": "twintails|双马尾;small breasts|小胸;bangs|刘海;hairband|发箍;gloves|手套;thighhighs|过膝袜;pleated skirt|百褶裙;glasses|眼镜;bow|蝴蝶结;blunt bangs|齐刘海",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "夏洛特",
+      "tag": "charlotte (honor of kings)",
+      "charZh": "夏洛特（王者荣耀）",
+      "auto": "blonde hair|金发;knight|骑士;armor|盔甲;gloves|手套;thigh boots|过膝靴",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "不知火舞",
+      "tag": "shiranui mai (honor of kings)",
+      "charZh": "不知火舞（王者荣耀）",
+      "auto": "black hair|黑发;ponytail|马尾;ninja|忍者;small breasts|小胸;folding fan|折扇",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "娜可露露",
+      "tag": "nakoruru (honor of kings)",
+      "charZh": "娜可露露（王者荣耀）",
+      "auto": "hime cut|姬发式;hairband|发箍;bow|蝴蝶结;dagger|匕首",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "嫦娥",
+      "tag": "chang'e (honor of kings)",
+      "charZh": "嫦娥（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;princess|公主",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "女娲",
+      "tag": "nuwa (honor of kings)",
+      "charZh": "女娲（王者荣耀）",
+      "auto": "white hair|白发;long hair|长发;high ponytail|高马尾",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "李信",
+      "tag": "li xin (honor of kings)",
+      "charZh": "李信（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;cape|披风;tattoo|纹身",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "亚连",
+      "tag": "allain (honor of kings)",
+      "charZh": "亚连（王者荣耀）",
+      "auto": "blonde hair|金发;short hair|短发;low ponytail|低马尾",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "朵莉亚",
+      "tag": "dolia (honor of kings)",
+      "charZh": "朵莉亚（王者荣耀）",
+      "auto": "blue hair|蓝发;long hair|长发;ahoge|呆毛;mermaid|人鱼",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "百里玄策",
+      "tag": "xuance (honor of kings)",
+      "charZh": "百里玄策（王者荣耀）",
+      "auto": "white hair|白发;short hair|短发;animal ears|兽耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "百里守约",
+      "tag": "shouyue (honor of kings)",
+      "charZh": "百里守约（王者荣耀）",
+      "auto": "white hair|白发;wolf ears|狼耳;wolf tail|狼尾;cape|披风;necklace|项链",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "弈星",
+      "tag": "yixing (honor of kings)",
+      "charZh": "弈星（王者荣耀）",
+      "auto": "silver hair|银发;low ponytail|低马尾;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "镜",
+      "tag": "jing (honor of kings)",
+      "charZh": "镜（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;armor|盔甲;blade|刀刃;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "瑶",
+      "tag": "yao (honor of kings)",
+      "charZh": "瑶（王者荣耀）",
+      "auto": "brown hair|棕发;long hair|长发;braid|麻花辫;cape|披风;small breasts|小胸;staff|法杖;angel|天使",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "赵云",
+      "tag": "zilong (honor of kings)",
+      "charZh": "赵云（王者荣耀）",
+      "auto": "brown hair|棕发",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "露娜",
+      "tag": "luna (honor of kings)",
+      "charZh": "露娜（王者荣耀）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "花木兰",
+      "tag": "hua mulan (honor of kings)",
+      "charZh": "花木兰（王者荣耀）",
+      "auto": "black hair|黑发;ponytail|马尾;red eyes|红瞳;sword|长剑",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "公孙离",
+      "tag": "gongsun li (honor of kings)",
+      "charZh": "公孙离（王者荣耀）",
+      "auto": "black hair|黑发;long hair|长发;brown eyes|棕瞳;umbrella|雨伞",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "王昭君",
+      "tag": "wang zhaojun (honor of kings)",
+      "charZh": "王昭君（王者荣耀）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "蔡文姬",
+      "tag": "cai wenji (honor of kings)",
+      "charZh": "蔡文姬（王者荣耀）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "王者荣耀",
+      "gameTag": "honor of kings",
+      "name": "阿轲",
+      "tag": "ake (honor of kings)",
+      "charZh": "阿轲（王者荣耀）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    }
+  ],
+  "count": 45
+}

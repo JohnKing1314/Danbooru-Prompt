@@ -1,0 +1,82 @@
+{
+  "id": "hunter_x_hunter",
+  "name": "全职猎人",
+  "parentId": "anime",
+  "order": 13,
+  "file": "anime/hunter_x_hunter.json",
+  "characters": [
+    {
+      "game": "全职猎人",
+      "gameTag": "hunter x hunter",
+      "name": "小杰",
+      "tag": "gon freecss",
+      "charZh": "小杰（全职猎人）",
+      "auto": "black hair|黑发;spiked hair|刺猬头;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "全职猎人",
+      "gameTag": "hunter x hunter",
+      "name": "奇犽",
+      "tag": "killua zoldyck",
+      "charZh": "奇犽（全职猎人）",
+      "auto": "white hair|白发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "全职猎人",
+      "gameTag": "hunter x hunter",
+      "name": "酷拉皮卡",
+      "tag": "kurapika",
+      "charZh": "酷拉皮卡（全职猎人）",
+      "auto": "blonde hair|金发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "全职猎人",
+      "gameTag": "hunter x hunter",
+      "name": "西索",
+      "tag": "hisoka morow",
+      "charZh": "西索（全职猎人）",
+      "auto": "pink hair|粉发;short hair|短发;facepaint|面部彩绘",
+      "subName": ""
+    },
+    {
+      "game": "全职猎人",
+      "gameTag": "hunter x hunter",
+      "name": "库洛洛",
+      "tag": "chrollo lucilfer",
+      "charZh": "库洛洛（全职猎人）",
+      "auto": "black hair|黑发;tattoo|纹身",
+      "subName": ""
+    },
+    {
+      "game": "全职猎人",
+      "gameTag": "hunter x hunter",
+      "name": "比司吉",
+      "tag": "biscuit krueger",
+      "charZh": "比司吉（全职猎人）",
+      "auto": "pink hair|粉发;twintails|双马尾",
+      "subName": ""
+    },
+    {
+      "game": "全职猎人",
+      "gameTag": "hunter x hunter",
+      "name": "尼飞彼多",
+      "tag": "neferpitou",
+      "charZh": "尼飞彼多（全职猎人）",
+      "auto": "white hair|白发;cat ears|猫耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "全职猎人",
+      "gameTag": "hunter x hunter",
+      "name": "伊路米",
+      "tag": "illumi zoldyck",
+      "charZh": "伊路米（全职猎人）",
+      "auto": "black hair|黑发;long hair|长发",
+      "subName": ""
+    }
+  ],
+  "count": 8
+}

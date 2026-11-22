@@ -1,0 +1,18 @@
+{
+  "id": "vtuber",
+  "name": "🎤 VTuber",
+  "icon": "🎤",
+  "order": 3,
+  "file": "vtuber.json",
+  "subDir": "vtuber",
+  "children": [
+    {
+      "id": "hololive",
+      "name": "hololive",
+      "order": 1,
+      "count": 55,
+      "file": "vtuber/hololive.json"
+    }
+  ],
+  "count": 55
+}

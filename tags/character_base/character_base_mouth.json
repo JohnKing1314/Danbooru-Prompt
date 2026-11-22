@@ -1,0 +1,953 @@
+{
+  "id": "mouth",
+  "name": "嘴部",
+  "icon": "👄",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 10,
+  "file": "character_base/character_base_mouth.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "fangs",
+      "zh": "獠牙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 162124,
+      "desc": "多颗明显外露的犬齿，常见虎牙或獠牙。",
+      "kw": "尖牙 / 小虎牙 / 犬齿 / 吸血鬼牙 / 外露犬齿 / 尖齿 / 犬牙 / 八重歯"
+    },
+    {
+      "en": "lipstick",
+      "zh": "口红",
+      "rating": "g",
+      "nsfw": false,
+      "count": 76888,
+      "desc": "涂在嘴唇上的口红",
+      "kw": "唇膏 / 唇彩 / 唇釉 / 唇蜜 / 口脂 / 化妆 / 唇妆 / 口红（颜色） / カラーリップ / 口紅 / 립스틱"
+    },
+    {
+      "en": "pale lips",
+      "zh": "淡色嘴唇",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "small mouth",
+      "zh": "小嘴",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sharp teeth",
+      "zh": "尖牙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 127825,
+      "desc": "整口牙齿尖利，表现兽性或凶悍。",
+      "kw": "尖齿 / 鲨鱼齿 / 锯齿牙 / 利齿 / 尖利牙齿 / 尖牙利齿 / 尖锐牙齿 / 牙齿 / pointy teeth / pointed teeth / spiked teeth / 齿牙"
+    },
+    {
+      "en": "teeth",
+      "zh": "牙齿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 797601,
+      "desc": "牙齿明显时使用",
+      "kw": "牙 / 齿 / 面部特征 / bared teeth"
+    },
+    {
+      "en": "clenched teeth",
+      "zh": "咬紧牙关",
+      "rating": "g",
+      "nsfw": false,
+      "count": 109606,
+      "desc": "上下牙齿紧紧咬合",
+      "kw": "咬牙 / 切齿 / 咬紧牙齿 / 牙关紧咬 / 咬牙切齿 / 咬合牙齿 / 面部 / 紧咬 / gritted teeth / gritting teeth"
+    },
+    {
+      "en": ":o",
+      "zh": "O字嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 270166,
+      "desc": "圆形张开的嘴，常表惊讶。",
+      "kw": "圆形嘴 / O嘴 / 圆张的嘴 / 惊讶张嘴 / O形嘴 / 面部 / 惊讶嘴型 / :0 / oの字口"
+    },
+    {
+      "en": "parted lips",
+      "zh": "微张嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 766338,
+      "desc": "嘴巴微微张开",
+      "kw": "微张嘴唇 / 轻启朱唇 / 嘴巴微张 / 微启唇 / 微张的嘴唇 / 嘴唇 / 表情"
+    },
+    {
+      "en": "wavy mouth",
+      "zh": "波浪形嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 104059,
+      "desc": "嘴部为波浪线，常表示害怕、紧张或尴尬。",
+      "kw": "波浪嘴型 / 波浪线嘴 / 波浪状嘴巴 / 波浪口型 / 波纹嘴 / 表情 / 嘴型 / ピーナッツみたいな口しやがって"
+    },
+    {
+      "en": ":3",
+      "zh": "猫嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 189351,
+      "desc": "嘴形似侧向数字3的猫嘴表情，常显可爱或淘气。",
+      "kw": "猫猫嘴 / 猫嘴表情 / 3嘴 / 卖萌嘴 / 嘟嘴 / 猫脸笑 / 表情 / 猫口"
+    },
+    {
+      "en": "3:",
+      "zh": "皱眉猫嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9746,
+      "desc": "嘴角下撇、形似侧向3的皱眉表情",
+      "kw": "3:表情 / 皱眉3: / 3:脸 / 向下撇嘴 / 3:皱眉符号 / 猫嘴脸 / 猫脸 / 表情 / ひの字口"
+    },
+    {
+      "en": "0w0",
+      "zh": "猫嘴惊讶脸（0w0）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 71,
+      "desc": "眼睛为无瞳孔圆圈、嘴呈猫嘴的笑脸",
+      "kw": "零w零 / 圆圈眼猫嘴笑脸 / 0w0颜文字"
+    },
+    {
+      "en": "uwu",
+      "zh": "闭眼猫嘴脸（uwu）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 461,
+      "desc": "表示开心或慵懒的猫脸表情",
+      "kw": "猫嘴笑 / 眯眼猫嘴 / 可爱猫脸 / uwu颜文字 / 猫嘴脸 / uwu / 表情 / 萌"
+    },
+    {
+      "en": ":t",
+      "zh": "歪嘴表情（:t）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39916,
+      "desc": "一侧脸颊鼓起，嘴唇呈T形，表示不满或嘴里塞满食物。",
+      "kw": "T型嘴 / T嘴 / 鼓起一边脸颊 / 鼓脸 / 气鼓鼓 / 鼓腮帮子 / 撇嘴 / 吐舌嘴 / ふくれっ面 / 膨れっ面"
+    },
+    {
+      "en": ":i",
+      "zh": "鼓腮表情",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6380,
+      "desc": "鼓起双颊的I形嘴，表嘟嘴或咀嚼",
+      "kw": "鼓腮 / 鼓脸颊 / 气鼓鼓 / 鼓起双颊 / I形嘴 / :工表情 / 包子脸 / 面部 / ふくれっ面 / 「ぷー」とふくらんで"
+    },
+    {
+      "en": ":/",
+      "zh": "撇嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18480,
+      "desc": "单侧嘴角下垂、嘴形如斜杠，表困惑或犹豫",
+      "kw": "斜嘴 / 斜线嘴 / 歪嘴表情 / 嘴角下垂 / 单边嘴角下垂 / 斜杠嘴 / 犹豫嘴 / :\\"
+    },
+    {
+      "en": "x mouth",
+      "zh": "X型嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2787,
+      "desc": "画成X形的嘴，常见于玩偶或表示缄口。",
+      "kw": "叉形嘴 / 交叉嘴 / X嘴巴 / X形口 / 表情 / 嘴巴 / :x"
+    },
+    {
+      "en": ":c",
+      "zh": "难过表情",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1121,
+      "desc": "嘴呈C字形的撇嘴皱眉表情",
+      "kw": "C型嘴 / C形嘴 / 撇嘴 / 皱眉嘴 / C字撇嘴 / 嘴角下垂 / 难过 / 面部"
+    },
+    {
+      "en": "c:",
+      "zh": "C形嘴微笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3167,
+      "desc": "嘴巴抿成半圆形，常表示得意或自满的表情。",
+      "kw": "C字嘴 / 半圆嘴 / 得意抿嘴 / 抿嘴笑 / 抿嘴成半圆 / C形嘴 / 半圆抿嘴 / 得意微笑 / uの字口"
+    },
+    {
+      "en": ":<",
+      "zh": "倒V嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55898,
+      "desc": "嘴巴呈倒V形，表示轻微不满或生气。",
+      "kw": "倒V形嘴 / 生气嘴 / 不满嘴 / 撇着嘴 / 气鼓鼓嘴 / V字嘴 / 倒V字嘴 / 怒嘴 / 傲娇嘴 / への字口"
+    },
+    {
+      "en": ":>",
+      "zh": "V字嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20232,
+      "desc": "嘴巴呈 V 字形的闭嘴微笑，类似表情 :>。",
+      "kw": "V字口 / V形微笑 / V字笑容 / V型嘴 / :>表情 / 面部 / V形嘴 / vの字口"
+    },
+    {
+      "en": "o3o",
+      "zh": "嘟嘴表情（o3o）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4842,
+      "desc": "表示嘟嘴或撅嘴的表情符号",
+      "kw": "撅嘴表情 / 嘟嘴颜文字 / 猪嘴表情 / 3字嘴 / 噘嘴表情 / o3o / 面部 / 表情 / .3. / おちょぼ口 / 口が3 / 3の口"
+    },
+    {
+      "en": ">3<",
+      "zh": "紧闭眼嘟嘴（>3<）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 224,
+      "desc": ">_<眼配嘟嘴的表情",
+      "kw": "嘟嘴>_< / >_<眼嘟嘴 / >3<颜文字 / 嘟嘴颜文字 / >_<嘟嘴 / >3< / 表情"
+    },
+    {
+      "en": ">o<",
+      "zh": "紧闭眼张嘴（>o<）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chestnut mouth",
+      "zh": "栗子嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18817,
+      "desc": "形状像栗子的嘴，上下尖、中间圆",
+      "kw": "板栗嘴 / 花栗鼠嘴 / 栗形嘴 / 栗子口 / 板栗口 / 表情 / 嘴型 / 三角嘴倒 / 栗みたいな口 / 栗みたいな口しやがって / 口みたいな栗"
+    },
+    {
+      "en": "diamond mouth",
+      "zh": "菱形嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 810,
+      "desc": "上下唇构成菱形的嘴型",
+      "kw": "菱形嘴型 / 菱形口型 / 菱形嘴部 / 钻石嘴 / 嘴巴 / 表情 / :<>"
+    },
+    {
+      "en": "dot mouth",
+      "zh": "点状嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11370,
+      "desc": "嘴巴只画成一个小圆点的表现方式。",
+      "kw": "圆点嘴 / 小点嘴 / 点嘴巴 / 点形嘴 / 点点嘴 / 表情 / 卡通嘴"
+    },
+    {
+      "en": "glowing mouth",
+      "zh": "发光口部",
+      "rating": "g",
+      "nsfw": false,
+      "count": 940,
+      "desc": "口腔内部发出光芒",
+      "kw": "嘴巴发光 / 口腔发光 / 嘴内发光 / 口中发光 / 发光口腔 / 口吐光芒 / 发光的嘴巴 / 嘴巴"
+    },
+    {
+      "en": "heart in mouth",
+      "zh": "口中爱心",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5404,
+      "desc": "嘴里或舌头上画着爱心",
+      "kw": "嘴里含爱心 / 舌头爱心 / 嘴里有爱心 / 含爱心 / 爱心在嘴里 / 口含心形 / 表情"
+    },
+    {
+      "en": "heart-shaped mouth",
+      "zh": "心形嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 370,
+      "desc": "嘴巴呈心形的表情。",
+      "kw": "心形嘴巴 / 爱心嘴 / 心型嘴 / 心形口型 / 表情 / 爱心"
+    },
+    {
+      "en": "hollow mouth",
+      "zh": "空洞的嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 202,
+      "desc": "口腔像空洞一样看不到舌头等细节",
+      "kw": "空心嘴 / 空腔嘴 / 口腔空洞 / 口腔空无 / 嘴巴 / 异常 / 恐怖"
+    },
+    {
+      "en": "mouth drool",
+      "zh": "口水痕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15365,
+      "desc": "用嘴部轮廓凹陷表现流涎的画法，而非实际唾液。",
+      "kw": "嘴角流口水 / 口角流涎 / 嘴部凹痕流涎 / 口腔流涎 / 流口水（嘴部轮廓） / 垂涎 / 流口水 / 口水 / 唾液凹痕"
+    },
+    {
+      "en": "no mouth",
+      "zh": "无嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22778,
+      "desc": "角色没有画出嘴巴，可能为效果或表达冷漠",
+      "kw": "没嘴 / 没有嘴巴 / 不画嘴 / 省略嘴巴 / 无口部 / 嘴巴省略 / 脸部特征"
+    },
+    {
+      "en": "peanut mouth",
+      "zh": "花生嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2736,
+      "desc": "中间窄两侧宽的花生形张嘴表情",
+      "kw": "花生形嘴 / 花生状嘴 / 花生口型 / 花生型嘴 / 花生嘴巴 / 表情"
+    },
+    {
+      "en": "rectangular mouth",
+      "zh": "矩形嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3479,
+      "desc": "角色的嘴呈矩形形状。",
+      "kw": "方形嘴 / 方块嘴 / 长方形嘴 / 矩形口 / 方口 / 嘴型 / 表情 / :[] / square mouth"
+    },
+    {
+      "en": "sideways mouth",
+      "zh": "侧嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11407,
+      "desc": "侧面视角把嘴画在脸颊上，像有两张嘴的特殊画法。",
+      "kw": "脸颊嘴 / 侧面嘴 / 侧脸嘴 / 双嘴 / 撇嘴 / 表情 / side mouth / cheek mouth"
+    },
+    {
+      "en": "snake mouth",
+      "zh": "蛇嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "嘴部画得极宽、形似蛇嘴的表情",
+      "kw": "蛇口 / 裂口 / 大嘴 / 蛇形嘴 / 嘴裂到耳根 / 宽嘴 / 蛇嘴表情 / 裂口嘴角"
+    },
+    {
+      "en": "split mouth",
+      "zh": "裂口",
+      "rating": "g",
+      "nsfw": false,
+      "count": 42567,
+      "desc": "嘴部线条不连续、留有缺口的画法。",
+      "kw": "断线嘴 / 不连续嘴线 / 缺口嘴 / 嘴部断开 / 裂口女 / 日本风格 / 恐怖 / disconnected mouth"
+    },
+    {
+      "en": "stitched mouth",
+      "zh": "缝合嘴",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1944,
+      "desc": "用缝线缝住的嘴，常呈X形。",
+      "kw": "缝合的嘴 / 缝嘴 / 缝线嘴 / 线缝嘴 / 缝合口 / X形缝嘴 / 针线缝嘴 / 恐怖"
+    },
+    {
+      "en": "text in mouth",
+      "zh": "口中文字",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "triangle mouth",
+      "zh": "三角嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23257,
+      "desc": "张开的嘴呈三角形，多用于夸张表情。",
+      "kw": "三角口 / 三角嘴型 / 三角状嘴 / 面部 / 猫嘴"
+    },
+    {
+      "en": "yurie mouth",
+      "zh": "由梨绘嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 957,
+      "desc": "画在脸部轮廓下缘的喙状凸起嘴型，又称莲华嘴",
+      "kw": "鸟嘴嘴型 / 凸嘴 / 鸭嘴嘴型 / 尖嘴 / 喙形嘴 / 莲华嘴 / 由里惠嘴 / ω嘴 / ゆりえ口 / れんちょん口"
+    },
+    {
+      "en": "fang",
+      "zh": "虎牙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 466975,
+      "desc": "单颗明显的犬齿状虎牙",
+      "kw": "犬齿 / 尖牙 / 獠牙 / 小虎牙 / 犬牙 / 八重齿 / 尖虎牙 / 牙齿 / 八重歯"
+    },
+    {
+      "en": "tongue",
+      "zh": "舌头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 572390,
+      "desc": "画面中清晰可见的舌头",
+      "kw": "舌 / 小舌 / 香舌 / 舌尖 / 粉舌 / 舌头可见 / 嘴部 / tongues / 舌責め"
+    },
+    {
+      "en": "saliva",
+      "zh": "唾液",
+      "rating": "g",
+      "nsfw": false,
+      "count": 155916,
+      "desc": "口中分泌液体，流出时用流口水。",
+      "kw": "口水 / 涎水 / 涎 / 流口水 / 哈喇子 / 吐沫 / 唾沫 / 口涎 / drool / spit"
+    },
+    {
+      "en": "drool",
+      "zh": "流口水",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lips",
+      "zh": "嘴唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 182566,
+      "desc": "特别突出或写实的嘴唇",
+      "kw": "唇 / 唇部 / 双唇 / 嘴唇部 / 身体部位 / 化妆"
+    },
+    {
+      "en": "long tongue",
+      "zh": "长舌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9935,
+      "desc": "伸出时超过下巴的长舌头",
+      "kw": "伸长舌头 / 长舌角色 / 长舌伸出 / 长舌形象 / 超长舌头 / 长舌舔 / 拖舌 / 長舌"
+    },
+    {
+      "en": "lipstick mark on another's lips",
+      "zh": "唇印留在他人唇上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "lipstick mark on lips",
+      "zh": "双唇上的唇印",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "red lips",
+      "zh": "红唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41669,
+      "desc": "涂红色口红或本身红润的嘴唇。",
+      "kw": "红色嘴唇 / 红嘴唇 / 红色口红 / 红唇妆 / 朱唇 / 嘴唇 / 妆容 / red lipstick / 口红（色号）"
+    },
+    {
+      "en": "orange lips",
+      "zh": "橙色唇妆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 814,
+      "desc": "涂成橙色的嘴唇",
+      "kw": "橙唇 / 橙色口红 / 橘色嘴唇 / 橘色唇膏 / 口橙 / 橙色唇彩 / 唇妆 / orange lipstick"
+    },
+    {
+      "en": "yellow lips",
+      "zh": "黄唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 832,
+      "desc": "涂有黄色唇膏的嘴唇。",
+      "kw": "黄嘴唇 / 黄色口红 / 黄色唇膏 / 涂黄口红的嘴唇 / 嘴唇 / yellow lipstick / 口黄"
+    },
+    {
+      "en": "green lips",
+      "zh": "绿色嘴唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5280,
+      "desc": "涂成绿色的嘴唇",
+      "kw": "绿嘴唇 / 绿色口红 / 口绿 / 绿色唇膏 / 绿色唇彩 / 绿唇妆 / 嘴唇 / green lipstick"
+    },
+    {
+      "en": "aqua lips",
+      "zh": "水蓝色嘴唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 842,
+      "desc": "水色（蓝绿色）的嘴唇或口红。",
+      "kw": "水色唇 / 水色口红 / 蓝绿色嘴唇 / 青绿色嘴唇 / 青色嘴唇 / 水蓝色唇 / 蓝绿色唇 / aqua lipstick / 水蓝色口红 / 蓝绿色口红 / 青绿色口红"
+    },
+    {
+      "en": "blue lips",
+      "zh": "蓝唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8300,
+      "desc": "嘴唇被画成蓝色",
+      "kw": "蓝色嘴唇 / 蓝色口红 / 蓝口红 / 口蓝 / 蓝唇妆 / 嘴唇 / blue lipstick / light blue lipstick / 蓝嘴唇"
+    },
+    {
+      "en": "purple lips",
+      "zh": "紫色嘴唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12941,
+      "desc": "涂了紫色唇膏的嘴唇",
+      "kw": "紫唇 / 紫色口红 / 紫嘴唇 / 涂紫唇膏 / 紫色唇彩 / 薰衣草紫唇 / 口紫 / 嘴唇 / purple lipstick / lavender lipstick"
+    },
+    {
+      "en": "pink lips",
+      "zh": "粉色嘴唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49595,
+      "desc": "粉色嘴唇，通常因涂粉色口红或自然唇色。",
+      "kw": "粉唇 / 粉红嘴唇 / 粉红色嘴唇 / 粉嫩嘴唇 / 粉唇妆 / 嘴唇 / 唇妆 / pink lipstick / 口粉 / 粉嘴唇 / 粉色口红"
+    },
+    {
+      "en": "white lips",
+      "zh": "白唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 415,
+      "desc": "嘴唇涂成白色，多用于特殊妆容或奇幻角色",
+      "kw": "白色口红 / 白色唇膏 / 白色唇彩 / 口白 / 白嘴唇 / 白色唇妆 / 嘴唇 / white lipstick"
+    },
+    {
+      "en": "grey lips",
+      "zh": "灰色嘴唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 858,
+      "desc": "嘴唇呈灰色，多用于病态或非人角色",
+      "kw": "灰色唇色 / 灰唇 / 灰色口红 / 灰色唇膏 / 嘴唇 / 灰色 / grey lipstick / 口灰"
+    },
+    {
+      "en": "black lips",
+      "zh": "黑唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10709,
+      "desc": "涂黑色唇膏或天生黑色的嘴唇。",
+      "kw": "黑嘴唇 / 口黑 / 黑色唇妆 / 黑色口红唇 / 黑唇妆 / 唇妆 / 化妆 / black lipstick / 黑色口红"
+    },
+    {
+      "en": "multicolored lips",
+      "zh": "多色嘴唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39
+    },
+    {
+      "en": "two-tone lips",
+      "zh": "双色唇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "beard",
+      "zh": "胡须",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69614,
+      "desc": "长在下巴、脸颊和脖子上的胡须，不包括上唇髭。",
+      "kw": "胡子 / 络腮胡子 / 大胡子 / 满脸胡 / 颚须 / 下巴胡 / 连鬓胡 / 顎鬚"
+    },
+    {
+      "en": "mustache",
+      "zh": "小胡子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41599,
+      "desc": "上唇鼻下的胡须。",
+      "kw": "胡子 / 胡须 / 唇上胡须 / 鼻下胡须 / 面部毛发 / moustache / 口髭 / 口ひげ"
+    },
+    {
+      "en": "lipgloss",
+      "zh": "唇彩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1716,
+      "desc": "让嘴唇有光泽的唇彩。",
+      "kw": "唇蜜 / 唇釉 / 亮唇彩 / 光泽唇彩 / 润唇彩 / 唇部光泽 / 化妆 / 唇部 / リップグロス / 립글로스"
+    },
+    {
+      "en": "smeared lipstick",
+      "zh": "晕开的口红",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1094,
+      "desc": "口红糊开蹭到脸上的状态。",
+      "kw": "口红晕开 / 口红糊了 / 口红蹭花 / 口红晕染 / 嘴唇口红糊开 / 花掉的口红 / 口红弄花 / 化妆品"
+    },
+    {
+      "en": "lipstick mark on mouth",
+      "zh": "嘴部唇印",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "milk mustache",
+      "zh": "牛奶胡子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 90,
+      "desc": "喝牛奶后上唇残留的白色奶渍",
+      "kw": "奶渍胡须 / 奶白胡子 / 喝奶留下的胡须 / 牛奶印"
+    },
+    {
+      "en": "mole under mouth",
+      "zh": "嘴角痣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 80543,
+      "desc": "痣长在嘴巴正下方",
+      "kw": "唇下痣 / 嘴角下方痣 / 嘴巴下方的痣 / 唇下美人痣 / 下巴上方痣 / 美人痣 / 面部标记 / 艶ぼくろ"
+    },
+    {
+      "en": "barbed tongue",
+      "zh": "带刺的舌头",
+      "rating": "g",
+      "count": 120,
+      "desc": "表面带倒刺、类似猫舌的舌头",
+      "kw": "猫舌 / 倒刺舌头 / 带刺舌头 / 刺舌 / 倒钩舌头 / barbed tongue / 棘刺舌头 / 怪物舌 / cat tongue / spiked tongue"
+    },
+    {
+      "en": "beak",
+      "zh": "鸟喙",
+      "rating": "g",
+      "count": 9248,
+      "desc": "鸟类或鸟类角色脸上的喙",
+      "kw": "喙 / 鸟嘴 / 喙部 / 尖嘴 / 角质喙 / 鸟的嘴 / 鸟类特征 / くちばし"
+    },
+    {
+      "en": "black mouth",
+      "zh": "黑色口腔",
+      "rating": "g",
+      "count": 1452,
+      "desc": "口腔内部呈漆黑一片的嘴",
+      "kw": "黑嘴 / 口腔漆黑 / 口中漆黑 / 漆黑口腔 / 黑口腔 / 黑唇 / 诡异嘴 / 阴影嘴"
+    },
+    {
+      "en": "blood from mouth",
+      "zh": "嘴角流血",
+      "rating": "q",
+      "nsfw": true,
+      "count": 13311,
+      "desc": "从嘴角流出的血。",
+      "kw": "口中流血 / 嘴流血 / 嘴角出血 / 嘴里流血 / 吐血 / 口吐鲜血 / 唇边流血 / 流血 / mouthbleed / bloody mouth / 口からの血"
+    },
+    {
+      "en": "blood in mouth",
+      "zh": "口中流血",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1008,
+      "desc": "口腔内或嘴角可见血液",
+      "kw": "嘴里有血 / 嘴内有血 / 口内出血 / 口腔出血 / 嘴角流血 / 嘴含血 / 血在嘴里 / 口中含血"
+    },
+    {
+      "en": "blood on mouth",
+      "zh": "嘴上有血",
+      "rating": "s",
+      "count": 968,
+      "desc": "嘴唇周围沾有血迹。",
+      "kw": "嘴角有血 / 嘴边流血 / 嘴唇染血 / 满嘴是血 / 嘴角血迹 / 嘴上沾血 / 口腔有血 / 唇边有血"
+    },
+    {
+      "en": "blue tongue",
+      "zh": "蓝色舌头",
+      "rating": "g",
+      "count": 4595,
+      "desc": "舌头呈蓝色。",
+      "kw": "蓝舌头 / 蓝舌 / 舌头蓝色 / 蓝色舌 / 舌头 / 异色 / 身体部位"
+    },
+    {
+      "en": "brown lips",
+      "zh": "棕色嘴唇",
+      "rating": "g",
+      "count": 1627,
+      "desc": "自然的棕色嘴唇或使用棕色唇膏。",
+      "kw": "褐色嘴唇 / 棕唇 / 棕色口红 / 褐色唇膏 / 棕色唇彩 / 棕色唇膏 / 嘴唇 / 妆容 / brown lipstick / 褐色口红"
+    },
+    {
+      "en": "buck teeth",
+      "zh": "龅牙",
+      "rating": "g",
+      "count": 5289,
+      "desc": "门牙明显前突的牙齿特征。",
+      "kw": "暴牙 / 凸牙 / 门牙前突 / 大板牙 / 兔牙 / 牙齿 / 面部特征 / 出っ歯"
+    },
+    {
+      "en": "cheek bulge",
+      "zh": "腮帮鼓起",
+      "rating": "s",
+      "count": 2614,
+      "desc": "口中之物把脸颊顶起",
+      "kw": "脸颊突起 / 鼓腮帮子 / 嘴被塞满鼓起 / 脸颊鼓包 / 口腔凸起 / 含物鼓腮 / 脸颊顶起 / 鼓脸颊 / bulging cheeks / 脸颊凸起 / 歯磨きフェラ"
+    },
+    {
+      "en": "close mouth",
+      "zh": "闭嘴",
+      "rating": "g"
+    },
+    {
+      "en": "colored teeth",
+      "zh": "彩色牙齿",
+      "rating": "g",
+      "count": 2158,
+      "desc": "除白色外的彩色或异色牙齿",
+      "kw": "异色牙齿 / 非白牙齿 / 染色牙齿 / 彩色牙 / 牙齿 / 异色 / 彩色"
+    },
+    {
+      "en": "colored tongue",
+      "zh": "彩色舌头",
+      "rating": "g",
+      "count": 10851,
+      "desc": "颜色不常见的舌头",
+      "kw": "异色舌头 / 舌头变色 / 颜色不同的舌头 / 舌头 / 异色舌"
+    },
+    {
+      "en": "covered mouth",
+      "zh": "蒙住的嘴",
+      "rating": "g",
+      "count": 31248,
+      "desc": "嘴部被衣物、物体或手遮住",
+      "kw": "遮住嘴 / 捂嘴 / 掩嘴 / 蒙住嘴 / 掩盖嘴部 / 嘴被遮住 / 嘴部遮盖 / 遮嘴 / hidden mouth / mouth covered"
+    },
+    {
+      "en": "extra mouth",
+      "zh": "有多张嘴巴",
+      "rating": "g",
+      "count": 2969,
+      "desc": "角色身上有一个以上的嘴",
+      "kw": "多个嘴巴 / 额外嘴巴 / 二口女 / 腹口 / 多口 / 复口 / 身上多嘴 / 额外的嘴 / multiple mouths / 複口"
+    },
+    {
+      "en": "fang out",
+      "zh": "露出虎牙",
+      "rating": "g",
+      "count": 18909,
+      "desc": "闭嘴时露出的单颗虎牙",
+      "kw": "探出的虎牙 / 小虎牙 / 虎牙露出 / 獠牙外露 / 尖牙外露 / 露出尖牙 / 表情"
+    },
+    {
+      "en": "fangs out",
+      "zh": "露獠牙",
+      "rating": "g",
+      "count": 4041,
+      "desc": "闭嘴时露出多颗尖牙",
+      "kw": "龇牙 / 露尖牙 / 露虎牙 / 呲牙 / 露出獠牙 / 獠牙 / 怪物特征"
+    },
+    {
+      "en": "flower over mouth",
+      "zh": "花遮嘴",
+      "rating": "g",
+      "count": 1207,
+      "desc": "遮在嘴上的花朵",
+      "kw": "花在嘴上 / 嘴上有花 / 花挡嘴 / 花覆盖嘴 / 衔花 / 花朵 / 姿势"
+    },
+    {
+      "en": "foaming at the mouth",
+      "zh": "口吐白沫",
+      "rating": "g",
+      "count": 590,
+      "desc": "口部流出白沫，表示中毒、暴怒或失常。",
+      "kw": "口喷白沫 / 嘴里冒白沫 / 吐白沫 / 口吐泡沫 / 口吐白沬 / 表情 / 异常状态"
+    },
+    {
+      "en": "forked tongue",
+      "zh": "分叉的舌头",
+      "rating": "g",
+      "count": 4731,
+      "desc": "舌尖分叉的舌头",
+      "kw": "分叉舌 / 蛇舌 / 裂舌 / 蛇信子 / 双叉舌 / 开叉舌 / 舌头 / 怪物特征 / snake tongue / split tongue / スプリットタン"
+    },
+    {
+      "en": "gold teeth",
+      "zh": "金牙",
+      "rating": "g",
+      "count": 560,
+      "desc": "呈金色的牙齿或金牙装饰。",
+      "kw": "金牙齿 / 金色牙 / 金牙套 / 大金牙 / 牙齿 / 饰品 / 金歯"
+    },
+    {
+      "en": "green tongue",
+      "zh": "绿色舌头",
+      "rating": "g",
+      "count": 1144,
+      "desc": "舌头呈绿色，口腔也可能整体为绿。",
+      "kw": "绿舌头 / 绿色舌 / 绿舌 / 舌头绿色 / 舌头 / 异常"
+    },
+    {
+      "en": "grid teeth",
+      "zh": "网格状牙齿",
+      "rating": "g",
+      "count": 3144,
+      "desc": "画成网格状方块的牙齿",
+      "kw": "网格牙齿 / 格子牙齿 / 栅格牙 / 格纹牙齿 / 方块牙齿 / 网格牙 / 咬紧牙关 / 表情"
+    },
+    {
+      "en": "lower teeth only",
+      "zh": "只露下排牙",
+      "rating": "g",
+      "count": 19662,
+      "desc": "张嘴时只画出下排牙齿",
+      "kw": "下排牙齿外露 / 露下牙 / 下牙露出 / 只见下齿 / 下排牙外露 / 下排牙齿露出 / 下齿露出 / 只露出下齿 / lower teeth"
+    },
+    {
+      "en": "mouth",
+      "zh": "嘴",
+      "rating": "g"
+    },
+    {
+      "en": "purple tongue",
+      "zh": "紫舌头",
+      "rating": "g",
+      "count": 2658,
+      "desc": "紫色的舌头，张口时可见",
+      "kw": "紫色舌头 / 紫舌 / 舌头紫色 / 紫色舌苔 / 紫色舌 / 舌头 / 异色"
+    },
+    {
+      "en": "round teeth",
+      "zh": "圆齿",
+      "rating": "g",
+      "count": 20174,
+      "desc": "张嘴笑时上排门牙画成一个半圆。",
+      "kw": "圆牙 / 半圆牙 / 圆弧牙齿 / 圆形门牙 / 半圆形牙齿 / 卡通牙齿 / 表情"
+    },
+    {
+      "en": "saliva trail",
+      "zh": "唾液拉丝",
+      "rating": "q",
+      "nsfw": true,
+      "count": 29001,
+      "desc": "两点间悬空的唾液丝，接吻后常见",
+      "kw": "口水拉丝 / 唾液丝 / 口水丝 / 唾液线 / 口水线 / 牵丝 / 拉丝 / 银丝 / saliva string / spit trail / 唾液ブリッジ / 糸引き"
+    },
+    {
+      "en": "scar on mouth",
+      "zh": "嘴上的疤痕",
+      "rating": "g",
+      "count": 3426,
+      "desc": "位于嘴部的伤疤。",
+      "kw": "嘴部疤痕 / 唇边疤痕 / 嘴角疤痕 / 嘴上伤疤 / 嘴唇疤痕 / 口部疤痕 / 唇部疤痕 / 嘴角伤疤 / mouth scar"
+    },
+    {
+      "en": "shark mouth",
+      "zh": "鲨鱼牙",
+      "rating": "g"
+    },
+    {
+      "en": "shiny lips",
+      "zh": "闪亮嘴唇",
+      "rating": "g",
+      "count": 619,
+      "desc": "嘴唇有明显光泽，如涂了唇彩",
+      "kw": "嘴唇闪亮 / 水润嘴唇 / 光泽嘴唇 / 亮泽嘴唇 / 水光唇 / 果冻唇 / 唇彩嘴唇 / 珠光嘴唇"
+    },
+    {
+      "en": "skin fang",
+      "zh": "肤色虎牙",
+      "rating": "g",
+      "count": 109097,
+      "desc": "与肤色同色、画在嘴部轮廓上的单颗尖牙",
+      "kw": "肉色尖牙 / 皮肤色尖牙 / 肉色虎牙 / 皮肤虎牙 / 唇上尖牙 / 肤色尖牙 / 皮肤色虎牙 / 虎牙 / flesh fang / lip fang / 虎牙（皮下）"
+    },
+    {
+      "en": "skin fangs",
+      "zh": "肤色獠牙",
+      "rating": "g",
+      "count": 7252,
+      "desc": "与肤色同色、画在嘴部轮廓上的尖牙",
+      "kw": "肉色獠牙 / 皮肤色尖牙 / 肤色虎牙 / 唇边肤色尖牙 / 牙齿 / 表情 / lip fangs"
+    },
+    {
+      "en": "thick lips",
+      "zh": "厚嘴唇",
+      "rating": "g",
+      "count": 4920,
+      "desc": "比普通嘴唇更厚更突出",
+      "kw": "厚唇 / 丰唇 / 饱满嘴唇 / 肉感嘴唇 / puffy lips"
+    },
+    {
+      "en": "tooth",
+      "zh": "牙",
+      "rating": "g",
+      "count": 1192,
+      "desc": "单颗牙齿，与多颗牙齿的teeth标签区分。",
+      "kw": "一颗牙 / 单颗牙 / 牙齿（单数） / 孤立牙齿 / 露出的单颗牙 / 单独一颗牙 / 牙齿 / 身体部位"
+    },
+    {
+      "en": "tusks",
+      "zh": "獠牙/象牙",
+      "rating": "g",
+      "count": 6554,
+      "desc": "口外伸出的长牙，如象、野猪或兽人的獠牙",
+      "kw": "长牙 / 獠 / 象牙 / 牙齿 / 兽类特征 / tusk"
+    },
+    {
+      "en": "upper teeth",
+      "zh": "露出上排牙齿",
+      "rating": "g"
+    },
+    {
+      "en": "upper teeth only",
+      "zh": "只露上排牙",
+      "rating": "g",
+      "count": 268653,
+      "desc": "只画出上排牙齿的嘴部。",
+      "kw": "只露上牙 / 上牙外露 / 只露上齿 / 露上排齿 / 仅露出上排牙齿 / 笑容 / 牙齿 / upper teeth"
+    },
+    {
+      "en": "very long tongue",
+      "zh": "超长舌头",
+      "rating": "s",
+      "count": 1637,
+      "desc": "舌头长度不短于脸部高度的特征",
+      "kw": "长舌 / 长舌头 / 舌头超长 / 巨舌 / 大长舌头 / 长舌角色 / 极长的舌头 / 卷舌"
+    },
+    {
+      "en": "white mouth",
+      "zh": "白色口腔内部",
+      "rating": "g",
+      "count": 4297,
+      "desc": "张开的嘴内部呈纯白色，常见于简化画风。",
+      "kw": "白色口腔 / 口内白色 / 口腔纯白 / 嘴巴内部白色 / 全白口腔 / 涂白的嘴 / 化妆 / 嘴巴效果"
+    },
+    {
+      "en": "yellow teeth",
+      "zh": "黄牙",
+      "rating": "g",
+      "count": 1802,
+      "desc": "颜色发黄的牙齿",
+      "kw": "黄色牙齿 / 牙齿发黄 / 牙黄 / 黄牙板 / 牙齿 / 口腔"
+    },
+    {
+      "en": "yellow tongue",
+      "zh": "黄色舌头",
+      "rating": "g",
+      "count": 673,
+      "desc": "伸出的舌头呈黄色。",
+      "kw": "黄舌 / 黄舌头 / 黄色舌 / 舌头 / 身体部位"
+    }
+  ]
+}

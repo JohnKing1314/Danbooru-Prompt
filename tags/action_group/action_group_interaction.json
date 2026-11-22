@@ -1,0 +1,6825 @@
+{
+  "id": "interaction",
+  "name": "互动与行为",
+  "icon": "💞",
+  "parentId": "action_group",
+  "level": 2,
+  "order": 6,
+  "file": "action_group/action_group_interaction.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "hair bondage",
+      "zh": "发束拘束",
+      "rating": "q",
+      "nsfw": true,
+      "count": 162,
+      "desc": "用长发束缚他人的行为",
+      "kw": "长发束缚 / 发缚 / 头发捆绑 / 发丝束缚 / 用头发捆绑 / 束缚 / 头发 / 调教"
+    },
+    {
+      "en": "breast contest",
+      "zh": "胸部相扑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 599,
+      "desc": "两人胸对胸的较量",
+      "kw": "乳房比赛 / 乳相扑 / 胸部对决 / 胸战 / 比胸 / 奶子比拼 / 奶子对决 / 巨乳对决 / 闘乳 / 乳相撲"
+    },
+    {
+      "en": "slapping with breasts",
+      "zh": "乳房拍打",
+      "rating": "q",
+      "nsfw": true,
+      "count": 81,
+      "desc": "用自己的胸部拍打对方。",
+      "kw": "胸部拍打 / 乳击 / 用胸攻击 / 奶子抽打 / 胸部打击 / 奶子拍击"
+    },
+    {
+      "en": "reverse paizuri",
+      "zh": "反向乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 447,
+      "desc": "阴茎朝下插入胸部的反向乳交。",
+      "kw": "逆乳交 / 反向胸交 / 倒置乳交 / 逆向乳交 / 乳交 / 性行为 / 逆パイズリ / アナル舐めパイズリ"
+    },
+    {
+      "en": "cooperative naizuri",
+      "zh": "协作式胸摩擦",
+      "rating": "q",
+      "nsfw": true,
+      "count": 63,
+      "desc": "多名贫乳女孩用胸部同时摩擦阴茎。",
+      "kw": "多人贫乳乳交 / 协作贫乳乳交 / 贫乳协作摩擦 / 多女贫乳擦 / 小平胸协作摩擦 / multiple naizuri"
+    },
+    {
+      "en": "penis to breast",
+      "zh": "阴茎贴胸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1309,
+      "desc": "阴茎戳或蹭着乳头、乳房的情色构图。",
+      "kw": "阴茎戳乳房 / 阴茎磨乳头 / 鸡巴蹭奶子 / 肉棒顶胸 / 丁丁戳奶 / 阴茎顶乳头 / 乳首摩擦 / penis to nipple / 贴在胸部的阴茎 / 乳首ズリ"
+    },
+    {
+      "en": "penis under breasts",
+      "zh": "胸下阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 74,
+      "desc": "阴茎夹在乳房下方",
+      "kw": "乳房下的阴茎 / 胸下肉棒 / 奶子下面的肉棒 / 丁丁在胸下 / 乳房下夹阴茎"
+    },
+    {
+      "en": "arm between breasts",
+      "zh": "手臂夹于胸间",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2645,
+      "desc": "手或手臂位于双乳之间",
+      "kw": "手臂置于胸部之间 / 手在双乳间 / 手臂穿过乳沟 / 手放在两胸之间 / 臂夹乳间 / 手夹在胸间 / 手臂夹在胸部之间 / 胸部 / hand between breasts"
+    },
+    {
+      "en": "breast-to-pectoral docking",
+      "zh": "胸贴胸对接",
+      "rating": "q",
+      "nsfw": true,
+      "count": 384,
+      "desc": "女性乳房与对方胸肌相互贴合挤压",
+      "kw": "乳房贴胸 / 乳房对胸肌 / 乳房压胸肌 / 女乳贴男胸 / 胸与胸肌相贴 / 胸乳对接 / 乳胸贴合 / 胸肌乳压"
+    },
+    {
+      "en": "between breasts",
+      "zh": "乳间夹物",
+      "rating": "q",
+      "nsfw": true,
+      "count": 66310,
+      "desc": "物体夹在乳房之间的状态，非插入行为。",
+      "kw": "乳间 / 胸部夹住 / 胸夹 / 夹在胸部之间 / 乳沟夹物 / 双乳之间 / 胸口夹物 / 胸部夹持 / おっぱいポケット"
+    },
+    {
+      "en": "card between breasts",
+      "zh": "胸夹卡片",
+      "rating": "q",
+      "nsfw": true,
+      "count": 491,
+      "desc": "用胸部夹住卡片",
+      "kw": "乳间卡片 / 夹在胸部之间的卡片 / 胸夹卡 / 乳沟夹卡 / 胸间夹卡 / 姿势 / 卡片"
+    },
+    {
+      "en": "person between breasts",
+      "zh": "夹在胸部间的人",
+      "rating": "q",
+      "nsfw": true,
+      "count": 563,
+      "desc": "一个人被夹在他人乳房之间",
+      "kw": "夹在胸间 / 被乳房夹住 / 胸间夹人 / 夹在双乳之间 / 困在乳沟中 / 乳房夹住的人 / 夹在胸口 / 夹在乳房中间的人 / 全身パイズリ"
+    },
+    {
+      "en": "breast rest",
+      "zh": "乳部承托",
+      "rating": "q",
+      "nsfw": true,
+      "count": 13039,
+      "desc": "角色把胸部靠在某物或某人上。",
+      "kw": "胸部搁置 / 把胸搁在 / 胸放在上面 / 乳房搁置 / 搁乳 / 胸部倚靠 / 胸靠着 / 胸部托放 / 乳乗せ / 乗せ乳 / 卓上の乳 / おっぱいプレート"
+    },
+    {
+      "en": "breasts on table",
+      "zh": "胸部压桌",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2188,
+      "desc": "胸部搁在桌面上",
+      "kw": "胸部搁桌上 / 乳房在桌上 / 胸放在桌子上 / 奶子搁桌 / 胸部搁在桌上 / 姿势 / 身体部位 / 卓上の乳"
+    },
+    {
+      "en": "breast crush",
+      "zh": "乳压",
+      "rating": "q",
+      "nsfw": true,
+      "count": 68,
+      "desc": "用胸部压住或夹住对方",
+      "kw": "用胸部压 / 胸部夹击 / 胸压 / 乳房挤压 / 用胸夹住 / 胸部碾压 / 巨乳夹 / 奶子夹"
+    },
+    {
+      "en": "breasts on glass",
+      "zh": "乳房贴玻璃",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4713,
+      "desc": "把胸部压在玻璃上",
+      "kw": "胸贴在玻璃上 / 乳房压玻璃 / 胸部压玻璃 / 奶子贴玻璃 / 巨乳压玻璃 / 乳房贴在玻璃上 / 身体接触 / 玻璃 / breasts against glass / 乳ワイパー"
+    },
+    {
+      "en": "dovefucking",
+      "zh": "鸽子交配",
+      "rating": "e",
+      "nsfw": true,
+      "count": 11
+    },
+    {
+      "en": "forced lactation",
+      "zh": "强制泌乳",
+      "rating": "e",
+      "nsfw": true,
+      "count": 472,
+      "desc": "因刺激或药物而非自愿地泌乳",
+      "kw": "强制挤乳 / 强制挤奶 / 强制出奶 / 被迫泌乳 / 强制榨乳 / 非自愿泌乳 / 强制哺乳 / 泌乳"
+    },
+    {
+      "en": "lactating into container",
+      "zh": "泌乳入容器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 526,
+      "desc": "将乳汁挤入容器中",
+      "kw": "挤奶入容器 / 乳汁挤入容器 / 挤乳入杯 / 挤乳入瓶 / 挤乳入碗 / 母乳挤入容器 / 哺乳到容器中 / 乳汁 / lactating into cup / lactating into bottle / lactating into bowl"
+    },
+    {
+      "en": "projectile lactation",
+      "zh": "喷乳",
+      "rating": "e",
+      "nsfw": true,
+      "count": 3409,
+      "desc": "母乳在空中喷射成流",
+      "kw": "射乳 / 母乳喷射 / 乳汁喷射 / 喷奶 / 射奶 / 飙奶 / 喷射母乳 / 噴乳"
+    },
+    {
+      "en": "nipple injection",
+      "zh": "乳头注射",
+      "rating": "q",
+      "nsfw": true,
+      "count": 151,
+      "desc": "用注射器向乳头注入液体",
+      "kw": "乳头注药 / 注射乳头 / 乳头注射玩法 / 向乳头注射 / 乳头注入 / 医疗 / 成人"
+    },
+    {
+      "en": "object on breast",
+      "zh": "胸部上的物体",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1216,
+      "desc": "放在角色乳房上的物品",
+      "kw": "胸部置物 / 乳上物体 / 乳房置物 / 胸部放置物品 / 乳上放东西 / 胸部 / 物体"
+    },
+    {
+      "en": "bubble tea challenge",
+      "zh": "珍珠奶茶挑战",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1628,
+      "desc": "将奶茶放在胸部上不用手饮用的挑战",
+      "kw": "不用手喝奶茶挑战 / 胸部放奶茶挑战 / 奶子奶茶挑战 / 奶茶挑战 / 珍奶挑战 / 饮品 / 游戏 / tapioca challenge / 手放しタピオカ / タピオカチャレンジ / タピ岡チャレンジ"
+    },
+    {
+      "en": "tawawa challenge",
+      "zh": "月曜挑战",
+      "rating": "q",
+      "nsfw": true,
+      "count": 317,
+      "desc": "把手机等物放在胸前不掉落的现实挑战梗",
+      "kw": "胸前放手机挑战 / 胸托手机挑战 / 周一的丰满挑战 / 丰满挑战 / 奶茶挑战 / 网络挑战 / meme / たわわチャレンジ"
+    },
+    {
+      "en": "object on pectorals",
+      "zh": "胸肌上放置物体",
+      "rating": "s",
+      "nsfw": false,
+      "count": 95,
+      "desc": "放在角色胸肌上的物品。",
+      "kw": "胸肌上放东西 / 胸上物品 / 胸肌上的物件 / 放在胸肌上的物品 / 胸肌上放置物"
+    },
+    {
+      "en": "oppai challenge",
+      "zh": "欧派挑战",
+      "rating": "q",
+      "nsfw": true,
+      "count": 299,
+      "desc": "在公共场合露出乳房的挑战，可自拍或看向镜头。",
+      "kw": "胸部露出挑战 / 公开露胸挑战 / 露胸挑战 / 奶子挑战 / 胸器挑战 / 露欧派挑战 / 胸部挑战 / 公开露出胸部 / おっぱいチャレンジ"
+    },
+    {
+      "en": "ass on glass",
+      "zh": "屁股贴玻璃",
+      "rating": "q",
+      "nsfw": true,
+      "count": 595,
+      "desc": "臀部明显压在玻璃上",
+      "kw": "屁股在玻璃上 / 臀部在玻璃上 / 臀部贴玻璃 / 玻璃压臀 / 臀部"
+    },
+    {
+      "en": "wing hold",
+      "zh": "翼状抱持",
+      "rating": "g",
+      "nsfw": false,
+      "count": 44
+    },
+    {
+      "en": "wing hug",
+      "zh": "羽翼拥抱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 289,
+      "desc": "用翅膀拥抱他人或被翅膀抱住。",
+      "kw": "翼拥抱 / 翅膀环抱 / 用翅膀抱住 / 被翅膀拥抱 / 翅膀搂抱 / 羽翼环抱 / 拥抱姿势 / 翼の抱擁"
+    },
+    {
+      "en": "wingjob",
+      "zh": "翼交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 32
+    },
+    {
+      "en": "cunt busting",
+      "zh": "阴部击打",
+      "rating": "q",
+      "nsfw": true,
+      "count": 66,
+      "desc": "为性目的击打女性阴部的行为。",
+      "kw": "下体击打 / 打阴部 / 打逼 / 阴部拍打 / 虐阴 / 击打小穴"
+    },
+    {
+      "en": "gun in pussy",
+      "zh": "枪支插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 34
+    },
+    {
+      "en": "phone in pussy",
+      "zh": "手机塞入阴道",
+      "rating": "q",
+      "nsfw": true,
+      "count": 11
+    },
+    {
+      "en": "female ejaculation",
+      "zh": "潮吹",
+      "rating": "e",
+      "nsfw": true,
+      "count": 16840,
+      "desc": "女性在性高潮时从阴道喷出液体，俗称潮喷。",
+      "kw": "潮喷 / 女性射精 / 喷水 / 潮吹液 / 潮喷水 / 高潮喷液 / 阴道喷液 / 潮喷现象 / squirting (sex) / 潮吹き / 潮吹き(女の子の射精)"
+    },
+    {
+      "en": "testicles touching",
+      "zh": "睾丸相触",
+      "rating": "q",
+      "nsfw": true,
+      "count": 163,
+      "desc": "两名角色睾丸相互接触，被衣物遮住时用鼓包相触",
+      "kw": "蛋蛋相碰 / 睾丸互触 / 蛋碰蛋 / 阴囊接触 / 身体接触 / balls touching"
+    },
+    {
+      "en": "ejaculation",
+      "zh": "射精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 75133,
+      "desc": "男性或扶她角色将精液射出体外",
+      "kw": "射液 / 射出 / 喷射 / 射了 / 精液喷射 / 排精 / 喷精 / 精液 / ejaculation between breasts / 大量射精 / 大量挟射 / 强制射精"
+    },
+    {
+      "en": "ejaculating while penetrated",
+      "zh": "被插入时射精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 6244,
+      "desc": "男性或扶她角色在被插入时射精",
+      "kw": "边被插边射精 / 被插射精 / 插入同时射精 / 被插入射精 / 被贯穿射精 / 被插入时高潮射精 / 插入时射精 / 射精 / cum while penetrated / ejaculation when penetrated / ところてん / メスイキ"
+    },
+    {
+      "en": "penis tentacle",
+      "zh": "阴茎触手",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1134,
+      "desc": "顶端形似龟头、通常能射精的触手",
+      "kw": "龟头触手 / 肉棒触手 / JJ触手 / 阳具触手 / 男性器官触手 / 类阴茎触手 / 触手 / 成人 / penis tentacles"
+    },
+    {
+      "en": "tentacle on penis",
+      "zh": "触手缠绕阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 701,
+      "desc": "用触手刺激或缠绕阴茎",
+      "kw": "触手抚弄阴茎 / 触手玩弄下体 / 触手与阴茎接触 / 触手性刺激 / 触手阴茎 / 性行为 / 阴茎刺激 / tentacle job / tentaclejob / tentacles on penis"
+    },
+    {
+      "en": "simulated testicle stimulation",
+      "zh": "模拟睾丸刺激",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "after bath",
+      "zh": "沐浴后",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "carrying over shoulder",
+      "zh": "肩扛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4522,
+      "desc": "将人或物扛在一侧肩膀上。",
+      "kw": "扛东西 / 肩扛物体 / 驮在肩上 / 扛着 / 姿势"
+    },
+    {
+      "en": "fireman's carry",
+      "zh": "消防员抱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 176,
+      "desc": "把人横扛在双肩上的搬运或格斗姿势。",
+      "kw": "消防员扛法 / 消防员式肩扛 / 肩扛式搬运 / 肩扛式抱法 / 横扛在肩 / 消防员搬运 / 扛人 / 姿势 / person over both shoulders / fireman carry / firemans carry"
+    },
+    {
+      "en": "piggyback",
+      "zh": "背人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7242,
+      "desc": "一人伏在另一人背上被背着的姿势。",
+      "kw": "驮着 / 背背 / 背在背上 / 负在背上 / 背驮 / 人背人 / 肩背 / 背负 / carrying on back / 背负 / おんぶ"
+    },
+    {
+      "en": "shoulder carry",
+      "zh": "骑脖子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4481,
+      "desc": "把另一人扛在肩上，被扛者两腿分跨两肩。",
+      "kw": "肩扛 / 肩车 / 骑肩 / 坐肩 / 跨肩 / 骑在肩上 / 肩扛式 / 肩膀上扛人 / shoulder ride / sitting on shoulders / 肩車"
+    },
+    {
+      "en": "standing on shoulder",
+      "zh": "肩上站立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 128,
+      "desc": "站在他人肩膀上的姿势",
+      "kw": "踩在肩膀上 / 立于肩膀 / 站肩 / 站在肩上 / 踩肩 / 立于肩膀之上 / 姿势 / 互动"
+    },
+    {
+      "en": "animal on shoulder",
+      "zh": "肩上动物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11912,
+      "desc": "动物栖息或站在人物肩膀上。",
+      "kw": "肩膀上动物 / 动物在肩上 / 肩上趴动物 / 肩上停动物 / 肩上小动物 / 肩头动物 / 肩上的动物 / 动物"
+    },
+    {
+      "en": "bird on shoulder",
+      "zh": "肩上的鸟",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3733,
+      "desc": "鸟停在人的肩膀上",
+      "kw": "鸟停在肩膀上 / 肩头鸟 / 肩膀上的鸟 / 肩上小鸟 / 肩上停鸟 / 肩扛小鸟 / 鸟类 / 肩部动物"
+    },
+    {
+      "en": "cat on shoulder",
+      "zh": "肩上的猫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1783,
+      "desc": "猫趴在人的肩上。",
+      "kw": "猫咪趴肩 / 猫上肩 / 猫搭肩 / 猫趴在肩上 / 猫蹲肩 / 肩膀上的猫 / 猫"
+    },
+    {
+      "en": "creature on shoulder",
+      "zh": "肩上生物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1382,
+      "desc": "生物停在角色肩上",
+      "kw": "生物趴在肩上 / 停在肩上的生物 / 肩头生物 / 肩上小动物 / 肩上的生物 / 肩头宠物 / 小动物"
+    },
+    {
+      "en": "dog on shoulder",
+      "zh": "肩上的狗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "pokemon on shoulder",
+      "zh": "肩上的宝可梦",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2869,
+      "desc": "宝可梦待在角色肩上",
+      "kw": "肩膀上的宝可梦 / 宝可梦在肩上 / 肩上宝可梦 / 肩头宝可梦 / 肩上口袋妖怪 / 肩上神奇宝贝 / 肩上宠物小精灵 / 宝可梦趴在肩上"
+    },
+    {
+      "en": "rabbit on shoulder",
+      "zh": "肩上的兔子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 191,
+      "desc": "兔子栖息在人的肩膀上",
+      "kw": "兔子趴在肩上 / 肩上兔子 / 肩扛兔子 / 兔子在肩膀上 / 动物 / 宠物 / bunny on shoulder"
+    },
+    {
+      "en": "over shoulder",
+      "zh": "扛在肩上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17458,
+      "desc": "把物体扛在一侧肩上的动作",
+      "kw": "扛着 / 肩上扛 / 搭在肩上 / 肩扛 / 扛起 / 肩膀 / 扛物 / 肩上"
+    },
+    {
+      "en": "lap pillow",
+      "zh": "膝枕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12231,
+      "desc": "头枕在他人大腿上的姿势。",
+      "kw": "大腿枕 / 枕膝 / 躺大腿 / 膝上枕 / 姿势 / 亲密 / head in lap / head on lap / hizamakura / lappillow"
+    },
+    {
+      "en": "one person carrying another on their back",
+      "zh": "一个人背着另一个人",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "facing each other at a short distance",
+      "zh": "面对面站得很近",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sharing an umbrella in the rain",
+      "zh": "在雨里共撑一把伞",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sitting back to back on the floor",
+      "zh": "背靠背坐在地上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cowgirl position",
+      "zh": "骑乘位",
+      "rating": "e",
+      "nsfw": true,
+      "count": 57546,
+      "desc": "女方骑在躺着的男方身上，面向对方的体位。",
+      "kw": "女上位 / 女上骑乘 / 跨坐位 / 骑马位 / 骑乘 / 女上 / 坐上位 / 跨骑位 / cowgirl (position) / 密着骑乘位 / 骑上位 / 騎乗位"
+    },
+    {
+      "en": "reverse cowgirl",
+      "zh": "反向骑乘",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "ass-to-ass",
+      "zh": "臀部相贴",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1500,
+      "desc": "两人将臀部紧贴在一起",
+      "kw": "臀贴臀 / 屁股对屁股 / 贴臀 / 对臀 / 屁股相贴 / 臀部紧贴 / 背对背(屁股对屁股) / ass to ass"
+    },
+    {
+      "en": "back-to-back",
+      "zh": "背靠背",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23313,
+      "desc": "两人背对着彼此站立。",
+      "kw": "背对背 / 背靠背站立 / 背对背站立 / 姿势 / 双人姿势 / back to back / 背中合わせ"
+    },
+    {
+      "en": "belly-to-belly",
+      "zh": "腹部贴合",
+      "rating": "q",
+      "nsfw": true,
+      "count": 612,
+      "desc": "两人腹部贴在一起的姿势",
+      "kw": "贴腹 / 腹贴腹 / 肚贴肚 / 肚子相贴 / 腹部紧贴 / 肚皮贴肚皮 / 摔跤 / 姿势 / stomach-to-stomach / belly to belly"
+    },
+    {
+      "en": "leg lock",
+      "zh": "腿锁",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6514,
+      "desc": "用双腿缠住对方躯干的姿势，常见于性爱中",
+      "kw": "用双腿夹住 / 大腿锁 / 夹腰 / 腿缠绕 / 腿部固定 / 夹住对方 / 姿势 / 格斗 / legs lock / legs around waist / だいしゅきホールド"
+    },
+    {
+      "en": "over the knee",
+      "zh": "腿上俯卧",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1028,
+      "desc": "一人俯卧/弯腰趴在另一人膝上，常用于打屁股。",
+      "kw": "趴膝 / 按在膝上 / 膝上趴 / 伏膝 / 趴在膝头 / 跪伏膝上 / 过膝 / 袜子 / オーバーザニー"
+    },
+    {
+      "en": "nipple-to-nipple",
+      "zh": "乳头对乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1053,
+      "desc": "两名角色乳头直接接触。",
+      "kw": "乳头至乳头 / 奶头相抵 / 乳头接触 / 奶头碰奶头 / 乳头互碰 / 乳首相触 / 乳头碰乳头 / nipple to nipple"
+    },
+    {
+      "en": "shoulder-to-shoulder",
+      "zh": "肩并肩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 506,
+      "desc": "角色肩膀直接贴在一起的并排姿势",
+      "kw": "肩靠肩 / 肩膀贴肩膀 / 并肩 / 肩并着肩 / 姿势 / 并排 / 靠肩"
+    },
+    {
+      "en": "tail lock",
+      "zh": "尾锁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 66,
+      "desc": "性交时用尾巴缠住对方躯干以拉近身体",
+      "kw": "尾巴缠绕 / 尾巴锁技 / 尾巴绞 / 尾巴缠身 / 尾巴固定"
+    },
+    {
+      "en": "circle formation",
+      "zh": "圆形阵型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1383,
+      "desc": "三人以上头朝中心呈圆形排列",
+      "kw": "圆形构图 / 环状排列 / 围成一圈 / 首尾相接圆阵 / 圆心构图 / 百合曼荼罗 / 阵型 / circular formation / radial layout"
+    },
+    {
+      "en": "group hug",
+      "zh": "多人拥抱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1802,
+      "desc": "三人以上的集体拥抱",
+      "kw": "团团抱 / 大家抱在一起 / 群体拥抱 / 抱成一团 / 群抱 / 拥抱 / 团体互动"
+    },
+    {
+      "en": "hug",
+      "zh": "拥抱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 179688,
+      "desc": "用双臂环抱对方身体的亲昵动作",
+      "kw": "抱 / 搂抱 / 相拥 / 搂住 / 环抱 / 怀抱 / 抱抱 / 互动 / hugging / embrace / 抱拥 / ハグ"
+    },
+    {
+      "en": "hug from behind",
+      "zh": "背后拥抱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40013,
+      "desc": "从背后抱住对方；区别于从背后抓握。",
+      "kw": "背后抱 / 后抱 / 从后面抱 / 背部拥抱 / 身后抱 / 背后环抱 / 从背后抱住 / 环抱腰 / back hug"
+    },
+    {
+      "en": "waist hug",
+      "zh": "搂腰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 734,
+      "desc": "搂在对方腰部位置的拥抱",
+      "kw": "抱腰 / 环抱腰部 / 腰部环抱 / 搂抱腰部 / 腰抱 / 抱在腰间 / 姿势"
+    },
+    {
+      "en": "baby carry",
+      "zh": "怀抱婴儿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 837,
+      "desc": "让婴儿仰躺在双臂中的抱法。",
+      "kw": "抱婴儿 / 婴儿抱法 / 仰抱婴儿 / 婴儿仰躺抱 / 婴儿横抱 / 背小孩 / 婴儿携带"
+    },
+    {
+      "en": "carrying",
+      "zh": "搬运",
+      "rating": "g",
+      "nsfw": false,
+      "count": 67266,
+      "desc": "用手臂托抱人或物。",
+      "kw": "抱 / 托着 / 扛着 / 背着 / 拎着 / 手提 / 携带 / carry"
+    },
+    {
+      "en": "carried breast rest",
+      "zh": "托胸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 958,
+      "desc": "用托盘等托着自己的乳房呈给他人或观众",
+      "kw": "用托盘托胸 / 托盘端乳 / 托乳 / 胸托 / 端乳房 / 乳房放托盘 / 姿势 / おっぱいプレート / おっぱいトレイ / 乗せ乳"
+    },
+    {
+      "en": "child carry",
+      "zh": "抱小孩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2598,
+      "desc": "让孩子坐姿抱在怀里的抱法",
+      "kw": "抱娃 / 怀抱孩子 / 儿童抱 / 怀抱幼儿 / 抱婴儿 / 抱着宝宝 / 儿童怀抱"
+    },
+    {
+      "en": "princess carry",
+      "zh": "公主抱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20111,
+      "desc": "一手托背一手托腿的公主抱",
+      "kw": "公主式抱 / 新娘抱 / 横抱 / 公主式横抱 / 抱公主 / 公主抱式 / 浪漫横抱 / 公主抱姿 / bridal carry / お姫様だっこ / お姫様抱っこ / 姫抱っこ"
+    },
+    {
+      "en": "sitting on shoulder",
+      "zh": "坐在肩膀上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1398,
+      "desc": "坐在他人单侧肩膀上，非双肩背。",
+      "kw": "坐在肩头 / 骑在肩膀上 / 坐一侧肩上 / 肩坐 / 姿势"
+    },
+    {
+      "en": "straddling paizuri",
+      "zh": "骑乘式乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 6466,
+      "desc": "男方跨坐在女方身上自行进行乳交的玩法",
+      "kw": "骑乘乳交 / 骑乘位乳交 / 乳交 / 性行为 / 馬乗りパイズリ"
+    },
+    {
+      "en": "upright 69",
+      "zh": "站立式69",
+      "rating": "q",
+      "nsfw": true,
+      "count": 131,
+      "desc": "双方站立进行的69式性行为",
+      "kw": "站立69式 / 站姿69式 / 竖69 / 站立 69 式 / 69式 / 性位 / standing 69"
+    },
+    {
+      "en": "cum on back",
+      "zh": "背部精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1118,
+      "desc": "角色背部沾着精液。",
+      "kw": "背部射精 / 背上沾精 / 射后背 / 精液在背上 / 背后射精 / 背上精液 / 射精 / 背部 / 背射"
+    },
+    {
+      "en": "cum on stomach",
+      "zh": "腹部精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 6877,
+      "desc": "精液沾在角色腹部",
+      "kw": "腹部射精 / 精液在肚子上 / 射在小腹 / 肚子上有精液 / 小腹射精 / 射精 / 腹部 / 腹部上的精液"
+    },
+    {
+      "en": "69",
+      "zh": "69式",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3795,
+      "desc": "两人互相倒置口交的性交体位",
+      "kw": "69体位 / 六九式 / 69姿势 / 性姿势 / 互相口交 / シックスナイン"
+    },
+    {
+      "en": "sex from behind",
+      "zh": "后背位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 110525,
+      "desc": "从后方进入的性交体位，包括狗爬式等",
+      "kw": "后入 / 背后位 / 从后方进入 / 背入式 / 后位性交 / 后方体位 / 性行为 / taken from behind / from behind position / penetration from behind / 背面侧位"
+    },
+    {
+      "en": "doggystyle",
+      "zh": "后入式",
+      "rating": "q",
+      "nsfw": true,
+      "count": 43241,
+      "desc": "四肢着地，从后方进入的性交体位。",
+      "kw": "后背位 / 背后位 / 後背位 / 犬式 / 后入 / 后入体位 / 四肢着地后入 / 性姿势 / doggy style"
+    },
+    {
+      "en": "prone bone",
+      "zh": "俯卧后入位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6852,
+      "desc": "受方俯卧、由后方插入的体位。",
+      "kw": "趴着后入 / 俯卧位后入 / 俯卧后入式 / 卧姿后入 / 背面后入 / 俯卧背入 / 俯卧式 / 性姿势 / 寝バック"
+    },
+    {
+      "en": "standing sex",
+      "zh": "站立位性交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 24328,
+      "desc": "承受方以单脚或双脚站立的性交体位。",
+      "kw": "站姿性交 / 站立位 / 站立做爱 / 站交 / 站姿做爱 / 性姿势 / 立位 / 対面立位 / 立位 / 立ちバック"
+    },
+    {
+      "en": "top-down bottom-up",
+      "zh": "胸膝位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 29508,
+      "desc": "脸朝下、臀部抬高的趴伏姿势。",
+      "kw": "头下臀上 / 翘臀趴姿 / 抬臀趴伏 / 脸贴地翘臀 / 面朝下翘臀 / 倒置 / 视角 / 俯视仰视 / ass-up head-down / face down ass up / face-down ass-up / top-down-bottom-up"
+    },
+    {
+      "en": "spitroast",
+      "zh": "串烧位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7062,
+      "desc": "前后同时被插入且为他人进行口交的体位",
+      "kw": "前后夹击 / 前后双插 / 夹心双插 / 口交双插 / 一前一后夹攻 / 夹心位 / 性交姿势 / 串烧性爱 / 串刺しファック"
+    },
+    {
+      "en": "reverse spitroast",
+      "zh": "逆串烧位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1218,
+      "desc": "两端各有一名女性夹住第三人的反向夹击",
+      "kw": "反向串烧性爱 / 逆串烧 / 反转前后夹击 / 反向三明治 / 两端女夹击 / 逆火车便当 / 性交姿势 / 逆位串烧性爱"
+    },
+    {
+      "en": "spooning",
+      "zh": "勺式拥抱",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3820,
+      "desc": "两人同向侧卧、一人贴另一人后背的姿势",
+      "kw": "勺子式 / 侧卧相拥 / 背面侧位 / 汤匙式侧卧 / 汤勺式抱睡 / 侧抱 / 汤勺姿势 / 性姿势 / 侧位 / 侧躺体位 / 側位 / 松葉崩し"
+    },
+    {
+      "en": "girl on top",
+      "zh": "女上位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 94744,
+      "desc": "女孩位于另一角色上方的姿势，不一定性相关",
+      "kw": "女性上位 / 女上男下 / 女方在上 / 女孩在上面 / 女性骑乘位 / 女骑位 / 骑乘位 / 性姿势 / female on top / 逆正常位"
+    },
+    {
+      "en": "amazon position",
+      "zh": "亚马逊式",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1586,
+      "desc": "女性上位、双腿折叠压向对方的性交体位",
+      "kw": "亚马逊姿势 / 亚马逊骑乘 / 反向打桩式 / 女上折叠体位 / 折叠腿女上位 / 性交体位 / 后入式 / ちんぐり騎乗位 / 種搾りプレス"
+    },
+    {
+      "en": "squatting cowgirl position",
+      "zh": "蹲式骑乘位",
+      "rating": "e",
+      "nsfw": true,
+      "count": 11718,
+      "desc": "女方蹲跨在上方的骑乘位，非跪姿",
+      "kw": "M字骑乘位 / 女上蹲踞位 / 蹲骑乘位 / 蜘蛛骑乘位 / 蹲姿骑乘 / 骑乘位蹲姿 / 蹲式乘骑位 / m字騎乗位 / スパイダー騎乗位"
+    },
+    {
+      "en": "reverse cowgirl position",
+      "zh": "背面骑乘位",
+      "rating": "e",
+      "nsfw": true,
+      "count": 12586,
+      "desc": "女方背对男方跨坐的性交体位",
+      "kw": "反向骑乘位 / 背向女上位 / 背面骑乘 / 反向牛仔式 / 背骑位 / 后入位 / 性姿势 / reverse cowgirl / 背面騎乗位"
+    },
+    {
+      "en": "reverse squatting cowgirl position",
+      "zh": "背面蹲姿骑乘位",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1026,
+      "desc": "女方蹲跨在男方身上背对的骑乘体位",
+      "kw": "反向蹲姿骑乘位 / 蹲踞式背面骑乘位 / 蹲姿逆骑乘位 / 背面蹲式女上位 / 反向蹲骑位 / reverse squat cowgirl / 背对女上位"
+    },
+    {
+      "en": "reverse upright straddle",
+      "zh": "背向跨坐",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6641,
+      "desc": "女方背对坐在男方腿上被从后插入的体位。",
+      "kw": "背面骑乘位 / 反向跨坐 / 背对坐位 / 背坐位 / 反向骑乘 / 背面座位 / 性姿势 / 背面坐位 / 背面座位"
+    },
+    {
+      "en": "upright straddle",
+      "zh": "直立跨坐",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8142,
+      "desc": "一方坐着、另一方跨坐其上的面对面体位",
+      "kw": "对坐体位 / 对面坐位 / 跨坐体位 / 坐姿跨坐 / 莲花坐姿 / 面对面跨坐 / 姿势 / 性姿势 / 对面座位 / 対面座位"
+    },
+    {
+      "en": "boy on top",
+      "zh": "男上位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 11666,
+      "desc": "男性位于上方，不限于性场景",
+      "kw": "男性在上 / 男上 / 男性在上面 / 男方在上 / 男人在上体位 / 男上姿势 / 正常位 / guy on top / male on top"
+    },
+    {
+      "en": "anvil position",
+      "zh": "铁砧位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 42
+    },
+    {
+      "en": "folded",
+      "zh": "折叠体位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 18586,
+      "desc": "双腿向后弯折至极限、身体对折的姿势",
+      "kw": "对折 / 折叠姿势 / 折体 / 屈曲位 / 身体对折 / 折身 / 对折体位 / まんぐり返し / ちんぐり返し"
+    },
+    {
+      "en": "missionary",
+      "zh": "传教士位",
+      "rating": "e",
+      "nsfw": true,
+      "count": 51322,
+      "desc": "一方仰卧、双方面对面的性交体位",
+      "kw": "传教士式 / 正常位 / 男上女下位 / 面对面体位 / 传教士姿势 / 传教士体势 / 性姿势 / 性交姿势 / missionary position / 传教士位 / 屈曲位"
+    },
+    {
+      "en": "mating press",
+      "zh": "种付位",
+      "rating": "e",
+      "nsfw": true,
+      "count": 6572,
+      "desc": "类似正常位，上位者身体几乎完全遮住下位者只露出腿，利于受孕的体位",
+      "kw": "授精体位 / 种付姿势 / 播种位 / 交配体位 / 交配压 / 体位 / 性姿势 / 種付けプレス"
+    },
+    {
+      "en": "suspended congress",
+      "zh": "火车便当式",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3238,
+      "desc": "受方被抬起悬空并面对伴侣插入的性交体位。",
+      "kw": "火车便当 / 站立抱起式 / 悬吊式体位 / 站抱式 / 抱插式 / 抬起插入式 / 悬空体位 / 站立体位抱起 / stand and carry / 駅弁 / 駅弁（体位） / 駅弁ファック"
+    },
+    {
+      "en": "reverse suspended congress",
+      "zh": "逆火车便当式",
+      "rating": "q",
+      "nsfw": true,
+      "count": 9508,
+      "desc": "被抱起从背后插入的体位",
+      "kw": "背后悬空位 / 反向火车便当 / 背后火车便当 / 反向悬空性交 / 悬空后入 / 背后悬空插入 / 逆悬挂式性交 / 性姿势 / reverse stand and carry / 背面駅弁 / 逆駅弁 / 駅弁"
+    },
+    {
+      "en": "full nelson",
+      "zh": "背后扣颈式",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5120,
+      "desc": "从背后锁住对方双肩与后颈的摔跤招式。",
+      "kw": "全尼尔森 / 双肩下握颈锁 / 背后锁颈 / 穿臂锁颈 / 锁肩颈 / 双臂锁喉 / 性姿势 / 锁技 / フルネルソン"
+    },
+    {
+      "en": "piledriver (sex)",
+      "zh": "桩式（体位）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1249,
+      "desc": "受方倒置、攻方从上插入的性交体位",
+      "kw": "打桩机体位 / 倒挂金钩性交 / 倒插体位 / 打桩机性交 / 倒挂式性交 / 桩式 (体位) / 性体位"
+    },
+    {
+      "en": "mounting",
+      "zh": "骑乘位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 725,
+      "desc": "插入方攀爬到承受方身上并缠抱离地的性交体位，常从背后。",
+      "kw": "攀骑位 / 攀附位 / 缠抱位 / 猴抱位 / 背挂位 / 挂抱位 / 反车站便当 / 逆车站体位 / 逆駅弁"
+    },
+    {
+      "en": "standing missionary",
+      "zh": "站立传教士式",
+      "rating": "e",
+      "nsfw": true,
+      "count": 875,
+      "desc": "两人面对面站立的性交姿势",
+      "kw": "站立传教士体位 / 站立传教士 / 面对面站立式 / 站姿正常位 / 站立位正常位 / 性姿势 / 对站式 / 対面立位"
+    },
+    {
+      "en": "bound breasts",
+      "zh": "束胸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 340,
+      "desc": "胸部被绳索、触手等束缚",
+      "kw": "胸部捆绑 / 被绑胸部 / 束缚胸部 / 捆绑胸部 / 胸部被束缚 / 胸部束缚"
+    },
+    {
+      "en": "bound penis",
+      "zh": "束缚阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 112,
+      "desc": "阴茎被绳索等捆绑束缚",
+      "kw": "被捆绑的阴茎 / 被绑阴茎 / 被绳缚阴茎 / 绑住阴茎 / 被捆的生殖器 / 阴茎捆缚 / 鸡儿被绑"
+    },
+    {
+      "en": "bound tail",
+      "zh": "束缚尾巴",
+      "rating": "q",
+      "nsfw": true,
+      "count": 147,
+      "desc": "尾巴被绑住或绑在一起",
+      "kw": "尾巴被绑 / 捆绑尾巴 / 绑尾 / 尾巴捆住 / 性姿势 / 尾巴束缚"
+    },
+    {
+      "en": "cuffs-to-collar",
+      "zh": "袖口连领口",
+      "rating": "q",
+      "nsfw": true,
+      "count": 661,
+      "desc": "手铐与项圈相连以限制行动的束缚方式。",
+      "kw": "手铐连接项圈 / 手铐项圈相连 / 铐连项圈 / 手铐与项圈连接 / 束缚手铐项圈 / 服装 / 束缚"
+    },
+    {
+      "en": "embracing tightly with faces close together",
+      "zh": "紧紧相拥脸贴得很近",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "cum on pectorals",
+      "zh": "胸上精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1443,
+      "desc": "精液沾在男性胸肌上。",
+      "kw": "射在胸肌上 / 胸肌上精液 / 精液在胸肌上 / 男性胸肌精液 / 胸肌上有精液 / 精液沾在胸肌 / 胸肌精液 / 胸肌射精 / semen on pecs / 男性胸肌上的精液"
+    },
+    {
+      "en": "facial",
+      "zh": "颜射",
+      "rating": "e",
+      "nsfw": true,
+      "count": 62919,
+      "desc": "精液射在角色脸上的情形",
+      "kw": "脸部射精 / 脸上射精 / 面部射精 / 颜面射精 / 射脸上 / 精液敷脸 / 颜射场景 / 脸部 / cum on face / 顔射"
+    },
+    {
+      "en": "autofacial",
+      "zh": "自射面部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 631,
+      "desc": "男性或扶他把精液射到自己脸上的性行为",
+      "kw": "自己颜射 / 射自己脸 / 自己脸上射精 / 自脸射 / 给自己颜射 / 自我颜射 / 自我面射 / 颜射 / self facial / セルフ顔射"
+    },
+    {
+      "en": "simulated facial",
+      "zh": "模拟颜射",
+      "rating": "q",
+      "nsfw": true,
+      "count": 317,
+      "desc": "用暗示性液体在脸上模拟颜射效果。",
+      "kw": "假颜射 / 仿真颜射 / 液体颜射 / 模拟射液 / 模拟射精在脸上 / 颜射 / 模拟 / 成人 / suggestive fluid on face / 颜射"
+    },
+    {
+      "en": "cooperative hairjob",
+      "zh": "多人发交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 26
+    },
+    {
+      "en": "strangling with hair",
+      "zh": "头发勒颈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 40
+    },
+    {
+      "en": "holding hands while walking side by side",
+      "zh": "并肩走着牵着手",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dancing together with hands linked",
+      "zh": "牵着手一起跳舞",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "mutual masturbation",
+      "zh": "互相自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1178,
+      "desc": "两名以上的人同时互相手淫",
+      "kw": "互相手淫 / 相互自慰 / 互慰 / 互相打飞机 / 互相打手枪 / 互撸 / 性行为 / masturbating each other / 相互オナニー"
+    },
+    {
+      "en": "bulges touching",
+      "zh": "隔衣裆部接触",
+      "rating": "q",
+      "nsfw": true,
+      "count": 296,
+      "desc": "隔着衣物阴茎相互接触。",
+      "kw": "男性裆部互触 / 隔衣裆部摩擦（二男） / 下体隔衣接触 / 阴茎隔衣物相碰 / 裤裆对碰 / 隔衣生殖器触碰 / 男生下体相贴 / 凸起处接触 / 兜合わせ"
+    },
+    {
+      "en": "sex",
+      "zh": "性交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 406008,
+      "desc": "阴茎或穿戴式器具插入阴道或肛门的行为",
+      "kw": "性爱 / 做爱 / 性行为 / 插入 / 啪啪啪 / 交合 / 房事 / 肉体关系 / fucking / fuck / 対面侧位 / 挿入"
+    },
+    {
+      "en": "post-sex",
+      "zh": "事后",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "piledriver",
+      "zh": "倒立体位",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "standing carry",
+      "zh": "站立抱起",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sixty-nine",
+      "zh": "69式",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "frotting",
+      "zh": "股间摩擦",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "scissoring",
+      "zh": "剪刀式",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "grinding",
+      "zh": "磨蹭",
+      "rating": "q",
+      "nsfw": true,
+      "count": 42,
+      "desc": "一种性行为，女性用阴部摩擦伴侣的阴茎而不插入",
+      "kw": "磨豆腐 / 摩擦 / 女同性行为 / 性行为"
+    },
+    {
+      "en": "thigh sex",
+      "zh": "腿交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5602,
+      "desc": "用阴茎在对方并拢的大腿间摩擦的性行为，俗称素股。",
+      "kw": "大腿交 / 股交 / 大腿摩擦 / 胯下摩擦 / 腿间性交 / 腿间摩擦 / 股间摩擦 / intercrural / sumata / straddle penis / intercrural sex"
+    },
+    {
+      "en": "intercrural",
+      "zh": "股间交",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "group sex",
+      "zh": "群交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 85432,
+      "desc": "三人以上同时进行的性行为。",
+      "kw": "多人性交 / 群体性行为 / 多P / 群P / 多人 / 3P / 4P / 群体性爱 / groupsex / foursome / fivesome"
+    },
+    {
+      "en": "double penetration",
+      "zh": "双插",
+      "rating": "e",
+      "nsfw": true,
+      "count": 14845,
+      "desc": "两处孔穴同时被插入，或一处孔穴被两物插入",
+      "kw": "双穴 / 两穴 / 二穴 / 双穴插入 / 双重贯穿 / 双管齐下 / 双枪插入 / doublepenetration / dp / 2穴 / 二穴責め"
+    },
+    {
+      "en": "creampie",
+      "zh": "内射",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "cumshot",
+      "zh": "射精",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "cum on face",
+      "zh": "脸上精液",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "cum on breasts",
+      "zh": "胸部精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 55642,
+      "desc": "精液沾在女性乳房上。",
+      "kw": "胸部射精 / 精液在胸上 / 精液涂胸 / 精液沾满胸部 / 胸射 / 乳射 / 精液覆盖胸部 / 射在奶子上 / cum on tits / cum between breasts / semen on breasts"
+    },
+    {
+      "en": "cum on ass",
+      "zh": "臀上精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 11330,
+      "desc": "精液射在臀部表面，未进入体内。",
+      "kw": "精液在屁股上 / 屁股精液 / 臀部有精液 / 精液沾在屁股 / 射在臀部 / 臀部射精 / 精液 / 体液 / semen on ass"
+    },
+    {
+      "en": "cum in pussy",
+      "zh": "阴道内射",
+      "rating": "e",
+      "nsfw": true,
+      "count": 148128,
+      "desc": "射精在阴道内，俗称内射、中出。",
+      "kw": "中出 / 体内射精 / 膣内射精 / 阴道射精 / 阴道中出 / 体内射 / 射在阴道里 / cum inside / vaginal nakadashi / vaginal creampie / nakadashi"
+    },
+    {
+      "en": "cum in ass",
+      "zh": "肛门内射",
+      "rating": "e",
+      "nsfw": true,
+      "count": 21947,
+      "desc": "射精在肛门内的性行为",
+      "kw": "肛内射精 / 肛门中出 / 内射肛门 / 肛内中出 / 直肠内射精 / 射精 / 肛交 / semen in anus / anal nakadashi / anal creampie / アナル中出し"
+    },
+    {
+      "en": "orgasm",
+      "zh": "高潮",
+      "rating": "q",
+      "nsfw": true,
+      "count": 26372,
+      "desc": "性刺激引起的性高潮反应",
+      "kw": "性高潮 / 绝顶 / 强制绝顶 / 连续绝顶 / 高潮反应 / 性高潮反应 / 絶頂 / 連続絶頂 / 強制絶頂 / 仰け反り絶頂"
+    },
+    {
+      "en": "milking",
+      "zh": "挤奶",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "breeding",
+      "zh": "播种",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "public indecency",
+      "zh": "公开场合",
+      "rating": "q",
+      "nsfw": true,
+      "count": 20853,
+      "desc": "在公共场合进行裸露、自慰或性行为等猥亵行为。",
+      "kw": "公开猥亵 / 公共场合猥亵 / 当众性行为 / 公共场合性行为 / 公开性行为 / 公共场合裸露 / 公众场合裸露 / 公开露出 / public / public sex / 露出症"
+    },
+    {
+      "en": "woman on top",
+      "zh": "女上位",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "man on top",
+      "zh": "男上位",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "cradle position",
+      "zh": "抱位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 90,
+      "desc": "像抱婴儿一样将伴侣抱在腿上进行哺乳/手交的体位",
+      "kw": "摇篮体位 / 怀抱式 / 婴儿抱式 / 摇篮抱体位 / 怀中体位 / 哺乳手交体位 / 抱婴体位"
+    },
+    {
+      "en": "side-by-side",
+      "zh": "侧抱位",
+      "rating": "q",
+      "nsfw": true,
+      "count": 16846,
+      "desc": "两个以上角色紧挨着并排站在一起。",
+      "kw": "肩并肩 / 并排站 / 并排排列 / 并排站立 / 排排站 / 并排坐 / 相邻 / 并肩 / side by side / 横に並んで"
+    },
+    {
+      "en": "butterfly position",
+      "zh": "蝴蝶位",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "pregnant sex",
+      "zh": "孕期性行为",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "cuddling",
+      "zh": "事后拥抱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6083,
+      "desc": "为取暖或表达亲密而长时间依偎相拥",
+      "kw": "搂抱 / 相拥 / 拥抱 / 偎依 / 亲昵依偎 / 依偎取暖 / 互相依偎 / 亲密搂抱 / cuddle / snuggle / 相互爱抚 / 相互愛撫"
+    },
+    {
+      "en": "lap dance",
+      "zh": "大腿舞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 37
+    },
+    {
+      "en": "striptease",
+      "zh": "脱衣舞",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "pole dance",
+      "zh": "钢管舞",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "public sex",
+      "zh": "公开性行为",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "cum on body",
+      "zh": "身上沾有精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 131989,
+      "desc": "精液直接接触并附着在身体皮肤上。",
+      "kw": "射在身上 / 精液在身上 / 身体上有精液 / 精液涂身 / 精液覆盖身体 / 射满身体 / 精液沾身 / 身上精液 / cum on hips / cum on arm / cum on arms / semen on body"
+    },
+    {
+      "en": "squirting",
+      "zh": "潮吹",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "cum on clothes",
+      "zh": "衣物上精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 17057,
+      "desc": "精液沾在衣物外表面",
+      "kw": "衣服上的精液 / 精液沾衣 / 精液在衣服上 / 精液 / 污秽 / cum on clothing / cum inside clothes / cum inside thighhigh / cum on buruma"
+    },
+    {
+      "en": "cum on hair",
+      "zh": "头发上精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 30453,
+      "desc": "精液沾在头发上",
+      "kw": "精液在头发上 / 射在头发 / 沾在头发上 / 头发沾精 / 体液 / cum in hair / semen on hair / 髪射"
+    },
+    {
+      "en": "cum in container",
+      "zh": "容器中的精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1943,
+      "desc": "精液射入容器中，常为后饮",
+      "kw": "射进容器 / 精液在容器里 / 精液容器 / 射入杯中 / 射在杯子里 / 射进杯子 / 精液射入容器 / 容器"
+    },
+    {
+      "en": "frottage",
+      "zh": "紧贴摩擦",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2522,
+      "desc": "用性器官摩擦他人身体的行为",
+      "kw": "裆部摩擦 / 下体摩擦 / 身体摩擦 / 蹭身体 / 干磨 / 蹭蹭 / 性器摩擦 / 股间蹭 / frotting / 裆部摩擦（总称） / 裆部触碰 / 兜合わせ"
+    },
+    {
+      "en": "armpit sex",
+      "zh": "腋交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1303,
+      "desc": "用阴茎摩擦对方腋下的行为，并非真正插入。",
+      "kw": "腋下性爱 / 腋下摩擦 / 腋射 / 腋下交合 / 腋下蹭 / 腋摩擦 / 性行为 / 腋コキ / 脇コキ"
+    },
+    {
+      "en": "pussyjob",
+      "zh": "素股",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6076,
+      "desc": "未插入仅用阴部摩擦阴茎的性行为。",
+      "kw": "阴部摩擦 / 外阴摩擦 / 股间磨蹭 / 阴部蹭 / 非插入摩擦 / 性行为 / 磨阴"
+    },
+    {
+      "en": "backjob",
+      "zh": "背部摩擦",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "buttjob",
+      "zh": "臀交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3343,
+      "desc": "用臀沟夹住阴茎摩擦而不插入的性行为",
+      "kw": "臀部摩擦 / 臀沟摩擦 / 股沟摩擦 / 股间性交 / 性行为 / hotdogging / shirikoki / assjob / 尻コキ"
+    },
+    {
+      "en": "kneepit sex",
+      "zh": "膝窝性交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 438,
+      "desc": "把阴茎夹在对方膝窝中摩擦",
+      "kw": "膝窝交 / 膝盖窝性交 / 膝弯性交 / 膝下交 / 膝窝摩擦 / 性交 / 姿势 / knee pit sex / 膝裏コキ"
+    },
+    {
+      "en": "legjob",
+      "zh": "夹腿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 81,
+      "desc": "用大腿夹住阴茎摩擦的性行为",
+      "kw": "大腿夹 / 腿间性交 / 腿间摩擦 / 大腿摩擦"
+    },
+    {
+      "en": "paizuri",
+      "zh": "乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 61192,
+      "desc": "用乳房夹住阴茎进行摩擦的性行为",
+      "kw": "胸交 / 奶炮 / 乳炮 / 打奶炮 / 乳夹 / 乳挾 / 乳房摩擦 / 奶交 / tit fuck / titfuck / titjob / 大量挟射"
+    },
+    {
+      "en": "assisted paizuri",
+      "zh": "辅助乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 145,
+      "desc": "由他人操纵乳房对自己进行乳交。",
+      "kw": "帮人乳交 / 他人协助乳交 / 共同乳交 / 协助性乳交 / 双人乳交 / paizuri变体 / 手控titjob"
+    },
+    {
+      "en": "autopaizuri",
+      "zh": "自慰乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 271,
+      "desc": "自己对自己进行乳交",
+      "kw": "自我乳交 / 自撸乳交 / 自己给自己乳交 / 自乳交行为 / 性行为 / セルフパイズリ"
+    },
+    {
+      "en": "cooperative paizuri",
+      "zh": "多人乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 3150,
+      "desc": "两名以上女孩同时用胸部夹弄阴茎。",
+      "kw": "双人乳交 / 合作乳交 / 共同乳交 / 乳交 / multiple paizuri / wパイズリ / ダブルパイズリ"
+    },
+    {
+      "en": "handsfree paizuri",
+      "zh": "免手乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 2102,
+      "desc": "双方都不用手的乳交",
+      "kw": "不用手乳交 / 无手胸交 / 空手乳交 / 无手打奶炮 / 无需用手乳交 / 乳交 / 性行为 / ノーハンドパイズリ"
+    },
+    {
+      "en": "naizuri",
+      "zh": "平胸乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1060,
+      "desc": "贫乳角色试图用不足的乳沟夹住阴茎摩擦。",
+      "kw": "贫乳擦 / 贫乳乳交 / 乳沟摩擦 / 无沟擦 / 无胸擦 / 无乳乳交 / 性行为 / ちっぱいズリ / 無い擦り / ナイズリ"
+    },
+    {
+      "en": "paizuri over clothes",
+      "zh": "隔衣乳交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 411,
+      "desc": "隔着衣服、没有肌肤接触的乳交",
+      "kw": "隔着衣物乳交 / 不脱衣乳交 / 衣物乳交 / 穿着衣服乳交 / 隔衣服乳交 / 乳交 / 性行为"
+    },
+    {
+      "en": "paizuri on lap",
+      "zh": "膝上乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 625,
+      "desc": "接受方坐在施与方腿上进行的乳交",
+      "kw": "坐腿乳交 / 抱坐乳交 / 坐姿乳交 / 乳交 / 性行为 / 膝上パイズリ"
+    },
+    {
+      "en": "paizuri under clothes",
+      "zh": "衣内乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 7780,
+      "desc": "穿着衣服进行的乳交；若完全隔着衣服无皮肤接触则用 paizuri over clothes。",
+      "kw": "隔衣乳交 / 穿衣服乳交 / 衣着乳交 / 不脱衣乳交 / 乳交 / 性行为 / 着衣パイズリ"
+    },
+    {
+      "en": "pecjob",
+      "zh": "胸交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 334,
+      "desc": "将阴茎夹在对方胸肌间摩擦的性行为",
+      "kw": "胸肌性交 / 胸肌夹阴茎 / 胸肌乳交 / 胸肌paizuri / 胸肌夹丁丁 / 男性乳交 / 胸肌摩擦 / pecfuck / pec fuck / male paizuri / 男パイズリ"
+    },
+    {
+      "en": "perpendicular paizuri",
+      "zh": "垂直乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 2483,
+      "desc": "阴茎朝向胸口插入的垂直方向乳交",
+      "kw": "纵向乳交 / 垂直方向的乳交 / 竖向乳交 / 乳交 / 性姿势 / 縦パイズリ"
+    },
+    {
+      "en": "stealth paizuri",
+      "zh": "隐秘乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 32
+    },
+    {
+      "en": "sideways perpendicular paizuri",
+      "zh": "侧向垂直乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 249,
+      "desc": "阴茎从侧面垂直方向摩擦乳房的乳交",
+      "kw": "侧向垂直乳交体位 / 侧垂直乳交 / 侧面垂直乳交 / 侧身垂直乳交 / 侧位垂直乳交 / 垂直侧向乳交 / 横乳 / 乳交"
+    },
+    {
+      "en": "glansjob",
+      "zh": "龟头责",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2150,
+      "desc": "只刺激龟头而不碰阴茎体的性行为，常见用手掌或布料摩擦。",
+      "kw": "龟头刺激 / 龟头摩擦 / 龟头按摩 / 龟头爱抚 / 只刺激龟头 / 龟头撸 / 手淫 / 性行为 / 亀頭責め"
+    },
+    {
+      "en": "cloth glansjob",
+      "zh": "布料龟头按摩",
+      "rating": "q",
+      "nsfw": true,
+      "count": 66,
+      "desc": "用绷紧的布（纱布/内裤等）摩擦龟头进行刺激",
+      "kw": "布擦龟头 / 布巾搓龟头 / 布料龟头刺激 / 纱布龟头摩擦 / 内裤龟头摩擦 / 龟头布擦 / 布磨龟头"
+    },
+    {
+      "en": "hairjob",
+      "zh": "发交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1783,
+      "desc": "用头发摩擦生殖器的性行为",
+      "kw": "头发榨精 / 用头发摩擦生殖器 / 头发撸管 / 头发手交 / 发责 / 性行为 / 成人 / 髪コキ / 髪コキチンカス掃除"
+    },
+    {
+      "en": "masturbation",
+      "zh": "自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 52363,
+      "desc": "刺激自身性敏感部位以获得性快感的行为",
+      "kw": "手淫 / 自渎 / 自慰行为 / 自我安慰 / 手活 / 打飞机 / 撸管 / 手冲 / masturbate / masturbating / onani / オナニー"
+    },
+    {
+      "en": "building sex",
+      "zh": "建筑性行为",
+      "rating": "q",
+      "nsfw": true,
+      "count": 27
+    },
+    {
+      "en": "pillow humping",
+      "zh": "对枕头做爱抚动作",
+      "rating": "q",
+      "nsfw": true,
+      "count": 342,
+      "desc": "用胯部摩擦或顶撞枕头自慰。",
+      "kw": "骑枕头 / 蹭枕头 / 枕头自慰 / 枕头磨蹭 / 用枕头自慰 / 顶枕头 / 枕头摩擦 / 性行为 / pillow sex"
+    },
+    {
+      "en": "teddy bear sex",
+      "zh": "泰迪熊性行为",
+      "rating": "q",
+      "nsfw": true,
+      "count": 117,
+      "desc": "用泰迪熊摩擦生殖器自慰或把熊当对象性行为",
+      "kw": "泰迪熊自慰 / 与泰迪熊做爱 / 骑泰迪熊 / 摩擦泰迪熊 / 泰迪熊性交 / 玩具 / 性玩具"
+    },
+    {
+      "en": "table humping",
+      "zh": "蹭桌角",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1244,
+      "desc": "为自慰用裆部摩擦桌角等家具",
+      "kw": "磨桌子 / 桌角摩擦 / 磨桌自慰 / 角磨 / 蹭桌子 / 性行为 / 桌角自慰 / tablesex / table sex / 角オナ / 角オナニー"
+    },
+    {
+      "en": "female masturbation",
+      "zh": "女性自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 37597,
+      "desc": "女性角色用自己手指、性玩具等自慰，不包括扶她。",
+      "kw": "女性手淫 / 自慰女 / 女性自我安慰 / 手淫女 / 自慰 / 手淫 / 性行为 / masturbation (female) / 手マンオナニー / オナニー女"
+    },
+    {
+      "en": "futanari masturbation",
+      "zh": "扶她自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3872,
+      "desc": "扶她角色自我取悦的行为。",
+      "kw": "扶他自慰 / 扶她自摸 / 扶他自摸 / 扶她自渎 / 扶她手淫 / 扶他手淫 / 扶她自我取悦 / 双性人 / newhalf masturbation"
+    },
+    {
+      "en": "implied masturbation",
+      "zh": "暗示自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1431,
+      "desc": "姿势表情等暗示角色正在自慰",
+      "kw": "暗示自渎 / 表情暗示自慰 / 姿势暗示自慰 / 疑似手淫 / 行为 / 暗示"
+    },
+    {
+      "en": "male masturbation",
+      "zh": "男性自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 9267,
+      "desc": "男性角色的自慰行为",
+      "kw": "男自慰 / 男性手淫 / 男手淫 / 打飞机 / 撸管 / 自渎 / 手冲 / 撸 / masturbation (male) / 男オナニー / せんずり / 女装オナニー"
+    },
+    {
+      "en": "masturbation through clothes",
+      "zh": "隔衣自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3422,
+      "desc": "隔着衣服触摸自己自慰，不直接接触性器官。",
+      "kw": "隔着衣物自慰 / 隔裤自慰 / 不脱衣自慰 / 衣外自慰 / 隔着内裤自慰 / 隔裙自慰 / 自慰 / masturbation through clothing / masturbation over clothes"
+    },
+    {
+      "en": "masturbation under clothes",
+      "zh": "衣内自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1648,
+      "desc": "把手伸进衣服内进行自慰。",
+      "kw": "衣服内自慰 / 着衣自慰 / 伸入衣服自慰 / 手伸进衣服自慰 / 隔衣手淫 / 自慰 / 色情 / 伸入衣服下手淫"
+    },
+    {
+      "en": "stealth masturbation",
+      "zh": "隐秘自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 605,
+      "desc": "在旁人附近偷偷进行的自慰",
+      "kw": "悄悄自慰 / 偷摸自慰 / 暗中自慰 / 隐藏自慰 / 秘密自慰 / 偷着自慰 / 自慰 / hidden masturbation"
+    },
+    {
+      "en": "tail masturbation",
+      "zh": "尾巴自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 297,
+      "desc": "角色用尾巴对自己进行性刺激。",
+      "kw": "尾部手淫 / 用尾巴自慰 / 尾巴手淫 / 尾巴自渎 / 尾巴插入自慰 / 尾巴抚慰下体 / 尾巴自慰行为 / 自慰"
+    },
+    {
+      "en": "tail insertion",
+      "zh": "尾巴插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 411,
+      "desc": "用尾巴对他人进行插入的性行为",
+      "kw": "尾巴性交 / 尾插入 / 用尾巴插入 / 插入 / 性玩具 / 尾巴"
+    },
+    {
+      "en": "tailjob",
+      "zh": "尾交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 885,
+      "desc": "用可缠绕的尾巴代替手进行的性刺激",
+      "kw": "尾巴撸管 / 尾巴手活 / 尾巴摩擦 / 尾部手交 / 性行为 / 尾巴"
+    },
+    {
+      "en": "daisy chain (sex)",
+      "zh": "菊花链（性行为）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 37
+    },
+    {
+      "en": "gangbang",
+      "zh": "轮奸",
+      "rating": "e",
+      "nsfw": true,
+      "count": 25525,
+      "desc": "三人以上对同一人进行的群体性行为",
+      "kw": "多P / 群P / 多人性交 / 多对一性交 / 轮暴 / 群体性侵 / 车轮战 / 多人轮上 / gang bang / gang rape / gangrape / gangsex"
+    },
+    {
+      "en": "triple penetration",
+      "zh": "三重插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1905,
+      "desc": "三个口或同一口被三个物体同时插入",
+      "kw": "三穴 / 三穴齐插 / 三穴同时插入 / 三孔插入 / 三开口插入 / 多重插入 / 插入"
+    },
+    {
+      "en": "love train",
+      "zh": "火车便当（性行为）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 209,
+      "desc": "多人排成一行进行性行为，常在背后位",
+      "kw": "人列 / 多人连排 / 成排后入 / 人形列车 / 多人接龙 / 爱之列车 / 性行为 / 火车式性行为 / ちんちん電車"
+    },
+    {
+      "en": "cooperative breast smother",
+      "zh": "多人胸部闷杀",
+      "rating": "q",
+      "nsfw": true,
+      "count": 56,
+      "desc": "两个或以上女孩用胸部闷压一个角色。",
+      "kw": "多人胸埋 / 合作洗面奶 / 多人洗面奶 / 胸部闷脸 / 奶子压脸 / 合作胸部窒息"
+    },
+    {
+      "en": "orgy",
+      "zh": "乱交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 9136,
+      "desc": "多对或多组人同时进行性行为的群交",
+      "kw": "群交 / 群P / 多人性交 / 乱交派对 / 群体性行为 / 多人运动 / 杂交 / 群p / 男女女男"
+    },
+    {
+      "en": "teamwork (sexual)",
+      "zh": "多人协作（性行为）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 12462,
+      "desc": "多人联手以同一种非插入方式服务同一人",
+      "kw": "协力性行为 / 合作性行为 / 团队性行为 / 合作行为 / 多人性交 / 群交"
+    },
+    {
+      "en": "threesome",
+      "zh": "三人行（3P）",
+      "rating": "e",
+      "nsfw": true,
+      "count": 45725,
+      "desc": "恰好三人参与的性行为",
+      "kw": "3P / 三P / 三人性爱 / 三人行 / 三人性交 / 群交 / 3p"
+    },
+    {
+      "en": "mmf threesome",
+      "zh": "两男一女三人行",
+      "rating": "e",
+      "nsfw": true,
+      "count": 18956,
+      "desc": "两男一女之间的三人性行为",
+      "kw": "二男一女 / 一女两男 / 男女男 / 两男一女3P / 二男一女3P / 两男共享一女 / 三人行 / fmm threesome"
+    },
+    {
+      "en": "ffm threesome",
+      "zh": "两女一男三人行",
+      "rating": "e",
+      "nsfw": true,
+      "count": 19499,
+      "desc": "两女一男的三人性爱",
+      "kw": "两女一男3P / 二女一男3P / 双飞 / 一男二女 / 两女一男性交 / 二女一男做爱 / 三人行 / mff threesome"
+    },
+    {
+      "en": "mmm threesome",
+      "zh": "三男3P",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1546,
+      "desc": "三名男性之间的性行为",
+      "kw": "三男三人行 / 男男男三人性行为 / 三男性交 / 三男同床 / 三人行 / 男同 / 成人"
+    },
+    {
+      "en": "fff threesome",
+      "zh": "三女3P",
+      "rating": "e",
+      "nsfw": true,
+      "count": 2852,
+      "desc": "三名女性之间的三人性爱。",
+      "kw": "女女女三人性爱 / 3女3P / 三女三人行 / 女性三人性爱 / 百合3P / 女女女三人行 / 群交"
+    },
+    {
+      "en": "fdd threesome",
+      "zh": "FDD_三人行",
+      "rating": "e",
+      "nsfw": true,
+      "count": 912,
+      "desc": "两名扶她与一名女性的三人性爱",
+      "kw": "双扶她一女三人行 / 两伪娘一女三人行 / 两扶她与一女3P / FDD 三人行 / 三人行 / 性交姿势 / ttf threesome / ddf threesome"
+    },
+    {
+      "en": "mdd threesome",
+      "zh": "一男两扶她三人行（MDD）",
+      "rating": "e",
+      "nsfw": true,
+      "count": 225,
+      "desc": "一名男性与两名扶他角色的三人性行为",
+      "kw": "一男两扶她三人行 / 双扶他一男 / 一男二扶他 / 一男两扶他 / 一男两扶她 / 两扶他一男 / 二扶他一男 / MDD 三人行 / ttm threesome / ddm threesome"
+    },
+    {
+      "en": "ffd threesome",
+      "zh": "两女一扶她三人行（FFD）",
+      "rating": "e",
+      "nsfw": true,
+      "count": 828,
+      "desc": "两名女性与一名扶她的三人性爱场景",
+      "kw": "两女一扶她3P / 双女一扶她3P / 女女扶她三人行 / FFD三人行 / 两女一男三人行 / 三人行 / 性交 / fft threesome / dff threesome"
+    },
+    {
+      "en": "mmd threesome",
+      "zh": "三人行（两女一扶她）",
+      "rating": "e",
+      "nsfw": true,
+      "count": 100,
+      "desc": "两名男性与一名扶她的三人性行为",
+      "kw": "两男一扶她 / 双男一扶她 / 男男扶她 / 二男一扶她3P / 两男一扶她三人性行为 / mmt threesome / dmm threesome"
+    },
+    {
+      "en": "ddd threesome",
+      "zh": "扶她三人行",
+      "rating": "e",
+      "nsfw": true,
+      "count": 143,
+      "desc": "仅由扶他角色组成的三人群交",
+      "kw": "扶他3P / 扶他三人组 / 三扶他群交 / 扶他三人性交 / DDD三人行 / 3P / 性行为 / 三人行 / ttt threesome"
+    },
+    {
+      "en": "mfd threesome",
+      "zh": "男/女/扶他_3P",
+      "rating": "e",
+      "nsfw": true,
+      "count": 178,
+      "desc": "一名男性、一名女性和一名扶她参与的三P",
+      "kw": "男女扶她3P / 男女扶他三人行 / 一男一女一扶她 / 男女+扶她三人 / 混合三人行 / 男/女/扶她三人行 / 男 / 女 / mtf threesome"
+    },
+    {
+      "en": "mmc threesome",
+      "zh": "三人行（两男一伪娘）",
+      "rating": "e",
+      "nsfw": true,
+      "count": 29
+    },
+    {
+      "en": "ffc threesome",
+      "zh": "三人行（两女一伪娘）",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "mcc threesome",
+      "zh": "三人行（一女两伪娘）",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "ccc threesome",
+      "zh": "三人行（三伪娘）",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "mmo threesome",
+      "zh": "三人行（两男一其他）",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "ffo threesome",
+      "zh": "三人行（两女一其他）",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "oof threesome",
+      "zh": "三人行（两其他一女）",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "oom threesome",
+      "zh": "三人行（两其他一男）",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "mfo threesome",
+      "zh": "三人行（一男一女一其他）",
+      "rating": "e",
+      "nsfw": true,
+      "count": 29
+    },
+    {
+      "en": "foursome",
+      "zh": "四人行",
+      "rating": "q",
+      "nsfw": true,
+      "count": 16547,
+      "desc": "四人同时进行的性交行为。",
+      "kw": "4P / 四人做爱 / 四人乱交 / 四人组性爱 / 四人性行为 / 四人一起 / 四人群p"
+    },
+    {
+      "en": "fivesome",
+      "zh": "五人行",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5161,
+      "desc": "五人同时进行的性行为。",
+      "kw": "5P / 五人乱交 / 五人做爱 / 五人交欢 / 五人淫趴 / 五人群p / 多人性爱"
+    },
+    {
+      "en": "sexual animal insertion",
+      "zh": "动物异物插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 104,
+      "desc": "将动物（如鱼、蛞蝓、蠕虫等）插入阴道或肛门。如果是人被插入，请使用“unbirthing”标签。",
+      "kw": "性行为 / 插入 / 猎奇"
+    },
+    {
+      "en": "cervical penetration",
+      "zh": "宫颈贯穿",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1025,
+      "desc": "阴茎穿透子宫颈，常以截面图或X光视角表现。",
+      "kw": "宫颈插入 / 子宫颈插入 / 子宫口插入 / 子宫颈贯穿 / 子宫颈入 / 插入 / 性交 / 子宫奸 / 子宮姦"
+    },
+    {
+      "en": "covered penetration",
+      "zh": "遮挡下的性交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1434,
+      "desc": "插入动作被衣物或物体遮挡，常可见轮廓",
+      "kw": "遮挡插入 / 衣物遮挡插入 / 隐藏插入 / 裙子遮挡插入 / 隔衣插入 / 遮挡性交 / 被遮挡的插入 / 遮掩插入 / これ絶対入ってるよね"
+    },
+    {
+      "en": "deep penetration",
+      "zh": "深度插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 10575,
+      "desc": "阴茎完全没入、只剩睾丸在外的深度插入。",
+      "kw": "完全插入 / 一插到底 / 深插入 / 插到根部 / 全根没入 / 顶到底 / 捅到底 / balls deep / 子宮をノック"
+    },
+    {
+      "en": "large insertion",
+      "zh": "巨物插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 3282,
+      "desc": "巨大阳具或粗大物体塞入性器的状态",
+      "kw": "巨大插入 / 粗大插入 / 大物插入 / 巨型插入 / 超大插入 / 巨根插入 / 大体量插入 / extreme insertion / huge insertion"
+    },
+    {
+      "en": "male penetrated",
+      "zh": "男性被插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 19321,
+      "desc": "男性角色被插入的性行为画面",
+      "kw": "被插入的男性 / 男性遭插入 / 男性受方 / 男受 / 男性被进入 / 男性承受方 / 性交 / 后入"
+    },
+    {
+      "en": "multiple insertions",
+      "zh": "多重插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 432,
+      "desc": "多个物体同时插入身体孔洞",
+      "kw": "多根插入 / 同时插入多个 / 复数插入 / 多个物体塞入 / 性行为"
+    },
+    {
+      "en": "nipple penetration",
+      "zh": "乳头贯穿",
+      "rating": "e",
+      "nsfw": true,
+      "count": 751,
+      "desc": "物体插入乳头内部的玩法",
+      "kw": "乳头穿刺 / 乳首插入 / 乳首姦 / 乳头交 / 奶头插入 / 奶头穿刺 / 乳头侵入 / nipple fuck / ニプルファック"
+    },
+    {
+      "en": "nosejob",
+      "zh": "鼻交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 28
+    },
+    {
+      "en": "object insertion",
+      "zh": "异物插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 38620,
+      "desc": "无生命物体插入阴道、肛门或尿道，不包括阴茎、手指和触手。",
+      "kw": "异物塞入 / 插入异物 / 异物play / 塞入异物 / 异物插入play / 塞异物 / 性行为 / 插入玩具 / insertion / 异物挿入 / 異物挿入"
+    },
+    {
+      "en": "vaginal object insertion",
+      "zh": "阴道异物插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 18041,
+      "desc": "将无生命物体插入阴道。",
+      "kw": "阴道塞入 / 阴道插入物体 / 阴道放入异物 / 异物插入阴道 / 阴道插入异物 / 阴道物体插入 / 性行为 / 插入 / vaginal insertion / vaginal object push"
+    },
+    {
+      "en": "anal object insertion",
+      "zh": "肛门异物插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 20778,
+      "desc": "将无生命物体插入肛门的行为",
+      "kw": "肛门插入异物 / 肛内异物插入 / 肛门塞物 / 后穴异物插入 / 肛门被异物插入 / 异物进入肛门 / 肛塞异物 / 性行为 / anal insertion / anal object push / 肛门物体插入"
+    },
+    {
+      "en": "urethral insertion",
+      "zh": "尿道插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1845,
+      "desc": "将物体插入男性或女性尿道的行为",
+      "kw": "尿道play / 尿道刺激 / 尿道扩张 / 插尿道 / 尿道插入物 / 尿道异物插入 / 尿道调教 / 尿道プレイ / urethral object push / 尿道ファック"
+    },
+    {
+      "en": "after sex",
+      "zh": "事后",
+      "rating": "q",
+      "nsfw": true,
+      "count": 53203,
+      "desc": "性交刚结束后的场景。",
+      "kw": "完事后 / 性爱之后 / 刚做完爱 / 性交后 / 事後 / 性事后 / 云雨后 / aftersex / 歩き事後 / ずらし事後"
+    },
+    {
+      "en": "after anal",
+      "zh": "肛交后",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8031,
+      "desc": "肛交刚结束后的场景或状态。",
+      "kw": "肛交之后 / 肛交过后 / 肛交结束 / 刚肛交完 / 肛交后场景 / 被肛后 / 走后门后 / 菊花被插后"
+    },
+    {
+      "en": "after buttjob",
+      "zh": "事后（肛交）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 39
+    },
+    {
+      "en": "after frottage",
+      "zh": "摩擦后",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "after insertion",
+      "zh": "插入后",
+      "rating": "e",
+      "nsfw": true,
+      "count": 271,
+      "desc": "性器或物体刚拔出后残留体液的状态",
+      "kw": "事后 / 事后状态 / 刚拔出 / 插入后残留 / 拔出后 / 性行为"
+    },
+    {
+      "en": "after masturbation",
+      "zh": "自慰后",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1405,
+      "desc": "自慰刚结束后的场景，可能残留体液。",
+      "kw": "自慰之后 / 手淫后 / 自慰结束 / 撸后 / 自慰过后 / 自慰完成 / 生理状态 / 事后"
+    },
+    {
+      "en": "after paizuri",
+      "zh": "乳交后",
+      "rating": "e",
+      "nsfw": true,
+      "count": 3560,
+      "desc": "乳交刚结束、乳房上有精液的状态",
+      "kw": "乳交之后 / 刚乳交完 / 乳交事后 / 乳交结束 / 性行为 / paizuri / ズリ事後"
+    },
+    {
+      "en": "after rape",
+      "zh": "强奸后",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2938,
+      "desc": "强奸结束后的场景",
+      "kw": "强奸之后 / 被强奸后 / 被强暴后 / 遭强奸后 / 强暴后 / broken rape victim"
+    },
+    {
+      "en": "after urethral",
+      "zh": "尿道插入后",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "after vaginal",
+      "zh": "阴道性交后",
+      "rating": "e",
+      "nsfw": true,
+      "count": 26787,
+      "desc": "阴道性交刚结束后的场景",
+      "kw": "事后 / 阴道性交事后 / 阴道性行为后 / 性交后 / 阴道性爱后 / 成人 / 阴道性交之后"
+    },
+    {
+      "en": "afterglow",
+      "zh": "余韵",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1248,
+      "desc": "高潮后沉浸在余韵中的状态",
+      "kw": "高潮余韵 / 事后温存 / 事后慵懒 / Afterglow / 余晖 / 光效 / 乐队 / 高潮余后"
+    },
+    {
+      "en": "clothed after sex",
+      "zh": "事后穿衣",
+      "rating": "q",
+      "nsfw": true,
+      "count": 699,
+      "desc": "刚发生性事后衣衫凌乱地穿衣或已穿好但有痕迹",
+      "kw": "性爱后穿衣 / 性交后穿衣 / 事后穿衣服 / 云雨后穿衣 / 做爱后穿衣 / 房事后穿衣 / 性事后着装 / 事后整理衣服 / 性交之后穿衣"
+    },
+    {
+      "en": "anal",
+      "zh": "肛交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 77090,
+      "desc": "肛门插入的性行为，包括阴茎、手指、玩具等",
+      "kw": "肛门性交 / 后庭 / 菊花 / 爆菊 / 走后门 / 肛门插入 / 肛内 / 肛门 / anal sex / anal penetration / 肛门的 / アナル"
+    },
+    {
+      "en": "double anal",
+      "zh": "双重肛交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 733,
+      "desc": "两根阴茎同时插入肛门",
+      "kw": "双根肛交 / 双屌入肛 / 两根插入肛门 / 双插肛 / 双阴茎肛交 / 双枪入肛 / 肛交 / double anal penetration"
+    },
+    {
+      "en": "imminent anal",
+      "zh": "即将肛交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2502,
+      "desc": "插入肛门的行为即将发生但尚未开始",
+      "kw": "即将插入后庭 / 肛门插入前一刻 / 即将进入肛门 / 后庭插入在即 / 肛交 / 性行为"
+    },
+    {
+      "en": "pegging",
+      "zh": "逆肛交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 753,
+      "desc": "女性用穿戴式假阳具肛交男性的性行为",
+      "kw": "反向肛交 / 女攻肛交 / 女性用假阳具肛交 / 穿戴式假阳具肛交 / 第四爱 / 女攻男 / 逆插入 / 逆アナル"
+    },
+    {
+      "en": "triple anal",
+      "zh": "三穴",
+      "rating": "q",
+      "nsfw": true,
+      "count": 103,
+      "desc": "肛门同时被三根阴茎或物体插入。",
+      "kw": "三根同插肛门 / 三棒入肛 / 三屌入肛 / 三根齐插肛门 / 肛门三插 / 三根同时插入肛门 / 性行为"
+    },
+    {
+      "en": "multiple anal",
+      "zh": "多重肛门插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 905,
+      "desc": "多个物体同时插入肛门的性行为",
+      "kw": "多根入肛 / 多物肛交 / 多根肛交 / 多根插入后庭 / 多物入肛 / 多根入肛门 / 肛交"
+    },
+    {
+      "en": "clothed sex",
+      "zh": "着衣性行为",
+      "rating": "q",
+      "nsfw": true,
+      "count": 55364,
+      "desc": "至少一方基本穿着衣服的性行为。",
+      "kw": "穿衣性交 / 着衣性爱 / 着衣做爱 / 穿衣服做爱 / 半穿衣性交 / 穿衣性爱 / 着衣H / 着衣セックス / 着衣交尾 / 着衣アナルセックス"
+    },
+    {
+      "en": "guided penetration",
+      "zh": "引导插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1882,
+      "desc": "一方引导另一方插入",
+      "kw": "扶持插入 / 引导进入 / 手扶插入 / 引导交合 / 性交 / 性行为 / assisted penetration"
+    },
+    {
+      "en": "happy sex",
+      "zh": "愉悦性爱",
+      "rating": "q",
+      "nsfw": true,
+      "count": 22384,
+      "desc": "参与者均表现出明显愉悦的性行为，与强奸或无感情性爱相对",
+      "kw": "开心性爱 / 幸福性爱 / 快乐性爱 / 愉悦性行为 / 快乐性行为 / 两情相悦的性爱 / 欢愉的性行为 / 快乐性交 / 幸福做爱 / 愛のあるセックス"
+    },
+    {
+      "en": "imminent penetration",
+      "zh": "即将插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 22575,
+      "desc": "即将发生插入但尚未发生；仅用于裸体情境",
+      "kw": "插入直前 / 即将进入 / 将要插入 / 插入前 / 马上插入 / 准备插入 / 即将发生插入 / 性行为 / imminent sex / imminent insertion / 事前 / 挿入直前"
+    },
+    {
+      "en": "implied sex",
+      "zh": "暗示性交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 14953,
+      "desc": "画面或台词暗示正在发生性行为，但未明确画出",
+      "kw": "隐晦性爱 / 性暗示 / 暗含性行为 / 间接性行为 / 暗指性爱 / これ絶対入ってるよね"
+    },
+    {
+      "en": "navel sex",
+      "zh": "肚脐性行为",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "rough sex",
+      "zh": "粗暴性爱",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4871,
+      "desc": "动作粗暴激烈的性行为，注意与强奸区分",
+      "kw": "粗暴性行为 / 激烈性爱 / 暴力性爱 / 粗暴H / 粗鲁性爱 / 强硬性爱 / 性行为 / BDSM / 暴力的なセックス"
+    },
+    {
+      "en": "skull fucking",
+      "zh": "颅交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 129,
+      "desc": "从眼、耳、鼻等非口腔孔洞插入颅骨的行为。",
+      "kw": "颅奸 / 脑交 / 眼窝奸 / 眼奸 / 耳奸 / 鼻奸 / 耳交 / 脳奸"
+    },
+    {
+      "en": "ear sex",
+      "zh": "耳交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 244,
+      "desc": "把耳朵作为性刺激部位，通过摩擦或插入进行",
+      "kw": "耳奸 / 耳朵性交 / 耳部性交 / 耳朵play / 耳穴插入 / 耳交 (舔耳) / 性行为 / 耳部play / ear fuck / 耳姦"
+    },
+    {
+      "en": "eye sex",
+      "zh": "眼交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 40
+    },
+    {
+      "en": "tentacle sex",
+      "zh": "触手性交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 15263,
+      "desc": "触手对口腔、阴道或肛门进行插入的性行为。",
+      "kw": "触手交 / 触手play / 触手插入 / 触手侵犯 / 触手凌辱 / 触手交合 / 触手玩弄 / 触手姦"
+    },
+    {
+      "en": "underwater sex",
+      "zh": "水中性行为",
+      "rating": "q",
+      "nsfw": true,
+      "count": 332,
+      "desc": "参与者浸在水中进行的性行为",
+      "kw": "水中性爱 / 水下做爱 / 水中结合 / 水下性行为 / 水中性交 / 性行为 / 水中セックス / 水中結合"
+    },
+    {
+      "en": "vaginal",
+      "zh": "阴道性交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 297252,
+      "desc": "以任何方式插入阴道的性行为。",
+      "kw": "阴道插入 / 阴道交 / 插入阴道 / 阴道性行为 / 阴交 / 阴道 / 生殖器 / 女性 / vaginal penetration / vaginal sex / 阴道的 / 膣の"
+    },
+    {
+      "en": "double vaginal",
+      "zh": "双阴道性交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 396,
+      "desc": "两根阴茎同时插入同一阴道。",
+      "kw": "一穴二本 / 两根同时插入阴道 / 双根入穴 / 双屌入穴 / 双阴茎入阴道 / 性行为 / 双穴 / double vaginal penetration"
+    },
+    {
+      "en": "imminent vaginal",
+      "zh": "即将插入阴道",
+      "rating": "e",
+      "nsfw": true,
+      "count": 8555,
+      "desc": "阴道插入即将发生但尚未发生的瞬间",
+      "kw": "阴道插入前一刻 / 即将被插入 / 将要插入 / 快要插入时 / 插入前瞬间 / 阴道插入前 / 即将发生的阴道性交 / 阴道性交"
+    },
+    {
+      "en": "triple vaginal",
+      "zh": "三重阴道性交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 85,
+      "desc": "被三个物体同时插入阴道的性行为",
+      "kw": "三根入阴 / 阴道三插 / 三根齐插 / 三棒入阴 / 三重阴道插入 / 阴道被三根插入"
+    },
+    {
+      "en": "yaoi",
+      "zh": "耽美",
+      "rating": "s",
+      "nsfw": false,
+      "count": 122935,
+      "desc": "男性之间的恋爱或性爱描写",
+      "kw": "腐向 / 蔷薇 / 基情 / 男男 / 同志 / 搞基 / 基番 / shonen-ai / boy's love / boys love / boy love"
+    },
+    {
+      "en": "bara",
+      "zh": "蔷薇向",
+      "rating": "s",
+      "nsfw": false,
+      "count": 95831,
+      "desc": "以健壮男性魅力为重点的男同性恋题材漫画或艺术",
+      "kw": "基漫 / 熊漫 / 同志漫画 / 男同性恋漫画 / 男同性向漫画 / 壮汉漫画 / 肌肉男同漫画 / 大叔漫画 / baraart / 大叔 / ホモ / ゲイ"
+    },
+    {
+      "en": "implied yaoi",
+      "zh": "暗示耽美",
+      "rating": "s",
+      "nsfw": false,
+      "count": 3477,
+      "desc": "画面仅暗示男性间恋爱或性关系，未明示",
+      "kw": "隐晦BL / 暗示蔷薇 / 擦边BL / 暗示男同 / 暗示BL向 / 隐晦耽美 / BL"
+    },
+    {
+      "en": "yuri",
+      "zh": "百合",
+      "rating": "q",
+      "nsfw": true,
+      "count": 341724,
+      "desc": "女性角色之间的恋爱或性行为。",
+      "kw": "女同 / 女同性恋 / GL / 女孩爱 / 女女 / lesbian / shoujo-ai / girl's love / girls love"
+    },
+    {
+      "en": "implied yuri",
+      "zh": "暗示百合",
+      "rating": "s",
+      "nsfw": false,
+      "count": 4103,
+      "desc": "仅通过提及暗示女性间恋爱关系，未直接展示",
+      "kw": "隐晦百合 / 暗示女同性恋 / 提及百合 / 百合暗示 / 百合 / 女女"
+    },
+    {
+      "en": "tribadism",
+      "zh": "磨豆腐",
+      "rating": "e",
+      "nsfw": true,
+      "count": 5076,
+      "desc": "两名女性互相摩擦外阴的性行为。",
+      "kw": "磨镜 / 女女摩擦 / 阴部摩擦 / 阴唇摩擦 / 剪刀式 / 女女性行为 / scissoring / 磨鲍 / 貝合わせ / 가위치기"
+    },
+    {
+      "en": "human dog",
+      "zh": "人犬",
+      "rating": "q",
+      "nsfw": true,
+      "count": 451,
+      "desc": "四肢被束缚或截断只能像狗一样爬行的束缚玩法",
+      "kw": "人类狗 / 犬化 / 犬奴 / 犬缚 / 四肢束缚犬姿 / 狗奴 / 拟人 / ヒトイヌ"
+    },
+    {
+      "en": "pony play",
+      "zh": "小马扮演",
+      "rating": "q",
+      "nsfw": true,
+      "count": 517,
+      "desc": "BDSM宠物扮演中，被支配方扮成小马供支配方骑乘或驾驭",
+      "kw": "小马调教 / 小马宠物扮演 / 小马角色扮演 / 小马游戏 / 小马玩赏 / 角色扮演 / BDSM / ponyplay / ポニープレイ / ポニーガール / ポニーボーイ"
+    },
+    {
+      "en": "breast smother",
+      "zh": "胸部窒息",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2701,
+      "desc": "用胸部捂住对方口鼻致呼吸困难",
+      "kw": "洗面奶 / 胸埋 / 胸捂口鼻 / 胸部压脸 / 埋胸杀 / 埋胸 / 身体接触 / ぱふぱふ"
+    },
+    {
+      "en": "lactation",
+      "zh": "泌乳",
+      "rating": "e",
+      "nsfw": true,
+      "count": 29150,
+      "desc": "女性乳房分泌乳汁",
+      "kw": "母乳 / 产乳 / 喷乳 / 流奶 / 出奶 / 乳汁分泌 / 奶水 / 哺乳 / milking / milk breasts / lactating / 榨乳"
+    },
+    {
+      "en": "lactation through clothes",
+      "zh": "隔衣泌乳",
+      "rating": "e",
+      "nsfw": true,
+      "count": 2118,
+      "desc": "乳汁透过衣服渗出。",
+      "kw": "衣上泌乳 / 衣服渗乳 / 乳汁透过衣服 / 衣服湿乳 / 泌乳 / 乳汁 / 服越し母乳"
+    },
+    {
+      "en": "bdsm",
+      "zh": "绑缚与调教（BDSM）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 90715,
+      "desc": "围绕束缚、支配、施虐受虐等性实践的统称。",
+      "kw": "性虐 / 性虐待 / 字母圈 / 调教 / 束缚 / 捆绑 / 支配与臣服 / 施虐受虐 / sm / 拘束具 / ボンデージ / ボンテージ"
+    },
+    {
+      "en": "asphyxiation",
+      "zh": "窒息",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4584,
+      "desc": "因各种原因无法呼吸的状态，包括噎住、溺水、勒颈等。",
+      "kw": "无法呼吸 / 缺氧 / 窒息状态 / 呼吸受阻 / 窒息向 / 窒息感 / 窒息play / BDSM / suffocation"
+    },
+    {
+      "en": "bound together",
+      "zh": "捆绑在一起",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1970,
+      "desc": "两人或以上被捆绑在一起。",
+      "kw": "绑在一起 / 连缚 / 連縛 / 互相捆绑 / 被捆在一起 / 束缚 / 绑缚 / tied together / 연박"
+    },
+    {
+      "en": "breast bondage",
+      "zh": "乳房束缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5244,
+      "desc": "用绳子紧缚胸部。",
+      "kw": "胸部捆绑 / 捆乳 / 绑胸 / 乳房紧缚 / 胸部绳缚 / 束缚 / SM"
+    },
+    {
+      "en": "public bondage",
+      "zh": "公共场合束缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 257,
+      "desc": "在公共场合出于性目的束缚他人",
+      "kw": "公共场所束缚 / 公开束缚 / 户外捆绑 / 公共捆绑 / 公开性束缚 / 公共场合拘束 / BDSM / 户外"
+    },
+    {
+      "en": "self bondage",
+      "zh": "自缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 215,
+      "desc": "角色把自己捆绑起来。",
+      "kw": "自我束缚 / 自绑 / 自己捆绑 / 束缚 / BDSM / 自縛"
+    },
+    {
+      "en": "shibari over clothes",
+      "zh": "隔衣束缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7869,
+      "desc": "在衣服外面进行绳缚，不脱衣。",
+      "kw": "着衣紧缚 / 着衣绳缚 / 着衣捆绑 / 隔衣捆绑 / 隔衣绳缚 / 穿衣服捆绑 / 衣物外绳缚 / 衣服上捆绑"
+    },
+    {
+      "en": "shibari under clothes",
+      "zh": "衣下缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 674,
+      "desc": "在衣服下面进行绳缚。",
+      "kw": "衣服下绳缚 / 衣下捆绑 / 隐藏绳缚 / 内穿绳缚 / 绳艺 / 束缚"
+    },
+    {
+      "en": "masochism",
+      "zh": "受虐癖",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1875,
+      "desc": "从承受痛苦中获得快感的性癖",
+      "kw": "受虐狂 / M属性 / 受虐倾向 / 被虐狂 / 性癖 / BDSM / マゾヒスト / ドm / ドsホイホイ / m男"
+    },
+    {
+      "en": "neglect play",
+      "zh": "冷落调教",
+      "rating": "q",
+      "nsfw": true,
+      "count": 434,
+      "desc": "BDSM中长时间放置束缚的受虐方的玩法",
+      "kw": "放置play / 忽视调教 / BDSM放置 / 放置玩法 / 玩法 / 调教 / 放置プレイ"
+    },
+    {
+      "en": "sadism",
+      "zh": "施虐癖",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1903,
+      "desc": "从他人痛苦中获得快感，尤指性方面。",
+      "kw": "虐待狂 / 施虐狂 / S属性 / 抖S / 施虐倾向 / 性癖 / サディスト / ドs / ドmホイホイ / s女"
+    },
+    {
+      "en": "bukkake",
+      "zh": "精浴",
+      "rating": "e",
+      "nsfw": true,
+      "count": 17173,
+      "desc": "多名男性射精致身体被大量精液覆盖",
+      "kw": "颜射 / 射满身 / 多人射精 / 全身射精 / 射一身 / 群交 / 性行为 / bukakke / cum everywhere / cum covered / bukake"
+    },
+    {
+      "en": "cumdump",
+      "zh": "肉便器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1302,
+      "desc": "被多人反复当作性工具的角色。",
+      "kw": "精液便器 / 精便器 / 精液容器 / 肉马桶 / 精厕 / 公肉便器 / 精壶 / 泄欲工具"
+    },
+    {
+      "en": "cum bath",
+      "zh": "精液浴",
+      "rating": "e",
+      "nsfw": true,
+      "count": 283,
+      "desc": "多到可让人半身浸入的大量精液",
+      "kw": "精子浴 / 精液池 / 精液风吕 / 大量精液浸泡 / 精液澡 / 泡精液 / 精液泡澡 / 成人场景 / 精液風呂 / ザーメン風呂"
+    },
+    {
+      "en": "cum in clothes",
+      "zh": "衣服内的精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 2478,
+      "desc": "精液在衣物内侧或下面，区别于射在衣服表面",
+      "kw": "射进衣服 / 衣服里射精 / 内射衣物 / 衣物内射 / 精液在衣服里 / 着衣射精 / 射在衣服内侧 / 射进衣服内 / cum under clothes / cum inside clothes / cum inside thighhigh / 衣服里的精液"
+    },
+    {
+      "en": "cum in cup",
+      "zh": "杯中精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 966,
+      "desc": "装着精液的杯子",
+      "kw": "精液杯 / 装满精液的杯子 / 盛精液的杯 / 精液玻璃杯 / 精液 / 容器 / cum in glass / ザーメンジョッキ"
+    },
+    {
+      "en": "cum in urethra",
+      "zh": "尿道内射精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 378,
+      "desc": "尿道内可见精液，常见于射精或X光透视",
+      "kw": "尿道射精 / 尿道可见精液 / 尿道精液 / 尿道内射 / 尿道中出 / 尿道内有精液 / 精液尿道"
+    },
+    {
+      "en": "cum on armpits",
+      "zh": "腋下精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 796,
+      "desc": "精液沾在腋下部位",
+      "kw": "射在腋下 / 腋下射精 / 精液在腋窝 / 精液沾腋下 / 腋窝精液 / 射腋窝 / 腋窝满是精液"
+    },
+    {
+      "en": "cum on chest",
+      "zh": "胸部上的精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 990,
+      "desc": "精液在胸口；女性乳房用 cum_on_breasts",
+      "kw": "胸口射精 / 射在胸膛 / 胸上精液 / 精液在胸口 / 胸口精液 / 射胸口 / 胸前精液"
+    },
+    {
+      "en": "cum on feet",
+      "zh": "足部精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 3841,
+      "desc": "精液沾染在脚部或脚背。",
+      "kw": "脚上精液 / 精液在脚上 / 足射 / 射脚 / 脚部射精 / 脚背射精 / 脚上射精 / 精液涂脚"
+    },
+    {
+      "en": "cum on fingers",
+      "zh": "手指精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1410,
+      "desc": "手指上沾满精液。",
+      "kw": "手指沾精 / 精液涂满手指 / 手指上有精液 / 精液满手 / 满手精液 / 沾满精液的手指 / 精液手指 / semen on fingers"
+    },
+    {
+      "en": "cum on pussy",
+      "zh": "阴部上的精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1780,
+      "desc": "精液滴在外阴上而非射入。",
+      "kw": "精液在阴部 / 射在外阴 / 小穴上的精液 / 射在阴户上 / 外阴精液 / 体外射精 / 射在小穴上"
+    },
+    {
+      "en": "cum in navel",
+      "zh": "肚脐内射",
+      "rating": "e",
+      "nsfw": true,
+      "count": 336,
+      "desc": "精液积在肚脐处或肚脐上。",
+      "kw": "精液在肚脐 / 肚脐精液 / 肚脐眼精液 / 精液肚脐 / 肚脐里射精 / 肚脐积精 / 精液积在肚脐 / 肚脐灌精"
+    },
+    {
+      "en": "cum on eyewear",
+      "zh": "眼镜精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1235,
+      "desc": "精液沾在眼镜等眼部佩饰上",
+      "kw": "射在眼镜上 / 眼镜上精液 / 精液射眼镜 / 眼镜被射 / 眼饰射液 / 精液在眼镜上 / 眼镜 / 射精 / cum on glasses / 眼鏡はかけるもの"
+    },
+    {
+      "en": "pull out",
+      "zh": "体外射精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 388,
+      "desc": "射精前将阴茎抽出体外的避孕方式",
+      "kw": "外射 / 拔出 / 抽出 / 体外排精 / 射外面 / 拔出外射 / 体外 / 动作 / 膣外射精 / 外出し"
+    },
+    {
+      "en": "exhibitionism",
+      "zh": "裸露癖",
+      "rating": "q",
+      "nsfw": true,
+      "count": 11523,
+      "desc": "在公共场合故意暴露身体或进行性行为",
+      "kw": "暴露癖 / 野外露出 / 露出狂 / 露阴癖 / 公众露体 / 故意暴露 / 暴露行为 / 公众场合露出 / 露出癖 / 노출 / 야외노출"
+    },
+    {
+      "en": "zenra",
+      "zh": "全裸日常",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1132,
+      "desc": "把公开裸体或性行为当作日常正常活动的题材",
+      "kw": "全裸生活 / 全裸主义 / 日常全裸 / 全裸癖 / 公开裸体日常 / 裸体日常 / 全裸题材 / 全裸（常识改变） / ぜんら"
+    },
+    {
+      "en": "stealth sex",
+      "zh": "隐奸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2665,
+      "desc": "在旁人附近偷偷进行的性行为，不让其察觉",
+      "kw": "偷偷做爱 / 隐秘性行为 / 私下啪啪 / 暗地性交 / 隐蔽性行为 / 暗处性交 / 秘密性爱 / 隐秘性交 / hidden sex / 隠奸 / 隠姦"
+    },
+    {
+      "en": "netorare",
+      "zh": "寝取（NTR）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 12486,
+      "desc": "亲近之人被他人夺走的性癖，简称牛头人。",
+      "kw": "寝取 / 被寝取 / 绿帽 / 戴绿帽 / 横刀夺爱 / NTR / 剧情标签 / ntr / 寝取られ / 逆ntr / 寝取り"
+    },
+    {
+      "en": "reverse netorare",
+      "zh": "逆NTR",
+      "rating": "q",
+      "nsfw": true,
+      "count": 841,
+      "desc": "女性抢走他人恋人的逆寝取",
+      "kw": "逆寝取 / 反向牛头人 / NTR / 成人标签 / reverse ntr / 逆ntr / 逆寝取られ"
+    },
+    {
+      "en": "prostitution",
+      "zh": "卖淫",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4065,
+      "desc": "为金钱提供性服务",
+      "kw": "援交 / 性交易 / 性服务 / 卖淫行为 / 风俗 / prostitute / 売春 / 娼妇 / 援助交际"
+    },
+    {
+      "en": "voyeurism",
+      "zh": "窥淫癖",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3267,
+      "desc": "偷看他人性行为或私密活动的行为或癖好。",
+      "kw": "偷窥 / 窥视 / 偷看 / 窥视癖 / 偷看癖 / 偷窥行为 / 偷窥狂 / voyeur / 出歯亀 / 盗撮 / 窥视症"
+    },
+    {
+      "en": "caught",
+      "zh": "被抓现行",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5629,
+      "desc": "正在做尴尬事时被抓现行",
+      "kw": "被撞见 / 被看到 / 被抓到 / 被捉奸 / 被逮到 / 被撞破 / 被当场抓住 / 被目击 / 捉奸 / 被抓到了 / オナバレ"
+    },
+    {
+      "en": "walk-in",
+      "zh": "闯入",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4628,
+      "desc": "角色闯入他人正在进行的敏感场景，令在场者惊讶或尴尬",
+      "kw": "进错房间 / 突然闯入 / 意外撞见 / 无意撞见 / 尴尬撞见 / 误入 / 走进 / walk in"
+    },
+    {
+      "en": "cuntboy with cuntboy",
+      "zh": "双性人互助",
+      "rating": "q",
+      "nsfw": true,
+      "count": 23
+    },
+    {
+      "en": "cuntboy with female",
+      "zh": "带女阴茎少年",
+      "rating": "q",
+      "nsfw": true,
+      "count": 32
+    },
+    {
+      "en": "cuntboy with male",
+      "zh": "扶他与男性",
+      "rating": "q",
+      "nsfw": true,
+      "count": 691,
+      "desc": "无阴茎男体角色与非同类男性发生性行为",
+      "kw": "无阴茎男×男性 / 无鸡巴男与男性 / 无屌男与男性 / 无阴茎伪娘与男性 / 无阴茎男性和男人 / 无阴茎男角色与普通男性 / 无阴茎男与男 / 两性人与男性"
+    },
+    {
+      "en": "futa with cuntboy",
+      "zh": "扶她与伪娘",
+      "rating": "q",
+      "nsfw": true,
+      "count": 30
+    },
+    {
+      "en": "futa with female",
+      "zh": "扶她与女性",
+      "rating": "q",
+      "nsfw": true,
+      "count": 26056,
+      "desc": "扶她与女性角色之间的性互动",
+      "kw": "扶她女女 / 扶她×女 / 扶她女性互动 / 扶她与女 / 扶她女性性行为 / 扶她女性性爱 / 性行为 / 扶她性爱 / futa on female / female on futa / ふた×女 / ふたゆり"
+    },
+    {
+      "en": "female on futa",
+      "zh": "女对扶他",
+      "rating": "q",
+      "nsfw": true,
+      "count": 244,
+      "desc": "女性在与扶她的性行为中处于主导或上方。",
+      "kw": "女上扶她 / 女性主导的扶她 / 女攻扶她受 / 扶她受女性攻 / 女性骑乘扶她 / 性行为 / 扶她"
+    },
+    {
+      "en": "futa with futa",
+      "zh": "扶她对扶她",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3461,
+      "desc": "两个扶她角色之间的性行为。",
+      "kw": "扶她百合 / 双扶她 / 两个扶她 / 扶她之间 / 扶她配扶她 / futanari / futa on futa / ふた×ふた / ふたゆり / ふた男女"
+    },
+    {
+      "en": "futa with male",
+      "zh": "扶她与男性",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4806,
+      "desc": "扶她与男性角色之间的性行为",
+      "kw": "扶他和男性 / 扶她男 / 扶他男性 / 扶他×男 / 扶她×男 / hentai / futa on male / male on futa / ふた×男 / ふたショタ"
+    },
+    {
+      "en": "futa on male",
+      "zh": "扶她对男性",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2360,
+      "desc": "扶她作为主动方与男性发生性行为",
+      "kw": "扶她×男 / 扶她上男 / 扶她干男 / 扶她男受 / 扶她肏男 / 扶她插入男 / 双性人 / futaonmale / ふた×男 / ふたショタ / ふた×男の娘"
+    },
+    {
+      "en": "male on futa",
+      "zh": "男上扶她",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1431,
+      "desc": "男性作为主导方与扶她（双性）角色发生性行为，通常男性插入",
+      "kw": "男性上扶她 / 男×扶她 / 男上扶他 / 男性主导扶她 / 男操扶她 / 男插扶她 / 男对扶她 / 性行为 / 男×ふた"
+    },
+    {
+      "en": "futa with newhalf",
+      "zh": "扶他与伪娘互动",
+      "rating": "q",
+      "nsfw": true,
+      "count": 60,
+      "desc": "扶她（双性）与变性人角色之间的性行为",
+      "kw": "扶他与变性人 / 扶她与人妖 / 双性与变性人 / newhalf with futa"
+    },
+    {
+      "en": "newhalf with female",
+      "zh": "扶他与女性",
+      "rating": "q",
+      "nsfw": true,
+      "count": 457,
+      "desc": "至少一名有男性器官的跨性别者与一名女性的性行为场景",
+      "kw": "人妖与女性 / 男娘与女性 / 跨性别女性与女性 / 扶她与女性 / 伪娘配女性 / newhalf / 互动 / female with newhalf"
+    },
+    {
+      "en": "newhalf with male",
+      "zh": "扶他与男性",
+      "rating": "q",
+      "nsfw": true,
+      "count": 378,
+      "desc": "至少一名有男性器官的跨性别者与男性发生性行为的画面",
+      "kw": "跨性别女性与男性 / 变性女性与男性 / 有男性器官的女性与男性 / 人妖与男子 / 跨性别女与男 / 成人 / hentai / male with newhalf"
+    },
+    {
+      "en": "newhalf with newhalf",
+      "zh": "伪娘与伪娘",
+      "rating": "q",
+      "nsfw": true,
+      "count": 160,
+      "desc": "两名有男性器官的跨性别者之间的性行为",
+      "kw": "伪娘互搞 / 药娘互搞 / 跨性别女性互交 / 扶她与扶她 / 成人 / 双人"
+    },
+    {
+      "en": "incest",
+      "zh": "乱伦",
+      "rating": "q",
+      "nsfw": true,
+      "count": 23977,
+      "desc": "血亲之间的恋爱或性行为，收养/继亲关系用inseki",
+      "kw": "近亲相奸 / 近亲乱伦 / 血亲乱伦 / 骨肉相奸 / 乱伦关系 / 近亲性行为 / 亲缘性关系 / 血亲相奸 / 近親相姦 / 母子相姦 / 姉妹百合 / 姉弟相姦"
+    },
+    {
+      "en": "twincest",
+      "zh": "双子乱伦",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3625,
+      "desc": "双胞胎之间的乱伦关系。",
+      "kw": "双生乱伦 / 孪生乱伦 / 双胞胎近亲相恋 / 双胞胎近亲性爱 / 双子恋 / 性行为 / 乱伦"
+    },
+    {
+      "en": "inseki",
+      "zh": "亲戚乱伦",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1810,
+      "desc": "非血亲的继亲或姻亲之间的性关系。",
+      "kw": "姻亲乱伦 / 姻亲相奸 / 姻亲不伦 / 继亲性关系 / 姻亲性爱 / 非血亲性关系 / 姻亲关系 / 陨石 / 姻戚"
+    },
+    {
+      "en": "rape",
+      "zh": "强奸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 48806,
+      "desc": "对非自愿对象实施的强制性性行为。",
+      "kw": "强暴 / 凌辱 / 轮奸 / 性侵 / 硬上 / 强制性交 / 强迫 / 陵辱 / レイプ / 輪姦 / 強姦"
+    },
+    {
+      "en": "assisted rape",
+      "zh": "协助强奸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1150,
+      "desc": "不直接参与但协助他人实施强奸。",
+      "kw": "帮助强奸 / 协助性侵 / 帮助实施强奸 / 从犯强奸 / 帮凶强奸 / 协从强奸 / 辅助强奸 / 性行为"
+    },
+    {
+      "en": "imminent rape",
+      "zh": "即将被强奸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8508,
+      "desc": "即将遭到强奸但尚未发生插入",
+      "kw": "即将被强暴 / 即将遭强奸 / 强奸前夕 / 强暴未遂 / 快要被强奸 / 即将发生的强奸 / about to be raped / 即将强奸 / 要被超了 / レイプフラグ"
+    },
+    {
+      "en": "molestation",
+      "zh": "猥亵",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3808,
+      "desc": "违背意愿的猥亵或性抚摸，常发生在公共场所。",
+      "kw": "猥亵行为 / 非礼 / 性骚扰 / 咸猪手 / 痴汉行为 / 强制猥亵 / 猥琐 / 骚扰 / molesting / molester / 痴汉 / 痴漢"
+    },
+    {
+      "en": "sleep molestation",
+      "zh": "睡奸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4530,
+      "desc": "对熟睡中的人进行性侵犯。",
+      "kw": "睡眠奸 / 眠奸 / 睡眠性侵 / 睡眠猥亵 / 睡梦奸 / 睡梦中侵犯 / 性行为 / somnophilia / 睡姦 / 睡眠姦"
+    },
+    {
+      "en": "chikan",
+      "zh": "痴汉",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1470,
+      "desc": "在拥挤处未经同意抚摸他人身体的色狼",
+      "kw": "色狼 / 电车痴汉 / 性骚扰者 / 咸猪手 / 猥亵男 / 性骚扰 / 场景 / 痴漢"
+    },
+    {
+      "en": "compensated molestation",
+      "zh": "金钱交易猥亵",
+      "rating": "q",
+      "nsfw": true,
+      "count": 79,
+      "desc": "给受害者金钱补偿的猥亵行为。",
+      "kw": "有偿猥亵 / 付钱猥亵 / 补偿性骚扰 / 给钱猥亵 / 金钱补偿性骚扰"
+    },
+    {
+      "en": "smother",
+      "zh": "窒息",
+      "rating": "q",
+      "nsfw": true,
+      "count": 330,
+      "desc": "用胸、臀或身体压住对方面部使其窒息",
+      "kw": "闷绝 / 压脸窒息 / 胸压窒息 / 臀压窒息 / 覆盖 / 闷住 / 姿势"
+    },
+    {
+      "en": "internal cumshot",
+      "zh": "体内射精（断面图）",
+      "rating": "e",
+      "nsfw": true,
+      "count": 13005,
+      "desc": "以断面或透视视角表现体内射精",
+      "kw": "体内射精截面图 / 子宫内射精 / 内射截面 / 内射透视 / 内射X光 / 内部射精图 / 阴道内射断面 / 精液在子宫内 / cum in uterus / internal / semen in uterus"
+    },
+    {
+      "en": "bestiality",
+      "zh": "兽交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 13438,
+      "desc": "人类与动物或非人形生物之间的性行为",
+      "kw": "人兽 / 兽奸 / 异种奸 / 异种和奸 / 人兽性交 / 兽姦 / 兽交行为 / beastiality / zoophilia / 熊奸 / 狼奸"
+    },
+    {
+      "en": "knotting",
+      "zh": "结蒂",
+      "rating": "q",
+      "nsfw": true,
+      "count": 513,
+      "desc": "犬科交配时阴茎膨胀卡在对方体内。",
+      "kw": "阴茎锁结 / 犬类交配锁结 / 交配锁结 / 狗结 / 交配膨胀锁住 / 阴茎膨胀卡住 / 锁结交配 / 成结"
+    },
+    {
+      "en": "defloration",
+      "zh": "破处",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6435,
+      "desc": "处女膜破裂出血，暗示失去处子之身",
+      "kw": "破瓜 / 处女丧失 / 失去处女 / 破身 / 初夜落红 / 处女膜破裂 / virgin / 処女 / 処女丧失 / 処女喪失"
+    },
+    {
+      "en": "nantaimori",
+      "zh": "男体盛",
+      "rating": "q",
+      "nsfw": true,
+      "count": 136,
+      "desc": "在男性身体上摆放刺身/寿司等食物的宴席方式。",
+      "kw": "男体宴 / 男子裸体宴 / 男性人体盛 / 男体料理 / 男体盛宴会 / 女体盛 / 食物摆盘 / 日本文化 / serving food on male"
+    },
+    {
+      "en": "nyotaimori",
+      "zh": "女体盛",
+      "rating": "q",
+      "nsfw": true,
+      "count": 400,
+      "desc": "在女性身体上盛放食物供人食用。",
+      "kw": "女体刺身 / 女体宴 / 人体宴 / 裸体盛 / 女体盛放食物 / 女体拼盘 / 日本风 / 食物 / serving food on female / 女体盛り"
+    },
+    {
+      "en": "wakamezake",
+      "zh": "股间酒",
+      "rating": "q",
+      "nsfw": true,
+      "count": 977,
+      "desc": "女性夹紧大腿形成杯状、从胯间饮酒的性行为",
+      "kw": "海藻酒 / 下体饮酒 / 胯间饮酒 / 大腿酒杯 / 腿间酒 / 阴部饮酒 / 阴毛酒 / 若布酒 / thigh cup / lapcup / lap cup / liquid between thighs"
+    },
+    {
+      "en": "mating (animal)",
+      "zh": "动物交配",
+      "rating": "q",
+      "nsfw": true,
+      "count": 228,
+      "desc": "动物之间的交配行为",
+      "kw": "交尾 / 动物交尾 / 交配 / 配种 / 交配行为 / 性行为 / 繁殖"
+    },
+    {
+      "en": "mecha on girl",
+      "zh": "机甲×女性",
+      "rating": "q",
+      "nsfw": true,
+      "count": 78,
+      "desc": "机甲或机器人与女性角色发生性行为。",
+      "kw": "机甲x少女 / 机甲与少女 / 机甲性行为 / 机甲干少女 / 机器人x女性 / 机甲交合"
+    },
+    {
+      "en": "necrophilia",
+      "zh": "恋尸癖",
+      "rating": "q",
+      "nsfw": true,
+      "count": 459,
+      "desc": "与尸体或丧尸发生性行为的癖好",
+      "kw": "尸奸 / 死奸 / 冰恋 / 恋尸 / 尸体相关 / 性癖 / 屍姦 / 死姦"
+    },
+    {
+      "en": "giving birth",
+      "zh": "分娩",
+      "rating": "q",
+      "nsfw": true,
+      "count": 651,
+      "desc": "生下婴儿的分娩过程",
+      "kw": "生产 / 生孩子 / 临盆 / 生育 / 顺产 / 产子 / 分娩过程 / birth / 出産 / 출산"
+    },
+    {
+      "en": "impregnation",
+      "zh": "受孕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5737,
+      "desc": "描绘精子与卵子结合，或女性称被内射后怀孕。",
+      "kw": "怀孕 / 使怀孕 / 受精 / 授精 / 怀上 / 妊娠 / 怀孕场景 / 内射怀孕 / impregnate"
+    },
+    {
+      "en": "unbirthing",
+      "zh": "逆产",
+      "rating": "q",
+      "nsfw": true,
+      "count": 167,
+      "desc": "角色被塞入阴道甚至进入子宫的性癖",
+      "kw": "吞入体内 / 体内吞入 / 逆分娩 / 子宫回归 / 胎内吞入 / 吞入子宫 / 性行为 / unbirth / 胎内回帰"
+    },
+    {
+      "en": "selfcest",
+      "zh": "自攻自受",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4951,
+      "desc": "同一角色的不同版本或复制体之间的恋爱或性关系",
+      "kw": "水仙 / 自己CP / 自我配对 / 自我恋爱 / 自恋CP / 自x自 / 同一角色CP / 自我性交 / 自分奸 / 同一cp"
+    },
+    {
+      "en": "tentacles",
+      "zh": "触手",
+      "rating": "q",
+      "nsfw": true,
+      "count": 62392,
+      "desc": "章鱼等动物或漫画中植物伸出的细长柔软可缠绕器官",
+      "kw": "触须 / 软体触手 / 触手怪 / 章鱼触手 / 植物触手 / 缠绕触手 / 触腕 / 肉触手 / tentacle"
+    },
+    {
+      "en": "consensual tentacles",
+      "zh": "自愿触手",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1888,
+      "desc": "触手性行为中接受方明显自愿。",
+      "kw": "合意触手 / 双方自愿触手 / 非强制触手 / 非强迫触手 / 自愿触手性行为 / 纯爱触手 / 触手 / 成人 / consentacles"
+    },
+    {
+      "en": "mechanical tentacles",
+      "zh": "机械触手",
+      "rating": "q",
+      "nsfw": true,
+      "count": 472,
+      "desc": "由机械或机器人部件构成的触手",
+      "kw": "机器触手 / 机械触腕 / 机器人触手 / 机械爪触手 / 触手 / 科幻 / 机械 / artificial tentacles"
+    },
+    {
+      "en": "pussy tentacle",
+      "zh": "阴道触手",
+      "rating": "q",
+      "nsfw": true,
+      "count": 81,
+      "desc": "形似阴部且可插入的触手",
+      "kw": "蜜穴触手 / 屄触手 / 鲍鱼触手"
+    },
+    {
+      "en": "tentacle gagged",
+      "zh": "触手口塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 42
+    },
+    {
+      "en": "tentacle pit",
+      "zh": "触手坑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3838,
+      "desc": "存在大量触手的封闭空间或坑穴。",
+      "kw": "触手巢 / 触手穴 / 触手池 / 触手陷阱 / 触手空间 / 触手地狱 / 触手窝 / 触手腋下 / 肉壁 / 肉空间 / 苗床"
+    },
+    {
+      "en": "kankaku shadan",
+      "zh": "感觉遮断",
+      "rating": "q",
+      "nsfw": true,
+      "count": 312,
+      "desc": "下半身被卡住而感觉被遮断、不知发生了什么",
+      "kw": "感官遮断 / 感觉阻断 / 感知遮断 / 无知觉落穴 / 感官剥夺 / 束缚道具 / sense blocking pit / unawareacles / 感覚遮断 / 感覚遮断落とし穴"
+    },
+    {
+      "en": "tentacles in thighhighs",
+      "zh": "触手过膝袜",
+      "rating": "q",
+      "nsfw": true,
+      "count": 22
+    },
+    {
+      "en": "tentacles under clothes",
+      "zh": "衣下触手",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2170,
+      "desc": "触手伸入角色衣物之下",
+      "kw": "触手入衣 / 触手钻入衣物 / 触手在衣服下 / 触手探入衣衫 / 触手"
+    },
+    {
+      "en": "tentacles on male",
+      "zh": "触手缠绕男性",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1748,
+      "desc": "男性角色被触手束缚或与触手发生性行为",
+      "kw": "触手与男性 / 男性被触手 / 触手捆男性 / 触手玩弄男性 / 男性触手交合 / 触手男 / 触手 / 男性 / tentacles with male"
+    },
+    {
+      "en": "too many tentacles",
+      "zh": "非常多触手",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "versatile slime penetration",
+      "zh": "多功能史莱姆侵入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 70,
+      "desc": "史莱姆娘被插入耳朵或背部等异常部位",
+      "kw": "史莱姆非性器官插入 / 史莱姆奇怪部位插入 / 史莱姆身体插入"
+    },
+    {
+      "en": "vore",
+      "zh": "吞食癖",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2019,
+      "desc": "吞食活人的性癖题材",
+      "kw": "吞食 / 活吞 / 生吞 / 吞噬 / 吞食活人 / 活吞吞 / 吞活物 / 食人幻想 / 丸呑み"
+    },
+    {
+      "en": "scat",
+      "zh": "嗜粪",
+      "rating": "q",
+      "nsfw": true,
+      "count": 750,
+      "desc": "以粪便或排泄行为为对象的性癖",
+      "kw": "粪尿癖 / 食粪癖 / 嗜粪癖 / 排泄性癖 / 屎尿性癖 / 粪便癖 / 大便 / 性行为 / うんこ / スカトロ"
+    },
+    {
+      "en": "peeing",
+      "zh": "排尿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 15467,
+      "desc": "从膀胱排出尿液的行为",
+      "kw": "撒尿 / 小便 / 尿尿 / 排泄 / 放尿 / 尿出来 / 尿裤子 / 尿急 / watersports / oshikko / pissing / urination"
+    },
+    {
+      "en": "golden shower",
+      "zh": "黄金浴",
+      "rating": "q",
+      "nsfw": true,
+      "count": 475,
+      "desc": "被他人尿淋的行为，俗称圣水",
+      "kw": "圣水 / 淋尿 / 尿淋 / 被尿淋 / 尿液淋身 / 圣水洗礼 / 尿浴 / peeing on another"
+    },
+    {
+      "en": "peeing on viewer",
+      "zh": "对观众排尿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 114,
+      "desc": "角色朝着观看者方向撒尿的画面",
+      "kw": "向观看者撒尿 / 对观众小便 / 朝屏幕撒尿 / 对镜头撒尿 / 性行为 / 面向观众小便 / 第四面墙排尿"
+    },
+    {
+      "en": "have to pee",
+      "zh": "憋尿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3750,
+      "desc": "憋尿、双腿夹紧或按住裆部的表现",
+      "kw": "尿急 / 想尿尿 / 内急 / 要小便 / 尿意 / 忍尿 / 表情 / 生理反应 / need to pee / おしっこ我慢 / おしがま / おもらし寸前"
+    },
+    {
+      "en": "peeing self",
+      "zh": "尿裤子",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5433,
+      "desc": "直接尿在衣服上而不先脱衣",
+      "kw": "尿湿裤子 / 尿湿衣服 / 着衣放尿 / 直接尿在衣服上 / 尿在自己身上 / 不脱衣小便 / 尿在身上 / peeing pants / peeing panties / 恐怖失禁 / お漏らし"
+    },
+    {
+      "en": "sexually suggestive",
+      "zh": "性暗示",
+      "rating": "q",
+      "nsfw": true,
+      "count": 16844,
+      "desc": "通过非直接性行为或器官暗示性爱、带有色情意味的表现。",
+      "kw": "性挑逗 / 性意味 / 色气 / 擦边 / 性暗示内容 / 暧昧性暗示 / 色情暗示 / 性诱惑 / innuendo / 謎のエロス"
+    },
+    {
+      "en": "simulated armpit sex",
+      "zh": "模拟腋下性行为",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "simulated bukkake",
+      "zh": "疑似颜射",
+      "rating": "q",
+      "nsfw": true,
+      "count": 214,
+      "desc": "用牛奶等食物液体在脸上或身上模仿颜射",
+      "kw": "仿真颜射 / 假颜射 / 食物液体颜射 / 牛奶颜射 / 模拟射精 / 颜射 / 謎の白い液体"
+    },
+    {
+      "en": "simulated masturbation",
+      "zh": "模拟自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 20
+    },
+    {
+      "en": "simulated paizuri",
+      "zh": "模拟乳交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 513,
+      "desc": "对假阳具、卷寿司等棒状物进行乳交",
+      "kw": "假阳具乳交 / 道具乳交 / 仿真乳交 / 虚拟乳交 / 伪乳交 / 非阴茎乳交 / 棒状物乳交 / 模拟乳摩擦"
+    },
+    {
+      "en": "simulated thigh sex",
+      "zh": "模拟夹腿性行为",
+      "rating": "q",
+      "nsfw": true,
+      "count": 31
+    },
+    {
+      "en": "torture",
+      "zh": "拷问",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1892,
+      "desc": "残忍的肉体或精神折磨与羞辱行为。",
+      "kw": "折磨 / 酷刑 / 拷打 / 刑讯 / 虐待 / 刑具 / 拷問"
+    },
+    {
+      "en": "femdom",
+      "zh": "女性主导",
+      "rating": "q",
+      "nsfw": true,
+      "count": 22558,
+      "desc": "BDSM中由女性担任支配方，与男性支配相对",
+      "kw": "女攻 / 女王系 / 女性S方 / 女主调教 / 逆调教 / 女性上位 / 女王攻 / 女性主导（强硬） / 女攻め / 逆レイプ / 逆リョナ"
+    },
+    {
+      "en": "humiliation",
+      "zh": "羞辱",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6529,
+      "desc": "使人失去尊严的羞辱行为",
+      "kw": "屈辱 / 侮辱 / 丢脸 / 耻辱 / 羞耻 / 受辱 / 情绪 / 主题 / degradation / shame (humiliated)"
+    },
+    {
+      "en": "orgasm denial",
+      "zh": "剥夺高潮",
+      "rating": "q",
+      "nsfw": true,
+      "count": 661,
+      "desc": "BDSM玩法，禁止或控制高潮",
+      "kw": "高潮控制 / 射精禁止 / 射精管理 / 边缘控制 / 高潮管理 / BDSM / 调教 / 绝顶禁止 / 绝顶管理 / 絶頂禁止 / 絶頂管理"
+    },
+    {
+      "en": "pet play",
+      "zh": "宠物扮演",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4058,
+      "desc": "一方扮演宠物的性癖玩法",
+      "kw": "宠物游戏 / 宠物调教 / 人宠扮演 / 宠物化玩法 / 性行为 / BDSM / 折磨 / petboy / 宠物扮演游戏 / ペットプレイ / ヒトイヌ"
+    },
+    {
+      "en": "public nudity",
+      "zh": "公共场合裸露",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6121,
+      "desc": "在可能被公众看到的场合裸露身体",
+      "kw": "公开裸露 / 户外裸露 / 野外裸露 / 公共场合裸体 / 公开露出 / 公众裸体 / 裸体 / 野外露出 / 야외노출"
+    },
+    {
+      "en": "public use",
+      "zh": "公共肉便器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1629,
+      "desc": "角色明确表示想与多人发生性关系，常带有公用标记或文字",
+      "kw": "公车 / 公用便器 / 共用肉便器 / 多人用肉便器 / 供多人享用 / 公用 / 公开使用"
+    },
+    {
+      "en": "sensory deprivation",
+      "zh": "感官剥夺",
+      "rating": "q",
+      "nsfw": true,
+      "count": 161,
+      "desc": "同时戴耳机和眼罩以剥夺听觉与视觉",
+      "kw": "感觉阻断 / 剥夺感官 / 屏蔽听觉视觉 / 感官封闭 / BDSM / 折磨 / 束缚"
+    },
+    {
+      "en": "fire play",
+      "zh": "火焰调教",
+      "rating": "q",
+      "nsfw": true,
+      "count": 25
+    },
+    {
+      "en": "ice play",
+      "zh": "冰块玩法",
+      "rating": "q",
+      "nsfw": true,
+      "count": 34
+    },
+    {
+      "en": "wax play",
+      "zh": "滴蜡",
+      "rating": "q",
+      "nsfw": true,
+      "count": 254,
+      "desc": "用蜡烛把热蜡滴在对方身上的BDSM玩法",
+      "kw": "蜡滴 / 滴蜡play / 滴蜡玩法 / 热蜡游戏 / 滴蜡调教 / 蜡油play / 性行为 / 蜡调教 / ろうそくプレイ / 蝋燭プレイ / 蠟燭プレイ / 蝋燭責め"
+    },
+    {
+      "en": "bondage",
+      "zh": "捆绑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 76593,
+      "desc": "为性快感用绳索等限制身体，非性目的用tied up",
+      "kw": "束缚 / 绳缚 / 紧缚 / SM捆绑 / 捆绑play / 绳艺 / 绑缚 / 捆缚 / tied up (sexual) / 緊縛 / ボンデージ / ボンテージ"
+    },
+    {
+      "en": "shibari",
+      "zh": "绳缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 25558,
+      "desc": "用绳索缠绕身体的日式绑缚",
+      "kw": "日式绳缚 / 紧缚 / 捆绑 / 绳索束缚 / 绳艺 / 绑缚 / 捆缚 / 缚绳 / rope bondage / ropebondage / 束缚 / 紧缚労动"
+    },
+    {
+      "en": "stealth bondage",
+      "zh": "隐秘束缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 191,
+      "desc": "在公共场合表面正常实则被束缚。",
+      "kw": "伪装拘束 / 隐形束缚 / 暗藏拘束 / 隐藏束缚 / 公共场合束缚 / 藏匿拘束 / 束缚"
+    },
+    {
+      "en": "hogtie carry",
+      "zh": "捆绑搬运",
+      "rating": "q",
+      "nsfw": true,
+      "count": 79,
+      "desc": "抓住背后的缚绳把人像行李一样搬起",
+      "kw": "驷马捆绑搬运 / 猪缚搬运 / 拎着束缚者 / 抓绳搬运"
+    },
+    {
+      "en": "breast torture",
+      "zh": "胸部拷问",
+      "rating": "q",
+      "nsfw": true,
+      "count": 41
+    },
+    {
+      "en": "cbt",
+      "zh": "下体虐待（CBT）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1067,
+      "desc": "对男性生殖器施加痛苦的性癖。",
+      "kw": "虐屌 / 阴茎与睾丸折磨 / 鸡巴折磨 / 屌刑 / 男根折磨 / 生殖器折磨 / 蛋蛋折磨 / CBT"
+    },
+    {
+      "en": "ball busting",
+      "zh": "碎蛋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 631,
+      "desc": "踢打睾丸制造疼痛的虐恋行为，多为女性主导。",
+      "kw": "虐蛋 / 踢蛋 / 踢睾丸 / 打睾丸 / 睾丸虐待 / 蛋击 / 踩蛋 / 蛋刑 / tamakeri / ballbusting / 金的 / 玉蹴り"
+    },
+    {
+      "en": "clitoris torture",
+      "zh": "阴蒂折磨",
+      "rating": "q",
+      "nsfw": true,
+      "count": 112,
+      "desc": "用道具对阴蒂施加剧烈刺激或疼痛",
+      "kw": "阴蒂虐待 / 阴蒂刺激 / 阴蒂责罚 / 阴蒂拷问 / BDSM / 性折磨 / clit torture"
+    },
+    {
+      "en": "guro",
+      "zh": "猎奇",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7792,
+      "desc": "以血腥、残虐、极端暴力为主题的风格。",
+      "kw": "血腥 / 重口 / 血腥猎奇 / 残虐 / 残酷 / 血醒 / 断肢 / 内脏 / gore / 内臓 / グロ"
+    },
+    {
+      "en": "heropin",
+      "zh": "女主角遇险",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1414,
+      "desc": "女主角被逼入绝境的危机题材",
+      "kw": "女主危机 / 女主角陷入危机 / 女性危险处境 / 危地 / 女主受难 / 女主遇险 / 女主困境 / 女性危难"
+    },
+    {
+      "en": "imminent torture",
+      "zh": "即将受刑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 27
+    },
+    {
+      "en": "nipple torture",
+      "zh": "乳头折磨",
+      "rating": "q",
+      "nsfw": true,
+      "count": 425,
+      "desc": "用夹子、针刺等方式让乳头疼痛的施虐行为",
+      "kw": "乳头酷刑 / 乳首责 / 乳首折磨 / 乳头责罚 / 乳头虐待 / 乳头拷问 / 乳头刑罚 / 乳头疼痛 / nipple pain"
+    },
+    {
+      "en": "post orgasm torture",
+      "zh": "高潮后调教",
+      "rating": "q",
+      "nsfw": true,
+      "count": 100,
+      "desc": "高潮后继续刺激的行为。",
+      "kw": "高潮后刺激 / 事后折磨 / 射精后折磨 / 高潮后过度刺激 / 贤者时间折磨 / BDSM / 折磨"
+    },
+    {
+      "en": "predicament bondage",
+      "zh": "困境束缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 437,
+      "desc": "让被缚者在两难选择中挣扎的束缚方式。",
+      "kw": "两难束缚 / 惩罚束缚 / 强制束缚 / 逼选束缚 / 困境捆绑 / 束缚 / 调教 / 脱出芸"
+    },
+    {
+      "en": "ryona",
+      "zh": "凌辱",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3820,
+      "desc": "描绘女性遭受极度痛苦伤害的猎奇性虐待癖好",
+      "kw": "猎奇虐待 / 虐女 / 女性受虐癖 / 女虐 / 虐待 / 色情暴力 / リョナ / ソフトリョナ"
+    },
+    {
+      "en": "reverse ryona",
+      "zh": "逆凌辱",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1009,
+      "desc": "以男性角色受女性施暴或虐待为主题",
+      "kw": "逆向ryona / 男ryona / 男性受虐 / 男受虐 / 男性被虐 / 女虐男 / 女性支配 / 男性凌辱 / male ryona / 逆リョナ / 男リョナ"
+    },
+    {
+      "en": "tickle torture",
+      "zh": "挠痒拷问",
+      "rating": "q",
+      "nsfw": true,
+      "count": 903,
+      "desc": "被强制挠痒至崩溃的折磨",
+      "kw": "挠痒痒拷问 / 瘙痒拷问 / 挠痒折磨 / 挠痒刑讯 / 强制挠痒 / 胳肢拷问 / 拷问 / 互动"
+    },
+    {
+      "en": "dismemberment",
+      "zh": "肢解",
+      "rating": "q",
+      "nsfw": true,
+      "count": 674,
+      "desc": "肢体被切断或与身体分离。",
+      "kw": "四肢切断 / 分尸 / 截肢 / 断肢 / 肢体切断 / 血腥 / 暴力"
+    },
+    {
+      "en": "mutilation",
+      "zh": "残肢",
+      "rating": "q",
+      "nsfw": true,
+      "count": 172,
+      "desc": "角色身体被破坏成碎块的残毁表现",
+      "kw": "身体残毁 / 肢解 / 碎尸 / 毁伤 / 残害 / 断碎 / 身体残破 / 残毁表现 / 性器破壊"
+    },
+    {
+      "en": "water torture",
+      "zh": "水刑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 18
+    },
+    {
+      "en": "undressing",
+      "zh": "正在脱衣",
+      "rating": "q",
+      "nsfw": true,
+      "count": 69918,
+      "desc": "正在脱衣服的过程，分不清穿脱时也可用。",
+      "kw": "脱衣服 / 脱衣中 / 脱衣过程 / 脱衣物 / 动作 / undress / strip / stripping / taking off clothes"
+    },
+    {
+      "en": "hot wax",
+      "zh": "热蜡",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "electrostimulation",
+      "zh": "电击",
+      "rating": "q",
+      "nsfw": true,
+      "count": 366,
+      "desc": "用低频电流刺激性器官的性癖。",
+      "kw": "电击刺激 / 电刺激调教 / 电击调教 / 电刑 / 电疗 / 电流刺激 / 电击快感"
+    },
+    {
+      "en": "edging",
+      "zh": "边缘控制",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "chastity",
+      "zh": "贞操",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "puppy play",
+      "zh": "小狗玩法",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "collaring",
+      "zh": "戴项圈",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "domination",
+      "zh": "支配",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "submission",
+      "zh": "服从",
+      "rating": "q",
+      "nsfw": true,
+      "count": 159,
+      "desc": "角色放弃抵抗、顺从欲望或让对手获胜。",
+      "kw": "屈服 / 臣服 / 投降 / 顺从姿态 / 认输 / 委身 / 姿势"
+    },
+    {
+      "en": "submissive",
+      "zh": "顺从",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "dominant",
+      "zh": "支配方",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "discipline",
+      "zh": "调教",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "punishment",
+      "zh": "惩罚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 559,
+      "desc": "作为惩罚手段施加的责罚",
+      "kw": "处罚 / 惩戒 / 责罚 / 受罚 / 责打 / 罚 / 刑罚 / 调教 / 罰"
+    },
+    {
+      "en": "anal training",
+      "zh": "肛门训练",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "chained",
+      "zh": "锁链束缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5280,
+      "desc": "用锁链将角色捆住或拴住。",
+      "kw": "被锁链束缚 / 锁链捆绑 / 铁链束缚 / 锁链铐住 / 被锁链绑住 / 链子束缚 / 锁链拘束 / 被锁链铐住"
+    },
+    {
+      "en": "in cage",
+      "zh": "在笼中",
+      "rating": "q",
+      "nsfw": true,
+      "count": 679,
+      "desc": "角色待在笼子里。",
+      "kw": "笼中 / 笼子里 / 被困笼中 / 场景 / 囚禁 / 拘束"
+    },
+    {
+      "en": "dildo riding",
+      "zh": "假阳具骑乘",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2660,
+      "desc": "骑乘固定在地面或墙上的假阳具。",
+      "kw": "骑坐假阳具 / 骑乘按摩棒 / 骑假阳具 / 性玩具 / H动作"
+    },
+    {
+      "en": "food insertion",
+      "zh": "食物塞入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1030,
+      "desc": "将食物插入阴道或肛门",
+      "kw": "食物插入下体 / 食物插穴 / 食物入体 / 插入 / food in pussy"
+    },
+    {
+      "en": "sounding",
+      "zh": "尿道探针",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1096,
+      "desc": "将物体插入男性尿道的行为。",
+      "kw": "尿道扩张 / 尿道刺激 / 尿道玩弄 / 尿道棒 / 尿道调教 / 男性尿道插入 / 尿道插入术 / 尿道責め"
+    },
+    {
+      "en": "burnt",
+      "zh": "烧焦",
+      "rating": "q",
+      "nsfw": true,
+      "count": 948,
+      "desc": "表面被火烧焦、焦黑。",
+      "kw": "烧毁 / 烤焦 / 烧黑 / 焚毁 / 焦黑 / 损坏 / burned"
+    },
+    {
+      "en": "frozen",
+      "zh": "冰冻",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1444,
+      "desc": "被冰封冻住的状态。",
+      "kw": "冻结 / 被冰封 / 冰封 / 冻住 / 结冰 / 被冻住 / 状态"
+    },
+    {
+      "en": "electrocution",
+      "zh": "触电",
+      "rating": "q",
+      "nsfw": true,
+      "count": 911,
+      "desc": "角色身体被电流通过，可能为意外或折磨。",
+      "kw": "感电 / 电刑 / 电折磨 / 电击责 / 电流刺激 / 电击play / 效果 / 電気責め"
+    },
+    {
+      "en": "impaled",
+      "zh": "贯穿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3658,
+      "desc": "被剑、长枪等细长物刺穿身体。",
+      "kw": "穿刺 / 串刺 / 被贯穿 / 捅穿 / 受伤 / 刺杀 / 串刺し"
+    },
+    {
+      "en": "suggestive",
+      "zh": "暗示内容",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "feeding",
+      "zh": "喂食",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12845,
+      "desc": "把食物给动物或他人",
+      "kw": "喂饭 / 喂东西吃 / 喂食他人 / 喂动物 / 递食 / 喂食动作 / 投喂 / 喂养 / あーん / 餌付け"
+    },
+    {
+      "en": "food fight",
+      "zh": "食物大战",
+      "rating": "g",
+      "nsfw": false,
+      "count": 58,
+      "desc": "互相投掷食物打闹。",
+      "kw": "扔食物 / 食物混战 / 食物打斗 / 食物互扔 / 丢食物"
+    },
+    {
+      "en": "bumping",
+      "zh": "碰撞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 318,
+      "desc": "角色间意外相撞，非车辆碰撞。",
+      "kw": "无意撞到 / 误撞 / 撞到人 / 不小心撞到 / 撞个满怀 / 动作"
+    },
+    {
+      "en": "chasing",
+      "zh": "追逐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3525,
+      "desc": "一人追赶另一人，常因愤怒",
+      "kw": "追赶 / 追 / 追跑 / 追人 / 追逐打闹 / 追着跑 / 动作 / 动态 / chase / 追迹 / 追う / 追いかける"
+    },
+    {
+      "en": "forced dressing",
+      "zh": "强制换装",
+      "rating": "g",
+      "nsfw": false,
+      "count": 63,
+      "desc": "强迫他人穿上指定服装。",
+      "kw": "强迫变装 / 强制穿衣 / 强迫更衣 / 被迫穿衣服 / 强行换装 / forced cosplay"
+    },
+    {
+      "en": "fighting",
+      "zh": "打架",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8770,
+      "desc": "日常生活中的小冲突或打闹，非严肃战斗",
+      "kw": "斗殴 / 肢体冲突 / 小规模冲突 / 日常打斗 / 战斗 / 动作 / fight / 喧哗"
+    },
+    {
+      "en": "flirting",
+      "zh": "调情",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1437,
+      "desc": "向对方表达爱意的调情举动",
+      "kw": "打情骂俏 / 撩拨 / 撩骚 / 眉来眼去 / 抛媚眼 / 撩人 / 挑逗 / 献殷勤"
+    },
+    {
+      "en": "cooperative pussyjob",
+      "zh": "合作素股",
+      "rating": "q",
+      "nsfw": true,
+      "count": 370,
+      "desc": "多人用阴部同时摩擦同一根阴茎",
+      "kw": "协作素股 / 多人素股 / 合作阴部摩擦 / 多人阴部摩擦 / 协作式阴部夹弄 / 多人阴部夹弄 / pussy sandwich / cooperative grinding (sexual)"
+    },
+    {
+      "en": "humping",
+      "zh": "磨蹭",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1911,
+      "desc": "隔着衣物用下身磨蹭对方或物体",
+      "kw": "隔着衣物磨蹭 / 用下身蹭 / 蹭蹭 / 骑蹭 / 抽送 / 性行为 / 动作"
+    },
+    {
+      "en": "dry humping",
+      "zh": "隔衣磨裆",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1265,
+      "desc": "隔着衣服模拟性行为的摩擦动作。",
+      "kw": "隔衣摩擦 / 着衣摩擦 / 衣物摩擦 / 蹭裆 / 磨蹭 / 干磨蹭 / 穿着衣服磨 / clothed humping / 着衣磨裆 / 裆部摩擦（隔衣） / 隔衣摩擦裆部"
+    },
+    {
+      "en": "protecting",
+      "zh": "保护",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1535,
+      "desc": "角色用身体保护他人或物体",
+      "kw": "守护 / 掩护 / 护住 / 庇护 / 保护动作 / 动作 / protect"
+    },
+    {
+      "en": "resisting",
+      "zh": "抗拒",
+      "rating": "s",
+      "nsfw": false,
+      "count": 141,
+      "desc": "拒绝对方亲昵或性方面要求的行为",
+      "kw": "反抗 / 拒绝 / 拒绝亲昵 / 挣扎 / 动作 / 表情 / 状态"
+    },
+    {
+      "en": "crotch rub",
+      "zh": "胯部摩擦",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3253,
+      "desc": "用自己的裆部摩擦物体以自慰",
+      "kw": "蹭裆 / 磨裆 / 裆部摩擦 / 摩擦下体 / 蹭下体 / 磨蹭裆部 / 用裆部摩擦 / 蹭阴 / 裆部摩擦（物体）"
+    },
+    {
+      "en": "sharing",
+      "zh": "共享",
+      "rating": "g",
+      "nsfw": false,
+      "count": 296,
+      "desc": "两个角色共同使用同一件物品。",
+      "kw": "分享 / 共同使用 / 合用 / 一起用 / 共用物品 / 多人"
+    },
+    {
+      "en": "swinging (relationship)",
+      "zh": "伴侣交换",
+      "rating": "g",
+      "nsfw": false,
+      "count": 93,
+      "desc": "伴侣双方知情同意与他人发生性关系",
+      "kw": "换妻 / 交换伴侣 / 换偶行为 / 交换性伴侣 / 夫妻交换 / partner swap"
+    },
+    {
+      "en": "teaching",
+      "zh": "教学",
+      "rating": "g",
+      "nsfw": false,
+      "count": 559,
+      "desc": "向他人讲解示范以传授知识或技能的行为",
+      "kw": "授课 / 讲课 / 教课 / 教导 / 教学指导 / 传授 / 教育 / 课堂"
+    },
+    {
+      "en": "pet walking",
+      "zh": "遛宠物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 589,
+      "desc": "牵着狗或其他动物外出散步",
+      "kw": "遛狗 / 散步宠物 / 带宠物散步 / 牵宠物散步 / 宠物散步 / 宠物 / 活动 / walking the dog / dog walking / walking pet"
+    },
+    {
+      "en": "battle",
+      "zh": "战斗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20701,
+      "desc": "多方势力之间的大规模或严肃冲突",
+      "kw": "战争 / 战役 / 交战 / 打斗 / 激战 / 厮杀 / 争斗 / 大战场面 / 一打多 / 戦争 / 戦闘 / 戦う"
+    },
+    {
+      "en": "bullfighting",
+      "zh": "斗牛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30
+    },
+    {
+      "en": "cheating (relationship)",
+      "zh": "出轨",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5832,
+      "desc": "有伴侣者与他人发生性关系或约会，不忠行为。",
+      "kw": "劈腿 / 偷情 / 外遇 / 不忠 / 通奸 / 婚外情 / 戴绿帽 / 背叛伴侣 / cheating / 不伦 / 出轨 / 浮気"
+    },
+    {
+      "en": "dating",
+      "zh": "约会",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1411,
+      "desc": "角色正在约会中。",
+      "kw": "谈恋爱 / 拍拖 / 交往 / 约会中 / 恋人约会 / 男女约会 / 约会场景 / 场景 / going on date / デート"
+    },
+    {
+      "en": "kidnapping",
+      "zh": "绑架",
+      "rating": "g",
+      "nsfw": false,
+      "count": 903,
+      "desc": "违背他人意愿将其掳走的绑架行为",
+      "kw": "诱拐 / 劫持 / 掳走 / 绑票 / 场景 / 犯罪 / 拉致 / 誘拐 / お持ち帰り"
+    },
+    {
+      "en": "mixed-sex bathing",
+      "zh": "混浴",
+      "rating": "q",
+      "nsfw": true,
+      "count": 9372,
+      "desc": "不同性别的人一起泡澡或淋浴。",
+      "kw": "男女共浴 / 混合沐浴 / 男女同浴 / 男女一起洗澡 / 浴室 / 场景 / coed bathing / mixed bathing / 水中結合"
+    },
+    {
+      "en": "scolding",
+      "zh": "责骂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 885,
+      "desc": "一个角色愤怒地训斥另一个角色或观看者",
+      "kw": "训斥 / 斥责 / 说教 / 教训 / 怒斥 / 表情 / 互动 / 少女说教中 / 少女説教中"
+    },
+    {
+      "en": "lecturing",
+      "zh": "说教",
+      "rating": "g",
+      "nsfw": false,
+      "count": 81,
+      "desc": "向他人讲解或说教；愤怒斥责另有标签",
+      "kw": "讲课 / 授课 / 讲授 / 教学 / 讲学"
+    },
+    {
+      "en": "stalking",
+      "zh": "跟踪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 558,
+      "desc": "未经同意尾随跟踪他人",
+      "kw": "尾随 / 盯梢 / 跟踪狂行为 / 跟迹 / 行为 / 动作 / ストーキング"
+    },
+    {
+      "en": "wrestling",
+      "zh": "摔跤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3471,
+      "desc": "包括职业摔角等各种摔跤运动",
+      "kw": "摔角 / 摔角运动 / 职业摔角 / 职业摔跤 / 格斗摔跤 / 扭打摔跤 / 摔跤运动 / 摔跤(运动) / 摔跤（运动） / プロレス / 女子プロレス"
+    },
+    {
+      "en": "bullying",
+      "zh": "欺凌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1474,
+      "desc": "以暴力或言语欺压他人的行为",
+      "kw": "欺负 / 校园霸凌 / 凌辱 / 欺压 / 恃强凌弱 / 霸凌行为 / 威吓 / 虐め / いじめっ子 / 天龍いじめ / いじめ"
+    },
+    {
+      "en": "penises touching",
+      "zh": "阴茎接触",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1927,
+      "desc": "两个或多个阴茎相互接触摩擦",
+      "kw": "阴茎相贴 / 阴茎互蹭 / 鸡鸡相碰 / 丁丁相触 / 阴茎摩擦 / 肉棒相触 / 阳具相贴 / penis touching / 兜合わせ"
+    },
+    {
+      "en": "symmetrical docking",
+      "zh": "对称胸部对撞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 14242,
+      "desc": "两名女性将大小相近的胸部互相贴紧。",
+      "kw": "对称胸对胸 / 胸部对撞 / 对称乳合 / 胸贴胸（等大） / 乳房相贴 / 奶子相贴 / 对称对接 / breast to breast / 乳合わせ / 胸合わせ / おっぱいキス"
+    },
+    {
+      "en": "asymmetrical docking",
+      "zh": "不对称胸部对撞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 15015,
+      "desc": "两女胸部相贴但乳房大小或位置不对称。",
+      "kw": "不对称乳合 / 错位乳合 / 非对称胸贴 / 非对称贴胸 / 不对称乳房相贴 / 不对称胸对胸 / 不对称胸部紧贴 / 非对称对接 / 非对称胸部对撞 / 乳合わせ / 胸合わせ / おっぱいキス"
+    },
+    {
+      "en": "taunting",
+      "zh": "嘲讽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 411,
+      "desc": "用言语或动作挑衅、嘲讽以激怒对方。",
+      "kw": "挑衅 / 讥讽 / 嘲笑 / 挑逗 / 激怒 / 揶揄 / 奚落 / 挑発"
+    },
+    {
+      "en": "teasing",
+      "zh": "戏弄",
+      "rating": "s",
+      "nsfw": false,
+      "count": 4735,
+      "desc": "意在挑起对方某种情绪的挑逗行为",
+      "kw": "挑逗 / 捉弄 / 撩拨 / 逗弄 / 调戏 / 撩 / 逗 / 表情 / tease / 挑発"
+    },
+    {
+      "en": "cannibalism",
+      "zh": "食人",
+      "rating": "q",
+      "nsfw": true,
+      "count": 799,
+      "desc": "同类相食或人形被当作食物处理",
+      "kw": "吃人 / 同类相食 / 食人癖 / 人吃人 / 吞噬同类 / 食人行为 / 恐怖 / 行为 / 人肉食 / 共食い / 共喰い / カニバリズム"
+    },
+    {
+      "en": "cling",
+      "zh": "紧贴/依偎",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "slime tentacles",
+      "zh": "史莱姆触手",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "shopping",
+      "zh": "购物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2129,
+      "desc": "到商店挑选购买商品。",
+      "kw": "买东西 / 逛街 / 采购 / 血拼 / 选购 / 食品标签 / 动词动名词 / ショッピング / 買い物 / お買い物"
+    },
+    {
+      "en": "tea ceremony",
+      "zh": "茶道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 92,
+      "desc": "东亚传统的沏茶奉茶礼仪，步骤程式化。",
+      "kw": "茶会 / 茶事 / 敬茶礼仪 / 奉茶仪式 / 茶礼 / 泡茶礼仪 / 茶道仪式"
+    },
+    {
+      "en": "apologizing",
+      "zh": "道歉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 932,
+      "desc": "角色道歉或赔罪，有时伴随土下座。",
+      "kw": "赔罪 / 谢罪 / 致歉 / 赔礼 / 认错 / 道歉中 / 土下座道歉 / 道歉场景 / apology"
+    },
+    {
+      "en": "bathing",
+      "zh": "沐浴",
+      "rating": "s",
+      "nsfw": false,
+      "count": 18483,
+      "desc": "身体半浸在水中清洗的沐浴行为",
+      "kw": "洗澡 / 入浴 / 泡澡 / 洗浴 / 泡汤 / 浸浴 / 浴中 / 泡水 / 水浴び"
+    },
+    {
+      "en": "begging",
+      "zh": "乞求",
+      "rating": "g",
+      "nsfw": false,
+      "count": 840,
+      "desc": "角色向他人恳求或求饶的动作。",
+      "kw": "哀求 / 央求 / 求饶 / 恳请 / 请求 / 表情 / 姿势 / 恳愿 / 祈求"
+    },
+    {
+      "en": "cheering",
+      "zh": "应援",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3534,
+      "desc": "大声为他人加油打气",
+      "kw": "加油 / 声援 / 打气 / 喝彩 / 呐喊助威 / 欢呼鼓劲 / 欢呼 / cheer / cheered / 応援 / 鼓劲"
+    },
+    {
+      "en": "pole dancing",
+      "zh": "钢管舞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3595,
+      "desc": "利用钢管等杆状物进行的舞蹈，常带色情意味",
+      "kw": "钢管舞表演 / 钢管舞蹈 / 跳钢管舞 / 钢管舞女 / 舞蹈 / 表演 / ポールダンス"
+    },
+    {
+      "en": "playing sports",
+      "zh": "进行体育运动",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4666,
+      "desc": "正在进行某项体育运动的场景",
+      "kw": "做运动 / 运动 / 体育活动 / 运动赛 / 运动竞技 / 参加运动 / 运动中 / sports / sport"
+    },
+    {
+      "en": "skinny dipping",
+      "zh": "裸泳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 788,
+      "desc": "裸体游泳或跳水嬉戏",
+      "kw": "裸体游泳 / 天体游泳 / 裸泳嬉水 / 裸体戏水 / 光身子游泳 / 游泳 / 裸体"
+    },
+    {
+      "en": "flashing",
+      "zh": "闪露",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8089,
+      "desc": "故意掀开衣物短暂露出私密部位。",
+      "kw": "私密露出 / 露阴 / 露点 / 突然露出 / 闪现露出 / 掀衣露胸 / 撩起衣服露出 / 露出私处"
+    },
+    {
+      "en": "mooning",
+      "zh": "露臀",
+      "rating": "q",
+      "nsfw": true,
+      "count": 158,
+      "desc": "拉下下装露出臀部的行为。",
+      "kw": "露出臀部 / 露屁股 / 露出屁股 / 晒臀 / 亮臀 / 展示臀部 / 动作行为 / 暴露行为"
+    },
+    {
+      "en": "streaking",
+      "zh": "裸奔",
+      "rating": "q",
+      "nsfw": true,
+      "count": 115,
+      "desc": "在公共场所裸奔的露出行为。",
+      "kw": "裸奔行为 / 公共场合裸奔 / 裸体奔跑 / 暴露狂裸奔 / 动作行为 / 暴露行为"
+    },
+    {
+      "en": "hitchhiking",
+      "zh": "搭便车",
+      "rating": "g",
+      "nsfw": false,
+      "count": 206,
+      "desc": "在路边伸手搭顺风车",
+      "kw": "搭顺风车 / 拦车 / 求搭车 / 顺风车 / 搭车 / 路边拦车 / 拇指搭车 / 姿势 / ヒッチハイク / ビッチハイク"
+    },
+    {
+      "en": "racing",
+      "zh": "竞速",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1022,
+      "desc": "角色比拼速度的竞赛，包括跑步、赛车等。",
+      "kw": "竞速比赛 / 赛车 / 赛车比赛 / 赛跑 / 竞跑 / 速度竞赛 / 比拼速度 / 运动 / race / 竞泳 / 竞走 / 競走"
+    },
+    {
+      "en": "healing",
+      "zh": "治疗魔法",
+      "rating": "g",
+      "nsfw": false,
+      "count": 417,
+      "desc": "角色使用治愈/回复魔法治疗伤口。",
+      "kw": "治愈 / 回复 / 回复魔法 / 治愈术 / 回血 / 加血 / 治疗术"
+    },
+    {
+      "en": "imitating",
+      "zh": "模仿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 891,
+      "desc": "模仿其他角色的言行举止或装扮",
+      "kw": "模仿动作 / 模仿他人 / 学样 / 仿效 / 有样学样 / 动词 / 动名词 / 效仿 / mimicry"
+    },
+    {
+      "en": "multitasking",
+      "zh": "一心多用",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1721,
+      "desc": "同时进行多项活动，常指做爱时还做别的事",
+      "kw": "一心二用 / 同时做多件事 / 边做边玩 / 做爱时还做其他事 / 同时处理多任务 / 多任务并行 / 动作 / 同时做许多事 / ながらプレイ"
+    },
+    {
+      "en": "playing",
+      "zh": "玩耍中",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1643,
+      "desc": "出于娱乐而非实用目的进行的玩耍行为",
+      "kw": "在玩耍 / 嬉戏 / 游戏 / 游玩 / 玩乐 / 戏耍 / 玩闹"
+    },
+    {
+      "en": "searching",
+      "zh": "寻找",
+      "rating": "g",
+      "nsfw": false,
+      "count": 486,
+      "desc": "四处寻找某人或某物的动作",
+      "kw": "搜索 / 查找 / 四处寻找 / 找东西 / 寻物 / 动作"
+    },
+    {
+      "en": "studying",
+      "zh": "学习",
+      "rating": "g",
+      "nsfw": false,
+      "count": 983,
+      "desc": "为增长知识而查阅资料或做功课",
+      "kw": "读书 / 念书 / 用功 / 写作业 / 做功课 / 自习 / 温习 / 复习 / 勉强 / 勉強 / 学習 / 學習"
+    },
+    {
+      "en": "summoning",
+      "zh": "召唤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 667,
+      "desc": "借魔法从虚空中唤出生物或物品的行为。",
+      "kw": "召唤术 / 召唤魔法 / 召唤仪式 / 魔法 / 技能"
+    },
+    {
+      "en": "training",
+      "zh": "训练",
+      "rating": "g",
+      "nsfw": false,
+      "count": 892,
+      "desc": "角色为提升体能或技能而练习的场景",
+      "kw": "练习 / 锻炼 / 特训 / 培训 / 体能训练 / 活动 / 运动"
+    },
+    {
+      "en": "warming",
+      "zh": "取暖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 81,
+      "desc": "因寒冷而采取升温保暖的举动。",
+      "kw": "暖身 / 暖和身体 / 暖暖身子 / 捂暖 / 烤火"
+    },
+    {
+      "en": "working",
+      "zh": "工作中",
+      "rating": "g",
+      "nsfw": false,
+      "count": 426,
+      "desc": "角色正在努力工作或加班。",
+      "kw": "工作 / 干活 / 加班 / 上班 / 劳作 / 辛勤工作 / 努力工作 / 状态 / 仕事 / 労动"
+    },
+    {
+      "en": "playing games",
+      "zh": "玩游戏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11442,
+      "desc": "玩电子游戏、桌游、卡牌等各类游戏",
+      "kw": "游戏 / 打电动 / 玩电子游戏 / 玩游戏机 / 玩桌游 / 进行游戏 / 娱乐 / gaming / playing game / playing video games / girls playing games"
+    },
+    {
+      "en": "playing video games",
+      "zh": "玩电子游戏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9064,
+      "desc": "角色正在玩电子游戏",
+      "kw": "打游戏 / 玩游戏 / 打电动 / 玩电动 / 玩游戏机 / 打电玩 / 电子游戏 / 娱乐"
+    },
+    {
+      "en": "playing instrument",
+      "zh": "演奏乐器",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21483,
+      "desc": "角色正在演奏某种乐器",
+      "kw": "弹奏乐器 / 演奏 / 弹乐器 / 吹奏乐器 / 拉乐器 / 玩乐器 / 奏乐 / 乐器演奏 / playing musical instrument"
+    },
+    {
+      "en": "bowling",
+      "zh": "保龄球",
+      "rating": "g",
+      "nsfw": false,
+      "count": 238,
+      "desc": "在球道上滚球击倒球瓶的运动。",
+      "kw": "保龄球运动 / 打保龄 / 滚球 / 保龄球比赛 / 运动 / 球类 / 体育 / 保龄球（运动） / ボウリング"
+    },
+    {
+      "en": "boxing",
+      "zh": "拳击",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1189,
+      "desc": "戴拳套互相出拳的西方拳击运动",
+      "kw": "拳击运动 / 西洋拳 / 拳赛 / 拳击比赛 / 拳斗 / 拳击竞技 / 运动 / 格斗 / 拳击（运动） / ボクシング"
+    },
+    {
+      "en": "fencing",
+      "zh": "击剑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 117,
+      "desc": "两人用花剑、重剑或佩剑对战的运动。",
+      "kw": "西洋剑 / 剑术运动 / 花剑重剑佩剑 / 击剑运动 / 剑击 / 运动 / 剑术"
+    },
+    {
+      "en": "arson",
+      "zh": "纵火",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "故意纵火焚烧建筑、车辆等",
+      "kw": "放火 / 故意纵火 / 纵火行为 / 放火罪 / 放火焚烧"
+    },
+    {
+      "en": "shoplifting",
+      "zh": "商店行窃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17
+    },
+    {
+      "en": "theft",
+      "zh": "偷窃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1835,
+      "desc": "偷窃或拿走他人物品的行为",
+      "kw": "偷盗 / 行窃 / 窃取 / 偷东西 / 盗窃行为 / 偷盗行为 / 偷窃行为 / stealing / 小偷 / 泥棒 / どろぼー"
+    },
+    {
+      "en": "clothed female nude female",
+      "zh": "着装女性与裸体女性",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5348,
+      "desc": "一名女性穿衣而另一名女性裸体的场景。",
+      "kw": "裸女与穿衣女 / 女女穿衣裸体 / 一穿一裸 / 穿衣裸女 / 穿衣服的女人和裸体女人 / 对比场景 / 裸体 / cfnf / clothed female naked female / nude female clothed female"
+    },
+    {
+      "en": "clothed female nude male",
+      "zh": "女着衣男全裸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 61998,
+      "desc": "画面中女性穿衣服而男性全裸",
+      "kw": "女衣男裸 / 女穿男裸 / 女性着衣男性裸体 / 女着衣男裸体 / 女有衣男无衣 / 穿着衣服的女性与全裸的男性 / 场景 / cfnm / clothed female naked male / nmcf / nude male clothed female"
+    },
+    {
+      "en": "clothed male nude female",
+      "zh": "男衣女裸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 11851,
+      "desc": "画面中男性穿衣而女性裸体。",
+      "kw": "穿衣男裸女 / 男穿女裸 / 衣装男与裸女 / 男穿衣服女裸体 / 男装女裸 / 互动 / 场景 / cmnf / clothed male naked female / nfcm / nude female clothed male"
+    },
+    {
+      "en": "clothed male nude male",
+      "zh": "着衣男与裸男",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1612,
+      "desc": "一名男性穿衣另一名男性裸体",
+      "kw": "衣男裸男 / 穿衣男裸男 / 男男衣着差 / 一男穿衣一男裸体 / 衣装男与裸男 / 成人场景 / cmnm / clothed male naked male / nude male clothed male"
+    },
+    {
+      "en": "jiao bei jiu",
+      "zh": "交杯酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "picnic",
+      "zh": "野餐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2416,
+      "desc": "在户外风景中用餐的野餐活动",
+      "kw": "郊游野餐 / 户外野餐 / 野炊 / 野餐活动 / 户外 / 活动 / ピクニック"
+    },
+    {
+      "en": "shinkon santaku",
+      "zh": "新婚三择",
+      "rating": "g",
+      "nsfw": false,
+      "count": 557,
+      "desc": "晚饭、洗澡还是我的新婚三选一梗",
+      "kw": "吃饭洗澡还是我 / 晚饭洗澡还是我 / 洗澡吃饭还是我 / 先吃饭先洗澡还是先吃我 / 游戏 / 文化 / soretomo / bath dinner or me / dinner bath or me / 新婚三択"
+    },
+    {
+      "en": "2d dating",
+      "zh": "二次元约会",
+      "rating": "g",
+      "nsfw": false,
+      "count": 93,
+      "desc": "将食物摆在屏幕前与2D角色约会的梗。",
+      "kw": "和纸片人约会 / 与二次元角色约会 / 屏幕前约会 / 和2D角色约会 / 二次元角色约会"
+    },
+    {
+      "en": "wedding",
+      "zh": "婚礼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5380,
+      "desc": "婚礼仪式场景或正在结婚的角色",
+      "kw": "结婚 / 结婚仪式 / 婚礼仪式 / 婚宴 / 结婚典礼 / 结婚式 / 婚纱 / 仪式 / marriage / 婚姻 / 結婚 / 結婚式"
+    },
+    {
+      "en": "pipelining",
+      "zh": "流水线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 42
+    },
+    {
+      "en": "lesbians doing makeup (meme)",
+      "zh": "女同化妆（迷因）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 79,
+      "desc": "两名女性在床上化妆姿势的照片重绘梗",
+      "kw": "百合化妆梗 / 百合化妆姿势 / 女性化妆梗 / 姬佬化妆梗 / 女同化妆 / 拉拉化妆 / 百合补妆 / 女同性恋化妆"
+    },
+    {
+      "en": "mind reading",
+      "zh": "读心术",
+      "rating": "g",
+      "nsfw": false,
+      "count": 611,
+      "desc": "读取他人想法的能力",
+      "kw": "读心 / 心灵读取 / 思维读取 / 读心能力 / 超能力 / 魔法"
+    },
+    {
+      "en": "trolling",
+      "zh": "钓鱼/恶搞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 768,
+      "desc": "以言语等方式故意激怒他人的行为",
+      "kw": "钓鱼 / 引战 / 挑衅 / 恶搞 / 带节奏 / 找茬 / 活动 / 娱乐"
+    },
+    {
+      "en": "mind control",
+      "zh": "精神控制",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15538,
+      "desc": "通过洗脑、催眠等手段操控他人思想与行为",
+      "kw": "洗脑 / 精神操控 / 心灵控制 / 思想控制 / 催眠控制 / 精神支配 / 心智控制 / 操纵心智 / brainwashing / 洗脳 / 洗脳装置 / マインドコントロール"
+    },
+    {
+      "en": "misunderstanding",
+      "zh": "误会",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1817,
+      "desc": "角色错误解读他人的话语或行为，常用于喜剧",
+      "kw": "误解 / 错解 / 会错意 / 曲解 / 领会错误 / 情节 / 场景 / 誤解 / 勘違い"
+    },
+    {
+      "en": "bedwetting",
+      "zh": "尿床",
+      "rating": "q",
+      "nsfw": true,
+      "count": 234,
+      "desc": "睡眠中不自主排尿的现象",
+      "kw": "遗尿 / 夜尿症 / 睡梦中尿床 / 尿床现象 / 失禁 / 生理 / おねしょ"
+    },
+    {
+      "en": "egg laying",
+      "zh": "产卵",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1147,
+      "desc": "角色从阴道或肛门排出蛋状物",
+      "kw": "下蛋 / 生蛋 / 产蛋 / 排出卵 / 生物行为 / egglaying / oviposition / 産卵"
+    },
+    {
+      "en": "bread eating race",
+      "zh": "叼面包竞走",
+      "rating": "g",
+      "nsfw": false,
+      "count": 218,
+      "desc": "用嘴叼住悬挂的面包再跑的赛跑游戏。",
+      "kw": "吃面包比赛 / 叼面包赛跑 / 咬面包赛跑 / 吃面包竞赛 / 面包赛跑 / 叼面包比赛 / 比赛 / bread eating contest / パン食い競争 / パン食い競走"
+    },
+    {
+      "en": "meal",
+      "zh": "用餐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 278,
+      "desc": "早餐、午餐、晚餐等一次进食的整份餐食",
+      "kw": "饭 / 餐食 / 一餐 / 饮食 / 膳食 / 食物 / 餐饮 / 食事"
+    },
+    {
+      "en": "party",
+      "zh": "派对",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1141,
+      "desc": "庆祝和娱乐的社交聚会",
+      "kw": "聚会 / 宴会 / 狂欢 / 派对聚会 / 社交聚会 / 联欢会 / 场景"
+    },
+    {
+      "en": "birthday party",
+      "zh": "生日派对",
+      "rating": "g",
+      "nsfw": false,
+      "count": 496,
+      "desc": "为庆祝生日举办的聚会",
+      "kw": "生日会 / 庆生会 / 生日宴会 / 生日庆典 / 生日晚会 / 庆生派对 / 场景"
+    },
+    {
+      "en": "tea party",
+      "zh": "茶会",
+      "rating": "g",
+      "nsfw": false,
+      "count": 689,
+      "desc": "围坐喝茶吃点心的社交聚会",
+      "kw": "下午茶 / 茶话会 / 茶聚 / 品茶会 / 红茶会 / 英式下午茶 / 下午茶聚会 / 吃茶会 / お茶会 / ティータイム / アフタヌーンティー"
+    },
+    {
+      "en": "pizza delivery",
+      "zh": "披萨外送",
+      "rating": "g",
+      "nsfw": false,
+      "count": 219,
+      "desc": "把披萨送到顾客家中的场景。",
+      "kw": "披萨递送 / 披萨外卖 / 送披萨 / 披萨配送 / 披萨送货 / 外卖披萨 / 披萨外送员 / 外卖 / 宅配ピザ"
+    },
+    {
+      "en": "hatching",
+      "zh": "破壳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 518,
+      "desc": "幼崽破壳而出的过程",
+      "kw": "出壳 / 孵蛋 / 幼崽破壳 / 阴影技法 / 艺术"
+    },
+    {
+      "en": "shipping (fandom)",
+      "zh": "同人配对妄想",
+      "rating": "g",
+      "nsfw": false,
+      "count": 321,
+      "desc": "同人圈中撮合角色恋爱关系的说法",
+      "kw": "配对组合 / 撮合角色 / 拉郎配 / 组对 / 配CP / 配对 / 动词 / 动名词 / relationshipping"
+    },
+    {
+      "en": "regression (psychology)",
+      "zh": "退行（心理学）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "exploring",
+      "zh": "探索",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "camping",
+      "zh": "露营",
+      "rating": "g",
+      "nsfw": false,
+      "count": 917,
+      "desc": "在户外搭帐篷露营的活动",
+      "kw": "野营 / 帐篷露营 / 户外露营 / 露营活动 / 户外活动 / 休闲 / キャンプ"
+    },
+    {
+      "en": "headphones on breasts",
+      "zh": "胸前戴耳机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12
+    },
+    {
+      "en": "abuse",
+      "zh": "虐待",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1626,
+      "desc": "对他人施加身体或精神上的虐待",
+      "kw": "凌辱 / 欺凌 / 施虐 / 凌虐 / 暴力 / 虐待行为 / リンチ"
+    },
+    {
+      "en": "aerial battle",
+      "zh": "空战",
+      "rating": "g",
+      "count": 503,
+      "desc": "在高空进行的战斗，可含飞行者或战机",
+      "kw": "空中战 / 航空战 / 空中战斗 / 空对空战斗 / 空中对决 / 飞行战斗 / 空中作战 / 战斗 / 空中戦 / 航空戦"
+    },
+    {
+      "en": "after bathing",
+      "zh": "洗澡后",
+      "rating": "s",
+      "count": 1797,
+      "desc": "刚洗完澡的状态",
+      "kw": "出浴 / 刚洗完澡 / 浴后 / 洗浴后 / 泡澡后 / 沐浴后 / 出浴状态 / 状态 / after shower / after bath / お風呂上り / 風呂上がり"
+    },
+    {
+      "en": "after battle",
+      "zh": "战后",
+      "rating": "s",
+      "count": 881,
+      "desc": "战斗刚结束后的场景",
+      "kw": "战斗后 / 战斗结束 / 战后场景 / 战斗之后 / 打完仗后 / 战斗 / 场景"
+    },
+    {
+      "en": "after cunnilingus",
+      "zh": "舔阴后",
+      "rating": "e",
+      "nsfw": true,
+      "count": 612,
+      "desc": "舔阴刚结束后的场景",
+      "kw": "舔阴之后 / 口交后（女） / 舔穴后 / 舔逼后 / 口爱后 / 舔下面后 / 口交后 / 性行为"
+    },
+    {
+      "en": "after ejaculation",
+      "zh": "射精后",
+      "rating": "e",
+      "nsfw": true,
+      "count": 5170,
+      "desc": "射精后的状态，阴茎疲软",
+      "kw": "射精之后 / 刚射精 / 事后 / 射后 / 射精完毕 / 射精结束 / 刚射完 / 射精后状态 / ズリ事後 / ぶっかけ / パイ射 / ザーメンブリッジ"
+    },
+    {
+      "en": "ageplay",
+      "zh": "年龄扮演",
+      "rating": "q",
+      "nsfw": true,
+      "count": 558,
+      "desc": "扮演不同年龄段的角色扮演",
+      "kw": "年龄游戏 / 年龄角色扮演 / 扮演年龄 / 年龄差扮演 / 年龄回归扮演 / 角色扮演年龄 / age play"
+    },
+    {
+      "en": "american football (sport)",
+      "zh": "美式橄榄球（运动）",
+      "rating": "g",
+      "count": 271,
+      "desc": "主要在北美进行的美式橄榄球运动",
+      "kw": "美式足球 / 橄榄球 / 美式橄榄球运动 / 美式橄榄球比赛 / 美式足球运动 / 美式橄榄球 / 橄榄球运动"
+    },
+    {
+      "en": "anal insertion",
+      "zh": "肛门插入",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "anal only",
+      "zh": "仅肛交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1162,
+      "desc": "限定只能肛交的情形",
+      "kw": "只肛交 / 纯肛交 / 肛交限定 / 仅限肛交 / 只走后门 / 纯后门 / 只肛 / 唯肛交"
+    },
+    {
+      "en": "animal hug",
+      "zh": "拥抱动物",
+      "rating": "g",
+      "count": 3487,
+      "desc": "拥抱动物的动作。",
+      "kw": "抱动物 / 抱紧动物 / 搂着动物 / 抱宠物 / 互动 / 动物 / hugging animal"
+    },
+    {
+      "en": "animal insertion",
+      "zh": "动物插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 102,
+      "desc": "将动物如鱼、虫等插入阴道或肛门的行为",
+      "kw": "动物塞入 / 动物插入行为 / 活物插入 / 动物放入体内 / 性行为 / 异物插入"
+    },
+    {
+      "en": "animal on back",
+      "zh": "背部动物",
+      "rating": "g",
+      "count": 511,
+      "desc": "动物趴在角色背上",
+      "kw": "动物趴在背上 / 背上有动物 / 背负动物 / 动物在背后 / 背驮动物 / 动物"
+    },
+    {
+      "en": "animal on lap",
+      "zh": "腿上有动物",
+      "rating": "g",
+      "count": 2727,
+      "desc": "动物坐在角色膝盖上",
+      "kw": "膝盖上有动物 / 动物坐在腿上 / 宠物在膝上 / 膝上动物 / 腿上动物 / 宠物在腿上 / 动物依偎"
+    },
+    {
+      "en": "animal play",
+      "zh": "动物扮演play",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "archery",
+      "zh": "射箭",
+      "rating": "g",
+      "count": 1989,
+      "desc": "用弓射箭，可为战斗或竞技。",
+      "kw": "弓道 / 弓术 / 射术 / 射艺 / 箭术 / 用弓 / 射弓 / 射箭运动 / 射法"
+    },
+    {
+      "en": "arm around another's back",
+      "zh": "手臂环抱他人背部",
+      "rating": "g",
+      "count": 2464,
+      "desc": "手臂环抱到他人背后",
+      "kw": "搂背 / 环抱背部 / 手臂绕到对方背后 / 搂住背 / 手搭在对方背上 / 从背后搂住 / 搭背 / 手臂环绕他人后背 / arm around back / arm behind another's back"
+    },
+    {
+      "en": "arm around another's waist",
+      "zh": "手臂环抱他人腰",
+      "rating": "g",
+      "count": 7938,
+      "desc": "手臂环抱到他人的腰上。",
+      "kw": "搂腰 / 环抱腰部 / 揽腰 / 搂着腰 / 搂住腰 / 抱腰 / 环住他人腰 / 手搂腰"
+    },
+    {
+      "en": "arm around shoulder",
+      "zh": "手臂搂肩",
+      "rating": "g",
+      "count": 10774,
+      "desc": "单臂搂住他人肩膀",
+      "kw": "搂肩膀 / 搂着肩 / 搭肩 / 手臂搭肩 / 手搭在肩上 / 搂住肩膀 / 手搂肩 / 胳膊搂肩"
+    },
+    {
+      "en": "arm around waist",
+      "zh": "单手搂腰",
+      "rating": "g",
+      "count": 7031,
+      "desc": "一个角色的手臂环绕另一个角色的腰部。",
+      "kw": "姿势 / 亲密"
+    },
+    {
+      "en": "arm pillow",
+      "zh": "手臂枕头",
+      "rating": "g",
+      "count": 848,
+      "desc": "把手臂当枕头趴睡",
+      "kw": "胳膊枕头 / 手枕 / 手臂当枕头 / 胳膊当枕头 / 枕着手臂 / 枕头 / 休息姿势"
+    },
+    {
+      "en": "armpit carry",
+      "zh": "腋下夹持",
+      "rating": "g",
+      "count": 753,
+      "desc": "双手从腋下把人或动物提起",
+      "kw": "腋下抱 / 腋下举起 / 腋下托举 / 抱腋下 / 从腋下抱起 / 腋下夹起 / 腋下夹着 / 姿势"
+    },
+    {
+      "en": "arms around another's back",
+      "zh": "双臂环抱他人背部",
+      "rating": "g",
+      "count": 1230,
+      "desc": "双臂环抱到他人背后",
+      "kw": "双臂环抱背 / 背后环抱 / 从背后抱住 / 环抱他人背部 / 双臂环绕他人腰背 / 双手环绕他人后背 / 双臂拥抱 / 亲密姿势 / arms around back / arms behind another's back"
+    },
+    {
+      "en": "arms around another's waist",
+      "zh": "环抱他人腰部",
+      "rating": "g",
+      "count": 3336,
+      "desc": "一人双臂环抱另一人的腰部。",
+      "kw": "搂腰 / 抱腰 / 双手环抱腰 / 环抱腰 / 双臂环腰 / 环住他人的腰 / 双臂搂腰 / 双手揽腰 / arms around waist"
+    },
+    {
+      "en": "arms around waist",
+      "zh": "双臂搂腰",
+      "rating": "g",
+      "count": 2816,
+      "desc": "一个角色用双臂环抱另一个角色的腰部",
+      "kw": "搂腰 / 拥抱 / 姿势"
+    },
+    {
+      "en": "ass press",
+      "zh": "臀部按压",
+      "rating": "s",
+      "count": 1177,
+      "desc": "用力把臀部压向人或物使其变形",
+      "kw": "屁股按压 / 用屁股压 / 屁股贴压 / 臀部压挤 / 屁股挤压 / 臀压 / 屁股按 / 臀部贴紧"
+    },
+    {
+      "en": "assisted exposure",
+      "zh": "被脱衣",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6450,
+      "desc": "因他人的动作导致身体被暴露",
+      "kw": "剥开衣服 / 被剥衣 / 被扒衣 / 他人脱衣 / 被人脱衣服 / 协助暴露 / 被迫露出 / 被掀衣 / 曝光身体 / 脱がす / 脱がせる / 水着剥ぎ"
+    },
+    {
+      "en": "assisted object insertion",
+      "zh": "协助插入物体",
+      "rating": "e",
+      "nsfw": true,
+      "count": 553,
+      "desc": "他人协助将物体插入口、肛门或阴道等",
+      "kw": "辅助插入物体 / 帮助插入物体 / 协助插入异物 / 辅助异物插入 / 插入 / 性行为"
+    },
+    {
+      "en": "assisted stretching",
+      "zh": "辅助拉伸",
+      "rating": "g",
+      "count": 503,
+      "desc": "一人帮助另一人做拉伸",
+      "kw": "协助拉伸 / 帮助拉伸 / 被动拉伸 / 双人拉伸 / 辅助拉筋 / 瑜伽 / 运动"
+    },
+    {
+      "en": "attacking viewer",
+      "zh": "攻击观看者",
+      "rating": "g",
+      "count": 5902,
+      "desc": "角色作势要向画面外的观看者攻击。",
+      "kw": "攻击观众 / 袭击观众 / 向观看者攻击 / 迎面攻击 / 攻击画面外 / 攻击视角 / 准备攻击观看者 / incoming attack"
+    },
+    {
+      "en": "badminton",
+      "zh": "羽毛球运动",
+      "rating": "g",
+      "count": 170,
+      "desc": "隔网用球拍来回击打羽毛球的一项运动",
+      "kw": "羽毛球 / 打羽毛球 / 羽毛球赛 / 运动器材 / 体育 / 球类 / 羽毛球（运动）"
+    },
+    {
+      "en": "ballet",
+      "zh": "芭蕾舞",
+      "rating": "g",
+      "count": 2678,
+      "desc": "以优雅动作为特征的舞蹈。",
+      "kw": "芭蕾 / 芭蕾舞剧 / 芭蕾舞者 / 芭蕾舞姿 / 舞蹈 / バレエ"
+    },
+    {
+      "en": "baseball",
+      "zh": "棒球",
+      "rating": "g",
+      "count": 3675,
+      "desc": "一种由两队各9人进行的击球和跑垒运动。目标是通过击打投手投出的棒球并触摸位于90英尺菱形四个角上的四个垒包来得分。击球方轮流击球，防守方投手试图通过多种方式使击球手出局以阻止得分。击球方可以停留在任何垒上，然后通过队友的击球或其他方式推进。每当防守方记录三个出局时，双方交换攻守。",
+      "kw": "棒球(运动) / 运动 / 人物 / 棒球运动 / 棒球比赛"
+    },
+    {
+      "en": "baseball (sport)",
+      "zh": "棒球（运动）",
+      "rating": "g",
+      "count": 3810,
+      "desc": "两队各九人、以击球跑垒得分的运动。",
+      "kw": "棒球运动 / 野球 / 棒球 / 球类运动 / baseball / 棒球"
+    },
+    {
+      "en": "basketball (sport)",
+      "zh": "篮球运动",
+      "rating": "g",
+      "count": 3589,
+      "desc": "两队各五人、把球投入篮筐得分的运动。",
+      "kw": "篮球 / 打篮球 / 篮球比赛 / 篮球赛 / 篮球(运动) / 体育运动 / 球类运动 / 笼球 / 篭球"
+    },
+    {
+      "en": "bath",
+      "zh": "洗澡",
+      "rating": "s",
+      "count": 15383,
+      "desc": "用于洗浴的浴缸或水池",
+      "kw": "泡澡 / 沐浴 / 入浴 / 浴缸 / 洗澡水 / 沐浴中 / 泡浴 / 洗浴 / ofuro / 风吕 / お風呂 / 風呂"
+    },
+    {
+      "en": "beach volleyball",
+      "zh": "沙滩排球",
+      "rating": "s",
+      "count": 1047,
+      "desc": "在沙滩上进行的排球运动",
+      "kw": "沙排 / 海滩排球 / 沙滩排球运动 / 沙滩排球(运动) / 运动 / 沙滩排球赛 / 沙滩排球（运动） / ビーチバレー"
+    },
+    {
+      "en": "belly dancing",
+      "zh": "肚皮舞",
+      "rating": "s",
+      "count": 445,
+      "desc": "强调躯干动作的中东肚皮舞。",
+      "kw": "东方舞 / 中东舞 / 摆腹舞 / ベリーダンス / 벨리댄스"
+    },
+    {
+      "en": "billiards",
+      "zh": "台球",
+      "rating": "g",
+      "count": 554,
+      "desc": "在球桌上用球杆击球入袋的台球运动",
+      "kw": "桌球 / 撞球 / 弹子球 / 斯诺克 / 花式台球 / 普尔 / 撞球运动 / 运动 / snooker / pool (sport) / 台球（运动项目） / スヌーカー"
+    },
+    {
+      "en": "boss fight",
+      "zh": "BOSS战",
+      "rating": "g",
+      "count": 489,
+      "desc": "电子游戏中的首领战",
+      "kw": "首领战 / 头目战 / BOSS战斗 / 关底战 / 电子游戏 / 战斗 / ボス戦"
+    },
+    {
+      "en": "boy and girl sandwich",
+      "zh": "男孩和女孩三明治",
+      "rating": "s",
+      "count": 534,
+      "desc": "被夹在一男一女之间的角色",
+      "kw": "男女三明治 / 一男一女夹击 / 男女夹心 / 男女前后夹击 / 男女夹攻 / 姿势 / 性交"
+    },
+    {
+      "en": "boy sandwich",
+      "zh": "男孩三明治",
+      "rating": "s",
+      "count": 1641,
+      "desc": "角色被两个男孩夹在中间。",
+      "kw": "男生三明治 / 少男三明治 / 被男孩夹在中间 / 男性三明治 / 男孩夹心 / 男孩夹击 / 双男夹一女 (三明治) / 三明治姿势 / sandwich (male)"
+    },
+    {
+      "en": "breakdance",
+      "zh": "霹雳舞",
+      "rating": "g",
+      "count": 413,
+      "desc": "1970年代兴起的霹雳舞/地板舞",
+      "kw": "地板舞 / 街头霹雳舞 / 技巧舞 / 霹雳舞蹈 / 街舞 / ブレイクダンス"
+    },
+    {
+      "en": "breasts on another's back",
+      "zh": "胸贴他人背",
+      "rating": "s",
+      "count": 731,
+      "desc": "从背后把胸贴上他人背部",
+      "kw": "胸贴背 / 乳房贴背 / 用胸贴背 / 胸部压背 / 胸抵背 / 背后胸压 / 奶贴背 / 胸部压在他人的背上 / breasts on back"
+    },
+    {
+      "en": "bubble bath",
+      "zh": "泡泡浴",
+      "rating": "s",
+      "count": 746,
+      "desc": "充满泡沫的泡泡浴",
+      "kw": "泡沫浴 / 气泡浴 / 泡泡浴缸 / 泡泡澡 / 泡沫澡 / 泡澡 / 沐浴 / 泡风吕 / 泡風呂"
+    },
+    {
+      "en": "bulge to ass",
+      "zh": "凸起抵臀",
+      "rating": "q",
+      "nsfw": true,
+      "count": 896,
+      "desc": "凸起贴在臀部上的情形",
+      "kw": "凸起贴臀 / 勃起顶臀 / 勃起贴臀 / 顶臀 / 鼓包贴臀 / 身体部位 / 臀部 / bulge on ass"
+    },
+    {
+      "en": "buttjob over clothes",
+      "zh": "隔衣臀交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 703,
+      "desc": "隔着衣物用臀部摩擦阴茎",
+      "kw": "隔衣臀推 / 隔裤臀交 / 隔着衣物臀交 / 隔衣臀部摩擦 / 隔着内裤臀交 / 衣物臀交 / 隔裤臀推 / 性行为"
+    },
+    {
+      "en": "caramelldansen",
+      "zh": "扭腰摇摆舞(Caramelldansen)",
+      "rating": "g",
+      "count": 700,
+      "desc": "瑞典组合Caramell的舞曲/电子歌曲，因加速版配《Popotan》角色舞蹈视频而流行。",
+      "kw": "舞蹈 / 网络迷因"
+    },
+    {
+      "en": "carrying baby",
+      "zh": "抱着婴儿",
+      "rating": "g",
+      "count": 1714,
+      "desc": "抱着婴儿，可为横抱或背抱。",
+      "kw": "抱婴儿 / 抱小孩 / 怀抱婴儿 / 抱宝宝 / 抱着宝宝 / 怀抱宝宝 / 婴儿 / 抱着 / holding baby"
+    },
+    {
+      "en": "carrying person",
+      "zh": "抱着人",
+      "rating": "g",
+      "count": 17719,
+      "desc": "用双臂托抱他人的动作",
+      "kw": "抱人 / 托抱 / 怀抱 / 抱起 / 托举着人 / 携带人 / 姿势 / 搬运 / person carrying / 携带人"
+    },
+    {
+      "en": "catfight",
+      "zh": "女生扭打",
+      "rating": "s",
+      "count": 897,
+      "desc": "两名女性互相抓挠扭打，通常不持武器",
+      "kw": "女人打架 / 女性互殴 / 女子打架 / 两女互撕 / 女性肉搏 / 猫打架 / 格斗 / 猫斗 / cat fight / 打架 / 掐架 / 斗殴"
+    },
+    {
+      "en": "choke hold",
+      "zh": "锁喉",
+      "rating": "s",
+      "count": 1519,
+      "desc": "勒住颈部使对方窒息或失血的格斗技",
+      "kw": "绞技 / 锁颈 / 扼喉 / 扼颈 / 窒息锁 / 颈部绞技 / 勒颈 / 格斗 / stranglehold / 絞技"
+    },
+    {
+      "en": "cleanup fellatio",
+      "zh": "事后清理口交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 961,
+      "desc": "用口交清理阴茎上残留的精液",
+      "kw": "清理口交 / 善后口交 / 口交清理 / 事后口活 / 事后清理 (口交) / 成人 / H场景 / お掃除フェラ"
+    },
+    {
+      "en": "clitoral stimulation",
+      "zh": "阴蒂刺激",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6178,
+      "desc": "以各种方式刺激或爱抚阴蒂",
+      "kw": "玩弄阴蒂 / 刺激阴蒂 / 阴蒂爱抚 / 揉阴蒂 / 摩擦阴蒂 / 阴蒂责弄 / 性刺激 / 自慰 / clitoris stimulation / クリ責め"
+    },
+    {
+      "en": "clothed bath",
+      "zh": "着衣入浴",
+      "rating": "s",
+      "count": 582,
+      "desc": "穿着衣服淋浴或泡澡",
+      "kw": "穿衣洗澡 / 穿着衣服洗澡 / 着衣沐浴 / 穿衣泡澡 / 穿着衣服入浴 / 着衣淋浴 / 着衣洗澡 / 洗澡 / clothed shower / bathing with clothes on / showering with clothes on"
+    },
+    {
+      "en": "clothed masturbation",
+      "zh": "着衣自慰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 973,
+      "desc": "隔着衣物进行自慰的行为。",
+      "kw": "自慰 / 色情"
+    },
+    {
+      "en": "clothes theft",
+      "zh": "偷衣服",
+      "rating": "s",
+      "count": 1069,
+      "desc": "偷走他人的衣服。",
+      "kw": "偷衣物 / 衣服偷窃 / 偷走衣服 / 窃取衣物 / 偷衣 / 盗窃衣物 / 场景 / 恶作剧 / clothes thief / clothing thief / stealing clothes"
+    },
+    {
+      "en": "cock in thighhigh",
+      "zh": "阴茎插在过膝袜里",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "cunnilingus through clothes",
+      "zh": "隔衣舔阴",
+      "rating": "q",
+      "nsfw": true,
+      "count": 678,
+      "desc": "隔着至少一层衣物舔阴，多为内裤",
+      "kw": "隔内裤舔 / 隔裤舔阴 / 隔衣物舔 / 穿着内裤舔阴 / 隔布舔阴 / 隔着内裤舔阴 / 隔裤口交 / 隔衣口交"
+    },
+    {
+      "en": "dip (dance move)",
+      "zh": "下腰（舞步）",
+      "rating": "g",
+      "count": 273,
+      "desc": "双人舞中一方后仰下腰的动作",
+      "kw": "下腰舞步 / 后仰下腰 / 双人舞下腰 / 舞蹈下腰 / 浸身舞步 / 舞蹈 / 姿势"
+    },
+    {
+      "en": "dodgeball (sport)",
+      "zh": "躲避球",
+      "rating": "g",
+      "count": 130,
+      "desc": "两队互相投球攻击对手的运动。",
+      "kw": "闪避球 / 躲避球运动 / 丢球游戏 / 球类运动"
+    },
+    {
+      "en": "double buttjob",
+      "zh": "双人臀交",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "dressing another",
+      "zh": "帮他人穿衣",
+      "rating": "g",
+      "count": 1429,
+      "desc": "帮他人穿衣或整理衣物",
+      "kw": "给别人穿衣 / 替别人穿衣服 / 帮人穿衣服 / 为他人穿衣 / 替人更衣 / 帮人整理衣物 / 为他人着装 / 着装"
+    },
+    {
+      "en": "drying another's hair",
+      "zh": "帮他人擦干头发",
+      "rating": "g",
+      "count": 842,
+      "desc": "帮别人把湿头发弄干",
+      "kw": "帮别人擦干头发 / 替他人弄干头发 / 为他人擦干头发 / 帮他人吹干头发 / 擦干对方头发 / 擦干他人头发 / 护理 / 吹干头发"
+    },
+    {
+      "en": "emotionless sex",
+      "zh": "面无表情的性爱",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2336,
+      "desc": "性爱中面无表情、毫无兴致",
+      "kw": "无表情性爱 / 无感情性爱 / 冷漠性爱 / 性爱中面无表情 / 毫无兴致的性爱 / 无表情做爱 / 性交 / 无感情 / expressionless sex / 无感情的性爱 / 无関心"
+    },
+    {
+      "en": "exercise",
+      "zh": "做运动",
+      "rating": "g"
+    },
+    {
+      "en": "face in ass",
+      "zh": "脸埋臀部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1123,
+      "desc": "脸埋在他人臀缝之间",
+      "kw": "脸贴臀部 / 颜面压迫 / 屁股埋脸 / 脸埋屁股 / 骑脸 / 股间埋脸 / 脸埋在屁股里 / 脸坐 / head between ass / 颜面圧迫"
+    },
+    {
+      "en": "family bonding",
+      "zh": "家庭互动",
+      "rating": "g",
+      "count": 2946,
+      "desc": "家庭成员共度时光，表现亲情",
+      "kw": "家庭相处 / 亲子时光 / 家人共处 / 家庭温馨 / 阖家欢乐 / 家庭团聚 / 亲子互动 / 天伦之乐 / 一家団栾"
+    },
+    {
+      "en": "fellatio under mask",
+      "zh": "面罩下口交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 604,
+      "desc": "戴着面罩或面纱进行口交",
+      "kw": "蒙面口交 / 面罩口交 / 口罩口交 / 面具口交 / 面纱口交 / 隔面罩口交 / 戴面罩口交 / 面具下口交 / fellatio under veil / フェベチオ / マスクフェラ"
+    },
+    {
+      "en": "food theft",
+      "zh": "偷食物",
+      "rating": "g",
+      "count": 706,
+      "desc": "偷取或抢夺他人食物的行为",
+      "kw": "偷吃 / 偷窃食物 / 食物盗窃 / 抢夺食物 / 盗食 / 偷拿食物 / 窃食 / 抢食 / stealing food"
+    },
+    {
+      "en": "foreplay",
+      "zh": "前戏",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1427,
+      "desc": "性行为前亲吻抚摸等铺垫行为",
+      "kw": "性前戏 / 爱抚 / 前奏 / 性前奏 / 挑逗 / 预热 / 性行为 / 亲密 / 前戯"
+    },
+    {
+      "en": "foreskin insertion",
+      "zh": "包皮插入",
+      "rating": "e",
+      "nsfw": true,
+      "count": 588,
+      "desc": "将手指或舌头等伸入包皮内的行为。",
+      "kw": "插入包皮 / 伸入包皮 / 包皮内插入 / 玩包皮 / 包皮插入式 / 插入 / 性行为"
+    },
+    {
+      "en": "front-to-back",
+      "zh": "前后相贴",
+      "rating": "g",
+      "count": 1937,
+      "desc": "两人一前一后、前胸贴后背的姿态",
+      "kw": "前后贴 / 前胸贴后背 / 背后相贴 / 一前一后 / 前后贴贴 / 从前到后 / 排列 / 视角 / 前から後ろへ"
+    },
+    {
+      "en": "frontal thigh sex",
+      "zh": "正面大腿交合",
+      "rating": "q",
+      "nsfw": true,
+      "count": 610,
+      "desc": "双方面对面、胸贴胸进行的大腿交合。其中一种特别流行的姿势是女方腹部贴腹部地趴在伴侣身上、脚踝交叉，据称参考自真实NSFW账号“petitesweettreat”的照片。",
+      "kw": "性行为 / 股交 / 面对面"
+    },
+    {
+      "en": "furry with furry",
+      "zh": "兽人×兽人",
+      "rating": "s",
+      "count": 5852,
+      "desc": "两个兽人角色间的恋爱或性爱互动",
+      "kw": "兽人与兽人 / 兽人之间 / 毛茸茸之间 / 兽人情侣 / 兽人配对 / 兽人恋爱 / 兽人 / 毛茸茸"
+    },
+    {
+      "en": "furry with non-furry",
+      "zh": "兽人与非兽人",
+      "rating": "s",
+      "count": 10360,
+      "desc": "兽人角色与非兽人角色之间的互动。",
+      "kw": "毛茸茸与非毛茸茸 / 兽人与人类 / 兽人×人类 / 兽人与人 / 兽人配对 / 人外与人类 / 人兽 / 混合"
+    },
+    {
+      "en": "girl sandwich",
+      "zh": "左拥右抱",
+      "rating": "s",
+      "count": 10209,
+      "desc": "一个人（多为男性）被两个女孩左右夹在中间",
+      "kw": "被两个女孩夹在中间 / 两面包夹芝士 / 左拥右抱两女 / 双美夹击 / 两女夹一男 / 左拥右抱美人 / 两边搂着女孩 / 女孩三明治 / 両手に花"
+    },
+    {
+      "en": "golf",
+      "zh": "高尔夫球运动",
+      "rating": "g",
+      "count": 361,
+      "desc": "在室外球场上用球杆把球打进各洞的运动。",
+      "kw": "高尔夫 / 高尔夫球 / 打高尔夫 / 高尔夫运动 / 高球 / 高尔夫球赛 / 运动 / 体育 / 高尔夫球（运动） / 高尔夫（运动） / ゴルフ / 골프"
+    },
+    {
+      "en": "grabbed by tentacles",
+      "zh": "被触手抓住",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5154,
+      "desc": "角色被触手缠住或抓住",
+      "kw": "被触手缠住 / 触手抓取 / 触手缠绕 / 被触手捆绑 / 触手抓住 / 被触手控制 / 触手束缚 / 触手play"
+    },
+    {
+      "en": "gymnastics",
+      "zh": "体操",
+      "rating": "g",
+      "count": 1349,
+      "desc": "需要平衡、力量与柔韧的体操运动。",
+      "kw": "体操运动 / 竞技体操 / 徒手体操 / 器械体操 / 体操动作 / 运动 / 体育 / gymnast / 体育 / たいそう / たいいく"
+    },
+    {
+      "en": "handsfree ejaculation",
+      "zh": "无手射精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 4767,
+      "desc": "不直接刺激阴茎而达到射精，常见于前列腺高潮。",
+      "kw": "无接触射精 / 不用手射精 / 免提射精 / 前列腺高潮射精 / 前高射精 / 无撸射精 / 不手淫射精 / 射精 / untouched ejaculation / ところてん / メスイキ / トコロテン"
+    },
+    {
+      "en": "handshake",
+      "zh": "握手",
+      "rating": "g",
+      "count": 1349,
+      "desc": "两人见面或告别时的握手动作",
+      "kw": "握手礼 / 相互握手 / 握手掌 / 动作 / 互动 / shaking hands"
+    },
+    {
+      "en": "hanetsuki",
+      "zh": "板羽球",
+      "rating": "g",
+      "count": 1583,
+      "desc": "日本新年玩的板羽球游戏",
+      "kw": "羽子板游戏 / 日式板羽球 / 羽毛毽子 / 羽根突 / 板羽球游戏 / 拍羽球 / 羽子板 / 日本传统 / 羽子突 / 羽突き / 羽根付き / 羽根突き"
+    },
+    {
+      "en": "happy facial",
+      "zh": "开心颜射",
+      "rating": "e",
+      "nsfw": true,
+      "count": 604,
+      "desc": "被颜射后露出开心表情",
+      "kw": "愉悦颜射 / 快乐颜射 / 幸福颜射 / 颜射微笑 / 高潮表情 / 幸福表情 / 面部表情"
+    },
+    {
+      "en": "head hug",
+      "zh": "抱住他人头",
+      "rating": "g",
+      "count": 850,
+      "desc": "抱住他人头部的动作",
+      "kw": "抱住他人的头 / 抱住头部 / 搂住头 / 抱头 / 捧头 / 拥抱 / 亲密 / hugging another's head"
+    },
+    {
+      "en": "headlock",
+      "zh": "头锁",
+      "rating": "g",
+      "count": 549,
+      "desc": "用手臂夹住对方头部的摔跤锁技",
+      "kw": "锁头 / 夹头 / 头部锁技 / 头部固定 / 锁喉 / 格斗 / 擒拿 / 锁喉"
+    },
+    {
+      "en": "headshot",
+      "zh": "爆头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 622,
+      "desc": "头部被子弹或投射物击中。",
+      "kw": "头部中弹 / 爆脑 / 打爆头 / 爆头击杀 / 爆头一击 / 打头 / 头像 / 特写 / ヘッドショット / ヘッド・ショット"
+    },
+    {
+      "en": "holding person",
+      "zh": "抱人（泛指）",
+      "rating": "g",
+      "count": 1848,
+      "desc": "指抱着另一个人的动作。",
+      "kw": "抱着人 / 拥抱 / 抱持 / 肢体接触"
+    },
+    {
+      "en": "hoshino ruby dance",
+      "zh": "星野露比舞",
+      "rating": "g",
+      "count": 183,
+      "desc": "《我推的孩子》二期片头中星野露比的循环舞蹈",
+      "kw": "露比舞 / 我推的孩子露比舞 / 星野露比舞蹈 / 星野露比之舞 / 角色 / 舞蹈 / doodle dance"
+    },
+    {
+      "en": "hug from side",
+      "zh": "侧面拥抱",
+      "rating": "g",
+      "count": 874,
+      "desc": "从旁边抱住对方",
+      "kw": "侧抱 / 从侧边拥抱 / 侧身拥抱 / 侧面抱 / 拥抱 / 动作"
+    },
+    {
+      "en": "hugging another's leg",
+      "zh": "抱住别人的腿",
+      "rating": "g",
+      "count": 1142,
+      "desc": "抱住或缠住别人的腿",
+      "kw": "抱别人大腿 / 抱着别人的腿 / 抱住他人的腿 / 缠住别人的腿 / 抱着另一个的腿 / 抱他人腿 / 抱腿 / 腿部拥抱 / hugging another's legs / leg cling"
+    },
+    {
+      "en": "hugging another's tail",
+      "zh": "拥抱他人的尾巴",
+      "rating": "g",
+      "count": 591,
+      "desc": "抱住别人的尾巴",
+      "kw": "抱别人的尾巴 / 抱住他人尾巴 / 搂住别人的尾巴 / 抱尾巴 / 抱着别人的尾巴 / 拥抱 / 尾巴互动"
+    },
+    {
+      "en": "hugging viewer",
+      "zh": "拥抱观者",
+      "rating": "g",
+      "count": 1807,
+      "desc": "面向观者准备给予拥抱",
+      "kw": "拥抱观看者 / 面向观者拥抱 / 扑向观者 / 求抱抱 / 第一人称拥抱 / 第一人称即将拥抱 / 拥抱视角 / 即将被拥抱 / incoming hug / 第一人称即将拥抱"
+    },
+    {
+      "en": "hula",
+      "zh": "草裙舞",
+      "rating": "g",
+      "count": 114,
+      "desc": "夏威夷传统草裙舞。",
+      "kw": "夏威夷草裙舞 / 呼啦舞 / 夏威夷呼啦舞 / 夏威夷舞蹈 / 夏威夷舞 / 民族舞蹈 / 花环装饰"
+    },
+    {
+      "en": "human stacking",
+      "zh": "人体堆叠",
+      "rating": "q",
+      "nsfw": true,
+      "count": 639,
+      "desc": "多人以性意味上下叠躺在一起",
+      "kw": "人肉叠叠乐 / 叠罗汉 / 叠人 / 人堆 / 性叠罗汉 / 多人动作 / 尻タワー"
+    },
+    {
+      "en": "imminent fellatio",
+      "zh": "即将口交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 3593,
+      "desc": "即将开始口交的瞬间",
+      "kw": "快要口交 / 口交前 / 准备口交 / 马上口交 / 即将口活 / 口交准备"
+    },
+    {
+      "en": "imminent gangbang",
+      "zh": "即将轮奸",
+      "rating": "e",
+      "nsfw": true,
+      "count": 786,
+      "desc": "即将遭到多人轮奸",
+      "kw": "即将群P / 即将被轮 / 群交在即 / 马上被轮 / 即将多P / 即将被群P / 群P在即"
+    },
+    {
+      "en": "imminent hug",
+      "zh": "即将拥抱",
+      "rating": "g",
+      "count": 1061,
+      "desc": "两名角色即将拥抱。",
+      "kw": "快要拥抱 / 预备拥抱 / 正欲拥抱 / 马上拥抱 / 拥抱前夕 / 就要抱抱 / 即将相拥 / 拥抱 / incipient hug"
+    },
+    {
+      "en": "imminent paizuri",
+      "zh": "即将乳交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 546,
+      "desc": "阴茎即将被夹入双乳之间的瞬间",
+      "kw": "乳交前一刻 / 即将被夹乳 / 乳交前夕 / 马上就要乳交 / 乳交预备 / 夹乳前瞬间 / 即将开始的乳交 / 乳交准备 / パイズリ事前 / ズリ事前"
+    },
+    {
+      "en": "imminent sex",
+      "zh": "正要做爱",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "implied paizuri",
+      "zh": "暗示乳交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 880,
+      "desc": "画面未直接表现但暗示正在乳交",
+      "kw": "隐含乳交 / 隐晦乳交 / 乳交暗示 / 间接表现乳交 / 性暗示"
+    },
+    {
+      "en": "in the face",
+      "zh": "打在脸上",
+      "rating": "g",
+      "count": 2640,
+      "desc": "被派、拳头或巴掌等命中脸部",
+      "kw": "击中面部 / 糊脸 / 颜面直击 / 脸部中招 / 迎面击中 / 命中脸部 / 砸在脸上 / 在脸上 / ジャイアンパンチ"
+    },
+    {
+      "en": "incoming hug",
+      "zh": "迎面拥抱",
+      "rating": "g",
+      "count": 1622,
+      "desc": "观看者即将被拥抱的场景。",
+      "kw": "拥抱 / 动作"
+    },
+    {
+      "en": "insertion",
+      "zh": "插入",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "intertwined tails",
+      "zh": "尾巴缠绕",
+      "rating": "g",
+      "count": 987,
+      "desc": "两人的尾巴相互缠绕",
+      "kw": "交织在一起的尾巴 / 尾巴相互缠绕 / 缠绕的尾巴 / 尾巴纠缠 / 双尾交缠 / 尾巴 / 动物特征 / 絡みつく尻尾 / 尾巴缠绕在一起"
+    },
+    {
+      "en": "interview",
+      "zh": "面试",
+      "rating": "g",
+      "count": 888,
+      "desc": "面试或采访中的对谈场景",
+      "kw": "采访 / 访谈 / 面谈 / 面试场景 / 采访场景 / 场景"
+    },
+    {
+      "en": "judo",
+      "zh": "柔道",
+      "rating": "g",
+      "count": 208,
+      "desc": "起源于日本的格斗运动柔道。",
+      "kw": "日本柔道 / 柔道运动 / 讲道馆柔道 / 武术 / 格斗 / 运动"
+    },
+    {
+      "en": "kabedon",
+      "zh": "壁咚",
+      "rating": "g",
+      "count": 5399,
+      "desc": "把手撑在墙上把对方困住的壁咚",
+      "kw": "墙咚 / 壁咚动作 / 拍墙 / 墙壁咚 / 姿势 / 互动 / 浪漫 / wall slam / 壁ドン"
+    },
+    {
+      "en": "kissing another during penetration",
+      "zh": "插入时亲吻他人",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1179,
+      "desc": "在一方进行插入性交的同时，与第三方接吻。",
+      "kw": "一边被插一边亲吻别人 / 性交中亲吻另一人 / 被插入时接吻 / 3P中亲吻第三方 / 做爱时亲吻另一人 / 插入中与第三人接吻 / 插入时与他人接吻 / 性交中接吻"
+    },
+    {
+      "en": "kitsune dance",
+      "zh": "狐狸舞",
+      "rating": "g",
+      "count": 110,
+      "desc": "日本火腿斗士队啦啦队表演的狐狸舞",
+      "kw": "狐狸舞蹈 / 狐舞 / 狐狸跳 / 北海道狐狸舞 / 狐之歌舞 / 日本啦啦队舞 / ENP舞"
+    },
+    {
+      "en": "koi dance",
+      "zh": "恋舞",
+      "rating": "g",
+      "count": 479,
+      "desc": "日剧《逃避虽可耻但有用》片尾的恋舞",
+      "kw": "恋爱舞 / 逃避可耻但有用舞蹈 / 躲避虽可耻但有用舞 / 恋之舞 / 舞蹈 / 恋ダンス"
+    },
+    {
+      "en": "kyuudou",
+      "zh": "弓道",
+      "rating": "g",
+      "count": 954,
+      "desc": "日本传统的射箭术",
+      "kw": "日式弓道 / 日本弓道 / 弓术 / 日本传统射箭 / 运动 / 日本风格 / kyuudo / 弓道着"
+    },
+    {
+      "en": "lacrosse",
+      "zh": "长曲棍球",
+      "rating": "g",
+      "count": 118,
+      "desc": "使用带网长杆的团队球类运动",
+      "kw": "袋棍球 / 棍网球 / 长柄曲棍球 / 网棒球 / 曲棍网兜球 / 运动 / 球类"
+    },
+    {
+      "en": "lap pillow invitation",
+      "zh": "膝枕邀请",
+      "rating": "g",
+      "count": 1414,
+      "desc": "角色邀请他人把头枕在自己膝上。",
+      "kw": "邀请膝枕 / 请人躺膝 / 邀请躺大腿 / 请求膝枕 / 让人膝枕 / 亲密动作 / 日式姿势"
+    },
+    {
+      "en": "leaning on person",
+      "zh": "靠在人身上",
+      "rating": "g",
+      "count": 11328,
+      "desc": "身体靠在另一个人身上，表现出亲昵或依靠。",
+      "kw": "倚靠别人 / 靠在他人身上 / 依偎在人身上 / 靠着人 / 倚在人身上 / 姿势 / leaning on another / 倚靠在别人身上"
+    },
+    {
+      "en": "lifting person",
+      "zh": "将人抱起",
+      "rating": "g",
+      "count": 10785,
+      "desc": "把人物整个人举离地面",
+      "kw": "抱起别人 / 举起别人 / 抬人 / 把人抱起 / 抱人 / 举人 / 托起别人 / 抬起别人 / lifting another / 被抬起的人"
+    },
+    {
+      "en": "lion dance",
+      "zh": "舞狮",
+      "rating": "g",
+      "count": 536,
+      "desc": "舞狮者模仿狮子动作的传统舞蹈",
+      "kw": "舞狮子 / 狮子舞 / 醒狮 / 舞狮表演 / 跳狮子 / 南狮 / 北狮 / 节日 / 舞獅"
+    },
+    {
+      "en": "livestream",
+      "zh": "直播",
+      "rating": "g",
+      "count": 4007,
+      "desc": "实时向观众直播视频的行为",
+      "kw": "生放送 / 实况直播 / 网络直播 / 线上直播 / 视频直播 / 实时直播 / 直播中 / 开播 / twitch stream / streaming / ライブチャット / ライブ配信"
+    },
+    {
+      "en": "living fleshlight",
+      "zh": "活体飞机杯",
+      "rating": "q",
+      "nsfw": true,
+      "count": 798,
+      "desc": "被当作自慰器具使用的人",
+      "kw": "人肉飞机杯 / 活人飞机杯 / 人体飞机杯 / 移动飞机杯 / 真人飞机杯 / 人肉自慰器"
+    },
+    {
+      "en": "lying on another",
+      "zh": "躺在另一角色身上",
+      "rating": "g",
+      "count": 621,
+      "desc": "躺在另一个角色身上",
+      "kw": "躺在别人身上 / 压在另一人身上 / 趴在另一人身上 / 躺在他人身上 / 靠躺在别人身上 / 姿势"
+    },
+    {
+      "en": "lying on lap",
+      "zh": "躺在腿上",
+      "rating": "g",
+      "count": 1985,
+      "desc": "躺在他人腿上，仅头部则用膝枕。",
+      "kw": "躺大腿 / 卧在腿上 / 横卧大腿 / 仰卧腿上 / 躺在膝上 / 卧膝 / 枕大腿 / 大腿枕"
+    },
+    {
+      "en": "lying on person",
+      "zh": "躺在人身上",
+      "rating": "g",
+      "count": 8277,
+      "desc": "躺在另一个角色身上休息",
+      "kw": "躺在别人身上 / 靠在人身上 / 枕在他人身上 / 躺在他人身上 / 躺在角色身上 / 躺在对方身上 / 姿势 / 身体接触 / 躺着别人身上"
+    },
+    {
+      "en": "magic trick",
+      "zh": "魔术戏法",
+      "rating": "g",
+      "count": 552,
+      "desc": "魔术师表演的戏法。",
+      "kw": "戏法 / 魔术表演 / 变戏法 / 奇术 / 变魔术 / 魔术 / 表演 / 幻术 / 手品 / 魔术 / 魔术把戏 / 奇術"
+    },
+    {
+      "en": "mahjong",
+      "zh": "麻将",
+      "rating": "g",
+      "count": 2515,
+      "desc": "起源于中国的四人麻将牌游戏，东亚十分流行",
+      "kw": "麻雀 / 麻将牌 / 游戏 / 中国风 / mahjongg / 마작"
+    },
+    {
+      "en": "mamemaki",
+      "zh": "撒豆",
+      "rating": "g",
+      "count": 820,
+      "desc": "节分时撒豆驱鬼的日本传统仪式",
+      "kw": "撒豆子 / 节分撒豆 / 豆撒 / 驱鬼撒豆 / 撒豆驱邪 / 豆撒き / 日本风 / 节句 / 豆撒き"
+    },
+    {
+      "en": "marching band",
+      "zh": "行进乐队",
+      "rating": "g",
+      "count": 540,
+      "desc": "边走边演奏的管乐队，多穿军装式制服",
+      "kw": "军乐队 / 仪乐队 / 仪仗乐队 / 行进管乐队 / 鼓号队 / 游行乐队 / 仪仗队 / 表演 / マーチングバンド"
+    },
+    {
+      "en": "martial arts",
+      "zh": "武术",
+      "rating": "g",
+      "count": 1220,
+      "desc": "各种格斗武术的笼统标签，未指明具体流派",
+      "kw": "格斗术 / 武艺 / 功夫 / 格斗技 / 武打 / 搏击 / 格斗 / 武芸 / 武道 / 武術"
+    },
+    {
+      "en": "me!me!me! dance (meme)",
+      "zh": "Me!Me!Me!舞蹈（模因）",
+      "rating": "s",
+      "count": 183,
+      "desc": "《Me!Me!Me!》动画音乐视频中出现的特定舞蹈",
+      "kw": "抖臀舞 / 摇臀舞 / Me!Me!Me!舞 / zero two舞 / 动漫抖臀舞 / 日本动画舞蹈 / 著名抖臀舞 / 二次元摇摆舞 / zero two dance / hip sway dance"
+    },
+    {
+      "en": "mixed bathing",
+      "zh": "混浴",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "mixed martial arts",
+      "zh": "综合格斗",
+      "rating": "g",
+      "count": 181,
+      "desc": "融合打击、摔跤与地面技的全接触格斗运动",
+      "kw": "混合武术 / 综合格斗术 / 混合格斗 / 综合搏击 / 全接触格斗 / 武术 / 格斗 / mma"
+    },
+    {
+      "en": "mixed-sex combat",
+      "zh": "男女混战",
+      "rating": "g",
+      "count": 736,
+      "desc": "男性和女性之间的打斗场面",
+      "kw": "男女格斗 / 男女对战 / 男女对打 / 混合性别战斗 / 混合性别格斗 / 男女打斗 / 男女搏斗 / 男女互斗 / mixed gender duel / ミックスファイト"
+    },
+    {
+      "en": "mochi mochi dance",
+      "zh": "糯糯舞（宝可梦）",
+      "rating": "g",
+      "count": 139,
+      "desc": "《宝可梦 朱/紫》中被桃歹郎操控时跳的滑稽舞蹈",
+      "kw": "桃歹郎舞 / 宝可梦糯糯舞 / 桃歹郎的舞 / 软糯舞 / 糯米团子舞 / 舞蹈 / 日式舞蹈"
+    },
+    {
+      "en": "mochitsuki",
+      "zh": "捣年糕",
+      "rating": "g",
+      "count": 828,
+      "desc": "日本传统用杵臼捣制年糕的活动",
+      "kw": "打年糕 / 舂年糕 / 捣麻糬 / 打麻糬 / 年糕捣制 / 年糕制作 / 日本风 / 节日活动 / mochi pounding / 餅つき"
+    },
+    {
+      "en": "motteke! serafuku",
+      "zh": "拿去吧！水手服",
+      "rating": "g",
+      "count": 266,
+      "desc": "《幸运星》片头曲《拿去吧！水手服》的舞蹈场景",
+      "kw": "拿去吧水手服 / 拿去吧！水兵服 / 幸运星片头曲拿去吧水手服 / 幸运星OP拿去吧水手服 / 水手服 / 制服 / 校服 / motekke! serafuku / もってけ!セーラーふく"
+    },
+    {
+      "en": "multiple breast smother",
+      "zh": "多人胸部闷杀",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "multiple riders",
+      "zh": "多人骑乘",
+      "rating": "g",
+      "count": 2058,
+      "desc": "多人骑乘同一物体或动物",
+      "kw": "两人共乘 / 多人共乘 / 双人骑乘 / 多人同骑 / 骑乘多人 / 两人乘 / 骑乘 / 同时骑乘 / riding double / 二人乗り"
+    },
+    {
+      "en": "multiple vaginal",
+      "zh": "多物插入阴道",
+      "rating": "e",
+      "nsfw": true,
+      "count": 543,
+      "desc": "多个物体同时插入阴道",
+      "kw": "多根插入阴道 / 阴道多物插入 / 多棒插入阴道 / 阴道多根 / 多插入阴道 / 多个阴道 / 性交 / 多重插入"
+    },
+    {
+      "en": "mutual hug",
+      "zh": "相互拥抱",
+      "rating": "g",
+      "count": 2093,
+      "desc": "两人互相环抱对方的拥抱",
+      "kw": "互相拥抱 / 互相抱 / 相拥 / 彼此拥抱 / 拥抱在一起 / 拥抱 / 互动 / 抱き合う"
+    },
+    {
+      "en": "naizuri (flatchested paizuri)",
+      "zh": "平胸乳交",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "nipple stimulation (female on male)",
+      "zh": "女性刺激男性乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 919,
+      "desc": "女性角色刺激男性角色的乳头",
+      "kw": "女对男乳头刺激 / 女性玩弄男性乳头 / 女给男乳首刺激 / 女性刺激男乳头 / 乳头刺激 (女对男) / 乳头爱抚 / 乳头舔舐"
+    },
+    {
+      "en": "on lap",
+      "zh": "在腿上",
+      "rating": "g",
+      "count": 5773,
+      "desc": "动物或角色待在某人膝盖上。",
+      "kw": "坐在腿上 / 膝上 / 膝盖上 / 坐在大腿上 / 依偎在腿上 / 姿势 / 亲密"
+    },
+    {
+      "en": "oyakodon (sex)",
+      "zh": "亲子丼（性行为）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1044,
+      "desc": "同时与母女二人进行的三明治式三人性行为",
+      "kw": "亲子盖饭 / 母女丼 / 母娘丼 / 亲子饭 / 亲子三明治 / 亲子丼 / 乱伦 / 性行为 / 亲子丼"
+    },
+    {
+      "en": "paizuri (tittyfuck)",
+      "zh": "乳交",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "panties on penis",
+      "zh": "内裤缠在阴茎上",
+      "rating": "q",
+      "nsfw": true,
+      "count": 668,
+      "desc": "内裤缠绕在阴茎上摩擦",
+      "kw": "内裤套弄 / 内裤手交 / 内裤摩擦 / 内裤撸管 / 内裤打飞机 / 内裤套在阴茎上 / 性癖 / panty on penis / pantyjob / パンツコキ / パンコキ"
+    },
+    {
+      "en": "para para",
+      "zh": "Para Para舞",
+      "rating": "g",
+      "count": 133,
+      "desc": "配合欧陆舞曲、以手部动作为主的日本舞蹈。",
+      "kw": "啪啦啪啦舞 / 帕拉帕拉舞 / Para Para / 日本舞蹈 / 舞步 / parapara / パラパラ"
+    },
+    {
+      "en": "pectoral docking",
+      "zh": "胸肌对接",
+      "rating": "s",
+      "count": 689,
+      "desc": "两人胸肌贴紧的姿势或动作。",
+      "kw": "胸肌贴贴 / 胸肌相贴 / 对胸 / 胸对胸 / 胸肌贴合 / 胸部对接 / 胸肌碰撞 / 雄乳相贴 / pectoral to pectoral"
+    },
+    {
+      "en": "pectoral press",
+      "zh": "胸肌按压",
+      "rating": "s",
+      "count": 1336,
+      "desc": "用胸肌压向物体或他人的动作",
+      "kw": "胸肌挤压 / 胸部按压 / 胸肌贴压 / 胸肌压向 / 胸部挤压 / 姿势 / 动作"
+    },
+    {
+      "en": "penis in eye",
+      "zh": "眼交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 38
+    },
+    {
+      "en": "penis on ass",
+      "zh": "阴茎贴在臀部上",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1865,
+      "desc": "阴茎搭在他人臀部上，常暗示即将插入。",
+      "kw": "阴茎放在屁股上 / 阴茎搭在臀部 / 生殖器贴臀 / 阴茎蹭臀 / 阴茎在臀部上 / 性姿势 / 色情"
+    },
+    {
+      "en": "penis on face",
+      "zh": "阴茎贴脸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8895,
+      "desc": "阴茎搁在角色脸上，常戳或压着脸颊",
+      "kw": "阴茎放在脸上 / 鸡巴贴脸 / 肉棒贴脸 / 鸡巴放脸上 / 肉棒搁在脸上 / 阴茎压脸 / 丁丁在脸上 / 面部射精 / 阴茎放脸上 / 顔面チンポ置き / 頬ズリ / w頬ズリ"
+    },
+    {
+      "en": "penis on head",
+      "zh": "阴茎放在头上",
+      "rating": "q",
+      "nsfw": true,
+      "count": 952,
+      "desc": "阴茎搁在角色头顶上",
+      "kw": "头上阴茎 / 阴茎在头顶 / 阴茎搁头顶 / 头上放阴茎 / 阴茎在头上 / 成人"
+    },
+    {
+      "en": "penis on pussy",
+      "zh": "阴茎贴在小穴上",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1433,
+      "desc": "阴茎搁在女性阴部上方，常暗示即将插入",
+      "kw": "鸡巴贴在小穴上 / 肉棒贴逼 / 阴茎压在阴部上 / 鸡巴放在小穴上 / 肉棒贴在小穴上 / 阴茎贴在外阴上 / 阴茎搁在小穴上 / 阴茎在阴部上 / 贴在小穴上的阴茎 / 阴茎压在外阴上"
+    },
+    {
+      "en": "penis on stomach",
+      "zh": "阴茎在肚子上",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1058,
+      "desc": "阴茎搁在他人肚子上",
+      "kw": "鸡巴放在肚子上 / 肉棒在肚子上 / 阴茎搁在腹部 / 阴茎放在肚皮上 / 腹部射精 / 成人 / 腹部上的阴茎"
+    },
+    {
+      "en": "penis over eyes",
+      "zh": "阴茎遮眼",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2061,
+      "desc": "阴茎挡住双眼，常用来遮挡身份",
+      "kw": "鸡巴遮眼 / 丁丁遮眼 / 老二遮眼 / 肉棒遮眼 / JJ遮眼 / 阳具遮眼 / 棒棒遮眼 / 阴茎在眼睛上 / 目隠し竿 / チンポ目隠し"
+    },
+    {
+      "en": "penis over one eye",
+      "zh": "阴茎遮住一只眼睛",
+      "rating": "q",
+      "nsfw": true,
+      "count": 841,
+      "desc": "阴茎只遮住一只眼睛的画面。",
+      "kw": "阴茎遮挡单眼 / 阴茎遮住一眼 / 阴茎盖住一只眼 / 阴茎遮单眼 / 阴茎遮盖一眼 / 生殖器遮住一眼 / 阴茎遮住一只眼 / 面部遮挡"
+    },
+    {
+      "en": "penis under another's clothes",
+      "zh": "阴茎在他人衣下",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1281,
+      "desc": "阴茎插入并藏在另一个人的衣物下面",
+      "kw": "阴茎在他人衣服下 / 阴茎插在别人衣服里 / 鸡巴在他人衣下 / 棒棒伸进他人衣服 / 阴茎藏在别人衣服下 / 隔着衣服的阴茎 (他人) / 性暗示 / 隐蔽h / penis under clothes"
+    },
+    {
+      "en": "pillow sex",
+      "zh": "骑枕头自慰",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "playing card game",
+      "zh": "打牌",
+      "rating": "g",
+      "count": 511,
+      "desc": "玩扑克、UNO或集换式卡牌等卡牌游戏",
+      "kw": "玩牌 / 打扑克 / 玩卡牌游戏 / 打纸牌 / 玩UNO / 玩集换式卡牌 / 卡牌对战 / 牌局 / card game / playing with cards"
+    },
+    {
+      "en": "pocky kiss",
+      "zh": "百奇之吻",
+      "rating": "s",
+      "count": 2895,
+      "desc": "两人从两端同吃一根百奇，最终接吻。",
+      "kw": "百奇游戏 / 百奇接吻 / 百力滋游戏 / 百琪接吻 / Pocky之吻 / 接吻 / 日本零食 / pocky game / ポッキーゲーム"
+    },
+    {
+      "en": "presenting another's body",
+      "zh": "展示他人身体",
+      "rating": "q",
+      "nsfw": true,
+      "count": 506,
+      "desc": "以挑逗方式摆弄展示他人身体。",
+      "kw": "展示他人肉体 / 摆弄他人身体 / 展示裸体 / 展示他人躯体 / 呈现他人身体 / 挑逗展示他人身体 / 展示姿势 / 性暗示姿势"
+    },
+    {
+      "en": "rejected kiss",
+      "zh": "被拒绝的吻",
+      "rating": "g",
+      "count": 460,
+      "desc": "一方想要亲吻却被对方拒绝或躲开。",
+      "kw": "索吻被拒 / 求吻遭拒 / 拒绝接吻 / 躲吻 / 被拒吻 / 接吻被拒绝 / 互动 / 表情 / kiss attempt / blocking kiss / blocked kiss"
+    },
+    {
+      "en": "reverse nursing fingering",
+      "zh": "逆哺乳指交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 712,
+      "desc": "一边吸乳一边用手指插入对方的性行为。",
+      "kw": "反向哺乳指交 / 哺乳指交 / 边喂奶边指交 / 边吸乳边指交 / 逆向哺乳手指抠弄 / 性行为 / 手指插入"
+    },
+    {
+      "en": "reverse princess carry",
+      "zh": "反向公主抱",
+      "rating": "g",
+      "count": 670,
+      "desc": "女方抱起男方的公主抱。",
+      "kw": "逆公主抱 / 女抱男公主抱 / 姿势 / 抱姿"
+    },
+    {
+      "en": "rhythmic gymnastics",
+      "zh": "艺术体操",
+      "rating": "g",
+      "count": 735,
+      "desc": "使用绳圈球棒等器械的艺术体操",
+      "kw": "韵律体操 / 新体操 / 韵律操 / 体操 / 运动"
+    },
+    {
+      "en": "riding animal",
+      "zh": "骑动物",
+      "rating": "g",
+      "count": 1336,
+      "desc": "骑在除马以外的动物背上",
+      "kw": "骑乘动物 / 骑兽 / 骑坐骑 / 骑在动物背上 / 骑动物出行 / 骑非马动物 / 动物骑乘 / 骑行"
+    },
+    {
+      "en": "riding bicycle",
+      "zh": "骑自行车",
+      "rating": "g",
+      "count": 625,
+      "desc": "骑着自行车行进",
+      "kw": "骑单车 / 骑脚踏车 / 骑乘自行车 / 踩自行车 / 骑自行车行进 / 骑行自行车 / 骑行 / 自行车运动"
+    },
+    {
+      "en": "riding dragon",
+      "zh": "骑龙",
+      "rating": "g",
+      "count": 546,
+      "desc": "骑在龙背上飞行，奇幻题材常见",
+      "kw": "骑乘龙 / 龙骑士 / 骑龙飞行 / 乘龙 / 驾驭龙 / 骑在龙背上 / 幻想 / 骑乘 / dragon rider / dragon riding"
+    },
+    {
+      "en": "riding pokemon",
+      "zh": "骑宝可梦",
+      "rating": "g",
+      "count": 2558,
+      "desc": "骑在宝可梦身上",
+      "kw": "骑乘宝可梦 / 骑着宝可梦 / 骑在宝可梦身上 / 宝可梦骑乘 / 骑乘口袋妖怪 / 宝可梦 / 骑乘"
+    },
+    {
+      "en": "samba",
+      "zh": "桑巴",
+      "rating": "s",
+      "count": 168,
+      "desc": "源自巴西的舞蹈与音乐，服饰鲜艳暴露",
+      "kw": "桑巴舞 / 森巴 / 巴西桑巴 / 桑巴舞蹈 / 舞蹈 / 巴西风格 / サンバ"
+    },
+    {
+      "en": "same-sex bathing",
+      "zh": "同性共浴",
+      "rating": "s",
+      "count": 15241,
+      "desc": "两名以上同性角色一起泡澡或淋浴",
+      "kw": "同性洗澡 / 同性入浴 / 同性泡澡 / 同性沐浴 / 同性一起洗澡 / 同性一起泡澡 / 共浴 / 洗澡场景 / shared bathing"
+    },
+    {
+      "en": "sandwiched",
+      "zh": "被夹在中间",
+      "rating": "s",
+      "count": 13080,
+      "desc": "一个人被夹在紧密相邻的两人之间。",
+      "kw": "夹在中间 / 被夹 / 夹心 / 被夹击 / 夹在两人之间 / 三明治式夹击 / 三明治 / 姿势"
+    },
+    {
+      "en": "scissorhold",
+      "zh": "剪刀脚",
+      "rating": "s",
+      "count": 781,
+      "desc": "用双腿夹住对方头部或颈部并用力挤压的锁技",
+      "kw": "剪刀腿 / 双腿夹头 / 头部剪刀 / 剪刀绞 / 腿锁头 / 夹头锁 / 剪刀固定 / 摔跤 / headscissors / 太もも絞め / 幸せ投げ"
+    },
+    {
+      "en": "sex with insects",
+      "zh": "虫奸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 623,
+      "desc": "人与昆虫或类昆虫生物的性行为",
+      "kw": "与昆虫性交 / 昆虫性交 / 人虫交 / 虫交 / 昆虫奸 / 昆虫性行为 / 蟲姦 / 性行为"
+    },
+    {
+      "en": "sexual coaching",
+      "zh": "性指导",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1116,
+      "desc": "在性行为中从旁指导或鼓励他人的角色",
+      "kw": "性爱指导 / 性教练 / 性行为指导 / 床上指导 / 性教育 / coaching (sexual) / 女性协力者"
+    },
+    {
+      "en": "sexual harassment",
+      "zh": "性骚扰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 763,
+      "desc": "未经同意的性暗示或身体接触等骚扰行为。",
+      "kw": "性侵扰 / 骚扰 / 非礼 / 咸猪手 / 轻薄 / 调戏 / 职场性骚扰 / 性行为 / セクハラ"
+    },
+    {
+      "en": "shared bathing",
+      "zh": "共浴/鸳鸯浴",
+      "rating": "s",
+      "count": 24826,
+      "desc": "多人一起泡澡或淋浴。",
+      "kw": "一起洗澡 / 共同沐浴 / 混浴 / 一起泡澡 / 一同入浴 / 同浴 / 洗澡 / 场景 / 2girls1tub / shared bathtub"
+    },
+    {
+      "en": "shared bed",
+      "zh": "同床",
+      "rating": "g",
+      "count": 746,
+      "desc": "两个以上角色睡在同一张床上",
+      "kw": "同床共枕 / 共用一张床 / 同睡一张床 / 同床而眠 / 睡在一起 / 共享一张床 / 床 / 亲密"
+    },
+    {
+      "en": "shared blanket",
+      "zh": "共享毯子",
+      "rating": "g",
+      "count": 1135,
+      "desc": "与他人共用一条毯子",
+      "kw": "共用毯子 / 合盖毯子 / 同盖一条毯 / 共用毛毯 / 共享毛毯 / 一起盖毯 / 同裹毯子 / 毯子"
+    },
+    {
+      "en": "shared earphones",
+      "zh": "共享耳机",
+      "rating": "g",
+      "count": 1425,
+      "desc": "两人各戴一只耳机共用一副耳机。",
+      "kw": "共用耳机 / 同听耳机 / 耳机分享 / 一人一只耳机 / 共戴耳机 / 分戴耳机 / 耳机 / 配饰 / イヤホン半分こ"
+    },
+    {
+      "en": "shared umbrella",
+      "zh": "共用雨伞",
+      "rating": "g",
+      "count": 3159,
+      "desc": "两人以上共撑一把伞。",
+      "kw": "共撑一把伞 / 同撑一把伞 / 同伞共撑 / 合撑一把伞 / 共享雨伞 / 同伞 / 共伞 / 共享伞 / sharing umbrella / 相合傘"
+    },
+    {
+      "en": "sharing food",
+      "zh": "共享食物",
+      "rating": "g",
+      "count": 971,
+      "desc": "描绘分享食物、常表亲昵的场景",
+      "kw": "分享食物 / 分食 / 共同进食 / 一起吃东西 / 分吃 / 同吃一份食物 / 共尝美食 / 互动"
+    },
+    {
+      "en": "shimaidon (sex)",
+      "zh": "姐妹丼",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2793,
+      "desc": "与两个（或更多）姐妹进行的群体性行为。",
+      "kw": "姐妹双飞 / 姊妹丼"
+    },
+    {
+      "en": "shotadom",
+      "zh": "正太攻",
+      "rating": "q",
+      "nsfw": true,
+      "count": 618,
+      "desc": "年长与年幼关系中由年幼男孩主导的性场景。",
+      "kw": "正太攻向 / 正太主导 / 正太攻方 / 少年攻 / 正太主动 / 小正太攻 / 伪娘支配 / ショタドム"
+    },
+    {
+      "en": "showering",
+      "zh": "淋浴",
+      "rating": "s",
+      "count": 6774,
+      "desc": "淋浴的动作，也可指被雨淋。",
+      "kw": "冲澡 / 洗澡 / 冲凉 / 洗浴 / 淋浴中 / 花洒淋浴 / シャワー"
+    },
+    {
+      "en": "sitting between legs",
+      "zh": "坐在双腿之间",
+      "rating": "s",
+      "count": 694,
+      "desc": "坐在他人张开的双腿之间",
+      "kw": "坐在腿间 / 两腿之间坐着 / 坐在两腿间 / 坐大腿之间 / 坐在别人腿间 / 腿间坐 / 坐姿 / 腿间 / sitting between lap"
+    },
+    {
+      "en": "sleeping on person",
+      "zh": "睡在他人身上",
+      "rating": "g",
+      "count": 4783,
+      "desc": "靠着或倚在他人身体上睡觉。",
+      "kw": "睡在别人身上 / 睡在某人身上 / 靠在他人身上睡觉 / 趴在人身上睡 / 靠人身上睡觉 / 睡在人身上 / 睡姿 / 互动 / sleeping on another"
+    },
+    {
+      "en": "sleeping together",
+      "zh": "同睡",
+      "rating": "g",
+      "count": 797,
+      "desc": "多人一起睡在床上或别处",
+      "kw": "一起睡 / 一起睡觉 / 同床共眠 / 共眠 / 同眠 / 同床 / 姿势 / 亲密 / couple lying together"
+    },
+    {
+      "en": "small penis humiliation",
+      "zh": "小阴茎羞辱",
+      "rating": "q",
+      "nsfw": true,
+      "count": 833,
+      "desc": "性虐待场景中嘲笑对方阴茎小",
+      "kw": "小JJ羞辱 / 小鸡鸡羞辱 / 短小羞辱 / 阴茎羞辱 / 丁丁小羞辱 / 嘲笑小弟弟 / 羞辱 / fetish"
+    },
+    {
+      "en": "snowball fight",
+      "zh": "打雪仗",
+      "rating": "g",
+      "count": 672,
+      "desc": "用雪球互相投掷的嬉戏打闹",
+      "kw": "雪球大战 / 雪仗 / 雪合战 / 掷雪球 / 丢雪球 / 打雪球 / 雪战 / 互扔雪球 / 雪合戦"
+    },
+    {
+      "en": "soccer",
+      "zh": "足球运动",
+      "rating": "g",
+      "count": 1903,
+      "desc": "两队各11人用脚踢球射门得分的运动。",
+      "kw": "英式足球 / 蹴球 / 足球比赛 / 足球（运动） / 运动 / 人物 / 球类 / football / サッカー"
+    },
+    {
+      "en": "standing cunnilingus",
+      "zh": "站立舔阴",
+      "rating": "e",
+      "nsfw": true,
+      "count": 837,
+      "desc": "对方站立时进行的舔阴行为。",
+      "kw": "站立口交 / 站姿舔阴 / 站着舔阴 / 站立口爱 / 站式舔阴 / 站立口淫 / 站姿口交 / 性行为"
+    },
+    {
+      "en": "standing doggystyle",
+      "zh": "站立后入",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1966,
+      "desc": "接收方站立弯腰的后入式体位",
+      "kw": "站立后入式 / 站立背入 / 站姿后入 / 站立后入体位 / 站立后位 / 站着后入 / 站立后背式 / 站立式交配 / standing doggy style"
+    },
+    {
+      "en": "stealth flashing",
+      "zh": "隐蔽露出",
+      "rating": "q",
+      "nsfw": true,
+      "count": 618,
+      "desc": "只对观众或特定对象露出的隐蔽暴露",
+      "kw": "偷偷露出 / 暗中露出 / 隐秘暴露 / 秘密露出 / 潜性暴露 / 秘密露体 / 暴露 / 偷窥 / stealth exhibitionism"
+    },
+    {
+      "en": "submission hold",
+      "zh": "降服技",
+      "rating": "g",
+      "count": 645,
+      "desc": "职业摔角中迫使对手认输的降服技",
+      "kw": "锁技 / 关节技 / 锁固技 / 屈服技 / 格斗锁技 / 降伏技 / 摔跤 / 格斗技 / 寝技"
+    },
+    {
+      "en": "sumo",
+      "zh": "相扑",
+      "rating": "g",
+      "count": 507,
+      "desc": "在日本相扑台上将对手推出或扳倒的竞技",
+      "kw": "日本相扑 / 相扑运动 / 大相扑 / 职业相扑 / 相扑选手 / 力士 / 运动 / 日本风格 / 日本相扑协会 / 相撲"
+    },
+    {
+      "en": "surrounded",
+      "zh": "包围",
+      "rating": "g",
+      "count": 1790,
+      "desc": "角色被三个或更多人或物围住",
+      "kw": "被包围 / 围住 / 围困 / 团团围住 / 包抄 / 场景 / 包囲 / チンコ包囲網"
+    },
+    {
+      "en": "surrounded by hands",
+      "zh": "被手包围",
+      "rating": "s",
+      "count": 5502,
+      "desc": "角色或物体被附近至少三四只手包围",
+      "kw": "被手环绕 / 被手簇拥 / 众多手包围 / 被多只手包围 / 手群包围 / 被手围绕 / 被手淹没 / 被手围住 / swarming hands"
+    },
+    {
+      "en": "surrounded by penises",
+      "zh": "被阴茎包围",
+      "rating": "q",
+      "nsfw": true,
+      "count": 25768,
+      "desc": "角色被许多无名阴茎包围，常见于轮奸场面",
+      "kw": "被丁丁包围 / 阴茎包围 / 丁丁包围 / 被肉棒包围 / 肉棒包围 / 众茎环绕 / 成人场景 / 丁丁包围网 / チンコ包囲網"
+    },
+    {
+      "en": "swaddled",
+      "zh": "襁褓包裹",
+      "rating": "g",
+      "count": 562,
+      "desc": "用毯子或布把婴儿紧紧裹住",
+      "kw": "襁褓 / 包襁褓 / 裹襁褓 / 裹婴儿布 / 包婴儿 / 婴儿包裹 / 婴儿"
+    },
+    {
+      "en": "table sex",
+      "zh": "桌角自慰",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "table tennis",
+      "zh": "乒乓球",
+      "rating": "g",
+      "count": 662,
+      "desc": "两人或四人在桌上用球拍对打小球的运动",
+      "kw": "乒乓球运动 / 乒乓 / 桌球 / 乒乓球比赛 / 桌球运动 / 运动 / 球类 / ping pong / ping-pong / 乒乓球（运动） / 卓球"
+    },
+    {
+      "en": "taking shelter",
+      "zh": "避雨",
+      "rating": "g",
+      "count": 669,
+      "desc": "在屋檐、桥下或树下躲避风雨等恶劣天气",
+      "kw": "躲雨 / 避风雨 / 躲避风雨 / 躲雨处 / 檐下避雨 / 树下避雨 / 避雨处 / 躲雨亭 / 雨宿り"
+    },
+    {
+      "en": "talking on phone",
+      "zh": "打电话",
+      "rating": "g",
+      "count": 4501,
+      "desc": "通过电话与他人通话。",
+      "kw": "通电话 / 讲电话 / 接电话 / 电话通话 / 煲电话粥 / 在通话 / on phone / 电话中 / 通话 / 通话中"
+    },
+    {
+      "en": "tango",
+      "zh": "探戈",
+      "rating": "g",
+      "count": 154,
+      "desc": "起源于阿根廷的拉丁美洲双人舞蹈",
+      "kw": "探戈舞 / 阿根廷探戈 / 探戈舞蹈 / 探戈舞曲 / 舞蹈 / 拉丁舞 / 舞姿"
+    },
+    {
+      "en": "tantrum",
+      "zh": "发脾气",
+      "rating": "g",
+      "count": 913,
+      "desc": "因愤怒或受挫而哭闹、尖叫、打滚的情绪爆发。",
+      "kw": "闹脾气 / 耍脾气 / 撒泼 / 哭闹 / 大吵大闹 / 情绪爆发 / 发飙 / 发火 / 地団太 / 地団駄 / 痫癪"
+    },
+    {
+      "en": "tape bondage",
+      "zh": "胶带束缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1887,
+      "desc": "用胶带捆绑限制他人行动",
+      "kw": "胶带捆绑 / 胶带绑缚 / 胶带拘束 / 胶带固定 / 封箱胶带捆绑 / 胶带捆住 / 束缚 / bdsm"
+    },
+    {
+      "en": "teamwork",
+      "zh": "团队合作",
+      "rating": "g",
+      "count": 713,
+      "desc": "为完成事情而相互配合协作",
+      "kw": "合作 / 协作 / 团队协作 / 配合 / 共同协作 / 多人 / 互动"
+    },
+    {
+      "en": "tennis",
+      "zh": "网球",
+      "rating": "g",
+      "count": 941,
+      "desc": "两人或两对各持球拍隔网对打的球类运动",
+      "kw": "网球运动 / 打网球 / 网球比赛 / 运动 / 体育 / 网球（运动） / テニス"
+    },
+    {
+      "en": "tentaclejob",
+      "zh": "触手交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 565,
+      "desc": "用触手刺激阴茎的行为",
+      "kw": "触手性交 / 触手 / hentai"
+    },
+    {
+      "en": "the monkey (dance)",
+      "zh": "猴子舞",
+      "rating": "g",
+      "count": 180,
+      "desc": "1963年随两首R&B歌曲流行起来的新奇舞蹈。",
+      "kw": "猴舞 / 猴子之舞 / 猴子舞蹈 / 舞蹈 / 动作"
+    },
+    {
+      "en": "through clothes",
+      "zh": "隔着衣服",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4017,
+      "desc": "隔着衣物进行的性行为",
+      "kw": "隔衣性行为 / 隔衣物 / 隔着衣物 / 不脱衣做爱 / 穿着衣服做 / 隔布 / 衣物间摩擦 / 透视 / 布越し"
+    },
+    {
+      "en": "through medium",
+      "zh": "穿出媒介",
+      "rating": "g",
+      "count": 2528,
+      "desc": "角色穿过或钻出所在媒介（如书页、屏幕）",
+      "kw": "穿透媒介 / 从媒介中钻出 / 穿出画面 / 从屏幕钻出 / 从书页出来 / 隔着媒介 / 透过 / 效果"
+    },
+    {
+      "en": "through portal",
+      "zh": "穿过传送门",
+      "rating": "g",
+      "count": 387,
+      "desc": "角色或物体一部分在传送门内、一部分在外",
+      "kw": "穿越传送门 / 通过传送门 / 半身入传送门 / 传送门穿越 / 跨过传送门 / 进入传送门 / 传送"
+    },
+    {
+      "en": "through screen",
+      "zh": "穿出屏幕",
+      "rating": "g",
+      "count": 1643,
+      "desc": "从电视或电脑屏幕中钻出，如贞子",
+      "kw": "从屏幕钻出 / 破屏而出 / 屏幕穿越 / 爬出电视 / 钻出屏幕 / 跳出屏幕 / 穿过屏幕 / 特效 / coming out of screen / through computer / through television"
+    },
+    {
+      "en": "through wall",
+      "zh": "穿墙",
+      "rating": "s",
+      "count": 3791,
+      "desc": "角色身体一半在墙中，可为穿墙、卡住或性拘束",
+      "kw": "卡在墙里 / 卡墙 / 墙中 / 壁尻 / 墙洞拘束 / 透视 / 墙透 / wall stuck / stuck in wall / 壁穴 / 尻壁"
+    },
+    {
+      "en": "through window",
+      "zh": "穿过窗户",
+      "rating": "g",
+      "count": 559,
+      "desc": "角色穿过窗框或半身探出窗外",
+      "kw": "从窗户穿过 / 探出窗外 / 钻窗户 / 穿窗 / 通过窗户 / 跨越窗户 / 透过窗户 / 视角"
+    },
+    {
+      "en": "tianhuaban",
+      "zh": "偷偷自慰",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "tied to chair",
+      "zh": "绑在椅子上",
+      "rating": "q",
+      "nsfw": true,
+      "count": 889,
+      "desc": "角色被以各种方式绑在椅子上",
+      "kw": "被绑在椅子上 / 捆在椅子上 / 绑在座椅上 / 束缚在椅子上 / 束缚 / 椅子"
+    },
+    {
+      "en": "tied up",
+      "zh": "捆绑",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "tied up (nonsexual)",
+      "zh": "捆绑（非性）",
+      "rating": "g",
+      "count": 4945,
+      "desc": "非色情语境下的身体拘束，常用于搞笑或剧情",
+      "kw": "非性捆绑 / 被绑（非色情） / 一般捆绑 / 喜剧捆绑 / 非色情拘束 / 被捆住 / 绑住 / 捆绑 (非色情) / tied / tied up / 被绑（非性关系） / 緊縛"
+    },
+    {
+      "en": "toilet use",
+      "zh": "上厕所",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2153,
+      "desc": "角色正在使用马桶的场景",
+      "kw": "使用马桶 / 蹲马桶 / 排便 / 小便 / 大便 / 排泄 / 解手 / using toilet"
+    },
+    {
+      "en": "track and field",
+      "zh": "田径",
+      "rating": "g",
+      "count": 1458,
+      "desc": "包含跑跳投等项目的田径运动",
+      "kw": "田径运动 / 田径比赛 / 田径项目 / 陆上竞技 / 陆上运动 / 田径队 / 田径赛 / 体育 / 陆上 / 陆上部 / 陸上 / 陸上部"
+    },
+    {
+      "en": "tribadism (scissoring)",
+      "zh": "磨豆腐（剪刀式）",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "twerking",
+      "zh": "电臀舞",
+      "rating": "s",
+      "count": 419,
+      "desc": "抖动臀部与腰部的挑逗性舞蹈",
+      "kw": "抖臀舞 / 扭臀舞 / 甩臀 / 电臀 / 舞蹈 / 姿势 / twerk"
+    },
+    {
+      "en": "uncommon stimulation",
+      "zh": "不常见的刺激",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2178,
+      "desc": "通过角、尾巴等罕用或非人类部位获得性刺激",
+      "kw": "非常规刺激 / 异常刺激 / 另类刺激 / 非典型刺激 / 罕见刺激 / 特殊刺激 / 非人类部位刺激 / 角尾巴刺激 / fantastic arousal"
+    },
+    {
+      "en": "under another's clothes",
+      "zh": "藏在他人衣服下",
+      "rating": "s",
+      "count": 512,
+      "desc": "角色藏在他人衣服底下",
+      "kw": "钻在别人衣服里 / 藏进他人衣服下 / 躲在别人衣服下面 / 在他人衣物下 / 藏在衣服底下 / 躲在他人衣内 / 在他人衣服里 / 姿势"
+    },
+    {
+      "en": "undressing another",
+      "zh": "给他人脱衣",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3603,
+      "desc": "正在脱掉他人的衣服",
+      "kw": "脱别人衣服 / 帮别人脱衣 / 替他人宽衣 / 脱他人的衣服 / 脱衣他人 / 互动 / 脱衣行为"
+    },
+    {
+      "en": "viewer on leash",
+      "zh": "观众被牵绳牵着",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1054,
+      "desc": "第一人称视角下观众自己被牵着牵绳",
+      "kw": "第一人称被牵绳 / POV被牵绳 / 被遛狗绳牵住 / 狗视角 / 被牵绳视角 / 牵绳POV / 被牵着 / 牵绳 / pov leashed"
+    },
+    {
+      "en": "volleyball",
+      "zh": "排球",
+      "rating": "g",
+      "count": 3743,
+      "desc": "两队各六名球员隔着排球网进行的团队运动，目标是将球击入对方场地得分。",
+      "kw": "体育用品 / 球类"
+    },
+    {
+      "en": "volleyball (sport)",
+      "zh": "排球",
+      "rating": "g",
+      "count": 4481,
+      "desc": "排球运动。",
+      "kw": "排球运动 / 排球赛 / 打排球 / 排球比赛 / 排球（运动） / 运动 / 人物 / 沙滩排球 / volleyball"
+    },
+    {
+      "en": "waltz (dance)",
+      "zh": "华尔兹舞",
+      "rating": "g",
+      "count": 361,
+      "desc": "三拍节奏、双人旋转的交际舞",
+      "kw": "华尔兹 / 圆舞 / 慢三步 / 华尔兹舞蹈 / 快三步 / 舞蹈 / 舞步 / ワルツ"
+    },
+    {
+      "en": "washing another",
+      "zh": "帮他人洗澡",
+      "rating": "s",
+      "count": 728,
+      "desc": "帮他人洗头发或身体的行为",
+      "kw": "帮别人洗澡 / 给他人洗澡 / 为他人洗澡 / 替他人洗澡 / 帮人洗澡 / 照顾洗澡 / 为他人洗浴 / 洗澡"
+    },
+    {
+      "en": "weightlifting",
+      "zh": "举重",
+      "rating": "g",
+      "count": 1998,
+      "desc": "在健身房用哑铃杠铃进行的举重锻炼。",
+      "kw": "举重运动 / 杠铃训练 / 力量训练 / 举铁 / 撸铁 / 哑铃训练 / 杠铃举重 / 负重训练 / lifting weights / 重量挙げ"
+    },
+    {
+      "en": "wotagei",
+      "zh": "御宅艺",
+      "rating": "g",
+      "count": 149,
+      "desc": "日本偶像演唱会粉丝同步喊口号、挥荧光棒的应援舞蹈。",
+      "kw": "御宅族应援艺 / 宅艺 / 应援舞 / 荧光棒应援舞 / 偶像应援动作 / 日式应援 / 打call / 舞蹈"
+    },
+    {
+      "en": "zoophilia",
+      "zh": "兽交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 14503,
+      "desc": "描绘人与动物发生性行为的题材。",
+      "kw": "人兽交 / 兽奸 / 人兽性交 / 恋兽癖 / 和动物性交 / 人与动物交配 / 动物性行为 / 恋兽 / 人兽"
+    },
+    {
+      "en": "zui zui dance",
+      "zh": "瑞瑞舞",
+      "rating": "g",
+      "count": 214,
+      "desc": "《舰队Collection》瑞鹤与瑞凤的招牌舞蹈迷因",
+      "kw": "瑞瑞舞蹈 / 瑞鹤瑞凤舞 / 双瑞舞 / 舰C瑞瑞舞 / 舞蹈 / 姿势 / ズイ(((ง ̆ω ̆)ว))ズイ"
+    },
+    {
+      "en": "entangled",
+      "zh": "被缠住",
+      "rating": "s",
+      "count": 1240,
+      "desc": "角色被绳索或线缆等缠绕无法脱身。",
+      "kw": "缠绕 / 被缠绕 / 缠住 / 被绕住 / 被绳索缠住 / 被线缆缠住 / 缠身 / 纠缠 / tangled up / 意外缠住"
+    },
+    {
+      "en": "holding with tail",
+      "zh": "用尾巴握住",
+      "rating": "g",
+      "count": 1720,
+      "desc": "用尾巴卷住或握住物品。",
+      "kw": "用尾巴拿 / 尾巴卷住 / 尾巴抓取 / 用尾巴夹住 / 尾巴缠住物品 / 用尾巴拿着 / 尾巴 / 动作 / tail hold"
+    },
+    {
+      "en": "wind lift",
+      "zh": "风吹掀起",
+      "rating": "q",
+      "count": 19330,
+      "desc": "风把裙子、遮阳伞等物品掀起的画面",
+      "kw": "风吹裙子 / 风掀起裙子 / 裙摆飞扬 / 风吹裙摆 / 风掀衣 / 裙角飞扬 / 微风掀起 / 风吹衣物 / skirt blow / windlift / ecchi no kaze / 风力掀起",
+      "nsfw": true
+    },
+    {
+      "en": "naked school attendance",
+      "zh": "裸体到校",
+      "rating": "q",
+      "nsfw": true,
+      "count": 661,
+      "desc": "全裸或半裸去学校并当作日常。",
+      "kw": "裸体上学 / 全裸上学 / 裸身到校 / 赤裸上学 / 裸体 / 学校"
+    },
+    {
+      "en": "sad cat dance (meme)",
+      "zh": "悲伤猫舞（模因）",
+      "rating": "g",
+      "count": 138,
+      "desc": "源自电锯人场景的猫舞梗",
+      "kw": "伤心猫舞 / 难过猫舞 / 悲伤猫跳舞 (迷因) / 迷因 / 表情 / sadcatdance"
+    },
+    {
+      "en": "shikairo days dance (meme)",
+      "zh": "鹿色Days舞蹈（梗）",
+      "rating": "g",
+      "count": 186,
+      "desc": "配合《鹿色Days》循环动画的舞蹈梗",
+      "kw": "鹿乃子舞蹈 / 鹿色Days舞蹈梗 / 鹿乃子乃子虎视眈眈舞蹈 / 鹿色舞 / 鹿色时日舞 (模因) / 模因 / 舞蹈"
+    },
+    {
+      "en": "bird on arm",
+      "zh": "鸟在手臂上",
+      "rating": "g",
+      "count": 1258,
+      "desc": "鸟停在人的手臂上",
+      "kw": "手臂上的鸟 / 鸟停手臂 / 鸟落在手上 / 停在手臂上的鸟 / 鸟类 / 动物"
+    },
+    {
+      "en": "bird on hand",
+      "zh": "手上的鸟",
+      "rating": "g",
+      "count": 4909,
+      "desc": "鸟停在人的手上",
+      "kw": "手中鸟 / 鸟儿停在手上 / 手上停鸟 / 手托小鸟 / 鸟在手上 / 鸟类 / 手持动物 / bird in hand / bird on finger"
+    },
+    {
+      "en": "butterfly on hand",
+      "zh": "蝴蝶停在手上",
+      "rating": "g",
+      "count": 4303,
+      "desc": "蝴蝶停在角色的手上或手指上",
+      "kw": "蝴蝶在手上 / 蝴蝶停在手指上 / 手上蝴蝶 / 蝴蝶落手上 / 蝴蝶栖息手上 / 手上的蝴蝶 / 蝴蝶 / 昆虫 / butterfly on finger"
+    },
+    {
+      "en": "cat on lap",
+      "zh": "猫在腿上",
+      "rating": "g",
+      "count": 1231,
+      "desc": "猫趴在人的腿上",
+      "kw": "腿上猫 / 猫坐腿上 / 猫趴在腿上 / 膝上猫 / 猫咪坐腿 / 腿上的猫 / 猫 / 宠物猫"
+    },
+    {
+      "en": "cat on person",
+      "zh": "猫在人身上",
+      "rating": "g",
+      "count": 219,
+      "desc": "猫趴在人的身上",
+      "kw": "猫趴在身上 / 猫在角色身上 / 猫在自己身上 / 猫 / 动物"
+    },
+    {
+      "en": "cum in nose",
+      "zh": "精液从鼻子流出",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1810,
+      "desc": "精液从鼻子或鼻孔流出的场景",
+      "kw": "鼻射 / 射进鼻子里 / 鼻子流精 / 鼻孔流精 / 精液从鼻孔流出 / 鼻内射精 / 射精 / 鼻部 / 鼻子精液溢出 / 鼻ザー / 鼻からザーメン"
+    },
+    {
+      "en": "cum in panties",
+      "zh": "射进内裤里",
+      "rating": "e",
+      "nsfw": true,
+      "count": 622,
+      "desc": "精液留在内裤内或被内裤覆盖。",
+      "kw": "内裤里射精 / 精液在内裤里 / 内裤精液 / 射在内裤里 / 内裤内射精 / 内裤包裹精液 / 内裤兜精液 / 精液内裤 / 内裤里的精液 / パンツ内射精"
+    },
+    {
+      "en": "cum on facial",
+      "zh": "颜射",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "cum on floor",
+      "zh": "射在地板上",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1028,
+      "desc": "精液沾在地板上",
+      "kw": "射在地上 / 精液在地上 / 地面精液 / 地板上的精液 / 射了一地 / 地板上精液 / 精液 / 体液"
+    },
+    {
+      "en": "cum on glasses",
+      "zh": "射在眼镜上",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "cum on hands",
+      "zh": "射在手上",
+      "rating": "e",
+      "nsfw": true,
+      "count": 3690,
+      "desc": "精液沾在手掌或手指上。",
+      "kw": "射在手里 / 精液沾在手上 / 精液在手上 / 手上的精液 / 射精在手上 / 精液淋手 / 精液 / 体液 / cum in hands / 掌受け"
+    },
+    {
+      "en": "cum on legs",
+      "zh": "射在腿上",
+      "rating": "e",
+      "nsfw": true,
+      "count": 7322,
+      "desc": "精液沾在角色腿上。",
+      "kw": "腿上射精 / 射在腿部 / 精液在腿上 / 腿上有精液 / 精液沾腿 / 腿射 / 腿部射精 / 体液 / cum on thighs / cum on leg"
+    },
+    {
+      "en": "cum on legwear",
+      "zh": "射在腿袜上",
+      "rating": "e",
+      "nsfw": true,
+      "count": 2324,
+      "desc": "精液沾在袜子、丝袜等腿部穿着的衣物上",
+      "kw": "射在丝袜上 / 射在连裤袜上 / 射在袜子上 / 射在大腿袜上 / 射在打底裤上 / 射在腿饰上 / 精液在腿袜上 / 腿袜污染 / cum on pantyhose / cum on socks / cum on leggings / cum on thighhighs"
+    },
+    {
+      "en": "cum on male",
+      "zh": "射在男性身上",
+      "rating": "e",
+      "nsfw": true,
+      "count": 3958,
+      "desc": "精液沾在男性角色身上",
+      "kw": "精液在男性身上 / 男性身上精液 / 精液沾男性 / 射在男人身上 / 男体精液 / 液体 / cum on boy"
+    },
+    {
+      "en": "cum on penis",
+      "zh": "射在阴茎上",
+      "rating": "e",
+      "nsfw": true,
+      "count": 6297,
+      "desc": "性行为中或之后阴茎上沾有精液",
+      "kw": "阴茎沾满精液 / 阴茎上的精液 / 精液在阴茎上 / 射在鸡巴上 / 沾精的阴茎 / 精液 / 阴茎"
+    },
+    {
+      "en": "cum on self",
+      "zh": "射在自己身上",
+      "rating": "e",
+      "nsfw": true,
+      "count": 2739,
+      "desc": "男性或扶他自射在自己身上",
+      "kw": "自射 / 射自己 / 精液在自己身上 / 射精在自己身上 / 精液 / 射精"
+    },
+    {
+      "en": "cum on upper body",
+      "zh": "射在上半身",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "cum through clothes",
+      "zh": "隔衣射精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1145,
+      "desc": "隔着衣服射精，精液渗透到布外",
+      "kw": "透过衣服射精 / 隔着衣服射精 / 隔着裤子射精 / 穿透衣物射精 / 衣物射精 / 精液透过衣服 / 精液 / 透过衣服"
+    },
+    {
+      "en": "cumdrip from penis",
+      "zh": "阴茎滴精",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3199,
+      "desc": "射精后精液从阴茎大量滴落。",
+      "kw": "阴茎滴落精液 / 鸡巴滴精 / 龟头滴精 / 精液从阴茎滴落 / 阴茎流精 / 老二滴精 / 肉棒滴精 / 鸡鸡滴精"
+    },
+    {
+      "en": "pussy juice on fingers",
+      "zh": "手指上的爱液",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1295,
+      "desc": "手指上沾有爱液，多出现在指交之后",
+      "kw": "手指沾爱液 / 爱液在手指上 / 手指上有淫水 / 手指有蜜汁 / 手指沾淫水 / 爱液 / 体液 / 情色"
+    },
+    {
+      "en": "pussy juice drip through clothes",
+      "zh": "爱液透衣滴落",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2207,
+      "desc": "爱液透过衣物渗出",
+      "kw": "爱液透过衣服 / 淫液透衣 / 爱液湿透衣物 / 下体爱液渗出衣物 / 隔衣爱液滴落 / 液体 / 色情"
+    },
+    {
+      "en": "panties on breasts",
+      "zh": "胸前套内裤",
+      "rating": "q",
+      "nsfw": true,
+      "count": 110,
+      "desc": "把内裤当无罩杯衣物穿在乳房上",
+      "kw": "内裤遮乳 / 内裤当胸衣 / 内裤套胸 / 内裤穿胸 / 内裤裹胸 / 乳房穿内裤 / 胸部罩内裤 / 内裤"
+    },
+    {
+      "en": "ribbons and straps fluttering loosely",
+      "zh": "丝带和系带松松地飘动",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hair tie slipping loose letting hair fall",
+      "zh": "发绳松脱长发散落下来",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "jewelry glinting as the body turns",
+      "zh": "转身时首饰闪了一下光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "element bending",
+      "zh": "御元素术",
+      "rating": "g",
+      "count": 509,
+      "desc": "操控水、火、土、气等元素的能力",
+      "kw": "元素操控 / 御术 / 元素御术 / 操控元素 / 元素控制 / 运元素术 / 四大元素操控 / 魔法"
+    },
+    {
+      "en": "fart",
+      "zh": "放屁",
+      "rating": "s",
+      "count": 562,
+      "desc": "从肛门排出肠内气体",
+      "kw": "屁 / 放气 / 排气 / 放臭屁 / 下风 / 幽默 / おなら / オナラ / 방귀"
+    }
+  ]
+}

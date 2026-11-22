@@ -1,0 +1,265 @@
+{
+  "id": "legs",
+  "name": "腿",
+  "icon": "🦵",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 20,
+  "file": "character_base/character_base_legs.json",
+  "updatedAt": "2026-11-18T05:36:30.169Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "short legs",
+      "zh": "短腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17
+    },
+    {
+      "en": "thighs",
+      "zh": "大腿",
+      "rating": "s",
+      "nsfw": false,
+      "count": 858864,
+      "desc": "大腿部分显著或画面聚焦大腿",
+      "kw": "大腿肉 / 美腿 / 肉腿 / 腿 / 玉腿 / 腿部 / 身体部位 / thigh / 大腿筋 / 太股 / 太もも"
+    },
+    {
+      "en": "thigh gap",
+      "zh": "大腿缝",
+      "rating": "s",
+      "nsfw": false,
+      "count": 99188,
+      "desc": "双腿并拢时大腿根部之间露出的缝隙。",
+      "kw": "大腿间隙 / 腿缝 / 腿部缝隙 / 大腿根部缝隙 / 腿部间隙 / 身材 / 绝対空域 / 絶対空域"
+    },
+    {
+      "en": "thigh focus",
+      "zh": "大腿特写",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1363,
+      "desc": "画面以角色的大腿为主要焦点",
+      "kw": "大腿焦点 / 聚焦大腿 / 大腿中心 / 大腿 / 局部特写 / 大腿 / 大腿部"
+    },
+    {
+      "en": "calves",
+      "zh": "小腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 458,
+      "desc": "小腿后侧腓肠肌明显的部位",
+      "kw": "小腿肚 / 腿肚子 / 腓肠肌 / 小腿后侧 / 小腿肌肉 / 腿部 / 身体部位"
+    },
+    {
+      "en": "ankles",
+      "zh": "脚踝",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "legs",
+      "zh": "腿部",
+      "rating": "g",
+      "nsfw": false,
+      "count": 186344,
+      "desc": "画面以完整腿部为焦点。",
+      "kw": "美腿 / 双腿 / 玉腿 / 长腿 / 下肢 / 身体部位 / leg / 足 / 美脚"
+    },
+    {
+      "en": "digitigrade",
+      "zh": "趾行",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4169,
+      "desc": "以脚趾着地行走而非脚掌，常见于兽人角色",
+      "kw": "趾行性 / 趾行动物 / 趾行步态 / 足趾行走 / 兽腿 / 动物足"
+    },
+    {
+      "en": "reverse-jointed legs",
+      "zh": "逆关节",
+      "rating": "g",
+      "nsfw": false,
+      "count": 559,
+      "desc": "机器人或机械角色具有的反关节腿。",
+      "kw": "反向关节腿 / 反曲腿 / 反关节机械腿 / 逆转关节腿 / 逆关节腿 / 腿部 / 怪物特征 / 兽化 / reverse jointed legs / mechanical digitigrade"
+    },
+    {
+      "en": "long legs",
+      "zh": "长腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26772,
+      "desc": "双腿明显长于上身的身材特征。",
+      "kw": "大长腿 / 修长双腿 / 长腿身材 / 长腿比例 / 腿部修长 / 腿长 / 修长腿 / 美腿 / 美脚 / 脚长 / 足长 / 长脚"
+    },
+    {
+      "en": "slim legs",
+      "zh": "纤细双腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1371,
+      "desc": "比一般略细的腿",
+      "kw": "细腿 / 纤细的腿 / 苗条的腿 / 细长的腿 / 腿部"
+    },
+    {
+      "en": "groin tendon",
+      "zh": "腹股沟筋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4202,
+      "desc": "大腿内侧可见的肌腱线条，常出现在健美体型角色身上。",
+      "kw": "大腿根肌腱 / 鼠蹊部肌腱 / 大腿内侧筋 / 腹股沟线 / 大腿根部肌腱 / 大腿内侧肌腱 / 身体部位"
+    },
+    {
+      "en": "thick thighs",
+      "zh": "粗腿",
+      "rating": "s",
+      "nsfw": false,
+      "count": 165937,
+      "desc": "比正常更粗的大腿，实际尺寸须明显偏大",
+      "kw": "粗大腿 / 肥大腿 / 肉腿 / 大腿粗 / 丰满大腿 / 健壮大腿 / 强壮的大腿 / thunder thighs / big thighs / fat thighs / thighthick"
+    },
+    {
+      "en": "bare legs",
+      "zh": "裸腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 183824,
+      "desc": "大腿至小腿中部无衣物或鞋袜遮盖",
+      "kw": "光腿 / 露腿 / 光着腿 / 裸露腿部 / 光大腿 / 无袜腿 / 未穿袜裤 / 腿部 / 生脚 / 生足"
+    },
+    {
+      "en": "lipstick mark on leg",
+      "zh": "腿部唇印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 493,
+      "desc": "腿部被亲吻后留下的口红唇印",
+      "kw": "腿部口红印 / 腿上唇印 / 腿上的唇印 / 腿上的口红痕迹 / 口红印 / 痕迹"
+    },
+    {
+      "en": "knees",
+      "zh": "膝盖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15422,
+      "desc": "大腿与小腿之间的膝关节，常用身体部位标签",
+      "kw": "膝 / 膝关节 / 膝盖骨 / 膝部 / 腿弯 / 双膝 / 身体部位 / 腿部 / knee"
+    },
+    {
+      "en": "kneepits",
+      "zh": "膝窝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29617,
+      "desc": "膝盖后方的凹陷处，类似腋窝。",
+      "kw": "腘窝 / 膝盖窝 / 膝后窝 / 膝弯 / 腿弯 / 腘 / 身体部位 / kneepit / knee pit / 膝里 / 膝裏"
+    },
+    {
+      "en": "animal legs",
+      "zh": "动物腿",
+      "rating": "g",
+      "count": 530,
+      "desc": "人形角色腿部为动物腿，如蹄、爪等",
+      "kw": "兽腿 / 动物下肢 / 野兽腿 / 拟兽下肢"
+    },
+    {
+      "en": "bird legs",
+      "zh": "鸟腿",
+      "rating": "g",
+      "count": 4416,
+      "desc": "带爪和鳞片、类似鸟类的腿。",
+      "kw": "鸟爪腿 / 禽腿 / 鸟形腿 / 鸟脚 / 带鳞鸟腿 / 细腿 / 腿型"
+    },
+    {
+      "en": "blood on leg",
+      "zh": "腿上的血",
+      "rating": "s",
+      "count": 2258,
+      "desc": "腿部表面沾有血迹",
+      "kw": "腿部血迹 / 腿上沾血 / 腿部沾血 / 腿部有血 / 腿上有血 / 腿上血痕 / 腿部血渍 / 腿上血污 / bloody leg"
+    },
+    {
+      "en": "bruise on leg",
+      "zh": "腿上淤青",
+      "rating": "s",
+      "count": 618,
+      "desc": "腿部出现的淤青斑",
+      "kw": "腿部淤青 / 腿部瘀青 / 腿上淤伤 / 腿部淤伤 / 腿青紫 / 腿部青紫 / 腿淤痕 / 腿瘀青"
+    },
+    {
+      "en": "knee blush",
+      "zh": "膝盖红晕",
+      "rating": "s",
+      "count": 1327,
+      "desc": "膝盖部位泛起如脸红的红晕。",
+      "kw": "膝盖泛红 / 膝盖发红 / 膝盖腮红 / 膝盖脸红 / 膝部红晕 / 膝红 / 膝盖潮红 / 膝盖粉红"
+    },
+    {
+      "en": "leg hair",
+      "zh": "腿毛",
+      "rating": "g",
+      "count": 7578,
+      "desc": "腿部生长的体毛",
+      "kw": "腿部体毛 / 小腿毛 / 大腿毛 / 腿上的毛 / 体毛 / hairy thighs / 胫毛"
+    },
+    {
+      "en": "mechanical legs",
+      "zh": "机械义腿",
+      "rating": "g",
+      "count": 7933,
+      "desc": "以机械腿替代人腿的仿人角色。",
+      "kw": "机械双腿 / 机械下肢 / 机器腿 / 机器人腿 / 义肢腿 / 假肢腿 / 金属腿 / 仿生腿 / robotic legs / robot legs"
+    },
+    {
+      "en": "multiple legs",
+      "zh": "多足角色",
+      "rating": "g",
+      "count": 2180,
+      "desc": "拥有超过两条腿的角色或生物",
+      "kw": "多腿角色 / 多条腿 / 多腿 / 多肢 / 四腿角色 / 六腿角色 / 八腿角色 / 昆虫腿角色"
+    },
+    {
+      "en": "scar on leg",
+      "zh": "腿部疤痕",
+      "rating": "g",
+      "count": 4219,
+      "desc": "位于腿上的疤痕。",
+      "kw": "腿上的伤疤 / 腿伤疤 / 腿部伤疤 / 大腿疤痕 / 小腿疤痕 / 腿疤 / 疤痕 / 腿部 / leg scar"
+    },
+    {
+      "en": "scar on thigh",
+      "zh": "大腿伤疤",
+      "rating": "g",
+      "count": 545,
+      "desc": "角色大腿上带有的伤疤或疤痕。",
+      "kw": "大腿疤痕 / 大腿疤 / 腿上伤疤 / 腿疤 / 大腿伤痕 / 腿部疤痕 / 伤疤 / scar on thighs"
+    },
+    {
+      "en": "single bare leg",
+      "zh": "单腿裸露",
+      "rating": "g",
+      "count": 1885,
+      "desc": "只一条腿裸露，另一条腿有遮盖",
+      "kw": "一条腿裸露 / 单腿裸足 / 单腿光腿 / 裸单腿 / 单腿赤足 / 单腿没穿袜子 / 单条裸腿 / 裸腿"
+    },
+    {
+      "en": "single mechanical leg",
+      "zh": "单条机械腿",
+      "rating": "g",
+      "count": 664,
+      "desc": "只有一条腿为机械腿",
+      "kw": "单腿机械假肢 / 一条机械腿 / 单机械腿 / 单腿义肢 / 机械义肢（单腿） / 单腿假肢 / 单腿机器腿 / 单侧机械腿 / mechanical leg / single robot leg"
+    },
+    {
+      "en": "sparse leg hair",
+      "zh": "稀疏腿毛",
+      "rating": "g",
+      "count": 857,
+      "desc": "腿部稀疏不成片的体毛",
+      "kw": "腿毛稀疏 / 少许腿毛 / 腿毛不多 / 淡腿毛 / 体毛 / 腿部"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "key": "p270",
+  "id": "p270",
+  "name": "能量爆发",
+  "desc": "从中心炸开的能量",
+  "cat": "特效",
+  "tags": "1girl|一个女孩;energy|能量;glowing|发光;dynamic pose|动态姿势;dramatic lighting|戏剧光;hair blown by wind|头发被风吹起",
+  "builtin": true
+}

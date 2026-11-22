@@ -1,0 +1,9 @@
+{
+  "key": "p215",
+  "id": "p215",
+  "name": "电影海报",
+  "desc": "主视觉+片名+演职员表",
+  "cat": "版式海报",
+  "tags": "movie poster|电影海报;headline text|主标题文字;movie poster credits|电影海报演职员表;cinematic lighting|电影光;dramatic lighting|戏剧光;poster illustration|海报插画",
+  "builtin": true
+}

@@ -1,0 +1,9 @@
+{
+  "key": "p224",
+  "id": "p224",
+  "name": "电影片名卡",
+  "desc": "黑底大字+字幕",
+  "cat": "版式海报",
+  "tags": "title card|片名字卡;black background|黑色背景;bold typography|粗体排版;centered title|居中标题;cinematic lighting|电影光",
+  "builtin": true
+}

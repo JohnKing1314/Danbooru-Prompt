@@ -1,0 +1,9 @@
+{
+  "key": "p81",
+  "id": "p81",
+  "name": "四格漫画",
+  "desc": "2×2 分格，每格一句台词",
+  "cat": "版式海报",
+  "tags": "comic page layout|漫画分页;four-panel layout|四格版面;speech bubble|对话气泡;chibi|Q 版;anime coloring|动画上色;1girl|一个女孩",
+  "builtin": true
+}

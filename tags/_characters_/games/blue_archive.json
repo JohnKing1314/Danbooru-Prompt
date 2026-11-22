@@ -1,0 +1,1440 @@
+{
+  "id": "blue_archive",
+  "name": "蔚蓝档案",
+  "parentId": "games",
+  "order": 5,
+  "file": "games/blue_archive.json",
+  "characters": [
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "白子",
+      "tag": "shiroko (blue archive)",
+      "charZh": "白子（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;halo|光环;animal ears|兽耳;bicycle|自行车;kneehighs|及膝袜;sneakers|运动鞋;hair clip|发夹;scarf|围巾;animal ear fluff|兽耳绒毛;wolf ears|狼耳;extra ears|双层兽耳;long sleeves|长袖;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "星野",
+      "tag": "hoshino (blue archive)",
+      "charZh": "星野（蔚蓝档案）",
+      "auto": "pink hair|粉发;ahoge|呆毛;blue eyes|蓝瞳;halo|光环;pointy ears|尖耳;student|学生;heterochromia|异色瞳;sneakers|运动鞋;shield|盾牌;white shirt|白衬衫;long sleeves|长袖;collared shirt|翻领衬衫;black skirt|黑色短裙;blue necktie|蓝领带;pleated skirt|百褶裙;black gloves|黑色手套;white bikini|白色比基尼;eyewear on head|头顶眼镜;frilled bikini|荷叶边比基尼;hair bobbles|球形发圈;navel|肚脐;blue jacket|蓝色夹克;sunglasses|墨镜;open jacket|敞开的夹克",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "芹香",
+      "tag": "serika (blue archive)",
+      "charZh": "芹香（蔚蓝档案）",
+      "auto": "black hair|黑发;twintails|双马尾;red eyes|红瞳;halo|光环;cat ears|猫耳;knee pads|护膝;ankle socks|短袜;sniper rifle|狙击步枪;animal ear fluff|兽耳绒毛;hair ribbon|发带;white shirt|白衬衫;collared shirt|翻领衬衫;long sleeves|长袖;extra ears|双层兽耳;pleated skirt|百褶裙;miko|巫女服;wide sleeves|宽袖;red hakama|绯袴;white kimono|白色和服;hakama skirt|袴裙;black bikini|黑色比基尼;frilled bikini|荷叶边比基尼;off-shoulder bikini|露肩比基尼;navel|肚脐;stomach|腹部",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "野宫",
+      "tag": "nonomi (blue archive)",
+      "charZh": "野宫（蔚蓝档案）",
+      "auto": "blonde hair|金发;braid|麻花辫;green eyes|绿瞳;halo|光环;small breasts|小胸;ankle socks|短袜;sneakers|运动鞋;white shirt|白衬衫;long sleeves|长袖;collared shirt|翻领衬衫;black skirt|黑色短裙;collarbone|锁骨;pleated skirt|百褶裙;large breasts|大胸;yellow bikini|黄色比基尼;navel|肚脐;side-tie bikini bottom|侧系带比基尼下装;sun hat|遮阳帽;white hat|白帽子;outdoors|室外",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "绫音",
+      "tag": "ayane (blue archive)",
+      "charZh": "绫音（蔚蓝档案）",
+      "auto": "black hair|黑发;short hair|短发;halo|光环;pointy ears|尖耳;elf ears|精灵耳;glasses|眼镜;crown|王冠;school uniform|校服;kneehighs|及膝袜;loafers|乐福鞋;red-framed eyewear|红框眼镜;long sleeves|长袖;collared shirt|翻领衬衫;white shirt|白衬衫;blue necktie|蓝领带;hair flower|发花",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "优香",
+      "tag": "yuuka (blue archive)",
+      "charZh": "优香（蔚蓝档案）",
+      "auto": "purple hair|紫发;twintails|双马尾;purple eyes|紫瞳;halo|光环;ankle boots|短靴;student|学生;white jacket|白色夹克;white shirt|白衬衫;collared shirt|翻领衬衫;long sleeves|长袖;blue necktie|蓝色领带;black skirt|黑色短裙;pleated skirt|百褶裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "诺亚",
+      "tag": "noa (blue archive)",
+      "charZh": "诺亚（蔚蓝档案）",
+      "auto": "white hair|白发;very long hair|超长发;purple eyes|紫瞳;halo|光环;student|学生;hime cut|姬发式;small breasts|小胸;tareme|垂眼;black pantyhose|黑色连裤袜;ankle boots|短靴;mechanical halo|机械光环;white jacket|白色夹克;white shirt|白衬衫;long sleeves|长袖;blue necktie|蓝色领带",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "阿露",
+      "tag": "aru (blue archive)",
+      "charZh": "阿露（蔚蓝档案）",
+      "auto": "red hair|红发;braid|麻花辫;halo|光环;shawl|披肩;princess|公主;high heels|高跟鞋;small breasts|小胸;sniper rifle|狙击步枪;white shirt|白衬衫;white gloves|白色手套;black skirt|黑色短裙;long sleeves|长袖;collared shirt|翻领衬衫;neck ribbon|领结丝带;coat on shoulders|披在肩上的外套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "睦月",
+      "tag": "mutsuki (blue archive)",
+      "charZh": "睦月（蔚蓝档案）",
+      "auto": "white hair|白发;ponytail|马尾;purple eyes|紫瞳;halo|光环;small breasts|小胸;sidelocks|鬓发;hair flower|头花;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "佳代子",
+      "tag": "kayoko (blue archive)",
+      "charZh": "佳代子（蔚蓝档案）",
+      "auto": "black hair|黑发;two-tone hair|双色发;high ponytail|高马尾;red eyes|红瞳;halo|光环;wings|翅膀;small breasts|小胸;ear piercing|耳钉;sneakers|运动鞋;pistol|手枪",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "晴奈",
+      "tag": "haruna (blue archive)",
+      "charZh": "黑馆晴奈（蔚蓝档案）",
+      "auto": "purple hair|紫发;short hair|短发;purple eyes|紫瞳;halo|光环;pointy ears|尖耳;hair clip|发夹;bangs|刘海",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "日奈",
+      "tag": "hina (blue archive)",
+      "charZh": "日奈（蔚蓝档案）",
+      "auto": "white hair|白发;ponytail|马尾;purple eyes|紫瞳;halo|光环;wings|翅膀;small breasts|小胸;thighhighs|过膝袜;boots|靴子;bangs|刘海;demon wings|恶魔翅膀;long sleeves|长袖;hairclip|发夹;black skirt|黑色短裙;demon girl|恶魔娘;black gloves|黑色手套;white shirt|白衬衫;elbow gloves|长筒手套;purple dress|紫色连衣裙;purple gloves|紫色手套;strapless dress|抹胸裙;necklace|项链;dangle earrings|悬垂耳环;pendant|吊坠;bare shoulders|露肩;pink pajamas|粉色睡衣;polka dot pajamas|圆点睡衣",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "伊织",
+      "tag": "iori (blue archive)",
+      "charZh": "伊织（蔚蓝档案）",
+      "auto": "white hair|白发;twintails|双马尾;red eyes|红瞳;halo|光环;rabbit ears|兔耳;pointy ears|尖耳;tail|尾巴;necktie|领带;gloves|手套;kneehighs|及膝袜;hair over one eye|遮单眼发;white shirt|白衬衫;black gloves|黑色手套;hair ribbon|发带;black skirt|黑色短裙;long sleeves|长袖;black necktie|黑领带;small breasts|小胸;collared shirt|翻领衬衫",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "千夏",
+      "tag": "chinatsu (blue archive)",
+      "charZh": "千夏（蔚蓝档案）",
+      "auto": "pink hair|粉发;twintails|双马尾;red eyes|红瞳;halo|光环;pointy ears|尖耳;glasses|眼镜;nurse|护士;hairband|发箍;small breasts|小胸;pleated skirt|百褶裙;long sleeves|长袖;white shirt|白衬衫;red pantyhose|红色连裤袜;collared shirt|翻领衬衫",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "亚子",
+      "tag": "ako (blue archive)",
+      "charZh": "亚子（蔚蓝档案）",
+      "auto": "blue hair|蓝发;blue eyes|蓝瞳;halo|光环;small breasts|小胸;ear piercing|耳钉;hairband|发箍;sidelocks|鬓发;pistol|手枪;long sleeves|长袖;neck bell|颈铃;black hairband|黑色发箍;white shirt|白衬衫;black thighhighs|黑色过膝袜;black gloves|黑色手套;black skirt|黑色短裙;blue jacket|蓝色夹克;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "日富美",
+      "tag": "hifumi (blue archive)",
+      "charZh": "日富美（蔚蓝档案）",
+      "auto": "blonde hair|金发;twintails|双马尾;halo|光环;pointy ears|尖耳;black pantyhose|黑色连裤袜;sneakers|运动鞋;sniper rifle|狙击步枪;yellow halo|黄色光环;long sleeves|长袖;white cardigan|白色开衫;pleated skirt|百褶裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "梓",
+      "tag": "azusa (blue archive)",
+      "charZh": "梓（蔚蓝档案）",
+      "auto": "white hair|白发;purple eyes|紫瞳;halo|光环;wings|翅膀;student|学生;small breasts|小胸;hair ornament|发饰;dress|连衣裙;sniper rifle|狙击步枪;ankle socks|短袜;angel wings|天使翼;white jacket|白色夹克;open jacket|敞开的夹克;black sailor collar|黑色水手领;long sleeves|长袖;white wings|白翼;feathered wings|羽毛翅膀;black dress|黑色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "小春",
+      "tag": "koharu (blue archive)",
+      "charZh": "小春（蔚蓝档案）",
+      "auto": "pink hair|粉发;twintails|双马尾;pink eyes|粉瞳;halo|光环;wings|翅膀;small breasts|小胸;beret|贝雷帽;slit pupils|竖瞳;sniper rifle|狙击步枪;head wings|头部羽翼;black wings|黑翼;black hat|黑帽;feathered wings|羽毛翅膀;long sleeves|长袖;black shirt|黑衬衫;white sailor collar|白色水手领",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "花子",
+      "tag": "hanako (blue archive)",
+      "charZh": "花子（蔚蓝档案）",
+      "auto": "pink hair|粉发;braid|麻花辫;green eyes|绿瞳;halo|光环;small breasts|小胸;swimsuit|泳装;kneehighs|及膝袜;sniper rifle|狙击步枪;navel|肚脐;serafuku|水手服;white shirt|白衬衫;blue sailor collar|蓝色水手领;short sleeves|短袖;white socks|白袜;pleated skirt|百褶裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "未花",
+      "tag": "mika (blue archive)",
+      "charZh": "未花（蔚蓝档案）",
+      "auto": "pink hair|粉发;hair bun|发髻;halo|光环;wings|翅膀;student|学生;hair ornament|发饰;dress|连衣裙;small breasts|小胸;hair scrunchie|发圈;pantyhose|连裤袜;white dress|白色连衣裙;double-breasted|双排扣;white capelet|白色披肩;pleated dress|百褶连衣裙;white wings|白翼;white sailor collar|白色水手领;feathered wings|羽毛翅膀;low wings|低位翅膀;layered dress|多层连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "圣亚",
+      "tag": "seia (blue archive)",
+      "charZh": "圣亚（蔚蓝档案）",
+      "auto": "blonde hair|金发;curly hair|卷发;very long hair|超长发;yellow eyes|黄瞳;halo|光环;student|学生;fox girl|狐娘;hair flower|头花;forehead|额头;backless|露背;fox ears|狐耳;animal ear fluff|兽耳绒毛;white dress|白色连衣裙;sleeves past fingers|过指袖;detached sleeves|分离袖;white sleeves|白袖;bare shoulders|露肩;white pantyhose|白色连裤袜;vertical-striped clothes|竖条纹服饰",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "渚",
+      "tag": "nagisa (blue archive)",
+      "charZh": "渚（蔚蓝档案）",
+      "auto": "grey hair|灰发;long hair|长发;yellow eyes|黄瞳;halo|光环;wings|翅膀;student|学生;crown|王冠;hair ornament|发饰;black pantyhose|黑色连裤袜;high heels|高跟鞋;hair flower|发花;white wings|白翼;feathered wings|羽毛翅膀;angel wings|天使翼;white dress|白色连衣裙;long sleeves|长袖;white flower|白花",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "鹤城",
+      "tag": "tsurugi (blue archive)",
+      "charZh": "鹤城（蔚蓝档案）",
+      "auto": "black hair|黑发;high ponytail|高马尾;red eyes|红瞳;halo|光环;wings|翅膀;ankle boots|短靴;blush|脸红;bikini|比基尼;hair flower|头花;sandals|凉鞋;black wings|黑翼;black serafuku|黑色水手服;collarbone|锁骨;long sleeves|长袖;black skirt|黑色短裙;low wings|低位翅膀",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "莲见",
+      "tag": "hasumi (blue archive)",
+      "charZh": "莲见（蔚蓝档案）",
+      "auto": "black hair|黑发;high ponytail|高马尾;red eyes|红瞳;halo|光环;wings|翅膀;small breasts|小胸;bangs|刘海;high heels|高跟鞋;sniper rifle|狙击步枪;gym uniform|体操服;black wings|黑翼;mole under eye|眼下泪痣;feathered wings|羽毛翅膀;black choker|黑色颈圈;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "真白",
+      "tag": "mashiro (blue archive)",
+      "charZh": "真白（蔚蓝档案）",
+      "auto": "black hair|黑发;short hair|短发;purple eyes|紫瞳;halo|光环;wings|翅膀;rabbit ears|兔耳;serafuku|水手服;gloves|手套;loafers|乐福鞋;sniper rifle|狙击步枪;red halo|红色光环;winged halo|羽翼光环;black wings|黑翼;feathered wings|羽毛翅膀;black serafuku|黑色水手服;long sleeves|长袖;black choker|黑色颈圈",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "爱丽丝",
+      "tag": "aris (blue archive)",
+      "charZh": "爱丽丝（蔚蓝档案）",
+      "auto": "blue hair|蓝发;long hair|长发;ponytail|马尾;braid|麻花辫;blue eyes|蓝瞳;halo|光环;mechanical parts|机械部件;angel|天使;bangs|刘海;hairband|发箍;black hairband|黑色发箍;white shirt|白衬衫;collared shirt|翻领衬衫;long sleeves|长袖;blue necktie|蓝色领带;black skirt|黑色短裙;pleated skirt|百褶裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "桃井",
+      "tag": "momoi (blue archive)",
+      "charZh": "桃井（蔚蓝档案）",
+      "auto": "blonde hair|金发;short hair|短发;twintails|双马尾;pink eyes|粉瞳;halo|光环;cat ears|猫耳;small breasts|小胸;twins|双胞胎;pinafore|背带裙;thighhighs|过膝袜;pink halo|粉色光环;hair bow|蝴蝶结发饰;red bow|红色蝴蝶结;animal ear headphones|兽耳耳机;white shirt|白衬衫;collared shirt|翻领衬衫;long sleeves|长袖;blue necktie|蓝色领带",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "绿",
+      "tag": "midori (blue archive)",
+      "charZh": "绿（蔚蓝档案）",
+      "auto": "blonde hair|金发;short hair|短发;low ponytail|低马尾;green eyes|绿瞳;halo|光环;cat ears|猫耳;cat tail|猫尾;small breasts|小胸;artist|画家;twins|双胞胎;hair bow|蝴蝶结发饰;animal ear headphones|兽耳耳机;cat ear headphones|猫耳耳机;white shirt|白衬衫;long sleeves|长袖;blue necktie|蓝色领带",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "柚子",
+      "tag": "yuzu (blue archive)",
+      "charZh": "柚子（蔚蓝档案）",
+      "auto": "red hair|红发;high ponytail|高马尾;braid|麻花辫;blue eyes|蓝瞳;halo|光环;small breasts|小胸;slippers|拖鞋;bangs|刘海;forehead|额头;maid|女仆;hair bow|蝴蝶结发饰;white bow|白色蝴蝶结;hooded jacket|连帽夹克;white jacket|白色夹克;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "香琳",
+      "tag": "karin (blue archive)",
+      "charZh": "香琳（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;high ponytail|高马尾;halo|光环;maid|女仆;hime cut|姬发式;slit pupils|竖瞳;small breasts|小胸;high heels|高跟鞋;pantyhose|连裤袜;maid headdress|女仆头饰;maid apron|女仆围裙;white apron|白色围裙;black dress|黑色连衣裙;frilled dress|荷叶边连衣裙;short sleeves|短袖;white gloves|白色手套;white pantyhose|白色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "明日奈",
+      "tag": "asuna (blue archive)",
+      "charZh": "明日奈（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;halo|光环;maid|女仆;updo|盘发;bangs|刘海;small breasts|小胸;hair ribbon|发带;gloves|手套;hair over one eye|遮单眼发;blue ribbon|蓝色缎带",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "时",
+      "tag": "toki (blue archive)",
+      "charZh": "时（蔚蓝档案）",
+      "auto": "blonde hair|金发;blue eyes|蓝瞳;halo|光环;maid|女仆;updo|盘发;thigh boots|过膝靴;rifle|步枪;maid headdress|女仆头饰;long sleeves|长袖;white thighhighs|白色过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "若藻",
+      "tag": "wakamo (blue archive)",
+      "charZh": "若藻（蔚蓝档案）",
+      "auto": "red hair|红发;halo|光环;mask|口罩;hime cut|姬发式;small breasts|小胸;fox girl|狐娘;heart-shaped pupils|心形瞳;fingerless gloves|露指手套;ankle socks|短袜;ankle boots|短靴;fox ears|狐耳;animal ear fluff|兽耳绒毛;hair flower|发花;fox mask|狐狸面具;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "泉奈",
+      "tag": "izuna (blue archive)",
+      "charZh": "泉奈（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;fox ears|狐耳;tail|尾巴;halo|光环;fox girl|狐娘;animal ear fluff|兽耳绒毛;visor cap|遮阳帽;red scarf|红色围巾",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "椿",
+      "tag": "tsubaki (blue archive)",
+      "charZh": "椿（蔚蓝档案）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳;halo|光环;red halo|红色光环;headgear|头部装备;tassel|流苏;serafuku|水手服;red sailor collar|红色水手领;red skirt|红裙;pleated skirt|百褶裙;elbow gloves|长筒手套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "春香",
+      "tag": "haruka (blue archive)",
+      "charZh": "春香（蔚蓝档案）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳;halo|光环",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "白子·恐怖",
+      "tag": "shiroko terror (blue archive)",
+      "charZh": "白子·恐怖（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;halo|光环",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "真纪",
+      "tag": "maki (blue archive)",
+      "charZh": "真纪（蔚蓝档案）",
+      "auto": "pink hair|粉发;twintails|双马尾;pink eyes|粉瞳;halo|光环;red halo|红色光环;twin braids|双辫;beanie|毛线帽;white shirt|白衬衫;collared shirt|翻领衬衫;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "晴",
+      "tag": "hare (blue archive)",
+      "charZh": "晴（蔚蓝档案）",
+      "auto": "grey hair|灰发;short hair|短发;grey eyes|灰瞳;halo|光环;white hat|白帽子;open jacket|敞开的夹克;green jacket|绿色夹克;hood down|兜帽放下;black scarf|黑围巾;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "小玉",
+      "tag": "kotama (blue archive)",
+      "charZh": "小玉（蔚蓝档案）",
+      "auto": "brown hair|棕发;short hair|短发;glasses|眼镜;halo|光环;purple halo|紫色光环;hairclip|发夹;black-framed eyewear|黑框眼镜;open jacket|敞开的夹克;yellow jacket|黄色夹克;long sleeves|长袖;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "宫子",
+      "tag": "miyako (blue archive)",
+      "charZh": "宫子（蔚蓝档案）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳;halo|光环;fake animal ears|假兽耳;rabbit ears|兔耳;white sailor collar|白色水手领;pink neckerchief|粉色领巾;long sleeves|长袖;black gloves|黑色手套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "美游",
+      "tag": "miyu (blue archive)",
+      "charZh": "美游（蔚蓝档案）",
+      "auto": "orange hair|橙发;short hair|短发;orange eyes|橙瞳;halo|光环;leaf on head|头上叶子;fake animal ears|假兽耳;rabbit ears|兔耳;white sailor collar|白色水手领;long sleeves|长袖;white pantyhose|白色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "忧",
+      "tag": "ui (blue archive)",
+      "charZh": "忧（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;halo|光环;long sleeves|长袖;blue hairband|蓝色发箍;white sailor collar|白色水手领;white skirt|白色短裙;purple hairband|紫色发箍;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "日向",
+      "tag": "hinata (blue archive)",
+      "charZh": "日向（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;halo|光环;hair over one eye|遮单眼发;nun|修女;habit|修女服;white thighhighs|白色过膝袜;cross earrings|十字架耳环",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "柚鸟夏",
+      "tag": "natsu (blue archive)",
+      "charZh": "柚鸟夏（蔚蓝档案）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳;halo|光环;long sleeves|长袖;black thighhighs|黑色过膝袜;red neckerchief|红色领巾;pleated skirt|百褶裙;pink halo|粉色光环;black skirt|黑色短裙;white cardigan|白色开衫;black sailor collar|黑色水手领;serafuku|水手服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "亚津子",
+      "tag": "atsuko (blue archive)",
+      "charZh": "亚津子（蔚蓝档案）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳;white coat|白色外套;mask|口罩;halo|光环;long sleeves|长袖;white jacket|白色夹克;hair bow|蝴蝶结发饰;hooded jacket|连帽夹克;twin braids|双辫;black gloves|黑色手套;hood up|戴上兜帽;white dress|白色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "日和",
+      "tag": "hiyori (blue archive)",
+      "charZh": "日和（蔚蓝档案）",
+      "auto": "light blue hair|浅蓝发;long hair|长发;blue eyes|蓝瞳;white coat|白色外套;hair over one eye|遮单眼发;hairclip|发夹;halo|光环;long sleeves|长袖;star hat ornament|星形帽饰;navel|肚脐;cabbie hat|报童帽",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "美咲",
+      "tag": "misaki (blue archive)",
+      "charZh": "美咲（蔚蓝档案）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳;white coat|白色外套;halo|光环;black hoodie|黑色卫衣;bandaged neck|脖子缠绷带;long sleeves|长袖;ear piercing|耳钉;black mask|黑色口罩;black pants|黑裤;white jacket|白色夹克",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "纱织",
+      "tag": "saori (blue archive)",
+      "charZh": "纱织（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;white coat|白色外套;mask|口罩;blue eyes|蓝瞳;navel|肚脐;baseball cap|棒球帽;black shirt|黑衬衫;sleeveless shirt|无袖衬衫;bare shoulders|露肩;stomach|腹部;black hat|黑帽",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "昴",
+      "tag": "subaru (blue archive)",
+      "charZh": "昴（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;white coat|白色外套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "明里",
+      "tag": "akari (blue archive)",
+      "charZh": "明里（蔚蓝档案）",
+      "auto": "pink hair|粉发;long hair|长发;blue eyes|蓝瞳;black dress|黑色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "千明",
+      "tag": "chiaki (blue archive)",
+      "charZh": "千明（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;hat|帽子;black dress|黑色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "绘梨香",
+      "tag": "erika (blue archive)",
+      "charZh": "绘梨香（蔚蓝档案）",
+      "auto": "silver hair|银发;short hair|短发;jacket|夹克;scarf|围巾",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "风香",
+      "tag": "fuuka (blue archive)",
+      "charZh": "风香（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;white dress|白色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "伊吹",
+      "tag": "ibuki (blue archive)",
+      "charZh": "伊吹（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;red eyes|红瞳;hat|帽子;boots|靴子;yellow halo|黄色光环;demon wings|恶魔翅膀;black dress|黑色连衣裙;black wings|黑翼;white shirt|白衬衫;sleeves past fingers|过指袖;black coat|黑色大衣;collared shirt|翻领衬衫;pinafore dress|背带连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "伊吕波",
+      "tag": "iroha (blue archive)",
+      "charZh": "伊吕波（蔚蓝档案）",
+      "auto": "pink hair|粉发;long hair|长发;blue eyes|蓝瞳;hat|帽子;black coat|黑色大衣;long sleeves|长袖;peaked cap|大檐帽;red necktie|红领带;black hat|黑帽;black shirt|黑衬衫;red armband|红色臂章;collared shirt|翻领衬衫;blue halo|蓝色光环;black skirt|黑色短裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "泉",
+      "tag": "izumi (blue archive)",
+      "charZh": "泉（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;yellow eyes|黄瞳",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "纯子",
+      "tag": "junko (blue archive)",
+      "charZh": "纯子（蔚蓝档案）",
+      "auto": "red hair|红发;long hair|长发;red eyes|红瞳;horns|角",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "朱莉",
+      "tag": "juri (blue archive)",
+      "charZh": "朱莉（蔚蓝档案）",
+      "auto": "pink hair|粉发;long hair|长发;blue eyes|蓝瞳;white shirt|白衬衫;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "霞",
+      "tag": "kasumi (blue archive)",
+      "charZh": "霞（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;horns|角;red eyes|红瞳;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "绮罗罗",
+      "tag": "kirara (blue archive)",
+      "charZh": "绮罗罗（蔚蓝档案）",
+      "auto": "pink hair|粉发;curly hair|卷发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "真琴",
+      "tag": "makoto (blue archive)",
+      "charZh": "真琴（蔚蓝档案）",
+      "auto": "silver hair|银发;long hair|长发;hat|帽子;hair over one eye|遮单眼发;elbow gloves|长筒手套;halo|光环;black dress|黑色连衣裙;red halo|红色光环;black gloves|黑色手套;peaked cap|大檐帽;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "惠",
+      "tag": "megu (blue archive)",
+      "charZh": "惠（蔚蓝档案）",
+      "auto": "red hair|红发;long hair|长发;horns|角;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "皋月",
+      "tag": "satsuki (blue archive)",
+      "charZh": "皋月（蔚蓝档案）",
+      "auto": "pink hair|粉发;long hair|长发;red eyes|红瞳;black dress|黑色连衣裙;mole on breast|乳痣;black gloves|黑色手套;red necktie|红领带;long sleeves|长袖;red thighhighs|红色过膝袜;large breasts|大胸;red bra|红色胸罩",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "濑名",
+      "tag": "sena (blue archive)",
+      "charZh": "濑名（蔚蓝档案）",
+      "auto": "silver hair|银发;long hair|长发;blue eyes|蓝瞳;white dress|白色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "青叶",
+      "tag": "aoba (blue archive)",
+      "charZh": "青叶（蔚蓝档案）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "光",
+      "tag": "hikari (blue archive)",
+      "charZh": "光（蔚蓝档案）",
+      "auto": "green hair|绿发;long hair|长发;green eyes|绿瞳;hat|帽子;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "望",
+      "tag": "nozomi (blue archive)",
+      "charZh": "望（蔚蓝档案）",
+      "auto": "green hair|绿发;long hair|长发;green eyes|绿瞳;hat|帽子;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "千世",
+      "tag": "chise (blue archive)",
+      "charZh": "千世（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;kimono|和服;hair flower|发花;white flower|白花;white sailor collar|白色水手领;detached sleeves|分离袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "枫",
+      "tag": "kaede (blue archive)",
+      "charZh": "枫（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;hair ribbon|发带;halo|光环;red sailor collar|红色水手领;detached sleeves|分离袖;wide sleeves|宽袖;white thighhighs|白色过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "果穗",
+      "tag": "kaho (blue archive)",
+      "charZh": "果穗（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;red eyes|红瞳;kimono|和服;halo|光环;hair over one eye|遮单眼发;sideless kimono|露侧和服;detached sleeves|分离袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "桔梗",
+      "tag": "kikyou (blue archive)",
+      "charZh": "桔梗（蔚蓝档案）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;kimono|和服;blue halo|蓝色光环;two tails|双尾;serafuku|水手服;black sailor collar|黑色水手领;blue neckerchief|蓝色领巾;long sleeves|长袖;pleated skirt|百褶裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "满",
+      "tag": "michiru (blue archive)",
+      "charZh": "满（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;katana|武士刀;halo|光环;raccoon girl|狸猫娘;ninja|忍者;white shirt|白衬衫;black scarf|黑围巾;bridal gauntlets|新娘手套;blue skirt|蓝裙;pleated skirt|百褶裙;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "三森",
+      "tag": "mimori (blue archive)",
+      "charZh": "三森（蔚蓝档案）",
+      "auto": "pink hair|粉发;long hair|长发;red eyes|红瞳;white coat|白色外套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "名草",
+      "tag": "nagusa (blue archive)",
+      "charZh": "名草（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;kimono|和服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "尼娅",
+      "tag": "niya (blue archive)",
+      "charZh": "尼娅（蔚蓝档案）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "菲娜",
+      "tag": "pina (blue archive)",
+      "charZh": "菲娜（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;red eyes|红瞳;cape|披风;halo|光环;black hat|黑帽;white shirt|白衬衫;long sleeves|长袖;white gloves|白色手套;black skirt|黑色短裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "莲华",
+      "tag": "renge (blue archive)",
+      "charZh": "莲华（蔚蓝档案）",
+      "auto": "red hair|红发;long hair|长发;red eyes|红瞳;sword|长剑",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "静子",
+      "tag": "shizuko (blue archive)",
+      "charZh": "静子（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;pink eyes|粉瞳;kimono|和服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "月咏",
+      "tag": "tsukuyo (blue archive)",
+      "charZh": "月咏（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;kimono|和服;halo|光环;hair over one eye|遮单眼发;rabbit girl|兔娘;serafuku|水手服;purple cardigan|紫色开衫;purple scarf|紫围巾;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "海香",
+      "tag": "umika (blue archive)",
+      "charZh": "海香（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;apron|围裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "紫",
+      "tag": "yukari (blue archive)",
+      "charZh": "紫（蔚蓝档案）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳;kimono|和服;purple halo|紫色光环;hair flower|发花;pink flower|粉花;serafuku|水手服;white sailor collar|白色水手领;red neckerchief|红色领巾;haori|羽织;pleated skirt|百褶裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "茜",
+      "tag": "akane (blue archive)",
+      "charZh": "茜（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;maid|女仆;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "千寻",
+      "tag": "chihiro (blue archive)",
+      "charZh": "千寻（蔚蓝档案）",
+      "auto": "black hair|黑发;short hair|短发;green eyes|绿瞳;halo|光环;glasses|眼镜;blue-framed eyewear|蓝框眼镜;open jacket|敞开的夹克;white shirt|白衬衫;collared shirt|翻领衬衫;long sleeves|长袖;blue necktie|蓝色领带",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "响",
+      "tag": "hibiki (blue archive)",
+      "charZh": "响（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;white shirt|白衬衫;black skirt|黑色短裙;dog girl|犬娘;goggles on head|护目镜戴头上;fishnet pantyhose|渔网连裤袜;boots|靴子;high heels|高跟鞋",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "堇",
+      "tag": "sumire (blue archive)",
+      "charZh": "堇（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;hair flower|发花;black pants|黑裤;yoga pants|瑜伽裤",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "妮露",
+      "tag": "neru (blue archive)",
+      "charZh": "妮露（蔚蓝档案）",
+      "auto": "orange hair|橙发;short hair|短发;hairband|发箍;maid headdress|女仆头饰;sukajan|横须贺刺绣夹克;open jacket|敞开的夹克;white shirt|白衬衫;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "小雪",
+      "tag": "koyuki (blue archive)",
+      "charZh": "小雪（蔚蓝档案）",
+      "auto": "pink hair|粉发;long hair|长发;pink eyes|粉瞳;sailor collar|水手领;halo|光环;white jacket|白色夹克;white shirt|白衬衫;collared shirt|翻领衬衫;long sleeves|长袖;blue necktie|蓝色领带",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "日鞠",
+      "tag": "himari (blue archive)",
+      "charZh": "日鞠（蔚蓝档案）",
+      "auto": "white hair|白发;very long hair|超长发;blue eyes|蓝瞳;white dress|白色连衣裙;halo|光环;hair flower|发花;white flower|白花;black hairband|黑色发箍;hair tubes|束发管饰;long sleeves|长袖;black gloves|黑色手套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "柯伊",
+      "tag": "kei (blue archive)",
+      "charZh": "柯伊（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;white coat|白色外套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "歌原",
+      "tag": "utaha (blue archive)",
+      "charZh": "歌原（蔚蓝档案）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "琴里",
+      "tag": "kotori (blue archive)",
+      "charZh": "琴里（蔚蓝档案）",
+      "auto": "blonde hair|金发;short hair|短发;glasses|眼镜;yellow halo|黄色光环",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "艾米",
+      "tag": "eimi (blue archive)",
+      "charZh": "艾米（蔚蓝档案）",
+      "auto": "pink hair|粉发;short hair|短发;blue eyes|蓝瞳;jacket|夹克;headphones around neck|颈挂耳机;red necktie|红色领带",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "丽",
+      "tag": "rei (blue archive)",
+      "charZh": "丽（蔚蓝档案）",
+      "auto": "orange hair|橙发;short hair|短发;cap|鸭舌帽;jacket|夹克",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "莉音",
+      "tag": "rio (blue archive)",
+      "charZh": "莉音（蔚蓝档案）",
+      "auto": "black hair|黑发;very long hair|超长发;red eyes|红瞳;business suit|西装;hairclip|发夹;hairpin|发簪;white sweater|白色毛衣;long sleeves|长袖;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "心",
+      "tag": "kokoro (blue archive)",
+      "charZh": "心（蔚蓝档案）",
+      "auto": "pink hair|粉发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "琴音",
+      "tag": "kotone (blue archive)",
+      "charZh": "琴音（蔚蓝档案）",
+      "auto": "white hair|白发;short hair|短发;blue eyes|蓝瞳;swimsuit|泳装",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "巴",
+      "tag": "tomoe (blue archive)",
+      "charZh": "巴（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;pink eyes|粉瞳;white coat|白色外套;twin braids|双辫;black shirt|黑衬衫;collared shirt|翻领衬衫;long sleeves|长袖;miniskirt|迷你裙;pencil skirt|铅笔裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "八云",
+      "tag": "yakumo (blue archive)",
+      "charZh": "八云（蔚蓝档案）",
+      "auto": "brown hair|棕发;hat|帽子;trench coat|风衣",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "切里诺",
+      "tag": "cherino (blue archive)",
+      "charZh": "切里诺（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;winter coat|大衣;hat|帽子;halo|光环;two side up|半扎双马尾;hair ribbon|发带;shako cap|高筒军帽;white hat|白帽子;long sleeves|长袖;white gloves|白色手套;randoseru|日式书包",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "和香",
+      "tag": "nodoka (blue archive)",
+      "charZh": "和香（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;cap|鸭舌帽;halo|光环;braid|单辫;long sleeves|长袖;pleated skirt|百褶裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "实梨",
+      "tag": "minori (blue archive)",
+      "charZh": "实梨（蔚蓝档案）",
+      "auto": "grey hair|灰发;short hair|短发;headphones|耳机;halo|光环;hard hat|安全帽;helmet|头盔;open jacket|敞开的夹克;white scarf|白围巾;long sleeves|长袖;white skirt|白裙;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "真里奈",
+      "tag": "marina (blue archive)",
+      "charZh": "真里奈（蔚蓝档案）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳;uniform|制服;halo|光环;military uniform|军装;white jacket|白色夹克;long sleeves|长袖;white gloves|白色手套;white pants|白色裤子;large breasts|大胸;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "红叶",
+      "tag": "momiji (blue archive)",
+      "charZh": "红叶（蔚蓝档案）",
+      "auto": "green hair|绿发;long hair|长发;red eyes|红瞳;halo|光环;blue halo|蓝色光环;red bow|红色蝴蝶结;animal hood|动物兜帽;hood up|戴上兜帽;fur-trimmed coat|毛皮镶边外套;hooded coat|连帽大衣;white coat|白色外套;long sleeves|长袖;white gloves|白色手套;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "芽琉",
+      "tag": "meru (blue archive)",
+      "charZh": "芽琉（蔚蓝档案）",
+      "auto": "green hair|绿发;long hair|长发;glasses|眼镜;lab coat|白大褂;halo|光环;hairclip|发夹;black-framed eyewear|黑框眼镜;fur-trimmed coat|毛皮镶边外套;white coat|白色外套;red sweater|红色毛衣;long sleeves|长袖;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "时雨",
+      "tag": "shigure (blue archive)",
+      "charZh": "时雨（蔚蓝档案）",
+      "auto": "grey hair|灰发;short hair|短发;blue eyes|蓝瞳;blue halo|蓝色光环;weasel girl|鼬娘",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "贵音",
+      "tag": "takane (blue archive)",
+      "charZh": "贵音（蔚蓝档案）",
+      "auto": "red hair|红发;long hair|长发;red eyes|红瞳;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "咲",
+      "tag": "saki (blue archive)",
+      "charZh": "咲（蔚蓝档案）",
+      "auto": "white hair|白发;short hair|短发;blue eyes|蓝瞳;beret|贝雷帽;serafuku|水手服;rabbit ears|兔耳;blue serafuku|蓝色水手服;blue sailor collar|蓝色水手领;yellow neckerchief|黄色领巾;long sleeves|长袖;black gloves|黑色手套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "妮可",
+      "tag": "niko (blue archive)",
+      "charZh": "妮可（蔚蓝档案）",
+      "auto": "pink hair|粉发;short hair|短发;fox ears|狐耳;serafuku|水手服;animal ear fluff|兽耳绒毛;red neckerchief|红色领巾;long sleeves|长袖;fingerless gloves|露指手套;black gloves|黑色手套;pleated skirt|百褶裙;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "御伽",
+      "tag": "otogi (blue archive)",
+      "charZh": "御伽（蔚蓝档案）",
+      "auto": "grey hair|灰发;short hair|短发;red eyes|红瞳;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "胡桃",
+      "tag": "kurumi (blue archive)",
+      "charZh": "胡桃（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;serafuku|水手服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "萌绘",
+      "tag": "moe (blue archive)",
+      "charZh": "萌绘（蔚蓝档案）",
+      "auto": "brown hair|棕发;glasses|眼镜;animal ears|兽耳;jacket|夹克;halo|光环;blue hoodie|蓝色卫衣;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "妃咲",
+      "tag": "kisaki (blue archive)",
+      "charZh": "妃咲（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;chinese clothes|中式服装;china dress|中式连衣裙;black dress|黑色连衣裙;sleeveless dress|无袖连衣裙;dragon print|龙纹印花;vertical-striped coat|竖条纹大衣;long sleeves|长袖;black gloves|黑色手套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "心奈",
+      "tag": "kokona (blue archive)",
+      "charZh": "心奈（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;halo|光环;blue halo|蓝色光环;black jacket|黑色夹克;long sleeves|长袖;black dress|黑色连衣裙;sleeveless dress|无袖连衣裙;vertical-striped clothes|竖条纹衣;vertical-striped dress|竖条纹连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "南",
+      "tag": "mina (blue archive)",
+      "charZh": "南（蔚蓝档案）",
+      "auto": "grey hair|灰发;long hair|长发;cloak|斗篷;halo|光环;hair over one eye|遮单眼发;eyewear on head|头顶眼镜;sunglasses|墨镜;white shirt|白衬衫;collared shirt|翻领衬衫;long sleeves|长袖;black necktie|黑色领带;black gloves|黑色手套;high-waist pants|高腰长裤;black pants|黑裤;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "丽情",
+      "tag": "reijo (blue archive)",
+      "charZh": "丽情（蔚蓝档案）",
+      "auto": "red hair|红发;short hair|短发;red eyes|红瞳;jacket|夹克",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "琉海",
+      "tag": "rumi (blue archive)",
+      "charZh": "琉海（蔚蓝档案）",
+      "auto": "brown hair|棕发;long hair|长发;fox ears|狐耳;halo|光环;red halo|红色光环;chinese clothes|中式服装;red shirt|红色衬衫;short sleeves|短袖;black skirt|黑色短裙;brown pantyhose|棕色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "瞬",
+      "tag": "shun (blue archive)",
+      "charZh": "瞬（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;blue halo|蓝色光环;china dress|中式连衣裙;black dress|黑色连衣裙;bridal gauntlets|新娘手套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "纱绫",
+      "tag": "saya (blue archive)",
+      "charZh": "纱绫（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;halo|光环;mouse girl|鼠娘;ear tag|耳标;china dress|中式连衣裙;blue dress|蓝色连衣裙;detached sleeves|分离袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "爱理",
+      "tag": "airi (blue archive)",
+      "charZh": "爱理（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;green eyes|绿瞳;white dress|白色连衣裙;halo|光环;long sleeves|长袖;white shirt|白衬衫;pleated skirt|百褶裙;white skirt|白色短裙;green halo|绿色光环;white thighhighs|白色过膝袜;holding food|手持食物",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "花江",
+      "tag": "hanae (blue archive)",
+      "charZh": "花江（蔚蓝档案）",
+      "auto": "purple hair|紫发;twintails|双马尾;long hair|长发;purple eyes|紫瞳;nurse cap|护士帽;hairclip|发夹;skin fang|小虎牙;white thighhighs|白色过膝袜;long sleeves|长袖;pink jacket|粉色夹克",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "一花",
+      "tag": "ichika (blue archive)",
+      "charZh": "一花（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;katana|武士刀;hairclip|发夹;navel|肚脐;black gloves|黑色手套;black serafuku|黑色水手服;black shirt|黑衬衫;armband|臂章;low wings|低位翅膀;pleated skirt|百褶裙;long sleeves|长袖;red halo|红色光环;black skirt|黑色短裙;black choker|黑色颈圈",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "和纱",
+      "tag": "kazusa (blue archive)",
+      "charZh": "和纱（蔚蓝档案）",
+      "auto": "black hair|黑发;short hair|短发;purple eyes|紫瞳;jacket|夹克;black choker|黑色颈圈;pink halo|粉色光环;hairclip|发夹;black jacket|黑色夹克;long sleeves|长袖;black pantyhose|黑色连裤袜;halo|光环;hooded jacket|连帽夹克;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "玛丽",
+      "tag": "mari (blue archive)",
+      "charZh": "玛丽（蔚蓝档案）",
+      "auto": "orange hair|橙发;long hair|长发;cross necklace|十字架项链;nun|修女;white flower|白花;animal ear fluff|兽耳绒毛;hair flower|发花;cat ears|猫耳;long sleeves|长袖;animal ear headwear|兽耳头饰;habit|修女服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "美祢",
+      "tag": "mine (blue archive)",
+      "charZh": "美祢（蔚蓝档案）",
+      "auto": "light blue hair|浅蓝发;long hair|长发;white dress|白色连衣裙;nurse cap|护士帽;halo|光环;white gloves|白色手套;blue wings|蓝翼;twin braids|双辫;juliet sleeves|朱丽叶袖;hair ribbon|发带",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "兰舞",
+      "tag": "rabu (blue archive)",
+      "charZh": "兰舞（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;horns|角",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "玲纱",
+      "tag": "reisa (blue archive)",
+      "charZh": "玲纱（蔚蓝档案）",
+      "auto": "white hair|白发;short hair|短发;blue eyes|蓝瞳;jacket|夹克;black neckerchief|黑色领巾;pleated skirt|百褶裙;white sailor collar|白色水手领;long sleeves|长袖;grey skirt|灰色短裙;grey serafuku|灰色水手服;pink halo|粉色光环;open jacket|敞开的夹克;black jacket|黑色夹克",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "樱子",
+      "tag": "sakurako (blue archive)",
+      "charZh": "樱子（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;nun|修女;habit|修女服;halo|光环;black thighhighs|黑色过膝袜;black gloves|黑色手套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "芹娜",
+      "tag": "serina (blue archive)",
+      "charZh": "芹娜（蔚蓝档案）",
+      "auto": "pink hair|粉发;short hair|短发;pink eyes|粉瞳",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "志美子",
+      "tag": "shimiko (blue archive)",
+      "charZh": "志美子（蔚蓝档案）",
+      "auto": "orange hair|橙发;long hair|长发;blue eyes|蓝瞳;white dress|白色连衣裙;glasses|眼镜;hair bow|蝴蝶结发饰;halo|光环;hairclip|发夹;long sleeves|长袖;white skirt|白色短裙;holding book|手持书籍;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "铃美",
+      "tag": "suzumi (blue archive)",
+      "charZh": "铃美（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;nun|修女;head wings|头部羽翼;long sleeves|长袖;single head wing|单侧头翼;halo|光环;grey skirt|灰色短裙;black thighhighs|黑色过膝袜;school uniform|校服;neck ribbon|领结丝带;grey jacket|灰色夹克;red ribbon|红色缎带",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "好美",
+      "tag": "yoshimi (blue archive)",
+      "charZh": "好美（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;red jacket|红色夹克;halo|光环;hair ribbon|发带;black thighhighs|黑色过膝袜;long sleeves|长袖;pink skirt|粉色短裙;track jacket|运动外套;pleated skirt|百褶裙;miniskirt|迷你裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "吹雪",
+      "tag": "fubuki (blue archive)",
+      "charZh": "吹雪（蔚蓝档案）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;halo|光环;hair bow|蝴蝶结发饰;white jacket|白色夹克;blue vest|蓝色马甲;white shirt|白衬衫;long sleeves|长袖;blue necktie|蓝色领带;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "康娜",
+      "tag": "kanna (blue archive)",
+      "charZh": "康娜（蔚蓝档案）",
+      "auto": "blonde hair|金发;long hair|长发;uniform|制服;blue halo|蓝色光环;hair over one eye|遮单眼发;animal ear fluff|兽耳绒毛;blue shirt|蓝衬衫;collared shirt|翻领衬衫;long sleeves|长袖;blue necktie|蓝色领带;black gloves|黑色手套;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "木乃香",
+      "tag": "konoka (blue archive)",
+      "charZh": "木乃香（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "桐乃",
+      "tag": "kirino (blue archive)",
+      "charZh": "桐乃（蔚蓝档案）",
+      "auto": "white hair|白发;short hair|短发;purple eyes|紫瞳;blue halo|蓝色光环;twin braids|双辫;hairclip|发夹;police hat|警帽;policewoman|女警;white jacket|白色夹克;grey dress|灰色连衣裙;white gloves|白色手套",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "绘里",
+      "tag": "eri (blue archive)",
+      "charZh": "绘里（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;witch hat|女巫帽;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "冬",
+      "tag": "fuyu (blue archive)",
+      "charZh": "冬（蔚蓝档案）",
+      "auto": "black hair|黑发;short hair|短发;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "庚",
+      "tag": "kanoe (blue archive)",
+      "charZh": "庚（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "美代",
+      "tag": "miyo (blue archive)",
+      "charZh": "美代（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "丽奈",
+      "tag": "rena (blue archive)",
+      "charZh": "丽奈（蔚蓝档案）",
+      "auto": "brown hair|棕发;curly hair|卷发;long hair|长发;red eyes|红瞳;jacket|夹克",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "律",
+      "tag": "ritsu (blue archive)",
+      "charZh": "律（蔚蓝档案）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "阿洛娜",
+      "tag": "arona (blue archive)",
+      "charZh": "阿洛娜（蔚蓝档案）",
+      "auto": "blue hair|蓝发;short hair|短发;blue eyes|蓝眼;halo|头顶光环;beret|贝雷帽;sailor collar|水手领;white skirt|白裙;hair over one eye|遮单眼发;white choker|白色颈圈;white sailor collar|白色水手领;long sleeves|长袖;blue shirt|蓝衬衫;pleated skirt|百褶裙;white hairband|白色发箍",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "普拉娜",
+      "tag": "plana (blue archive)",
+      "charZh": "普拉娜（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;pink eyes|粉眼;halo|头顶光环;beret|贝雷帽;black serafuku|黑色水手服;hair over one eye|遮单眼发;black hairband|黑色发箍;black choker|黑色颈圈;white neckerchief|白色领巾;long sleeves|长袖;black sailor collar|黑色水手领;black pantyhose|黑色连裤袜;black coat|黑色大衣;black skirt|黑色短裙",
+      "subName": ""
+    },
+    {
+      "name": "白子（泳装）",
+      "tag": "shiroko (swimsuit) (blue archive)",
+      "charZh": "白子（泳装）",
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "auto": "1girl|一个女孩;wolf ears|狼耳;animal ear fluff|兽耳绒毛;extra ears|多余耳朵;blue eyes|蓝瞳;mismatched pupils|异瞳;grey hair|灰发;medium hair|中长发;cross hair ornament|十字发饰;ponytail|马尾;low ponytail|低马尾;medium breasts|中等胸;thighs|大腿;covered navel|隔衣显肚脐;competition swimsuit|竞速泳衣;black one-piece swimsuit|黑色连体泳装;multicolored swimsuit|彩色泳衣;highleg swimsuit;halo|光环;bare shoulders|露肩;long sleeves|长袖;white shirt|白衬衫;cycling uniform|骑行服;bike shorts|骑行裤;green gloves|绿手套;short sleeves|短袖;sweat|流汗"
+    },
+    {
+      "name": "优香（体操服）",
+      "tag": "yuuka (track) (blue archive)",
+      "charZh": "优香（体操服）",
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "auto": "1girl|一个女孩;purple eyes|紫瞳;blue eyes|蓝瞳;purple hair|紫发;long hair|长发;ponytail|马尾;medium breasts|中等胸;small breasts|小胸;thighs|大腿;sweat|流汗;gym uniform|体操服;black shirt|黑衬衫;blue jacket|蓝色夹克;track jacket|运动外套;mechanical halo|机械光环;halo|光环;short sleeves|短袖;sticker on face|面部贴纸;blue buruma|蓝色布鲁马;lanyard|挂绳;star sticker|星形贴纸;id card|证件卡"
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "空（Angel 24）",
+      "tag": "sora (blue archive)",
+      "charZh": "空 / 天使24店员（蔚蓝档案）",
+      "auto": "white hair|白发;blue eyes|蓝瞳;halo|光环;angel's 24 uniform (blue archive)|天使24便利店制服;white shirt|白衬衫;blue apron|蓝色围裙;short sleeves|短袖;collared shirt|翻领衬衫;white wings|白翼;hair ribbon|发带;id card|证件卡;black bowtie|黑色领结;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "联邦学生会长",
+      "tag": "general student council president (blue archive)",
+      "charZh": "联邦学生会长（蔚蓝档案）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;halo|光环;hair over one eye|遮单眼发;long sleeves|长袖;white skirt|白色短裙;white jacket|白色夹克;white dress|白色连衣裙;white shirt|白衬衫;long skirt|长裙;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "七神凛",
+      "tag": "rin (blue archive)",
+      "charZh": "七神凛（蔚蓝档案）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;pointy ears|尖耳;halo|光环;glasses|眼镜;white gloves|白色手套;blue necktie|蓝领带;earrings|耳环;black pantyhose|黑色连裤袜;white shirt|白衬衫;small breasts|小胸;large breasts|大胸;alternate costume|换装;bare shoulders|露肩;white dress|白色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "岩柜步梦",
+      "tag": "ayumu (blue archive)",
+      "charZh": "岩柜步梦（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;halo|光环;black wings|黑翼;forehead jewel|额头宝石;feathered wings|羽毛翅膀;blue necktie|蓝领带;white gloves|白色手套;white shirt|白衬衫;small breasts|小胸;large breasts|大胸;cleavage cutout|乳沟镂空;white dress|白色连衣裙;long sleeves|长袖;low wings|腰羽",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "由良木桃香",
+      "tag": "momoka (blue archive)",
+      "charZh": "由良木桃香（蔚蓝档案）",
+      "auto": "pink hair|粉发;medium hair|中长发;red eyes|红瞳;halo|光环;pointy ears|尖耳;demon wings|恶魔翅膀;white shirt|白衬衫;blue necktie|蓝领带;small breasts|小胸;white dress|白色连衣裙;sleeveless dress|无袖连衣裙;white jacket|白色夹克;potato chips|薯片;bare shoulders|露肩;bag of chips|薯片袋;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "栀子梦",
+      "tag": "yume (blue archive)",
+      "charZh": "栀子梦（蔚蓝档案）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;halo|光环;white shirt|白衬衫;collared shirt|翻领衬衫;pleated skirt|百褶裙;black gloves|黑色手套;long sleeves|长袖;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "扇喜葵",
+      "tag": "aoi (blue archive)",
+      "charZh": "扇喜葵（蔚蓝档案）",
+      "auto": "blue hair|蓝发;medium hair|中长发;blue eyes|蓝瞳;halo|光环;hairclip|发夹;white shirt|白衬衫;blue necktie|蓝领带;white gloves|白色手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "不知火卡娅",
+      "tag": "kaya (blue archive)",
+      "charZh": "不知火卡娅（蔚蓝档案）",
+      "auto": "pink hair|粉发;long hair|长发;red eyes|红瞳;halo|光环;glasses|眼镜;white shirt|白衬衫;blue necktie|蓝领带;black gloves|黑色手套;small breasts|小胸;white gloves|白色手套;long sleeves|长袖;sidelocks|鬓发;collared shirt|翻领衬衫;white skirt|白裙;white dress|白色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "七度雪乃",
+      "tag": "yukino (blue archive)",
+      "charZh": "七度雪乃（蔚蓝档案）",
+      "auto": "grey hair|灰发;long hair|长发;blue eyes|蓝瞳;halo|光环;fox ears|狐耳;military uniform|军装制服;beret|贝雷帽;black gloves|黑色手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "清澄晶",
+      "tag": "akira (blue archive)",
+      "charZh": "清澄晶（蔚蓝档案）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;halo|光环;cat ears|猫耳;cat tail|猫尾;phantom thief|怪盗;masquerade mask|舞会面具;white coat|白色外套;black gloves|黑色手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "箭吹棕榈",
+      "tag": "shuro (blue archive)",
+      "charZh": "箭吹棕榈（蔚蓝档案）",
+      "auto": "black hair|黑发;long hair|长发;yellow eyes|黄瞳;halo|光环;fox ears|狐耳;japanese clothes|日式传统服装;kimono|和服;wide sleeves|宽袖;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "蔚蓝档案",
+      "gameTag": "blue archive",
+      "name": "老师",
+      "tag": "sensei (blue archive)",
+      "charZh": "老师 / Sensei（蔚蓝档案）",
+      "auto": "black hair|黑发;short hair|短发;white shirt|白衬衫;necktie|领带;suit|西装;id card|证件卡;adult|成年人",
+      "subName": ""
+    },
+    {
+      "name": "尤斯蒂娜圣徒会信徒",
+      "tag": "justina follower (blue archive)",
+      "auto": "1girl|单人女性;halo|光环;veil|头纱;nun|修女;black hair|黑发"
+    },
+    {
+      "name": "李（蔚蓝档案）",
+      "tag": "sumomo (blue archive)",
+      "auto": "1girl|单人女性;halo|光环;short hair|短发;brown hair|棕发"
+    }
+  ],
+  "count": 158
+}

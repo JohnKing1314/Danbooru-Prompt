@@ -1,0 +1,5467 @@
+{
+  "id": "headwear",
+  "name": "头部",
+  "icon": "👑",
+  "parentId": "outfit_group",
+  "level": 2,
+  "order": 1,
+  "file": "outfit_group/outfit_group_headwear.json",
+  "updatedAt": "2026-11-22T12:39:36.668Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "fake animal ears",
+      "zh": "假兽耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 244630,
+      "desc": "发箍或兜帽上的非真实动物耳朵",
+      "kw": "假动物耳朵 / 人造兽耳 / 装饰兽耳 / 发箍兽耳 / 兽耳发箍 / 假兽耳饰 / 装饰性动物耳 / 假动物耳 / 付け耳 / つけ耳 / けもみみ(偽)"
+    },
+    {
+      "en": "scrunchie",
+      "zh": "大肠发圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 111554,
+      "desc": "布面包裹的弹性发圈，常戴在头发或手腕",
+      "kw": "大肠圈 / 布发圈 / 布面发圈 / 蓬松发圈 / 弹性发圈 / 发束圈 / 手戴发圈 / 发圈 / scrunchy / シュシュ / 大肠圈发圈"
+    },
+    {
+      "en": "pikachu ears",
+      "zh": "皮卡丘耳饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 360,
+      "desc": "类似皮卡丘耳朵的假耳或动物兜帽耳。",
+      "kw": "皮卡丘耳 / 皮卡耳 / 皮卡丘兽耳 / 皮卡丘造型耳朵 / 皮卡丘假耳 / 兽耳 / 宝可梦 / ピカ耳"
+    },
+    {
+      "en": "animal ear headphones",
+      "zh": "兽耳耳机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16398,
+      "desc": "带兽耳装饰的耳机",
+      "kw": "动物耳耳机 / 兽耳装饰耳机 / 猫耳耳机 / 兔耳耳机 / 耳朵耳机 / 动物耳朵耳机 / 耳机 / 兽耳"
+    },
+    {
+      "en": "bear ear headphones",
+      "zh": "熊耳耳机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 51
+    },
+    {
+      "en": "cat ear headphones",
+      "zh": "猫耳耳机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12533,
+      "desc": "结合猫耳发箍与耳机的设备",
+      "kw": "猫耳式耳机 / 猫耳头戴式耳机 / 猫耳耳麦 / 带猫耳的耳机 / 耳机 / 头戴 / 猫耳 / 猫耳ヘッドホン / 猫耳ヘッドフォン"
+    },
+    {
+      "en": "rabbit ear headphones",
+      "zh": "兔耳耳机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 902,
+      "desc": "带假兔耳、看起来像长在头上的耳机",
+      "kw": "兔子耳机 / 兔耳朵耳机 / 兔耳头戴式耳机 / 假兔耳耳机 / 耳机 / 头饰 / bunny ear headphones"
+    },
+    {
+      "en": "ear protection",
+      "zh": "防音耳罩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1958,
+      "desc": "防止噪声损伤听力的耳罩。",
+      "kw": "护耳器 / 听力保护耳罩 / 防噪耳罩 / 隔音耳罩 / 耳部保护器 / 防噪音耳罩 / 护耳耳罩 / 射击耳罩 / イヤーガード"
+    },
+    {
+      "en": "winged hairband",
+      "zh": "翅膀发带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 257,
+      "desc": "至少一侧带翅膀的发箍",
+      "kw": "带翼发箍 / 翅膀发箍 / 羽翼发箍 / 翼状发箍 / 带翅膀发卡 / 发饰 / 头饰"
+    },
+    {
+      "en": "winged hat",
+      "zh": "有翼帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4551,
+      "desc": "附有翅膀的帽子",
+      "kw": "带翅膀的帽子 / 翅膀帽子 / 翼帽 / 长翅膀的帽子 / 带翼帽 / 飞翼帽 / 翅膀帽 / 有翼帽子"
+    },
+    {
+      "en": "bridal veil",
+      "zh": "新娘头纱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23018,
+      "desc": "与婚纱搭配的新娘头纱。",
+      "kw": "婚礼头纱 / 婚纱头纱 / 头纱 / 新娘面纱 / 婚礼面纱 / 婚纱面纱 / 婚纱 / 头饰 / wedding veil"
+    },
+    {
+      "en": "hood",
+      "zh": "兜帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 455875,
+      "desc": "覆盖头颈的兜帽，可连接或独立",
+      "kw": "帽兜 / 头罩 / 连帽 / 风帽 / 帽子兜 / 兜头帽 / 套头帽 / 帽子 / 头巾 / 頭巾 / 후드 / フード"
+    },
+    {
+      "en": "cap",
+      "zh": "鸭舌帽",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "witch hat",
+      "zh": "女巫帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 140741,
+      "desc": "女巫常戴的尖顶宽檐帽，多为黑色。",
+      "kw": "魔女帽 / 魔法帽 / 尖顶帽 / 大尖帽 / 黑色尖顶帽 / 巫婆帽 / 小魔女帽 / witches hat / witchhat / brimmed wizard hat / 巫女帽"
+    },
+    {
+      "en": "straw hat",
+      "zh": "草帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34941,
+      "desc": "完全用稻草编成的帽子。",
+      "kw": "稻草帽 / 麦秆帽 / 麦草帽 / 草编帽 / 草笠 / 草帽子 / 帽子 / 乡村 / 麦わら帽子"
+    },
+    {
+      "en": "sun hat",
+      "zh": "遮阳帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43662,
+      "desc": "宽檐帽，用于遮挡阳光",
+      "kw": "太阳帽 / 宽檐帽 / 遮阳草帽 / 防晒帽 / 大檐帽 / 遮阳礼帽 / 帽子 / 头饰 / sunhat / 锷広帽 / 锷広帽子"
+    },
+    {
+      "en": "military hat",
+      "zh": "军帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33564,
+      "desc": "军服配套的帽子，不含头盔",
+      "kw": "军用帽子 / 军人帽 / 军事帽 / 部队帽 / 帽子 / 军事 / military cap / 軍帽"
+    },
+    {
+      "en": "nurse cap",
+      "zh": "护士帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36034,
+      "desc": "女护士佩戴的帽子，有时带十字标记。",
+      "kw": "护士帽子 / 护理帽 / 护士头饰 / 白衣天使帽 / 护士帽饰 / 医护帽 / 帽子 / 医护 / nurse hat / ナースキャップ"
+    },
+    {
+      "en": "butterfly hair ornament",
+      "zh": "蝴蝶发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38036,
+      "desc": "蝴蝶造型的发饰",
+      "kw": "蝴蝶发夹 / 蝴蝶发卡 / 蝴蝶头饰 / 蝴蝶发簪 / 蝴蝶发饰品 / 发饰 / 饰品"
+    },
+    {
+      "en": "feather hair ornament",
+      "zh": "羽毛发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27568,
+      "desc": "戴在头发上的羽毛装饰物。",
+      "kw": "羽毛头饰 / 发间羽毛 / 头发羽毛 / 羽毛发簪 / 羽毛发夹 / 羽饰 / 发饰 / 头饰 / hair feather / feather in hair / hair feathers"
+    },
+    {
+      "en": "heart hair ornament",
+      "zh": "心形发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47964,
+      "desc": "心形的发饰或发夹",
+      "kw": "爱心发夹 / 心形发夹 / 心形头饰 / 爱心头饰 / 心形发卡 / 发饰 / 饰品 / heart hairclip"
+    },
+    {
+      "en": "star hair ornament",
+      "zh": "星形发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 56872,
+      "desc": "星形的发饰或发夹",
+      "kw": "星星发夹 / 星形发夹 / 星星发卡 / 星形发卡 / 星星头饰 / 星形头饰 / 星星发箍"
+    },
+    {
+      "en": "crown",
+      "zh": "皇冠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 102429,
+      "desc": "王室传统佩戴的仪式用冠冕。",
+      "kw": "王冠 / 冠冕 / 王冠头饰 / 宝冠 / 头冠 / 冠 / 配饰 / 服装"
+    },
+    {
+      "en": "hat",
+      "zh": "帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1741557,
+      "desc": "戴在头上的帽子类服饰",
+      "kw": "帽 / 帽子类 / 戴帽 / 帽饰 / 帽具 / 帽类 / 头上帽 / 头饰 / 头饰 / 裸帽子"
+    },
+    {
+      "en": "helmet",
+      "zh": "头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 117178,
+      "desc": "保护头部免受伤害的护具",
+      "kw": "盔 / 安全帽 / 钢盔 / 防护头盔 / 盔帽 / 防护装备 / 头饰 / ヘルメット / フルフェイス"
+    },
+    {
+      "en": "aqua hat",
+      "zh": "水蓝色帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3260,
+      "desc": "水色（蓝绿色）的帽子",
+      "kw": "水色帽 / 蓝绿色帽子 / 水绿色帽子 / 浅蓝绿色帽子 / 浅青色帽子 / 碧色帽子 / 青绿色帽子 / 水色系帽子"
+    },
+    {
+      "en": "black hat",
+      "zh": "黑帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 262106,
+      "desc": "黑色的帽子。",
+      "kw": "黑色帽子 / 黑色帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "blue hat",
+      "zh": "蓝色帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 84369,
+      "desc": "颜色为蓝色的帽子。",
+      "kw": "蓝帽子 / 蓝帽 / 蓝色帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "brown hat",
+      "zh": "棕色帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 48368,
+      "desc": "棕色帽子，各种款式的统称",
+      "kw": "棕帽 / 棕色帽 / 咖啡色帽 / 茶色帽 / 褐色帽子 / 帽子 / 头饰"
+    },
+    {
+      "en": "green hat",
+      "zh": "绿色帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43221,
+      "desc": "呈绿色的帽子。",
+      "kw": "绿帽子 / 绿帽 / 绿色帽 / 绿色头帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "grey hat",
+      "zh": "灰帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17569,
+      "desc": "颜色为灰色的帽子",
+      "kw": "灰色帽 / 灰帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "orange hat",
+      "zh": "橙色帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8389,
+      "desc": "颜色为橙色的帽子",
+      "kw": "橘色帽子 / 橙色的帽子 / 橙色帽 / 橘色帽 / 帽子"
+    },
+    {
+      "en": "pink hat",
+      "zh": "粉色帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31223,
+      "desc": "戴在头上的粉色帽子",
+      "kw": "粉红帽子 / 粉帽 / 粉色帽 / 粉红帽 / 粉红色帽子 / 帽子 / 头饰"
+    },
+    {
+      "en": "purple hat",
+      "zh": "紫色帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26272,
+      "desc": "紫色帽子，泛指戴在头上的各类帽型",
+      "kw": "紫帽 / 紫色帽 / 紫帽子 / 帽子 / 头饰"
+    },
+    {
+      "en": "red hat",
+      "zh": "红帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 91164,
+      "desc": "戴在头上的红色帽子",
+      "kw": "红帽 / 红色礼帽 / 红色帽饰 / 红色鸭舌帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "white hat",
+      "zh": "白帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 180262,
+      "desc": "颜色为白色的帽子",
+      "kw": "白帽 / 白色帽 / 白色鸭舌帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "yellow hat",
+      "zh": "黄色帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13117,
+      "desc": "各种款式的黄色帽子。",
+      "kw": "黄帽 / 黄色帽 / 黄颜色帽 / 黄色遮阳帽 / 黄色鸭舌帽 / 黄帽子 / 帽子 / 黄色"
+    },
+    {
+      "en": "baseball cap",
+      "zh": "棒球帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 73633,
+      "desc": "带长帽檐、后部可调节的棒球帽",
+      "kw": "鸭舌帽 / 棒球鸭舌帽 / 弯檐棒球帽 / 平檐棒球帽 / 运动棒球帽 / 棒球遮阳帽 / 帽子 / 头饰 / 野球帽"
+    },
+    {
+      "en": "budenovka",
+      "zh": "布琼尼帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18
+    },
+    {
+      "en": "deerstalker",
+      "zh": "猎鹿帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4714,
+      "desc": "带前后帽檐和可系耳罩的猎鹿帽",
+      "kw": "猎帽 / 福尔摩斯帽 / 侦探帽 / 双檐帽 / 帽子 / 配饰 / 鹿撃ち帽"
+    },
+    {
+      "en": "dianzi",
+      "zh": "钿子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 96,
+      "desc": "满洲族传统半圆形帽，常用于清代装束",
+      "kw": "满洲钿子 / 满族钿子 / 满族头饰钿子 / 钿子帽 / 旗头钿子"
+    },
+    {
+      "en": "field cap",
+      "zh": "野战帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 521,
+      "desc": "带硬帽檐、帽顶平的军用巡逻帽",
+      "kw": "巡逻帽 / 军用巡逻帽 / 作训帽 / 平顶军帽 / 帽子 / 军帽 / patrol cap / パトロールキャップ"
+    },
+    {
+      "en": "kepi",
+      "zh": "平顶军帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3142,
+      "desc": "带帽檐的平顶圆筒军帽，常见于法国军队",
+      "kw": "法式军帽 / 平顶圆筒军帽 / 法国军帽 / 凯皮 / 圆筒军帽 / 军帽 / 帽子 / ケピ帽 / ケピ"
+    },
+    {
+      "en": "m43 field cap",
+      "zh": "M43野战帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 66,
+      "desc": "二战德军使用的M43型野战帽。",
+      "kw": "M43军帽 / 德军M43帽 / M43野战便帽 / M43战斗帽 / M43山地帽 / M43制式帽"
+    },
+    {
+      "en": "mao cap",
+      "zh": "解放帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32
+    },
+    {
+      "en": "newsboy cap",
+      "zh": "报童帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29002,
+      "desc": "前面有短硬帽檐、顶部圆鼓的报童帽，别与贝雷帽混淆",
+      "kw": "八角帽 / 司机帽 / 出租司机帽 / 的士帽 / 报童八角帽 / 帽子 / 头饰 / cabbie hat"
+    },
+    {
+      "en": "peaked cap",
+      "zh": "大檐帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62014,
+      "desc": "军警等制服搭配的带檐帽",
+      "kw": "大盖帽 / 军帽 / 警帽 / 制服帽 / 带檐帽 / 官帽 / 军官帽 / 大檐军帽 / 军警帽 / かんぼう"
+    },
+    {
+      "en": "rogatywka",
+      "zh": "波兰四角军帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33
+    },
+    {
+      "en": "shako cap",
+      "zh": "高筒军帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5597,
+      "desc": "带帽檐的高筒圆筒军帽",
+      "kw": "高顶军帽 / 高筒帽 / 沙科帽 / 沙克帽 / 夏科帽 / 高顶圆筒军帽 / 高筒军礼帽 / 长筒军帽 / 军帽（高顶） / シャコー帽"
+    },
+    {
+      "en": "mini shako cap",
+      "zh": "迷你军帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 284,
+      "desc": "形状像筒形军帽Shako的迷你帽子",
+      "kw": "迷你筒形军帽 / 迷你沙科帽 / 迷你高筒军帽 / 小Shako帽 / 迷你shako帽 / 帽子 / 军帽"
+    },
+    {
+      "en": "bicorne",
+      "zh": "双角帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2129,
+      "desc": "帽檐向上翻成两个角的双角帽",
+      "kw": "二角帽 / 两角帽 / 双角礼帽 / 拿破仑帽 / 海军双角帽 / 翻角帽 / 二角帽子 / 双角军帽 / bicorne hat"
+    },
+    {
+      "en": "boater hat",
+      "zh": "平顶草帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2444,
+      "desc": "平顶平檐、帽冠系缎带的硬草帽",
+      "kw": "划船帽 / 康康帽 / 平顶硬草帽 / 船工帽 / 水手草帽 / 平顶草编帽 / 硬草帽 / 帽子 / カンカン帽"
+    },
+    {
+      "en": "boonie hat",
+      "zh": "奔尼帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 303,
+      "desc": "热带军用宽檐帽，类似渔夫帽但帽檐更硬。",
+      "kw": "丛林帽 / 圆边帽 / 宽檐军帽 / 布尼帽 / 波尼帽 / 热带军帽 / 帽子 / 军帽 / ブーニーハット"
+    },
+    {
+      "en": "bowler hat",
+      "zh": "圆顶硬礼帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1957,
+      "desc": "圆顶卷边硬礼帽，19世纪起源于英国。",
+      "kw": "圆顶礼帽 / 波乐帽 / 保龄帽 / 卷边圆顶礼帽 / 山高帽 / 礼帽 / 帽子"
+    },
+    {
+      "en": "bucket hat",
+      "zh": "渔夫帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3957,
+      "desc": "宽而下垂帽檐的软棉帽，常用于钓鱼",
+      "kw": "水桶帽 / 盆帽 / 桶帽 / 垂檐帽 / 宽檐渔夫帽 / 钓鱼帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "campaign hat",
+      "zh": "宽檐平顶军帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 72,
+      "desc": "帽冠四角对称捏褶的宽檐毡帽",
+      "kw": "宽边毡帽 / 蒙大拿帽 / 骑警帽 / 游骑兵帽 / 护林员帽 / 四角凹顶帽"
+    },
+    {
+      "en": "cavalier hat",
+      "zh": "骑士帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 551,
+      "desc": "带大羽毛、可折边的宽檐帽",
+      "kw": "火枪手帽 / 火枪手宽檐帽 / 羽毛宽檐帽 / 骑士宽檐帽 / 17世纪骑士帽 / 帽子 / 头饰 / 骑士风格"
+    },
+    {
+      "en": "cloche hat",
+      "zh": "钟形帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 125,
+      "desc": "20世纪20年代流行的钟形紧贴帽。",
+      "kw": "钟型帽 / 克洛什帽 / 贴身钟帽 / 复古钟形帽 / 1920年代钟形帽 / 帽子 / 复古帽"
+    },
+    {
+      "en": "cowboy hat",
+      "zh": "牛仔帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14066,
+      "desc": "牛仔戴的宽檐帽",
+      "kw": "西部帽 / 牛仔宽檐帽 / 德州帽 / 十加仑帽 / 牛仔礼帽 / 宽檐牛仔帽 / 头饰 / 帽子 / テンガロンハット"
+    },
+    {
+      "en": "ajirogasa",
+      "zh": "网代笠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2570,
+      "desc": "日本僧人常戴的网代笠斗笠。",
+      "kw": "桧笠 / 竹笠 / 斗笠 / 僧侣斗笠 / 代良笠 / 日本风格 / 帽子 / 头饰 / 網代笠 / 被り笠 / 삿갓 / 檜笠"
+    },
+    {
+      "en": "amigasa",
+      "zh": "编笠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 83,
+      "desc": "阿波舞者常戴的编笠草帽",
+      "kw": "阿波舞草帽 / 编笠帽 / 圆盘草帽 / 折叠笠帽 / 半圆草帽"
+    },
+    {
+      "en": "ayaigasa",
+      "zh": "绫蔺笠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16
+    },
+    {
+      "en": "ichimegasa",
+      "zh": "市女笠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 453,
+      "desc": "日本传统草编女用斗笠，顶部有突起、四周垂纱",
+      "kw": "市女斗笠 / 市女草帽 / 日本女用垂纱斗笠 / 帽子 / 日本传统 / 和风"
+    },
+    {
+      "en": "roningasa",
+      "zh": "浪人笠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 64,
+      "desc": "浪人所戴的圆锥形草帽，可拉下遮脸",
+      "kw": "浪人草帽 / 浪人草笠 / 浪人编笠 / 浪人斗笠帽 / 编笠"
+    },
+    {
+      "en": "sandogasa",
+      "zh": "三度笠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 578,
+      "desc": "边缘下垂的传统日式圆形草帽",
+      "kw": "日式草帽 / 垂边草帽 / 日本斗笠 / 斗笠 / 日本传统帽子"
+    },
+    {
+      "en": "torioigasa",
+      "zh": "鸟追笠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28
+    },
+    {
+      "en": "ba tam",
+      "zh": "三八帽",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rice hat",
+      "zh": "斗笠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1614,
+      "desc": "亚洲稻农传统戴的圆锥形草帽。",
+      "kw": "草帽 / 竹笠 / 雨笠 / 稻草木帽 / 尖顶草帽 / 菅笠 / 帽子 / 亚洲风"
+    },
+    {
+      "en": "fascinator",
+      "zh": "小礼帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2301,
+      "desc": "羽毛、花、网纱等制成的女用装饰性头饰",
+      "kw": "网纱小礼帽 / 小礼帽 / 鸡尾酒帽 / 羽毛头饰 / 花饰头饰 / 装饰性小帽 / 发饰小帽 / 礼帽饰 / ファシネーター / カクテルハット"
+    },
+    {
+      "en": "fedora",
+      "zh": "软呢帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10457,
+      "desc": "帽顶有纵向折痕、前侧捏褶的软呢帽。",
+      "kw": "呢帽 / 毛呢帽 / 爵士帽 / 费多拉帽 / 浅顶软呢帽 / 帽子 / 复古风 / ソフト帽"
+    },
+    {
+      "en": "female service cap",
+      "zh": "女性大檐帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1291,
+      "desc": "组织配发的女性制服帽，常为无檐或翻边样式。",
+      "kw": "女式服务帽 / 女用制帽 / 女兵帽 / 无檐女帽 / 乘务员帽 / 帽子 / 军帽"
+    },
+    {
+      "en": "flat cap",
+      "zh": "鸭舌帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16010,
+      "desc": "帽顶扁平、帽檐短硬的软帽",
+      "kw": "平顶鸭舌帽 / 猎帽 / 报童帽 / 司机帽 / 八角帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "gat (hat)",
+      "zh": "笠帽（韩式）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 509,
+      "desc": "朝鲜传统宽檐圆柱形黑帽，旧时贵族所戴",
+      "kw": "朝鲜黑笠 / 韩式笠帽 / 朝鲜族笠帽 / 黑笠 / 朝鲜传统帽 / 韩式黑笠 / 笠 / 帽子 / gat"
+    },
+    {
+      "en": "paeraengi",
+      "zh": "竹编帽",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "jingasa",
+      "zh": "阵笠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7000,
+      "desc": "日本士兵戴的宽檐圆锥形阵笠",
+      "kw": "日本兵笠 / 阵笠帽 / 日式阵笠 / 日本战笠 / 日本风 / 头饰 / 陣笠"
+    },
+    {
+      "en": "mob cap",
+      "zh": "女仆帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 110795,
+      "desc": "18-19世纪已婚女性室内戴的圆形褶边软帽",
+      "kw": "莫布帽 / 褶边软帽 / 室内软帽 / 荷叶边帽 / 布软帽 / 女式软帽 / 褶边女帽 / 暴民帽 / pillowhat / pillow hat / 睡帽 / モブキャップ"
+    },
+    {
+      "en": "picture hat",
+      "zh": "宽边仕女帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 417,
+      "desc": "装饰华丽、宽檐的女式帽子",
+      "kw": "宽檐女帽 / 华丽宽檐帽 / 花式宽檐帽 / 装饰宽檐帽 / 宽檐装饰帽 / 帽子 / 头饰 / 宽檐帽 / gainsborough hat"
+    },
+    {
+      "en": "pirate hat",
+      "zh": "海盗帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8542,
+      "desc": "海盗常戴、正面带骷髅标志的双角或三角帽",
+      "kw": "海贼帽 / 海盗船长帽 / 海贼帽子 / 海盗三角帽 / 海盗 / 帽子 / 海賊帽子"
+    },
+    {
+      "en": "pith helmet",
+      "zh": "木髓帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3341,
+      "desc": "用软木或木髓制成的轻便遮阳头盔",
+      "kw": "木髓盔 / 探险帽 / 殖民帽 / 软木遮阳帽 / 凉盔 / 热带头盔 / 探险头盔 / 遮阳帽 / safari hat"
+    },
+    {
+      "en": "porkpie hat",
+      "zh": "平顶圆帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4310,
+      "desc": "平顶、帽檐微微上卷的猪肉派帽",
+      "kw": "猪肉派帽 / 猪扒帽 / 平顶卷边帽 / 卷边平顶帽 / 爵士帽 / 平顶帽 / 帽子 / 复古"
+    },
+    {
+      "en": "shampoo hat",
+      "zh": "洗发帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 245,
+      "desc": "洗澡时戴的挡水挡洗发水的带檐帽",
+      "kw": "洗发水帽 / 洗发挡帽 / 儿童洗头帽 / 洗头保护帽 / 洗头挡水帽 / 洗头浴帽 / 洗发护耳帽 / シャンプーハット"
+    },
+    {
+      "en": "sombrero",
+      "zh": "墨西哥宽边帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 692,
+      "desc": "墨西哥宽檐帽，常为草编并上翘",
+      "kw": "墨西哥宽檐帽 / 墨西哥草帽 / 宽边帽 / 大檐帽 / 墨西哥帽 / 草编帽 / 墨西哥大草帽 / 墨西哥乐队帽"
+    },
+    {
+      "en": "top hat",
+      "zh": "高礼帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49035,
+      "desc": "维多利亚时代流行的高顶礼帽，常见于上流社会或魔术师。",
+      "kw": "礼帽 / 高帽 / 大礼帽 / 魔术帽 / 高顶帽 / 帽子 / 西方风 / tophat / magician hat / シルクハット"
+    },
+    {
+      "en": "mini top hat",
+      "zh": "迷你礼帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15196,
+      "desc": "尺寸小巧的高顶礼帽，常见于洛丽塔等风格。",
+      "kw": "小礼帽 / 小高帽 / 微型高顶帽 / 迷你高帽 / 小顶帽 / 迷你大礼帽 / 袖珍高顶帽 / mini tophat / tiny top hat"
+    },
+    {
+      "en": "tricorne",
+      "zh": "三角帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4244,
+      "desc": "帽檐向上翻成三个角的帽子",
+      "kw": "海盗帽 / 翻边三角帽 / 三尖帽 / 三角礼帽 / 帽子 / 海盗 / tricorne hat"
+    },
+    {
+      "en": "trilby",
+      "zh": "窄檐软呢帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 222,
+      "desc": "帽檐短窄、后檐上翻的毡帽，常被误认为软呢帽。",
+      "kw": "软呢帽（短檐） / 短檐软呢帽 / 特利比帽 / 小檐呢帽 / 窄檐毡帽 / 后檐上翻帽 / 毡帽（短檐）"
+    },
+    {
+      "en": "tulip hat",
+      "zh": "郁金香帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1839,
+      "desc": "形似郁金香的无檐帽，由竖条拼接而成。",
+      "kw": "郁金香帽子 / 郁金香形帽 / 郁金香无檐帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "mini witch hat",
+      "zh": "迷你魔女帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 991,
+      "desc": "形状像女巫帽的迷你帽子",
+      "kw": "小女巫帽 / 迷你巫婆帽 / 女巫小帽 / 迷你巫师帽 / 小型女巫帽 / 魔女帽 / 帽子"
+    },
+    {
+      "en": "wizard hat",
+      "zh": "巫师帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7663,
+      "desc": "无檐细长锥形的魔法师帽子",
+      "kw": "魔法师帽 / 无檐巫师帽 / 尖顶法师帽 / 法帽 / 帽子 / 魔法 / 奇幻 / brimless witch hat"
+    },
+    {
+      "en": "earflap beanie",
+      "zh": "护耳针织帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 785,
+      "desc": "两侧带护耳片的毛线帽",
+      "kw": "护耳帽 / 带护耳帽 / 耳片毛线帽 / 耳罩帽 / 毛线护耳帽 / 帽子 / 冬季帽"
+    },
+    {
+      "en": "ushanka",
+      "zh": "雷锋帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3710,
+      "desc": "带护耳的俄罗斯皮帽",
+      "kw": "苏联帽 / 俄式皮毛帽 / 护耳冬帽 / 乌香卡 / 哥萨克帽 / 俄罗斯帽 / 护耳皮帽 / ロシア帽 / ウシャンカ"
+    },
+    {
+      "en": "ayam hat",
+      "zh": "额掩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10
+    },
+    {
+      "en": "bashlik",
+      "zh": "巴什利克帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "beanie",
+      "zh": "毛线帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37040,
+      "desc": "贴合头部的无檐针织帽，常见翻边款式。",
+      "kw": "冷帽 / 绒线帽 / 无檐帽 / 无檐针织帽 / 毛线便帽 / 包头帽 / 保暖帽 / tuque / toque"
+    },
+    {
+      "en": "beret",
+      "zh": "贝雷帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 154700,
+      "desc": "扁平圆顶无帽檐的软帽。",
+      "kw": "贝雷 / 画家帽 / 法兰西帽 / 扁帽 / 军帽 / 帽子 / 头饰 / ベレー"
+    },
+    {
+      "en": "coif",
+      "zh": "紧贴帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3746,
+      "desc": "中世纪男女皆戴的紧贴头帽",
+      "kw": "贴头帽 / 软帽 / 科伊夫帽 / 中世纪软帽 / 紧身头巾 / 头饰 / 中世纪"
+    },
+    {
+      "en": "dixie cup hat",
+      "zh": "水兵帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3113,
+      "desc": "美国海军水兵戴的白色翻边帽。",
+      "kw": "水手帽 / 海军帽 / 白色水兵帽 / 翻边水兵帽 / 帽子 / 军帽 / 海军"
+    },
+    {
+      "en": "donald duck sailor hat",
+      "zh": "唐老鸭水手帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50,
+      "desc": "美国海军水手戴的扁平帽，因唐老鸭常戴而得名",
+      "kw": "唐老鸭海军帽 / 美式水手帽 / 唐老鸭帽 / 美式水兵帽 / 美国海军水手帽"
+    },
+    {
+      "en": "dunce cap",
+      "zh": "笨蛋帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32
+    },
+    {
+      "en": "fez hat",
+      "zh": "土耳其毯帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 245,
+      "desc": "圆筒形带流苏的无檐帽，常见为红色。",
+      "kw": "菲斯帽 / 土耳其帽 / 非斯帽 / 带流苏圆帽 / 帽子 / 中东风"
+    },
+    {
+      "en": "flight attendant hat",
+      "zh": "空乘帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 115,
+      "desc": "女性空乘佩戴的圆顶折檐制服帽",
+      "kw": "空乘制服帽 / 空姐制服帽 / 航空服务员帽 / 飞行服务员帽 / 客舱乘务员帽 / 空乘人员帽 / 头饰"
+    },
+    {
+      "en": "fur hat",
+      "zh": "皮草帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9343,
+      "desc": "整体由毛皮制成的帽子，常关联俄罗斯风格。",
+      "kw": "毛皮帽子 / 皮帽 / 裘皮帽 / 毛绒帽 / 帽子 / 毛帽"
+    },
+    {
+      "en": "bearskin cap",
+      "zh": "熊皮帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 58,
+      "desc": "仪仗队戴的高筒熊皮帽。",
+      "kw": "熊皮高帽 / 高筒熊皮帽 / 皇家卫队熊皮帽 / 礼仪熊皮帽"
+    },
+    {
+      "en": "papakha",
+      "zh": "帕帕卡帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2340,
+      "desc": "高加索地区男性戴的毛皮圆帽",
+      "kw": "帕帕克帽 / 阿斯特拉罕皮帽 / 高加索皮帽 / 俄罗斯毛皮帽 / 高加索羊毛帽 / 毛帽 / 俄罗斯风"
+    },
+    {
+      "en": "garrison cap",
+      "zh": "船形帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15145,
+      "desc": "两侧直、顶部向后斜折的折叠式军帽，形似船。",
+      "kw": "军便帽 / 军营帽 / 侧边帽 / 折叠军帽 / 船型帽 / 船形军帽 / 军帽 / 帽子 / pilotka / ギャリソンキャップ"
+    },
+    {
+      "en": "hennin",
+      "zh": "尖顶高帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 103,
+      "desc": "中世纪欧洲贵族女性佩戴的高尖顶圆锥形帽子",
+      "kw": "尖顶女帽 / 海宁帽 / 高尖顶女帽 / 中世纪尖顶帽 / 圆锥尖顶帽 / 尖锥女帽 / 头饰"
+    },
+    {
+      "en": "kippah",
+      "zh": "小圆帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17
+    },
+    {
+      "en": "mian guan",
+      "zh": "冕冠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 351,
+      "desc": "中国、日本等东亚古代帝王所戴的平顶垂珠礼冠",
+      "kw": "冕旒 / 帝王冠 / 平天冠 / 垂珠冠 / 旒冕 / 中国风 / 古装头饰 / mianguan"
+    },
+    {
+      "en": "mitre",
+      "zh": "主教冠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1800,
+      "desc": "基督教主教、枢机等佩戴的高尖礼帽",
+      "kw": "主教帽 / 司教冠 / 高尖礼帽 / 天主教主教帽 / 帽子 / 宗教服饰 / ミトラ(冠)"
+    },
+    {
+      "en": "mortarboard",
+      "zh": "学士帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1078,
+      "desc": "毕业典礼上戴的方形学士帽，顶部有流苏。",
+      "kw": "学位帽 / 毕业帽 / 四方帽 / 博士帽 / 学士方帽 / 毕业方帽 / 流苏方帽 / 帽子 / graduation cap / graduate cap / 角帽 / モルタルボード"
+    },
+    {
+      "en": "nightcap",
+      "zh": "睡帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5928,
+      "desc": "睡觉时戴的布帽，类似圣诞帽",
+      "kw": "睡眠帽 / 睡觉帽 / 寝帽 / 眠帽 / 帽子 / sleeping cap / sleeping hat"
+    },
+    {
+      "en": "party hat",
+      "zh": "派对帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5711,
+      "desc": "生日聚会常戴的小圆锥形帽子。",
+      "kw": "生日帽 / 聚会帽 / 派对帽子 / 生日派对帽 / 尖顶帽 / 圆锥纸帽 / 彩帽 / 帽子 / party hats / birthday hat"
+    },
+    {
+      "en": "pillbox hat",
+      "zh": "药盒帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5400,
+      "desc": "平顶、无帽檐的圆形小帽，多为女性佩戴。",
+      "kw": "药盒帽子 / 药盒型小帽 / 平顶无檐帽 / 无檐圆帽 / 平顶小圆帽 / 帽子 / 复古帽 / ピルボックス帽"
+    },
+    {
+      "en": "qingdai guanmao",
+      "zh": "清代官帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6236,
+      "desc": "清代官员所戴圆顶官帽，常见于僵尸形象",
+      "kw": "清朝官帽 / 清官帽 / 清朝官员帽 / 僵尸帽 / 暖帽 / 顶戴花翎 / 中国风 / 古风 / qing guanmao / jiangshi hat"
+    },
+    {
+      "en": "guapi mao",
+      "zh": "瓜皮帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45
+    },
+    {
+      "en": "sailor hat",
+      "zh": "水手帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22899,
+      "desc": "海军水手戴的无檐平顶帽，常带舰名飘带。",
+      "kw": "水兵帽 / 海军帽 / 平顶水手帽 / 海员帽 / 水手无檐帽 / 帽子 / 海军 / sailor cap"
+    },
+    {
+      "en": "sajkaca",
+      "zh": "塞尔维亚传统军帽",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "santa hat",
+      "zh": "圣诞帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49191,
+      "desc": "红色白毛边尖顶帽，顶端有白色绒球。",
+      "kw": "圣诞帽子 / 圣诞老人帽 / 圣诞节帽 / 红色圣诞帽 / 圣诞红帽 / 圣诞 / 节日 / 帽子 / stocking cap / christmas hat / サンタ帽"
+    },
+    {
+      "en": "mini santa hat",
+      "zh": "迷你圣诞帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 429,
+      "desc": "尺寸较小的圣诞帽",
+      "kw": "小圣诞帽 / 迷你圣诞老人帽 / 小型圣诞帽 / 圣诞小帽 / 圣诞帽 / 节日 / tiny santa hat"
+    },
+    {
+      "en": "songkok",
+      "zh": "宋谷帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "tam o' shanter",
+      "zh": "苏格兰圆帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3538,
+      "desc": "顶部带绒球的苏格兰传统平顶帽",
+      "kw": "塔姆帽 / 苏格兰帽 / 绒球帽 / 平顶绒球帽 / 苏格兰传统帽 / 帽子 / 苏格兰风格"
+    },
+    {
+      "en": "tate eboshi",
+      "zh": "立乌帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13870,
+      "desc": "平安时代起日本男性贵族戴的高筒黑帽，常配狩衣",
+      "kw": "乌帽子 / 立乌帽 / 高筒乌帽 / 直立乌帽子 / 公家乌帽子 / 黑色高帽 / 立惠帽 / 日本风 / 立烏帽子 / 烏帽子 / 冠"
+    },
+    {
+      "en": "tengai (hat)",
+      "zh": "笼状编织竹帽",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tokin hat",
+      "zh": "头襟帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47824,
+      "desc": "山伏或天狗戴在额头上的小箱形帽",
+      "kw": "头襟 / 顶巾 / 小帽 / 山伏头帽 / 头巾帽 / 头饰 / 帽子 / tokin / 頭襟 / ときん"
+    },
+    {
+      "en": "tsunokakushi",
+      "zh": "角隐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 116,
+      "desc": "日本传统婚礼中新娘戴的白色头饰。",
+      "kw": "新娘头纱 / 婚礼角隐 / 白角隐 / 头饰 / 帽子 / 婚礼头饰"
+    },
+    {
+      "en": "xiezhi guan",
+      "zh": "獬豸冠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 180,
+      "desc": "中国古代执法官员所戴的獬豸冠，矩形上缘外张，常饰流苏",
+      "kw": "獬豸帽 / 獬豸冠冕 / 獬豸头冠 / 法冠 / 中国风 / 古风 / 头饰"
+    },
+    {
+      "en": "animal hat",
+      "zh": "动物帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20278,
+      "desc": "形似动物头部的帽子，如猫帽、兔帽。",
+      "kw": "动物帽子 / 兽耳帽 / 动物头帽 / 仿动物帽 / 动物头套帽 / 动物造型帽子 / 帽子 / 头饰"
+    },
+    {
+      "en": "hat with ears",
+      "zh": "带耳朵的帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2216,
+      "desc": "自带假兽耳的帽子",
+      "kw": "带兽耳的帽子 / 兽耳帽 / 耳朵帽 / 有耳帽子 / 有耳朵的帽子 / 帽子 / 头饰 / 动漫风 / hat ears"
+    },
+    {
+      "en": "deviruchi hat",
+      "zh": "恶魔波利帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 184,
+      "desc": "《仙境传说》中带两只高耳的深色豆帽",
+      "kw": "小恶魔帽 / 恶魔帽 / RO小恶魔帽子 / 仙境传说小恶魔帽子 / 小恶魔头饰 / 恶魔小帽 / 德维露奇帽子 / 帽子"
+    },
+    {
+      "en": "bear hat",
+      "zh": "熊帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 541,
+      "desc": "熊造型的帽子",
+      "kw": "熊帽子 / 小熊帽 / 熊造型帽子 / 熊耳帽 / 帽子 / 动物帽"
+    },
+    {
+      "en": "rabbit hat",
+      "zh": "兔耳帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1677,
+      "desc": "兔子造型的动物帽子。",
+      "kw": "兔子帽子 / 兔帽 / 兔子造型帽 / 小兔帽 / 帽子 / 头饰 / 动物主题 / bunny hat"
+    },
+    {
+      "en": "cat hat",
+      "zh": "猫耳帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6655,
+      "desc": "带猫耳或整只猫造型的帽子。",
+      "kw": "猫咪帽子 / 猫造型帽子 / 带猫耳的帽子 / 猫耳 / 帽子 / cathat"
+    },
+    {
+      "en": "dog hat",
+      "zh": "狗头帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 197,
+      "desc": "做成狗头造型的帽子",
+      "kw": "狗帽 / 狗狗帽 / 狗头造型帽 / 小狗帽子 / 动物帽子 / 头饰"
+    },
+    {
+      "en": "fox hat",
+      "zh": "狐狸帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 560,
+      "desc": "狐狸造型的动物帽",
+      "kw": "狐狸耳朵帽 / 狐狸造型帽 / 狐耳帽子 / 狐狸动物帽 / 狐帽 / 帽子 / 动物帽"
+    },
+    {
+      "en": "penguin hat",
+      "zh": "企鹅帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 380,
+      "desc": "企鹅造型的帽子",
+      "kw": "企鹅帽子 / 企鹅造型帽 / 企鹅头套 / 企鹅头帽 / 企鹅帽兜 / 企鹅帽饰 / 帽子 / 动物帽"
+    },
+    {
+      "en": "wolf hat",
+      "zh": "狼帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 167,
+      "desc": "外形像狼的帽子",
+      "kw": "狼形帽 / 狼造型帽子 / 狼耳帽 / 灰狼帽 / 头饰 / 帽子 / 动物帽"
+    },
+    {
+      "en": "pumpkin hat",
+      "zh": "南瓜帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1307,
+      "desc": "仿南瓜造型的帽子，也可为南瓜头套",
+      "kw": "南瓜帽子 / 南瓜头套 / 南瓜头盔 / 南瓜造型帽 / 杰克南瓜帽 / 帽子 / 万圣节"
+    },
+    {
+      "en": "adrian helmet",
+      "zh": "亚德里安头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 53,
+      "desc": "一战法国军队首先使用的阿德里安头盔，带防弹脊",
+      "kw": "法国钢盔 / M15阿德里安头盔 / 阿德里安钢盔 / 一战法军钢盔"
+    },
+    {
+      "en": "altyn helmet",
+      "zh": "阿尔金头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 379,
+      "desc": "苏联带金属面罩的钛合金头盔",
+      "kw": "阿尔金钢盔 / 阿尔金防弹头盔 / 苏联阿尔金头盔 / 头盔 / 防护装备 / altyn"
+    },
+    {
+      "en": "american football helmet",
+      "zh": "美式橄榄球头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 242,
+      "desc": "美式橄榄球头盔，一般带金属面罩。",
+      "kw": "美式足球头盔 / 橄榄球头盔 / 美式橄榄球盔 / 美式足球盔 / NFL头盔 / 美式橄榄球防护头盔 / 美式足球防护头盔 / 美式橄榄球头套"
+    },
+    {
+      "en": "animal ear helmet",
+      "zh": "兽耳头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 979,
+      "desc": "带假兽耳的头盔，常为容纳真兽耳",
+      "kw": "动物耳头盔 / 兽耳盔 / 兽耳帽子 / 带耳头盔 / 头盔 / 兽耳"
+    },
+    {
+      "en": "baseball helmet",
+      "zh": "棒球头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 938,
+      "desc": "棒球击球员为保护头部戴的头盔",
+      "kw": "棒球打者头盔 / 棒球击球员头盔 / 棒球防护头盔 / 棒球护盔 / 头饰 / 帽子 / 运动头盔 / 防护帽 / batting helmet"
+    },
+    {
+      "en": "bicycle helmet",
+      "zh": "自行车头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 494,
+      "desc": "骑自行车时保护头部的头盔",
+      "kw": "单车头盔 / 脚踏车头盔 / 骑行头盔 / 自行车安全帽 / 骑车头盔 / 头盔 / 防护装备"
+    },
+    {
+      "en": "brodie helmet",
+      "zh": "布罗迪头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 468,
+      "desc": "一战英军使用的宽边钢盔，也称为汤米头盔",
+      "kw": "布洛迪头盔 / 汤米头盔 / 一战英军钢盔 / 碟形头盔 / 英军钢盔 / 宽边钢盔 / 头饰 / 帽子 / ブロディヘルメット"
+    },
+    {
+      "en": "diving helmet",
+      "zh": "潜水头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 315,
+      "desc": "配合潜水服使用的头盔，旧式铜制潜水头盔见 standard diving dress。",
+      "kw": "潜水盔 / 潜水头罩 / 潜水帽 / 铜制潜水头盔 / 头盔 / 装备 / ダイビングヘルメット"
+    },
+    {
+      "en": "dragoon helmet",
+      "zh": "龙骑兵头盔",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "fishbowl helmet",
+      "zh": "鱼缸头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1315,
+      "desc": "类似鱼缸或气泡的球形头盔。",
+      "kw": "球形头盔 / 泡泡头盔 / 玻璃球头盔 / 圆形头盔 / 太空头盔 / 头盔 / 科幻"
+    },
+    {
+      "en": "hard hat",
+      "zh": "安全帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2195,
+      "desc": "工地使用的强化塑料安全帽，常见黄色带绿条纹。",
+      "kw": "工程帽 / 施工安全帽 / 建筑安全帽 / 工地帽 / 防护帽 / 硬质安全帽 / 安全头盔 / 帽子 / construction helmet / safety helmet / hardhat / ハードハット"
+    },
+    {
+      "en": "headlamp",
+      "zh": "头灯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4588,
+      "desc": "戴在头上的小型照明灯，可解放双手",
+      "kw": "头戴灯 / 额灯 / 头戴式照明灯 / 矿灯 / 头灯手电 / 帽灯 / 照明设备"
+    },
+    {
+      "en": "helm",
+      "zh": "全罩式头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4886,
+      "desc": "中世纪完全包裹头部的骑士头盔",
+      "kw": "中世纪全盔 / 骑士头盔 / 桶盔 / 全封闭头盔 / 全盔 / 舵 / 船舵 / 航海设备 / 兜 / ヘルム / フルフェイスヘルム"
+    },
+    {
+      "en": "horned helmet",
+      "zh": "角盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6895,
+      "desc": "设计上带有角的头盔",
+      "kw": "有角头盔 / 带角盔 / 角状头盔 / 双角头盔 / 带角的头盔 / 牛角盔 / 头盔"
+    },
+    {
+      "en": "kabuto (helmet)",
+      "zh": "兜（头盔）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1714,
+      "desc": "日本武士戴的传统头盔兜",
+      "kw": "日本头盔 / 武士头盔 / 日式头盔 / 兜盔 / 武士兜 / 兜 (头盔) / 头盔 / 武士盔 / samurai helmet / kabuto / 冑"
+    },
+    {
+      "en": "kettle helm",
+      "zh": "锅盔头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 191,
+      "desc": "带帽檐的锅形铁盔。",
+      "kw": "壶盔 / 锅形盔 / 战争帽盔 / 宽檐盔 / 水壶铁盔 / 锅盔 / 头盔 / 盔甲"
+    },
+    {
+      "en": "m1 helmet",
+      "zh": "M1钢盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 241,
+      "desc": "圆顶造型的美军M1钢盔，二战至1985年使用。",
+      "kw": "美军M1头盔 / M1制式头盔 / M1战斗头盔 / M1盔 / M1钢盔帽 / 美式M1头盔 / M1 钢盔 / m1ヘルメット"
+    },
+    {
+      "en": "motorcycle helmet",
+      "zh": "摩托车头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2580,
+      "desc": "骑摩托车时保护头部的头盔",
+      "kw": "摩托头盔 / 机车头盔 / 摩托安全帽 / 摩托车安全帽 / 骑行头盔 / 全盔 / 半盔 / 头盔"
+    },
+    {
+      "en": "pickelhaube",
+      "zh": "尖顶盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 812,
+      "desc": "普鲁士风格的尖顶头盔",
+      "kw": "普鲁士尖顶盔 / 德国尖顶盔 / 尖顶头盔 / 钉盔 / 头盔 / 军帽 / 军事 / ピッケルハウベ"
+    },
+    {
+      "en": "pilot helmet",
+      "zh": "飞行员头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 876,
+      "desc": "飞行员或机组人员佩戴的现代飞行头盔",
+      "kw": "飞行头盔 / 航空头盔 / 驾驶员头盔 / 飞机员头盔 / 头盔 / 航空"
+    },
+    {
+      "en": "sallet",
+      "zh": "萨拉特头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 202,
+      "desc": "15世纪欧洲头盔，带保护后颈的尾甲。",
+      "kw": "萨雷特盔 / 萨利特头盔 / 带尾甲的头盔 / 15世纪头盔 / 萨莱特盔 / 后颈防护盔 / 轻盔 / 头盔"
+    },
+    {
+      "en": "space helmet",
+      "zh": "宇航头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5201,
+      "desc": "宇航员使用的带透明面罩的圆形头盔",
+      "kw": "宇航员头盔 / 航天头盔 / 太空头罩 / 宇宙头盔 / 太空服头盔 / 透明面罩头盔 / 头盔 / astronaut helmet"
+    },
+    {
+      "en": "stahlhelm",
+      "zh": "德式钢盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1014,
+      "desc": "一战二战德军使用的钢盔",
+      "kw": "德国钢盔 / 德军钢盔 / 德式头盔 / 二战德军钢盔 / 一战德军钢盔 / 钢盔 / 军帽 / 德国风格 / シュタールヘルム"
+    },
+    {
+      "en": "tank helmet",
+      "zh": "坦克乘员帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 629,
+      "desc": "坦克乘员佩戴的防撞击头盔，如苏制TSh-4",
+      "kw": "坦克兵头盔 / 战车帽 / 装甲兵头盔 / 乘员防撞头盔 / 坦克帽 / 头盔 / 军事装备 / 戦车帽 / 戦車帽"
+    },
+    {
+      "en": "winged helmet",
+      "zh": "翼盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4877,
+      "desc": "两侧装饰有翅膀的头盔",
+      "kw": "羽翼头盔 / 有翼头盔 / 翅膀头盔 / 头饰 / wing helmet / 羽兜 / 羽根兜"
+    },
+    {
+      "en": "circlet",
+      "zh": "额环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41919,
+      "desc": "戴在额头上的环形头饰，常无顶无拱。",
+      "kw": "额饰 / 圆箍 / 抹额 / 饰品 / 服装 / 头饰 / 帽子 / サークレット"
+    },
+    {
+      "en": "diadem",
+      "zh": "王冠头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1452,
+      "desc": "一种装饰性头带，通常由女性佩戴作为皇室象征",
+      "kw": "王冠 / 头饰 / 首饰"
+    },
+    {
+      "en": "fengguan",
+      "zh": "凤冠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 134,
+      "desc": "中国古代贵族女性及新娘佩戴的礼冠",
+      "kw": "凤冠头饰 / 中国凤冠 / 明代凤冠 / 皇后凤冠 / 新娘凤冠 / 凤冠霞帔 / 服装 / 头饰"
+    },
+    {
+      "en": "mini crown",
+      "zh": "小皇冠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27586,
+      "desc": "比普通尺寸小得多的皇冠。",
+      "kw": "微型皇冠 / 迷你王冠 / 小尺寸皇冠 / 小小皇冠 / 皇冠 / 头饰 / tiny crown"
+    },
+    {
+      "en": "saishi",
+      "zh": "钗子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 313,
+      "desc": "雏人偶皇后佩戴的三叉形头饰。",
+      "kw": "平额头饰 / 雏人偶头饰 / 平额发饰 / 三叉发饰 / 平额冠 / 釵子 / 头饰 / 平額 / 釵子 / 平額"
+    },
+    {
+      "en": "tiara",
+      "zh": "冠冕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 90155,
+      "desc": "半圆形金属发箍式头冠，常镶宝石，多为公主或偶像佩戴。",
+      "kw": "公主冠 / 皇冠头饰 / 头冠 / 发冠 / 半冠 / 额冠 / 金属发箍 / ティアラ"
+    },
+    {
+      "en": "aviator cap",
+      "zh": "飞行员帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1442,
+      "desc": "飞行员/车手戴的带耳罩皮帽",
+      "kw": "飞行帽 / 航空帽 / 皮飞行帽 / 带耳罩皮帽 / 飞行员皮帽 / 飞行皮帽 / 航空皮帽 / 护耳皮帽 / 飛行帽"
+    },
+    {
+      "en": "balaclava",
+      "zh": "巴拉克拉法帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1197,
+      "desc": "一种包住整个头部，只露出眼睛或口鼻的头套，常被罪犯或特警使用。",
+      "kw": "蒙面头套 / 飞虎队头套 / 劫匪头套 / 滑雪面罩 / 只露眼头套 / 全包头套 / 露眼头罩 / 面罩式头套 / バラクラバ / 目出し帽 / 안면마스크"
+    },
+    {
+      "en": "bandana",
+      "zh": "方巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35398,
+      "desc": "印花方巾，常系于头、脸、颈。",
+      "kw": "头巾 / 印花方巾 / 三角巾 / 包头巾 / 花头巾 / 海盗头巾 / 印花头巾 / 方头巾 / bandanna / バンダナ"
+    },
+    {
+      "en": "bonnet",
+      "zh": "系带软帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21095,
+      "desc": "无檐、以系带固定在下巴的软帽",
+      "kw": "婴儿帽 / 软帽 / 波奈特 / 无檐软帽 / 娃娃帽 / 童帽 / 遮阳软帽 / ボンネット"
+    },
+    {
+      "en": "dalachi (headdress)",
+      "zh": "大拉翅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4283,
+      "desc": "清代满洲贵族女性戴的翅形大头饰，晚清样式",
+      "kw": "达拉翅 / 大拉翅头饰 / 旗头 / 旗头板 / 大京样 / 满族大拉翅 / 头饰 / 帽子"
+    },
+    {
+      "en": "kokoshnik",
+      "zh": "科科沙尼克头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 619,
+      "desc": "俄罗斯传统的拱形头冠",
+      "kw": "科科什尼克 / 俄罗斯传统头冠 / 拱形头冠 / 俄式头冠 / 高头饰 / 俄罗斯头饰 / 斯拉夫头冠 / 头饰"
+    },
+    {
+      "en": "futou",
+      "zh": "幞头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 209,
+      "desc": "中国古代带两翅的黑色官帽幞头。",
+      "kw": "幞头帽 / 折上巾 / 展脚幞头 / 幞头巾 / 唐幞头 / 中国风 / 古装 / 头饰"
+    },
+    {
+      "en": "headscarf",
+      "zh": "头巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19717,
+      "desc": "包在头上的围巾",
+      "kw": "头巾式围巾 / 包头巾 / 头巾围巾 / 方巾包头 / 头裹巾 / 头饰 / 围巾 / 配饰 / head scarf"
+    },
+    {
+      "en": "hijab",
+      "zh": "希贾布",
+      "rating": "g",
+      "nsfw": false,
+      "count": 861,
+      "desc": "伊斯兰女性遮盖头发的头巾，不遮面部。",
+      "kw": "穆斯林头巾 / 回教头巾 / 盖头 / 头巾 / 希贾伯 / 希贾布 (穆斯林头巾) / 伊斯兰风格 / ヒジャーブ / ヒジャブ"
+    },
+    {
+      "en": "jester cap",
+      "zh": "小丑帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12425,
+      "desc": "带多个尖角和小铃铛的小丑帽",
+      "kw": "弄臣帽 / 小丑帽子 / 滑稽帽 / 带铃铛的尖角帽 / 帽子 / 服饰 / jester hat"
+    },
+    {
+      "en": "jin (headwear)",
+      "zh": "帻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 426,
+      "desc": "汉服中称“巾”的头饰，多为男性平民佩戴",
+      "kw": "汉服头巾 / 巾帽 / 汉服巾冠 / 传统巾帽 / 中国风 / 古风 / 头饰"
+    },
+    {
+      "en": "dongpo jin (headwear)",
+      "zh": "东坡巾（头饰）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24
+    },
+    {
+      "en": "tang jin (headwear)",
+      "zh": "唐巾（头饰）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 82,
+      "desc": "汉服中的传统头巾，属巾式头饰",
+      "kw": "唐式头巾 / 汉服头巾 / 巾式头饰 / 传统头巾 / 唐头巾 / 唐巾帽"
+    },
+    {
+      "en": "zhouzi jin (headwear)",
+      "zh": "周子巾（头饰）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 238,
+      "desc": "顶部向后折叠、通常为黑色的汉服头巾",
+      "kw": "周子头巾 / 汉服周子巾 / 周子帽 / 后折头巾 / 周子锦 (头饰) / 头饰 / 中国风"
+    },
+    {
+      "en": "keffiyeh",
+      "zh": "阿拉伯头巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 370,
+      "desc": "中东传统的方格头巾。",
+      "kw": "阿拉伯方巾 / 中东头巾 / 谢马格 / 巴勒斯坦方巾 / 库非耶 / 头巾 / 中东风 / shemagh"
+    },
+    {
+      "en": "object on head",
+      "zh": "头顶物品",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12097,
+      "desc": "非头饰类物品放在头顶。",
+      "kw": "头上放东西 / 头顶物 / 顶东西 / 头上顶物品 / 头顶 / 物品"
+    },
+    {
+      "en": "bowl hat",
+      "zh": "碗帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2906,
+      "desc": "把碗扣在头上当帽子，常见于少名针妙丸",
+      "kw": "碗帽子 / 碗扣头 / 头顶碗 / 用碗当帽子 / 倒扣的碗帽子 / 圆顶帽 / 帽子"
+    },
+    {
+      "en": "bloomers on head",
+      "zh": "头戴灯笼裤",
+      "rating": "q",
+      "nsfw": true,
+      "count": 36
+    },
+    {
+      "en": "book on head",
+      "zh": "头顶书本",
+      "rating": "g",
+      "nsfw": false,
+      "count": 568,
+      "desc": "角色头顶放着一本书，常用于练仪态",
+      "kw": "头顶书 / 顶书 / 头上顶书 / 头顶着书 / 书放在头上 / 头顶书籍 / 姿势"
+    },
+    {
+      "en": "bra on head",
+      "zh": "胸罩套头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 250,
+      "desc": "把胸罩戴在头上或脸上",
+      "kw": "胸罩戴头 / 胸罩蒙脸 / 胸罩当帽子 / 奶罩戴头上 / 胸罩 / 内衣 / ブラミミモード"
+    },
+    {
+      "en": "bucket on head",
+      "zh": "头顶水桶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 568,
+      "desc": "把真水桶扣在头上，非水桶帽",
+      "kw": "头戴水桶 / 水桶套头 / 扣水桶在头上 / 水桶盖头 / 道具 / 搞笑"
+    },
+    {
+      "en": "food on head",
+      "zh": "头顶食物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5917,
+      "desc": "放在头顶上的食物",
+      "kw": "头上放食物 / 头顶上的食物 / 头上食物 / 顶着食物 / 食物放头上 / 食物 / 姿势"
+    },
+    {
+      "en": "panties on head",
+      "zh": "头戴内裤",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1678,
+      "desc": "把内裤当帽子或面罩戴在头上。",
+      "kw": "内裤套头 / 头上戴内裤 / 内裤当帽子 / 内裤罩头 / 内裤套在头上 / 内裤盖头 / 内裤戴头 / 内裤 / パンツはかぶるもの / 頭にパンツ"
+    },
+    {
+      "en": "traffic cone on head",
+      "zh": "头上顶着交通锥",
+      "rating": "g",
+      "nsfw": false,
+      "count": 114,
+      "desc": "把交通锥当帽子戴在头上。",
+      "kw": "交通锥戴头上 / 头上戴交通锥 / 头顶交通锥 / 戴路障锥 / 头戴路障锥 / 头上交通锥 / cone头饰 / 路障帽"
+    },
+    {
+      "en": "okosozukin",
+      "zh": "御高祖头巾",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "shower cap",
+      "zh": "浴帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 59,
+      "desc": "洗澡时防止头发淋湿的帽子。",
+      "kw": "沐浴帽 / 防水浴帽 / 洗发浴帽 / 塑料浴帽 / 淋浴帽 / 洗澡帽"
+    },
+    {
+      "en": "shufa guan",
+      "zh": "束发冠",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tenugui",
+      "zh": "手拭巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 556,
+      "desc": "日本传统的平织棉布手巾，可作头巾或装饰",
+      "kw": "日式手巾 / 手拭 / 棉布手巾 / 日本手巾 / 手拭布 / 日本头巾 / 传统布巾 / 头饰帽子 / 手拭い"
+    },
+    {
+      "en": "turban",
+      "zh": "缠头巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4629,
+      "desc": "以布缠绕头部的头巾，锡克教徒常戴",
+      "kw": "头巾 / 缠绕头巾 / 包头巾 / 裹头布 / 缠头布 / 锡克头巾 / 塔班 / 头饰 / 頭巾 / ターバン"
+    },
+    {
+      "en": "visor cap",
+      "zh": "遮阳帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40255,
+      "desc": "仅由帽檐和头带组成的无顶遮阳帽。",
+      "kw": "帽檐帽 / 太阳帽 / 空顶帽 / 遮阳帽舌 / 帽子 / サンバイザー"
+    },
+    {
+      "en": "veil",
+      "zh": "面纱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 102340,
+      "desc": "遮盖头部或面部的轻薄布料。",
+      "kw": "头纱 / 婚纱头纱 / 面罩 / 遮面纱 / 蒙面纱 / 薄纱 / 盖头 / 饰品"
+    },
+    {
+      "en": "zhuang hat",
+      "zh": "壮族头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 211,
+      "desc": "中国壮族传统的布制头饰，有拱形、三角等样式。",
+      "kw": "壮帽 / 壮族帽子 / 壮族传统头饰 / 壮家头饰 / 壮族布帽 / 中国风 / 民族风 / 头饰"
+    },
+    {
+      "en": "camouflage hat",
+      "zh": "迷彩帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1066,
+      "desc": "迷彩图案的帽子。",
+      "kw": "迷彩帽子 / 迷彩鸭舌帽 / 迷彩军帽 / 迷彩渔夫帽 / 丛林迷彩帽 / 迷彩头帽 / 迷彩棒球帽 / 迷彩图案帽"
+    },
+    {
+      "en": "camouflage helmet",
+      "zh": "迷彩头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 393,
+      "desc": "带迷彩图案的头盔。",
+      "kw": "迷彩钢盔 / 迷彩军盔 / 迷彩图案头盔 / 军用头盔 / 伪装装备 / 战术装备"
+    },
+    {
+      "en": "checkered hat",
+      "zh": "棋盘格帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 601,
+      "desc": "带棋盘格图案的帽子",
+      "kw": "格子帽 / 棋盘格帽 / 方格帽 / 花格帽 / 格纹帽子 / 棋盘图案帽子"
+    },
+    {
+      "en": "checkered helmet",
+      "zh": "棋盘格头盔",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "frilled hat",
+      "zh": "荷叶边帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12101,
+      "desc": "带有荷叶边或褶边装饰的帽子。",
+      "kw": "花边帽 / 荷叶边帽 / 褶边帽 / 花边帽子 / 带荷叶边的帽子 / 褶边装饰帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "multicolored hat",
+      "zh": "多色帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2792,
+      "desc": "有多种颜色的帽子。",
+      "kw": "多色帽 / 彩色帽子 / 杂色帽子 / 多彩帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "multicolored helmet",
+      "zh": "多色头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 106,
+      "desc": "有两种以上颜色的头盔。",
+      "kw": "多彩头盔 / 彩色头盔 / 杂色头盔 / 拼色头盔 / 多色盔 / 头盔"
+    },
+    {
+      "en": "mini hat",
+      "zh": "迷你帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39726,
+      "desc": "尺寸过小、主要作为发饰佩戴的帽子。",
+      "kw": "微型帽 / 小号帽子 / 迷你小帽 / 袖珍帽 / 小帽子 / 装饰小帽 / 发饰帽 / 迷你帽子 / tiny hat / minihat"
+    },
+    {
+      "en": "police hat",
+      "zh": "警帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6863,
+      "desc": "警察戴的帽子，通常为带警徽的蓝色大檐帽",
+      "kw": "警察帽子 / 警官帽 / 大檐帽 / 警察大檐帽 / 警便帽 / 警察帽 / 帽子 / 警服配件"
+    },
+    {
+      "en": "print headwear",
+      "zh": "印花头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2110,
+      "desc": "有印花图案的头部饰品总称，具体应使用更细标签",
+      "kw": "印花帽子 / 印花头部装备 / 印花头巾 / 印花头盔 / 头饰 / 印花 / print hat"
+    },
+    {
+      "en": "school hat",
+      "zh": "通学帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4471,
+      "desc": "日本学童上下学戴的帽子，通常为黄色。",
+      "kw": "学童帽 / 小学生帽 / 幼稚园帽 / 幼儿园帽 / 黄色安全帽 / 学生帽 / 帽子 / 校服 / kindergarten hat"
+    },
+    {
+      "en": "backwards hat",
+      "zh": "反戴帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9169,
+      "desc": "反着戴的帽子，多为棒球帽",
+      "kw": "反扣帽子 / 帽子反戴 / 反扣帽 / 后戴帽 / 棒球帽反戴 / 反戴棒球帽 / 帽子朝后戴 / 帽子 / cap backwards / hat backwards"
+    },
+    {
+      "en": "sideways hat",
+      "zh": "侧戴帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1973,
+      "desc": "将帽子转向侧面佩戴，区别于帽子戴在头侧边。",
+      "kw": "帽子侧戴 / 斜戴帽子 / 歪戴帽 / 侧戴帽 / 帽子歪戴 / 偏戴帽子 / 斜帽 / 歪戴帽子"
+    },
+    {
+      "en": "hat basket",
+      "zh": "帽子当篮子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 258,
+      "desc": "把帽子当作容器使用",
+      "kw": "帽子篮 / 帽子筐 / 用帽子装东西 / 帽子容器 / 帽兜 / 篮帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "hat loss",
+      "zh": "帽子脱落",
+      "rating": "g",
+      "nsfw": false,
+      "count": 614,
+      "desc": "帽子因风或动作不慎掉落",
+      "kw": "帽子掉了 / 掉帽 / 帽子飞走 / 帽子被吹走 / 帽落 / 帽子"
+    },
+    {
+      "en": "hat over eyes",
+      "zh": "帽子遮眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1310,
+      "desc": "帽子拉下来遮住双眼。",
+      "kw": "帽子盖住眼睛 / 帽子遮住双眼 / 帽子挡住眼睛 / 帽檐遮眼 / 帽子拉下遮眼 / 帽子 / 遮挡"
+    },
+    {
+      "en": "hat over one eye",
+      "zh": "帽子遮单眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2130,
+      "desc": "帽子遮住其中一只眼睛。",
+      "kw": "帽子遮眼 / 帽子盖住一只眼 / 帽子挡住一只眼睛 / 帽子 / 遮眼"
+    },
+    {
+      "en": "missing headwear",
+      "zh": "头饰缺失",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50877,
+      "desc": "平时戴帽子等头部装饰的角色未戴头饰",
+      "kw": "未戴头饰 / 没有头饰 / 缺少头饰 / 无头饰 / 没戴头饰 / 头饰不见 / 裸头 / no headwear"
+    },
+    {
+      "en": "tilted headwear",
+      "zh": "歪戴头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21161,
+      "desc": "帽子或头饰歪斜着戴在头上",
+      "kw": "歪戴帽子 / 斜戴帽子 / 斜戴头饰 / 歪帽 / 帽子歪戴 / 头饰歪斜 / 歪头饰 / 歪戴的头饰 / tilted hat"
+    },
+    {
+      "en": "torn hat",
+      "zh": "破损的帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1076,
+      "desc": "明显磨损撕破或损坏的头饰。",
+      "kw": "撕裂的帽子 / 破帽子 / 烂帽子 / 破损帽子 / 破旧帽子 / 带破洞的帽子 / 帽子 / 破损"
+    },
+    {
+      "en": "unworn hat",
+      "zh": "未佩戴的帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36913,
+      "desc": "画面中有帽子但当前没有被角色戴着。",
+      "kw": "摘下的帽子 / 没戴的帽子 / 脱下的帽子 / 拿在手里的帽子 / 不戴的帽子 / 没戴着的帽子 / 帽子 / 道具 / hat off / hat removed"
+    },
+    {
+      "en": "unworn headwear",
+      "zh": "未戴头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50619,
+      "desc": "画面中有但没人戴的帽子、头盔等头饰",
+      "kw": "脱下的头饰 / 没戴的帽子 / 闲置头饰 / 无人戴的头饰 / 不戴的头饰 / 没戴的头饰 / 未戴在头上的头饰 / 头饰 / headwear off / headwear removed / 脱下的帽子"
+    },
+    {
+      "en": "unworn helmet",
+      "zh": "未佩戴的头盔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8368,
+      "desc": "头盔被取下但仍出现在画面中",
+      "kw": "未戴的头盔 / 脱下的头盔 / 取下的头盔 / 摘掉的头盔 / 拿在手上的头盔 / 未佩戴头盔 / 头盔 / 放置物 / helmet off / helmet removed"
+    },
+    {
+      "en": "chinstrap",
+      "zh": "下巴带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2892,
+      "desc": "系在下巴下方固定帽子的带子",
+      "kw": "颚带 / 下颚系带 / 帽带 / 固定带 / 下巴绑带 / 颚下系带 / 盔带 / chin strap / 颚纽"
+    },
+    {
+      "en": "hat bow",
+      "zh": "帽子蝴蝶结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 90479,
+      "desc": "装饰在帽子上的蝴蝶结。",
+      "kw": "帽上蝴蝶结 / 帽子上蝴蝶结 / 帽结 / 帽饰蝴蝶结 / 蝴蝶结帽饰 / 帽子装饰蝴蝶结 / 帽蝴蝶结 / 帽子装饰"
+    },
+    {
+      "en": "hat feather",
+      "zh": "帽饰羽毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20158,
+      "desc": "插在帽子上装饰的羽毛",
+      "kw": "帽子上的羽毛 / 羽毛帽饰 / 帽羽 / 帽子羽毛 / 帽子插羽毛 / 帽上插羽 / 帽饰羽 / feather hat ornament / feather in hat / feathered hat / 羽帽子"
+    },
+    {
+      "en": "hat flower",
+      "zh": "帽花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39775,
+      "desc": "装饰在帽子上的花。",
+      "kw": "帽上花朵 / 帽子花 / 帽上花 / 帽子花饰 / 帽花装饰 / 帽饰花 / 帽上缀花 / 帽子上的花"
+    },
+    {
+      "en": "hat ornament",
+      "zh": "帽子装饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47146,
+      "desc": "装饰在帽子上的饰品",
+      "kw": "帽饰件 / 帽上饰物 / 帽子饰品 / 帽装 / 配饰 / 帽子配件"
+    },
+    {
+      "en": "anchor hat ornament",
+      "zh": "锚形帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 553,
+      "desc": "帽子上装饰用的锚形饰物",
+      "kw": "帽子锚饰 / 帽上锚装饰 / 船锚帽饰 / 帽锚 / 帽饰 / 配饰"
+    },
+    {
+      "en": "butterfly hat ornament",
+      "zh": "蝴蝶帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1070,
+      "desc": "蝴蝶形状的帽子装饰物",
+      "kw": "蝴蝶帽子装饰 / 蝴蝶形帽子装饰 / 蝴蝶帽子饰品 / 蝴蝶帽花 / 帽饰 / 配饰"
+    },
+    {
+      "en": "character hat ornament",
+      "zh": "角色造型帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 333,
+      "desc": "特定角色造型的帽饰",
+      "kw": "角色帽子装饰 / 帽子上的角色装饰 / 人物帽饰 / 帽子角色饰品 / 头饰 / 帽子装饰"
+    },
+    {
+      "en": "crescent hat ornament",
+      "zh": "月牙帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14920,
+      "desc": "新月形状的帽子饰件",
+      "kw": "新月帽饰 / 新月形帽子装饰 / 月牙帽子装饰 / 帽子上的月牙 / 月牙饰物 / 新月饰品 / 帽饰"
+    },
+    {
+      "en": "dolphin hat ornament",
+      "zh": "海豚帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "food-themed hat ornament",
+      "zh": "食物主题发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 300,
+      "desc": "形状像食物的帽子装饰物。",
+      "kw": "食物造型帽饰 / 食品帽子装饰 / 食物帽子饰品 / 食物主题帽饰 / 食品造型帽子饰物 / 帽子上的食物装饰 / 食帽饰 / 食物帽饰"
+    },
+    {
+      "en": "fruit hat ornament",
+      "zh": "水果帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1613,
+      "desc": "帽子上装饰有水果造型饰品",
+      "kw": "水果帽子装饰 / 帽子水果饰物 / 帽饰水果 / 头饰 / 水果主题 / 异域风"
+    },
+    {
+      "en": "grape hat ornament",
+      "zh": "葡萄帽子饰品",
+      "rating": "g",
+      "nsfw": false,
+      "count": 995,
+      "desc": "葡萄形状的帽子装饰",
+      "kw": "葡萄形状帽饰 / 葡萄帽子装饰 / 葡萄帽上装饰 / 配饰 / 帽子饰品"
+    },
+    {
+      "en": "peach hat ornament",
+      "zh": "桃子形帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2329,
+      "desc": "桃子形状的帽子装饰",
+      "kw": "桃子帽子装饰 / 桃形帽子装饰 / 帽上桃子装饰 / 桃饰帽子 / 水蜜桃帽饰 / 桃形帽饰 / 帽子饰品 / 配饰"
+    },
+    {
+      "en": "pumpkin hat ornament",
+      "zh": "南瓜帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 99,
+      "desc": "南瓜形状的帽子装饰",
+      "kw": "南瓜帽子装饰 / 南瓜帽饰品 / 南瓜帽子挂饰 / 南瓜形帽饰"
+    },
+    {
+      "en": "gear hat ornament",
+      "zh": "齿轮帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 142,
+      "desc": "齿轮形状的帽子装饰",
+      "kw": "齿轮帽子装饰 / 齿轮形帽饰 / 齿轮装饰帽 / 齿轮帽徽 / 齿轮头饰 / 齿轮帽顶装饰 / 帽上齿轮饰 / 帽饰"
+    },
+    {
+      "en": "heart hat ornament",
+      "zh": "爱心帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1392,
+      "desc": "帽子上的心形装饰。",
+      "kw": "心形帽子装饰 / 帽子上心形饰 / 心型帽饰 / 爱心帽子装饰 / 帽子饰品 / 配饰"
+    },
+    {
+      "en": "holly hat ornament",
+      "zh": "冬青帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 341,
+      "desc": "冬青形状的帽子装饰",
+      "kw": "冬青帽子装饰 / 冬青叶帽饰 / 圣诞冬青帽饰 / 冬青帽上装饰 / 冬青叶帽子装饰 / 帽饰 / 圣诞装饰 / 配饰"
+    },
+    {
+      "en": "jack-o'-lantern hat ornament",
+      "zh": "南瓜灯帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 563,
+      "desc": "南瓜灯造型的帽子装饰",
+      "kw": "杰克灯笼帽饰 / 南瓜帽饰 / 南瓜头帽饰 / 万圣节 / 帽子饰品 / 节日装饰"
+    },
+    {
+      "en": "leaf hat ornament",
+      "zh": "叶子帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1982,
+      "desc": "叶子形状的帽子装饰",
+      "kw": "叶形帽饰 / 帽子叶子装饰 / 叶帽装饰 / 叶片帽饰 / 叶状帽饰 / 帽饰 / 植物饰品 / 叶子 / hat leaf"
+    },
+    {
+      "en": "palette hat ornament",
+      "zh": "调色盘帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15
+    },
+    {
+      "en": "star hat ornament",
+      "zh": "星形帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14230,
+      "desc": "星形的帽子装饰品",
+      "kw": "星星帽子装饰 / 星形帽子装饰 / 帽子星星装饰 / 星形帽徽 / 星星帽徽 / 星饰帽 / 星形帽扣"
+    },
+    {
+      "en": "skull hat ornament",
+      "zh": "骷髅帽饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1043,
+      "desc": "骷髅或骷髅交叉骨造型的帽子装饰",
+      "kw": "骷髅帽子装饰 / 骷髅头饰 / 骷髅帽徽 / 骷髅帽子饰品 / 饰品 / 骷髅"
+    },
+    {
+      "en": "hat tassel",
+      "zh": "帽穗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1995,
+      "desc": "挂在帽子上的流苏或穗子",
+      "kw": "帽流苏 / 帽子穗子 / 帽饰流苏 / 帽顶穗 / 帽边穗 / 帽子饰穗 / 帽穗子 / 帽子流苏 / tassel hat ornament"
+    },
+    {
+      "en": "x hair ornament",
+      "zh": "X形发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 122485,
+      "desc": "X形状的发饰，不同于十字架发饰",
+      "kw": "X型发饰 / X字发饰 / X发夹 / X发卡 / X型发卡 / X型发夹 / 发饰 / 头饰"
+    },
+    {
+      "en": "hat ribbon",
+      "zh": "帽子丝带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 88836,
+      "desc": "系或装饰在帽子上的缎带，常与蝴蝶结同时出现。",
+      "kw": "帽上缎带 / 帽子上缎带 / 帽带 / 帽饰丝带 / 缎带帽饰 / 系帽缎带 / 帽饰缎带 / hat ribbons / hatband"
+    },
+    {
+      "en": "lappet",
+      "zh": "垂饰帽带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 424,
+      "desc": "头饰两侧垂下的尾状装饰片",
+      "kw": "垂饰 / 头饰垂片 / 帽饰垂片 / 飘带垂片 / 饰带垂片 / 垂尾装饰 / 帽垂 / 垂饰（头饰）"
+    },
+    {
+      "en": "claw hair clip",
+      "zh": "抓夹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 344,
+      "desc": "爪形抓发夹，用来夹住头发。",
+      "kw": "爪夹 / 发爪 / 爪形发夹 / 发爪夹 / 鲨鱼夹发夹"
+    },
+    {
+      "en": "hairband",
+      "zh": "发箍",
+      "rating": "g",
+      "nsfw": false,
+      "count": 727614,
+      "desc": "戴在头顶固定头发的发箍",
+      "kw": "头箍 / 发卡 / 头带 / 头发 / 饰品 / 服装 / 头饰 / 帽子 / hair band / カチューシャ / ヘアバンド / ヘッドドレス"
+    },
+    {
+      "en": "headband",
+      "zh": "头带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 135307,
+      "desc": "横戴在额头上的布带或发带。",
+      "kw": "头巾 / 发带 / 束发带 / 额带 / 绑带 / 运动头带 / 忍者头带 / 钵卷 / head band / 钵巻 / 鉢巻 / ヘッドバンド"
+    },
+    {
+      "en": "hachimaki",
+      "zh": "钵卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10187,
+      "desc": "日本传统缠在头上的布带，表示决心或用于运动会加油",
+      "kw": "日式头带 / 日本头带 / 日式头巾 / 缠头布 / 应援头带 / 加油头带 / 日式抹额 / 钵巻 / 鉢巻 / ハチマキ / はちまき"
+    },
+    {
+      "en": "nejiri hachimaki",
+      "zh": "捻钵卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2034,
+      "desc": "用拧成绳状的布条系在头上的日式头带，常见于祭典或鼓手。",
+      "kw": "拧结头带 / 拧结钵卷 / 扭转布条头带 / 日式扭结发带 / 缠绕头带 / 头巾 / 日本风 / ねじりはちまき"
+    },
+    {
+      "en": "mongkhon",
+      "zh": "泰拳头箍",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38
+    },
+    {
+      "en": "sweatband",
+      "zh": "吸汗带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3504,
+      "desc": "吸汗材质的弹性头带或腕带",
+      "kw": "汗带 / 吸汗头带 / 吸汗腕带 / 止汗带 / 防汗带 / 运动汗带 / 头带 / 运动 / sweatbands / sweat bands / sweat band"
+    },
+    {
+      "en": "headdress",
+      "zh": "头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23670,
+      "desc": "仪式或装饰用的头冠式头饰，如印第安羽冠。",
+      "kw": "头冠 / 羽冠 / 仪式头饰 / 装饰头饰 / 头戴饰品 / 头部装饰 / 华冠 / 冠饰"
+    },
+    {
+      "en": "native american headdress",
+      "zh": "美洲原住民头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 484,
+      "desc": "大平原原住民风格的羽毛头饰，常称战冠",
+      "kw": "印第安羽冠 / 原住民羽冠 / 羽毛战冠 / 鹰羽冠 / 美洲印第安头饰 / 头饰 / 美洲原住民风"
+    },
+    {
+      "en": "warbonnet",
+      "zh": "羽饰头冠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57,
+      "desc": "北美原住民以羽毛制成的头饰",
+      "kw": "印第安羽毛头饰 / 羽毛头冠 / 鹰羽冠 / 原住民战帽 / 羽冠 / 羽毛冠 / 印第安战帽"
+    },
+    {
+      "en": "hair clip",
+      "zh": "发夹",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hairpin",
+      "zh": "发簪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43402,
+      "desc": "用于固定头发的头饰。与发夹不同，发卡没有夹紧机制，只是滑入头发。可以是U形或棍状，末端可能有装饰。最简单的发卡是发夹，常画成头发上的一条简单线。",
+      "kw": "发卡 / 头发 / 饰品 / 服装"
+    },
+    {
+      "en": "hair flower",
+      "zh": "发花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 410978,
+      "desc": "作为发饰佩戴在头发上的花朵",
+      "kw": "头花 / 发间花 / 发上花 / 头发花饰 / 花朵发饰 / 戴花 / 头发 / flower in hair / hair flowers / flower hair ornament / hairflower"
+    },
+    {
+      "en": "arrow through hair",
+      "zh": "发簪",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bun cover",
+      "zh": "发髻装饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24835,
+      "desc": "罩在发髻或丸子头上的装饰布或饰品。",
+      "kw": "丸子头罩 / 发髻套 / 丸子头套 / 盘发罩 / 包头布 / 发髻装饰罩 / 发饰 / 古风 / bun covers"
+    },
+    {
+      "en": "hairpods",
+      "zh": "金属发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7945,
+      "desc": "成对硬质筒状发饰，类似发髻套但材质硬",
+      "kw": "发筒 / 发管 / 硬质发髻套 / 无线耳机状发饰 / 发荚 / 豆荚发饰 / 发饰"
+    },
+    {
+      "en": "hair extensions",
+      "zh": "接发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3992,
+      "desc": "夹入或编入以增加发量的假发片",
+      "kw": "假发片 / 接发片 / 发片 / 假发束 / 编发片 / 延长发 / 头发延长 / 假发"
+    },
+    {
+      "en": "cyberlox",
+      "zh": "赛博发辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "hair bell",
+      "zh": "铃铛发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31843,
+      "desc": "系在头发上的铃铛装饰",
+      "kw": "头发铃铛 / 发上铃铛 / 铃铛头饰 / 系发铃铛 / 发饰 / 和风 / hairbell / hair bells / hairbells / bell hair ornament"
+    },
+    {
+      "en": "frilled hair tubes",
+      "zh": "荷叶边发筒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24347,
+      "desc": "带荷叶边的发筒，常见于博丽灵梦。",
+      "kw": "花边发筒 / 褶边发筒 / 荷叶边发管 / 带荷叶边的发筒 / 荷叶边发饰筒 / 蕾丝发筒 / 发饰 / 蕾丝"
+    },
+    {
+      "en": "single hair tube",
+      "zh": "单发筒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5982,
+      "desc": "头发上只套一个发管。",
+      "kw": "单个发管 / 单只发筒 / 发管 / 发筒 / 发饰"
+    },
+    {
+      "en": "knife in hair",
+      "zh": "发间刀饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 44
+    },
+    {
+      "en": "ear muffs",
+      "zh": "耳罩",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tress ribbon",
+      "zh": "发束丝带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27537,
+      "desc": "只系在一绺头发上的缎带发饰。",
+      "kw": "发束缎带 / 发丝缎带 / 一缕发缎带 / 发绺蝴蝶结 / 发缕缎带 / 绺带 / 发绺丝带"
+    },
+    {
+      "en": "hair tubes",
+      "zh": "发筒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 106923,
+      "desc": "把发束分段的筒形发饰",
+      "kw": "筒状发饰 / 束发管 / 筒形发饰 / 头发管饰 / 分段发饰 / 发管饰 / 发饰 / hair tube"
+    },
+    {
+      "en": "kanzashi",
+      "zh": "日式发簪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6554,
+      "desc": "日本传统发簪等发饰，常用于新娘和艺伎发型",
+      "kw": "簪子 / 和风发簪 / 日本发簪 / 簪 / 发钗 / 钗 / 发饰 / かんざし / 发簪(日式)"
+    },
+    {
+      "en": "headpiece",
+      "zh": "头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28191,
+      "desc": "环绕头部佩戴的装饰性头冠",
+      "kw": "头冠 / 额饰 / 头环 / 头部装饰 / 头箍 / 花冠 / 发饰 / 配饰"
+    },
+    {
+      "en": "headphones",
+      "zh": "头戴式耳机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 141017,
+      "desc": "佩戴在头上、罩住双耳的耳机。",
+      "kw": "耳机 / 耳罩式耳机 / 头戴耳机 / 大耳机 / 监听耳机 / 耳麦 / 罩耳式耳机 / 头戴耳麦 / headphone / ヘッドフォン / ヘッドホン / ヘッドホン娘"
+    },
+    {
+      "en": "earphones",
+      "zh": "耳机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15576,
+      "desc": "塞入或挂在耳朵上的小型耳机",
+      "kw": "耳塞 / 入耳式耳机 / 小型耳机 / 耳塞耳机 / 耳挂式耳机 / 有线耳机 / 电子设备 / イヤホン"
+    },
+    {
+      "en": "earpiece",
+      "zh": "单耳耳机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9827,
+      "desc": "只戴在一只耳朵上的小型耳机，无麦克风",
+      "kw": "耳塞 / 听筒 / 单耳耳麦 / 耳挂耳机 / 耳塞式耳机 / 耳麦 / 耳机 / 通讯设备"
+    },
+    {
+      "en": "headset",
+      "zh": "耳麦",
+      "rating": "g",
+      "nsfw": false,
+      "count": 53799,
+      "desc": "带麦克风的头戴式耳机。",
+      "kw": "头戴式耳麦 / 带麦克风耳机 / 头戴耳机 / 游戏耳机 / 话务耳机 / 头戴式耳机带麦 / 头戴麦克风 / 耳机 / ヘッドセット / インカム"
+    },
+    {
+      "en": "head wreath",
+      "zh": "花冠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21649,
+      "desc": "戴在头上的环形花环",
+      "kw": "花环 / 头花环 / 戴花环 / 花冠头饰 / 头饰 / flower crown / 花环（头部）"
+    },
+    {
+      "en": "vinok",
+      "zh": "维诺克花环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43
+    },
+    {
+      "en": "horn ornament",
+      "zh": "角饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21114,
+      "desc": "戴在角色角上的饰物",
+      "kw": "角上装饰 / 角饰品 / 兽角饰物 / 角部装饰 / 角装饰 / 角上挂饰 / 头饰 / 配饰"
+    },
+    {
+      "en": "triangular headpiece",
+      "zh": "三角头巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22065,
+      "desc": "日本民俗中鬼怪等所戴的三角头巾或头饰",
+      "kw": "额乌帽子 / 三角布 / 鬼怪头巾 / 三角巾 / 三角形头饰 / 头饰 / 配饰 / 三角頭巾"
+    },
+    {
+      "en": "wig",
+      "zh": "假发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2404,
+      "desc": "用于角色扮演或遮盖头发的假发。",
+      "kw": "假发套 / 发套 / 假头发 / 假毛发 / cos假发 / 假发片 / 佩戴假发 / 发饰"
+    },
+    {
+      "en": "bondage hood",
+      "zh": "束缚头罩",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "glowing headgear",
+      "zh": "发光头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 233,
+      "desc": "自身作为独立光源发光的头饰，而非反光或光环",
+      "kw": "发光头部装备 / 自发光头饰 / 发光帽 / 发光头冠 / 头饰 / 配饰"
+    },
+    {
+      "en": "hair bow",
+      "zh": "蝴蝶结发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 781534,
+      "desc": "系在头发上的蝴蝶结",
+      "kw": "发饰蝴蝶结 / 发结 / 发带蝴蝶结 / 蝴蝶结 / 发饰 / hair bows / hairbow"
+    },
+    {
+      "en": "hair ribbon",
+      "zh": "发带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 811078,
+      "desc": "系在头发上的缎带",
+      "kw": "发绳 / 缎带 / 发饰 / 丝带 / 头发 / 饰品 / 服装 / 头饰 / hair ribbons / ribbon hair ornament / ribbon in hair / ribbons in hair"
+    },
+    {
+      "en": "hair tie",
+      "zh": "发绳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34839,
+      "desc": "扎马尾等发型用的细橡皮圈。",
+      "kw": "发圈 / 头绳 / 橡皮筋 / 绑发绳 / 扎发绳 / 辫绳 / 发饰 / 配饰 / hairtie / hair ties / 发带 / 髪留め"
+    },
+    {
+      "en": "forehead protector",
+      "zh": "护额",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12352,
+      "desc": "忍者或战斗角色佩戴的额头护具，常为金属板加布带。",
+      "kw": "额头护具 / 护额带 / 忍者护额 / 额当 / 额头绑带 / 忍者装备 / 头带 / 日本风 / 钵金 / 額当て / 鉢金"
+    },
+    {
+      "en": "maid headdress",
+      "zh": "女仆头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 214354,
+      "desc": "女仆装常配的褶边头饰",
+      "kw": "女仆发箍 / 女仆发带 / 女仆喀秋莎 / 女仆发饰 / 头饰 / 女仆装 / 发饰 / maid headband / maid cachusha / ホワイトブリム"
+    },
+    {
+      "en": "honggaitou",
+      "zh": "红盖头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 156,
+      "desc": "中式婚礼上新娘遮面的红色盖头",
+      "kw": "盖头 / 红头盖 / 新娘盖头 / 婚礼盖头 / 中式盖头 / 红纱盖头 / 红布盖头 / 传统盖头"
+    },
+    {
+      "en": "wimple",
+      "zh": "修女头巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 554,
+      "desc": "包裹头部和下颌、露出面部的修女头巾。",
+      "kw": "修女包头巾 / 中世纪头巾 / 蒙头巾 / 温帕尔 / 温帕头巾 / 頉巾 / 头巾 / 宗教服饰"
+    },
+    {
+      "en": "mino boushi",
+      "zh": "蓑帽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18
+    },
+    {
+      "en": "ear covers",
+      "zh": "耳套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55835,
+      "desc": "覆盖兽耳或尖耳的装饰。",
+      "kw": "兽耳套 / 护耳罩 / 覆盖耳朵的装饰 / 尖耳套 / 兽耳罩 / 耳朵套 / 配饰"
+    },
+    {
+      "en": "hair ornament",
+      "zh": "发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2129146,
+      "desc": "纯装饰用途的头发饰品",
+      "kw": "头发装饰 / 头饰 / 发饰品 / 发间饰品 / 发上饰品 / 头发饰品 / 发饰配件 / 发饰物 / hair accessory / hair ornaments / hair accessories / hair decs"
+    },
+    {
+      "en": "hair beads",
+      "zh": "发珠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9904,
+      "desc": "串起来作为发饰佩戴的珠子",
+      "kw": "头发珠子 / 珠饰发绳 / 珠子发饰 / 串珠头饰 / 发饰珠 / 发饰 / 饰品"
+    },
+    {
+      "en": "hair bobbles",
+      "zh": "球形发圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69571,
+      "desc": "用弹性带和圆球扎头发的发饰，常见于少女。",
+      "kw": "发球 / 波波发圈 / 圆球发绳 / 弹力球发圈 / 球球发饰 / 球形发饰 / 发饰 / ball braids / hair bobble / ヘアゴム"
+    },
+    {
+      "en": "hair scrunchie",
+      "zh": "发圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57915,
+      "desc": "布料包裹的发圈，常用于扎马尾或双马尾。",
+      "kw": "大肠圈 / 布发圈 / 发绳 / 发束 / 发筋 / 大肠发带 / 发圈头饰"
+    },
+    {
+      "en": "hair stick",
+      "zh": "发簪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29919,
+      "desc": "横插入发髻的细长簪子",
+      "kw": "簪子 / 发钗 / 钗 / 头簪 / 头发 / 饰品 / 服装 / hair sticks"
+    },
+    {
+      "en": "head chain",
+      "zh": "头链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2632,
+      "desc": "环绕头部像头带的细链饰。",
+      "kw": "头部链饰 / 头饰链 / 额链 / 环头链 / 头部链条 / 细链头饰 / 头饰 / 配饰"
+    },
+    {
+      "en": "laurel crown",
+      "zh": "月桂冠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9780,
+      "desc": "用月桂枝叶编成的头冠",
+      "kw": "月桂花环 / 桂冠头饰 / 月桂叶头冠 / 桂冠花环 / 头饰 / 古风 / laureate / laurel wreath"
+    },
+    {
+      "en": "eggshell hat",
+      "zh": "蛋壳帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 220,
+      "desc": "蛋壳造型的帽子",
+      "kw": "蛋壳造型帽 / 蛋壳头饰 / 帽子 / 头饰"
+    },
+    {
+      "en": "chef hat",
+      "zh": "厨师帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7776,
+      "desc": "厨师戴的白色高帽。",
+      "kw": "厨帽 / 主厨帽 / 厨师高帽 / 白色高帽 / 料理帽 / 帽子 / 厨师 / コック帽"
+    },
+    {
+      "en": "toque blanche",
+      "zh": "厨师帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 522,
+      "desc": "厨师戴的高而窄的白色百褶帽，平顶帽请用 flat top chef hat",
+      "kw": "厨师高帽 / 厨帽 / 厨师白帽 / 高白厨帽 / 白色厨师帽 / 厨师白褶帽 / 白高帽 / トック・ブランシュ"
+    },
+    {
+      "en": "flat top chef hat",
+      "zh": "平顶厨师帽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 436,
+      "desc": "顶部被压平的厨师帽",
+      "kw": "平顶厨帽 / 平顶主厨帽 / 扁顶厨师帽 / 方顶厨师帽 / 平顶白色厨师帽 / 平顶高帽 / 厨师帽 / 帽子"
+    },
+    {
+      "en": "food-themed hair ornament",
+      "zh": "食物主题发饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30457,
+      "desc": "食物造型的发饰",
+      "kw": "食物发饰 / 食物头饰 / 食物造型头饰 / 食物型发饰 / 发饰 / 主题饰品 / food hair ornament / food themed hair ornament"
+    },
+    {
+      "en": "quad hair rings",
+      "zh": "四连发圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 137,
+      "desc": "发丝上套有四个发环",
+      "kw": "四发环 / 四个发环 / 四重发圈 / 四重发饰环 / 四环发饰 / 四发圈 / 发型 / 四个发圈"
+    },
+    {
+      "en": "bandana over mouth",
+      "zh": "头巾蒙嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 634,
+      "desc": "用头巾遮住嘴部",
+      "kw": "用头巾遮嘴 / 帕子蒙口 / 方巾遮嘴 / 头巾捂嘴 / 面罩蒙嘴 / 面罩 / 头巾"
+    },
+    {
+      "en": "alternate hair ornament",
+      "zh": "替代发饰",
+      "rating": "g",
+      "count": 1311,
+      "desc": "角色戴上与平时不同的发饰",
+      "kw": "不同发饰 / 更换发饰 / 非惯用发饰 / 其他发饰 / 替换发饰 / 别样发饰 / 发饰 / 头饰"
+    },
+    {
+      "en": "alternate headwear",
+      "zh": "头饰变化",
+      "rating": "g",
+      "count": 3944,
+      "desc": "角色换上与平时不同的头饰",
+      "kw": "换头饰 / 不同头饰 / 替代头饰 / 变装头饰 / 头饰替换 / 换帽子 / 不同帽子 / 替换头饰 / alternative headwear / alternate hat / alternative hat / alternate hat color"
+    },
+    {
+      "en": "anchor hair ornament",
+      "zh": "锚形发饰",
+      "rating": "g",
+      "count": 9085,
+      "desc": "锚形状的发夹或发饰",
+      "kw": "船锚发饰 / 锚状发饰 / 锚形发夹 / 锚发卡 / 锚头饰 / 船锚发夹 / 发饰 / 头饰"
+    },
+    {
+      "en": "animal ear hairband",
+      "zh": "兽耳发箍",
+      "rating": "g",
+      "count": 53001,
+      "desc": "带假兽耳的发箍",
+      "kw": "动物耳发箍 / 兽耳头箍 / 兽耳发卡 / 兽耳头带 / 带兽耳发箍 / 假兽耳发箍 / 发饰 / 头饰"
+    },
+    {
+      "en": "animal ear headwear",
+      "zh": "动物耳朵头饰",
+      "rating": "g",
+      "count": 7611,
+      "desc": "带假兽耳的头饰",
+      "kw": "兽耳头饰 / 假兽耳发饰 / 兽耳朵发卡 / 动物耳朵发箍 / 兽耳发箍 / 头饰 / 兽耳"
+    },
+    {
+      "en": "animal ear hood",
+      "zh": "兽耳兜帽",
+      "rating": "g",
+      "count": 4122,
+      "desc": "带假兽耳的兜帽",
+      "kw": "动物耳帽子 / 兽耳连帽衫 / 兽耳帽 / 兽耳头套 / 兜帽 / 兽耳"
+    },
+    {
+      "en": "animal helmet",
+      "zh": "动物头盔",
+      "rating": "g",
+      "count": 1643,
+      "desc": "动物造型或带动物耳朵的头盔",
+      "kw": "动物造型头盔 / 兽耳头盔 / 动物头套头盔 / 头盔 / 动物造型 / 帽子"
+    },
+    {
+      "en": "animal hood",
+      "zh": "动物兜帽",
+      "rating": "g",
+      "count": 34563,
+      "desc": "模仿动物的兜帽。",
+      "kw": "动物连帽 / 动物连帽衫 / 动物帽子 / 兽耳兜帽 / 动物样式兜帽 / 动物风帽 / 兜帽 / 帽子 / 动物的兜帽"
+    },
+    {
+      "en": "antler ornament",
+      "zh": "鹿角装饰",
+      "rating": "g",
+      "count": 602,
+      "desc": "鹿角形状的装饰物",
+      "kw": "鹿角饰品 / 鹿角头饰 / 鹿角发饰 / 鹿角饰物 / 鹿角形装饰 / 角饰 / 饰品 / 头饰"
+    },
+    {
+      "en": "apple hair ornament",
+      "zh": "苹果发饰",
+      "rating": "g",
+      "count": 1063,
+      "desc": "苹果形状的头发装饰",
+      "kw": "苹果头发饰 / 苹果形发饰 / 苹果发夹 / 苹果头饰 / 苹果发卡 / 发饰 / 头饰 / 水果"
+    },
+    {
+      "en": "aqua hairband",
+      "zh": "水色发箍",
+      "rating": "g",
+      "count": 2203,
+      "desc": "水色（蓝绿色）的发箍",
+      "kw": "水色发带 / 水蓝色发箍 / 蓝绿色发箍 / 水色头箍 / 水色发卡 / 水蓝色发带 / 发饰 / 头饰"
+    },
+    {
+      "en": "aqua scrunchie",
+      "zh": "水色大肠发圈",
+      "rating": "g",
+      "count": 969,
+      "desc": "水色（蓝绿色）的大肠发圈",
+      "kw": "水色发圈 / 浅蓝色发圈 / 蓝绿色大肠发圈 / 水色发束 / 发圈 / 发饰"
+    },
+    {
+      "en": "arched crown",
+      "zh": "弧形王冠",
+      "rating": "g",
+      "count": 2153,
+      "desc": "由多条金属拱汇聚于顶部圆球的王冠。",
+      "kw": "拱形王冠 / 圆顶王冠 / 拱形冠冕 / 拱形皇冠 / 皇冠 / 头饰 / 首饰"
+    },
+    {
+      "en": "axent wear",
+      "zh": "Axent Wear猫耳耳机",
+      "rating": "g",
+      "count": 324,
+      "desc": "Yuumei设计的可当音箱的猫耳耳机",
+      "kw": "猫耳音箱耳机 / 发光猫耳耳机 / Yuumei猫耳耳机 / axentwear猫耳耳机 / 猫耳耳机 / 耳机 / 猫耳 / 头饰 / axentwear"
+    },
+    {
+      "en": "bag over head",
+      "zh": "袋子套头",
+      "rating": "g",
+      "count": 1019,
+      "desc": "把袋子整个罩在头上",
+      "kw": "袋子头 / 头套袋子 / 头上套袋 / 塑料袋套头 / 布袋套头 / 套头袋 / 头上套着袋子 / 道具"
+    },
+    {
+      "en": "bandage on hair",
+      "zh": "头发上的绷带",
+      "rating": "g",
+      "count": 606,
+      "desc": "头发上缠着绷带或发丝间有绷带",
+      "kw": "头发缠绷带 / 绷带缠发 / 头发绷带 / 发上绷带 / 头上的绷带 / 绷带 / 医疗用品 / 伤口"
+    },
+    {
+      "en": "bandaid hair ornament",
+      "zh": "创可贴发饰",
+      "rating": "g",
+      "count": 6542,
+      "desc": "创可贴形状的发饰",
+      "kw": "创可贴形状的发饰 / 胶布发饰 / 创可贴头饰 / 发饰 / 头饰"
+    },
+    {
+      "en": "bat hair ornament",
+      "zh": "蝙蝠发饰",
+      "rating": "g",
+      "count": 6356,
+      "desc": "蝙蝠形状的发饰或发夹",
+      "kw": "蝙蝠发夹 / 蝙蝠头饰 / 蝙蝠发卡 / 蝙蝠形发饰 / 蝙蝠造型发饰 / 蝙蝠饰品 / 发饰 / 哥特"
+    },
+    {
+      "en": "bear hair ornament",
+      "zh": "熊形发饰",
+      "rating": "g",
+      "count": 4489,
+      "desc": "熊或小熊形状的发饰。",
+      "kw": "小熊发饰 / 熊发饰 / 熊发卡 / 熊发夹 / 熊头饰 / 熊形头饰 / 发饰 / 动物饰品"
+    },
+    {
+      "en": "bear hood",
+      "zh": "熊兜帽",
+      "rating": "g",
+      "count": 1365,
+      "desc": "带有熊耳造型的动物兜帽。",
+      "kw": "熊耳兜帽 / 熊帽子 / 熊造型兜帽 / 熊头帽 / 兜帽 / 头饰 / 动物"
+    },
+    {
+      "en": "behind-the-head headphones",
+      "zh": "后挂式耳机",
+      "rating": "g",
+      "count": 1516,
+      "desc": "头带从脑后绕过的耳机",
+      "kw": "脑后式耳机 / 后戴式耳机 / 后挂耳机 / 头带后置耳机 / 绕后式耳机 / 耳机 / 头戴 / 配饰"
+    },
+    {
+      "en": "bird hair ornament",
+      "zh": "鸟形发饰",
+      "rating": "g",
+      "count": 1288,
+      "desc": "鸟形状的发饰或发夹。",
+      "kw": "鸟发饰 / 鸟形发夹 / 小鸟发饰 / 鸟发夹 / 鸟形头饰 / 发饰 / 头饰"
+    },
+    {
+      "en": "bird hat ornament",
+      "zh": "鸟形帽饰",
+      "rating": "g",
+      "count": 1096,
+      "desc": "鸟形状的帽子装饰物。",
+      "kw": "鸟形帽子装饰 / 帽子上的鸟饰 / 鸟类帽饰 / 鸟帽饰 / 鸟形帽花 / 帽子饰品 / 鸟形饰品"
+    },
+    {
+      "en": "black bandana",
+      "zh": "黑色头巾",
+      "rating": "g",
+      "count": 1624,
+      "desc": "系在头部或颈部的黑色方巾。",
+      "kw": "黑头巾 / 黑色方巾 / 黑色包头巾 / 黑色领巾 / 黑色印花方巾 / 黑方巾 / 头巾 / 头饰"
+    },
+    {
+      "en": "black bonnet",
+      "zh": "黑色软帽",
+      "rating": "g",
+      "count": 1839,
+      "desc": "用系带固定在下巴的黑色软帽",
+      "kw": "黑色系带软帽 / 黑色软边帽 / 黑色娃娃帽 / 黑色邦妮帽 / 软帽 / 帽子 / 配饰"
+    },
+    {
+      "en": "black crown",
+      "zh": "黑色王冠",
+      "rating": "g",
+      "count": 1095,
+      "desc": "戴在头上的黑色王冠",
+      "kw": "黑色皇冠 / 黑皇冠 / 黑王冠 / 乌黑王冠 / 漆黑王冠 / 皇冠 / 首饰"
+    },
+    {
+      "en": "black hairband",
+      "zh": "黑色发箍",
+      "rating": "g",
+      "count": 158026,
+      "desc": "束住头发的黑色发箍或发带。",
+      "kw": "黑色头箍 / 黑色发卡 / 黑色头带 / 黑色束发带 / 黑色发带 / 黑发箍 / 黑头箍 / 发箍"
+    },
+    {
+      "en": "black headband",
+      "zh": "黑色头带",
+      "rating": "g",
+      "count": 8859,
+      "desc": "系在额头的黑色头带，非发箍",
+      "kw": "黑色额带 / 黑色束发带 / 黑色发带 / 黑色额饰带 / 黑发箍 / 发饰 / 头饰"
+    },
+    {
+      "en": "black headdress",
+      "zh": "黑色头饰",
+      "rating": "g",
+      "count": 1380,
+      "desc": "覆盖头部的黑色装饰性头饰",
+      "kw": "黑色头部装饰 / 黑色头冠 / 黑色头罩 / 头饰 / 配饰"
+    },
+    {
+      "en": "black headscarf",
+      "zh": "黑色包头巾",
+      "rating": "g",
+      "count": 627,
+      "desc": "包裹住头部的黑色包头巾",
+      "kw": "黑色头巾 / 黑色包头布 / 黑色头裹布 / 黑头巾 / 头饰 / 配饰"
+    },
+    {
+      "en": "black helmet",
+      "zh": "黑色头盔",
+      "rating": "g",
+      "count": 4111,
+      "desc": "保护头部的黑色头盔。",
+      "kw": "黑头盔 / 黑色安全帽 / 黑色头冠 / 黑色钢盔 / 黑色防护头盔 / 头盔 / 护具"
+    },
+    {
+      "en": "black hood",
+      "zh": "黑色头套",
+      "rating": "g",
+      "count": 5022,
+      "desc": "罩住头部的黑色兜帽或头套",
+      "kw": "黑色兜帽 / 黑兜帽 / 黑色头罩 / 黑头罩 / 黑头套 / 兜帽 / 头饰"
+    },
+    {
+      "en": "black scrunchie",
+      "zh": "黑色大肠发圈",
+      "rating": "g",
+      "count": 6996,
+      "desc": "黑色的大肠发圈",
+      "kw": "黑色发圈 / 黑色发束 / 黑色大肠圈 / 黑色弹力发圈 / 黑色发绳 / 发圈 / 发饰"
+    },
+    {
+      "en": "black tiara",
+      "zh": "黑色头冠",
+      "rating": "g",
+      "count": 4421,
+      "desc": "戴在额前的黑色头冠",
+      "kw": "黑色小王冠 / 黑头冠 / 黑色皇冠 / 黑色公主冠 / 黑色冠冕 / 黑色王冠 / 黑色 / 头饰"
+    },
+    {
+      "en": "black veil",
+      "zh": "黑色面纱",
+      "rating": "g",
+      "count": 11165,
+      "desc": "黑色面纱，多用于丧礼或神秘角色",
+      "kw": "黑面纱 / 黑色头纱 / 黑头纱 / 黑色薄纱 / 丧礼面纱 / 面纱 / 头饰"
+    },
+    {
+      "en": "blue bandana",
+      "zh": "蓝色头巾",
+      "rating": "g",
+      "count": 2324,
+      "desc": "系在头上的蓝色方巾",
+      "kw": "蓝头巾 / 蓝色方巾 / 蓝色包头巾 / 蓝方巾 / 蓝色头带 / 蓝色海盗头巾 / 头巾 / 配饰"
+    },
+    {
+      "en": "blue crown",
+      "zh": "蓝色王冠",
+      "rating": "g",
+      "count": 684,
+      "desc": "蓝色的王冠。",
+      "kw": "蓝色皇冠 / 蓝冠 / 蓝色王冠头饰 / 皇冠 / 头饰"
+    },
+    {
+      "en": "blue hairband",
+      "zh": "蓝色发箍",
+      "rating": "g",
+      "count": 33287,
+      "desc": "蓝色发箍，用于箍住头发，非头带",
+      "kw": "蓝发箍 / 蓝色头箍 / 蓝头箍 / 蓝色发卡 / 蓝色发饰圈 / 蓝色发带 / 发带 / 发饰"
+    },
+    {
+      "en": "blue headband",
+      "zh": "蓝色头带",
+      "rating": "g",
+      "count": 4735,
+      "desc": "系在额头的蓝色头带，非发箍",
+      "kw": "蓝头带 / 蓝色头巾 / 蓝色束发带 / 蓝头巾 / 蓝色抹额 / 蓝色发带 / 发带 / 发饰"
+    },
+    {
+      "en": "blue headscarf",
+      "zh": "蓝色包头巾",
+      "rating": "g",
+      "count": 811,
+      "desc": "包住头部的蓝色头巾",
+      "kw": "蓝色头巾 / 蓝头巾 / 蓝色包发巾 / 头巾 / 头饰"
+    },
+    {
+      "en": "blue helmet",
+      "zh": "蓝色头盔",
+      "rating": "g",
+      "count": 4388,
+      "desc": "保护头部的蓝色头盔",
+      "kw": "蓝头盔 / 蓝色安全帽 / 蓝色钢盔 / 蓝色盔甲头 / 头盔 / 护具"
+    },
+    {
+      "en": "blue hood",
+      "zh": "蓝色兜帽",
+      "rating": "g",
+      "count": 2897,
+      "desc": "罩住头部的蓝色兜帽。",
+      "kw": "蓝色头套 / 蓝色帽子兜帽 / 蓝兜帽 / 蓝色连帽 / 蓝色帽兜 / 兜帽 / 头饰 / 服装"
+    },
+    {
+      "en": "blue scrunchie",
+      "zh": "蓝色大肠发圈",
+      "rating": "g",
+      "count": 9537,
+      "desc": "束发用的蓝色大肠发圈",
+      "kw": "蓝色发圈 / 蓝色布发圈 / 蓝色发绳 / 蓝大肠发圈 / 蓝色发束 / 蓝发圈 / 发饰 / 头饰"
+    },
+    {
+      "en": "blue veil",
+      "zh": "蓝色面纱",
+      "rating": "g",
+      "count": 3401,
+      "desc": "蓝色的薄纱面纱",
+      "kw": "蓝面纱 / 蓝色纱巾 / 蓝纱 / 蓝色头纱 / 蓝薄纱 / 面纱 / 头饰"
+    },
+    {
+      "en": "bone hair ornament",
+      "zh": "骨头发饰",
+      "rating": "g",
+      "count": 7755,
+      "desc": "骨头形状或真骨制的发饰。",
+      "kw": "骨头造型发饰 / 骨制发饰 / 骸骨发饰 / 兽骨发饰 / 骨头头饰 / 发饰 / 头饰 / 饰品"
+    },
+    {
+      "en": "bow hairband",
+      "zh": "蝴蝶结发箍",
+      "rating": "g",
+      "count": 25800,
+      "desc": "带蝴蝶结的发箍",
+      "kw": "蝴蝶结发带 / 蝴蝶结头箍 / 蝴蝶结发卡 / 蝴蝶结头带 / 蝴蝶结发饰 / 带蝴蝶结发箍 / 发饰 / 头饰 / hairband bow"
+    },
+    {
+      "en": "broken heart hair ornament",
+      "zh": "碎心发饰",
+      "rating": "g",
+      "count": 1146,
+      "desc": "破碎或裂纹心形造型的发饰。",
+      "kw": "破损心形发饰 / 破碎心发饰 / 破裂心形发饰 / 心碎发饰 / 破损心形发夹 / 破碎的心形头饰 / 心形破碎发饰 / 残破心形发饰"
+    },
+    {
+      "en": "brown hairband",
+      "zh": "棕色发带",
+      "rating": "g",
+      "count": 5784,
+      "desc": "棕色发箍或发带，用来束发。",
+      "kw": "棕色发箍 / 棕色头带 / 棕色束发带 / 棕色头箍 / 咖啡色发带 / 褐色发带 / 棕色发卡 / 发饰"
+    },
+    {
+      "en": "brown headband",
+      "zh": "棕色头带",
+      "rating": "g",
+      "count": 777,
+      "desc": "棕色头带，绕在额头或头发上",
+      "kw": "棕色发带 / 棕色头巾 / 棕色束发带 / 棕色发箍 / 发饰"
+    },
+    {
+      "en": "brown helmet",
+      "zh": "棕色头盔",
+      "rating": "g",
+      "count": 790,
+      "desc": "棕色的保护性硬质帽子",
+      "kw": "棕色安全帽 / 棕盔 / 褐色头盔 / 茶色头盔 / 头盔 / 防护装备"
+    },
+    {
+      "en": "brown hood",
+      "zh": "棕色兜帽",
+      "rating": "g",
+      "count": 676,
+      "desc": "连在衣领上罩住头的棕色兜帽。",
+      "kw": "棕色头罩 / 棕色连衣帽 / 棕色风帽 / 兜帽 / 服装 / 棕色"
+    },
+    {
+      "en": "brown scrunchie",
+      "zh": "棕色大肠发圈",
+      "rating": "g",
+      "count": 585,
+      "desc": "棕色的大肠发圈，用于扎头发的布制弹力发圈",
+      "kw": "棕色发圈 / 棕色布艺发圈 / 棕色发绳 / 棕色大肠圈 / 棕色弹力发圈 / 棕色扎头发圈 / 发饰 / 配饰"
+    },
+    {
+      "en": "bunny headphones",
+      "zh": "兔子耳机",
+      "rating": "g",
+      "count": 176,
+      "desc": "带兔子造型元素的耳机",
+      "kw": "兔耳耳机 / 兔子造型耳机 / 兔耳式耳机 / 兔子头耳机 / 兔耳机 / 兔耳头戴耳机 / 兔子装饰耳机 / 兔耳朵耳机 / rabbit headphones"
+    },
+    {
+      "en": "candy hair ornament",
+      "zh": "糖果发饰",
+      "rating": "g",
+      "count": 2877,
+      "desc": "糖果形状的发饰",
+      "kw": "糖果发夹 / 糖果头饰 / 糖果发卡 / 糖果形状发饰 / 糖果饰品 / 发饰"
+    },
+    {
+      "en": "carrot hair ornament",
+      "zh": "胡萝卜发饰",
+      "rating": "g",
+      "count": 7734,
+      "desc": "胡萝卜造型的发饰。",
+      "kw": "红萝卜发饰 / 胡萝蔔发饰 / 胡萝卜头饰 / 红萝卜头饰 / 萝卜造型发饰 / 发饰 / 蔬菜"
+    },
+    {
+      "en": "cat ear hairband",
+      "zh": "猫耳发带",
+      "rating": "g",
+      "count": 5624,
+      "desc": "带猫耳的发箍，戴上像长猫耳",
+      "kw": "猫耳发箍 / 猫耳头箍 / 猫耳发卡 / 猫耳发饰 / 猫耳头饰 / 猫耳朵发带 / 发箍 / 头饰 / 猫耳カチューシャ"
+    },
+    {
+      "en": "cat hair ornament",
+      "zh": "猫发饰",
+      "rating": "g",
+      "count": 10375,
+      "desc": "猫脸或小猫造型的发饰。",
+      "kw": "猫咪发饰 / 猫造型发饰 / 猫脸发饰 / 小猫发饰 / 猫形发饰 / 发饰 / 动物饰品"
+    },
+    {
+      "en": "cat helmet",
+      "zh": "猫耳头盔",
+      "rating": "g",
+      "count": 234,
+      "desc": "装有猫耳装饰的头盔。",
+      "kw": "猫头盔 / 猫耳盔 / 猫耳造型头盔 / 猫咪头盔 / 猫猫头盔 / 猫耳装饰头盔 / 带猫耳的头盔 / 头盔 / cat ear helmet"
+    },
+    {
+      "en": "cat hood",
+      "zh": "猫耳兜帽",
+      "rating": "g",
+      "count": 7974,
+      "desc": "带有猫耳装饰的兜帽。",
+      "kw": "猫耳帽 / 猫耳连帽 / 猫耳卫衣帽 / 猫耳帽衫 / 猫耳头罩 / 带猫耳的兜帽 / 猫咪兜帽 / 猫耳连帽衫 / cathood / 猫耳パーカー / 猫耳フード / 猫フード"
+    },
+    {
+      "en": "chain headband",
+      "zh": "链条发带",
+      "rating": "g",
+      "count": 2464,
+      "desc": "链条造型的发带",
+      "kw": "链子发带 / 金属链发饰 / 链式头带 / 链状发带 / 发饰 / 头带"
+    },
+    {
+      "en": "character hair ornament",
+      "zh": "角色发饰",
+      "rating": "g",
+      "count": 5717,
+      "desc": "特定角色造型的发饰。",
+      "kw": "角色专属发饰 / 特定角色发饰 / 人物发饰 / 角色头饰 / 发饰 / 角色饰品"
+    },
+    {
+      "en": "character hood",
+      "zh": "角色兜帽",
+      "rating": "g",
+      "count": 1019,
+      "desc": "模仿其他角色造型的兜帽",
+      "kw": "角色造型兜帽 / 角色连帽 / 卡通角色兜帽 / 动漫角色兜帽 / 角色帽兜 / 服装附件 / 角色模仿 / 兜帽造型"
+    },
+    {
+      "en": "checkered hairband",
+      "zh": "方格发箍",
+      "rating": "g",
+      "count": 1739,
+      "desc": "带方格图案的发箍",
+      "kw": "格子发箍 / 格纹发箍 / 棋盘格发箍 / 方格发带 / 发带 / 头饰 / 格子"
+    },
+    {
+      "en": "cherry hair ornament",
+      "zh": "樱桃发饰",
+      "rating": "g",
+      "count": 2713,
+      "desc": "樱桃造型的头发装饰",
+      "kw": "樱桃头饰 / 樱桃发夹 / 樱桃发卡 / 樱桃发绳 / 发饰"
+    },
+    {
+      "en": "chinese hairpin",
+      "zh": "中式发簪",
+      "rating": "g",
+      "count": 3261,
+      "desc": "中国传统的发簪",
+      "kw": "发簪 / 簪子 / 中式簪 / 中国发簪 / 汉服发簪 / 古风发簪 / 玉簪 / 金簪 / chinese hair stick"
+    },
+    {
+      "en": "cloud hair ornament",
+      "zh": "云形发饰",
+      "rating": "g",
+      "count": 1266,
+      "desc": "云朵形状的发饰。",
+      "kw": "云朵发饰 / 云发饰 / 云状发饰 / 云型头饰 / 发饰 / 饰品"
+    },
+    {
+      "en": "clover hair ornament",
+      "zh": "三叶草发饰",
+      "rating": "g",
+      "count": 6581,
+      "desc": "三叶草形状的发饰",
+      "kw": "苜蓿发饰 / 三叶发饰 / 幸运草发饰 / 发饰 / 植物"
+    },
+    {
+      "en": "coin hair ornament",
+      "zh": "硬币发饰",
+      "rating": "g",
+      "count": 1574,
+      "desc": "硬币形状的发饰",
+      "kw": "钱币发饰 / 金币发饰 / 硬币头饰 / 硬币发夹 / 币形发饰 / 铜钱发饰 / 发饰 / 头饰"
+    },
+    {
+      "en": "combat helmet",
+      "zh": "战斗头盔",
+      "rating": "g",
+      "count": 5400,
+      "desc": "防弹片与子弹的现代战斗头盔",
+      "kw": "战术头盔 / 军用头盔 / 防弹头盔 / 钢盔 / 作战头盔 / 军盔 / 头盔 / 军事装备 / military helmet / 鉄帽 / 戦闘用ヘルメット"
+    },
+    {
+      "en": "conical hat",
+      "zh": "圆锥形尖帽",
+      "rating": "g",
+      "count": 898,
+      "desc": "无檐的圆锥形尖帽",
+      "kw": "圆锥帽 / 尖顶帽 / 锥形帽 / 斗笠 / 圆锥形帽子 / 亚洲风 / 帽子"
+    },
+    {
+      "en": "coral hair ornament",
+      "zh": "珊瑚发饰",
+      "rating": "g",
+      "count": 579,
+      "desc": "珊瑚或珊瑚形状的发饰。",
+      "kw": "珊瑚头饰 / 珊瑚发夹 / 珊瑚发簪 / 珊瑚发卡 / 珊瑚形状发饰 / 发饰 / 首饰 / 配饰"
+    },
+    {
+      "en": "cow ear hairband",
+      "zh": "牛耳发箍",
+      "rating": "g",
+      "count": 1876,
+      "desc": "带牛耳的发箍，常附带牛角",
+      "kw": "牛耳发饰 / 奶牛耳发箍 / 牛角发箍 / 牛耳发带 / 奶牛发箍 / 发饰 / 动物耳"
+    },
+    {
+      "en": "cowl",
+      "zh": "连帽斗篷",
+      "rating": "g",
+      "count": 848,
+      "desc": "带兜帽的斗篷或披风",
+      "kw": "风帽 / 兜帽披风 / 连帽披肩 / 僧侣兜帽 / 领巾兜帽 / 兜帽 / 服装"
+    },
+    {
+      "en": "crescent hair ornament",
+      "zh": "月牙发饰",
+      "rating": "g",
+      "count": 18560,
+      "desc": "月牙形/新月形状的发饰",
+      "kw": "月牙形发饰 / 新月发饰 / 新月形发饰 / 月牙头饰 / 月牙发夹 / 新月头饰 / 月牙装饰 / 月牙发卡"
+    },
+    {
+      "en": "cross hair ornament",
+      "zh": "十字发饰",
+      "rating": "g",
+      "count": 19292,
+      "desc": "基督教十字架形状的发饰",
+      "kw": "十字架发饰 / 十字头发饰 / 十字形发饰 / 十字发夹 / 十字发卡 / 发饰 / 饰品"
+    },
+    {
+      "en": "crown hair ornament",
+      "zh": "皇冠发饰",
+      "rating": "g",
+      "count": 1315,
+      "desc": "王冠形状的发饰。",
+      "kw": "王冠发饰 / 皇冠发夹 / 皇冠头饰 / 小皇冠发卡 / 公主冠发饰 / 发饰 / 首饰"
+    },
+    {
+      "en": "crown of thorns",
+      "zh": "荆棘冠",
+      "rating": "g",
+      "count": 1032,
+      "desc": "耶稣受难时戴的用荆棘编成的冠冕。",
+      "kw": "荆棘冠冕 / 荆棘头冠 / 茨冠 / 棘冠 / 宗教 / 头饰 / 茨の冠"
+    },
+    {
+      "en": "crystal hair ornament",
+      "zh": "水晶发饰",
+      "rating": "g",
+      "count": 750,
+      "desc": "水晶形状的发饰",
+      "kw": "水晶头饰 / 水晶发夹 / 水晶发卡 / 水晶发簪 / 水晶发箍 / 水晶装饰发饰 / 水晶发饰品 / 发饰"
+    },
+    {
+      "en": "cube hair ornament",
+      "zh": "方块发饰",
+      "rating": "g",
+      "count": 16185,
+      "desc": "立方体形状的发饰",
+      "kw": "骰子发饰 / 立方体发饰 / 方块头饰 / 方形发饰 / 魔方发饰 / 方块发夹 / 发饰 / 几何形状 / hair cubes"
+    },
+    {
+      "en": "d-pad hair ornament",
+      "zh": "方向键发饰",
+      "rating": "g",
+      "count": 3377,
+      "desc": "游戏手柄方向键形状的发饰。",
+      "kw": "十字键发饰 / 方向键头饰 / 十字键发夹 / 方向键发卡 / 方向键发簪 / 发饰 / 游戏元素"
+    },
+    {
+      "en": "detached hood",
+      "zh": "独立兜帽",
+      "rating": "g",
+      "count": 1371,
+      "desc": "不与衣身相连、独立存在的兜帽。",
+      "kw": "分离兜帽 / 单独兜帽 / 可拆卸兜帽 / 独立帽兜 / 无衣身兜帽 / 单独头套 / 脱卸式兜帽 / 服装"
+    },
+    {
+      "en": "diamond hair ornament",
+      "zh": "菱形发饰",
+      "rating": "g",
+      "count": 3453,
+      "desc": "菱形形状的发饰",
+      "kw": "菱形发夹 / 菱形发卡 / 菱形发簪 / 钻石形发饰 / 菱形头饰 / 菱形头花 / 钻石发饰 / 发饰"
+    },
+    {
+      "en": "diamond hairband",
+      "zh": "菱形发箍",
+      "rating": "g",
+      "count": 6301,
+      "desc": "由一串菱形连成的发箍",
+      "kw": "钻石发箍 / 菱形发带 / 菱格发箍 / 钻石图案发箍 / 发饰 / 头饰"
+    },
+    {
+      "en": "dice hair ornament",
+      "zh": "骰子发饰",
+      "rating": "g",
+      "count": 2593,
+      "desc": "骰子形状的发饰。",
+      "kw": "骰子发夹 / 骰子头饰 / 骰子发卡 / 骰子形状发饰 / 发饰 / 饰品 / 骰子"
+    },
+    {
+      "en": "diving mask on head",
+      "zh": "头戴潜水面罩",
+      "rating": "g",
+      "count": 1794,
+      "desc": "把面镜推到头顶的戴法",
+      "kw": "潜水面罩推头上 / 面镜戴头上 / 潜水镜在头上 / 面罩推头顶 / 头戴潜水镜 / 潜水镜 / 装备"
+    },
+    {
+      "en": "dog hair ornament",
+      "zh": "狗发饰",
+      "rating": "g",
+      "count": 957,
+      "desc": "狗脸或小狗形状的发饰",
+      "kw": "小狗发饰 / 狗狗发饰 / 狗形发饰 / 狗造型发饰 / 犬发饰 / 发饰 / 头饰"
+    },
+    {
+      "en": "dog hood",
+      "zh": "狗耳兜帽",
+      "rating": "g",
+      "count": 565,
+      "desc": "带假狗耳的兜帽",
+      "kw": "狗兜帽 / 犬耳兜帽 / 狗连帽 / 狗耳帽子 / 狗头兜帽 / 兜帽 / 头饰 / 动物"
+    },
+    {
+      "en": "dolphin hair ornament",
+      "zh": "海豚发饰",
+      "rating": "g",
+      "count": 959,
+      "desc": "海豚形状的发饰。",
+      "kw": "海豚发夹 / 海豚头饰 / 海豚发卡 / 发饰 / 头饰 / 动物"
+    },
+    {
+      "en": "ear bow",
+      "zh": "耳朵蝴蝶结",
+      "rating": "g",
+      "count": 24915,
+      "desc": "系在耳朵上的蝴蝶结。",
+      "kw": "耳部蝴蝶结 / 耳上蝴蝶结 / 耳蝴蝶结 / 戴在耳朵上的蝴蝶结 / 耳朵上的蝴蝶结 / 耳饰 / 蝴蝶结 / 配饰 / animal ear bow"
+    },
+    {
+      "en": "ear flower",
+      "zh": "耳边花朵",
+      "rating": "g",
+      "count": 1456,
+      "desc": "把花当作耳饰戴在耳边",
+      "kw": "耳花 / 耳饰花 / 耳边花 / 鬓边花 / 耳畔花 / 花耳饰 / 耳上花 / 耳饰"
+    },
+    {
+      "en": "ear ribbon",
+      "zh": "耳饰缎带",
+      "rating": "g",
+      "count": 14514,
+      "desc": "系在耳朵上的缎带",
+      "kw": "耳朵缎带 / 耳上蝴蝶结 / 耳部丝带 / 耳朵系带 / 动物耳蝴蝶结 / 耳朵装饰带 / 耳上丝带 / 耳部蝴蝶结 / animal ear bow / ear bow"
+    },
+    {
+      "en": "ear scrunchie",
+      "zh": "耳朵发圈",
+      "rating": "g",
+      "count": 2473,
+      "desc": "戴在耳朵上的发圈",
+      "kw": "耳边发圈 / 大肠发圈（耳朵） / 耳戴发圈 / 耳朵上的发圈 / 发圈 / 发饰"
+    },
+    {
+      "en": "earmuffs",
+      "zh": "保暖耳罩",
+      "rating": "g",
+      "count": 18458,
+      "desc": "冬季保暖用的耳罩，非听力保护耳罩",
+      "kw": "耳罩 / 护耳套 / 防寒耳罩 / 毛绒耳罩 / 冬季耳罩 / 暖耳罩 / 耳暖 / 配饰 / ear muffs / earmuff / 耳あて / 耳当て"
+    },
+    {
+      "en": "eel hat",
+      "zh": "鳗鱼帽",
+      "rating": "g",
+      "count": 618,
+      "desc": "一顶蓬松的帽子，外观酷似鳗鱼的脸部，音街蜜娜总是戴着它。",
+      "kw": "帽子 / 头饰"
+    },
+    {
+      "en": "egg hair ornament",
+      "zh": "鸡蛋发饰",
+      "rating": "g",
+      "count": 2149,
+      "desc": "鸡蛋形状的发饰。",
+      "kw": "蛋形发饰 / 鸡蛋发夹 / 蛋形发卡 / 发饰 / 头饰"
+    },
+    {
+      "en": "eye hair ornament",
+      "zh": "眼形发饰",
+      "rating": "g",
+      "count": 1184,
+      "desc": "眼睛形状的发饰，用于头发装饰",
+      "kw": "眼睛发饰 / 眼睛形状发饰 / 眼球发饰 / 眼珠发饰 / 眼睛发夹 / 眼睛头饰 / 眼形发夹 / 发饰"
+    },
+    {
+      "en": "eyeball hair ornament",
+      "zh": "眼球发饰",
+      "rating": "g",
+      "count": 1614,
+      "desc": "眼球形状的发饰",
+      "kw": "眼珠发饰 / 眼睛发饰 / 眼球头饰 / 眼球发卡 / 发饰 / 头饰 / 恐怖"
+    },
+    {
+      "en": "fake antlers",
+      "zh": "假鹿角",
+      "rating": "g",
+      "count": 4396,
+      "desc": "发箍等处装饰用的假鹿角。",
+      "kw": "仿鹿角 / 人造鹿角 / 鹿角发饰 / 鹿角头饰 / 假麋鹿角 / 头饰 / 配件"
+    },
+    {
+      "en": "fake hair bun",
+      "zh": "假发髻",
+      "rating": "g",
+      "count": 511,
+      "desc": "用假发做出的丸子头。",
+      "kw": "假丸子头 / 假发包 / 假发丸子 / 假发团 / 假发髻头 / 发饰 / 假发"
+    },
+    {
+      "en": "fake horns",
+      "zh": "假角",
+      "rating": "g",
+      "count": 40849,
+      "desc": "作为发饰或头饰的假角。",
+      "kw": "仿真角 / 装饰角 / 假犄角 / 头饰角 / 发箍角 / 头饰 / 道具 / horn hair ornament"
+    },
+    {
+      "en": "fan hair ornament",
+      "zh": "折扇发饰",
+      "rating": "g",
+      "count": 1536,
+      "desc": "折扇造型的发饰",
+      "kw": "扇子发饰 / 折扇头饰 / 扇型发饰 / 扇子头饰 / 折扇发夹 / 扇形发饰 / 发饰 / 头饰"
+    },
+    {
+      "en": "fish hair ornament",
+      "zh": "鱼形发饰",
+      "rating": "g",
+      "count": 5553,
+      "desc": "做成鱼形状的发饰",
+      "kw": "鱼发饰 / 鱼造型发饰 / 鱼形状发饰 / 鱼发夹 / 鱼形发夹 / 鱼头饰 / 鱼形头饰 / 发饰"
+    },
+    {
+      "en": "fish skeleton hair ornament",
+      "zh": "鱼骨发饰",
+      "rating": "g",
+      "count": 621,
+      "desc": "鱼骨形状的发饰",
+      "kw": "鱼骨头发饰 / 鱼骨发夹 / 鱼骨形发饰 / 鱼骨头饰 / 鱼骨发卡 / 鱼骨发簪 / 发饰 / 饰品 / fish bone hair ornament"
+    },
+    {
+      "en": "floating crown",
+      "zh": "悬浮王冠",
+      "rating": "g",
+      "count": 939,
+      "desc": "悬浮在头顶上方的王冠。",
+      "kw": "漂浮王冠 / 浮空王冠 / 悬空王冠 / 飘浮皇冠 / 浮空皇冠 / 悬浮皇冠 / 浮游王冠 / 皇冠"
+    },
+    {
+      "en": "floating headgear",
+      "zh": "浮动头饰",
+      "rating": "g",
+      "count": 3579,
+      "desc": "悬浮在头部附近的帽子等头饰",
+      "kw": "悬浮头饰 / 漂浮头饰 / 浮空头饰 / 飘浮头饰 / 悬空头饰 / 悬浮头部装备 / 头饰 / 魔法 / floating hair ornament"
+    },
+    {
+      "en": "flower hairband",
+      "zh": "花朵发箍",
+      "rating": "g",
+      "count": 1631,
+      "desc": "用花朵装饰的发箍",
+      "kw": "花发箍 / 花朵头箍 / 花朵发卡 / 花饰发箍 / 花朵头饰发箍 / 花朵发带 / 发带 / 头饰"
+    },
+    {
+      "en": "flower hairclip",
+      "zh": "花朵发夹",
+      "rating": "g",
+      "count": 3355,
+      "desc": "以花为造型的发夹。",
+      "kw": "花发夹 / 花朵发卡 / 花发卡 / 花朵发饰 / 花饰发夹 / 花形发夹 / flower hairpin"
+    },
+    {
+      "en": "flower hairpin",
+      "zh": "花朵发夹",
+      "rating": "g",
+      "count": 2440,
+      "desc": "花朵形状的发夹饰品。",
+      "kw": "花发簪 / 发饰 / 头饰"
+    },
+    {
+      "en": "flower wreath",
+      "zh": "花环",
+      "rating": "g",
+      "count": 11194,
+      "desc": "用鲜花编成的环状花饰，可戴在头上",
+      "kw": "花冠 / 花环头饰 / 鲜花环 / 花饰环 / 花之环 / 头饰 / 花轮 / 花輪"
+    },
+    {
+      "en": "food-themed hat",
+      "zh": "食物造型帽子",
+      "rating": "g",
+      "count": 599,
+      "desc": "外形像食物的帽子，如汉堡帽、蛋糕帽",
+      "kw": "食品帽子 / 食物主题帽子 / 美食帽子 / 食物形状帽子 / 食品造型帽子 / 食物造型帽 / 食品主题帽 / 食物帽"
+    },
+    {
+      "en": "fork hair ornament",
+      "zh": "叉发饰",
+      "rating": "g",
+      "count": 630,
+      "desc": "叉子形状的发饰。",
+      "kw": "叉子发饰 / 叉形发饰 / 叉状头饰 / 叉子头饰 / 叉子发簪 / 叉子发卡 / 发饰 / 头饰"
+    },
+    {
+      "en": "four-leaf clover hair ornament",
+      "zh": "四叶草发饰",
+      "rating": "g",
+      "count": 2349,
+      "desc": "四叶草形状的发饰",
+      "kw": "四叶草头发装饰 / 四叶三叶草发饰 / 四叶草发夹 / 四叶草头饰 / 发饰 / 幸运符"
+    },
+    {
+      "en": "fox hair ornament",
+      "zh": "狐狸发饰",
+      "rating": "g",
+      "count": 1286,
+      "desc": "狐狸造型的发饰。",
+      "kw": "狐耳发饰 / 狐狸头饰 / 狐狸发夹 / 狐狸发卡 / 狐狸形状发饰 / 小狐狸发饰 / 狐狸头花 / 发饰"
+    },
+    {
+      "en": "frilled bonnet",
+      "zh": "褶皱软帽",
+      "rating": "g",
+      "count": 1270,
+      "desc": "带荷叶边的系带软帽",
+      "kw": "荷叶边软帽 / 花边软帽 / 褶边软帽 / 蕾丝软帽 / 褶皱系带帽 / 软帽 / 头饰 / ruffled bonnet"
+    },
+    {
+      "en": "frilled hairband",
+      "zh": "荷叶边发箍",
+      "rating": "g",
+      "count": 24912,
+      "desc": "带有荷叶边装饰的发箍。",
+      "kw": "荷叶边头箍 / 花边发箍 / 荷叶边发带 / 花边头箍 / 蕾丝发箍 / 蕾丝发带 / 发带 / 头饰"
+    },
+    {
+      "en": "frilled headwear",
+      "zh": "荷叶边头饰",
+      "rating": "g",
+      "count": 4145,
+      "desc": "带荷叶边的头饰或帽子。",
+      "kw": "褶边头饰 / 花边头饰 / 荷叶边帽 / 飞边头饰 / 头饰 / 配饰"
+    },
+    {
+      "en": "frog hair ornament",
+      "zh": "青蛙发饰",
+      "rating": "g",
+      "count": 23023,
+      "desc": "青蛙形状的发饰。",
+      "kw": "青蛙头饰 / 蛙形发饰 / 青蛙发夹 / 青蛙发卡 / 蛙发饰 / 头饰 / 动物饰品"
+    },
+    {
+      "en": "fur-trimmed hood",
+      "zh": "毛皮镶边兜帽",
+      "rating": "g",
+      "count": 7309,
+      "desc": "边缘带有毛皮装饰的兜帽。",
+      "kw": "毛边兜帽 / 毛皮滚边兜帽 / 毛领兜帽 / 毛绒边兜帽 / 饰毛兜帽 / 毛皮饰边风帽 / 毛边风帽 / 皮草边兜帽"
+    },
+    {
+      "en": "gear hair ornament",
+      "zh": "齿轮发饰",
+      "rating": "g",
+      "count": 728,
+      "desc": "齿轮形状的发饰",
+      "kw": "齿轮头饰 / 齿轮发夹 / 齿轮形发饰 / 齿轮发簪 / 机械齿轮发饰 / 发饰 / 机械风 / 科幻"
+    },
+    {
+      "en": "gem hair ornament",
+      "zh": "宝石发饰",
+      "rating": "g",
+      "count": 1797,
+      "desc": "镶嵌宝石或宝石形状的发饰",
+      "kw": "宝石发卡 / 宝石发夹 / 宝石发簪 / 宝石头饰 / 镶宝石发饰 / 宝石形状发饰 / 宝石发饰(宝石形状) / 发饰"
+    },
+    {
+      "en": "ghost hair ornament",
+      "zh": "幽灵发饰",
+      "rating": "g",
+      "count": 1796,
+      "desc": "幽灵形状的发饰",
+      "kw": "鬼魂发饰 / 小幽灵发饰 / 幽灵头饰 / 幽灵发卡 / 幽灵发夹 / 发饰 / 灵异"
+    },
+    {
+      "en": "gold circlet",
+      "zh": "金色头环",
+      "rating": "g",
+      "count": 2120,
+      "desc": "戴在头上、通常为金色的装饰性圆环。",
+      "kw": "金头环 / 金色额饰 / 黄金头环 / 金色头箍 / 金色额环 / 金色发环 / 金色头圈 / 金色环冠"
+    },
+    {
+      "en": "gold crown",
+      "zh": "金冠",
+      "rating": "g",
+      "count": 4867,
+      "desc": "黄金制成或呈金色的王冠",
+      "kw": "金色王冠 / 黄金王冠 / 金制王冠 / 黄金冠 / 金皇冠 / 首饰 / 头饰 / 王冠"
+    },
+    {
+      "en": "gold hairband",
+      "zh": "金色发带",
+      "rating": "g",
+      "count": 4815,
+      "desc": "黄金或金色的发带/发箍。",
+      "kw": "金发带 / 金色发箍 / 金色头带 / 黄金发带 / 金发箍 / 金色束发带 / 发饰 / 发箍"
+    },
+    {
+      "en": "gold headwear",
+      "zh": "金色头饰",
+      "rating": "g",
+      "count": 683,
+      "desc": "金色的各类头饰",
+      "kw": "金头饰 / 金色发饰 / 金色头戴物 / 金发饰 / 金色头部装饰 / 黄金头饰 / 首饰 / 头饰"
+    },
+    {
+      "en": "gold helmet",
+      "zh": "金色头盔",
+      "rating": "g",
+      "count": 504,
+      "desc": "呈金色的护头盔具",
+      "kw": "金头盔 / 黄金头盔 / 金色盔 / 金盔 / 金色头甲 / 金色护盔 / 黄金盔 / 头盔"
+    },
+    {
+      "en": "gold tiara",
+      "zh": "金色头冠",
+      "rating": "g",
+      "count": 2349,
+      "desc": "金色或黄金制成的头冠",
+      "kw": "金色头饰 / 金冠 / 金色小皇冠 / 黄金头冠 / 金色冠冕 / 金头冠 / 头饰 / 首饰"
+    },
+    {
+      "en": "grape hair ornament",
+      "zh": "葡萄发饰",
+      "rating": "g",
+      "count": 960,
+      "desc": "单颗或成串葡萄形状的发饰",
+      "kw": "葡萄形发饰 / 葡萄造型发饰 / 葡萄装饰发饰 / 葡萄头发装饰 / 发饰 / 饰品"
+    },
+    {
+      "en": "green bandana",
+      "zh": "绿色头巾",
+      "rating": "g",
+      "count": 1624,
+      "desc": "系在头上的绿色头巾",
+      "kw": "绿头巾 / 绿色方巾 / 绿色包头巾 / 绿色扎头巾 / 绿色印花头巾 / 绿色头帕 / 头饰 / 配饰"
+    },
+    {
+      "en": "green bonnet",
+      "zh": "绿色软帽",
+      "rating": "g",
+      "count": 1038,
+      "desc": "绿色的系带软帽",
+      "kw": "绿色系带软帽 / 绿色婴儿帽 / 绿色童帽 / 绿色遮阳帽 / 绿色无边软帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "green hairband",
+      "zh": "绿色发带",
+      "rating": "g",
+      "count": 8698,
+      "desc": "呈绿色的发带，非头带",
+      "kw": "绿色束发带 / 绿色发圈 / 绿色发带环 / 绿色发饰带 / 发饰 / 头饰"
+    },
+    {
+      "en": "green headband",
+      "zh": "绿色头带",
+      "rating": "g",
+      "count": 3542,
+      "desc": "绿色的头带，非发带。",
+      "kw": "绿色头巾 / 绿头带 / 绿色运动头带 / 绿色束发带 / 绿色发带 / 发饰"
+    },
+    {
+      "en": "green headscarf",
+      "zh": "绿色包头巾",
+      "rating": "g",
+      "count": 2016,
+      "desc": "绿色的包头巾或头巾",
+      "kw": "绿色头巾 / 绿头巾 / 绿色包头布 / 绿包头巾 / 绿色头帕 / 绿头帕 / 绿色头巾布 / 绿包头布"
+    },
+    {
+      "en": "green helmet",
+      "zh": "绿色头盔",
+      "rating": "g",
+      "count": 1574,
+      "desc": "呈绿色的护头盔具",
+      "kw": "绿头盔 / 绿色盔 / 绿色安全帽 / 绿安全帽 / 头盔 / 头饰 / 装备"
+    },
+    {
+      "en": "green hood",
+      "zh": "绿色兜帽",
+      "rating": "g",
+      "count": 1343,
+      "desc": "呈绿色的兜帽，可能覆盖头部。",
+      "kw": "绿兜帽 / 绿色头套 / 绿色帽兜 / 绿色连帽 / 绿帽衫兜帽 / 绿色兜头帽 / 绿色风帽 / 头饰"
+    },
+    {
+      "en": "green scrunchie",
+      "zh": "绿色大肠发圈",
+      "rating": "g",
+      "count": 2183,
+      "desc": "绿色的大肠发圈。",
+      "kw": "绿色大肠圈 / 绿色发圈 / 绿色发束 / 绿色发绳 / 绿色大肠发饰 / 发饰"
+    },
+    {
+      "en": "grey hairband",
+      "zh": "灰色发箍",
+      "rating": "g",
+      "count": 4014,
+      "desc": "颜色为灰色的发箍或发带。",
+      "kw": "灰发箍 / 灰色发带 / 灰色发圈 / 灰色束发带 / 灰色头箍 / 发饰 / 头饰"
+    },
+    {
+      "en": "grey helmet",
+      "zh": "灰色头盔",
+      "rating": "g",
+      "count": 1554,
+      "desc": "颜色为灰色的头盔",
+      "kw": "灰头盔 / 灰色盔 / 银灰头盔 / 头盔 / 防护装备"
+    },
+    {
+      "en": "grey hood",
+      "zh": "灰色兜帽",
+      "rating": "g",
+      "count": 679,
+      "desc": "灰色兜帽，常指衣物上的帽子。",
+      "kw": "灰色头套 / 灰色连帽 / 灰兜帽 / 灰色风帽 / 兜帽 / 头饰"
+    },
+    {
+      "en": "grey veil",
+      "zh": "灰色头纱",
+      "rating": "g",
+      "count": 669,
+      "desc": "颜色为灰色的面纱",
+      "kw": "灰色面纱 / 灰色纱巾 / 灰纱 / 灰色薄纱 / 灰面纱 / 面纱 / 头饰"
+    },
+    {
+      "en": "guan hat",
+      "zh": "冠帽",
+      "rating": "g",
+      "count": 527,
+      "desc": "汉服及中式古风头饰中的冠",
+      "kw": "头冠 / 发冠 / 中式冠 / 汉服冠 / 古风头冠 / 冠饰 / 束发冠 / 官帽 / 冠"
+    },
+    {
+      "en": "hair belt",
+      "zh": "头发上的皮带",
+      "rating": "g",
+      "count": 1049,
+      "desc": "当作发饰系在头发上的皮带",
+      "kw": "皮带发饰 / 皮带系发 / 发用皮带 / 发饰皮带 / 头发绑皮带 / 发带（腰带式） / 发饰 / 头饰"
+    },
+    {
+      "en": "hair branch",
+      "zh": "发间树枝",
+      "rating": "g",
+      "count": 705,
+      "desc": "插在头发上的树枝装饰",
+      "kw": "头发插树枝 / 发插树枝 / 树枝发饰 / 头上树枝 / 树枝头饰 / 发间枝条 / 树枝发夹 / 树枝发"
+    },
+    {
+      "en": "hair vines",
+      "zh": "发间藤蔓",
+      "rating": "g",
+      "count": 2129,
+      "desc": "盘在头发上的藤蔓装饰",
+      "kw": "头发藤蔓 / 藤蔓发饰 / 发上藤蔓 / 发丝藤蔓 / 藤蔓缠发 / 藤蔓头饰 / 发藤 / 发饰"
+    },
+    {
+      "en": "hairclip",
+      "zh": "发夹",
+      "rating": "g",
+      "count": 526541,
+      "desc": "用于固定或装饰头发的夹子",
+      "kw": "发卡 / 发片 / 发针 / 头发夹子 / 边夹 / 卡子 / 发饰夹 / 发夹子 / hairclips / hair clip / hair clips / barrette"
+    },
+    {
+      "en": "hat bell",
+      "zh": "帽子铃",
+      "rating": "g",
+      "count": 1276,
+      "desc": "挂在帽子上的铃铛",
+      "kw": "帽铃 / 帽子铃铛 / 帽上铃铛 / 帽子上的铃铛 / 帽子装饰 / 铃铛"
+    },
+    {
+      "en": "hat belt",
+      "zh": "帽子皮带",
+      "rating": "g",
+      "count": 2081,
+      "desc": "作为装饰环在帽子上的皮带",
+      "kw": "帽带 / 帽饰皮带 / 帽子装饰带 / 帽圈皮带 / 帽子带 / 帽子配件 / 配饰"
+    },
+    {
+      "en": "hat on back",
+      "zh": "背在背后的帽子",
+      "rating": "g",
+      "count": 2303,
+      "desc": "被系在背后的帽子",
+      "kw": "帽子背在身后 / 帽子挂在背后 / 背后挂帽 / 帽子系在背后 / 背后的帽子 / 帽子 / 头饰 / hat behind back / hat around neck"
+    },
+    {
+      "en": "hat pin",
+      "zh": "帽子别针",
+      "rating": "g",
+      "count": 954,
+      "desc": "固定在帽子上的别针装饰。",
+      "kw": "帽针 / 帽饰别针 / 帽子装饰针 / 帽饰针 / 帽饰 / 配饰"
+    },
+    {
+      "en": "headgear",
+      "zh": "头部装备",
+      "rating": "g",
+      "count": 102699,
+      "desc": "帽子与发饰之外的专用头部装备。",
+      "kw": "头饰 / 头戴装备 / 头戴物 / 头部穿戴 / 头上装备 / 头部饰品 / 头面装备 / 头盔"
+    },
+    {
+      "en": "headphones for animal ears",
+      "zh": "兽耳专用耳机",
+      "rating": "g",
+      "count": 156,
+      "desc": "专为兽耳设计、可套在兽耳上的耳机",
+      "kw": "兽耳耳机 / 动物耳耳机 / 兽耳用耳机 / 兽人耳机 / 兽耳式耳机 / 耳机 / 兽耳配饰"
+    },
+    {
+      "en": "headphones removed",
+      "zh": "摘下耳机",
+      "rating": "g",
+      "count": 790,
+      "desc": "耳机出现在画面中但未被佩戴的状态",
+      "kw": "耳机 / 动作 / 姿势"
+    },
+    {
+      "en": "headwear with attached mittens",
+      "zh": "连指手套帽",
+      "rating": "g",
+      "count": 664,
+      "desc": "连着连指手套的帽子或兜帽",
+      "kw": "带连指手套的帽子 / 连手套头饰 / 连指手套头套 / 连手套帽子 / 连带手套的头饰 / 头饰 / 冬季配饰"
+    },
+    {
+      "en": "helmet over eyes",
+      "zh": "头盔遮眼",
+      "rating": "g",
+      "count": 1677,
+      "desc": "头盔戴得低，遮住眼睛但露出其他面部。",
+      "kw": "头盔遮住眼睛 / 头盔盖眼 / 头盔挡眼 / 头盔蒙眼 / 头盔遮目 / 头盔 / 遮挡 / 眼部遮挡"
+    },
+    {
+      "en": "hexagon hair ornament",
+      "zh": "六边形发饰",
+      "rating": "g",
+      "count": 1716,
+      "desc": "六边形形状的发饰",
+      "kw": "六角形发饰 / 六边形头饰 / 六角发饰 / 六角形发卡 / 蜂窝形发饰 / 发饰 / 配饰"
+    },
+    {
+      "en": "holly hair ornament",
+      "zh": "冬青发饰",
+      "rating": "g",
+      "count": 1539,
+      "desc": "冬青叶形状的发饰。",
+      "kw": "冬青叶发饰 / 冬青发夹 / 冬青头饰 / 圣诞冬青发饰 / 冬青叶头饰 / 冬青装饰发饰 / 发饰 / 圣诞"
+    },
+    {
+      "en": "hood up",
+      "zh": "戴上兜帽",
+      "rating": "g",
+      "count": 83415,
+      "desc": "把兜帽戴在头上",
+      "kw": "戴兜帽 / 兜帽戴上 / 兜帽遮头 / 兜帽盖头 / 连帽戴起 / 帽子戴起 / 戴着兜帽 / 兜帽"
+    },
+    {
+      "en": "horn bow",
+      "zh": "系蝴蝶结的角",
+      "rating": "g",
+      "count": 4853,
+      "desc": "角或鹿角上系着蝴蝶结",
+      "kw": "角上蝴蝶结 / 蝴蝶结角饰 / 绑蝴蝶结的角 / 角系蝴蝶结 / 角弓 / 弓箭 / 武器 / 古风"
+    },
+    {
+      "en": "horn flower",
+      "zh": "角上戴花",
+      "rating": "g",
+      "count": 2160,
+      "desc": "插在角上的花朵装饰。",
+      "kw": "角上花饰 / 角饰花 / 角上的花朵 / 头饰 / 花饰"
+    },
+    {
+      "en": "horn hairband",
+      "zh": "角状发箍",
+      "rating": "g",
+      "count": 5156,
+      "desc": "带角状装饰的发箍",
+      "kw": "角发箍 / 带角的发箍 / 恶魔角发箍 / 尖角发箍 / 兽角发箍 / 角饰发箍 / 角发带 / 发饰"
+    },
+    {
+      "en": "horn ribbon",
+      "zh": "角上缎带",
+      "rating": "g",
+      "count": 9561,
+      "desc": "缠绕在角或鹿角上的缎带",
+      "kw": "角系缎带 / 角上蝴蝶结 / 鹿角缎带 / 角部缎带 / 角上丝带 / 角结带 / 角系带 / 角饰 / horn ribbons"
+    },
+    {
+      "en": "horned hat",
+      "zh": "角帽",
+      "rating": "g",
+      "count": 1435,
+      "desc": "设计上带角的帽子。",
+      "kw": "带角帽子 / 带角的帽子 / 有角帽 / 带角帽 / 角饰帽 / 帽子带角 / 有角帽子 / 帽子 / hat horns"
+    },
+    {
+      "en": "horned headwear",
+      "zh": "角状头饰",
+      "rating": "g",
+      "count": 5865,
+      "desc": "带有假角的头饰，不含头盔",
+      "kw": "有角的头饰 / 假角头饰 / 角头饰 / 带角头饰 / 角状头冠 / 有角头饰 / 头饰 / 幻想"
+    },
+    {
+      "en": "horned hood",
+      "zh": "带角兜帽",
+      "rating": "g",
+      "count": 1300,
+      "desc": "帽顶带角的兜帽",
+      "kw": "角兜帽 / 有角兜帽 / 长角兜帽 / 恶魔角兜帽 / 角帽 / 兽角兜帽 / 角罩 / 兜帽"
+    },
+    {
+      "en": "horns through headwear",
+      "zh": "角从头饰穿出",
+      "rating": "g",
+      "count": 3548,
+      "desc": "角穿过帽子等头饰露出来",
+      "kw": "角穿过头饰 / 角从头饰伸出 / 角穿过帽子 / 带角帽 / 角头饰 / 角 / 头饰 / antlers through headwear"
+    },
+    {
+      "en": "horns through hood",
+      "zh": "角穿过兜帽",
+      "rating": "g",
+      "count": 548,
+      "desc": "戴着兜帽时角穿过兜帽",
+      "kw": "角穿过头套 / 角穿出头套 / 角从兜帽穿出 / 兜帽顶角 / 角顶破兜帽 / 穿过兜帽的角 / 幻想 / 兜帽 / antlers through hood"
+    },
+    {
+      "en": "horseshoe hat ornament",
+      "zh": "马蹄铁帽饰",
+      "rating": "g",
+      "count": 1236,
+      "desc": "马蹄铁形状的帽子装饰",
+      "kw": "马蹄形帽饰 / 马蹄帽饰 / 马蹄铁帽子装饰 / U形帽饰 / 帽子饰品 / 配饰"
+    },
+    {
+      "en": "interface headset (evangelion)",
+      "zh": "EVA头部接口装置",
+      "rating": "g",
+      "count": 9584,
+      "desc": "EVA驾驶员戴在头上的通信头环装置",
+      "kw": "接口式耳机 / EVA神经连接端子 / EVA驾驶头部装置 / 头部接口 / EVA头饰 / EVA头部感应器 / 头部接口装置 / 科幻"
+    },
+    {
+      "en": "jack-o'-lantern hair ornament",
+      "zh": "南瓜灯发饰",
+      "rating": "g",
+      "count": 850,
+      "desc": "南瓜灯形状的发饰",
+      "kw": "杰克南瓜灯发饰 / 南瓜灯笼发饰 / 南瓜头发饰 / 万圣节南瓜发饰 / 杰克灯发饰 / 发饰 / 万圣节 / 饰品"
+    },
+    {
+      "en": "kanmuri (headwear)",
+      "zh": "冠（头饰）",
+      "rating": "g",
+      "count": 1258,
+      "desc": "日本宫廷成年男子戴的冠。",
+      "kw": "日式冠 / 日本冠 / 冠帽 / 束带冠 / 公家冠 / 冠 (头饰) / 日本传统帽子 / 宫廷冠"
+    },
+    {
+      "en": "knit hat",
+      "zh": "针织帽",
+      "rating": "g",
+      "count": 1097,
+      "desc": "羊毛织成的保暖针织帽。",
+      "kw": "毛线帽 / 编织帽 / 针织便帽 / 保暖针织帽 / 羊毛帽 / 毛线针织帽 / 帽子 / 头饰 / ニット帽 / 비니"
+    },
+    {
+      "en": "lace-trimmed hairband",
+      "zh": "蕾丝边发带",
+      "rating": "g",
+      "count": 1659,
+      "desc": "边缘饰有蕾丝的发箍或发带。",
+      "kw": "蕾丝发箍 / 蕾丝边发箍 / 蕾丝发带 / 蕾丝边头带 / 蕾丝发圈 / 蕾丝装饰发带 / 发饰 / 头饰"
+    },
+    {
+      "en": "lace-trimmed headwear",
+      "zh": "蕾丝饰边头饰",
+      "rating": "g",
+      "count": 944,
+      "desc": "带蕾丝花边装饰的帽子、发饰等头饰",
+      "kw": "花边饰边头饰 / 蕾丝花边头饰 / 蕾丝边头饰 / 花边头饰 / 蕾丝装饰帽子 / 花边帽子 / 头饰 / 配饰"
+    },
+    {
+      "en": "large hat",
+      "zh": "大帽子",
+      "rating": "g",
+      "count": 8419,
+      "desc": "明显大于头部的帽子",
+      "kw": "大帽 / 超大帽子 / 巨型帽子 / 大号帽子 / 帽子 / 头饰 / big hat"
+    },
+    {
+      "en": "leaf hair ornament",
+      "zh": "叶片发饰",
+      "rating": "g",
+      "count": 21403,
+      "desc": "叶子形状的发饰",
+      "kw": "叶子发饰 / 树叶发饰 / 叶片头饰 / 叶子头饰 / 叶形发夹 / 叶形发簪 / 叶片装饰 / 发饰 / hair leaf"
+    },
+    {
+      "en": "lemon hair ornament",
+      "zh": "柠檬发饰",
+      "rating": "g",
+      "count": 861,
+      "desc": "柠檬形状的发饰。",
+      "kw": "柠檬头饰 / 柠檬发夹 / 柠檬饰品 / 柠檬头花 / 发饰 / 头饰"
+    },
+    {
+      "en": "letter hair ornament",
+      "zh": "字母发饰",
+      "rating": "g",
+      "count": 3810,
+      "desc": "字母形状的发饰",
+      "kw": "字母头饰 / 字母发卡 / 字母发夹 / 发饰 / 饰品"
+    },
+    {
+      "en": "lifebuoy hair ornament",
+      "zh": "救生圈发饰",
+      "rating": "g",
+      "count": 2088,
+      "desc": "救生圈形状的发饰",
+      "kw": "救生圈发夹 / 救生圈头饰 / 救生圈发卡 / 救生圈发绳 / 救生圈发带 / 救生圈发型装饰 / 发饰 / 配饰"
+    },
+    {
+      "en": "lightning bolt hair ornament",
+      "zh": "闪电形发饰",
+      "rating": "g",
+      "count": 1731,
+      "desc": "闪电形状的发饰",
+      "kw": "闪电发饰 / 闪电头饰 / 雷电形发饰 / 闪电形状发卡 / 发饰 / 头饰"
+    },
+    {
+      "en": "lolita hairband",
+      "zh": "洛丽塔发箍",
+      "rating": "g",
+      "count": 18097,
+      "desc": "常带褶边装饰的宽发箍，洛丽塔风格",
+      "kw": "萝莉塔发箍 / 洛丽塔头带 / 洛丽塔发带 / 洛丽塔宽发箍 / 洛丽塔头饰 / 蕾丝发箍 / 褶边发箍 / 洛丽塔 / lolita headband"
+    },
+    {
+      "en": "magatama hair ornament",
+      "zh": "勾玉发饰",
+      "rating": "g",
+      "count": 732,
+      "desc": "勾玉形状的发饰",
+      "kw": "勾玉头饰 / 勾玉发簪 / 勾玉发夹 / 勾玉发卡 / 勾玉饰品 / 发饰 / 日本风格 / 古风"
+    },
+    {
+      "en": "magik's crown",
+      "zh": "秘客的头冠",
+      "rating": "g",
+      "count": 979,
+      "desc": "漫威角色秘客伊莉亚娜头上的黑色头冠饰品。",
+      "kw": "秘客头冠 / 伊莉亚娜头冠 / 秘客黑色头冠 / 秘客之冠 / 秘客的王冠 / 秘客头饰 / 王冠头带 / limbo女王标志"
+    },
+    {
+      "en": "metal hair tubes",
+      "zh": "金属发管",
+      "rating": "g",
+      "count": 1097,
+      "desc": "用金属制成的管状发饰。",
+      "kw": "金属发饰管 / 金属发管饰 / 金属管子发饰 / 金属发筒 / 金属发圈管 / 发饰 / 配饰"
+    },
+    {
+      "en": "metal hairband",
+      "zh": "金属发带",
+      "rating": "g",
+      "count": 4320,
+      "desc": "用金属制成的发带",
+      "kw": "金属发箍 / 金属头带 / 金属发圈 / 钢制发带 / 铁发带 / 发箍 / 头箍"
+    },
+    {
+      "en": "mini chef hat",
+      "zh": "迷你厨师帽",
+      "rating": "g",
+      "count": 1155,
+      "desc": "尺寸较小的厨师帽",
+      "kw": "小厨师帽 / 迷你厨帽 / 小型厨师帽 / 厨师小帽 / 短厨师帽 / 儿童厨师帽 / 帽子 / 厨师帽"
+    },
+    {
+      "en": "motoyui",
+      "zh": "元结",
+      "rating": "g",
+      "count": 1697,
+      "desc": "日本传统的元结发带，多为白色布条。",
+      "kw": "元结带 / 元结发带 / 日本传统发带 / 白色发带 / 发绳元结 / 元结绳 / 元结 (发绳) / 发绳 / 元結い"
+    },
+    {
+      "en": "multicolored hair bobbles",
+      "zh": "多色发圈",
+      "rating": "g",
+      "count": 1560,
+      "desc": "颜色多样的发圈或发绳",
+      "kw": "彩色发圈 / 多色发绳 / 彩色发绳 / 多色头绳 / 彩色头绳 / 多色发带 / 彩色发带 / 多色发球圈"
+    },
+    {
+      "en": "multicolored hairband",
+      "zh": "彩色发箍",
+      "rating": "g",
+      "count": 6596,
+      "desc": "由多种颜色组成的发箍",
+      "kw": "彩色发带 / 彩色头带 / 多彩发箍 / 多色发箍 / 五颜六色发箍 / 彩色头饰 / 多色发带 / 发饰"
+    },
+    {
+      "en": "multiple hair bows",
+      "zh": "多个蝴蝶结发饰",
+      "rating": "g",
+      "count": 18527,
+      "desc": "头发上佩戴三个以上蝴蝶结发饰",
+      "kw": "多个发夹蝴蝶结 / 多重蝴蝶结 / 多个发饰蝴蝶结 / 头发多个蝴蝶结 / 多蝴蝶结发饰 / 三个以上蝴蝶结 / 多个蝴蝶结 / 发饰"
+    },
+    {
+      "en": "multiple hair clips",
+      "zh": "多个发卡",
+      "rating": "g",
+      "count": 1330,
+      "desc": "头发上固定多个发夹饰品。",
+      "kw": "发饰 / 发夹"
+    },
+    {
+      "en": "multiple hair ribbons",
+      "zh": "多条发带",
+      "rating": "g",
+      "count": 542,
+      "desc": "两个以上发带，通常分列头部两侧",
+      "kw": "多个发带 / 双发带 / 多个蝴蝶结发带 / 发饰 / 头发饰品"
+    },
+    {
+      "en": "multiple hairclips",
+      "zh": "多个发夹",
+      "rating": "g",
+      "count": 7296,
+      "desc": "头发上佩戴一个以上的发夹",
+      "kw": "多个发卡 / 多枚发夹 / 复数发夹 / 多个发饰夹 / 头发上有多个夹子 / 多个发卡子 / 发饰 / 头饰 / multiple hair clips / multiple hairpins"
+    },
+    {
+      "en": "multiple hairpins",
+      "zh": "多个发卡",
+      "rating": "g",
+      "count": 3398,
+      "desc": "角色在头发上佩戴多个发卡。",
+      "kw": "发饰 / 头饰"
+    },
+    {
+      "en": "multiple hat bows",
+      "zh": "多个帽子蝴蝶结",
+      "rating": "g",
+      "count": 692,
+      "desc": "帽子上附有三个以上蝴蝶结",
+      "kw": "帽子多个蝴蝶结 / 多蝴蝶结帽子 / 帽子多蝴蝶结 / 帽子多结 / 多结帽 / 多蝴蝶结帽 / 帽子上面多个蝴蝶结 / 帽饰多个蝴蝶结"
+    },
+    {
+      "en": "multiple hats",
+      "zh": "多顶帽子",
+      "rating": "g",
+      "count": 1188,
+      "desc": "角色同时戴多顶帽子或帽子与其他头饰叠加。",
+      "kw": "多重帽子 / 叠戴帽子 / 戴多顶帽 / 帽子叠戴 / 多顶头饰 / 戴好几顶帽子 / 帽子加头饰 / 双层帽子"
+    },
+    {
+      "en": "mushroom hat",
+      "zh": "蘑菇帽",
+      "rating": "g",
+      "count": 589,
+      "desc": "仿照蘑菇伞盖造型的帽子",
+      "kw": "蘑菇帽子 / 蘑菇造型帽 / 蘑菇头帽 / 菌菇帽 / 帽子 / 奇幻"
+    },
+    {
+      "en": "musical note hair ornament",
+      "zh": "音符发饰",
+      "rating": "g",
+      "count": 10363,
+      "desc": "音符形状的发饰。",
+      "kw": "音符发夹 / 音符头饰 / 音符发卡 / 音符造型发饰 / 发饰 / 音乐主题 / bass clef hair ornament / fortissimo hair ornament / treble clef hair ornament"
+    },
+    {
+      "en": "no hair ornament",
+      "zh": "没有发饰",
+      "rating": "g",
+      "count": 1120,
+      "desc": "通常戴发饰的角色未戴发饰",
+      "kw": "无发饰 / 未戴发饰 / 缺发饰 / 无头发装饰 / 无头饰"
+    },
+    {
+      "en": "no hairband",
+      "zh": "没戴发箍",
+      "rating": "g",
+      "count": 503,
+      "desc": "常戴发箍的角色头上没有发箍",
+      "kw": "未戴发箍 / 无发箍 / 缺少发箍 / 没戴发卡 / 没戴头箍 / 没有发带 / 没有头饰 / 没带发带"
+    },
+    {
+      "en": "no headwear",
+      "zh": "无头饰",
+      "rating": "g",
+      "count": 44206,
+      "desc": "通常戴头饰的人没有佩戴任何头饰",
+      "kw": "裸头"
+    },
+    {
+      "en": "nontraditional witch hat",
+      "zh": "非传统巫师帽",
+      "rating": "g",
+      "count": 864,
+      "desc": "外形怪异的巫师帽，如蜡烛形或活体帽",
+      "kw": "异形巫师帽 / 怪异巫师帽 / 特殊巫师帽 / 另类巫师帽 / 非传统魔女帽 / 非标准女巫帽"
+    },
+    {
+      "en": "nun headdress",
+      "zh": "修女头饰",
+      "rating": "g",
+      "count": 17759,
+      "desc": "修女头饰，由头巾、温帕尔与面纱等组成。",
+      "kw": "修女帽 / 修女头巾 / 修女头冠 / 修女面纱 / 修女头巾组合 / 头饰 / 宗教"
+    },
+    {
+      "en": "orange bandana",
+      "zh": "橙色头巾",
+      "rating": "g",
+      "count": 1256,
+      "desc": "橙色的头巾，可包头或系在颈上",
+      "kw": "橙色方巾 / 橘色头巾 / 橘色方巾 / 橙头巾 / 橙色印花头巾 / 头饰 / 配件"
+    },
+    {
+      "en": "orange hairband",
+      "zh": "橙色发带",
+      "rating": "g",
+      "count": 6217,
+      "desc": "橙色发带，用来束发或装饰",
+      "kw": "橘色发带 / 橙色头带 / 橙色发箍 / 橙色束发带 / 橘色发箍 / 橙色发圈 / 发饰 / 头饰"
+    },
+    {
+      "en": "orange headband",
+      "zh": "橙色头带",
+      "rating": "g",
+      "count": 2337,
+      "desc": "橙色的头带，系在额前",
+      "kw": "橙色头巾 / 橘色头带 / 橙发带 / 橙色额带 / 橙色发带 / 发饰 / 头带"
+    },
+    {
+      "en": "orange scrunchie",
+      "zh": "橙色大肠发圈",
+      "rating": "g",
+      "count": 3900,
+      "desc": "橙色的大肠发圈",
+      "kw": "橙色发圈 / 橙色大肠圈 / 橙色发束 / 橙色布发圈 / 橙色橡皮筋发圈 / 橙色大肠筋 / 发圈 / 发饰"
+    },
+    {
+      "en": "orca hair ornament",
+      "zh": "虎鲸发饰",
+      "rating": "g",
+      "count": 893,
+      "desc": "虎鲸形状的发饰或发夹",
+      "kw": "虎鲸发夹 / 虎鲸头饰 / 虎鲸发卡 / 虎鲸造型发饰 / 虎鲸装饰发饰 / 发饰 / 动物主题"
+    },
+    {
+      "en": "orca hood",
+      "zh": "虎鲸头套",
+      "rating": "g",
+      "count": 1019,
+      "desc": "仿照虎鲸头部造型的兜帽",
+      "kw": "虎鲸兜帽 / 虎鲸帽子 / 逆戟鲸头套 / 杀人鲸头套 / 帽子 / 头饰 / 动物主题"
+    },
+    {
+      "en": "panda hair ornament",
+      "zh": "熊猫发饰",
+      "rating": "g",
+      "count": 1296,
+      "desc": "熊猫脸或小熊猫形状的发饰",
+      "kw": "熊猫发夹 / 熊猫发卡 / 熊猫头饰 / 熊猫造型发饰 / 发饰 / 动物"
+    },
+    {
+      "en": "panda hood",
+      "zh": "熊猫兜帽",
+      "rating": "g",
+      "count": 1190,
+      "desc": "带有熊猫耳朵或熊猫脸部特征的兜帽。",
+      "kw": "熊猫头套 / 熊猫帽 / 熊猫连帽衫 / 熊猫帽子 / 熊猫造型兜帽 / 熊猫耳兜帽 / 熊猫外套帽 / 熊猫连帽卫衣帽"
+    },
+    {
+      "en": "parallel hairclips",
+      "zh": "平行发夹",
+      "rating": "g",
+      "count": 28118,
+      "desc": "多个互相平行排列的发夹。",
+      "kw": "平行发卡 / 并排发夹 / 平行发夹饰品 / 平行卡子 / 对夹 / = hair ornament"
+    },
+    {
+      "en": "paw hair ornament",
+      "zh": "爪子发饰",
+      "rating": "g",
+      "count": 1097,
+      "desc": "爪子形状的头发装饰。",
+      "kw": "猫爪发饰 / 兽爪发饰 / 爪形发饰 / 爪子头饰 / 爪形头饰 / 爪子发卡 / 爪爪发饰 / 发饰"
+    },
+    {
+      "en": "peach hair ornament",
+      "zh": "桃子发饰",
+      "rating": "g",
+      "count": 597,
+      "desc": "桃子形状的发饰",
+      "kw": "桃子头饰 / 桃形发饰 / 桃子发卡 / 桃子装饰 / 水蜜桃发饰 / 发饰 / 头饰 / 饰品"
+    },
+    {
+      "en": "peacock feathers hair ornament",
+      "zh": "孔雀羽发饰",
+      "rating": "g",
+      "count": 535,
+      "desc": "孔雀羽毛制成的发饰",
+      "kw": "孔雀羽毛发饰 / 孔雀羽饰 / 孔雀毛发饰 / 孔雀羽毛头饰 / 孔雀发簪 / 孔雀羽头饰 / 孔雀羽毛 / 发饰"
+    },
+    {
+      "en": "pearl hair ornament",
+      "zh": "珍珠发饰",
+      "rating": "g",
+      "count": 3109,
+      "desc": "用珍珠制成的发饰。",
+      "kw": "珍珠头饰 / 珍珠发夹 / 珍珠发簪 / 珍珠发卡 / 珍珠头花 / 珍珠装饰发饰 / 珍珠发绳 / 珍珠发箍"
+    },
+    {
+      "en": "penguin hat (mawaru penguindrum)",
+      "zh": "企鹅帽（回转企鹅罐）",
+      "rating": "g",
+      "count": 546,
+      "desc": "出自《回转企鹅罐》的企鹅帽",
+      "kw": "企鹅帽 / 回转企鹅罐企鹅帽 / 企鹅帽子 / 回转企鹅罐 / 水晶公主"
+    },
+    {
+      "en": "penguin hood",
+      "zh": "企鹅兜帽",
+      "rating": "g",
+      "count": 1434,
+      "desc": "模仿企鹅的动物兜帽",
+      "kw": "企鹅帽子 / 企鹅头套 / 企鹅连帽 / 企鹅造型兜帽 / 企鹅帽 / 头饰 / 动物主题"
+    },
+    {
+      "en": "phrygian cap",
+      "zh": "弗里吉亚帽",
+      "rating": "g",
+      "count": 1197,
+      "desc": "顶部向前垂的软质无檐弗里吉亚帽",
+      "kw": "自由帽 / 弗里吉亚软帽 / 弗吉尼亚帽 / 红帽子 / 帽子 / 历史服饰 / 自由象征"
+    },
+    {
+      "en": "pill hair ornament",
+      "zh": "药丸发饰",
+      "rating": "g",
+      "count": 1014,
+      "desc": "药丸形状的发饰",
+      "kw": "药丸发夹 / 胶囊发饰 / 药片发饰 / 药丸头饰 / 发饰 / 头饰"
+    },
+    {
+      "en": "pink crown",
+      "zh": "粉色王冠",
+      "rating": "g",
+      "count": 1186,
+      "desc": "戴在头上的粉色王冠。",
+      "kw": "粉红色王冠 / 粉王冠 / 粉冠 / 粉色皇冠 / 粉红皇冠 / 桃色王冠 / 皇冠 / 头饰"
+    },
+    {
+      "en": "pink hairband",
+      "zh": "粉色发箍",
+      "rating": "g",
+      "count": 17984,
+      "desc": "粉色发箍或头箍。",
+      "kw": "粉色头箍 / 粉发箍 / 粉色头带 / 粉色发带 / 粉色饰带 / 发饰 / 配饰"
+    },
+    {
+      "en": "pink headband",
+      "zh": "粉色头带",
+      "rating": "g",
+      "count": 2092,
+      "desc": "粉色的头带或发带，与发箍不同",
+      "kw": "粉红头带 / 粉色发带 / 粉红发带 / 粉色额带 / 粉红束发带 / 粉色束发带 / 发带 / 发饰"
+    },
+    {
+      "en": "pink helmet",
+      "zh": "粉色头盔",
+      "rating": "g",
+      "count": 909,
+      "desc": "保护头部的粉色头盔",
+      "kw": "粉红色头盔 / 粉头盔 / 粉色安全帽 / 头盔 / 装备"
+    },
+    {
+      "en": "pink hood",
+      "zh": "粉色兜帽",
+      "rating": "g",
+      "count": 745,
+      "desc": "连在衣上的粉色兜帽",
+      "kw": "粉红兜帽 / 粉色头兜 / 粉色连衣帽 / 粉红帽 / 粉色帽子 / 粉色头套 / 粉红头兜 / 兜帽"
+    },
+    {
+      "en": "pink scrunchie",
+      "zh": "粉色大肠发圈",
+      "rating": "g",
+      "count": 6748,
+      "desc": "粉色的大肠发圈（弹性布艺发圈）。",
+      "kw": "粉色发圈 / 粉色大肠圈 / 粉红色发圈 / 粉色发束 / 粉色发绳 / 发饰 / 配饰"
+    },
+    {
+      "en": "pinwheel hair ornament",
+      "zh": "风车发饰",
+      "rating": "g",
+      "count": 734,
+      "desc": "做成风车形状的发饰",
+      "kw": "风车头饰 / 风车发夹 / 纸风车发饰 / 风车形发饰 / 风车发簪 / 发饰 / 头饰"
+    },
+    {
+      "en": "plaid hat",
+      "zh": "格子帽",
+      "rating": "g",
+      "count": 4301,
+      "desc": "带格纹图案的帽子",
+      "kw": "格子花纹帽 / 格纹帽 / 苏格兰格帽 / 花格帽 / 方格帽 / 帽子 / 格纹"
+    },
+    {
+      "en": "planet hair ornament",
+      "zh": "行星发饰",
+      "rating": "g",
+      "count": 1380,
+      "desc": "形似行星的发饰，多为土星造型",
+      "kw": "星球发饰 / 土星发饰 / 行星头饰 / 星球头饰 / 行星发卡 / 土星发卡 / 发饰 / 头饰"
+    },
+    {
+      "en": "pointed crown",
+      "zh": "尖顶王冠",
+      "rating": "g",
+      "count": 2852,
+      "desc": "边缘带一个或多个尖角（常为鸢尾花形）的王冠",
+      "kw": "尖角王冠 / 尖顶皇冠 / 尖塔形王冠 / 带尖顶的王冠 / 尖头王冠 / 尖顶冠冕 / 王冠 / 头饰"
+    },
+    {
+      "en": "pointy hat",
+      "zh": "尖顶帽",
+      "rating": "g",
+      "count": 559,
+      "desc": "泛指各种顶部尖锐的帽子，如女巫帽、小丑帽等。",
+      "kw": "帽子 / 魔幻"
+    },
+    {
+      "en": "polka dot hairband",
+      "zh": "圆点发箍",
+      "rating": "g",
+      "count": 879,
+      "desc": "带圆点或波点图案的发箍",
+      "kw": "波点发箍 / 圆点发带 / 波点发带 / 圆点头箍 / 波点头箍 / 发饰 / 头饰"
+    },
+    {
+      "en": "polka dot headwear",
+      "zh": "圆点头饰",
+      "rating": "g",
+      "count": 2604,
+      "desc": "带圆点图案的头饰或帽子。",
+      "kw": "波点帽子 / 圆点帽子 / 波点头饰 / 波点头部装饰 / 圆点帽 / 圆点图案头饰 / 头饰 / 配饰 / polka dot hat"
+    },
+    {
+      "en": "polka dot scrunchie",
+      "zh": "圆点大肠发圈",
+      "rating": "g",
+      "count": 1387,
+      "desc": "带圆点图案的大肠发圈",
+      "kw": "波点大肠发圈 / 波点发圈 / 圆点发圈 / 点点发圈 / 斑点发圈 / 圆点发绳 / 波点大肠圈 / 圆点大肠圈"
+    },
+    {
+      "en": "pom pom beanie",
+      "zh": "绒球毛线帽",
+      "rating": "g",
+      "count": 2390,
+      "desc": "顶部带绒球的毛线帽",
+      "kw": "毛球帽 / 毛线球帽 / 顶部带绒球的帽子 / 绒球帽 / 毛球针织帽 / 球球帽 / 针织帽 / 冬季帽 / bobblehat"
+    },
+    {
+      "en": "pom pom hair ornament",
+      "zh": "绒球发饰",
+      "rating": "g",
+      "count": 13098,
+      "desc": "绒球形状的发饰",
+      "kw": "毛球发饰 / 毛绒球发饰 / 发绳绒球 / 绒球头饰 / 球形发饰 / 发饰 / hair pom pom"
+    },
+    {
+      "en": "pom pom hat ornament",
+      "zh": "毛球帽饰",
+      "rating": "g",
+      "count": 776,
+      "desc": "帽子上带绒球装饰",
+      "kw": "帽子绒球装饰 / 毛球装饰帽 / 帽顶毛球 / 绒球帽饰 / 球球帽饰 / 帽饰 / 配饰"
+    },
+    {
+      "en": "ponytail holder",
+      "zh": "马尾发圈",
+      "rating": "g",
+      "count": 677,
+      "desc": "用来固定马尾的发圈或发带",
+      "kw": "马尾发绳 / 马尾扎带 / 发圈 / 头绳 / 束发圈 / 扎头绳 / 马尾束发带 / 马尾皮筋"
+    },
+    {
+      "en": "print bandana",
+      "zh": "印花头巾",
+      "rating": "g",
+      "count": 627,
+      "desc": "印有图案的头巾",
+      "kw": "印花方巾 / 花头巾 / 图案头巾 / 印花大手帕 / 印花帕 / 头巾 / 头饰"
+    },
+    {
+      "en": "print hairband",
+      "zh": "印花发箍",
+      "rating": "g",
+      "count": 867,
+      "desc": "印有图案的发箍",
+      "kw": "印花发带 / 印花头箍 / 图案发箍 / 花发箍 / 花纹发箍 / 印花发圈 / 发饰 / 配饰"
+    },
+    {
+      "en": "print hat",
+      "zh": "印花帽子",
+      "rating": "g",
+      "count": 1175,
+      "desc": "带有特定印花图案的帽子。",
+      "kw": "印花帽 / 图案帽子 / 花帽子 / 印花头饰 / 花帽 / 图案帽 / 帽子"
+    },
+    {
+      "en": "propeller hair ornament",
+      "zh": "螺旋桨发饰",
+      "rating": "g",
+      "count": 910,
+      "desc": "螺旋桨形状的发饰。",
+      "kw": "螺旋桨发夹 / 螺旋桨头饰 / 竹蜻蜓发饰 / 螺旋桨发卡 / 螺旋桨头花 / 发饰 / 头饰"
+    },
+    {
+      "en": "pumpkin hair ornament",
+      "zh": "南瓜发饰",
+      "rating": "g",
+      "count": 1247,
+      "desc": "南瓜形状的头发装饰品",
+      "kw": "南瓜头饰 / 南瓜发夹 / 南瓜发卡 / 南瓜发簪 / 发饰 / 头饰"
+    },
+    {
+      "en": "purple hairband",
+      "zh": "紫色发带",
+      "rating": "g",
+      "count": 11731,
+      "desc": "紫色发带，用来束住或装饰头发",
+      "kw": "紫色发箍 / 紫色头带 / 紫色束发带 / 紫色发圈 / 紫色头箍 / 紫色发饰带 / 发带 / 发饰"
+    },
+    {
+      "en": "purple headband",
+      "zh": "紫色头带",
+      "rating": "g",
+      "count": 1197,
+      "desc": "紫色头带，横过额头束住头发",
+      "kw": "紫色发带 / 紫头带 / 紫色头巾带 / 紫色束发带 / 头饰 / 发饰"
+    },
+    {
+      "en": "purple helmet",
+      "zh": "紫色头盔",
+      "rating": "g",
+      "count": 631,
+      "desc": "紫色保护头部的硬质护具",
+      "kw": "紫头盔 / 紫色战盔 / 头盔 / 护具"
+    },
+    {
+      "en": "purple hood",
+      "zh": "紫色兜帽",
+      "rating": "g",
+      "count": 1088,
+      "desc": "罩住头部的紫色兜帽或风帽。",
+      "kw": "紫色头套 / 紫色风帽 / 紫兜帽 / 紫色连帽 / 紫色帽兜 / 紫头套 / 紫色连衣帽 / 服装"
+    },
+    {
+      "en": "purple scrunchie",
+      "zh": "紫色大肠发圈",
+      "rating": "g",
+      "count": 3130,
+      "desc": "紫色的大肠发圈",
+      "kw": "紫色发圈 / 紫色发绳 / 紫色发带 / 紫色大肠圈 / 紫色发束 / 发饰 / 配饰"
+    },
+    {
+      "en": "purple veil",
+      "zh": "紫色头纱",
+      "rating": "g",
+      "count": 3583,
+      "desc": "紫色面纱或头纱，遮住脸或头部的轻薄布料",
+      "kw": "紫色面纱 / 紫色纱巾 / 紫纱 / 紫色头巾 / 面纱 / 头饰"
+    },
+    {
+      "en": "rabbit ear hairband",
+      "zh": "兔耳发箍",
+      "rating": "g",
+      "count": 37261,
+      "desc": "带兔耳的动物耳发箍，常见于兔女郎装。",
+      "kw": "兔耳头带 / 兔耳发卡 / 兔耳发饰 / 兔耳朵发箍 / 兔子耳朵发箍 / 兔耳头饰 / 兔耳发夹 / 兔耳发圈 / 兔子头带 / うさ耳カチューシャ / うさみみカチューシャ"
+    },
+    {
+      "en": "rabbit hair ornament",
+      "zh": "兔子发饰",
+      "rating": "g",
+      "count": 22369,
+      "desc": "兔脸或小兔子造型的发饰",
+      "kw": "兔子造型发饰 / 小兔子发饰 / 兔发饰 / 兔头饰 / 兔子头饰 / 兔形发饰 / 发饰 / 头饰 / bunny hair ornament"
+    },
+    {
+      "en": "rabbit hood",
+      "zh": "兔子兜帽",
+      "rating": "g",
+      "count": 5685,
+      "desc": "带假兔耳的动物兜帽。",
+      "kw": "兔耳兜帽 / 兔耳帽 / 兔儿兜帽 / 兔子帽子 / 兔耳连帽衫 / 兔耳连帽 / 毛绒兔耳帽 / 兜帽 / bunny hood / rabbit-ear hood / bunny-ear hood"
+    },
+    {
+      "en": "radar hair ornament",
+      "zh": "雷达发饰",
+      "rating": "g",
+      "count": 1019,
+      "desc": "雷达造型的发饰",
+      "kw": "雷达头发装饰 / 雷达发卡 / 雷达头饰 / 发饰 / 头饰"
+    },
+    {
+      "en": "razor blade hair ornament",
+      "zh": "剃刀片发饰",
+      "rating": "g",
+      "count": 1070,
+      "desc": "形状像剃须刀片的发饰或发夹",
+      "kw": "刀片发饰 / 剃须刀片发夹 / 刀片发夹 / 剃刀发夹 / 剃须刀片发饰 / 发饰 / 首饰"
+    },
+    {
+      "en": "red bandana",
+      "zh": "红色头巾",
+      "rating": "g",
+      "count": 6513,
+      "desc": "系在头上或颈部的红色方巾",
+      "kw": "红头巾 / 红色方巾 / 红方巾 / 红色手帕 / 红手帕 / 头饰 / 配饰"
+    },
+    {
+      "en": "red bonnet",
+      "zh": "红色软帽",
+      "rating": "g",
+      "count": 979,
+      "desc": "红色的系带软帽。",
+      "kw": "红色系带软帽 / 红邦尼帽 / 红色系带帽 / 红软帽 / 软帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "red crown",
+      "zh": "红色王冠",
+      "rating": "g",
+      "count": 1510,
+      "desc": "戴在头上的红色王冠",
+      "kw": "红王冠 / 红色皇冠 / 红皇冠 / 朱红王冠 / 皇冠 / 首饰"
+    },
+    {
+      "en": "red hairband",
+      "zh": "红色发箍",
+      "rating": "g",
+      "count": 42239,
+      "desc": "红色的发箍，与红色头带不同。",
+      "kw": "红发箍 / 红色头箍 / 红色头环 / 红色束发带 / 红色发带 / 发饰"
+    },
+    {
+      "en": "red headband",
+      "zh": "红色头带",
+      "rating": "g",
+      "count": 12291,
+      "desc": "红色的头带，佩戴于额头。",
+      "kw": "红头带 / 红色头巾 / 红发带 / 红色额带 / 红色发带 / 发带 / 头饰"
+    },
+    {
+      "en": "red headscarf",
+      "zh": "红色包头巾",
+      "rating": "g",
+      "count": 835,
+      "desc": "包住头部并在颌下打结的红色头巾",
+      "kw": "红头巾 / 红色头巾 / 红色围头巾 / 头饰 / 配饰"
+    },
+    {
+      "en": "red helmet",
+      "zh": "红色头盔",
+      "rating": "g",
+      "count": 4086,
+      "desc": "保护头部的红色头盔。",
+      "kw": "红头盔 / 红色安全帽 / 红安全帽 / 红色盔 / 头盔 / 防护具"
+    },
+    {
+      "en": "red hood",
+      "zh": "红色兜帽",
+      "rating": "g",
+      "count": 4934,
+      "desc": "红色兜帽，常与衣服分离或异色",
+      "kw": "红帽 / 红色连帽 / 红色帽兜 / 红斗篷 / 童话 / 服装 / 斗篷"
+    },
+    {
+      "en": "red scrunchie",
+      "zh": "红色大肠发圈",
+      "rating": "g",
+      "count": 8940,
+      "desc": "红色的大肠发圈",
+      "kw": "红色发圈 / 红大肠发圈 / 红色弹力发圈 / 红色束发圈 / 红色发绳 / 红发圈 / 发圈 / 发饰"
+    },
+    {
+      "en": "red veil",
+      "zh": "红色头纱",
+      "rating": "g",
+      "count": 1051,
+      "desc": "红色面纱/头纱，不包括中式婚礼红盖头。",
+      "kw": "红色面纱 / 红头纱 / 红面纱 / 红色薄纱 / 红纱头巾 / 面纱 / 头饰"
+    },
+    {
+      "en": "red visor cap",
+      "zh": "红色大檐帽",
+      "rating": "g",
+      "count": 1077,
+      "desc": "颜色为红色的大檐帽",
+      "kw": "红色遮阳帽 / 红大檐帽 / 红色鸭舌帽 / 红鸭舌帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "ribbon in braid",
+      "zh": "编入辫子的缎带",
+      "rating": "g",
+      "count": 3570,
+      "desc": "编织在辫子里的缎带",
+      "kw": "辫中丝带 / 辫子丝带 / 发辫缎带 / 编发丝带 / 辫子发带 / 编入辫子的丝带 / 辫子装饰丝带 / 辫子里的丝带 / ribbon braid"
+    },
+    {
+      "en": "ribbon-trimmed hairband",
+      "zh": "缎带边发箍",
+      "rating": "g",
+      "count": 660,
+      "desc": "边缘镶有缎带的发箍",
+      "kw": "缎带发箍 / 缎带装饰发箍 / 饰缎带发箍 / 缎带饰边发箍 / 发箍 / 发饰 / 缎带"
+    },
+    {
+      "en": "ribbon-trimmed headwear",
+      "zh": "缎带边头饰",
+      "rating": "g",
+      "count": 1699,
+      "desc": "边缘镶缎带的帽子等头饰",
+      "kw": "缎带饰边头饰 / 缎带滚边头饰 / 缎带帽 / 缎带装饰帽子 / 丝带装饰头饰 / 头饰 / 配饰"
+    },
+    {
+      "en": "ribboned xiao guan",
+      "zh": "缎带小冠",
+      "rating": "g",
+      "count": 527,
+      "desc": "饰有缎带的小冠头饰",
+      "kw": "带缎带的小冠 / 缎带小冠帽 / 系缎带小冠 / 小冠（缎带） / 丝带小冠 / 头饰 / 中国风"
+    },
+    {
+      "en": "ring hair ornament",
+      "zh": "环形发饰",
+      "rating": "g",
+      "count": 3298,
+      "desc": "环状的发饰，区别于环形发型与束发筒。",
+      "kw": "环形头饰 / 发环 / 环状发饰 / 圆圈发饰 / 圆环发饰 / 发饰 / 头饰 / 首饰"
+    },
+    {
+      "en": "scissors hair ornament",
+      "zh": "剪刀发饰",
+      "rating": "g",
+      "count": 501,
+      "desc": "剪刀形状的发饰或发夹",
+      "kw": "剪刀发夹 / 剪刀头饰 / 剪刀发卡 / 剪刀形发饰 / 剪刀造型发饰 / 剪刀发簪 / 发饰 / 头饰"
+    },
+    {
+      "en": "screw hair ornament",
+      "zh": "螺丝发饰",
+      "rating": "g",
+      "count": 1586,
+      "desc": "螺丝形状的发饰或发夹",
+      "kw": "螺丝发夹 / 螺丝发卡 / 螺丝形发饰 / 螺旋发饰 / 螺丝钉发饰 / 螺丝状发饰 / 发饰 / 头饰"
+    },
+    {
+      "en": "see-through veil",
+      "zh": "透视头纱",
+      "rating": "g",
+      "count": 8992,
+      "desc": "透明可透过头纱看到后方",
+      "kw": "透明头纱 / 薄头纱 / 半透头纱 / 可透头纱 / 透明面纱 / 面纱 / 头饰 / transparent veil"
+    },
+    {
+      "en": "shark hair ornament",
+      "zh": "鲨鱼发饰",
+      "rating": "g",
+      "count": 6559,
+      "desc": "鲨鱼形状的发饰或发夹。",
+      "kw": "鲨鱼发夹 / 鲨鱼发卡 / 鲨鱼形状发饰 / 鲨鱼头饰 / 小鲨鱼发饰 / 发饰 / 动物饰品"
+    },
+    {
+      "en": "shark hood",
+      "zh": "鲨鱼连帽",
+      "rating": "g",
+      "count": 3441,
+      "desc": "做成鲨鱼样子的连帽。",
+      "kw": "鲨鱼帽 / 鲨鱼头套 / 鲨鱼兜帽 / 鲨鱼造型帽 / 兜帽 / 帽子"
+    },
+    {
+      "en": "shell hair ornament",
+      "zh": "贝壳发饰",
+      "rating": "g",
+      "count": 2508,
+      "desc": "贝壳形状的发饰或发夹",
+      "kw": "贝壳发夹 / 海贝发饰 / 贝壳头饰 / 发饰 / 饰品 / 海滩风 / seashell hair ornament"
+    },
+    {
+      "en": "shuriken hair ornament",
+      "zh": "手里剑发饰",
+      "rating": "g",
+      "count": 1045,
+      "desc": "手里剑形状的发饰或发夹",
+      "kw": "手里剑发夹 / 手里剑头饰 / 忍者镖发饰 / 手里剑发簪 / 发饰 / 忍者 / 日本风"
+    },
+    {
+      "en": "silver crown",
+      "zh": "银色王冠",
+      "rating": "g",
+      "count": 509,
+      "desc": "银制的王冠，象征权威的头饰",
+      "kw": "银色皇冠 / 银王冠 / 银制王冠 / 银色冠冕 / 银冠 / 皇冠 / 首饰"
+    },
+    {
+      "en": "silver hairband",
+      "zh": "银色发箍",
+      "rating": "g",
+      "count": 1159,
+      "desc": "银制发箍，与额前头冠、王冠状头饰不同",
+      "kw": "银发箍 / 银制发带 / 银色发带 / 银发饰 / 银色头箍 / 银头带 / 发饰"
+    },
+    {
+      "en": "silver tiara",
+      "zh": "银色头冠",
+      "rating": "g",
+      "count": 630,
+      "desc": "银色的头冠，额前半环状的女性头饰",
+      "kw": "银色皇冠 / 银色小冠 / 银头冠 / 银冠 / 银色公主冠 / 头饰 / 首饰"
+    },
+    {
+      "en": "single ear cover",
+      "zh": "单耳罩",
+      "rating": "g",
+      "count": 12886,
+      "desc": "只戴在一只耳朵上的耳罩。",
+      "kw": "单只耳罩 / 单边耳罩 / 单耳耳罩 / 单侧耳罩 / 耳饰 / 头饰"
+    },
+    {
+      "en": "skull hair ornament",
+      "zh": "骷髅发饰",
+      "rating": "g",
+      "count": 12955,
+      "desc": "骷髅形状的发饰或发夹",
+      "kw": "骷髅头发饰 / 骷髅发夹 / 骷髅头饰 / 骷髅装饰发饰 / 骷髅头卡子 / 骷髅 / 发饰"
+    },
+    {
+      "en": "skull on head",
+      "zh": "头顶骷髅",
+      "rating": "g",
+      "count": 1645,
+      "desc": "把真正的骷髅当帽子戴在头上",
+      "kw": "头上骷髅 / 骷髅戴头上 / 头顶头骨 / 骷髅头饰 / 头骨帽子 / 头顶骨头 / 头上有骷髅 / 骷髅"
+    },
+    {
+      "en": "smokestack hair ornament",
+      "zh": "烟囱形发饰",
+      "rating": "g",
+      "count": 1886,
+      "desc": "形似工业烟囱的发饰。",
+      "kw": "烟囱发饰 / 烟囱状发饰 / 工业烟囱发饰 / 烟突发饰 / 发饰 / 头饰"
+    },
+    {
+      "en": "snake hair ornament",
+      "zh": "蛇形发饰",
+      "rating": "g",
+      "count": 19018,
+      "desc": "蛇形状的头发装饰物，如发夹、发簪",
+      "kw": "蛇发饰 / 蛇形发夹 / 蛇发卡 / 蛇型发饰 / 蛇形头饰 / 蛇发簪 / 蛇形发簪 / 发饰"
+    },
+    {
+      "en": "snowflake hair ornament",
+      "zh": "雪花发饰",
+      "rating": "g",
+      "count": 5479,
+      "desc": "雪花形状的发饰或发夹",
+      "kw": "雪花发夹 / 雪花头饰 / 雪花发卡 / 雪晶发饰 / 雪花型发饰 / 雪花发簪 / 冰晶发饰 / 发饰"
+    },
+    {
+      "en": "spade hair ornament",
+      "zh": "黑桃发饰",
+      "rating": "g",
+      "count": 1260,
+      "desc": "黑桃形状的发饰或发夹。",
+      "kw": "黑桃发卡 / 黑桃发夹 / 黑桃头饰 / 黑桃花发饰 / 黑桃形发饰 / 黑桃头花 / 黑桃饰品 / 发饰"
+    },
+    {
+      "en": "sparkle hair ornament",
+      "zh": "闪光发饰",
+      "rating": "g",
+      "count": 2019,
+      "desc": "星形或闪光造型的发饰，常见于神乐光等角色。",
+      "kw": "闪闪发光的发饰 / 星形发饰 / 闪亮发饰 / 发光发饰 / 星光发饰 / 亮片发饰 / 发饰 / 饰品"
+    },
+    {
+      "en": "speaking tube headset",
+      "zh": "传声管耳机",
+      "rating": "g",
+      "count": 640,
+      "desc": "舰娘雪风佩戴的黄铜传声管头戴设备",
+      "kw": "传声管头戴 / 通话管耳机 / 传声管耳麦 / 话管耳机 / 传话管耳机 / 声管耳机 / 传声耳机 / 黄铜传声管耳机"
+    },
+    {
+      "en": "sphere hair ornament",
+      "zh": "球形发饰",
+      "rating": "g",
+      "count": 18077,
+      "desc": "球形的大型发饰。",
+      "kw": "球型发饰 / 发球饰 / 丸子发饰 / 球形头饰 / 球状发饰 / 发饰球 / 发饰"
+    },
+    {
+      "en": "spiked hairband",
+      "zh": "尖刺发箍",
+      "rating": "g",
+      "count": 2428,
+      "desc": "带长短不一尖刺的发箍/发带",
+      "kw": "尖刺发带 / 尖刺头带 / 尖刺头箍 / 刺钉发箍 / 钉刺发带 / 尖刺发饰 / 带刺发箍 / 发箍"
+    },
+    {
+      "en": "spiked headband",
+      "zh": "尖刺发带",
+      "rating": "g",
+      "count": 1127,
+      "desc": "正面有尖刺的头带",
+      "kw": "尖刺头带 / 刺发带 / 钉刺发带 / 尖钉头带 / 带刺头巾 / 尖角发带 / 尖刺发箍 / 发箍"
+    },
+    {
+      "en": "spiked helmet",
+      "zh": "尖刺头盔",
+      "rating": "g",
+      "count": 974,
+      "desc": "带尖刺的头盔，如德式尖顶盔",
+      "kw": "钉盔 / 尖顶头盔 / 带刺头盔 / 钉饰头盔 / 尖刺盔 / 德式尖顶盔 / 头盔 / 防护装备"
+    },
+    {
+      "en": "starfish hair ornament",
+      "zh": "海星发饰",
+      "rating": "g",
+      "count": 2048,
+      "desc": "海星形状的头发装饰物",
+      "kw": "海星发夹 / 海星头饰 / 海星发卡 / 海星发箍 / 海星发绳 / 海星发带 / 海星发饰物 / 海星头花"
+    },
+    {
+      "en": "strawberry hair ornament",
+      "zh": "草莓发饰",
+      "rating": "g",
+      "count": 3086,
+      "desc": "草莓形状的发饰或发夹",
+      "kw": "草莓发夹 / 草莓头饰 / 草莓发卡 / 草莓发绳 / 发饰 / 头饰"
+    },
+    {
+      "en": "striped hairband",
+      "zh": "条纹发带",
+      "rating": "g",
+      "count": 3515,
+      "desc": "带条纹图案的发带。",
+      "kw": "条纹头带 / 条纹束发带 / 横纹发带 / 发带 / 头饰"
+    },
+    {
+      "en": "striped hat",
+      "zh": "条纹帽",
+      "rating": "g",
+      "count": 1387,
+      "desc": "带条纹图案的帽子",
+      "kw": "条纹帽子 / 横纹帽 / 条子帽 / 帽子 / 条纹 / 头饰"
+    },
+    {
+      "en": "striped headband",
+      "zh": "条纹头带",
+      "rating": "g",
+      "count": 528,
+      "desc": "带条纹图案的头带",
+      "kw": "条纹发带 / 条纹头巾 / 条纹绑带 / 条纹额带 / 条纹头箍 / 条纹束发带 / 头饰 / 发带"
+    },
+    {
+      "en": "striped headwear",
+      "zh": "条纹头饰",
+      "rating": "g",
+      "count": 3827,
+      "desc": "带条纹图案的头饰或帽子。",
+      "kw": "条纹帽 / 条纹帽子 / 条纹头巾 / 条纹发带 / 条纹头套 / 带条纹的头饰 / 头饰 / 条纹 / striped hat"
+    },
+    {
+      "en": "striped scrunchie",
+      "zh": "条纹大肠发圈",
+      "rating": "g",
+      "count": 537,
+      "desc": "带条纹图案的大肠发圈/发圈",
+      "kw": "条纹发圈 / 条纹大肠圈 / 条纹束发圈 / 条纹发束 / 发圈 / 发饰 / 配饰"
+    },
+    {
+      "en": "sunflower hair ornament",
+      "zh": "向日葵发饰",
+      "rating": "g",
+      "count": 3727,
+      "desc": "向日葵形状的发饰或发夹。",
+      "kw": "向日葵发夹 / 向日葵头饰 / 太阳花发饰 / 葵花发饰 / 向日葵花发卡 / 发饰 / 头饰"
+    },
+    {
+      "en": "super crown",
+      "zh": "超级王冠",
+      "rating": "g",
+      "count": 6011,
+      "desc": "《新超级马力欧兄弟U》中让奇诺比可变成桃花公主的道具",
+      "kw": "超级皇冠 / 碧琪公主王冠 / 皇冠 / 头饰 / 道具 / スーパークラウン / ピーチ姫化"
+    },
+    {
+      "en": "swim cap",
+      "zh": "泳帽",
+      "rating": "g",
+      "count": 1696,
+      "desc": "游泳时戴在头上保持头发干燥并减少阻力的帽子。",
+      "kw": "游泳帽 / 防水泳帽 / 硅胶泳帽 / 布泳帽 / 泳池帽 / 水泳帽 / 防水帽 / swimming cap / swimcap / 水泳帽 / スイムキャップ"
+    },
+    {
+      "en": "tassel hair ornament",
+      "zh": "流苏发饰",
+      "rating": "g",
+      "count": 12919,
+      "desc": "作为发饰佩戴的流苏",
+      "kw": "发饰流苏 / 流苏头饰 / 流苏发绳 / 流苏发夹 / 流苏发簪 / 头发流苏 / 流苏 / 发饰 / hair tassel"
+    },
+    {
+      "en": "too many hair ornaments",
+      "zh": "发饰过多",
+      "rating": "g",
+      "count": 575,
+      "desc": "头上戴了过多或风格杂乱发饰",
+      "kw": "过多发饰 / 满头发饰 / 发夹过多 / 繁琐发饰 / 发型 / 装饰 / too many hairclips"
+    },
+    {
+      "en": "towel on head",
+      "zh": "头顶毛巾",
+      "rating": "g",
+      "count": 7797,
+      "desc": "把毛巾顶在头上。",
+      "kw": "毛巾在头上 / 头上放毛巾 / 头上盖毛巾 / 顶毛巾 / 毛巾顶头 / 头上有毛巾 / 毛巾 / 头饰"
+    },
+    {
+      "en": "triangle hair ornament",
+      "zh": "三角形发饰",
+      "rating": "g",
+      "count": 8160,
+      "desc": "呈三角形的发饰",
+      "kw": "三角发饰 / 三角形头饰 / 三角发卡 / 三角头花 / 发饰 / 三角形饰品"
+    },
+    {
+      "en": "two-sided headwear",
+      "zh": "双面头饰",
+      "rating": "g",
+      "count": 2517,
+      "desc": "内外面颜色或花纹不同的头饰",
+      "kw": "双面帽 / 两面头饰 / 正反两用头饰 / 双色头饰 / 头饰"
+    },
+    {
+      "en": "two-tone hairband",
+      "zh": "双色发带",
+      "rating": "g",
+      "count": 4269,
+      "desc": "恰好由两种颜色构成的发带",
+      "kw": "双色发箍 / 双色头带 / 两色发带 / 双色发圈 / 双色束发带 / 发带 / 发饰"
+    },
+    {
+      "en": "two-tone hat",
+      "zh": "双色帽子",
+      "rating": "g",
+      "count": 2962,
+      "desc": "由两种基本颜色构成的帽子。",
+      "kw": "两色帽子 / 双色调帽子 / 二色帽子 / 双色帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "two-tone headwear",
+      "zh": "两色调的头饰",
+      "rating": "g",
+      "count": 2645,
+      "desc": "恰好由两种颜色构成的头部服饰。",
+      "kw": "双色头饰 / 两色头部服饰 / 双色帽子 / 双色发饰 / 头饰 / 配饰"
+    },
+    {
+      "en": "two-tone veil",
+      "zh": "双色头纱",
+      "rating": "g",
+      "count": 1984,
+      "desc": "由两种颜色构成的头纱或面纱",
+      "kw": "双色面纱 / 双色盖头 / 两色头纱 / 双色婚礼头纱 / 双色头巾 / 双色头纱巾 / 双色面幕 / 面纱"
+    },
+    {
+      "en": "underworld (ornament)",
+      "zh": "冥界装饰",
+      "rating": "g",
+      "count": 1137,
+      "desc": "赫卡提亚·拉碧斯拉祖利帽子上的红色球体装饰。",
+      "kw": "冥界饰品 / 地狱装饰 / 冥界球 / 冥界装饰球 / 冥界挂饰 / 冥界 (装饰) / 装饰品 / 图案"
+    },
+    {
+      "en": "unworn crown",
+      "zh": "未戴的王冠",
+      "rating": "g",
+      "count": 784,
+      "desc": "画面中有但没被戴上的王冠",
+      "kw": "摘下的王冠 / 没戴的王冠 / 王冠未戴 / 脱下的王冠 / 未佩戴王冠 / 王冠取下 / 未戴在头上的皇冠 / 皇冠 / crown removed"
+    },
+    {
+      "en": "unworn hair ornament",
+      "zh": "取下的发饰",
+      "rating": "g",
+      "count": 1400,
+      "desc": "角色取下的发饰仍留在画面中。",
+      "kw": "摘下的发饰 / 脱下的发饰 / 未佩戴的发饰 / 发饰摘除 / 取下来的发饰 / 未戴的发饰 / 发饰 / 头饰 / hair ornament removed"
+    },
+    {
+      "en": "unworn hairband",
+      "zh": "摘下的发箍",
+      "rating": "g",
+      "count": 876,
+      "desc": "角色常戴的发箍被摘下，仍在画面中",
+      "kw": "取下的发箍 / 未佩戴发箍 / 发箍摘下 / 发箍卸下 / 未戴的发带 / 发饰 / 头饰 / hairband removed"
+    },
+    {
+      "en": "vertical-striped headwear",
+      "zh": "竖条纹头饰",
+      "rating": "g",
+      "count": 1729,
+      "desc": "带竖条纹的帽子或头饰",
+      "kw": "竖条纹帽子 / 垂直条纹头饰 / 竖纹头饰 / 纵向条纹头饰 / 头饰 / 条纹 / vertical-striped hat"
+    },
+    {
+      "en": "wataboushi",
+      "zh": "绵帽子",
+      "rating": "g",
+      "count": 1704,
+      "desc": "日本传统婚礼上新娘佩戴的棉质头巾",
+      "kw": "绵帽子头巾 / 新娘绵帽子 / 和式婚礼头巾 / 日本传统婚礼帽 / 日本风 / 帽子 / 传统服饰 / 綿帽子"
+    },
+    {
+      "en": "whale hair ornament",
+      "zh": "鲸鱼发饰",
+      "rating": "g",
+      "count": 963,
+      "desc": "鲸鱼造型的发饰或发夹。",
+      "kw": "鲸鱼发夹 / 鲸鱼头饰 / 鲸鱼发卡 / 鲸鱼头花 / 发饰 / 动物饰品"
+    },
+    {
+      "en": "whale hat",
+      "zh": "鲸鱼帽",
+      "rating": "g",
+      "count": 845,
+      "desc": "鲸鱼造型的动物帽。",
+      "kw": "鲸鱼造型帽子 / 鲸鱼头套 / 鲸鱼帽子 / 帽子 / 头饰 / 动物帽"
+    },
+    {
+      "en": "white bandana",
+      "zh": "白色头巾",
+      "rating": "g",
+      "count": 2271,
+      "desc": "裹在头部或系于颈部的白色方巾",
+      "kw": "白色方巾 / 白色大手帕 / 白色包头巾 / 白头巾 / 白色围巾 / 头饰 / 白色"
+    },
+    {
+      "en": "white bonnet",
+      "zh": "白色软帽",
+      "rating": "g",
+      "count": 2557,
+      "desc": "系带于下颌的白色软帽",
+      "kw": "白色系带帽 / 白色童帽 / 白色娃娃帽 / 白色布帽 / 白色婴儿帽 / 白色系带软帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "white hairband",
+      "zh": "白色发箍",
+      "rating": "g",
+      "count": 64691,
+      "desc": "用来束发的白色发箍",
+      "kw": "白色发卡 / 白色发带 / 白色头箍 / 白色发饰 / 白箍 / 白色束发带 / 白色头带 / 发带"
+    },
+    {
+      "en": "white headband",
+      "zh": "白色头带",
+      "rating": "g",
+      "count": 10782,
+      "desc": "白色头带，与发箍不同",
+      "kw": "白色发带 / 白头带 / 白色运动头带 / 白色束发带 / 白色头巾 / 发带 / 发饰"
+    },
+    {
+      "en": "white headdress",
+      "zh": "白色头饰",
+      "rating": "g",
+      "count": 10992,
+      "desc": "白色头饰，多指女仆头饰或头巾",
+      "kw": "白色头巾 / 白色头箍 / 白色发饰 / 白色女仆头饰 / 白头饰 / 头饰 / 配饰"
+    },
+    {
+      "en": "white headscarf",
+      "zh": "白色包头巾",
+      "rating": "g",
+      "count": 7203,
+      "desc": "包裹头部的白色头巾",
+      "kw": "白色头巾 / 白色头布 / 白包发巾 / 白色裹头布 / 头巾 / 头饰 / 配饰"
+    },
+    {
+      "en": "white helmet",
+      "zh": "白色头盔",
+      "rating": "g",
+      "count": 2684,
+      "desc": "颜色为白色的头盔",
+      "kw": "白头盔 / 白色安全帽 / 白安全帽 / 白色防护盔 / 头盔 / 防护装备"
+    },
+    {
+      "en": "white hood",
+      "zh": "白色兜帽",
+      "rating": "g",
+      "count": 4580,
+      "desc": "白色的罩住头部的兜帽或头套。",
+      "kw": "白兜帽 / 白色头套 / 白头套 / 白色头罩 / 白头罩 / 白色连帽 / 兜帽 / 头饰"
+    },
+    {
+      "en": "white scrunchie",
+      "zh": "白色大肠发圈",
+      "rating": "g",
+      "count": 7686,
+      "desc": "白色的大肠发圈",
+      "kw": "白色发圈 / 白色发绳 / 白色大肠圈 / 白色布发圈 / 白色发束 / 发饰 / 配饰"
+    },
+    {
+      "en": "white veil",
+      "zh": "白色面纱",
+      "rating": "g",
+      "count": 18760,
+      "desc": "白色面纱，注意与婚纱头纱区分",
+      "kw": "白面纱 / 白纱 / 白色头纱 / 白色婚纱头纱 / 白色蒙面纱 / 白面罩 / 白色薄纱 / 面纱"
+    },
+    {
+      "en": "wing hair ornament",
+      "zh": "翅膀发饰",
+      "rating": "g",
+      "count": 16055,
+      "desc": "翅膀形状的发饰",
+      "kw": "翅膀发夹 / 天使翅膀发饰 / 羽翼发饰 / 翅膀头饰 / 发饰 / 配饰 / 幻想 / angel wings hair ornament"
+    },
+    {
+      "en": "winged hair ornament",
+      "zh": "带翼发饰",
+      "rating": "g",
+      "count": 907,
+      "desc": "头部两侧带翅膀的发饰",
+      "kw": "翅膀发饰 / 翼状发饰 / 带翅膀发饰 / 翅膀形发饰 / 发饰 / 头饰 / 翅膀"
+    },
+    {
+      "en": "wolf hood",
+      "zh": "狼耳兜帽",
+      "rating": "g",
+      "count": 582,
+      "desc": "带假狼耳的动物兜帽",
+      "kw": "狼耳帽 / 狼兜帽 / 狼耳连帽衫 / 狼造型兜帽 / 狼头兜帽 / 兜帽 / 头饰 / 动物"
+    },
+    {
+      "en": "xiao guan (headdress)",
+      "zh": "小冠",
+      "rating": "g",
+      "count": 3931,
+      "desc": "罩住发髻、用小簪或系带固定的中式男用便帽",
+      "kw": "束发冠 / 小冠头饰 / 中式小冠 / 发冠 / 男子小冠 / 小冠帽 / 束发小冠 / 小冠 (头饰)"
+    },
+    {
+      "en": "yellow bandana",
+      "zh": "黄色头巾",
+      "rating": "g",
+      "count": 1220,
+      "desc": "系在头部或颈部的黄色方巾",
+      "kw": "黄色方巾 / 黄头巾 / 黄色大手帕 / 黄方巾 / 黄色扎染巾 / 头巾 / 配饰"
+    },
+    {
+      "en": "yellow hairband",
+      "zh": "黄色发箍",
+      "rating": "g",
+      "count": 17280,
+      "desc": "箍住头发的黄色发箍",
+      "kw": "黄色发带 / 黄色头箍 / 黄发箍 / 发饰 / 配饰"
+    },
+    {
+      "en": "yellow headband",
+      "zh": "黄色头带",
+      "rating": "g",
+      "count": 2331,
+      "desc": "黄色的头带，不同于发箍",
+      "kw": "黄色发带 / 黄色额带 / 黄色头巾 / 黄头带 / 黄色绑带 / 发饰 / 头饰"
+    },
+    {
+      "en": "yellow headscarf",
+      "zh": "黄色包头巾",
+      "rating": "g",
+      "count": 1027,
+      "desc": "包裹头部的黄色头巾",
+      "kw": "黄色头巾 / 黄色包头 / 黄头巾 / 头巾 / 头饰"
+    },
+    {
+      "en": "yellow helmet",
+      "zh": "黄色头盔",
+      "rating": "g",
+      "count": 817,
+      "desc": "保护头部的黄色头盔",
+      "kw": "黄头盔 / 黄色安全帽 / 黄帽 / 黄色盔 / 头盔 / 防护装备"
+    },
+    {
+      "en": "yellow hood",
+      "zh": "黄色兜帽",
+      "rating": "g",
+      "count": 838,
+      "desc": "连在衣物上、可罩住头部的黄色兜帽",
+      "kw": "黄兜帽 / 黄色帽兜 / 黄色连帽 / 黄色风帽 / 黄色头罩 / 兜帽 / 帽子 / 头饰"
+    },
+    {
+      "en": "yellow scrunchie",
+      "zh": "黄色大肠发圈",
+      "rating": "g",
+      "count": 5605,
+      "desc": "黄色的大肠发圈。",
+      "kw": "黄色发圈 / 黄色发绳 / 黄色大肠圈 / 黄色束发圈 / 黄色发带 / 发饰 / 配饰"
+    },
+    {
+      "en": "yellow visor cap",
+      "zh": "黄色遮阳帽",
+      "rating": "g",
+      "count": 1549,
+      "desc": "带帽檐和额前遮板的黄色遮阳帽",
+      "kw": "黄色空顶帽 / 黄色太阳帽 / 黄色运动遮阳帽 / 黄色帽檐帽 / 遮阳帽"
+    },
+    {
+      "en": "yin yang hair ornament",
+      "zh": "阴阳发饰",
+      "rating": "g",
+      "count": 519,
+      "desc": "阴阳鱼/太极图案的发饰",
+      "kw": "阴阳鱼发饰 / 太极发饰 / 阴阳图案发饰 / 阴阳玉发饰 / 阴阳头饰 / 太极头饰 / 发饰 / 配饰"
+    }
+  ]
+}

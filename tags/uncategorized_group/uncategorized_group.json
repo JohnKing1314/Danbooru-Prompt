@@ -1,0 +1,47 @@
+{
+  "id": "uncategorized_group",
+  "name": "未分类",
+  "icon": "📦",
+  "level": 1,
+  "order": 7,
+  "file": "uncategorized_group/uncategorized_group.json",
+  "subDir": "uncategorized_group",
+  "updatedAt": "2026-11-18T05:36:30.213Z",
+  "children": [
+    {
+      "id": "meta_info",
+      "name": "元数据与软件",
+      "icon": "🗂",
+      "order": 1,
+      "file": "uncategorized_group/uncategorized_group_meta_info.json"
+    },
+    {
+      "id": "text_symbol",
+      "name": "文字与符号打码",
+      "icon": "🔤",
+      "order": 2,
+      "file": "uncategorized_group/uncategorized_group_text_symbol.json"
+    },
+    {
+      "id": "theme_event",
+      "name": "节日与概念梗",
+      "icon": "🎊",
+      "order": 3,
+      "file": "uncategorized_group/uncategorized_group_theme_event.json"
+    },
+    {
+      "id": "effect_element",
+      "name": "元素与特效",
+      "icon": "✨",
+      "order": 4,
+      "file": "uncategorized_group/uncategorized_group_effect_element.json"
+    },
+    {
+      "id": "uncategorized",
+      "name": "其他待整理",
+      "icon": "📌",
+      "order": 5,
+      "file": "uncategorized_group/uncategorized_group_uncategorized.json"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "k_on",
+  "name": "轻音少女",
+  "parentId": "anime",
+  "order": 22,
+  "file": "anime/k_on.json",
+  "characters": [
+    {
+      "game": "轻音少女",
+      "gameTag": "anime",
+      "name": "平泽唯",
+      "tag": "hirasawa yui",
+      "charZh": "平泽唯（轻音少女）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳;guitar|吉他",
+      "subName": ""
+    },
+    {
+      "game": "轻音少女",
+      "gameTag": "anime",
+      "name": "秋山澪",
+      "tag": "akiyama mio",
+      "charZh": "秋山澪（轻音少女）",
+      "auto": "black hair|黑发;long hair|长发;grey eyes|灰瞳;bass guitar|贝斯",
+      "subName": ""
+    },
+    {
+      "game": "轻音少女",
+      "gameTag": "anime",
+      "name": "田井中律",
+      "tag": "tainaka ritsu",
+      "charZh": "田井中律（轻音少女）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳;drums|架子鼓",
+      "subName": ""
+    },
+    {
+      "game": "轻音少女",
+      "gameTag": "anime",
+      "name": "琴吹䌷",
+      "tag": "kotobuki tsumugi",
+      "charZh": "琴吹䌷（轻音少女）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;keyboard|键盘",
+      "subName": ""
+    },
+    {
+      "game": "轻音少女",
+      "gameTag": "anime",
+      "name": "中野梓",
+      "tag": "nakano azusa",
+      "charZh": "中野梓（轻音少女）",
+      "auto": "black hair|黑发;twintails|双马尾;brown eyes|棕瞳;guitar|吉他",
+      "subName": ""
+    }
+  ],
+  "count": 5
+}

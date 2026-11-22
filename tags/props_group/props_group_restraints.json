@@ -1,0 +1,835 @@
+{
+  "id": "restraints",
+  "name": "刑具",
+  "icon": "⛓",
+  "parentId": "props_group",
+  "level": 2,
+  "order": 4,
+  "file": "props_group/props_group_restraints.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "clothes gag",
+      "zh": "衣物口塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 280,
+      "desc": "把衣物塞进嘴里充当口塞。",
+      "kw": "衣物口枷 / 衣物塞嘴 / 衣物堵嘴 / 用衣服当口塞 / 衣物当作口塞 / 衣服口塞 / 颈部和领饰 / 口塞束缚 / clothes gagged / 衣服口塞"
+    },
+    {
+      "en": "glory hole",
+      "zh": "光荣洞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 911,
+      "desc": "墙上位于胯部高度供性交用的洞。",
+      "kw": "墙洞 / 裆部墙洞 / 性爱墙洞 / 壁穴 / 荣耀之洞 / 成人设施 / gloryhole / ラッキーホール / グローリーホール"
+    },
+    {
+      "en": "glory wall",
+      "zh": "全穿墙光荣洞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1819,
+      "desc": "角色整个穿过墙，露出头和性器官",
+      "kw": "墙壁尻 / 卡墙 / 墙洞 / 穿墙 / 墙壁洞 / 壁穴 / 墙中 / 荣耀壁 (炮洞) / 尻壁"
+    },
+    {
+      "en": "human toilet",
+      "zh": "人体马桶",
+      "rating": "q",
+      "nsfw": true,
+      "count": 558,
+      "desc": "被绑缚或塞进马桶、当作便器使用的人",
+      "kw": "肉便器 / 人体厕所 / 人肉便器 / 人形便器 / 便器女 / 人体便所 / fetish / 人类厕所 / 便女 / 육변기 / 浴尿"
+    },
+    {
+      "en": "human ashtray",
+      "zh": "人体烟灰缸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 71,
+      "desc": "把人体当烟灰缸使用",
+      "kw": "人肉烟灰缸 / 人间灰皿 / 把人当烟灰缸 / 皮肤烟灰缸"
+    },
+    {
+      "en": "human furniture",
+      "zh": "人体家具（BDSM）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1408,
+      "desc": "BDSM中把人当作家具使用，如当椅子。",
+      "kw": "人肉家具 / 人形家具 / 人类家具 / 活体家具 / 把人当家具 / 人肉椅子 / 家具 / 人形道具 / 人间家具"
+    },
+    {
+      "en": "forniphilia",
+      "zh": "人体家具癖",
+      "rating": "q",
+      "nsfw": true,
+      "count": 138,
+      "desc": "把人当作家具的束缚与物化玩法。",
+      "kw": "人肉家具 / 家具化 / 人体家具化 / 人形家具 / 人体家具play / 性癖 / BDSM"
+    },
+    {
+      "en": "human chair",
+      "zh": "人肉座椅",
+      "rating": "q",
+      "nsfw": true,
+      "count": 934,
+      "desc": "坐在趴跪者的背上充当椅子",
+      "kw": "人椅 / 人体椅子 / 人形椅子 / 骑坐在人背上 / 趴跪当椅子 / 家具 / 人体家具 / 人充当的椅子 / 人间椅子"
+    },
+    {
+      "en": "human table",
+      "zh": "人体桌",
+      "rating": "q",
+      "nsfw": true,
+      "count": 15
+    },
+    {
+      "en": "neck violin",
+      "zh": "颈枷琴",
+      "rating": "q",
+      "nsfw": true,
+      "count": 21
+    },
+    {
+      "en": "yoke (bdsm)",
+      "zh": "轭式枷锁（BDSM）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 82,
+      "desc": "连接颈圈与手腕的横杆式束缚具",
+      "kw": "BDSM枷具 / 束缚枷 / 横杆束具 / 颈腕连杆 / 束缚杆 / 枷锁式束缚 / 颈手枷"
+    },
+    {
+      "en": "brazen bull",
+      "zh": "铜牛刑具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 13
+    },
+    {
+      "en": "cheek retractor",
+      "zh": "开口器",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "eyelid speculum",
+      "zh": "开睑器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 16
+    },
+    {
+      "en": "garrote (torture instrument)",
+      "zh": "绞刑架（刑具）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 18
+    },
+    {
+      "en": "harmful spikes",
+      "zh": "伤害性尖刺",
+      "rating": "q",
+      "nsfw": true,
+      "count": 71,
+      "desc": "用于造成伤害的尖刺",
+      "kw": "有害尖刺 / 危险尖刺 / 伤人尖刺"
+    },
+    {
+      "en": "humbler",
+      "zh": "双腿固定",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "ishidaki",
+      "zh": "石抱",
+      "rating": "q",
+      "nsfw": true,
+      "count": 69,
+      "desc": "日本古代让犯人跪在棱石上并压重石的刑罚。",
+      "kw": "石抱刑 / 跪石压石 / 石抱酷刑 / 石抱拷问"
+    },
+    {
+      "en": "iron maiden",
+      "zh": "铁处女",
+      "rating": "q",
+      "nsfw": true,
+      "count": 173,
+      "desc": "内壁布满尖刺的棺材形刑具",
+      "kw": "铁处女刑具 / 铁娘子 / 铁处女处刑具 / 人形铁棺 / 刑具 / 拷问装置"
+    },
+    {
+      "en": "testicle crusher",
+      "zh": "踢蛋",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "testicle weights",
+      "zh": "睾丸负重",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "torture instruments",
+      "zh": "刑具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 115,
+      "desc": "用于施加酷刑的器具。",
+      "kw": "拷问器具 / 酷刑工具 / 刑罚器械 / 刑求工具 / 道具 / 刑罚"
+    },
+    {
+      "en": "x-cross (bdsm)",
+      "zh": "X型拘束架",
+      "rating": "q",
+      "nsfw": true,
+      "count": 199,
+      "desc": "X形框架、可固定手腕脚踝的BDSM器具",
+      "kw": "X字架 / X形拘束架 / 圣安德鲁十字 / X字拘束 / X形束缚 / X型缚 / BDSM / 束缚"
+    },
+    {
+      "en": "branding iron",
+      "zh": "烙铁",
+      "rating": "q",
+      "nsfw": true,
+      "count": 82,
+      "desc": "烙上标记用的烙铁",
+      "kw": "烙印工具 / 火印铁 / 烙印烙铁"
+    },
+    {
+      "en": "armbinder",
+      "zh": "束臂器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1410,
+      "desc": "一种将双臂并拢束缚在背后的束缚带，常见于BDSM。",
+      "kw": "单手套 / 手臂束缚带 / 双臂束缚带 / 后手束缚带 / 臂拷 / 束臂装置 / 束缚具 / monoglove / 臂束器"
+    },
+    {
+      "en": "pillory",
+      "zh": "颈手枷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1079,
+      "desc": "锁住头颈和四肢的刑具，常为两块板合拢。",
+      "kw": "枷锁 / 木枷 / 颈枷 / 手枷 / 枷具 / 头手枷 / 刑枷 / 枷 / 首枷 / 首かせ / 晒し台 / さらし台"
+    },
+    {
+      "en": "chains",
+      "zh": "链条",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "nipple clamps",
+      "zh": "乳夹",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1978,
+      "desc": "夹在乳头上用于刺激或施虐的乳夹。",
+      "kw": "乳头夹子 / 奶头夹 / 乳首夹 / 乳头夹扣 / 奶头夹子 / SM道具"
+    },
+    {
+      "en": "clit clamp",
+      "zh": "阴蒂夹",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "spreader bar",
+      "zh": "分腿杆",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1758,
+      "desc": "束缚时用来强制撑开四肢的金属杆",
+      "kw": "撑开杆 / 束缚撑杆 / 调教撑杆 / 分腿杠 / 束缚用撑杆 / 金属束缚杆 / 分腿棒 / spread bar"
+    },
+    {
+      "en": "ball gag",
+      "zh": "球形口塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 14250,
+      "desc": "塞入口中、两侧带带子固定的口球",
+      "kw": "口塞球 / 球型口枷 / 嘴巴撑开球 / 口衔球 / 塞口球 / 球形口枷 / 口球塞 / ballgag / ボールギャグ"
+    },
+    {
+      "en": "ring gag",
+      "zh": "环形口塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1890,
+      "desc": "撑开嘴部的环状口枷",
+      "kw": "开口环枷 / 口环 / 口枷 / 圆形口塞 / 开口器 / 嘴部撑开器 / 束缚"
+    },
+    {
+      "en": "bit gag",
+      "zh": "衔口",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4516,
+      "desc": "类似马衔铁、横置于口中的口枷。",
+      "kw": "口衔 / 马衔口枷 / 棒状口枷 / 衔铁口枷 / 马嚼子型口枷 / 咬棒 / 衔尾口塞 / 马嚼口塞 / bitgag / ビットギャグ / 口銜"
+    },
+    {
+      "en": "paddle",
+      "zh": "拍板",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4663,
+      "desc": "带宽扁桨叶的桨，也用于乒乓和打屁股",
+      "kw": "划桨 / 桨 / 球拍 / 拍子 / 打屁股板 / 宽桨 / 道具 / 船只"
+    },
+    {
+      "en": "riding crop",
+      "zh": "马鞭",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5604,
+      "desc": "马术用的短硬鞭，也常见于BDSM。",
+      "kw": "骑马鞭 / 骑鞭 / 马术鞭 / 短马鞭 / 马术用鞭 / 鞭子 / 道具 / 乘马鞭 / 乗馬鞭 / 乗馬ムチ / 馬鞭"
+    },
+    {
+      "en": "sex swing",
+      "zh": "性爱秋千",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "spreader",
+      "zh": "分腿器",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "cock cage",
+      "zh": "阴茎笼",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "anal hook",
+      "zh": "肛钩",
+      "rating": "q",
+      "nsfw": true,
+      "count": 420,
+      "desc": "插入肛门使用的钩状情趣用品",
+      "kw": "后庭钩 / 菊花钩 / 肛门拉钩 / 肛门牵引钩 / 肛门挂勾 / 性玩具 / BDSM / アナルフック"
+    },
+    {
+      "en": "leather cuffs",
+      "zh": "皮手铐",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "metal cuffs",
+      "zh": "金属手铐",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "stationary restraints",
+      "zh": "固定式束缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4818,
+      "desc": "用固定装置或家具强行束缚人体，无法自行移动",
+      "kw": "固定束缚 / 束缚装置 / 机械拘束 / 强制拘束 / 固定约束 / 机械奸 / 强制绝顶 / 拘束装置 / 機械姦 / 強制絶頂"
+    },
+    {
+      "en": "cage",
+      "zh": "笼子",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7078,
+      "desc": "关押鸟类或动物的笼子",
+      "kw": "笼 / 牢笼 / 铁笼 / 兽笼 / 鸟笼 / 容器 / 道具 / 檻"
+    },
+    {
+      "en": "clamps",
+      "zh": "夹具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 54
+    },
+    {
+      "en": "labia clamps",
+      "zh": "阴唇夹",
+      "rating": "q",
+      "nsfw": true,
+      "count": 67,
+      "desc": "夹住阴唇的成人用具",
+      "kw": "阴唇钳 / 阴唇夹子 / 小阴唇夹 / 唇夹（成人用品） / 阴唇夹钳 / labia clamp / pussy clamp / pussy clamps"
+    },
+    {
+      "en": "testicle clamps",
+      "zh": "睾丸夹",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "wartenberg wheel",
+      "zh": "尖刺滚轮",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "chain",
+      "zh": "锁链",
+      "rating": "q",
+      "nsfw": true,
+      "count": 146906,
+      "desc": "由金属环相连而成的链子。",
+      "kw": "链子 / 链条 / 金属链 / 铁链 / 钢链 / 链环 / 锁链条 / 金属锁链 / chains / 鎖 / くさり / チェーン"
+    },
+    {
+      "en": "clitoris clamp",
+      "zh": "阴蒂夹",
+      "rating": "q",
+      "nsfw": true,
+      "count": 103,
+      "desc": "夹住阴蒂限制血流的金属夹具，情趣用品",
+      "kw": "阴蒂钳 / 阴蒂夹子 / 阴蒂夹具 / 阴蒂夹钳 / 阴蒂夹子（情趣用品） / 阴部 / BDSM / 性玩具 / clit clamp"
+    },
+    {
+      "en": "tongue clamp",
+      "zh": "舌夹",
+      "rating": "q",
+      "nsfw": true,
+      "count": 76,
+      "desc": "BDSM中夹住舌头使其伸出的器具",
+      "kw": "舌头夹 / 舌钳 / 舌头固定器 / 伸舌器"
+    },
+    {
+      "en": "cuffs",
+      "zh": "束缚具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 46158,
+      "desc": "铐在手腕或脚踝上的束缚具",
+      "kw": "枷锁 / 手枷 / 脚铐 / 束缚带 / 手镣 / 铐具 / 袖口 / 服装细节 / cuff / 手锭 / 脚镣 / 手錠"
+    },
+    {
+      "en": "handcuffs",
+      "zh": "手铐",
+      "rating": "q",
+      "nsfw": true,
+      "count": 18237,
+      "desc": "铐住双手的金属手铐",
+      "kw": "手拷 / 手镣 / 金属手铐 / 铐子 / 链铐 / 双环铐 / 警用手铐 / 束缚 / handcuff / 手锭 / 手錠"
+    },
+    {
+      "en": "hobble",
+      "zh": "蹒跚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 368,
+      "desc": "限制步伐的束缚装置。",
+      "kw": "缚足 / 步态限制 / 限制步伐 / 脚镣式束缚 / 拘束步 / 束缚步 / 步态"
+    },
+    {
+      "en": "shackles",
+      "zh": "枷锁",
+      "rating": "q",
+      "nsfw": true,
+      "count": 15953,
+      "desc": "拘束囚禁用的金属镣铐",
+      "kw": "脚镣 / 手铐 / 锁链 / 铁链 / 束缚具 / 束缚 / shackle / manacles / 足枷 / 手錠"
+    },
+    {
+      "en": "gag",
+      "zh": "口塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 33254,
+      "desc": "塞住或罩住嘴、限制发声的器具",
+      "kw": "塞口物 / 堵嘴 / 口球 / 口衔 / 口枷器 / 束缚具 / 道具 / 猿辔 / 猿轡"
+    },
+    {
+      "en": "cleave gag",
+      "zh": "口勒塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2708,
+      "desc": "布条勒在齿间撑开口腔、限制言语的口枷",
+      "kw": "口枷 / 勒嘴布 / 塞口布 / 咬布口枷 / 勒嘴布条 / 勒嘴塞 / 口塞 / 束缚道具 / cleave gagged / cleavegag / 噛ませ猿轡 / 噛ませ猿ぐつわ"
+    },
+    {
+      "en": "gag harness",
+      "zh": "口塞束缚带",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2514,
+      "desc": "用复杂皮带固定在头部的口枷",
+      "kw": "束缚口枷 / 头带口枷 / 口塞头环 / 皮革口枷头套 / 束缚 / SM道具"
+    },
+    {
+      "en": "panty gag",
+      "zh": "内裤口塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 202,
+      "desc": "把内裤塞进嘴里作为口塞",
+      "kw": "内裤堵嘴 / 内裤塞嘴 / 内裤口枷 / 内裤塞口 / 内裤堵口 / 内裤口塞物 / 口塞 / 束缚道具 / panty gagged / pantygag / パンツで口塞ぎ"
+    },
+    {
+      "en": "plug gag",
+      "zh": "口塞球",
+      "rating": "q",
+      "nsfw": true,
+      "count": 408,
+      "desc": "附有塞子的口枷，堵住佩戴者的嘴",
+      "kw": "塞子口枷 / 口塞 / 塞栓口塞 / 堵嘴口枷 / 塞口球 / 口球 / 球塞 / 口枷"
+    },
+    {
+      "en": "tape gag",
+      "zh": "胶带封口",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4859,
+      "desc": "用胶带封住嘴巴，常见于束缚场景。",
+      "kw": "胶带口枷 / 胶带堵嘴 / 胶带封嘴 / 封口胶带 / 胶带口塞 / 胶带贴嘴 / 胶带蒙嘴 / 口塞 / tape gagged / tapegag / テープギャグ"
+    },
+    {
+      "en": "leash",
+      "zh": "牵引绳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 40161,
+      "desc": "拴在脖子或项圈上用于牵引的绳索或链条，常用于BDSM主仆关系。",
+      "kw": "牵绳 / 狗绳 / 项圈牵引绳 / 牵引链 / 宠物牵引绳 / 遛狗绳 / 项圈绳 / 束缚牵引 / 手纲 / 拉绳 / リード / リーシュ"
+    },
+    {
+      "en": "clitoris leash",
+      "zh": "阴蒂拉绳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 108,
+      "desc": "系在阴蒂上的绳或皮带",
+      "kw": "阴蒂牵引绳 / 阴蒂链 / 阴蒂拴绳 / 阴部 / 性玩具 / 道具 / 拉绳 / clit leash"
+    },
+    {
+      "en": "leash on penis",
+      "zh": "阴茎系绳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 54,
+      "desc": "系在阴茎上的牵引绳",
+      "kw": "肉棒牵绳 / 丁丁牵绳 / 鸡巴牵绳 / 阴茎狗绳 / 阴茎拴绳 / 生殖器牵绳"
+    },
+    {
+      "en": "nipple leash",
+      "zh": "乳头牵引绳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 81,
+      "desc": "系在乳头上的牵绳",
+      "kw": "乳头链 / 乳环皮带 / 乳头拴绳 / 乳头牵绳 / 乳头带"
+    },
+    {
+      "en": "stocks",
+      "zh": "足枷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1002,
+      "desc": "只固定手臂或腿的木板刑具，非颈手枷",
+      "kw": "手枷 / 脚枷 / 枷锁 / 木枷 / 枷具 / 刑具 / 束缚"
+    },
+    {
+      "en": "rope",
+      "zh": "绳索",
+      "rating": "q",
+      "nsfw": true,
+      "count": 73276,
+      "desc": "多股纤维扭绞成的结实绳索。",
+      "kw": "绳子 / 粗绳 / 麻绳 / 尼龙绳 / 绳 / 道具 / ropes / ロープ / 縄 / ロペ"
+    },
+    {
+      "en": "crotch rope",
+      "zh": "胯绳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6079,
+      "desc": "勒住裆部施压的绳索，常用于捆绑",
+      "kw": "裆部绳 / 股绳 / 胯部绳 / 裆绳 / 勒裆绳 / 下体绳 / 裆部绳索 / 股间绳 / crotchrope / 股縄"
+    },
+    {
+      "en": "whip",
+      "zh": "鞭子",
+      "rating": "q",
+      "nsfw": true,
+      "count": 10223,
+      "desc": "带长鞭梢的鞭子，可作武器或BDSM道具",
+      "kw": "鞭 / 皮鞭 / 长鞭 / 软鞭 / 鞭绳 / 武器 / 道具 / whips / ムチ"
+    },
+    {
+      "en": "flogger",
+      "zh": "皮鞭",
+      "rating": "q",
+      "nsfw": true,
+      "count": 94,
+      "desc": "BDSM中用于拍打对方的多尾短鞭",
+      "kw": "多尾鞭 / 多条皮鞭 / 拍打鞭 / 情趣皮鞭 / 调教鞭"
+    },
+    {
+      "en": "wooden horse",
+      "zh": "木马",
+      "rating": "q",
+      "nsfw": true,
+      "count": 930,
+      "desc": "BDSM器具，人跨坐在尖端朝上的木楔上",
+      "kw": "木马（BDSM器具） / 刑架木马 / 骑马木马（BDSM） / 玩具 / 三角木馬 / 삼각목마"
+    },
+    {
+      "en": "judas cradle",
+      "zh": "犹大木椅（锥形木马）",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "crucifixion",
+      "zh": "钉十字架刑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1014,
+      "desc": "把人绑或钉在十字架或柱子上处死的刑罚",
+      "kw": "十字架刑 / 磔刑 / 被钉十字架 / 钉在十字架上 / 十字架处死 / 姿势 / 刑罚 / crucified / nailed to a cross / 磔"
+    },
+    {
+      "en": "chastity cage",
+      "zh": "贞操笼",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2729,
+      "desc": "锁住阴茎的贞操笼。",
+      "kw": "贞操锁 / 贞操装置 / 贞操具 / 阴茎锁 / 男性贞操笼 / 鸡巴锁 / 丁丁笼 / 贞操带 / chastitycage / 貞操具 / 貞操帯"
+    },
+    {
+      "en": "nose hook",
+      "zh": "鼻钩",
+      "rating": "q",
+      "nsfw": true,
+      "count": 503,
+      "desc": "钩住鼻孔将鼻子向上拉起的情趣器具",
+      "kw": "鼻孔钩 / 鼻拉钩 / 鼻钩器 / 鼻腔钩 / 钩鼻器 / 鼻部钩具 / 上拉鼻钩 / 束缚道具 / 鼻フック"
+    },
+    {
+      "en": "ball and chain restraint",
+      "zh": "铁球脚镣",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1538,
+      "desc": "脚镣连着重球的束缚具",
+      "kw": "脚镣铁球 / 球链束缚 / 链球脚镣 / 铁球锁链 / 带球脚镣 / 球链式束缚 / 束缚具 / 刑具"
+    },
+    {
+      "en": "broken chain",
+      "zh": "断链",
+      "rating": "g",
+      "count": 2786,
+      "desc": "中间断裂的金属锁链",
+      "kw": "断裂的锁链 / 断掉的锁链 / 链条断裂 / 锁链断裂 / 断开的链子 / 破损的锁链 / 枷锁 / 破坏 / broken chains"
+    },
+    {
+      "en": "cat o' nine tails",
+      "zh": "九尾鞭",
+      "rating": "q",
+      "nsfw": true,
+      "count": 496,
+      "desc": "多股皮条制成的惩罚用鞭",
+      "kw": "九尾猫鞭 / 九尾皮鞭 / 九尾鞭子 / 九尾猫 / 九尾绳鞭 / 鞭子 / 武器 / cat o nine tails"
+    },
+    {
+      "en": "chain around arm",
+      "zh": "链条缠臂",
+      "rating": "q",
+      "nsfw": true,
+      "count": 803,
+      "desc": "缠绕在手臂上的锁链",
+      "kw": "锁链缠手臂 / 手臂锁链 / 臂上缠链 / 链子绕臂 / 链缠臂 / 缠绕在手臂上的锁链 / 锁链 / 束缚"
+    },
+    {
+      "en": "chain leash",
+      "zh": "链式牵引绳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6436,
+      "desc": "连接项圈用作牵绳的链条",
+      "kw": "链条牵引绳 / 链子牵引绳 / 铁链牵引绳 / 锁链牵引绳 / 金属牵引链 / 牵引链 / 链绳 / 宠物链 / collar with chain"
+    },
+    {
+      "en": "cloth gag",
+      "zh": "布条口枷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5011,
+      "desc": "用布绕过头后在口中或口外堵住的口枷",
+      "kw": "布制口枷 / 布口塞 / 布堵嘴 / 布条堵嘴 / 布制堵嘴 / 捂嘴布 / 布条口塞 / 束缚道具 / otm gag"
+    },
+    {
+      "en": "gagged",
+      "zh": "被堵嘴（塞嘴）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 32632,
+      "desc": "嘴被堵住无法说话",
+      "kw": "被堵嘴 / 堵嘴 / 塞嘴 / 被塞住嘴 / 口塞 / 堵口 / 束缚"
+    },
+    {
+      "en": "improvised gag",
+      "zh": "临时口枷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 10488,
+      "desc": "用布条、衣物或胶带等临时制成的口枷。",
+      "kw": "就地取材口枷 / 非常规口塞 / 简易口枷 / 临时口塞 / 布条口枷 / 口塞 / 道具 / 束缚"
+    },
+    {
+      "en": "monoglove",
+      "zh": "单筒束缚手套",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "muzzle (mask)",
+      "zh": "口套",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1732,
+      "desc": "套在动物口鼻上防止其咬人的器具",
+      "kw": "嘴套 / 防咬口套 / 动物口套 / 止咬套 / 口罩式口套 / 口輪 / 止咬器 / 束缚"
+    },
+    {
+      "en": "o-ring harness",
+      "zh": "O形环束缚带",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1520,
+      "desc": "设计中带O形环的束缚带",
+      "kw": "O环束缚带 / O型环束缚带 / O形环背带 / O环背带 / 金属环束缚带 / 束缚带 / 情趣用品 / BDSM"
+    },
+    {
+      "en": "over the mouth gag",
+      "zh": "遮口式口枷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 912,
+      "desc": "只遮住嘴部不遮鼻子的布制口枷",
+      "kw": "封口布 / 布口塞 / 堵嘴布 / 布制口枷 / 口罩式口枷 / 遮口口枷 / 堵嘴（覆口式） / 口枷 / over the mouth gagged"
+    },
+    {
+      "en": "over the nose gag",
+      "zh": "罩鼻式口枷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 705,
+      "desc": "遮住口鼻以限制说话的布制口枷",
+      "kw": "罩鼻口枷 / 遮鼻口枷 / 蒙鼻口枷 / 鼻上口枷 / 盖鼻口枷 / 布制口枷 / 鼻责口枷 / 覆鼻口塞 / over the nose gagged / マスクギャグ / 鼻上被せ猿轡"
+    },
+    {
+      "en": "purple rope",
+      "zh": "紫色绳子",
+      "rating": "s",
+      "count": 4309,
+      "desc": "紫色的绳子，用于捆绑或牵引",
+      "kw": "紫绳 / 紫色绳索 / 紫绳索 / 紫色捆绳 / 紫色麻绳 / 绳子 / 束缚"
+    },
+    {
+      "en": "red rope",
+      "zh": "红色绳子",
+      "rating": "s",
+      "count": 8727,
+      "desc": "呈红色的绳子，可作束缚或装饰",
+      "kw": "红绳 / 红色绳索 / 赤绳 / 中国风 / 配饰"
+    },
+    {
+      "en": "ribbon bondage",
+      "zh": "丝带捆绑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3331,
+      "desc": "用丝带或缎带捆绑束缚角色",
+      "kw": "丝带束缚 / 缎带捆绑 / 缎带束缚 / 彩带捆绑 / 被丝带捆住 / 丝带缚 / 束缚 / リボン縛り"
+    },
+    {
+      "en": "rope around neck",
+      "zh": "脖子上绕绳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 634,
+      "desc": "绳子缠绕在脖子上",
+      "kw": "颈绳 / 绕颈绳 / 脖子套绳 / 绳绕颈 / 颈部绳索 / 束缚 / 绳索"
+    },
+    {
+      "en": "straitjacket",
+      "zh": "拘束衣",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2045,
+      "desc": "袖子极长无出口，穿上后双臂被固定。",
+      "kw": "拘束服 / 束缚衣 / 约束衣 / 紧束衣 / 束缚服 / 精神病人约束衣 / 捆绑上衣 / 约束服 / straightjacket / straight jacket"
+    },
+    {
+      "en": "stuffed gag",
+      "zh": "塞布口塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 500,
+      "desc": "用袜子、内裤等塞满嘴巴的口塞",
+      "kw": "塞布口枷 / 堵嘴布 / 塞嘴 / 口塞 / 填塞口塞 / 塞布 / 堵口 / 塞嘴物"
+    },
+    {
+      "en": "unworn gag",
+      "zh": "未戴的口枷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1375,
+      "desc": "不在口中、没被戴着的口枷",
+      "kw": "摘下的口枷 / 脱下的口枷 / 取下的口枷 / 未使用口枷 / 已摘口枷 / 口枷未戴 / 未戴的口塞 / 口塞 / gag removed"
+    },
+    {
+      "en": "upright restraints",
+      "zh": "直立束缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 511,
+      "desc": "使受缚者身体保持直立的固定束缚。",
+      "kw": "直立拘束 / 站立束缚 / 立式拘束 / 站立拘束具 / 直立固定 / 立姿束缚 / 立式束缚 / 垂直束缚 / 站立拘束"
+    },
+    {
+      "en": "white rope",
+      "zh": "白绳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1463,
+      "desc": "白色的绳索，常见于捆绑或悬挂场景。",
+      "kw": "白色绳子 / 白色绳索 / 白绳索 / 白色粗绳 / 白色绳 / 白色麻绳 / 绳索 / 道具"
+    },
+    {
+      "en": "wiffle gag",
+      "zh": "镂空球口塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7004,
+      "desc": "带透气孔的镂空球状口塞",
+      "kw": "镂空球口枷 / 威浮球口塞 / 带洞口球 / 带孔口球 / 洞洞球口塞 / 透气孔口枷 / 打孔口球 / 镂空口球"
+    },
+    {
+      "en": "gimp mask",
+      "zh": "束缚面具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 476,
+      "desc": "BDSM中包住整个头部的面罩",
+      "kw": "全头面罩 / 拘束头套 / 缚口面罩 / 奴隶面罩 / BDSM面罩 / 拉链头套 / BDSM / 全頭マスク"
+    }
+  ]
+}

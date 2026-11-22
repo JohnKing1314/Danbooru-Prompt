@@ -1,0 +1,15 @@
+{
+  "id": "uncategorized",
+  "name": "其他待整理",
+  "icon": "📌",
+  "parentId": "uncategorized_group",
+  "level": 2,
+  "order": 1,
+  "file": "uncategorized_group/uncategorized_group_uncategorized.json",
+  "updatedAt": "2026-11-22T12:39:36.695Z",
+  "children": [],
+  "color": "#94a3b8",
+  "majorId": "uncategorized_group",
+  "majorName": "未分类",
+  "tags": []
+}

@@ -1,0 +1,9 @@
+{
+  "key": "p11",
+  "id": "p11",
+  "name": "战斗姿态",
+  "desc": "刀光与速度线",
+  "cat": "动作",
+  "tags": "1girl|一个女孩;fighting stance|战斗姿态;sword|刀;holding sword|持刀;dynamic pose|动态姿势;motion blur|动态模糊;speed lines|速度线;action|动作;serious|严肃;armor|铠甲;sparks|火花",
+  "builtin": true
+}

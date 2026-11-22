@@ -1,0 +1,1078 @@
+{
+  "id": "scheme_1_mwird3iy",
+  "name": "方案1 (防撕裂黄金版)",
+  "data": {
+    "_v122RuleEngine": true,
+    "_v123MajorSubEngine": true,
+    "fixedTags": "masterpiece, best quality, score_7, safe, 1girl, solo",
+    "randWeight": false,
+    "nsfwMinCount": 2,
+    "activeRuleScope": "default",
+    "charRule": {
+      "enabled": false,
+      "prob": 100,
+      "count": 1,
+      "withAuto": true
+    },
+    "switches": [
+      {
+        "id": "sw_quality",
+        "name": "含质量词",
+        "enabled": true,
+        "tagType": "sfw",
+        "rules": [
+          {
+            "id": "sr_qual_style",
+            "attr": "add",
+            "targetId": "style",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          }
+        ],
+        "intervals": [
+          {
+            "id": "style",
+            "count": 1
+          }
+        ],
+        "activeIntervalIdx": 0,
+        "catIds": [
+          "style"
+        ],
+        "catId": "style",
+        "count": 1,
+        "prob": 100,
+        "fixedTags": "",
+        "prefixAt": false,
+        "builtin": true,
+        "desc": "在默认抽取基础上，固定添加「质量与风格」1 个蓝黄（普通）标签，并自动带出官方质量前缀。"
+      },
+      {
+        "id": "sw_artist",
+        "name": "含画师",
+        "enabled": false,
+        "tagType": "sfw",
+        "rules": [
+          {
+            "id": "sr_art_artist",
+            "attr": "add",
+            "targetId": "artist",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          }
+        ],
+        "intervals": [
+          {
+            "id": "artist",
+            "count": 1
+          }
+        ],
+        "activeIntervalIdx": 0,
+        "catIds": [
+          "artist"
+        ],
+        "catId": "artist",
+        "count": 1,
+        "prob": 100,
+        "fixedTags": "",
+        "prefixAt": true,
+        "builtin": true,
+        "desc": "在默认抽取基础上，固定添加「画师风格」1 个蓝黄（普通）画师标签（词库内画师均自带 @ 前缀）。"
+      },
+      {
+        "id": "sw_char",
+        "name": "含角色",
+        "enabled": false,
+        "tagType": "char",
+        "rules": [
+          {
+            "id": "sr_char_lib",
+            "attr": "add",
+            "targetId": "char:library",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_expression",
+            "attr": "add",
+            "targetId": "expression",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "prob",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 75
+          },
+          {
+            "id": "sr_char_camera",
+            "attr": "add",
+            "targetId": "camera",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "prob",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 70
+          },
+          {
+            "id": "sr_char_body",
+            "attr": "add",
+            "targetId": "body",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "prob",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 25
+          },
+          {
+            "id": "sr_char_forbid_base",
+            "attr": "forbid",
+            "targetId": "base",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_occupation",
+            "attr": "forbid",
+            "targetId": "occupation",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_species",
+            "attr": "forbid",
+            "targetId": "species",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_hair_color",
+            "attr": "forbid",
+            "targetId": "hair_color",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_hair_style",
+            "attr": "forbid",
+            "targetId": "hair_style",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_ears",
+            "attr": "forbid",
+            "targetId": "ears",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_head",
+            "attr": "forbid",
+            "targetId": "head",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_eyes",
+            "attr": "forbid",
+            "targetId": "eyes",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_nose",
+            "attr": "forbid",
+            "targetId": "nose",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_mouth",
+            "attr": "forbid",
+            "targetId": "mouth",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_skin",
+            "attr": "forbid",
+            "targetId": "skin",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_breasts",
+            "attr": "forbid",
+            "targetId": "breasts",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_ass",
+            "attr": "forbid",
+            "targetId": "ass",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_wings",
+            "attr": "forbid",
+            "targetId": "wings",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_tail",
+            "attr": "forbid",
+            "targetId": "tail",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_legs",
+            "attr": "forbid",
+            "targetId": "legs",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_feet",
+            "attr": "forbid",
+            "targetId": "feet",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_body_parts",
+            "attr": "forbid",
+            "targetId": "body_parts",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_headwear",
+            "attr": "forbid",
+            "targetId": "headwear",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_eyewear",
+            "attr": "forbid",
+            "targetId": "eyewear",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_neckwear",
+            "attr": "forbid",
+            "targetId": "neckwear",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_handwear",
+            "attr": "forbid",
+            "targetId": "handwear",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_shoulderwear",
+            "attr": "forbid",
+            "targetId": "shoulderwear",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_chestwear",
+            "attr": "forbid",
+            "targetId": "chestwear",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_upper_body",
+            "attr": "forbid",
+            "targetId": "upper_body",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_lower_body",
+            "attr": "forbid",
+            "targetId": "lower_body",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_underwear",
+            "attr": "forbid",
+            "targetId": "underwear",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_hipwear",
+            "attr": "forbid",
+            "targetId": "hipwear",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_legwear",
+            "attr": "forbid",
+            "targetId": "legwear",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_footwear",
+            "attr": "forbid",
+            "targetId": "footwear",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_accessory",
+            "attr": "forbid",
+            "targetId": "accessory",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          },
+          {
+            "id": "sr_char_forbid_pattern",
+            "attr": "forbid",
+            "targetId": "pattern",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          }
+        ],
+        "intervals": [
+          {
+            "id": "char:library",
+            "count": 1
+          }
+        ],
+        "activeIntervalIdx": 0,
+        "catIds": [
+          "char:library"
+        ],
+        "catId": "char:library",
+        "count": 1,
+        "prob": 100,
+        "fixedTags": "",
+        "prefixAt": false,
+        "builtin": true,
+        "isCharSwitch": true,
+        "desc": "固定抽取「角色库」1 个角色（含角色外观），概率抽取「表情 (75%)」、「机位景别 (70%)」与「体型 (25%)」，并严禁其余 30 个人物基础与服饰小分类（防角色穿模）。"
+      },
+      {
+        "id": "sw_nsfw",
+        "name": "含nsfw",
+        "enabled": false,
+        "tagType": "nsfw",
+        "rules": [
+          {
+            "id": "sr_nsfw_char_major",
+            "attr": "add",
+            "targetId": "major:character_base",
+            "isMajorGroup": true,
+            "expanded": false,
+            "mode": "prob",
+            "level": "nsfw",
+            "prob": 65,
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "subWeights": [
+              {
+                "subId": "breasts",
+                "weight": 0.4
+              },
+              {
+                "subId": "pussy",
+                "weight": 0.35
+              },
+              {
+                "subId": "ass",
+                "weight": 0.25
+              },
+              {
+                "subId": "expression",
+                "weight": 0
+              },
+              {
+                "subId": "penis",
+                "weight": 0
+              },
+              {
+                "subId": "base",
+                "weight": 0
+              }
+            ]
+          },
+          {
+            "id": "sr_nsfw_outfit_major",
+            "attr": "add",
+            "targetId": "major:outfit_group",
+            "isMajorGroup": true,
+            "expanded": false,
+            "mode": "prob",
+            "level": "nsfw",
+            "prob": 60,
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "subWeights": [
+              {
+                "subId": "underwear",
+                "weight": 0.45
+              },
+              {
+                "subId": "chestwear",
+                "weight": 0.3
+              },
+              {
+                "subId": "legwear",
+                "weight": 0.25
+              },
+              {
+                "subId": "upper_body",
+                "weight": 0
+              },
+              {
+                "subId": "lower_body",
+                "weight": 0
+              },
+              {
+                "subId": "hipwear",
+                "weight": 0
+              },
+              {
+                "subId": "neckwear",
+                "weight": 0
+              },
+              {
+                "subId": "accessory",
+                "weight": 0
+              },
+              {
+                "subId": "handwear",
+                "weight": 0
+              },
+              {
+                "subId": "headwear",
+                "weight": 0
+              },
+              {
+                "subId": "eyewear",
+                "weight": 0
+              }
+            ]
+          },
+          {
+            "id": "sr_nsfw_action_major",
+            "attr": "add",
+            "targetId": "major:action_group",
+            "isMajorGroup": true,
+            "expanded": false,
+            "mode": "prob",
+            "level": "nsfw",
+            "prob": 50,
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "subWeights": [
+              {
+                "subId": "hand_action",
+                "weight": 0.35
+              },
+              {
+                "subId": "mouth_action",
+                "weight": 0.3
+              },
+              {
+                "subId": "interaction",
+                "weight": 0.25
+              },
+              {
+                "subId": "foot_action",
+                "weight": 0.1
+              },
+              {
+                "subId": "head_action",
+                "weight": 0
+              },
+              {
+                "subId": "pose",
+                "weight": 0
+              }
+            ]
+          },
+          {
+            "id": "sr_nsfw_props_major",
+            "attr": "add",
+            "targetId": "major:props_group",
+            "isMajorGroup": true,
+            "expanded": false,
+            "mode": "prob",
+            "level": "nsfw",
+            "prob": 20,
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "subWeights": [
+              {
+                "subId": "sex_toys",
+                "weight": 0.6
+              },
+              {
+                "subId": "restraints",
+                "weight": 0.4
+              },
+              {
+                "subId": "food",
+                "weight": 0
+              },
+              {
+                "subId": "items",
+                "weight": 0
+              },
+              {
+                "subId": "tools",
+                "weight": 0
+              }
+            ]
+          },
+          {
+            "id": "sr_nsfw_forbid_lower_body",
+            "attr": "forbid",
+            "targetId": "lower_body",
+            "isMajorGroup": false,
+            "expanded": false,
+            "mode": "fixed",
+            "level": "sfw",
+            "count": 1,
+            "minCount": 1,
+            "maxCount": 1,
+            "prob": 100
+          }
+        ],
+        "intervals": [
+          {
+            "id": "nsfw_mapped:all",
+            "count": 2
+          }
+        ],
+        "activeIntervalIdx": 0,
+        "catIds": [
+          "nsfw_mapped:all"
+        ],
+        "catId": "nsfw_mapped:all",
+        "count": 2,
+        "minNsfwCount": 2,
+        "prob": 100,
+        "fixedTags": "",
+        "prefixAt": false,
+        "builtin": true,
+        "desc": "按大分类权重规则抽取橙红（限制）标签（胸部/私密/情趣内衣/微露），自动屏蔽下装长裤，并保底抽出 2 个敏感标签。"
+      }
+    ],
+    "drawRules": [
+      {
+        "id": "dr_base",
+        "attr": "add",
+        "targetId": "base",
+        "isMajorGroup": false,
+        "expanded": false,
+        "mode": "prob",
+        "level": "sfw",
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "prob": 25
+      },
+      {
+        "id": "dr_hair_color",
+        "attr": "add",
+        "targetId": "hair_color",
+        "isMajorGroup": false,
+        "expanded": false,
+        "mode": "fixed",
+        "level": "sfw",
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "prob": 100
+      },
+      {
+        "id": "dr_hair_style",
+        "attr": "add",
+        "targetId": "hair_style",
+        "isMajorGroup": false,
+        "expanded": false,
+        "mode": "fixed",
+        "level": "sfw",
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "prob": 100
+      },
+      {
+        "id": "dr_eyes",
+        "attr": "add",
+        "targetId": "eyes",
+        "isMajorGroup": false,
+        "expanded": false,
+        "mode": "prob",
+        "level": "sfw",
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "prob": 80
+      },
+      {
+        "id": "dr_expression",
+        "attr": "add",
+        "targetId": "expression",
+        "isMajorGroup": false,
+        "expanded": false,
+        "mode": "prob",
+        "level": "sfw",
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "prob": 75
+      },
+      {
+        "id": "dr_upper_body",
+        "attr": "add",
+        "targetId": "upper_body",
+        "isMajorGroup": false,
+        "expanded": false,
+        "mode": "fixed",
+        "level": "sfw",
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "prob": 100
+      },
+      {
+        "id": "dr_lower_body",
+        "attr": "add",
+        "targetId": "lower_body",
+        "isMajorGroup": false,
+        "expanded": false,
+        "mode": "prob",
+        "level": "sfw",
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "prob": 45
+      },
+      {
+        "id": "dr_major_outfit_acc",
+        "attr": "add",
+        "targetId": "major:outfit_group",
+        "isMajorGroup": true,
+        "expanded": false,
+        "mode": "prob",
+        "level": "sfw",
+        "prob": 45,
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "subWeights": [
+          {
+            "subId": "legwear",
+            "weight": 0.5
+          },
+          {
+            "subId": "footwear",
+            "weight": 0.3
+          },
+          {
+            "subId": "accessory",
+            "weight": 0.2
+          },
+          {
+            "subId": "headwear",
+            "weight": 0
+          },
+          {
+            "subId": "eyewear",
+            "weight": 0
+          },
+          {
+            "subId": "neckwear",
+            "weight": 0
+          },
+          {
+            "subId": "handwear",
+            "weight": 0
+          },
+          {
+            "subId": "shoulderwear",
+            "weight": 0
+          },
+          {
+            "subId": "chestwear",
+            "weight": 0
+          },
+          {
+            "subId": "upper_body",
+            "weight": 0
+          },
+          {
+            "subId": "lower_body",
+            "weight": 0
+          },
+          {
+            "subId": "underwear",
+            "weight": 0
+          },
+          {
+            "subId": "hipwear",
+            "weight": 0
+          },
+          {
+            "subId": "pattern",
+            "weight": 0
+          }
+        ]
+      },
+      {
+        "id": "dr_pose",
+        "attr": "add",
+        "targetId": "pose",
+        "isMajorGroup": false,
+        "expanded": false,
+        "mode": "fixed",
+        "level": "sfw",
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "prob": 100
+      },
+      {
+        "id": "dr_camera",
+        "attr": "add",
+        "targetId": "camera",
+        "isMajorGroup": false,
+        "expanded": false,
+        "mode": "prob",
+        "level": "sfw",
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "prob": 70
+      },
+      {
+        "id": "dr_major_action",
+        "attr": "add",
+        "targetId": "major:action_group",
+        "isMajorGroup": true,
+        "expanded": false,
+        "mode": "prob",
+        "level": "sfw",
+        "prob": 35,
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "subWeights": [
+          {
+            "subId": "hand_action",
+            "weight": 0.7
+          },
+          {
+            "subId": "head_action",
+            "weight": 0.2
+          },
+          {
+            "subId": "mouth_action",
+            "weight": 0.1
+          },
+          {
+            "subId": "pose",
+            "weight": 0
+          },
+          {
+            "subId": "foot_action",
+            "weight": 0
+          },
+          {
+            "subId": "interaction",
+            "weight": 0
+          }
+        ]
+      },
+      {
+        "id": "dr_major_scene",
+        "attr": "add",
+        "targetId": "major:scene_group",
+        "isMajorGroup": true,
+        "expanded": false,
+        "mode": "prob",
+        "level": "sfw",
+        "prob": 70,
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "subWeights": [
+          {
+            "subId": "nature",
+            "weight": 0.4
+          },
+          {
+            "subId": "indoor",
+            "weight": 0.35
+          },
+          {
+            "subId": "weather_time",
+            "weight": 0.15
+          },
+          {
+            "subId": "urban",
+            "weight": 0.05
+          },
+          {
+            "subId": "fantasy_scifi",
+            "weight": 0.05
+          }
+        ]
+      },
+      {
+        "id": "dr_lighting",
+        "attr": "add",
+        "targetId": "lighting",
+        "isMajorGroup": false,
+        "expanded": false,
+        "mode": "prob",
+        "level": "sfw",
+        "count": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "prob": 50
+      }
+    ]
+  }
+}

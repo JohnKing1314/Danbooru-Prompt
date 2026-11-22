@@ -1,0 +1,2742 @@
+{
+  "id": "hair_style",
+  "name": "发型",
+  "icon": "💇",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 5,
+  "file": "character_base/character_base_hair_style.json",
+  "updatedAt": "2026-11-18T05:36:30.158Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "tentacle hair",
+      "zh": "触手头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 42472,
+      "desc": "由触手构成的头发。",
+      "kw": "触手毛发 / 触手发丝 / 触手状头发 / 章鱼发 / 发型 / 奇幻"
+    },
+    {
+      "en": "layered hair",
+      "zh": "层次发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 127,
+      "desc": "经过层次修剪的头发。",
+      "kw": "层次发型 / 分层发型 / 有层次的头发 / 层次剪发 / 层次感头发 / 多层次发型 / 层次剪 / 分层头发"
+    },
+    {
+      "en": "feathered hair",
+      "zh": "羽毛剪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49
+    },
+    {
+      "en": "raccoon tails (hairstyle)",
+      "zh": "浣熊尾染（发型）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 196,
+      "desc": "头发染出多条横向条纹的发型，常见于侧发",
+      "kw": "浣熊尾染 / 浣熊尾巴染发 / 条纹染发 / 浣熊尾挑染 / 分段染发 / 浣熊尾发型 / 浣熊尾染 (发型) / 发型 / coontail / coontails"
+    },
+    {
+      "en": "see-through hair",
+      "zh": "半透明发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 798,
+      "desc": "发丝实体部分能让光透过的头发",
+      "kw": "半透明头发 / 透明头发 / 透光发丝 / 发丝透光 / 光线透过头发 / 半透头发 / 透视发型 / 半透明发丝 / translucent hair / transparent hair"
+    },
+    {
+      "en": "long hair",
+      "zh": "长发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6378521,
+      "desc": "头发长度从肩到腰",
+      "kw": "长头发 / 长髮 / 长发女 / 长发造型 / 及肩长发 / 长发女生 / 长发角色 / 长发娘 / longhair / 长髪 / ロングヘアー / 長髪"
+    },
+    {
+      "en": "very long hair",
+      "zh": "超长发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1455313,
+      "desc": "长度超过腰部、可及脚部的头发",
+      "kw": "及腰长发 / 过腰长发 / 超长头发 / 长发及腰 / 及臀长发 / 及腿长发 / 头发及腰 / 超长发型 / hair past waist / 超ロングヘア"
+    },
+    {
+      "en": "short hair",
+      "zh": "短发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3208362,
+      "desc": "头发长度到脖子但未过肩",
+      "kw": "短头发 / 短髮 / 短发女 / 短发造型 / 齐颈发 / 短发角色 / 短发娘 / 短毛 / short-hair / shorthair / 短髪 / ショートヘア"
+    },
+    {
+      "en": "medium hair",
+      "zh": "中长发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 664570,
+      "desc": "长度大约及肩的中长发",
+      "kw": "及肩发 / 齐肩发 / 中发 / 半长发 / 及肩长发 / 肩长头发 / 及肩中长发 / 发型 / shoulder-length hair / セミロング / ミディアムヘアー"
+    },
+    {
+      "en": "absurdly long hair",
+      "zh": "极长发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30621,
+      "desc": "比身高还长、几乎能站立的头发",
+      "kw": "超长发 / 拖地长发 / 头发拖地 / 夸张长发 / 荒谬的长发 / 长发 / extremely long hair / hair past feet"
+    },
+    {
+      "en": "bob cut",
+      "zh": "波波头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 143291,
+      "desc": "长度及耳至下巴的波波头，发尾常平齐。",
+      "kw": "鲍伯头 / 妹妹头 / 娃娃头 / 齐耳短发 / 齐下巴短发 / 内扣短发 / 学生头 / 蘑菇头 / bobbed hair / okappa / おかっぱ / ボブカット"
+    },
+    {
+      "en": "twin braids",
+      "zh": "双辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 255069,
+      "desc": "编成两条辫子的发型。",
+      "kw": "双麻花辫 / 双辫子 / 两条辫子 / 双股辫 / 麻花双辫 / 双发辫 / 发型 / 麻花辫 / twinbraids / twinbraid / twin braid / double braid"
+    },
+    {
+      "en": "ponytail",
+      "zh": "马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 989824,
+      "desc": "头发在脑后扎起自然下垂的发型",
+      "kw": "马尾辫 / 马尾发 / 单马尾 / 脑后马尾 / 高马尾 / 低马尾 / 马尾发型 / 发型 / pony tail / long ponytail / ポニーテール / ポニテ"
+    },
+    {
+      "en": "side ponytail",
+      "zh": "侧马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 240795,
+      "desc": "扎在头部侧面而非脑后的马尾",
+      "kw": "侧边马尾 / 侧扎马尾 / 单侧马尾 / 边马尾 / 侧马尾辫 / 旁边马尾 / 侧单马尾 / 侧面马尾 / sidetail / side tail / サイドテール"
+    },
+    {
+      "en": "high ponytail",
+      "zh": "高马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 132818,
+      "desc": "扎在头顶偏后位置的高马尾。",
+      "kw": "高位马尾 / 高马尾辫 / 头顶马尾 / 高束马尾 / 高扎马尾 / 高位置马尾 / 高绑马尾 / 马尾 / ハイポニーテール"
+    },
+    {
+      "en": "low ponytail",
+      "zh": "低马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 85200,
+      "desc": "在颈后等较低位置束起的马尾。",
+      "kw": "低位马尾 / 低扎马尾 / 低束马尾 / 颈后马尾 / 低马尾辫 / 低垂马尾 / 发型 / 马尾 / ローポニーテール"
+    },
+    {
+      "en": "braid",
+      "zh": "单辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 952525,
+      "desc": "三股或更多头发交叉编成",
+      "kw": "麻花辫 / 发辫 / 编发 / 三股辫 / 辫子发型 / 辫子编发 / 麻花辫子 / 发型 / braids / braided hair / hair braid / 三つ編み"
+    },
+    {
+      "en": "french braid",
+      "zh": "法式辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "此标签已弃用，请参考替代标签",
+      "kw": "发型 / 辫子"
+    },
+    {
+      "en": "side braid",
+      "zh": "侧编发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 88810,
+      "desc": "垂在脸侧、耳前的单条辫子，区别于鬓辫。",
+      "kw": "侧边辫 / 单侧辫 / 侧麻花辫 / 单侧麻花辫 / 侧垂辫 / 单侧编发 / 脸侧辫子"
+    },
+    {
+      "en": "bun",
+      "zh": "发髻",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hair bun",
+      "zh": "圆发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 384091,
+      "desc": "头发盘成圆形发髻的发型",
+      "kw": "丸子头 / 包子头 / 团子头 / 盘发发髻 / 圆髻 / 发型 / 古风 / hairbun / お団子 / お団子ヘアー / おだんご"
+    },
+    {
+      "en": "double bun",
+      "zh": "双丸子头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 184041,
+      "desc": "头发盘成两个圆丸子的发型",
+      "kw": "双丸子发型 / 双团子头 / 团子头 / 双发髻 / 双圆髻 / 双球发髻 / 两个丸子头 / 双包头 / buns / double buns / hair buns / twin bun"
+    },
+    {
+      "en": "hime cut",
+      "zh": "姬发式",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32536,
+      "desc": "长直发、齐刘海、齐鬓发的发型",
+      "kw": "公主切 / 公主剪 / 日式公主切 / 齐刘海公主切 / 日本姬发式 / 发型 / 日本风 / himecut / princess cut / 姫カット"
+    },
+    {
+      "en": "bangs",
+      "zh": "刘海",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "blunt bangs",
+      "zh": "齐刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 440513,
+      "desc": "刘海剪成一条横直线，常见于姬发式",
+      "kw": "齐浏海 / 平刘海 / 一刀平 / 齐平刘海 / 妹妹头刘海 / 齐眉刘海 / 水平刘海 / 直刘海 / ぱっつん / パッツン / 前髪ぱっつん"
+    },
+    {
+      "en": "hair between eyes",
+      "zh": "眼间发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1842147,
+      "desc": "刘海中间一缕垂到双眼之间",
+      "kw": "双眼间发丝 / 刘海中间垂发 / 眉间发束 / 发丝垂于眼间 / 中缝垂发 / 发帘中垂 / 眼间垂发 / 垂落于双眼之间的发束 / bangs between eyes"
+    },
+    {
+      "en": "wavy hair",
+      "zh": "波浪发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 153441,
+      "desc": "呈波浪起伏弧度的头发。",
+      "kw": "波浪卷 / 大波浪 / 卷发 / 波浪长发 / 卷曲发 / 浪卷发 / 波浪形头发 / ウェーブヘア / ウェービーヘア"
+    },
+    {
+      "en": "curly hair",
+      "zh": "卷发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 48612,
+      "desc": "自然卷曲的头发，不同于钻头卷。",
+      "kw": "卷毛 / 卷曲发 / 自然卷 / 卷卷发 / 卷发造型 / 卷曲头发 / 发型 / curls / 巻き毛"
+    },
+    {
+      "en": "straight hair",
+      "zh": "直发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 105309,
+      "desc": "没有卷曲或波浪的直发。",
+      "kw": "直长发 / 长直发 / 顺直发 / 垂直发 / 直毛 / 自然直发 / 不卷发 / 发型 / ストレートヘア"
+    },
+    {
+      "en": "messy hair",
+      "zh": "凌乱发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 94464,
+      "desc": "未经打理而蓬乱、散乱发丝多的头发",
+      "kw": "乱发 / 蓬乱头发 / 睡醒头 / 起床头 / 鸡窝头 / 毛躁头发 / 不梳理头发 / 炸毛发 / morning hair / bed head / 寝癖 / くせ毛"
+    },
+    {
+      "en": "wet hair",
+      "zh": "湿发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20937,
+      "desc": "角色头发被水打湿",
+      "kw": "湿头发 / 头发湿了 / 淋湿的头发 / 湿润头发 / 湿漉漉的头发 / 水湿头发 / 发丝湿润 / 头发 / 濡れ髪"
+    },
+    {
+      "en": "floating hair",
+      "zh": "飘发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 199937,
+      "desc": "被风吹起或悬空飘动的头发。",
+      "kw": "头发飘动 / 头发飞扬 / 浮空头发 / 被风吹起的头发 / 飘起的头发 / 飞扬的头发 / 飘逸长发 / space hair / hair blowing"
+    },
+    {
+      "en": "spiked hair",
+      "zh": "刺猬头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 111086,
+      "desc": "头发形成尖刺状的发型",
+      "kw": "尖刺头发 / 刺头 / 尖发 / 刺发 / 刺猬发型 / 尖刺发型 / 尖头 / 发型 / spiky hair / spikey hair"
+    },
+    {
+      "en": "drill hair",
+      "zh": "钻头卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 135289,
+      "desc": "头发卷成圆锥钻头状的螺旋卷。",
+      "kw": "螺旋卷发 / 弹簧卷发 / 锥形卷发 / 圆锥卷发 / 纵卷 / 卷钻头 / 罗马卷 / 螺旋卷 / doriru / drillhair / 縦ロール / ドリルヘアー"
+    },
+    {
+      "en": "twin drills",
+      "zh": "双钻卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 73934,
+      "desc": "扎成两侧卷曲钻头状的发型，常见于大小姐角色。",
+      "kw": "双钻头 / 双螺旋卷 / 双螺旋马尾 / 钻头双马尾 / 双卷钻头 / 螺旋双马尾 / 双螺旋辫 / twindrills / ツインドリル"
+    },
+    {
+      "en": "pixie cut",
+      "zh": "精灵短发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1845,
+      "desc": "两侧和后脑剪得很短、顶部略长的女性短发。",
+      "kw": "精灵头 / 超短发 / 精灵剪 / 皮克西短发 / 发型 / 短发 / ピクシーカット"
+    },
+    {
+      "en": "buzz cut",
+      "zh": "寸头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4624,
+      "desc": "用电推剪推成的圆寸短发，常见于日本高校棒球队员或新兵",
+      "kw": "圆寸 / 板寸 / 平头 / 短寸 / 毛寸 / 剃寸头 / 发型 / 丸刈り"
+    },
+    {
+      "en": "crew cut",
+      "zh": "板寸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 440,
+      "desc": "极短的军人平头发型",
+      "kw": "板寸头 / 平头 / 寸头 / 军人平头 / 锅盖寸头 / 发型 / 短发"
+    },
+    {
+      "en": "hair intakes",
+      "zh": "内卷发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 281289,
+      "desc": "头顶两侧向前方拱起的发流凹槽，形似进气口。",
+      "kw": "头发进气口 / 发流槽 / 发流凹槽 / 头发凹槽 / 进气口发型 / 双前向发流 / 发型 / 机甲发型 / hair vents / 排气孔 / インテーク"
+    },
+    {
+      "en": "hair flaps",
+      "zh": "发片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57934,
+      "desc": "从头部两侧翘起的发束，常见于动漫角色。",
+      "kw": "侧发 / 鬓发 / 侧发束 / 翘发 / 发翘 / 侧边发 / 鬓角发 / 侧刘海 / 侧翘"
+    },
+    {
+      "en": "low twintails",
+      "zh": "低双马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 168493,
+      "desc": "在耳朵处或以下低位束起的双马尾",
+      "kw": "低双马尾辫 / 低位双马尾 / 下双马尾 / 低双辫 / 低位置双马尾 / 双马尾 / 发型 / おさげ / 二つ結び / 로우테일"
+    },
+    {
+      "en": "high twintails",
+      "zh": "高双马尾",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "short twintails",
+      "zh": "短双马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 88930,
+      "desc": "长度约到肩或更短的双马尾发型。",
+      "kw": "短款双马尾 / 齐肩双马尾 / 短双马尾辫 / 双马尾短发 / 短双马尾发型 / 双马尾短 / 短双尾辫 / 双马尾 / pigtails"
+    },
+    {
+      "en": "one side up",
+      "zh": "单侧扎发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 155045,
+      "desc": "只把一侧头发扎起，其余自然散落。",
+      "kw": "单边扎起 / 单侧束发 / 侧扎发 / 单侧编发 / 侧边扎发 / 单侧半扎 / 单边扎发 / ワンサイドアップ / サイドアップ / ハーフアップ"
+    },
+    {
+      "en": "half updo",
+      "zh": "半扎发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 61628,
+      "desc": "上半头发扎起，下半自然披散",
+      "kw": "半扎 / 半束发 / 半盘发 / 半挽发 / 半扎马尾 / 半丸子头 / 发型 / 半扎发型 / half down half up / ハーフアップ / お嬢様結び"
+    },
+    {
+      "en": "updo",
+      "zh": "盘发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11156,
+      "desc": "头发在脑后高高绾起的女性发型",
+      "kw": "盘头 / 发髻 / 高盘发 / 上盘发 / 盘起来的发型 / 发型 / 高马尾"
+    },
+    {
+      "en": "french twist",
+      "zh": "法式盘发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chignon",
+      "zh": "低盘发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "messy bun",
+      "zh": "凌乱丸子头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "long sidelocks",
+      "zh": "长鬓发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38733,
+      "desc": "长达肩部或更长的鬓发",
+      "kw": "长鬓角 / 长侧发 / 长发鬓 / 长脸颊发 / 长触角发 / 发型 / 侧发"
+    },
+    {
+      "en": "short sidelocks",
+      "zh": "短鬓发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "asymmetrical hair",
+      "zh": "不对称发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38016,
+      "desc": "发型中有显著不对称的元素",
+      "kw": "不对称发式 / 不对称头发 / 左右不对称发型 / 非对称发型 / 发型 / 偏分 / 非对称"
+    },
+    {
+      "en": "hair over one eye",
+      "zh": "遮单眼发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 383636,
+      "desc": "头发只遮住一只眼睛",
+      "kw": "头发遮住一只眼 / 遮单眼 / 单眼遮发 / 一只眼被头发遮住 / 单眼遮盖 / 遮眼刘海 / 发型 / hair over eye / eye covering bang / 片目隠れ / 片目隠し"
+    },
+    {
+      "en": "hair over shoulder",
+      "zh": "披肩发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 81384,
+      "desc": "头发搭在肩上而非垂在背后",
+      "kw": "头发搭肩 / 头发垂肩 / 头发披肩 / 头发搭在肩前 / 头发垂到肩前 / 发丝搭肩 / 发垂至肩 / 发型"
+    },
+    {
+      "en": "hair spread out",
+      "zh": "散发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49481,
+      "desc": "头发因重力在平面上散开。",
+      "kw": "头发铺开 / 发丝散开 / 长发铺散 / 头发摊开 / 头发披散 / 散开头发 / 长发"
+    },
+    {
+      "en": "hair down",
+      "zh": "披发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45156,
+      "desc": "平时扎起的头发放下的发型",
+      "kw": "披肩发 / 放下头发 / 垂发 / 长发披肩 / 散下来 / 散发状态 / 披散的头发 / hairdown / 髪下ろし"
+    },
+    {
+      "en": "braided bun",
+      "zh": "编发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16980,
+      "desc": "用辫子盘成发髻的发型。",
+      "kw": "辫子盘发 / 辫子发髻 / 辫子盘成的发髻 / 编发发髻 / 辫子丸子头 / 辫子苞 / 编发盘发 / 辫子包头"
+    },
+    {
+      "en": "crown braid",
+      "zh": "皇冠辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37954,
+      "desc": "绕头顶编成如发箍或王冠的辫子。",
+      "kw": "花冠辫 / 发箍辫 / 绕头辫 / 盘头辫 / 冠冕辫 / 冠形编发 / 冠状发辫 / クラウンブレイド / 发箍状麻花辫"
+    },
+    {
+      "en": "fishtail braid",
+      "zh": "鱼骨辫",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dutch braid",
+      "zh": "荷兰辫",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "micro braids",
+      "zh": "细辫",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "curly bob",
+      "zh": "卷波波头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wavy bob",
+      "zh": "波浪波波",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chin-length hair",
+      "zh": "下巴长度发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "shoulder-length hair",
+      "zh": "齐肩发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "waist-length hair",
+      "zh": "及腰长发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "floor-length hair",
+      "zh": "及地长发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "heart-shaped hair",
+      "zh": "心形发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1281,
+      "desc": "头发主体造型呈心形。",
+      "kw": "心型发型 / 心形发 / 爱心发型 / 发型 / 头发装饰 / heart hair"
+    },
+    {
+      "en": "symbol-shaped hair",
+      "zh": "符号状发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28
+    },
+    {
+      "en": "very short hair",
+      "zh": "极短发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40495,
+      "desc": "长度及耳或及下颌，甚至更短的发型，如平头、精灵头。",
+      "kw": "超短发型 / 寸头 / 平头 / 精灵短发 / 超短 / 露耳短发 / 板寸 / ベリーショート / ベリショ"
+    },
+    {
+      "en": "big hair",
+      "zh": "蓬松发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14061,
+      "desc": "异常浓密蓬松的发型",
+      "kw": "大头发 / 浓密发型 / 蓬松头发 / 厚密头发 / 爆炸头 / 大卷发 / 超大发型 / 蓬蓬头"
+    },
+    {
+      "en": "bald",
+      "zh": "秃头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24321,
+      "desc": "头上完全没有头发。",
+      "kw": "秃顶 / 全秃 / 无头发 / 光头角色 / 无发 / 剃髪 / ハゲ / スキンヘッド"
+    },
+    {
+      "en": "bald female",
+      "zh": "光头女性",
+      "rating": "g",
+      "nsfw": false,
+      "count": 581,
+      "desc": "光头或无头发的女性角色",
+      "kw": "光头女 / 女光头 / 秃头女性 / 秃头女 / 女性光头 / 秃头 / 女性 / bald girl"
+    },
+    {
+      "en": "balding",
+      "zh": "秃顶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1950,
+      "desc": "头顶少发但两侧尚存头发的秃顶状态",
+      "kw": "半秃 / 秃头 / 谢顶 / 地中海 / 头发稀疏 / 秃鬓 / 头发 / bald spot / partially bald / 不完全秃顶"
+    },
+    {
+      "en": "inverted bob",
+      "zh": "前长后短波波头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8045,
+      "desc": "后短前长、越往前越长的波波发型",
+      "kw": "反鲍勃头 / 倒置波波头 / 斜切波波头 / 前长后短短发 / 不对称波波头 / 长短波波 / 倒波波头 / 发型"
+    },
+    {
+      "en": "bowl cut",
+      "zh": "锅盖头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4811,
+      "desc": "四周等长的锅盖头",
+      "kw": "西瓜头 / 碗盖头 / 锅盖发型 / 圆盖头 / 碗状发型 / 短发"
+    },
+    {
+      "en": "undercut",
+      "zh": "铲青发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23300,
+      "desc": "两侧或后脑剃短、头顶留长并侧梳的发型。",
+      "kw": "两侧剃短发 / 两侧铲青 / 铲青头 / 底层削发 / 底削发型 / 侧削发 / 两边剃短 / 铲青 / ツーブロック"
+    },
+    {
+      "en": "flattop",
+      "zh": "平头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1046,
+      "desc": "顶部头发剪平直的发型",
+      "kw": "平顶头 / 平头短发 / 板寸 / 寸头 / 平顶发型 / 发型 / 短发 / flat top"
+    },
+    {
+      "en": "short hair with long locks",
+      "zh": "短发带长鬓角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 70957,
+      "desc": "后脑短发、耳前或耳后留长发绺的发型。",
+      "kw": "短发长鬓发 / 短发长鬓角 / 短发加长鬓发 / 短发带长发绺 / 短长发 / 短发留长绺 / 短发加长鬓 / 发型"
+    },
+    {
+      "en": "wolf cut",
+      "zh": "狼尾发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9143,
+      "desc": "顶部蓬松、颈部开始打薄的狼尾发型",
+      "kw": "狼尾剪 / 狼尾头 / 狼尾造型 / 狼尾烫 / 日系狼尾 / 层次狼尾 / 发型 / ウルフカット"
+    },
+    {
+      "en": "jellyfish cut",
+      "zh": "水母头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2599,
+      "desc": "上圆下长、形似水母的发型",
+      "kw": "水母发型 / 水母剪 / 水母切 / 水母头型 / 水母发 / 发型 / 双层发型"
+    },
+    {
+      "en": "mullet",
+      "zh": "鲻鱼头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2349,
+      "desc": "前短后长的鲻鱼头发型",
+      "kw": "鲻鱼头发型 / 前短后长发型 / 鲻鱼发型 / 马雷特头 / 发型 / マレット"
+    },
+    {
+      "en": "braided bangs",
+      "zh": "编发刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18592,
+      "desc": "编成辫子的刘海",
+      "kw": "刘海编发 / 辫子刘海 / 麻花刘海 / 刘海辫 / 额头编辫 / 前发编辫 / 刘海麻花辫"
+    },
+    {
+      "en": "front braid",
+      "zh": "前侧辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 224,
+      "desc": "在下巴下方编成、垂于胸前的辫子",
+      "kw": "胸前辫子 / 下巴下辫子 / 前垂辫 / 下颌辫 / 正前方辫子 / 前侧辫子 / 发型 / 辫子"
+    },
+    {
+      "en": "half crown braid",
+      "zh": "半皇冠辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2171,
+      "desc": "只编一侧或顶部的冠状编发。",
+      "kw": "半圈编发 / 半头冠编发 / 半顶编发 / 半冠式辫子 / 发型 / 半冠辫 / 单侧冠辫"
+    },
+    {
+      "en": "single braid",
+      "zh": "单麻花辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 188252,
+      "desc": "整头发编成一条辫子的发型。",
+      "kw": "单条辫子 / 单侧辫子 / 单马尾辫 / 单股辫 / 一条辫子 / 单发辫 / 发型 / 麻花辫"
+    },
+    {
+      "en": "multiple braids",
+      "zh": "多股辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6957,
+      "desc": "角色有两条以上的辫子",
+      "kw": "多条辫子 / 多辫子 / 多条编发 / 多个辫子 / 多束辫子 / 多股麻花辫 / 多根辫子 / 多发辫"
+    },
+    {
+      "en": "low twin braids",
+      "zh": "低双麻花辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25558,
+      "desc": "在耳部以下低位束起的双麻花辫",
+      "kw": "低位双辫 / 低双股辫 / 双低辫 / 低双辫子 / 双麻花辫 / 发型"
+    },
+    {
+      "en": "tri braids",
+      "zh": "三股辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1307,
+      "desc": "头发编成三条辫子的发型",
+      "kw": "三条辫子 / 三根辫子 / 三束辫 / 三编辫 / 三发辫 / 发型 / 麻花辫"
+    },
+    {
+      "en": "quad braids",
+      "zh": "四股辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1189,
+      "desc": "头发编成四条辫子的发型",
+      "kw": "四条辫子 / 四根辫子 / 四编辫 / 四束辫 / 四麻花辫 / 四股麻花辫 / 四发辫"
+    },
+    {
+      "en": "rope braid",
+      "zh": "绳索辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 84,
+      "desc": "两股头发互相扭绞成绳状的编发",
+      "kw": "绳辫 / 扭绳辫 / 两股绳辫 / 螺旋辫"
+    },
+    {
+      "en": "cornrows",
+      "zh": "贴头编发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 858,
+      "desc": "紧贴头皮编成一行行辫子的发型",
+      "kw": "地垄沟辫 / 贴头辫 / 垄沟辫 / 玉米垄辫 / 贴头皮辫 / 脏辫 / 发型 / コーンロウ"
+    },
+    {
+      "en": "dreadlocks",
+      "zh": "脏辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5939,
+      "desc": "头发扭成紧密绳索状的脏辫发型。",
+      "kw": "雷鬼头 / 锁发 / 脏辫发型 / 长发绺 / 牙买加辫 / 拉斯特法里辫 / 发型 / 辫子 / hair locs / hair loc / hairlocs / ドレッドヘア"
+    },
+    {
+      "en": "braided dreadlocks",
+      "zh": "编织脏辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 53
+    },
+    {
+      "en": "box braids",
+      "zh": "拳击辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 84,
+      "desc": "分格编成的方块辫发型",
+      "kw": "方块辫 / 盒式编发 / 箱式辫 / 方格辫 / 盒子辫 / 盒状辫子 / 分格辫 / 方格式脏辫"
+    },
+    {
+      "en": "low-braided long hair",
+      "zh": "低位麻花辫长发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11230,
+      "desc": "长发从肩部以下开始编成辫子。",
+      "kw": "低编长发 / 低位辫子长发 / 长发低编 / 肩下编辫长发 / 低扎辫长发 / 发型 / 长发"
+    },
+    {
+      "en": "half up braid",
+      "zh": "半扎编发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38568,
+      "desc": "后脑绕半圈编成的辫子，类似半扎发。",
+      "kw": "半扎发辫 / 半盘发辫 / 半头辫 / 半扎辫子头 / 半束辫 / 半圈辫子 / 发型"
+    },
+    {
+      "en": "half up half down braid",
+      "zh": "半扎编发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3534,
+      "desc": "后脑编发并留出下垂尾巴",
+      "kw": "半编发 / 半扎发辫 / 半盘编发 / 半披编发 / 后脑编发垂尾 / 半扎辫子 / 环形发辫(垂尾) / 发型"
+    },
+    {
+      "en": "braided ponytail",
+      "zh": "麻花辫马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 52675,
+      "desc": "编成辫子垂下的马尾",
+      "kw": "编发马尾 / 辫子马尾辫 / 发辫马尾 / 编辫马尾 / 三股辫马尾 / 鱼骨辫马尾 / 发型"
+    },
+    {
+      "en": "bun with braided base",
+      "zh": "编发基底丸子头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10890,
+      "desc": "发髻根部缠有辫子",
+      "kw": "发髻根部编发 / 盘发带编发 / 辫子盘发 / 编发盘发 / 绕辫发髻 / 发辫基底发髻 / 发型 / 编发基底"
+    },
+    {
+      "en": "bantu knots",
+      "zh": "班图结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46
+    },
+    {
+      "en": "single hair bun",
+      "zh": "单发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 95069,
+      "desc": "头发盘成一个圆形发髻",
+      "kw": "单团子头 / 单丸子头 / 单颗丸子 / 发髻 / 丸子头 / 单团子 / 一个发髻 / 发型 / bun / hair bun / hairbun / お団子頭"
+    },
+    {
+      "en": "very low bun",
+      "zh": "极低发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 777,
+      "desc": "扎在颈部以下的低发髻",
+      "kw": "超低丸子头 / 极低丸子头 / 低盘发 / 发型 / 发髻"
+    },
+    {
+      "en": "cone hair bun",
+      "zh": "锥形发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22027,
+      "desc": "圆锥形的发髻，含单发髻和双发髻",
+      "kw": "发髻锥形 / 锥状发髻 / 圆锥抓髻 / 尖发髻 / 锥形丸子头 / 圆锥丸子头 / 尖包子头 / hair cones / 猫耳发角"
+    },
+    {
+      "en": "donut hair bun",
+      "zh": "甜甜圈发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3927,
+      "desc": "用发圈盘成的甜甜圈形发髻",
+      "kw": "甜甜圈丸子头 / 甜甜圈发圈 / 圆圈发髻 / 环形发髻 / 甜甜圈盘发 / 甜甜圈发束 / 甜甜圈头髻 / 发髻 / doughnut hair bun"
+    },
+    {
+      "en": "heart hair bun",
+      "zh": "心形发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 641,
+      "desc": "盘成心形的丸子头",
+      "kw": "心形包子头 / 心形团子头 / 爱心丸子头 / 爱心发髻 / 心形盘发 / 心形发团 / 心形发包"
+    },
+    {
+      "en": "triple bun",
+      "zh": "三个发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 137,
+      "desc": "三个发髻组成的发型",
+      "kw": "三团子头 / 三发包 / 三丸子发型 / 三重丸子头 / 三颗丸子头 / 三个团子头 / 三子髻 / 发型"
+    },
+    {
+      "en": "feixianji (hairstyle)",
+      "zh": "飞仙髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1283,
+      "desc": "中国传统发型，头顶有两个发环，形似兔耳或蝴蝶结。",
+      "kw": "飞仙髻发型 / 双环髻 / 飞仙髻头 / 垂鬟分肖髻 / 垂鬟分髾髻 / 飞天髻 / 双环发髻 / 飞仙发髻 / chigomage / 飛仙髻"
+    },
+    {
+      "en": "katsuyamamage",
+      "zh": "胜山髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 288,
+      "desc": "日本传统胜山髻发型，将发束打成环形。",
+      "kw": "胜山发髻 / 胜山发环 / 胜山型 / 胜山发型 / 胜山束发 / 胜山头型 / 胜山式发髻 / 胜山挽髻 / 勝山髷 / かつやままげ"
+    },
+    {
+      "en": "nihongami",
+      "zh": "日本传统发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1481,
+      "desc": "体现年龄、身份或婚姻状况的日本传统发型",
+      "kw": "日式发髻 / 和式发髻 / 日本古典发型 / 艺伎发髻 / 花魁发髻 / 日本风格 / 和风 / 日本髪"
+    },
+    {
+      "en": "triangle hair bun with corners toward head",
+      "zh": "三角发髻尖角朝内",
+      "rating": "g",
+      "nsfw": false,
+      "count": 345,
+      "desc": "发髻呈三角形且尖端朝向头部的发型。",
+      "kw": "尖朝内三角发髻 / 尖端朝头三角髻 / 内角三角发髻 / 三角髻（尖朝内） / 三角发髻尖角朝头 / 发型 / 发髻 / 三角发髻"
+    },
+    {
+      "en": "two side up",
+      "zh": "半扎双马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 254832,
+      "desc": "两侧头发扎起、后发自然披散，非全部扎成双马尾。",
+      "kw": "两侧扎发 / 双侧束发 / 两侧小马尾 / 双发束 / 半双马尾 / 双侧扎发 / 发型 / 侧起发 / two sides up / ツーサイドアップ"
+    },
+    {
+      "en": "low-tied long hair",
+      "zh": "低扎长发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60295,
+      "desc": "在头发中段或发尾低位束起的长发",
+      "kw": "低束长发 / 长发低束 / 低位束发 / 低扎发 / 长发低扎 / 低马尾长发 / 发尾束起的长发 / 末端束发 / long hair tied low"
+    },
+    {
+      "en": "multi-tied hair",
+      "zh": "分段式束发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11803,
+      "desc": "马尾、双马尾等在多处竖直位置分段扎起，形似香肠。",
+      "kw": "分段扎发 / 多段绑发 / 香肠辫 / 串珠辫 / 泡泡辫 / 灯笼辫 / 多扎式发型 / 发型 / bubble braid"
+    },
+    {
+      "en": "folded ponytail",
+      "zh": "折叠马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26179,
+      "desc": "马尾向上对折固定的发型",
+      "kw": "对折马尾 / 折马尾 / 折叠式马尾 / 马尾折叠 / 发型 / 马尾辫"
+    },
+    {
+      "en": "front ponytail",
+      "zh": "前马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9405,
+      "desc": "束在下巴下方胸前的马尾",
+      "kw": "胸前马尾 / 下巴马尾 / 前方马尾 / 前束马尾 / 发型 / 马尾"
+    },
+    {
+      "en": "short ponytail",
+      "zh": "短马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49553,
+      "desc": "长度较短通常不超过颈部的马尾。",
+      "kw": "短马尾辫 / 短马尾巴 / 小马尾 / 短束马尾 / 马尾辫 / 发型"
+    },
+    {
+      "en": "ponytail with braided base",
+      "zh": "辫子缠绕马尾根部",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2478,
+      "desc": "马尾根部用编发缠绕固定",
+      "kw": "辫子束马尾 / 编发固定马尾 / 辫子根马尾 / 麻花辫马尾 / 编发马尾 / 发辫基底马尾辫 / 发型 / 辫基马尾"
+    },
+    {
+      "en": "high side ponytail",
+      "zh": "高侧马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5989,
+      "desc": "扎在头顶靠上位置的侧马尾。",
+      "kw": "高位置侧马尾 / 侧高马尾 / 高侧单马尾 / 侧边高马尾 / 发型 / 马尾辫"
+    },
+    {
+      "en": "low side ponytail",
+      "zh": "低侧马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3529,
+      "desc": "在颈后等较低位置束起的侧马尾。",
+      "kw": "低马尾侧扎 / 下侧马尾 / 侧低马尾 / 低位侧扎马尾 / 发型 / 马尾"
+    },
+    {
+      "en": "short side ponytail",
+      "zh": "短侧马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2606,
+      "desc": "头发明显较短的侧马尾。",
+      "kw": "短侧辫 / 短侧马尾辫 / 短侧边马尾 / 短侧边马尾辫 / 发型 / 马尾辫 / short sidetail"
+    },
+    {
+      "en": "side ponytail with braided base",
+      "zh": "编发基底侧马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 648,
+      "desc": "发根用辫子缠绕固定的侧马尾",
+      "kw": "发根麻花侧马尾 / 编发侧马尾 / 辫底侧马尾 / 侧马尾发根编发 / 侧马尾 / 发型 / 编发"
+    },
+    {
+      "en": "split ponytail",
+      "zh": "分叉马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3463,
+      "desc": "发根处分成两条或以上的马尾",
+      "kw": "分叉马尾辫 / 分叉单马尾 / 开叉马尾 / 尾部分叉的马尾 / 分股马尾 / 多股马尾 / 发型"
+    },
+    {
+      "en": "topknot",
+      "zh": "发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16168,
+      "desc": "把头发在头顶束成一撮的发型",
+      "kw": "顶髻 / 丸子头 / 顶发髻 / 束顶发 / 冲天髻 / 头顶丸子 / 发型 / top knot"
+    },
+    {
+      "en": "chonmage",
+      "zh": "丁髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 340,
+      "desc": "日本传统男性剃顶留髻发型，常见于武士和相扑力士。",
+      "kw": "月代 / 丁髷 / 武士髻 / 相扑发髻 / 日本传统发髻 / 月带头 / 日本风"
+    },
+    {
+      "en": "sangtu",
+      "zh": "古代男士发髻",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chasenmage",
+      "zh": "茶筅髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 64,
+      "desc": "形似茶筅的日本传统发髻。",
+      "kw": "茶筅发髻 / 茶筅式发髻 / 茶筅发型 / 茶筅头 / 茶筅卷 / 茶筅式发型"
+    },
+    {
+      "en": "twintails",
+      "zh": "双马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1264046,
+      "desc": "头发在两侧扎成两条马尾的发型",
+      "kw": "双马尾辫 / 双马尾发型 / 两边马尾 / 双尾 / 双马尾头 / 两条马尾 / 双马尾造型 / 双马尾辫子 / twintail / twin tails / twintaiks / ツインテール"
+    },
+    {
+      "en": "uneven twintails",
+      "zh": "不对称双马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2011,
+      "desc": "双马尾一侧比另一侧长的不对称。",
+      "kw": "一长一短双马尾 / 长短不一双马尾 / 不均匀双马尾 / 一边长一边短双马尾 / 不对称双辫 / 不均匀双辫 / 一高一低双马尾 / 双马尾 / asymmetrical twintails"
+    },
+    {
+      "en": "tri tails",
+      "zh": "三马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2790,
+      "desc": "头发分成三束的发型，如双侧马尾加一束。",
+      "kw": "三束马尾 / 三股马尾 / 三马尾发型 / 三束辫 / 三束头发 / 三束发尾 / 三尾发 / 三马尾辫 / triple-tails / トリプルテール"
+    },
+    {
+      "en": "quad tails",
+      "zh": "四马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8076,
+      "desc": "头发分成四束的发型",
+      "kw": "四马尾发型 / 四束马尾 / 四股辫 / 四条马尾 / 四辫 / 四尾发型 / 发型 / 双马尾变体"
+    },
+    {
+      "en": "quin tails",
+      "zh": "五马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39
+    },
+    {
+      "en": "bow-shaped hair",
+      "zh": "蝴蝶结发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11730,
+      "desc": "头发做成蝴蝶结的形状",
+      "kw": "蝴蝶结头发 / 头发蝴蝶结 / 蝴蝶结发 / 蝴蝶结式头发 / 头发扎成蝴蝶结 / 蝴蝶结状头发 / 发型 / bow by hair / bow hair"
+    },
+    {
+      "en": "bow shimada",
+      "zh": "岛田发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "shuangyaji",
+      "zh": "双丫髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1506,
+      "desc": "中国少女梳两个发髻或发环的双丫髻",
+      "kw": "双髻 / 丫鬟髻 / 丫头髻 / 双环髻 / 发型 / 丫髻 / double yaji"
+    },
+    {
+      "en": "danyaji",
+      "zh": "单丫髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 48
+    },
+    {
+      "en": "four-leaf clover hairstyle",
+      "zh": "四叶草发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23
+    },
+    {
+      "en": "rabbit hairstyle",
+      "zh": "双螺髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "flower-shaped hair",
+      "zh": "花形发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 607,
+      "desc": "绑成花朵形状的头发",
+      "kw": "花朵头发 / 花型头发 / 头发扎成花 / 花状发型 / 花瓣发型 / 花苞发型 / 花朵发型 / 发型 / flower by hair / flower hair"
+    },
+    {
+      "en": "fukumage",
+      "zh": "翻翘刘海",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "karawamage",
+      "zh": "唐轮髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10
+    },
+    {
+      "en": "marumage",
+      "zh": "丸髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 109,
+      "desc": "日本已婚女性传统的圆形发髻。",
+      "kw": "圆形发髻 / 丸发髻 / 日式圆发髻 / 日本传统发髻 / 圆髻 / 丸型发髻 / 已婚女性发髻 / 发型"
+    },
+    {
+      "en": "mizura",
+      "zh": "角发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 386,
+      "desc": "日本古代男性发型，头两侧各挽一个发环",
+      "kw": "角髪 / 美豆良 / 日本古代双环发 / 双环髻 / 两侧发环 / 发型 / 日本风 / みずら"
+    },
+    {
+      "en": "star-shaped hair",
+      "zh": "星形发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 101,
+      "desc": "扎成或呈现星形的头发",
+      "kw": "星型头发 / 星星头发 / 星星形状头发 / 星状头发 / 星形发"
+    },
+    {
+      "en": "afro",
+      "zh": "爆炸头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4801,
+      "desc": "头发卷曲蓬松呈圆形向外伸展的发型，常因爆炸等搞笑场景出现。",
+      "kw": "爆爆头 / 非洲头 / 圆蓬头 / 阿弗罗头 / 卷毛爆炸头 / 蓬蓬头 / 圆形蓬松头 / 发型 / アフロ"
+    },
+    {
+      "en": "huge afro",
+      "zh": "巨大爆炸头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46
+    },
+    {
+      "en": "beehive hairdo",
+      "zh": "蜂窝头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 930,
+      "desc": "头发盘成锥形如蜂巢的发型",
+      "kw": "蜂窝发型 / 蜂巢头 / 锥形盘发 / 高盘发 / 蜂巢髻 / 蜂窝髻 / 发型"
+    },
+    {
+      "en": "crested hair",
+      "zh": "冠状发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60,
+      "desc": "像鸟冠羽般立起的发型",
+      "kw": "鸟冠发型 / 羽冠发型 / 鸟冠头 / 冠羽头 / 鸡冠发型"
+    },
+    {
+      "en": "liangbatou",
+      "zh": "两把头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40
+    },
+    {
+      "en": "pompadour",
+      "zh": "飞机头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6185,
+      "desc": "前额头发向上梳成高卷的发型",
+      "kw": "蓬巴杜发型 / 高卷发型 / 前发高耸发型 / 卷翘前发 / 高额头发型 / 发型 / 复古 / リーゼント / ポンパドール"
+    },
+    {
+      "en": "quiff",
+      "zh": "大背头刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 470,
+      "desc": "从额头向后上方梳起的发型",
+      "kw": "前梳发型 / 上扬刘海 / 上梳发型 / 前额上梳 / 翘刘海 / 翻翘刘海 / 额前蓬发 / 发型"
+    },
+    {
+      "en": "shouten pegasus mix mori",
+      "zh": "升天飞马MIX盛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 79,
+      "desc": "Pixiv梗，指夸张蜂巢发型的女性。",
+      "kw": "升天飞马混合盛 / 升天飞马盛 / 飞天飞马混合盛"
+    },
+    {
+      "en": "flipped hair",
+      "zh": "外翘发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43752,
+      "desc": "发尾向外卷翘的发型",
+      "kw": "外翘发尾 / 发尾外翻 / 发尾外翘 / 外卷发尾 / 外翻头发 / 发尾外卷 / 外翘头发 / 翘发 / soto-hane / 外ハネ / 外はね"
+    },
+    {
+      "en": "tri drills",
+      "zh": "三钻头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 164,
+      "desc": "三个钻头形状的发束或饰品",
+      "kw": "三钻发 / 三钻发型 / 三个钻头卷 / 三螺旋钻 / 三束钻头发 / 三重钻头 / 发型"
+    },
+    {
+      "en": "single drill",
+      "zh": "螺旋单马尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1111,
+      "desc": "单束钻头状螺旋卷发扎成的发型。",
+      "kw": "单钻头卷 / 单卷卷发 / 单螺旋马尾 / 单钻马尾 / 单束螺旋发 / 单卷马尾 / 螺旋单卷 / 单钻头卷发"
+    },
+    {
+      "en": "quad drills",
+      "zh": "四连螺旋卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 998,
+      "desc": "扎成四束的钻头卷发",
+      "kw": "四束钻头卷 / 四钻头卷发 / 四股钻头卷 / 四个钻头辫 / 四螺旋卷发 / 钻头卷发 / 发型"
+    },
+    {
+      "en": "pointy hair",
+      "zh": "尖刺发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8996,
+      "desc": "至少有两处向上突出的锥形尖角的发型",
+      "kw": "尖角发 / 锥形尖角发型 / 锥形发 / 尖顶发型 / 带尖角的发型 / 刺头 / 发型"
+    },
+    {
+      "en": "hair horns",
+      "zh": "发角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7669,
+      "desc": "扎成角状或自然翘成尖的头发",
+      "kw": "角状头发 / 头发扎成角 / 尖角发 / 头发尖角 / 发仿角 / 角状发型 / 冲天发髻 / horn-shaped hair"
+    },
+    {
+      "en": "ringlets",
+      "zh": "环状卷发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9059,
+      "desc": "卷成圆筒状的长发，区别于锥形钻头卷发",
+      "kw": "卷筒卷发 / 圆筒卷发 / 垂卷发 / 螺旋卷发 / 下垂卷发 / 筒状卷发 / 卷发 / 发型 / 卷发 / 縦ロール"
+    },
+    {
+      "en": "fluffy hair",
+      "zh": "蓬松头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6293,
+      "desc": "发量丰厚、看起来非常柔软的头发",
+      "kw": "蓬松发型 / 蓬蓬头发 / 毛茸茸头发 / 软蓬头发 / 发型 / 绒毛发"
+    },
+    {
+      "en": "kinky hair",
+      "zh": "卷曲发质",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3467,
+      "desc": "细小紧密卷曲的非洲型卷发。",
+      "kw": "非洲卷发 / 细密卷发 / 小卷发 / 卷曲发 / 羊毛卷发 / 螺旋卷发 / 鬈发 / 紧密卷曲发"
+    },
+    {
+      "en": "kishimen hair",
+      "zh": "扁平发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2045,
+      "desc": "像日本棊子面（扁宽面条）一样扁平细长的发束发型。",
+      "kw": "扁面发 / 宽扁发束 / 棊子面发型 / 扁发束 / 宽面条发 / 发型 / きしめんヘアー"
+    },
+    {
+      "en": "arched bangs",
+      "zh": "拱形刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5875,
+      "desc": "刘海中间向上弯曲呈弧形",
+      "kw": "圆弧刘海 / 弯刘海 / 弧形前发 / 拱形前发 / 圆刘海 / 发型 / 弯曲刘海"
+    },
+    {
+      "en": "asymmetrical bangs",
+      "zh": "不对称刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49350,
+      "desc": "一侧短或梳起、另一侧长的刘海，形成明显不对称。",
+      "kw": "不对称浏海 / 不对称前发 / 左右不对称刘海 / 不规则刘海 / 错落刘海 / 发型 / 偏分刘海 / asymmetric bangs"
+    },
+    {
+      "en": "bangs pinned back",
+      "zh": "刘海别起",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7993,
+      "desc": "刘海被发夹或手固定到后侧，露出额头。",
+      "kw": "刘海固定 / 刘海后梳 / 刘海掀起 / 掀起刘海 / 刘海夹到后面 / 刘海别到后面 / 刘海固定向后"
+    },
+    {
+      "en": "center-flap bangs",
+      "zh": "中分帘状刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12827,
+      "desc": "两侧分开、额中央留一撮的刘海",
+      "kw": "中央刘海 / 中间刘海片 / 中分刘海片 / 额中央刘海 / 一小撮刘海 / 中缝刘海 / 中央垂发 / 中分刘海 / centre-flap bangs"
+    },
+    {
+      "en": "crossed bangs",
+      "zh": "交叉刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 112689,
+      "desc": "额前刘海交叉叠成十字的造型",
+      "kw": "十字刘海 / 刘海交叉 / X形刘海 / 交叉浏海 / 浏海交叉 / 发帘交叉 / 刘海 / 发型"
+    },
+    {
+      "en": "wispy bangs",
+      "zh": "空气刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10597,
+      "desc": "由细碎发丝组成、间隙明显的刘海。",
+      "kw": "稀疏刘海 / 碎刘海 / 稀薄刘海 / 细丝刘海 / 发丝刘海 / 刘海 / 发型 / sparse bangs"
+    },
+    {
+      "en": "choppy bangs",
+      "zh": "碎刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10819,
+      "desc": "发尾参差、有较大缺口的不齐刘海",
+      "kw": "锯齿刘海 / 狗啃刘海 / 参差刘海 / 不齐刘海 / 碎发刘海 / 稀疏刘海 / 间隙刘海 / 刘海 / すだれ前髪 / シースルー前髪 / シースルーバング"
+    },
+    {
+      "en": "diagonal bangs",
+      "zh": "斜刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9695,
+      "desc": "一侧长一侧短、斜线下垂的刘海",
+      "kw": "斜式刘海 / 不对称刘海 / 斜线刘海 / 斜剪刘海 / 发型"
+    },
+    {
+      "en": "fanged bangs",
+      "zh": "尖角刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2542,
+      "desc": "两侧下垂呈獠牙状的刘海",
+      "kw": "犬牙刘海 / 尖牙刘海 / 獠牙刘海 / 尖刘海 / 牙状刘海 / 刘海尖尖 / 发型"
+    },
+    {
+      "en": "short bangs",
+      "zh": "短刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7845,
+      "desc": "短到露出额头和眉毛的刘海",
+      "kw": "短浏海 / 短前发 / 短额前发 / 露眉刘海 / 短前刘海 / 发型 / 眉上刘海 / 短额发"
+    },
+    {
+      "en": "long bangs",
+      "zh": "长刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49066,
+      "desc": "长度超过眼睛的刘海，可能遮住眼睛。",
+      "kw": "长浏海 / 长前发 / 长发帘 / 超长刘海 / 遮眼刘海 / 长斜刘海 / 发型 / 両目隠れ / メカクレ / 片目隠れ / 片目隠し"
+    },
+    {
+      "en": "hair over eyes",
+      "zh": "遮眼发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32573,
+      "desc": "刘海或长发完全遮住双眼",
+      "kw": "刘海遮眼 / 双眼被头发遮住 / 头发盖住眼睛 / 刘海盖眼 / 目隐 / 头发遮住眼睛 / 刘海 / hair covering eyes / 両目隠れ / メカクレ / 前髪に目が隠れてるの正義"
+    },
+    {
+      "en": "parted bangs",
+      "zh": "中分刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 321026,
+      "desc": "从中间或一侧分开的刘海。",
+      "kw": "分开的刘海 / 分刘海 / 中分 / 刘海分缝 / 分叉刘海 / 碎刘海 / 发型 / 刘海 / センター分け / 真ん中分け"
+    },
+    {
+      "en": "middle part",
+      "zh": "中分",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2064,
+      "desc": "头发从头顶正中向两侧分开的发型",
+      "kw": "中分发型 / 中分头 / 中分刘海 / 发型 / 中分发"
+    },
+    {
+      "en": "side part",
+      "zh": "偏分",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5435,
+      "desc": "头发明显偏向一侧的分线发型",
+      "kw": "侧分 / 一边倒发型 / 侧分发 / 偏分头 / 三七分 / 侧梳发型 / 侧分刘海"
+    },
+    {
+      "en": "double-parted bangs",
+      "zh": "双分刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 115588,
+      "desc": "刘海分向左右两处",
+      "kw": "双重中分刘海 / 左右分刘海 / 两侧分刘海 / 双开刘海 / 分开刘海 / 刘海 / 发型"
+    },
+    {
+      "en": "curtained hair",
+      "zh": "窗帘式刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 54443,
+      "desc": "额前向上拱起再垂落、向两侧分开的帘状刘海",
+      "kw": "帘状刘海 / 开窗刘海 / 门帘刘海 / 窗帘刘海 / 八字刘海 / 拱形刘海 / 桥状刘海 / 发型 / ribbon bangs"
+    },
+    {
+      "en": "swept bangs",
+      "zh": "侧分刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 166283,
+      "desc": "松散地梳向一侧、分界不明显的刘海",
+      "kw": "斜刘海 / 偏分刘海 / 侧梳刘海 / 侧向刘海 / 斜梳刘海 / 侧分浏海 / 发型 / 侧扫刘海"
+    },
+    {
+      "en": "single hair intake",
+      "zh": "单侧发束",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15670,
+      "desc": "仅一侧头发向内兜卷，呈内扣或发窝状。",
+      "kw": "单束发须 / 单边内卷发 / 单侧发窝 / 单侧内扣发 / 单边发卷 / 单侧鬓发内卷 / 单边头发内兜 / 单股发卷 / single hair vent"
+    },
+    {
+      "en": "sidelocks",
+      "zh": "鬓发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 967746,
+      "desc": "耳朵正前方的长缕头发",
+      "kw": "侧发 / 耳前发 / 耳侧发 / 边发 / 鬓角 / 鬓发缕 / 耳前长发 / 侧边发 / forelocks / payot / 横髪 / 边落"
+    },
+    {
+      "en": "asymmetrical sidelocks",
+      "zh": "不对称鬓发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5095,
+      "desc": "左右鬓发长度或厚薄不一致",
+      "kw": "不对称侧发 / 左右鬓发不对称 / 鬓发不对称 / 发型 / 侧发 / 不对称发"
+    },
+    {
+      "en": "drill sidelocks",
+      "zh": "螺旋鬓发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10422,
+      "desc": "呈钻头状螺旋卷的鬓发/侧发",
+      "kw": "钻头鬓发 / 螺旋侧发 / 钻头侧发 / 螺旋卷鬓发 / 钻头卷鬓发 / 弹簧鬓发 / 卷筒鬓发 / 螺旋卷侧发 / drill locks"
+    },
+    {
+      "en": "low-tied sidelocks",
+      "zh": "低扎鬓发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8154,
+      "desc": "在发中或发尾低位束起的鬓发",
+      "kw": "低束鬓发 / 低扎侧发 / 低位扎鬓发 / 低束侧发 / 低扎耳发 / 低扎鬓角 / 发型 / 鬓角 / low tied sidelocks"
+    },
+    {
+      "en": "sidelocks tied back",
+      "zh": "鬓发后扎",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1560,
+      "desc": "鬓发向后束起扎入发髻/马尾，留有弧度",
+      "kw": "鬓发向后束起 / 鬓发扎起 / 鬓发向后扎 / 侧发后束 / 鬓发束后 / 鬓发扎于脑后 / 发型 / 扎发"
+    },
+    {
+      "en": "single sidelock",
+      "zh": "单侧鬓发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19138,
+      "desc": "只在耳前留一束鬓发",
+      "kw": "单边鬓发 / 单侧发缕 / 单边发缕 / 单侧发束 / 单边发束 / 单侧鬓毛 / 单侧发丝 / 发型"
+    },
+    {
+      "en": "widow's peak",
+      "zh": "美人尖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1290,
+      "desc": "额头正中发际线呈V形下凹。",
+      "kw": "美人尖发际 / V形发际线 / 额头发尖 / 尖额发 / 富士额 / 美人颚 / 发型 / 发际线"
+    },
+    {
+      "en": "ahoge",
+      "zh": "呆毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1001956,
+      "desc": "头顶一根翘起的呆毛",
+      "kw": "阿呆毛 / 呆毛一根 / 翘毛 / 头顶呆毛 / 一根呆毛 / 呆毛发丝 / 呆毛翘起 / 发型 / アホ毛"
+    },
+    {
+      "en": "heart ahoge",
+      "zh": "爱心呆毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19277,
+      "desc": "弯成心形的呆毛，表示开心或恋爱",
+      "kw": "心型呆毛 / 心形呆毛发 / 爱心状呆毛 / 呆毛心形 / 心形翘发 / 呆毛 / 发型 / アホ毛がハート"
+    },
+    {
+      "en": "huge ahoge",
+      "zh": "巨型呆毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24310,
+      "desc": "长度或高度至少与头相当的巨大呆毛。",
+      "kw": "巨大呆毛 / 超长呆毛 / 大型呆毛 / 巨呆毛 / 夸张呆毛 / 呆毛巨大 / 超巨大呆毛 / 特别长的呆毛"
+    },
+    {
+      "en": "antenna hair",
+      "zh": "触角呆毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 132578,
+      "desc": "头顶两根以上细长翘起的头发，像触角。",
+      "kw": "触角发 / 多根呆毛 / 蟑螂呆毛 / 触角头发 / 天线呆毛 / 触角状头发 / 天线发 / antennae hair / double ahoge / 触角 / アホ毛"
+    },
+    {
+      "en": "heart antenna hair",
+      "zh": "心形呆毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 624,
+      "desc": "两根呆毛合起呈心形。",
+      "kw": "心形触角呆毛 / 爱心呆毛 / 心形天线 / 爱心天线呆毛 / 心形发丝触角 / 呆毛 / 发型"
+    },
+    {
+      "en": "comb over",
+      "zh": "遮秃偏分",
+      "rating": "g",
+      "nsfw": false,
+      "count": 200,
+      "desc": "将一侧头发梳向另一侧以遮盖秃顶的发型",
+      "kw": "遮秃发型 / 遮秃梳发 / 遮掩秃顶发型 / 梳发遮秃 / 支援中央发型 / 秃顶遮掩发型 / 偏分发型 / 发型 / 遮秃"
+    },
+    {
+      "en": "hair pulled back",
+      "zh": "后梳发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11938,
+      "desc": "头发向后梳紧露出额头，常扎成马尾或发髻。",
+      "kw": "头发往后扎 / 后梳发 / 头发后拨 / 头发向后梳 / 束后发 / 梳向脑后的头发 / 发型"
+    },
+    {
+      "en": "hair slicked back",
+      "zh": "大背头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23820,
+      "desc": "用发油等向后固定的发型。",
+      "kw": "背头 / 油头 / 后梳发 / 梳背头 / 向后梳的头发 / 全部后梳 / 油光大背头 / 西装头 / slicked back hair / オールバック"
+    },
+    {
+      "en": "parted hair",
+      "zh": "头发分缝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12004,
+      "desc": "头发有明显分缝、向两侧梳理的发型，不一定是中分。",
+      "kw": "分缝发 / 头发中分 / 头发偏分 / 分线发型 / 分界发型 / 偏分头发 / 发型 / center part / 分开的头发"
+    },
+    {
+      "en": "mohawk",
+      "zh": "莫西干头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5988,
+      "desc": "两侧剃光、中间留长条并常竖起的发型",
+      "kw": "莫霍克 / 莫西干发型 / 莫霍克头 / 鸡冠头 / 鸡冠发型 / 莫希干头 / 莫希干发型 / mohican (hairstyle) / モヒカン"
+    },
+    {
+      "en": "oseledets",
+      "zh": "哥萨克发辫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24
+    },
+    {
+      "en": "lone nape hair",
+      "zh": "颈后碎发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2821,
+      "desc": "后颈处翘出的几缕碎发。",
+      "kw": "颈后翘发 / 后颈翘发 / 颈部碎发 / 后颈呆毛 / 颈后发丝 / 发型 / 碎发"
+    },
+    {
+      "en": "luo ji (hairstyle)",
+      "zh": "罗辑（发型）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15
+    },
+    {
+      "en": "double luo ji",
+      "zh": "双罗辑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62,
+      "desc": "左右各梳一个螺髻的发型。",
+      "kw": "双螺髻头 / 双螺发型 / 螺髻双丸子 / 双海螺髻"
+    },
+    {
+      "en": "double luo ji corners toward head",
+      "zh": "双螺髻尖角朝内",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24
+    },
+    {
+      "en": "yuanbao ji (hairstyle)",
+      "zh": "元宝髻",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "coin bangs",
+      "zh": "铜钱头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24
+    },
+    {
+      "en": "alternate hairstyle",
+      "zh": "非常态发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 148795,
+      "desc": "角色换成平时没有的发型，非官方设定。",
+      "kw": "改变发型 / 发型变化 / 替换发型 / 不同发型 / 非官方发型 / 新发型 / 发型改变 / alternative hairstyle / alternate hair style / alternative hair style / 髪型チェンジ"
+    },
+    {
+      "en": "hair half undone",
+      "zh": "半解开发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 493,
+      "desc": "双马尾或双辫只有一侧解开",
+      "kw": "单侧散发 / 半散发 / 单边散发 / 半解辫 / 只解开一侧辫子 / 一侧散发 / 半解开的发型 / 发型 / hair half down"
+    },
+    {
+      "en": "hair up",
+      "zh": "扎发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16835,
+      "desc": "角色把平时放下的头发盘起、扎起的发型。",
+      "kw": "盘发 / 挽头发 / 盘头 / 束发 / 头发盘起 / 扎头发 / 头发扎起"
+    },
+    {
+      "en": "sidecut",
+      "zh": "侧削发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3166,
+      "desc": "一侧剃短、另一侧保留长发的发型",
+      "kw": "单侧剃发 / 一边剃光 / 侧边铲青 / 发型 / 偏分剃发 / side cut"
+    },
+    {
+      "en": "blunt ends",
+      "zh": "齐发尾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55051,
+      "desc": "发梢剪成一条直线的发型。",
+      "kw": "一刀切发尾 / 平发梢 / 直线发尾 / 齐平发梢 / 平剪发尾 / 直发尾 / 发型"
+    },
+    {
+      "en": "bound hair",
+      "zh": "束发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120,
+      "desc": "头发被绳子等物束缚住",
+      "kw": "被绑头发 / 捆绑头发 / 绑住头发 / 头发被缚"
+    },
+    {
+      "en": "burnt hair",
+      "zh": "烧焦的头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 91,
+      "desc": "被烧焦或燎焦的头发。",
+      "kw": "烤焦的头发 / 烧糊的头发 / 烧过的头发 / 燎焦的头发 / 头发烧焦"
+    },
+    {
+      "en": "hair hanging down",
+      "zh": "垂发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 452,
+      "desc": "受重力自然垂下的头发",
+      "kw": "头发垂落 / 长发垂下 / 头发自然下垂 / 发丝垂落 / 头发姿势 / 自然垂落 / 重力发"
+    },
+    {
+      "en": "loose hair strand",
+      "zh": "散乱发丝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11076,
+      "desc": "从发型中散落出来的一缕发丝",
+      "kw": "散落的发丝 / 凌乱发丝 / 碎发 / 散发 / 不听话的发丝 / 掉落的发丝 / 发丝 / 发型"
+    },
+    {
+      "en": "naturally detached hair",
+      "zh": "浮空发束",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1685,
+      "desc": "设计上与头部脱离、悬浮在空中的头发。",
+      "kw": "浮游发 / 悬浮发 / 脱离式头发 / 浮空头发 / 飞散头发 / 飘浮头发 / 浮游头发 / 自然脱离头发 / detached floating hair / detached hair"
+    },
+    {
+      "en": "hair weapon",
+      "zh": "发丝武器",
+      "rating": "g",
+      "nsfw": false,
+      "count": 173,
+      "desc": "头发化作或连接武器形态",
+      "kw": "头发做的武器 / 秀发武器 / 头发化武器 / 头发变武器 / 发武器 / 武器 / 奇幻"
+    },
+    {
+      "en": "cloud hair",
+      "zh": "云状发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 344,
+      "desc": "像云一样蓬松或由云构成的头发",
+      "kw": "云朵头发 / 云发 / 云彩发 / 云絮头发 / 云朵发型 / 云彩发型 / 发型"
+    },
+    {
+      "en": "crystal hair",
+      "zh": "水晶质感发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2234,
+      "desc": "水晶般晶莹或有结晶质感的头发",
+      "kw": "水晶状头发 / 水晶发 / 结晶头发 / 水晶质感头发 / 水晶头发丝 / 水晶发丝 / 幻想发型 / 水晶"
+    },
+    {
+      "en": "energy hair",
+      "zh": "能量发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 82,
+      "desc": "由闪电或火等能量构成的头发",
+      "kw": "能量发丝 / 元素头发 / 元素能量发 / 能量构成头发 / 能量状头发 / 元素发丝 / 火焰或闪电头发"
+    },
+    {
+      "en": "feather hair",
+      "zh": "羽毛发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8381,
+      "desc": "头上长出羽毛的头发，常见于鸟系角色",
+      "kw": "头部羽毛 / 羽毛头 / 羽发 / 羽毛发饰 / 发饰 / 羽毛 / 装饰 / head feathers"
+    },
+    {
+      "en": "fiery hair",
+      "zh": "火焰发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4722,
+      "desc": "由火焰构成或看似燃烧的头发",
+      "kw": "火焰头发 / 燃烧的头发 / 火发 / 烈焰头发 / 发型效果 / fire hair / flaming hair"
+    },
+    {
+      "en": "food-themed hair",
+      "zh": "食物主题发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 470,
+      "desc": "头发由食物构成",
+      "kw": "食物构成的头发 / 食品头发 / 食物发型 / 用食物做的头发 / 创意发型"
+    },
+    {
+      "en": "glowing hair",
+      "zh": "发光头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2478,
+      "desc": "头发自行发光，可照亮面部或环境",
+      "kw": "发光发丝 / 自发光头发 / 头发发光 / 亮发 / 发光毛发 / 发光效果 / 魔法"
+    },
+    {
+      "en": "intestine hair",
+      "zh": "肠发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45
+    },
+    {
+      "en": "liquid hair",
+      "zh": "液体状头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2424,
+      "desc": "头发由液体构成，如水或饮料等。",
+      "kw": "液体头发 / 水质头发 / 液体发 / 水头发 / 水流头发 / 液态发丝 / 液体秀发 / water hair"
+    },
+    {
+      "en": "mechanical hair",
+      "zh": "机械头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 716,
+      "desc": "由金属等非有机结构构成、形状像头发的头发。",
+      "kw": "机械发 / 机械式头发 / 金属头发 / 机械结构头发 / 非有机头发 / 科幻 / 机械"
+    },
+    {
+      "en": "plant hair",
+      "zh": "植物发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1293,
+      "desc": "由植物（通常为叶片）构成的头发。",
+      "kw": "叶子头发 / 叶片头发 / 花草头发 / 藤蔓头发 / 植物元素 / 奇幻 / leaf hair"
+    },
+    {
+      "en": "prehensile hair",
+      "zh": "可动发丝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3348,
+      "desc": "可凭意念活动、抓握的头发，常如手或触手",
+      "kw": "自由操控头发 / 意念控发 / 触手头发 / 自主头发 / 可动头发 / 活发 / 有意识的头发 / 能动的头发"
+    },
+    {
+      "en": "helicopter hair",
+      "zh": "直升机发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 106,
+      "desc": "头发像直升机旋翼一样转动的搞笑场景",
+      "kw": "直升机呆毛 / 旋翼头发 / 转动的呆毛 / 螺旋桨头发 / 直升机式头发 / 头发 / 科技"
+    },
+    {
+      "en": "living hair",
+      "zh": "活体头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 769,
+      "desc": "像有生命般自行活动的头发",
+      "kw": "活化头发 / 有生命的头发 / 自主运动的头发 / 蛇发 / 活发 / 奇幻 / 头发"
+    },
+    {
+      "en": "snake hair",
+      "zh": "蛇发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2789,
+      "desc": "由蛇构成或形似蛇的头发。",
+      "kw": "蛇头发 / 蛇形发 / 美杜莎发 / 群蛇发 / 蛇之发 / 神话元素 / 怪物女孩 / medusa / gorgon"
+    },
+    {
+      "en": "ribbon hair",
+      "zh": "丝带发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "由缎带构成的头发",
+      "kw": "丝带头发 / 发带头发 / 缎带发型 / 缎带发 / 发饰"
+    },
+    {
+      "en": "slime hair",
+      "zh": "史莱姆发质",
+      "rating": "g",
+      "nsfw": false,
+      "count": 427,
+      "desc": "身体是人类但头发由黏液构成",
+      "kw": "黏液头发 / 史莱姆发型 / 粘液发 / 液体头发 / 史莱姆状头发 / 史莱姆 / 发型"
+    },
+    {
+      "en": "starry hair",
+      "zh": "星空发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1738,
+      "desc": "头发中带有星星图案",
+      "kw": "星星头发 / 星屑头发 / 带星星的头发 / 星光发 / 星空色发 / 头发 / 幻想"
+    },
+    {
+      "en": "expressive hair",
+      "zh": "表情发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3256,
+      "desc": "头发随情绪变化，如兴奋时飘动或沮丧时垂下",
+      "kw": "富有表现力的头发 / 表情头发 / 会动的头发 / 情绪表达头发 / 头发表达情绪 / 情感化头发 / 头发反应情绪 / 头发情绪化"
+    },
+    {
+      "en": "hair around arms",
+      "zh": "胳膊发丝",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hair around ear",
+      "zh": "挂耳发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 555,
+      "desc": "绕在耳边或从耳后穿出的头发",
+      "kw": "绕耳发 / 耳边头发 / 耳旁头发 / 耳际发丝 / 头发绕耳 / 耳周发丝 / 耳旁发型"
+    },
+    {
+      "en": "hair around horn",
+      "zh": "绕角发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 158,
+      "desc": "环绕在角周围的头发",
+      "kw": "头发绕角 / 绕角发丝 / 缠角头发 / 头发缠角 / 绕角的头发 / 发型 / 角周围发 / 幻想角"
+    },
+    {
+      "en": "hair on horn",
+      "zh": "发丝缠角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3776,
+      "desc": "头发搭在角或鹿角上",
+      "kw": "角上头发 / 头发搭角 / 头发挂角 / 发丝搭角 / 覆角发型 / 角部头发"
+    },
+    {
+      "en": "hair around neck",
+      "zh": "颈部发丝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36
+    },
+    {
+      "en": "hair around own leg",
+      "zh": "腿部发丝",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "convenient hair",
+      "zh": "头发遮羞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 12305,
+      "desc": "长发恰好遮住乳头或下体，避免裸露。",
+      "kw": "遮点发 / 遮羞发 / 头发遮点 / 长发遮点 / 便利的头发 / 遮挡性头发 / 头发 / 遮挡 / hair censor"
+    },
+    {
+      "en": "hair over breasts",
+      "zh": "发遮胸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 11621,
+      "desc": "女角色头发披垂在胸部上，可起遮挡作用",
+      "kw": "头发披胸 / 头发盖胸 / 头发遮住胸部 / 头发搭在胸上 / 长发遮胸 / 头发垂在胸前 / 头发挡胸 / hair on breasts / 髪ブラ"
+    },
+    {
+      "en": "hair over one breast",
+      "zh": "头发遮单乳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1042,
+      "desc": "女性头发只披在一侧胸部上，可能起遮挡作用",
+      "kw": "头发遮住一侧胸部 / 一侧胸口有头发 / 头发搭单胸 / 头发只覆在一侧乳房上 / 头发垂在一侧胸前 / 头发垂在一侧乳房上 / 发型 / 遮乳"
+    },
+    {
+      "en": "hair over crotch",
+      "zh": "发丝遮挡裆部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 301,
+      "desc": "头发垂落遮挡裆部，可能起到遮挡作用。",
+      "kw": "头发垂在裆部 / 头发遮阴 / 发丝挡裆 / 长发遮私处 / 头发盖住下体 / 头发覆盖裆部 / 发掩私处 / 头发遮住胯部"
+    },
+    {
+      "en": "hair scarf",
+      "zh": "发丝围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 326,
+      "desc": "把头发当成围巾绕在颈肩",
+      "kw": "头发当围巾 / 头发缠绕颈部 / 头发裹颈 / 发圈围巾 / 发巾 / 头饰 / 配饰"
+    },
+    {
+      "en": "severed hair",
+      "zh": "断发（分离）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1140,
+      "desc": "与头部脱离、作为物件存在的头发",
+      "kw": "剪断的头发 / 掉落的头发 / 散落的发丝 / 断掉的头发 / 割下的头发 / 头发"
+    },
+    {
+      "en": "hair blown by wind",
+      "zh": "风吹发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hair blown by fan",
+      "zh": "头发被风扇吹起",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lipstick mark on hair",
+      "zh": "头发上的唇印",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hair rings",
+      "zh": "环形发髻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 72552,
+      "desc": "把头发盘成环状的发型，如中国飞仙髻。",
+      "kw": "发环 / 环状发型 / 环髻 / 飞仙髻 / 双环髻 / 鬟 / 头发圈环 / hair loops / hair loop / hair ring / 稚児髷"
+    },
+    {
+      "en": "braided hair rings",
+      "zh": "编发圆环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16455,
+      "desc": "编成环状的辫子造型",
+      "kw": "辫子环 / 编发环 / 环状辫子 / 辫子圈 / 圆环编发 / 甜甜圈辫子 / 环形辫 / 编发发环 / looped braids / ポンデリングヘア"
+    },
+    {
+      "en": "single hair ring",
+      "zh": "单发环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7620,
+      "desc": "头发上只戴一个发环",
+      "kw": "单只发环 / 一个发环 / 单圈发环 / 单个发圈 / 发环 / 发饰 / 配饰"
+    },
+    {
+      "en": "tri hair rings",
+      "zh": "三环发型",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "alternate hair length",
+      "zh": "异长发型",
+      "rating": "g",
+      "count": 8764,
+      "desc": "角色的头发长度与官方设定不同",
+      "kw": "不同的头发长度 / 不对称发型 / 发型"
+    },
+    {
+      "en": "alternate hair length (longer)",
+      "zh": "头发长度变化（更长）",
+      "rating": "g",
+      "count": 19675,
+      "desc": "头发被画得比平时更长",
+      "kw": "头发变长 / 长发版本 / 头发加长 / 头发更长 / 长度变化为长发 / 长发化 / 头发延长 / 长发变体"
+    },
+    {
+      "en": "alternate hair length (shorter)",
+      "zh": "头发长度变化（更短）",
+      "rating": "g",
+      "count": 14585,
+      "desc": "头发被画得比平时更短",
+      "kw": "头发变短 / 短发版本 / 头发剪短 / 缩短头发 / 发长改变(短) / 不同发长(短) / 短发化 / 头发短化"
+    },
+    {
+      "en": "animal with hair",
+      "zh": "有人类发型的动物",
+      "rating": "g",
+      "count": 1664,
+      "desc": "长着人类发型的动物",
+      "kw": "长着人类发型的动物 / 人发动物 / 动物人发 / 动物带人发 / 有发型的动物 / 拟人发型 / 动物发型 / 毛发造型"
+    },
+    {
+      "en": "blunt sidelocks",
+      "zh": "齐切鬓发",
+      "rating": "g",
+      "count": 3245,
+      "desc": "发梢平齐的鬓发，非姬发式的一部分。",
+      "kw": "齐平鬓发 / 齐边鬓发 / 齐切侧发 / 平切鬓发 / 直切鬓发 / 平鬓发 / 齐切鬓角 / 发型"
+    },
+    {
+      "en": "borrowed hairstyle",
+      "zh": "借用发型",
+      "rating": "g",
+      "count": 913,
+      "desc": "角色梳着其他角色的发型。",
+      "kw": "他人发型 / 换发型 / 模仿发型 / 角色发型互换 / 用了别人的发型 / 借用角色发型 / 发型 / 同人"
+    },
+    {
+      "en": "braided sidelock",
+      "zh": "编发鬓角",
+      "rating": "g",
+      "count": 3072,
+      "desc": "头部两侧的单股编发，位于耳朵前方。",
+      "kw": "编发侧发 / 发型 / 辫子"
+    },
+    {
+      "en": "braided sidelocks",
+      "zh": "编发鬓发",
+      "rating": "g",
+      "count": 4796,
+      "desc": "两侧垂下的鬓发编成辫子。",
+      "kw": "鬓发辫 / 侧发辫 / 辫子鬓发 / 编辫鬓发 / 侧编发 / 鬓辫 / 发辫鬓发 / 编发侧鬓"
+    },
+    {
+      "en": "braided twintails",
+      "zh": "编发双马尾",
+      "rating": "g",
+      "count": 5680,
+      "desc": "编成辫子的双马尾",
+      "kw": "辫子双马尾 / 麻花辫双马尾 / 编辫双马尾 / 双马尾辫 / 双麻花辫 / 发型 / 双马尾"
+    },
+    {
+      "en": "cowlick",
+      "zh": "翘起的头发",
+      "rating": "g",
+      "count": 11027,
+      "desc": "头顶翘起、不服帖的一撮头发",
+      "kw": "翘发 / 呆毛 / 头顶翘发 / 不伏贴的头发 / 翘起来的头发 / 乱翘发 / 发型"
+    },
+    {
+      "en": "curly sidelocks",
+      "zh": "卷曲鬓发",
+      "rating": "g",
+      "count": 1189,
+      "desc": "带明显卷度但不及钻头卷的鬓发",
+      "kw": "卷鬓发 / 卷曲侧发 / 卷侧发 / 螺旋鬓发 / 卷鬓角 / 卷曲鬓角 / 波浪鬓发 / 卷垂鬓发"
+    },
+    {
+      "en": "cut bangs",
+      "zh": "参差刘海",
+      "rating": "g",
+      "count": 2295,
+      "desc": "发尾长短不齐的参差刘海",
+      "kw": "不齐刘海 / 碎刘海 / 参差不齐刘海 / 修剪不齐刘海 / 层次刘海 / 剪刘海 / 刘海 / 发型"
+    },
+    {
+      "en": "detached ahoge",
+      "zh": "分离呆毛",
+      "rating": "g",
+      "count": 2255,
+      "desc": "呆毛与头部断开、悬浮的形态",
+      "kw": "独立呆毛 / 悬浮呆毛 / 不连接呆毛 / 呆毛分离 / 脱离呆毛 / 飘浮呆毛 / 断开的呆毛 / 呆毛"
+    },
+    {
+      "en": "detached hair",
+      "zh": "断发",
+      "rating": "g",
+      "count": 1541,
+      "desc": "头发未附着在头部，完全或部分分离，常见于喜剧场景。",
+      "kw": "发型 / 头发"
+    },
+    {
+      "en": "drill ponytail",
+      "zh": "螺旋卷马尾",
+      "rating": "g",
+      "count": 3398,
+      "desc": "卷成钻头状的马尾。",
+      "kw": "钻头马尾 / 螺旋马尾 / 弹簧马尾 / 钻头卷马尾 / 卷卷马尾 / 螺旋状马尾 / 发型 / 马尾"
+    },
+    {
+      "en": "enpera",
+      "zh": "乌贼鳍发型",
+      "rating": "g",
+      "count": 4543,
+      "desc": "围巾上方头发蓬起、形似乌贼鳍的发型。",
+      "kw": "乌贼鳍 / 围巾发蓬 / 围巾鼓包 / 围巾发型 / 围巾鳍 / 围巾蓬发 / 围巾翘发 / 缘切 / hair in scarf / えんぺら / マフモコ"
+    },
+    {
+      "en": "flipped bangs",
+      "zh": "翻翘刘海",
+      "rating": "g",
+      "count": 1300,
+      "desc": "刘海向上或向外翻翘的发型。",
+      "kw": "上翻刘海 / 向外翻刘海 / 翻转刘海 / 翘刘海 / 反翘刘海 / 翻卷刘海 / 上翘刘海 / 上扬刘海"
+    },
+    {
+      "en": "folded hair",
+      "zh": "折叠发",
+      "rating": "g",
+      "count": 1541,
+      "desc": "头发折叠固定的发型",
+      "kw": "头发折叠 / 折叠发型 / 对折发 / 盘折发 / 折发 / 头发对折 / 折叠式发型 / 对折发型"
+    },
+    {
+      "en": "folded twintails",
+      "zh": "折叠双马尾",
+      "rating": "g",
+      "count": 777,
+      "desc": "双马尾在头顶对折成环状的发型",
+      "kw": "对折双马尾 / 环状双马尾 / 双马尾折环 / 圈圈双马尾 / 折叠双马尾辫 / 双马尾 / 发型 / 环状马尾"
+    },
+    {
+      "en": "hair behind ear",
+      "zh": "头发别耳后",
+      "rating": "g",
+      "count": 52888,
+      "desc": "把头发别到耳朵后面。",
+      "kw": "头发别到耳后 / 头发夹耳后 / 发丝勾在耳后 / 鬓发别耳后 / 头发勾到耳后 / 头发挂在耳后 / 头发别在耳后 / 发型"
+    },
+    {
+      "en": "hair between breasts",
+      "zh": "垂落在双乳之间的头发",
+      "rating": "s",
+      "count": 1085,
+      "desc": "一缕头发垂落或夹在双乳之间。",
+      "kw": "乳间发 / 双乳间头发 / 乳房间头发 / 胸间头发 / 垂胸发 / 乳沟发 / 夹在双乳间的头发 / 夹在乳间的头发"
+    },
+    {
+      "en": "hair between horns",
+      "zh": "角间头发",
+      "rating": "g",
+      "count": 1528,
+      "desc": "从面前两角之间穿过的刘海",
+      "kw": "双角之间头发 / 角之间刘海 / 从角间穿过头发 / 角中发 / 角间的头发 / 发型 / 角"
+    },
+    {
+      "en": "hair floating upwards",
+      "zh": "头发向上飘起",
+      "rating": "g",
+      "count": 1673,
+      "desc": "头发向上飘起的状态",
+      "kw": "头发上飘 / 发丝向上飘 / 头发向上漂浮 / 头发上扬 / 发丝上浮 / 飘浮头发 / 动态"
+    },
+    {
+      "en": "hair flowing over",
+      "zh": "头发垂覆",
+      "rating": "g",
+      "count": 7706,
+      "desc": "长发披覆在物体表面的样子。",
+      "kw": "头发流过来 / 头发铺展 / 头发散落在上 / 长发披覆 / 头发覆盖 / 发丝垂落 / 头发垂在物体上 / 头发垂落"
+    },
+    {
+      "en": "hair over face",
+      "zh": "头发遮脸",
+      "rating": "g",
+      "count": 1091,
+      "desc": "头发垂下遮住大部分脸部。",
+      "kw": "头发盖脸 / 头发覆面 / 头发挡住脸 / 发丝遮面 / 头发披面 / 脸上有头发 / 头发垂面 / 发型遮挡"
+    },
+    {
+      "en": "hair over mouth",
+      "zh": "头发遮嘴",
+      "rating": "g",
+      "count": 571,
+      "desc": "只遮住嘴部的头发",
+      "kw": "发丝遮嘴 / 头发挡住嘴 / 遮嘴的头发 / 嘴前发丝 / 表情"
+    },
+    {
+      "en": "hair strand",
+      "zh": "发丝",
+      "rating": "g",
+      "count": 2036,
+      "desc": "指头发的一缕或松散的发丝。",
+      "kw": "头发"
+    },
+    {
+      "en": "hair tattoo",
+      "zh": "头发纹身",
+      "rating": "g",
+      "count": 524,
+      "desc": "印在头发上的纹身",
+      "kw": "发纹身 / 发丝纹身 / 头发上的纹身 / 毛发纹身 / 发上纹身 / 纹身 / 发饰"
+    },
+    {
+      "en": "hair through headwear",
+      "zh": "头发从头饰穿出",
+      "rating": "g",
+      "count": 3599,
+      "desc": "头发从帽子等头饰中穿出",
+      "kw": "头发穿过帽子 / 头发从头饰露出 / 穿帽发 / 头发从头饰中穿出 / 头发穿过帽子露出 / 头发穿过头饰 / 头饰细节 / 发型"
+    },
+    {
+      "en": "hair through hood",
+      "zh": "头发穿过兜帽",
+      "rating": "g",
+      "count": 963,
+      "desc": "头发从兜帽布料中穿出",
+      "kw": "头发从头套穿出 / 头发从帽子穿出 / 兜帽穿发 / 帽子穿发 / 发型 / 兜帽"
+    },
+    {
+      "en": "hair undone",
+      "zh": "刚解开的头发",
+      "rating": "g",
+      "count": 531,
+      "desc": "原本扎起的头发刚被解开、散开的状态",
+      "kw": "头发刚散开 / 散发 / 披散头发 / 刚松开头发 / 刚解开发型 / 刚解开发辫 / 刚解开马尾 / 头发散落"
+    },
+    {
+      "en": "impossible hair",
+      "zh": "反重力头发",
+      "rating": "g",
+      "count": 907,
+      "desc": "违反重力、本应垂下却竖起的头发。",
+      "kw": "不可能发型 / 反重力发型 / 违背物理的头发 / 不科学的头发 / 悬浮头发 / 违背物理学的头发 / 奇幻"
+    },
+    {
+      "en": "lightning ahoge",
+      "zh": "闪电呆毛",
+      "rating": "g",
+      "count": 1072,
+      "desc": "形状像闪电的呆毛",
+      "kw": "雷电呆毛 / 闪电形呆毛 / 闪电状呆毛 / 闪电形状呆毛 / 闪电天线 / 发型 / 呆毛"
+    },
+    {
+      "en": "lion mane",
+      "zh": "狮鬃",
+      "rating": "g",
+      "count": 1583,
+      "desc": "雄狮颈部的鬃毛",
+      "kw": "狮子鬃毛 / 雄狮鬃毛 / 狮鬃毛 / 狮子的鬃毛 / 鬃毛 / 动物特征"
+    },
+    {
+      "en": "long braid",
+      "zh": "长麻花辫",
+      "rating": "g",
+      "count": 4201,
+      "desc": "比正常更长的辫子，通常从头部延伸到臀部或更远",
+      "kw": "长辫子 / 发型 / 长发"
+    },
+    {
+      "en": "long hair between eyes",
+      "zh": "眼间长刘海",
+      "rating": "g",
+      "count": 26101,
+      "desc": "垂在两眼之间、长过眼睛的头发。",
+      "kw": "两眼间长发 / 垂于眼间的头发 / 中缝长发 / 眼间发丝 / 遮眼长发 / 遮眼发 / 刘海 / 发型"
+    },
+    {
+      "en": "long sideburns",
+      "zh": "长鬓角",
+      "rating": "g",
+      "count": 12990,
+      "desc": "长过耳朵垂到下颌的鬓角。",
+      "kw": "长鬓发 / 长发鬓 / 长鬓 / 鬓角长发 / 长脸侧发 / 鬓发及颌 / 鬓发留长 / 鬓角"
+    },
+    {
+      "en": "long single sidelock",
+      "zh": "单侧长鬓发",
+      "rating": "g",
+      "count": 1162,
+      "desc": "一侧长及肩部以上的单条鬓发。",
+      "kw": "单边长发鬓 / 长鬓角 / 单股长鬓发 / 长侧发 / 单侧长刘海 / 单侧长鬓角 / 长发侧鬓 / 单侧鬓发"
+    },
+    {
+      "en": "loosely tucked bangs",
+      "zh": "松散掖起的刘海",
+      "rating": "g",
+      "count": 2264,
+      "desc": "刘海掖到一侧仍松散垂落",
+      "kw": "刘海松散掖起 / 刘海别在耳后 / 刘海掖到一侧 / 松散刘海 / 垂落刘海 / 掖起的刘海 / 塞在耳后的刘海 / 发型"
+    },
+    {
+      "en": "matching hairstyle",
+      "zh": "同款发型",
+      "rating": "g",
+      "count": 507,
+      "desc": "两个或多个角色发型相同或很相似",
+      "kw": "发型配对 / 相同发型 / 一致发型 / 同发型 / 情侣发型 / 配对发型 / 同款发式 / 相同发式"
+    },
+    {
+      "en": "medium sideburns",
+      "zh": "中长鬓角",
+      "rating": "g",
+      "count": 1428,
+      "desc": "鬓角长度中等，未及下颌。",
+      "kw": "中等鬓角 / 中等长度鬓角 / 中鬓角 / 及耳鬓角 / 半长鬓角 / 鬓角 / 发型"
+    },
+    {
+      "en": "nape braid",
+      "zh": "后颈辫",
+      "rating": "g",
+      "count": 4144,
+      "desc": "绕过后颈区域的编发",
+      "kw": "颈后辫 / 后颈发辫 / 颈背辫 / 后颈编发 / 后颈侧辫 / 发型 / 辫子"
+    },
+    {
+      "en": "ribbon braid",
+      "zh": "缎带编发",
+      "rating": "g",
+      "count": 3102,
+      "desc": "发带编织进辫子中，而非仅用于系住发尾",
+      "kw": "发型 / 发饰"
+    },
+    {
+      "en": "ring hair extensions",
+      "zh": "环状接发",
+      "rating": "g",
+      "count": 3523,
+      "desc": "用环状发饰固定在头发上的接发",
+      "kw": "环式接发 / 环扣接发 / 圈状接发 / 环形接发 / 发环接发 / 环发饰接发 / 接发 / 发型"
+    },
+    {
+      "en": "shaved head",
+      "zh": "剃光头",
+      "rating": "g",
+      "count": 846,
+      "desc": "比极短发更短、近乎光头的发型",
+      "kw": "光头 / 光头造型 / 剃光头发 / 剃头 / 发型"
+    },
+    {
+      "en": "short braid",
+      "zh": "短辫子",
+      "rating": "g",
+      "count": 1151,
+      "desc": "长度较短的辫子，多为麻花辫",
+      "kw": "短辫 / 短麻花辫 / 短编发 / 短三股辫 / 短发辫 / 发型 / 辫子"
+    },
+    {
+      "en": "short sideburns",
+      "zh": "短鬓角",
+      "rating": "g",
+      "count": 1357,
+      "desc": "不到耳朵中点的短鬓角",
+      "kw": "短鬓 / 短鬓毛 / 发型 / 鬓角"
+    },
+    {
+      "en": "side ahoge",
+      "zh": "侧呆毛",
+      "rating": "g",
+      "count": 4399,
+      "desc": "从头部一侧翘出的呆毛",
+      "kw": "侧面呆毛 / 侧边呆毛 / 单侧呆毛 / 旁侧呆毛 / 一侧呆毛 / 发型 / 动漫风格 / 呆毛"
+    },
+    {
+      "en": "side braids",
+      "zh": "侧辫",
+      "rating": "g",
+      "count": 18349,
+      "desc": "垂在脸侧、耳前的多条辫子",
+      "kw": "双侧辫 / 双侧麻花辫 / 侧麻花辫 / 耳边辫 / 脸侧辫 / 垂脸辫 / 侧编辫 / 双辫子"
+    },
+    {
+      "en": "side up bun",
+      "zh": "侧丸子头",
+      "rating": "g",
+      "count": 5179,
+      "desc": "头侧扎丸子头，其余头发垂下",
+      "kw": "侧边丸子头 / 侧丸子 / 侧发包 / 侧边发髻 / 侧团子头 / 偏丸子头 / 单侧丸子头 / 侧发髻"
+    },
+    {
+      "en": "side up ring",
+      "zh": "侧发环",
+      "rating": "g",
+      "count": 1337,
+      "desc": "头侧至少有一个发环、其余头发自然垂下",
+      "kw": "侧发圈 / 侧边发环 / 发饰 / 配饰 / 发型"
+    },
+    {
+      "en": "sideburns",
+      "zh": "鬓角",
+      "rating": "g",
+      "count": 39403,
+      "desc": "从发际线沿脸颊长到耳下的鬓发。",
+      "kw": "鬓发 / 鬓脚 / 鬓毛 / 腮鬓 / 侧鬓 / 耳前发 / 发型 / もみあげ"
+    },
+    {
+      "en": "single bang",
+      "zh": "单束刘海",
+      "rating": "g",
+      "count": 843,
+      "desc": "额头前只垂下一束刘海。",
+      "kw": "单刘海 / 一缕刘海 / 一束刘海 / 单条刘海 / 一撮刘海 / 单根刘海 / 额头单束刘海 / 单股刘海"
+    },
+    {
+      "en": "single braided sidelock",
+      "zh": "单侧编辫鬓发",
+      "rating": "g",
+      "count": 3578,
+      "desc": "仅在耳前一侧的鬓发编成一条辫子。",
+      "kw": "单侧辫子鬓发 / 单侧编辫 / 单边编辫侧发 / 单侧麻花辫鬓发 / 侧发编辫 / 单侧鬓辫 / 单侧编织式鬓发 / 单侧辫子"
+    },
+    {
+      "en": "single side bun",
+      "zh": "单侧丸子头",
+      "rating": "g",
+      "count": 40253,
+      "desc": "只在头部侧面扎一个丸子头。",
+      "kw": "单侧发包 / 侧丸子头 / 单边丸子头 / 侧面丸子头 / 单侧团子头 / 单侧发髻 / 发型 / 发髻 / side bun"
+    },
+    {
+      "en": "tall hair",
+      "zh": "高耸发型",
+      "rating": "g",
+      "count": 991,
+      "desc": "向上延伸出很高空间的发型",
+      "kw": "高发 / 竖高发型 / 冲天发 / 高耸头发 / 高髻发型 / 膨胀发型 / 发型"
+    },
+    {
+      "en": "translucent hair",
+      "zh": "半透明头发",
+      "rating": "g",
+      "count": 621,
+      "desc": "能让光线穿透原本固态区域的头发",
+      "kw": "头发 / 特效"
+    },
+    {
+      "en": "twintails with braided base",
+      "zh": "编发底双马尾",
+      "rating": "g",
+      "count": 1090,
+      "desc": "发根用编发缠绕固定的双马尾。",
+      "kw": "编发缠绕双马尾 / 辫子底双马尾 / 编发基底双马尾 / 麻花辫根双马尾 / 辫子缠双马尾 / 发辫基底双马尾 / 双马尾 / 编发"
+    },
+    {
+      "en": "twintails with hair base",
+      "zh": "发根缠绕双马尾",
+      "rating": "g",
+      "count": 1666,
+      "desc": "双马尾发根处用自身头发缠绕固定。",
+      "kw": "发束缠绕双马尾 / 发根绑发双马尾 / 缠绕式双马尾 / 发圈式双马尾 / 发根用头发缠绕的双马尾 / 自绕基部双马尾 / 发束 / 缠绕双马尾"
+    },
+    {
+      "en": "uneven bangs",
+      "zh": "不齐刘海",
+      "rating": "g",
+      "count": 642,
+      "desc": "长度参差、剪得不齐的刘海",
+      "kw": "参差刘海 / 凌乱刘海 / 不齐平刘海 / 剪坏的刘海 / 犬牙刘海 / 不整齐的刘海 / 刘海 / 发型"
+    },
+    {
+      "en": "v-bangs",
+      "zh": "V形刘海",
+      "rating": "g",
+      "count": 1017,
+      "desc": "在额头中央形成V字尖角的刘海。",
+      "kw": "V字刘海 / V型刘海 / V形前发 / 尖刘海 / 刘海 / 发型"
+    },
+    {
+      "en": "very long braid",
+      "zh": "超长辫子",
+      "rating": "g",
+      "count": 16391,
+      "desc": "长度及腰或更长的麻花辫",
+      "kw": "超长麻花辫 / 长辫子 / 极长辫子 / 及腰辫子 / 过腰长辫 / 超长发辫 / 拖地辫 / 特长辫子 / long braid"
+    },
+    {
+      "en": "very long sidelocks",
+      "zh": "超长鬓发",
+      "rating": "g",
+      "count": 1913,
+      "desc": "长度及腰或更长的鬓发。",
+      "kw": "超长鬓角 / 极长鬓发 / 及腰鬓发 / 长鬓发 / 超长侧发 / 过腰鬓发 / 极长侧发 / 发型"
+    },
+    {
+      "en": "victory rolls",
+      "zh": "胜利卷发",
+      "rating": "g",
+      "count": 807,
+      "desc": "1940年代流行、两侧卷起的发型",
+      "kw": "胜利卷 / 胜利卷发型 / 胜利发卷 / 40年代卷发 / 复古卷发 / 复古发型 / 卷发"
+    },
+    {
+      "en": "wavy sidelocks",
+      "zh": "波浪鬓发",
+      "rating": "g",
+      "count": 1318,
+      "desc": "区别于其余头发的波浪状鬓发",
+      "kw": "波浪侧发 / 卷曲鬓发 / 波浪形鬓发 / 大波浪侧发 / 波浪耳边发 / 波浪发 / 侧发"
+    },
+    {
+      "en": "wide ponytail",
+      "zh": "宽马尾",
+      "rating": "g",
+      "count": 5139,
+      "desc": "扎起后蓬松宽大的马尾",
+      "kw": "蓬松马尾 / 厚马尾 / 宽版马尾 / 大马尾 / 松散马尾 / 蓬厚马尾 / 粗马尾 / 丰盈马尾"
+    },
+    {
+      "en": "hairstyle switch",
+      "zh": "发型互换",
+      "rating": "g",
+      "count": 1031,
+      "desc": "两个角色互换日常发型",
+      "kw": "互换发型 / 交换发型 / 发型交换 / 换发型 / 发型变化 / 髪型交換"
+    },
+    {
+      "en": "official alternate hair length",
+      "zh": "官方异发长",
+      "rating": "g",
+      "count": 3821,
+      "desc": "角色官方设定的不同头发长度",
+      "kw": "官方替代头发长度 / 发型 / 头发"
+    },
+    {
+      "en": "official alternate hairstyle",
+      "zh": "官方换发型",
+      "rating": "g",
+      "count": 96369,
+      "desc": "由官方创作的角色另一套发型",
+      "kw": "官方发型变更 / 官方备用发型 / 官方第二发型 / 官方发型替换 / 官方新发型 / 官方异形发型 / 发型 / 官方 / alternate hairstyle (official) / セカンドヘアスタイル"
+    }
+  ]
+}

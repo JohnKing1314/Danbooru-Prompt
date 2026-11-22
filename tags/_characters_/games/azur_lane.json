@@ -1,0 +1,623 @@
+{
+  "id": "azur_lane",
+  "name": "碧蓝航线",
+  "parentId": "games",
+  "order": 14,
+  "file": "games/azur_lane.json",
+  "characters": [
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "企业",
+      "tag": "enterprise (azur lane)",
+      "charZh": "企业（碧蓝航线）",
+      "auto": "silver hair|银发;long hair|长发;purple eyes|紫瞳;white hair|白发;very long hair|超长发;peaked cap|大檐帽;black coat|黑大衣;coat on shoulders|披肩大衣;white shirt|白衬衫;black necktie|黑领带;black skirt|黑裙;naval uniform|海军制服;black thighhighs|黑过膝袜;large breasts|大胸;grey hair|灰发;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "贝尔法斯特",
+      "tag": "belfast (azur lane)",
+      "charZh": "贝尔法斯特（碧蓝航线）",
+      "auto": "silver hair|银发;long hair|长发;maid|女仆;blue eyes|蓝瞳;white hair|白发;purple eyes|紫瞳;maid headdress|女仆头饰;french braid|法式编发;very long hair|超长发;bare shoulders|露肩;collarbone|锁骨;off-shoulder sweater|露肩毛衣;beret|贝雷帽;brown sweater|棕色毛衣;large breasts|大胸;red hat|红帽子;black skirt|黑色短裙;aran sweater|阿兰毛衣;hoop earrings|圆环耳环",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "爱宕",
+      "tag": "atago (azur lane)",
+      "charZh": "爱宕（碧蓝航线）",
+      "auto": "brown hair|棕发;long hair|长发;dog ears|狗耳;small breasts|小胸;black hair|黑发;mole under eye|眼下泪痣;extra ears|多余耳朵;yellow eyes|黄瞳;animal ears|兽耳;navel|肚脐;black thighhighs|黑色过膝袜;large breasts|大胸;black bikini|黑色比基尼;race queen|赛车女郎;wrist cuffs|腕带;white ribbon|白色缎带",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "高雄",
+      "tag": "takao (azur lane)",
+      "charZh": "高雄（碧蓝航线）",
+      "auto": "black hair|黑发;long hair|长发;dog ears|狗耳;very long hair|超长发;yellow eyes|黄瞳;animal ears|兽耳;white uniform|白制服;sailor collar|水手领;white capelet|白斗篷;black gloves|黑手套;katana|武士刀;black pantyhose|黑连裤袜;hair ribbon|发带;large breasts|大胸;ponytail|马尾;white bow|白色蝴蝶结;hair bow|蝴蝶结发饰;hair flaps|发片;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "欧根亲王",
+      "tag": "prinz eugen (azur lane)",
+      "charZh": "欧根亲王（碧蓝航线）",
+      "auto": "silver hair|银发;short hair|短发;red eyes|红瞳;grey hair|灰发;long hair|长发;twintails|双马尾;streaked hair|挑染发;red streak|红挑染;mole|痣;black jacket|黑夹克;white shirt|白衬衫;black gloves|黑手套;black thighhighs|黑过膝袜;iron cross|铁十字勋章;race queen|赛车女郎;large breasts|大胸;navel|肚脐;stomach|腹部;yellow eyes|黄瞳;white hair|白发;red panties|红色内裤;very long hair|超长发;half gloves|短手套;open jacket|敞开的夹克",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "拉菲",
+      "tag": "laffey (azur lane)",
+      "charZh": "拉菲（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;rabbit ears|兔耳;sleepy|困倦;red eyes|红瞳;twintails|双马尾;rabbit ear headwear|兔耳发饰;white dress|白连衣裙;red ribbon|红丝带;blue jacket|蓝夹克;long sleeves|长袖;white thighhighs|白过膝袜;fake animal ears|假兽耳;very long hair|超长发;hair between eyes|眼间发;small breasts|小胸;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "绫波",
+      "tag": "ayanami (azur lane)",
+      "charZh": "绫波（碧蓝航线）",
+      "auto": "white hair|白发;short hair|短发;red eyes|红瞳;ponytail|马尾;headgear|头饰装备;long hair|长发;hair between eyes|眼间发;orange eyes|橙瞳;navel|肚脐;sidelocks|鬓发;bare shoulders|露肩;detached sleeves|分离袖;stomach|腹部;hairclip|发夹;pleated skirt|百褶裙;serafuku|水手服;blonde hair|金发;wide sleeves|宽袖",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "雪风",
+      "tag": "yukikaze (azur lane)",
+      "charZh": "雪风（碧蓝航线）",
+      "auto": "black hair|黑发;twintails|双马尾;red eyes|红瞳;cat ears|猫耳;grey hair|灰发;green eyes|绿瞳;animal ears|兽耳;white shirt|白衬衫;black jacket|黑夹克;pleated skirt|百褶裙;red scarf|红围巾;black thighhighs|黑过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "赤城",
+      "tag": "akagi (azur lane)",
+      "charZh": "赤城（碧蓝航线）",
+      "auto": "brown hair|棕发;long hair|长发;fox ears|狐耳;red eyes|红瞳;fox tail|狐尾;fox girl|狐娘;multiple tails|多条尾巴;brown tail|棕色尾巴;very long hair|超长发;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "加贺",
+      "tag": "kaga (azur lane)",
+      "charZh": "加贺（碧蓝航线）",
+      "auto": "white hair|白发;short hair|短发;fox ears|狐耳;blue eyes|蓝瞳;fox tail|狐尾;fox girl|狐娘;multiple tails|多条尾巴;white tail|白尾;blue kimono|蓝和服;japanese clothes|日式传统服装;wide sleeves|宽袖;hair ornament|发饰;large breasts|大胸;animal ear fluff|兽耳绒毛;kitsune|狐妖",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "胡德",
+      "tag": "hood (azur lane)",
+      "charZh": "胡德（碧蓝航线）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;ponytail|马尾;white hat|白帽;pillbox hat|药盒帽;white dress|白连衣裙;blue capelet|蓝斗篷;red ribbon|红丝带;white gloves|白手套;naval uniform|海军制服",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "大凤",
+      "tag": "taihou (azur lane)",
+      "charZh": "大凤（碧蓝航线）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;very long hair|超长发;twintails|双马尾;hair ribbon|发带;red dress|红连衣裙;black coat|黑大衣;japanese clothes|日式传统服装;gold trim|金边装饰;folding fan|折扇;black bikini|黑色比基尼;red jacket|红色夹克;race queen|赛车女郎;large breasts|大胸;navel|肚脐;black choker|黑色颈圈;eyewear on head|头顶眼镜;black thighhighs|黑色过膝袜;crossed bangs|交叉刘海;thigh strap|腿环",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "光辉",
+      "tag": "illustrious (azur lane)",
+      "charZh": "光辉（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;silver hair|银发;very long hair|超长发;white hat|白帽;sun hat|遮阳帽;white dress|白连衣裙;white gloves|白手套;detached sleeves|分离袖;blue ribbon|蓝丝带;huge breasts|巨乳;mole under eye|眼下泪痣;large breasts|大胸;white thighhighs|白色过膝袜;elbow gloves|长筒手套;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "独角兽",
+      "tag": "unicorn (azur lane)",
+      "charZh": "独角兽（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;purple hair|紫发;purple eyes|紫瞳;ahoge|呆毛;white dress|白连衣裙;sailor collar|水手领;long sleeves|长袖;stuffed unicorn|独角兽玩偶;white thighhighs|白过膝袜;very long hair|超长发;bare shoulders|露肩;single side bun|单侧丸子头;medium breasts|中等胸;one side up|单侧扎发",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "埃塞克斯",
+      "tag": "essex (azur lane)",
+      "charZh": "埃塞克斯（碧蓝航线）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;peaked cap|大檐帽;blue jacket|蓝夹克;white shirt|白衬衫;red necktie|红领带;naval uniform|海军制服;blue skirt|蓝裙;black thighhighs|黑过膝袜;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "信浓",
+      "tag": "shinano (azur lane)",
+      "charZh": "信浓（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;silver hair|银发;very long hair|超长发;blue eyes|蓝瞳;fox ears|狐耳;fox tail|狐尾;fox girl|狐娘;multiple tails|多条尾巴;blue kimono|蓝和服;japanese clothes|日式传统服装;butterfly hair ornament|蝴蝶发饰;large breasts|大胸;animal ear fluff|兽耳绒毛",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "岛风",
+      "tag": "shimakaze (azur lane)",
+      "charZh": "岛风（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;very long hair|超长发;yellow eyes|黄瞳;rabbit ears|兔耳;rabbit girl|兔娘;white sailor shirt|白水手服;red neckerchief|红领巾;black skirt|黑裙;white thighhighs|白过膝袜;katana|武士刀;small breasts|小胸;hairband|发箍;brown eyes|棕瞳;thighs|大腿;black hairband|黑色发箍;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "俾斯麦",
+      "tag": "bismarck (azur lane)",
+      "charZh": "俾斯麦（碧蓝航线）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;military uniform|军装;peaked cap|大檐帽;black coat|黑色大衣;black gloves|黑色手套;black thighhighs|黑色过膝袜;large breasts|大胸;hair between eyes|眼间发;very long hair|超长发;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "提尔比茨",
+      "tag": "tirpitz (azur lane)",
+      "charZh": "提尔比茨（碧蓝航线）",
+      "auto": "white hair|白发;short hair|短发;blue eyes|蓝瞳;silver hair|银发;peaked cap|大檐帽;military uniform|军装;white coat|白大衣;black shirt|黑衬衫;red necktie|红领带;black gloves|黑手套;iron cross|铁十字勋章",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "长门",
+      "tag": "nagato (azur lane)",
+      "charZh": "长门（碧蓝航线）",
+      "auto": "brown hair|棕发;long hair|长发;red eyes|红瞳;very long hair|超长发;fox ears|狐耳;fox girl|狐娘;gold hair ornament|金色发饰;white kimono|白和服;red hakama|红袴;japanese clothes|日式传统服装;small breasts|小胸;black hair|黑发;yellow eyes|黄瞳;animal ear fluff|兽耳绒毛;blunt bangs|齐刘海;bare shoulders|露肩;sidelocks|鬓发;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "翔鹤",
+      "tag": "shoukaku (azur lane)",
+      "charZh": "翔鹤（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;silver hair|银发;very long hair|超长发;red eyes|红瞳;hair ribbon|发带;white kimono|白和服;red skirt|红裙;japanese clothes|日式传统服装;detached sleeves|分离袖",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "瑞鹤",
+      "tag": "zuikaku (azur lane)",
+      "charZh": "瑞鹤（碧蓝航线）",
+      "auto": "brown hair|棕发;long hair|长发;ponytail|马尾;yellow eyes|黄瞳;hair ribbon|发带;red jacket|红夹克;white shirt|白衬衫;black skirt|黑裙;japanese clothes|日式传统服装;katana|武士刀;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "约克公爵",
+      "tag": "duke of york (azur lane)",
+      "charZh": "约克公爵（碧蓝航线）",
+      "auto": "blonde hair|金发;long hair|长发;very long hair|超长发;red eyes|红瞳;pointy ears|尖耳;vampire|吸血鬼;red coat|红大衣;military uniform|军装;gold trim|金边装饰;white shirt|白衬衫;black gloves|黑手套",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "英王乔治五世",
+      "tag": "king george v (azur lane)",
+      "charZh": "英王乔治五世（碧蓝航线）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;red coat|红大衣;military uniform|军装;gold epaulettes|金肩章;white shirt|白衬衫;black gloves|黑手套;cape|披风;white pants|白长裤",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "罗恩",
+      "tag": "roon (azur lane)",
+      "charZh": "罗恩（碧蓝航线）",
+      "auto": "blonde hair|金发;short hair|短发;bob cut|波波头;yellow eyes|黄瞳;black dress|黑连衣裙;red trim|红边装饰;military uniform|军装;black gloves|黑手套;iron cross|铁十字勋章;black thighhighs|黑过膝袜;small breasts|小胸;streaked hair|挑染;large breasts|大胸;hair between eyes|眼间发;two-tone hair|双色发;headgear|头部装备;medium hair|中长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "埃吉尔",
+      "tag": "aegir (azur lane)",
+      "charZh": "埃吉尔（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;yellow eyes|黄瞳;streaked hair|挑染;very long hair|超长发;bare shoulders|露肩;black thighhighs|黑色过膝袜;black gloves|黑色手套;demon horns|恶魔角;large breasts|大胸;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "白龙",
+      "tag": "hakuryuu (azur lane)",
+      "charZh": "白龙（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;very long hair|超长发;red eyes|红瞳;dragon horns|龙角;oni horns|鬼角;white coat|白大衣;red kimono|红和服;japanese clothes|日式传统服装;katana|武士刀;black gloves|黑手套",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "可畏",
+      "tag": "formidable (azur lane)",
+      "charZh": "可畏（碧蓝航线）",
+      "auto": "grey hair|灰发;silver hair|银发;very long hair|超长发;twintails|双马尾;red eyes|红瞳;black ribbon|黑丝带;gothic lolita|哥特萝莉;black dress|黑连衣裙;white frills|白蕾丝边;choker|颈环;small breasts|小胸;double bun|双丸子头;large breasts|大胸;blue bikini|蓝色比基尼;single thighhigh|单只过膝袜;braided bun|编发髻;navel|肚脐;multi-strapped bikini top|多系带比基尼上装;white thighhighs|白色过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "英仙座",
+      "tag": "perseus (azur lane)",
+      "charZh": "英仙座（碧蓝航线）",
+      "auto": "pink hair|粉发;long hair|长发;nun|修女;very long hair|超长发;blue eyes|蓝瞳;veil|面纱;white dress|白连衣裙;blue ribbon|蓝丝带;nurse cap|护士帽;detached sleeves|分离袖;white thighhighs|白过膝袜;twintails|双马尾;pink eyes|粉瞳;pink gloves|粉色手套;large breasts|大胸;white hat|白帽子;id card|证件卡;half gloves|短手套;center opening|胸前开口",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "让·巴尔",
+      "tag": "jean bart (azur lane)",
+      "charZh": "让·巴尔（碧蓝航线）",
+      "auto": "blonde hair|金发;short hair|短发;red eyes|红瞳;red coat|红大衣;coat on shoulders|披肩大衣;black shirt|黑衬衫;black gloves|黑手套;gold trim|金边装饰;pirate motif|海盗风格;small breasts|小胸;very long hair|超长发;brown hair|棕发;hair between eyes|眼间发;high ponytail|高马尾;collarbone|锁骨;medium breasts|中等胸;bare shoulders|露肩;earrings|耳环;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "黎塞留",
+      "tag": "richelieu (azur lane)",
+      "charZh": "黎塞留（碧蓝航线）",
+      "auto": "blonde hair|金发;very long hair|超长发;green eyes|绿瞳;white coat|白大衣;red cape|红披风;gold trim|金边装饰;white dress|白连衣裙;white gloves|白手套;cross|十字饰品;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "圣女贞德",
+      "tag": "jeanne d'arc (azur lane)",
+      "charZh": "圣女贞德（碧蓝航线）",
+      "auto": "blonde hair|金发;long hair|长发;very long hair|超长发;blue eyes|蓝瞳;hairband|发箍;white dress|白连衣裙;armor|铠甲;shoulder armor|肩甲;white cape|白披风;holding sword|持剑",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "布莱默顿",
+      "tag": "bremerton (azur lane)",
+      "charZh": "布莱默顿（碧蓝航线）",
+      "auto": "pink hair|粉发;twintails|双马尾;yellow eyes|黄眼;small breasts|小胸;jacket|夹克;long hair|长发;red eyes|红瞳;black jacket|黑夹克;crop top|露脐上衣;black shorts|黑短裤;hair ornament|发饰;fingerless gloves|露指手套;double bun|双丸子头;china dress|中式连衣裙;eyewear on head|头顶眼镜;large breasts|大胸;pink eyes|粉瞳;black dress|黑色连衣裙;round eyewear|圆框眼镜;pelvic curtain|阴部帘;streaked hair|挑染;bridal gauntlets|新娘手套",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "天狼星",
+      "tag": "sirius (azur lane)",
+      "charZh": "天狼星（碧蓝航线）",
+      "auto": "white hair|白发;short hair|短发;blue eyes|蓝眼;maid|女仆;maid headdress|女仆头饰;small breasts|小胸;silver hair|银发;black dress|黑连衣裙;white apron|白围裙;black gloves|黑手套;white thighhighs|白过膝袜;neck ribbon|领结丝带;large breasts|大胸;breast curtains|乳帘;red eyes|红瞳;china dress|中式连衣裙;white gloves|白色手套;revealing clothes|暴露装;pelvic curtain|阴部帘;garter straps|吊袜带扣;hair flower|发花",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "圣路易斯",
+      "tag": "st. louis (azur lane)",
+      "charZh": "圣路易斯（碧蓝航线）",
+      "auto": "blue hair|蓝发;long hair|长发;purple eyes|紫眼;small breasts|小胸;military uniform|军装;very long hair|超长发;silver hair|银发;blue coat|蓝大衣;white dress|白连衣裙;peaked cap|大檐帽;gold trim|金边装饰;earrings|耳环;silver dress|银色连衣裙;large breasts|大胸;side ponytail|侧马尾;revealing clothes|暴露装;bare shoulders|露肩;necklace|项链;evening gown|晚礼服;plunging neckline|深V领;thighs|大腿;sidelocks|鬓发",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "标枪",
+      "tag": "javelin (azur lane)",
+      "charZh": "标枪（碧蓝航线）",
+      "auto": "purple hair|紫发;side ponytail|侧马尾;green eyes|绿眼;crown|皇冠;sailor collar|水手领;long hair|长发;mini crown|迷你皇冠;white shirt|白衬衫;blue pleated skirt|蓝百褶裙;red necktie|红领带;white thighhighs|白过膝袜;small breasts|小胸;hair between eyes|眼间发;ponytail|马尾;medium breasts|中等胸;hair ribbon|发带;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "Z23",
+      "tag": "z23 (azur lane)",
+      "charZh": "Z23（碧蓝航线）",
+      "auto": "blonde hair|金发;short hair|短发;purple eyes|紫眼;military uniform|军装;hat|帽子;silver hair|银发;red eyes|红瞳;peaked cap|大檐帽;black jacket|黑夹克;white shirt|白衬衫;red necktie|红领带;black skirt|黑裙;black thighhighs|黑过膝袜;brown hair|棕发;hair bow|蝴蝶结发饰;bare shoulders|露肩;beret|贝雷帽;medium breasts|中等胸;navel|肚脐;black gloves|黑色手套;hair between eyes|眼间发;stomach|腹部",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "火奴鲁鲁",
+      "tag": "honolulu (azur lane)",
+      "charZh": "火奴鲁鲁（碧蓝航线）",
+      "auto": "red hair|红发;twintails|双马尾;yellow eyes|黄眼;small breasts|小胸;necktie|领带;very long hair|超长发;red eyes|红瞳;white shirt|白衬衫;blue jacket|蓝夹克;pleated skirt|百褶裙;black thighhighs|黑过膝袜;hair ribbon|发带;large breasts|大胸;black ribbon|黑色缎带;long hair|长发;elbow gloves|长筒手套",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "斯佩伯爵海军上将",
+      "tag": "admiral graf spee (azur lane)",
+      "charZh": "斯佩伯爵海军上将（碧蓝航线）",
+      "auto": "streaked hair|挑染;blue eyes|蓝瞳;white hair|白发;short hair|短发;two-tone hair|双色发;grey hair|灰发;sidelocks|鬓发;black dress|黑色连衣裙;red scarf|红色围巾;small breasts|小胸;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "天城",
+      "tag": "amagi (azur lane)",
+      "charZh": "天城（碧蓝航线）",
+      "auto": "brown hair|棕发;fox ears|狐耳;purple eyes|紫瞳;fox girl|狐娘;long hair|长发;animal ear fluff|兽耳绒毛;fox tail|狐尾;very long hair|超长发;blunt bangs|齐刘海;kyuubi|九尾狐;kimono|和服;small breasts|小胸;large breasts|大胸;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "奥古斯特·冯·帕塞瓦尔",
+      "tag": "august von parseval (azur lane)",
+      "charZh": "奥古斯特·冯·帕塞瓦尔（碧蓝航线）",
+      "auto": "hair over one eye|遮单眼发;mechanical horns|机械角;curled horns|卷曲角;purple eyes|紫瞳;very long hair|超长发;purple hair|紫发;white thighhighs|白色过膝袜;bare shoulders|露肩;black dress|黑色连衣裙;black horns|黑角;small breasts|小胸;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "巴尔的摩",
+      "tag": "baltimore (azur lane)",
+      "charZh": "巴尔的摩（碧蓝航线）",
+      "auto": "short hair|短发;yellow eyes|黄瞳;brown hair|棕发;navel|肚脐;stomach|腹部;hair between eyes|眼间发;blue jacket|蓝色夹克;naval uniform|海军制服;small breasts|小胸;large breasts|大胸;race queen|赛车女郎;blue bikini|蓝色比基尼",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "新泽西",
+      "tag": "new jersey (azur lane)",
+      "charZh": "新泽西（碧蓝航线）",
+      "auto": "blue hair|蓝发;very long hair|超长发;blue eyes|蓝瞳;bodysuit|紧身衣;blue jacket|蓝色夹克;white jacket|白色夹克;hair ornament|发饰;small breasts|小胸;playboy bunny|兔女郎;rabbit ears|兔耳;large breasts|大胸;fake animal ears|假兽耳;black leotard|黑色连体衣;see-through cleavage|透视乳沟;bodystocking|连体丝袜;bare shoulders|露肩;strapless leotard|无肩带紧身衣",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "恶毒",
+      "tag": "le malin (azur lane)",
+      "charZh": "恶毒（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;black dress|黑色连衣裙;white headwear|白色头饰;bare shoulders|露肩;small breasts|小胸;blue eyes|蓝瞳;rabbit ears|兔耳;white pantyhose|白色连裤袜;very long hair|超长发;white leotard|白色紧身衣;fake animal ears|假兽耳;+ +|星星眼;wrist cuffs|腕带;playboy bunny|兔女郎",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "黛朵",
+      "tag": "dido (azur lane)",
+      "charZh": "黛朵（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;purple eyes|紫瞳;maid|女仆;maid headdress|女仆头饰;black dress|黑色连衣裙;white apron|白色围裙;small breasts|小胸;large breasts|大胸;white thighhighs|白色过膝袜;underboob cutout|下乳镂空;bare shoulders|露肩;black hairband|黑色发箍;center frills|中央荷叶边;black skirt|黑色短裙",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "柴郡",
+      "tag": "cheshire (azur lane)",
+      "charZh": "柴郡（碧蓝航线）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;cat ear headwear|猫耳发箍;maid|女仆;maid headdress|女仆头饰;black dress|黑色连衣裙;white apron|白色围裙;small breasts|小胸;large breasts|大胸;streaked hair|挑染;two-tone hair|双色发;fake animal ears|假兽耳;black hair|黑发;white thighhighs|白色过膝袜;blue hair|蓝发;wrist cuffs|腕带",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "武藏",
+      "tag": "musashi (azur lane)",
+      "charZh": "武藏（碧蓝航线）",
+      "auto": "black hair|黑发;very long hair|超长发;purple eyes|紫瞳;fox ears|狐耳;fox tail|狐尾;multiple tails|多条尾巴;kimono|和服;japanese clothes|日式传统服装;small breasts|小胸;fox girl|狐娘;animal ear fluff|兽耳绒毛;yellow eyes|黄瞳;large breasts|大胸;bare shoulders|露肩;whisker markings|胡须纹;magatama necklace|勾玉项链;purple hair|紫发;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "怨仇",
+      "tag": "implacable (azur lane)",
+      "charZh": "怨仇（碧蓝航线）",
+      "auto": "blonde hair|金发;very long hair|超长发;green eyes|绿瞳;nun|修女;veil|面纱;black dress|黑色连衣裙;bare shoulders|露肩;small breasts|小胸;red eyes|红瞳;hair between eyes|眼间发;white thighhighs|白色过膝袜;fake horns|假角;black gloves|黑色手套;large breasts|大胸;pelvic curtain|阴部帘;white horns|白角;habit|修女服",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "明石",
+      "tag": "akashi (azur lane)",
+      "charZh": "明石（碧蓝航线）",
+      "auto": "green hair|绿发;long hair|长发;green eyes|绿瞳;cat ears|猫耳;cat tail|猫尾;sleeves past fingers|过指袖;white coat|白色外套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "克利夫兰",
+      "tag": "cleveland (azur lane)",
+      "charZh": "克利夫兰（碧蓝航线）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳;white cape|白披风;white shirt|白衬衫;red necktie|红色领带;naval uniform|海军制服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "樫野",
+      "tag": "kashino (azur lane)",
+      "charZh": "樫野（碧蓝航线）",
+      "auto": "brown hair|棕发;long hair|长发;cow ears|牛耳;cow horns|牛角;yellow eyes|黄瞳;japanese clothes|日式传统服装;white kimono|白和服;red ribbon|红丝带;hair ornament|发饰;bell|铃铛;small breasts|小胸;purple eyes|紫瞳;cow girl|奶牛娘;huge breasts|巨乳;hair flower|发花;bare shoulders|露肩;very long hair|超长发",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "扎拉",
+      "tag": "zara (azur lane)",
+      "charZh": "扎拉（碧蓝航线）",
+      "auto": "red hair|红发;long hair|长发;red eyes|红瞳;hair ornament|发饰;white cape|白披风;black dress|黑连衣裙;gold trim|金边装饰;military uniform|军装;black gloves|黑手套;small breasts|小胸;black bikini|黑色比基尼;side ponytail|侧马尾;o-ring bikini|O形环比基尼;large breasts|大胸;goggles on head|护目镜戴头上;yellow eyes|黄瞳;navel|肚脐;wet|湿",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "山城",
+      "tag": "yamashiro (azur lane)",
+      "charZh": "山城（碧蓝航线）",
+      "auto": "black hair|黑发;long hair|长发;cat ears|猫耳;cat tail|猫尾;red eyes|红瞳;miko|巫女;white kimono|白和服;red hakama|红袴;hair ornament|发饰;japanese clothes|日式传统服装;small breasts|小胸;short hair|短发;animal ear fluff|兽耳绒毛;large breasts|大胸;mask on head|头上的面具;mismatched eyebrows|异色眉毛;white thighhighs|白色过膝袜;sideless kimono|侧镂空和服",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "夕立",
+      "tag": "yuudachi (azur lane)",
+      "charZh": "夕立（碧蓝航线）",
+      "auto": "white hair|白发;very long hair|超长发;dog ears|犬耳;dog tail|犬尾;red eyes|红瞳;sailor collar|水手领;white shirt|白衬衫;black skirt|黑裙;red scarf|红围巾;hair ribbon|发带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "哈曼",
+      "tag": "hammann (azur lane)",
+      "charZh": "哈曼（碧蓝航线）",
+      "auto": "white hair|白发;long hair|长发;twintails|双马尾;blue eyes|蓝瞳;cat ear headwear|猫耳发箍;maid|女仆;maid headdress|女仆头饰;black dress|黑连衣裙;white apron|白围裙;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "齐柏林伯爵",
+      "tag": "graf zeppelin (azur lane)",
+      "charZh": "齐柏林伯爵（碧蓝航线）",
+      "auto": "white hair|白发;silver hair|银发;very long hair|超长发;red eyes|红瞳;peaked cap|大檐帽;black coat|黑大衣;red lining|红内衬;military uniform|军装;black gloves|黑手套;iron cross|铁十字勋章;small breasts|小胸;large breasts|大胸;hair between eyes|眼间发;grey hair|灰发;long hair|长发;crossed bangs|交叉刘海;sitting|坐姿",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "兴登堡",
+      "tag": "hindenburg (azur lane)",
+      "charZh": "兴登堡（碧蓝航线）",
+      "auto": "red hair|红发;very long hair|超长发;yellow eyes|黄瞳;demon horns|恶魔角;demon tail|恶魔尾;black dress|黑连衣裙;red coat|红大衣;gold trim|金边装饰;black gloves|黑手套;small breasts|小胸;pointy ears|尖耳;curled horns|卷曲的角;black horns|黑色角;red eyes|红瞳;bare shoulders|露肩;black leotard|黑色连体衣;fake animal ears|假兽耳;playboy bunny|兔女郎;large breasts|大胸;rabbit ears|兔耳",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "乌尔里希·冯·胡滕",
+      "tag": "ulrich von hutten (azur lane)",
+      "charZh": "乌尔里希·冯·胡滕（碧蓝航线）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳;hair over one eye|单眼遮刘海;black coat|黑大衣;gothic|哥特风;choker|颈环;black gloves|黑手套;military uniform|军装;small breasts|小胸;yellow eyes|黄瞳;red horns|红色角;hair between eyes|眼间发;white hair|白发;medium breasts|中等胸;two-tone hair|双色发;slit pupils|竖瞳;horns|犄角;black choker|黑色颈圈;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "腓特烈大帝",
+      "tag": "friedrich der grosse (azur lane)",
+      "charZh": "腓特烈大帝（碧蓝航线）",
+      "auto": "black hair|黑发;very long hair|超长发;yellow eyes|黄瞳;demon horns|恶魔角;black dress|黑连衣裙;red trim|红边装饰;black coat|黑大衣;gold trim|金边装饰;black gloves|黑手套;small breasts|小胸;hair over one eye|遮单眼发;red horns|红色角;mechanical horns|机械角;large breasts|大胸;bare shoulders|露肩;long hair|长发;huge breasts|巨乳;alternate costume|换装",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "能代",
+      "tag": "noshiro (azur lane)",
+      "charZh": "能代（碧蓝航线）",
+      "auto": "black hair|黑发;very long hair|超长发;red eyes|红瞳;oni horns|鬼角;black sailor shirt|黑水手服;red neckerchief|红领巾;black pleated skirt|黑百褶裙;katana|武士刀;black thighhighs|黑过膝袜;small breasts|小胸;purple eyes|紫瞳;long hair|长发;medium breasts|中等胸;blunt bangs|齐刘海;black skirt|黑色短裙;pleated skirt|百褶裙;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "海伦娜",
+      "tag": "helena (azur lane)",
+      "charZh": "海伦娜（碧蓝航线）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;hair ornament|发饰;white dress|白连衣裙;blue jacket|蓝夹克;red ribbon|红丝带;naval uniform|海军制服;white thighhighs|白过膝袜;small breasts|小胸;ahoge|呆毛;purple eyes|紫瞳;medium breasts|中等胸;bare shoulders|露肩;very long hair|超长发;hair between eyes|眼间发;thighs|大腿;black gloves|黑色手套",
+      "subName": ""
+    },
+    {
+      "game": "碧蓝航线",
+      "gameTag": "azur lane",
+      "name": "伊丽莎白女王",
+      "tag": "queen elizabeth (azur lane)",
+      "charZh": "伊丽莎白女王（碧蓝航线）",
+      "auto": "blonde hair|金发;long hair|长发;twintails|双马尾;blue eyes|蓝瞳;crown|皇冠;red cape|红披风;white dress|白连衣裙;gold trim|金边装饰;scepter|权杖;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "name": "贝奇",
+      "tag": "bache (azur lane)",
+      "auto": "1girl|单人女性;blonde hair|金发;purple eyes|紫眼;long hair|长发;two side up|双侧扎发;fang|虎牙;navel|肚脐;small breasts|小胸;single thighhigh|单只过膝袜;yellow jacket|黄色夹克;bare shoulders|露肩;fishnet thighhighs|渔网过膝袜;micro shorts|超短裤"
+    },
+    {
+      "name": "恰巴耶夫",
+      "tag": "chapayev (azur lane)",
+      "auto": "1girl|单人女性;blue hair|蓝发;blue eyes|蓝眼;short hair|短发;large breasts|大胸;mole on breast|乳痣;black gloves|黑色手套;peaked cap|大檐帽;white hat|白帽子;military hat|军帽;white jacket|白色夹克"
+    },
+    {
+      "name": "不挠",
+      "tag": "indomitable (azur lane)",
+      "auto": "1girl|单人女性;black hair|黑发;green eyes|绿眼;very long hair|超长发;large breasts|大胸;maid headdress|女仆头饰;huge breasts|巨乳;hair between eyes|眼间发;white pantyhose|白色连裤袜;hair flower|发花;white dress|白色连衣裙"
+    },
+    {
+      "name": "尾张",
+      "tag": "owari (azur lane)",
+      "auto": "1girl|单人女性;blonde hair|金发;yellow eyes|黄眼;dark-skinned female|深色皮肤女性;hair over one eye|单眼遮发;mole under mouth|嘴角痣;very long hair|超长发;horn ornament|角饰;large breasts|大胸;twin braids|双辫;large horns|大角;huge breasts|巨乳;grin|露齿笑"
+    },
+    {
+      "name": "水星纪念",
+      "tag": "pamiat merkuria (azur lane)",
+      "auto": "1girl|单人女性;black hair|黑发;purple eyes|紫眼;long hair|长发;large breasts|大胸;one side up|单侧扎发;bare shoulders|露肩;pink eyes|粉瞳;very long hair|超长发;long sleeves|长袖"
+    },
+    {
+      "name": "波拉",
+      "tag": "pola (azur lane)",
+      "auto": "1girl|单人女性;purple hair|紫发;red eyes|红眼;long hair|长发;twintails|双马尾;large breasts|大胸;yellow bikini|黄色比基尼;skindentation|勒肉凹陷;white thighhighs|白色过膝袜;eyewear on head|头顶眼镜"
+    },
+    {
+      "name": "海因里希亲王",
+      "tag": "prinz heinrich (azur lane)",
+      "auto": "1girl|单人女性;white hair|白发;red eyes|红眼;very long hair|超长发;large breasts|大胸;bare shoulders|露肩;mole under eye|眼下泪痣;hair ribbon|发带;hair between eyes|眼间发;crop top|露脐短衫;detached sleeves|分离袖"
+    },
+    {
+      "name": "里诺",
+      "tag": "reno (azur lane)",
+      "auto": "1girl|单人女性;grey hair|灰发;purple eyes|紫眼;large breasts|大胸;bare shoulders|露肩;short hair|短发;hair between eyes|眼间发;black hairband|黑色发箍;fake animal ears|假兽耳;playboy bunny|兔女郎;rabbit ears|兔耳"
+    },
+    {
+      "name": "谢菲尔德",
+      "tag": "sheffield (azur lane)",
+      "auto": "1girl|单人女性;blonde hair|金发;yellow eyes|黄眼;hair over one eye|单眼遮发;maid headdress|女仆头饰;white thighhighs|白色过膝袜;short hair|短发;medium breasts|中等胸;braid|单辫;black dress|黑色连衣裙;french braid|法式辫;juliet sleeves|朱丽叶袖"
+    },
+    {
+      "name": "塔什干",
+      "tag": "tashkent (azur lane)",
+      "auto": "1girl|单人女性;purple hair|紫发;blue eyes|蓝眼;very long hair|超长发;white thighhighs|白色过膝袜;fake animal ears|假兽耳;long sleeves|长袖;hair ribbon|发带;white coat|白色外套;blunt bangs|齐刘海"
+    },
+    {
+      "name": "云仙",
+      "tag": "unzen (azur lane)",
+      "auto": "1girl|单人女性;white hair|白发;streaked hair|挑染长发;purple eyes|紫眼;hair over one eye|单眼遮发;large breasts|大胸;purple hair|紫发;very long hair|超长发;navel|肚脐;wide sleeves|宽袖"
+    }
+  ],
+  "count": 50
+}

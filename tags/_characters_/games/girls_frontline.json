@@ -1,0 +1,180 @@
+{
+  "id": "girls_frontline",
+  "name": "少女前线",
+  "parentId": "games",
+  "order": 19,
+  "file": "games/girls_frontline.json",
+  "characters": [
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "HK416",
+      "tag": "hk416 (girls' frontline)",
+      "charZh": "HK416（少女前线）",
+      "auto": "silver hair|银发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "UMP45",
+      "tag": "ump45 (girls' frontline)",
+      "charZh": "UMP45（少女前线）",
+      "auto": "brown hair|棕发;short hair|短发;yellow eyes|黄瞳;scar|伤疤",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "M4A1",
+      "tag": "m4a1 (girls' frontline)",
+      "charZh": "M4A1（少女前线）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "AR-15",
+      "tag": "ar-15 (girls' frontline)",
+      "charZh": "AR-15（少女前线）",
+      "auto": "pink hair|粉发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "WA2000",
+      "tag": "wa2000 (girls' frontline)",
+      "charZh": "WA2000（少女前线）",
+      "auto": "silver hair|银发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "95式",
+      "tag": "type95 (girls' frontline)",
+      "charZh": "95式（少女前线）",
+      "auto": "black hair|黑发;long hair|长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "春田",
+      "tag": "springfield (girls' frontline)",
+      "charZh": "春田（少女前线）",
+      "auto": "brown hair|棕发;long hair|长发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "索米",
+      "tag": "suomi (girls' frontline)",
+      "charZh": "索米（少女前线）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "G36",
+      "tag": "g36 (girls' frontline)",
+      "charZh": "G36（少女前线）",
+      "auto": "blonde hair|金发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "UMP9",
+      "tag": "ump9 (girls' frontline)",
+      "charZh": "UMP9（少女前线）",
+      "auto": "brown hair|棕发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "内格夫",
+      "tag": "negev (girls' frontline)",
+      "charZh": "内格夫（少女前线）",
+      "auto": "brown hair|棕发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "M14",
+      "tag": "m14 (girls' frontline)",
+      "charZh": "M14（少女前线）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "RO635",
+      "tag": "ro635 (girls' frontline)",
+      "charZh": "RO635（少女前线）",
+      "auto": "pink hair|粉发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "G11",
+      "tag": "g11 (girls' frontline)",
+      "charZh": "G11（少女前线）",
+      "auto": "silver hair|银发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "M16A1",
+      "tag": "m16a1 (girls' frontline)",
+      "charZh": "M16A1（少女前线）",
+      "auto": "red hair|红发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "SOPMOD II",
+      "tag": "sopmod ii (girls' frontline)",
+      "charZh": "SOPMOD II（少女前线）",
+      "auto": "brown hair|棕发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "AK-12",
+      "tag": "ak-12 (girls' frontline)",
+      "charZh": "AK-12（少女前线）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "AN-94",
+      "tag": "an-94 (girls' frontline)",
+      "charZh": "AN-94（少女前线）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "少女前线",
+      "gameTag": "girls' frontline",
+      "name": "Kar98k",
+      "tag": "kar98k (girls' frontline)",
+      "charZh": "Kar98k（少女前线）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    }
+  ]
+}

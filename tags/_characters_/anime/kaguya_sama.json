@@ -1,0 +1,64 @@
+{
+  "id": "kaguya_sama",
+  "name": "辉夜大小姐想让我告白",
+  "parentId": "anime",
+  "order": 17,
+  "file": "anime/kaguya_sama.json",
+  "characters": [
+    {
+      "game": "辉夜大小姐想让我告白",
+      "gameTag": "anime",
+      "name": "四宫辉夜",
+      "tag": "shinomiya kaguya",
+      "charZh": "四宫辉夜（辉夜大小姐想让我告白）",
+      "auto": "black hair|黑发;braid|麻花辫;red eyes|红瞳;cat ears|猫耳;small breasts|小胸;hair ribbon|发带;student|学生;kneehighs|及膝袜",
+      "subName": ""
+    },
+    {
+      "game": "辉夜大小姐想让我告白",
+      "gameTag": "anime",
+      "name": "藤原千花",
+      "tag": "fujiwara chika",
+      "charZh": "藤原千花（辉夜大小姐想让我告白）",
+      "auto": "pink hair|粉发;curly hair|卷发;blue eyes|蓝瞳;blunt bangs|齐刘海;bow|蝴蝶结;small breasts|小胸;student|学生;angel|天使",
+      "subName": ""
+    },
+    {
+      "game": "辉夜大小姐想让我告白",
+      "gameTag": "anime",
+      "name": "早坂爱",
+      "tag": "hayasaka ai",
+      "charZh": "早坂爱（辉夜大小姐想让我告白）",
+      "auto": "blonde hair|金发;ponytail|马尾;braid|麻花辫;blue eyes|蓝瞳;maid|女仆;bangs|刘海;hair scrunchie|发圈",
+      "subName": ""
+    },
+    {
+      "game": "辉夜大小姐想让我告白",
+      "gameTag": "anime",
+      "name": "白银御行",
+      "tag": "shirogane miyuki",
+      "charZh": "白银御行（辉夜大小姐想让我告白）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "辉夜大小姐想让我告白",
+      "gameTag": "anime",
+      "name": "石上优",
+      "tag": "ishigami yu",
+      "charZh": "石上优（辉夜大小姐想让我告白）",
+      "auto": "black hair|黑发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "辉夜大小姐想让我告白",
+      "gameTag": "anime",
+      "name": "伊井野弥子",
+      "tag": "iino miko",
+      "charZh": "伊井野弥子（辉夜大小姐想让我告白）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    }
+  ],
+  "count": 6
+}

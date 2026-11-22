@@ -1,0 +1,9 @@
+{
+  "key": "p216",
+  "id": "p216",
+  "name": "活动海报",
+  "desc": "时间地点+主标题",
+  "cat": "版式海报",
+  "tags": "poster illustration|海报插画;text on poster|海报上的文字;headline text|主标题文字;subheading text|副标题文字;centered title|居中标题",
+  "builtin": true
+}

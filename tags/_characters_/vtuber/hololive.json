@@ -1,0 +1,494 @@
+{
+  "id": "hololive",
+  "name": "hololive",
+  "parentId": "vtuber",
+  "order": 1,
+  "file": "vtuber/hololive.json",
+  "characters": [
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "噶呜·古拉",
+      "tag": "gawr gura",
+      "charZh": "噶呜·古拉（hololive）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;shark|鲨鱼;hoodie|连帽衫",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "星街彗星",
+      "tag": "hoshimachi suisei",
+      "charZh": "星街彗星（hololive）",
+      "auto": "blue hair|蓝发;short hair|短发;blue eyes|蓝瞳;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "兔田佩克拉",
+      "tag": "usada pekora",
+      "charZh": "兔田佩克拉（hololive）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;rabbit ears|兔耳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "凑阿库娅",
+      "tag": "minato aqua",
+      "charZh": "凑阿库娅（hololive）",
+      "auto": "blue hair|蓝发;twintails|双马尾;blue eyes|蓝瞳;maid|女仆",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "森美声",
+      "tag": "mori calliope",
+      "charZh": "森美声（hololive）",
+      "auto": "pink hair|粉发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "小鸟游琪亚拉",
+      "tag": "takanashi kiara",
+      "charZh": "小鸟游琪亚拉（hololive）",
+      "auto": "orange hair|橙发;long hair|长发;orange eyes|橙瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "一伊那尔栖",
+      "tag": "ninomae ina'nis",
+      "charZh": "一伊那尔栖（hololive）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "华生·艾米莉亚",
+      "tag": "watson amelia",
+      "charZh": "华生·艾米莉亚（hololive）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "白上吹雪",
+      "tag": "shirakami fubuki",
+      "charZh": "白上吹雪（hololive）",
+      "auto": "white hair|白发;long hair|长发;fox ears|狐耳;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "大神澪",
+      "tag": "ookami mio",
+      "charZh": "大神澪（hololive）",
+      "auto": "black hair|黑发;long hair|长发;wolf ears|狼耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "夏色祭",
+      "tag": "natsuiro matsuri",
+      "charZh": "夏色祭（hololive）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "时乃空",
+      "tag": "tokino sora",
+      "charZh": "时乃空（hololive）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "樱巫女",
+      "tag": "sakura miko",
+      "charZh": "樱巫女（hololive）",
+      "auto": "pink hair|粉发;long hair|长发;green eyes|绿瞳;miko|巫女",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "戌神沁音",
+      "tag": "inugami korone",
+      "charZh": "戌神沁音（hololive）",
+      "auto": "brown hair|棕发;short hair|短发;dog ears|狗耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "猫又小粥",
+      "tag": "nekomata okayu",
+      "charZh": "猫又小粥（hololive）",
+      "auto": "purple hair|紫发;short hair|短发;cat ears|猫耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "宝钟玛琳",
+      "tag": "houshou marine",
+      "charZh": "宝钟玛琳（hololive）",
+      "auto": "red hair|红发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "白银诺艾尔",
+      "tag": "shirogane noel",
+      "charZh": "白银诺艾尔（hololive）",
+      "auto": "silver hair|银发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "角卷绵芽",
+      "tag": "tsunomaki watame",
+      "charZh": "角卷绵芽（hololive）",
+      "auto": "blonde hair|金发;long hair|长发;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "天音彼方",
+      "tag": "amane kanata",
+      "charZh": "天音彼方（hololive）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "大空昴",
+      "tag": "oozora subaru",
+      "charZh": "大空昴（hololive）",
+      "auto": "black hair|黑发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "桃铃音音",
+      "tag": "momosuzu nene",
+      "charZh": "桃铃音音（hololive）",
+      "auto": "pink hair|粉发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "常暗永远",
+      "tag": "tokoyami towa",
+      "charZh": "常暗永远（hololive）",
+      "auto": "purple hair|紫发;long hair|长发;horns|角",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "雪花菈米",
+      "tag": "yukihana lamy",
+      "charZh": "雪花菈米（hololive）",
+      "auto": "blue hair|蓝发;long hair|长发;elf ears|精灵耳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "尾丸波尔卡",
+      "tag": "omaru polka",
+      "charZh": "尾丸波尔卡（hololive）",
+      "auto": "pink hair|粉发;twintails|双马尾;hat|帽子",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "拉普拉斯·暗黑",
+      "tag": "laplus darkness",
+      "charZh": "拉普拉斯·暗黑（hololive）",
+      "auto": "purple hair|紫发;long hair|长发;horns|角",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "鹰岭露依",
+      "tag": "takane lui",
+      "charZh": "鹰岭露依（hololive）",
+      "auto": "red hair|红发;long hair|长发;jacket|夹克",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "博衣可佑理",
+      "tag": "hakui koyori",
+      "charZh": "博衣可佑理（hololive）",
+      "auto": "pink hair|粉发;long hair|长发;lab coat|白大褂",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "沙花叉克萝耶",
+      "tag": "sakamata chloe",
+      "charZh": "沙花叉克萝耶（hololive）",
+      "auto": "black hair|黑发;long hair|长发;shark|鲨鱼",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "风真伊吕波",
+      "tag": "kazama iroha",
+      "charZh": "风真伊吕波（hololive）",
+      "auto": "blonde hair|金发;long hair|长发;ninja|忍者",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "阿芸达·栗丝",
+      "tag": "ayunda risu",
+      "charZh": "阿芸达·栗丝（hololive）",
+      "auto": "brown hair|棕发;long hair|长发;animal ears|兽耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "穆娜·霍西诺瓦",
+      "tag": "moona hoshinova",
+      "charZh": "穆娜·霍西诺瓦（hololive）",
+      "auto": "purple hair|紫发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "伊拉妮·约菲雅",
+      "tag": "irani iofifteen",
+      "charZh": "伊拉妮·约菲雅（hololive）",
+      "auto": "blonde hair|金发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "九十九佐命",
+      "tag": "tsukumo sana",
+      "charZh": "九十九佐命（hololive）",
+      "auto": "white hair|白发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "伊莉丝",
+      "tag": "irys",
+      "charZh": "伊莉丝（hololive）",
+      "auto": "white hair|白发;long hair|长发;horns|角",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "哈科斯·贝尔兹",
+      "tag": "hakos baelz",
+      "charZh": "哈科斯·贝尔兹（hololive）",
+      "auto": "red hair|红发;long hair|长发;animal ears|兽耳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "塞莱斯·法乌娜",
+      "tag": "ceres fauna",
+      "charZh": "塞莱斯·法乌娜（hololive）",
+      "auto": "green hair|绿发;long hair|长发;animal ears|兽耳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "奥罗·克罗尼",
+      "tag": "ouro kronii",
+      "charZh": "奥罗·克罗尼（hololive）",
+      "auto": "blue hair|蓝发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "无间·穆梅",
+      "tag": "nanashi mumei",
+      "charZh": "无间·穆梅（hololive）",
+      "auto": "brown hair|棕发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "不知火芙蕾雅",
+      "tag": "shiranui flare",
+      "charZh": "不知火芙蕾雅（hololive）",
+      "auto": "blonde hair|金发;long hair|长发;elf ears|精灵耳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "姬森璐娜",
+      "tag": "himemori luna",
+      "charZh": "姬森璐娜（hololive）",
+      "auto": "pink hair|粉发;long hair|长发;crown|王冠",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "桐生可可",
+      "tag": "kiryu coco",
+      "charZh": "桐生可可（hololive）",
+      "auto": "orange hair|橙发;long hair|长发;dragon tail|龙尾;horns|角",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "润羽露西娅",
+      "tag": "uruha rushia",
+      "charZh": "润羽露西娅（hololive）",
+      "auto": "green hair|绿发;long hair|长发;very long hair|超长发",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "库蕾吉·奥莉",
+      "tag": "kureiji ollie",
+      "charZh": "库蕾吉·奥莉（hololive）",
+      "auto": "white hair|白发;long hair|长发;tattoo|纹身",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "阿妮娅·梅尔菲莎",
+      "tag": "anya melfissa",
+      "charZh": "阿妮娅·梅尔菲莎（hololive）",
+      "auto": "black hair|黑发;long hair|长发;animal ears|兽耳",
+      "subName": ""
+    },
+    {
+      "game": "hololive",
+      "gameTag": "hololive",
+      "name": "帕沃莉亚·蕾娜",
+      "tag": "pavolia reine",
+      "charZh": "帕沃莉亚·蕾娜（hololive）",
+      "auto": "blue hair|蓝发;long hair|长发;feather hair ornament|羽毛发饰",
+      "subName": ""
+    },
+    {
+      "name": "狮白牡丹",
+      "tag": "shishiro botan",
+      "charZh": "狮白牡丹",
+      "game": "hololive",
+      "gameTag": "hololive",
+      "auto": "1girl|一个女孩;lion girl|狮子娘;lion ears|狮耳;ear piercing|耳钉;lion tail|狮子尾巴;grey eyes|灰瞳;hair between eyes|眼间发;grey hair|灰发;long hair|长发;official alternate hairstyle|官方换发型;ahoge|呆毛;two side up|半扎双马尾;small breasts|小胸;cleavage|乳沟;navel|肚脐;bare shoulders|露肩;virtual youtuber|虚拟主播;black nails|黑色指甲;nail polish|指甲油"
+    },
+    {
+      "name": "拉普拉斯·达克尼斯",
+      "tag": "la+ darknesss",
+      "charZh": "拉普拉斯·达克尼斯",
+      "game": "hololive",
+      "gameTag": "hololive",
+      "auto": "1girl|一个女孩;demon horns|恶魔角;demon girl|恶魔娘;pointy ears|尖耳;striped horns|条纹角;black horns|黑色角;tail|尾巴;yellow eyes|黄瞳;hair between eyes|眼间发;streaked hair|挑染;purple hair|紫发;grey hair|灰发;very long hair|超长发;long hair|长发;ahoge|呆毛;braid|单辫;braided bangs|编发刘海;small breasts|小胸;long sleeves|长袖;virtual youtuber|虚拟主播"
+    },
+    {
+      "name": "紫咲诗音",
+      "tag": "murasaki shion",
+      "charZh": "紫咲诗音",
+      "game": "hololive",
+      "gameTag": "hololive",
+      "auto": "1girl|一个女孩;cat ears|猫耳;yellow eyes|黄瞳;short eyebrows|短眉毛;grey hair|灰发;long hair|长发;single hair bun|单发髻;arched bangs|拱形刘海;blunt bangs|齐刘海;single side bun|单侧丸子头;sidelocks|鬓发;twintails|双马尾;hairband|发箍;small breasts|小胸;navel|肚脐;long sleeves|长袖;virtual youtuber|虚拟主播"
+    },
+    {
+      "name": "百鬼绫目",
+      "tag": "nakiri ayame",
+      "charZh": "百鬼绫目",
+      "game": "hololive",
+      "gameTag": "hololive",
+      "auto": "1girl|一个女孩;oni|鬼;oni horns|鬼角;skin-covered horns|皮肤覆盖的角;fang|虎牙;red eyes|红瞳;streaked hair|挑染;red hair|红发;long hair|长发;white hair|白发;gradient hair|渐变发;grey hair|灰发;double bun|双丸子头;small breasts|小胸;long sleeves|长袖;bare shoulders|露肩;virtual youtuber|虚拟主播"
+    },
+    {
+      "name": "咚酱",
+      "tag": "don-chan (usada pekora)",
+      "charZh": "咚酱",
+      "game": "hololive",
+      "gameTag": "hololive",
+      "auto": "1girl|一个女孩;rabbit ears|兔耳;animal ear fluff|兽耳绒毛;red eyes|红瞳;orange eyes|橙瞳;hair between eyes|眼间发;thick eyebrows|浓眉;short eyebrows|短眉毛;rabbit-shaped pupils|兔形瞳孔;blue hair|蓝发;white hair|白发;long hair|长发;two-tone hair|双色发;carrot hair ornament|胡萝卜发饰;twin braids|双辫;twintails|双马尾;small breasts|小胸;medium breasts|中等胸;cleavage|乳沟;black gloves|黑色手套;fur-trimmed gloves|毛边手套;black leotard|黑色连体衣;white dress|白色连衣裙;black pantyhose|黑色连裤袜;detached sleeves|分离袖;bare shoulders|露肩;puffy short sleeves|泡泡短袖;virtual youtuber|虚拟主播;rabbit girl|兔娘"
+    },
+    {
+      "name": "章鱼哥",
+      "tag": "takodachi (ninomae ina'nis)",
+      "charZh": "章鱼哥",
+      "game": "hololive",
+      "gameTag": "hololive",
+      "auto": "1girl|一个女孩;pointy ears|尖耳;blue eyes|蓝瞳;purple eyes|紫瞳;mole under eye|眼下泪痣;purple hair|紫发;tentacle hair|触手头发;gradient hair|渐变发;orange hair|橙发;very long hair|超长发;blunt bangs|齐刘海;sidelocks|鬓发;halo|光环;virtual youtuber|虚拟主播;tentacles|触手"
+    },
+    {
+      "name": "芙瓦瓦·阿比斯加德",
+      "tag": "fuwawa abyssgard",
+      "charZh": "芙瓦瓦·阿比斯加德",
+      "game": "hololive",
+      "gameTag": "hololive",
+      "auto": "1girl|一个女孩;dog girl|犬娘;dog ears|狗耳;animal ear fluff|兽耳绒毛;dog tail|狗尾;pink eyes|粉瞳;hair between eyes|眼间发;blonde hair|金发;streaked hair|挑染;blue hair|蓝发;long hair|长发;bandaid hair ornament|创可贴发饰;two side up|半扎双马尾;hairclip|发夹;small breasts|小胸;cleavage|乳沟;bandaid|创可贴;black collar|黑色衣领;virtual youtuber|虚拟主播;blue nails|蓝色指甲"
+    },
+    {
+      "name": "莫可可·阿比斯加德",
+      "tag": "mococo abyssgard",
+      "charZh": "莫可可·阿比斯加德",
+      "game": "hololive",
+      "gameTag": "hololive",
+      "auto": "1girl|一个女孩;dog girl|犬娘;skin fang|肤色虎牙;dog ears|狗耳;animal ear fluff|兽耳绒毛;dog tail|狗尾;blue eyes|蓝瞳;hair between eyes|眼间发;blonde hair|金发;pink hair|粉发;streaked hair|挑染;short hair|短发;x hair ornament|X形发饰;bandaid hair ornament|创可贴发饰;pink hairband|粉色发箍;crossed bangs|交叉刘海;two side up|半扎双马尾;double-parted bangs|双分刘海;hair intakes|内卷发;small breasts|小胸;navel|肚脐;bandaid|创可贴;white shirt|白衬衫;black collar|黑色衣领;virtual youtuber|虚拟主播"
+    },
+    {
+      "name": "赤井心",
+      "tag": "akai haato",
+      "charZh": "赤井心",
+      "game": "hololive",
+      "gameTag": "hololive",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;aqua eyes|青绿色眼睛;hair between eyes|眼间发;blonde hair|金发;very long hair|超长发;official alternate hairstyle|官方换发型;heart hair ornament|心形发饰;two side up|半扎双马尾;hair ribbon|发带;small breasts|小胸;red ribbon|红色缎带;virtual youtuber|虚拟主播;one side up|单侧扎发"
+    },
+    {
+      "name": "妮莉莎·雷文克罗夫特",
+      "tag": "nerissa ravencroft",
+      "charZh": "妮莉莎·雷文克罗夫特",
+      "game": "hololive",
+      "gameTag": "hololive",
+      "auto": "1girl|一个女孩;demon horns|恶魔角;asymmetrical horns|不对称的角;uneven horns|不对称角;red eyes|红瞳;mole under eye|眼下泪痣;black hair|黑发;colored inner hair|挂耳染;blue hair|蓝发;two-tone hair|双色发;very long hair|超长发;long hair|长发;hair ornament|发饰;small breasts|小胸;bare shoulders|露肩;virtual youtuber|虚拟主播"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "quintessential_quintuplets",
+  "name": "五等分的新娘",
+  "parentId": "anime",
+  "order": 23,
+  "file": "anime/quintessential_quintuplets.json",
+  "characters": [
+    {
+      "game": "五等分的新娘",
+      "gameTag": "anime",
+      "name": "中野一花",
+      "tag": "nakano ichika",
+      "charZh": "中野一花（五等分的新娘）",
+      "auto": "pink hair|粉发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "五等分的新娘",
+      "gameTag": "anime",
+      "name": "中野二乃",
+      "tag": "nakano nino",
+      "charZh": "中野二乃（五等分的新娘）",
+      "auto": "pink hair|粉发;long hair|长发;blue eyes|蓝瞳;hair ribbon|发带",
+      "subName": ""
+    },
+    {
+      "game": "五等分的新娘",
+      "gameTag": "anime",
+      "name": "中野三玖",
+      "tag": "nakano miku",
+      "charZh": "中野三玖（五等分的新娘）",
+      "auto": "brown hair|棕发;medium hair|中长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "五等分的新娘",
+      "gameTag": "anime",
+      "name": "中野四叶",
+      "tag": "nakano yotsuba",
+      "charZh": "中野四叶（五等分的新娘）",
+      "auto": "orange hair|橙发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "五等分的新娘",
+      "gameTag": "anime",
+      "name": "中野五月",
+      "tag": "nakano itsuki",
+      "charZh": "中野五月（五等分的新娘）",
+      "auto": "red hair|红发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    }
+  ],
+  "count": 5
+}

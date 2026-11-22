@@ -1,0 +1,6677 @@
+{
+  "id": "tools",
+  "name": "工具",
+  "icon": "🔧",
+  "parentId": "props_group",
+  "level": 2,
+  "order": 3,
+  "file": "props_group/props_group_tools.json",
+  "updatedAt": "2026-11-22T12:39:36.691Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "brush",
+      "zh": "画笔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 943,
+      "desc": "用于梳理头发、绘画、清洁或化妆的工具，形状多样",
+      "kw": "工具 / 清洁用品"
+    },
+    {
+      "en": "shoulder phone",
+      "zh": "肩背式电话",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "hair straightener",
+      "zh": "直发夹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 215,
+      "desc": "用热量把卷发拉直的电器。",
+      "kw": "直发器 / 直发夹板 / 电夹板 / 拉直板 / 离子夹 / 美容工具 / 电器 / straightening iron"
+    },
+    {
+      "en": "thimble",
+      "zh": "顶针",
+      "rating": "g",
+      "nsfw": false,
+      "count": 44
+    },
+    {
+      "en": "mp3 player",
+      "zh": "MP3播放器",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5814,
+      "desc": "便携式数字音频播放器。",
+      "kw": "MP3 / MP3随身听 / 便携式音乐播放器 / 数字音乐播放器 / 随身听 / 电子产品 / 音乐播放器"
+    },
+    {
+      "en": "pencil case",
+      "zh": "笔袋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2078,
+      "desc": "学生装笔和文具的盒子或袋子",
+      "kw": "笔盒 / 文具盒 / 铅笔袋 / 文具袋 / 笔箱 / 文具 / 学校用品"
+    },
+    {
+      "en": "pop socket",
+      "zh": "气囊支架",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28
+    },
+    {
+      "en": "fishing rod",
+      "zh": "钓竿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7401,
+      "desc": "带线钩用来钓鱼的竿",
+      "kw": "鱼竿 / 钓鱼杆 / 鱼杆 / 钓具 / 道具 / fishing pole / 釣り竿 / 釣竿"
+    },
+    {
+      "en": "telescope",
+      "zh": "望远镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2133,
+      "desc": "用于观察远处物体的光学仪器。",
+      "kw": "天文望远镜 / 单筒望远镜 / 望远装置 / 仪器 / 光学设备 / 望远镜（天文） / 望遠鏡 / テレスコープ / 望远镜(天文)"
+    },
+    {
+      "en": "binoculars",
+      "zh": "双筒望远镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5142,
+      "desc": "并排双筒的望远镜",
+      "kw": "双筒镜 / 双筒望远 / 双筒目镜 / 双筒望远装置 / 双筒观剧镜 / 双筒 / 双眼镜 / 望远镜 / 望远镜（双筒） / 双眼鏡 / 望远镜(双筒)"
+    },
+    {
+      "en": "magnifying glass",
+      "zh": "放大镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4479,
+      "desc": "带手柄的凸透镜，用于放大物体。",
+      "kw": "凸透镜 / 放大镜片 / 手持放大镜 / 扩镜 / 虫眼镜 / 工具 / magnifying glasses / 扩大镜 / 拡大鏡 / ルーペ"
+    },
+    {
+      "en": "lighter",
+      "zh": "打火机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3172,
+      "desc": "小型手持点火工具，常用于点烟。",
+      "kw": "火机 / 打火器 / 点烟器 / 工具 / 道具 / ライター"
+    },
+    {
+      "en": "matchsticks",
+      "zh": "火柴",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "watering can",
+      "zh": "洒水壶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3919,
+      "desc": "带长嘴和提手、用于给花草浇水的壶",
+      "kw": "浇水壶 / 喷壶 / 浇花壶 / 花洒壶 / 如雨露 / 洒水器 / 浇花喷壶 / 园艺工具 / watering pot / watering pail / じょうろ / ジョウロ"
+    },
+    {
+      "en": "bucket",
+      "zh": "水桶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21171,
+      "desc": "带提手的圆筒形容器",
+      "kw": "提桶 / 吊桶 / 木桶 / 塑料桶 / 铁桶 / 桶子 / 桶 / 容器 / pail / バケツ"
+    },
+    {
+      "en": "ladder",
+      "zh": "梯子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5271,
+      "desc": "两根立柱间架横档的攀爬工具",
+      "kw": "扶梯 / 登高梯 / 工具 / 建筑 / はしご / ハシゴ"
+    },
+    {
+      "en": "needle",
+      "zh": "缝衣针",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6133,
+      "desc": "细长带尖的工具，用于缝纫、编织或投掷",
+      "kw": "编织针 / 缝纫针 / 针头 / 细针 / 毛线针 / 工具 / needles"
+    },
+    {
+      "en": "thread",
+      "zh": "线团",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2884,
+      "desc": "用于缝纫、刺绣或编织的细长纤维线",
+      "kw": "线 / 缝线 / 针线 / 绣花线 / 纺织线 / 纱线 / 细线 / 物品 / threads"
+    },
+    {
+      "en": "sewing machine",
+      "zh": "缝纫机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 446,
+      "desc": "以机械驱动针来缝制布料的机器。",
+      "kw": "缝衣机 / 针车 / 车缝机 / 缝纫设备 / 家用电器 / 工具 / ミシン"
+    },
+    {
+      "en": "electric fan",
+      "zh": "电风扇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6357,
+      "desc": "用电动叶片送风",
+      "kw": "电扇 / 风扇 / 电动风扇 / 台扇 / 落地扇 / 吊扇 / 家电 / fan (electric) / 扇风机 / 扇風機"
+    },
+    {
+      "en": "air conditioner",
+      "zh": "空调",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3223,
+      "desc": "向室内吹送冷气降温的机器",
+      "kw": "冷气机 / 冷气 / 空调机 / 空调器 / 空气调节器 / 制冷机 / 空调设备 / 空调外机 / aircon / a/c / エアコン / 室外機"
+    },
+    {
+      "en": "smartphone",
+      "zh": "智能手机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120302,
+      "desc": "以触摸屏为主的掌上智能设备",
+      "kw": "手机 / 智能机 / 智慧型手机 / 触屏手机 / 电子产品 / smart phone / スマートフォン / スマホ"
+    },
+    {
+      "en": "laptop",
+      "zh": "笔记本电脑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11926,
+      "desc": "便于携带的个人电脑。",
+      "kw": "笔记本 / 手提电脑 / 笔电 / 便携电脑 / 膝上电脑 / 电脑 / 电子产品 / ノートパソコン / ラップトップ"
+    },
+    {
+      "en": "camera",
+      "zh": "相机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32953,
+      "desc": "拍摄静态照片的相机",
+      "kw": "照相机 / 摄影机 / 数码相机 / 单反 / 傻瓜相机 / 摄影设备 / カメラ"
+    },
+    {
+      "en": "microphone",
+      "zh": "麦克风",
+      "rating": "g",
+      "nsfw": false,
+      "count": 74412,
+      "desc": "用于录音或扩音的麦克风",
+      "kw": "话筒 / 麦克 / 扩音器 / 咪高峰 / 麦 / 无线麦克风 / 道具 / mic / マイク"
+    },
+    {
+      "en": "pen",
+      "zh": "钢笔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30943,
+      "desc": "用墨水书写或绘画的笔",
+      "kw": "笔 / 墨水笔 / 签字笔 / 写字笔 / 文具 / 书写工具 / ペン / 펜 / 筆"
+    },
+    {
+      "en": "pencil",
+      "zh": "铅笔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16364,
+      "desc": "笔芯通常为石墨的木杆铅笔",
+      "kw": "石墨铅笔 / 木杆铅笔 / 铅笔头 / HB铅笔 / 文具 / 道具"
+    },
+    {
+      "en": "paintbrush",
+      "zh": "画笔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20158,
+      "desc": "各类画笔的统称，需搭配具体笔种标签",
+      "kw": "画刷 / 油漆刷 / 画笔刷 / 绘画用笔 / 彩绘笔 / 颜料刷 / 油刷 / 涂刷笔 / paint brush / 画筆 / がひつ"
+    },
+    {
+      "en": "computer mouse",
+      "zh": "鼠标",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5816,
+      "desc": "用于控制光标指针的鼠标。",
+      "kw": "光电鼠标 / 无线鼠标 / 电脑配件 / 电子产品 / mouse (computer) / マウス"
+    },
+    {
+      "en": "hairbrush",
+      "zh": "发刷",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "flashlight",
+      "zh": "手电筒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3059,
+      "desc": "靠电池供电的手持照明工具",
+      "kw": "手电 / 电筒 / 强光手电 / 电棒 / 照明手电 / 工具 / 照明 / electric torch / 懐中电灯 / 懐中電灯"
+    },
+    {
+      "en": "broom",
+      "zh": "扫帚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 42784,
+      "desc": "长柄一端带刷毛的扫帚。",
+      "kw": "扫把 / 笤帚 / 扫箒 / 地扫 / 长柄扫帚 / 清洁工具 / broomstick / ほうき / 箒 / ホウキ"
+    },
+    {
+      "en": "mop",
+      "zh": "拖把",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4711,
+      "desc": "末端带海绵或布条，用于擦地的清洁工具。",
+      "kw": "地拖 / 墩布 / 拖布 / 擦地刷 / 海绵拖把 / 清洁工具 / モップ"
+    },
+    {
+      "en": "toolbox",
+      "zh": "工具箱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 840,
+      "desc": "收纳工具用的箱子",
+      "kw": "工具盒 / 工具柜 / 工具包 / 工具 / 容器"
+    },
+    {
+      "en": "hammer",
+      "zh": "锤子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15737,
+      "desc": "敲击钉子或锻造用的锤子",
+      "kw": "锤 / 铁锤 / 榔头 / 锤头 / 钉锤 / 木槌 / 石锤 / 金工锤 / 金槌 / ハンマー / 槌 / 鎚"
+    },
+    {
+      "en": "screwdriver",
+      "zh": "螺丝刀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2117,
+      "desc": "用于旋紧或松开螺丝的手工具。",
+      "kw": "螺丝起子 / 改锥 / 起子 / 螺丝批 / 工具 / screw driver / ドライバー"
+    },
+    {
+      "en": "knife",
+      "zh": "小刀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 92660,
+      "desc": "带短刃和手柄的刀",
+      "kw": "刀子 / 匕首 / 短刀 / 刀具 / 利刃 / 食物 / knives / ナイフ"
+    },
+    {
+      "en": "comb",
+      "zh": "梳子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4032,
+      "desc": "一排细齿的梳头工具。",
+      "kw": "梳篦 / 篦子 / 发梳 / 理发梳 / 梳妆 / 工具 / hair comb / 櫛"
+    },
+    {
+      "en": "hair brush",
+      "zh": "发刷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3861,
+      "desc": "用于梳理头发或动物毛的刷子",
+      "kw": "梳子 / 发梳 / 毛刷 / 理发刷 / 头发刷 / 鬃毛梳 / 梳妆 / hairbrush / ヘアブラシ"
+    },
+    {
+      "en": "hair dryer",
+      "zh": "吹风机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2095,
+      "desc": "吹干和打理头发的手持电器",
+      "kw": "电吹风 / 风筒 / 吹风筒 / 干发器 / 吹头发机 / 热风机 / 电器 / 工具 / hairdryer / blowdryer / blow dryer / ヘアドライヤー"
+    },
+    {
+      "en": "curling iron",
+      "zh": "卷发棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 210,
+      "desc": "加热后给头发造型的卷发棒",
+      "kw": "电卷棒 / 卷发器 / 电卷发棒 / 卷发钳 / 美发工具 / 电器"
+    },
+    {
+      "en": "scissors",
+      "zh": "剪刀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14550,
+      "desc": "手持双刃剪切工具。",
+      "kw": "剪子 / 铰剪 / 剪 / 剪刀工具 / 双刃剪 / 工具 / 物品 / scissor / ハサミ / はさみ"
+    },
+    {
+      "en": "hair clipper",
+      "zh": "理发推子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 198,
+      "desc": "带限位梳可调长度的理发推子。",
+      "kw": "推子 / 理发器 / 电推剪 / 电推子 / 剪发器 / 理发剪 / 工具 / 理发 / trimmer"
+    },
+    {
+      "en": "straight razor",
+      "zh": "直剃刀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 135,
+      "desc": "刀片与手柄成一直线的传统剃刀。",
+      "kw": "直式剃刀 / 传统剃刀 / 折叠剃刀 / 修面剃刀 / 老式剃刀 / 割喉剃刀 / 剃刀 / 直刃剃刀"
+    },
+    {
+      "en": "weapon",
+      "zh": "武器",
+      "rating": "g",
+      "nsfw": false,
+      "count": 833351,
+      "desc": "手持武器，不包括大炮等",
+      "kw": "兵器 / 武装 / 凶器 / 兵刃 / 道具 / weapons"
+    },
+    {
+      "en": "makeup brush",
+      "zh": "化妆刷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1846,
+      "desc": "用于涂抹眼影、腮红等化妆品的刷子",
+      "kw": "化妆笔刷 / 彩妆刷 / 粉刷 / 腮红刷 / 眼影刷 / 化妆用刷 / 美容刷 / 化妆扫"
+    },
+    {
+      "en": "hair rollers",
+      "zh": "卷发筒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 377,
+      "desc": "卷头发用的圆筒卷发器",
+      "kw": "卷发器 / 发卷 / 卷发卷 / 发筒 / 塑料发卷 / 卷发滚筒 / 卷发用筒 / 发饰 / curlers"
+    },
+    {
+      "en": "baking sheet",
+      "zh": "烤盘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 644,
+      "desc": "烤饼干等用的平底金属烤盘",
+      "kw": "烘焙烤盘 / 饼干烤盘 / 烤箱烤盘 / 烤板 / 厨具 / 烘焙工具 / cookie sheet / sheet pan / baking tray"
+    },
+    {
+      "en": "bamboo steamer",
+      "zh": "蒸笼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2424,
+      "desc": "蒸点心用的竹蒸笼",
+      "kw": "竹制蒸笼 / 蒸屉 / 竹蒸屉 / 蒸笼屉 / 竹子蒸笼 / 厨具 / 中国风 / 蒸篭 / 蒸し器"
+    },
+    {
+      "en": "cake pan",
+      "zh": "蛋糕模具",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "coffee grinder",
+      "zh": "磨豆机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 272,
+      "desc": "把烘焙咖啡豆磨成粉的器具",
+      "kw": "磨咖啡机 / 咖啡磨 / 咖啡豆研磨机 / 手动咖啡研磨机 / 厨具 / 咖啡器具"
+    },
+    {
+      "en": "cookie cutter",
+      "zh": "饼干模具",
+      "rating": "g",
+      "nsfw": false,
+      "count": 164,
+      "desc": "压出曲奇形状的模具切刀",
+      "kw": "曲奇模具 / 饼干切刀 / 曲奇切割器 / 曲奇压模 / 饼干压模 / 曲奇定型切刀 / 模具 / cookie cutters"
+    },
+    {
+      "en": "cutting board",
+      "zh": "砧板",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2528,
+      "desc": "切食材用的砧板",
+      "kw": "菜板 / 案板 / 切菜板 / 厨具 / 厨房 / chopping board / まな板"
+    },
+    {
+      "en": "dough scraper",
+      "zh": "面团刮刀/切面刀",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "spork",
+      "zh": "叉勺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 932,
+      "desc": "末端带短齿的叉勺两用餐具。",
+      "kw": "叉匙 / 餐叉勺 / 叉子勺子 / 两用餐叉勺 / 勺叉 / 餐具 / 先割れスプーン / 스포크"
+    },
+    {
+      "en": "tamagoyaki pan",
+      "zh": "玉子烧锅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "制作玉子烧用的长方形煎锅",
+      "kw": "玉子烧煎锅 / 长方形煎锅 / 卷蛋锅 / 玉子烧平底锅 / 玉子烧方锅 / rectangular frying pan / makiyakinabe"
+    },
+    {
+      "en": "grater",
+      "zh": "擦丝器",
+      "rating": "g",
+      "nsfw": false,
+      "count": 137,
+      "desc": "厨房用具，将食物刨成丝或末",
+      "kw": "擦菜板 / 刨丝板 / 磨碎器 / 芝士刨丝器 / 起司刨丝器 / 厨具 / 厨房用品 / cheese grater / hand grater"
+    },
+    {
+      "en": "griddle",
+      "zh": "铁板烧烤盘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 204,
+      "desc": "用于煎烤食物的大型平铁板",
+      "kw": "铁板烧 / 煎盘 / 烤盘 / 平铁板 / 铁板台 / 饼铛 / 厨具 / 煎锅 / 鉄板 / 鉄板焼き"
+    },
+    {
+      "en": "grill",
+      "zh": "烤架",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1788,
+      "desc": "用金属栅格烧烤食物的烤架。",
+      "kw": "烧烤架 / 烧烤炉 / 烤炉 / 烧烤网架 / 烤肉架 / 炭火烤架 / 户外烤架 / 厨具 / barbecue (object) / bbq (object)"
+    },
+    {
+      "en": "shichirin",
+      "zh": "七轮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 348,
+      "desc": "日本传统小型炭火烤炉",
+      "kw": "七轮烤炉 / 日式炭炉 / 炭火炉 / 七厘炉 / 小型炭炉 / 七轮泥炉 / 厨具 / 日本风 / 七輪"
+    },
+    {
+      "en": "honey dipper",
+      "zh": "蜂蜜搅拌棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 230,
+      "desc": "用来舀蜂蜜的带槽木勺。",
+      "kw": "蜂蜜棒 / 取蜜勺 / 蜂巢勺 / 蜂蜜木勺 / 沾蜜棒 / 厨具 / 工具"
+    },
+    {
+      "en": "hot plate",
+      "zh": "电热盘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 59,
+      "desc": "小型便携电热板，可加热食物或烧水。",
+      "kw": "电炉 / 电热炉 / 便携电炉 / 加热板 / 小型电炉"
+    },
+    {
+      "en": "ice cream scoop (utensil)",
+      "zh": "冰淇淋勺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 111,
+      "desc": "挖取冰淇淋球用的半球形勺具",
+      "kw": "冰淇淋挖勺 / 冰激凌勺 / 雪糕勺 / 挖冰淇淋勺 / 冰淇淋球勺 / 冰激凌挖球器 / 冰淇淋杓 / 冰淇淋勺(器具) / ice cream scoop"
+    },
+    {
+      "en": "kitchen scale",
+      "zh": "厨房秤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 116,
+      "desc": "烹饪烘焙时称量食材的厨房秤",
+      "kw": "厨房电子秤 / 料理秤 / 烘焙秤 / 厨房用秤 / 食品秤 / 秤 / 厨具 / kitchen scales"
+    },
+    {
+      "en": "butter knife",
+      "zh": "黄油刀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 441,
+      "desc": "用于涂抹黄油的钝刃刀。",
+      "kw": "奶油刀 / 抹黄油刀 / 涂黄油刀 / 餐刀 / 厨具 / 刀具"
+    },
+    {
+      "en": "cleaver",
+      "zh": "剁刀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2133,
+      "desc": "方形刀身的剁骨刀。",
+      "kw": "砍刀 / 斩骨刀 / 骨刀 / 方刀 / 剁肉刀 / 厨具 / 刀具 / 肉切り包丁"
+    },
+    {
+      "en": "ladle",
+      "zh": "长柄勺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8570,
+      "desc": "舀取液体的长柄勺",
+      "kw": "汤勺 / 舀勺 / 大汤勺 / 杓子 / 汤瓢 / 厨具 / おたま"
+    },
+    {
+      "en": "makisu",
+      "zh": "寿司帘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "mandoline (utensil)",
+      "zh": "切片刨丝器",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "measuring cup",
+      "zh": "量杯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 222,
+      "desc": "侧面印有刻度、用于准确量取食材或液体的杯子。",
+      "kw": "计量杯 / 刻度量杯 / 量米杯 / 测量杯 / 厨房量杯 / 带刻度的杯子 / 厨具 / 容器 / 計量カップ"
+    },
+    {
+      "en": "meat grinder",
+      "zh": "绞肉机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "microwave",
+      "zh": "微波炉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1352,
+      "desc": "利用微波加热食物的电器",
+      "kw": "微波烤箱 / 微波加热器 / 家电 / 厨房用品 / 電子レンジ"
+    },
+    {
+      "en": "mixer (cooking)",
+      "zh": "搅拌机（烹饪）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 142,
+      "desc": "厨房用电动搅拌机",
+      "kw": "电动搅拌机 / 厨房搅拌机 / 食物搅拌器 / 料理机 / 料理搅拌器 / 打蛋机 / 搅拌机 (烹饪) / 厨具"
+    },
+    {
+      "en": "oven",
+      "zh": "烤箱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1213,
+      "desc": "用于烘焙、烤制、加热的封闭式炉腔",
+      "kw": "烤炉 / 焗炉 / 烘炉 / 电烤箱 / 烘焙箱 / 家电 / 厨房器具 / 天火"
+    },
+    {
+      "en": "brick oven",
+      "zh": "砖炉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 79,
+      "desc": "用耐火砖砌成的烤炉。",
+      "kw": "砖砌烤炉 / 砖窑烤炉 / 红砖烤炉 / 耐火砖烤炉 / 砖制烤箱"
+    },
+    {
+      "en": "pastry bag",
+      "zh": "裱花袋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1746,
+      "desc": "挤奶油裱花用的锥形袋子",
+      "kw": "奶油袋 / 挤花袋 / 糕点袋 / 挤奶油袋 / 花嘴袋 / 裱花嘴袋 / 烘焙工具 / 厨具 / frosting bag / piping bag"
+    },
+    {
+      "en": "peel (tool)",
+      "zh": "披萨铲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 65,
+      "desc": "面包师把面包披萨送进烤炉的长柄铲",
+      "kw": "烤炉铲 / 长柄烤炉铲 / 面包铲 / 披萨长柄铲 / 送饼铲 / 烤盘铲 / 披萨木铲 / pizza peel / pizza spatula / pizza shovel"
+    },
+    {
+      "en": "peeler",
+      "zh": "削皮器",
+      "rating": "g",
+      "nsfw": false,
+      "count": 53,
+      "desc": "用于削去果蔬外皮的工具。",
+      "kw": "剥皮器 / 削皮刀 / 果蔬削皮器 / 去皮器 / 刮皮器"
+    },
+    {
+      "en": "cauldron",
+      "zh": "大釜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1546,
+      "desc": "架在火上加热的大金属锅",
+      "kw": "大铁锅 / 坩埚 / 巫婆锅 / 魔法锅 / 煮锅 / 厨具 / 大鍋"
+    },
+    {
+      "en": "refrigerator",
+      "zh": "冰箱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4253,
+      "desc": "冷藏食物、带门与层架的家电冰箱",
+      "kw": "电冰箱 / 雪柜 / 冷藏柜 / 冷藏室 / 冰柜 / 冷冻冰箱 / 家电 / 家具 / fridge / 冷蔵库 / 冷蔵庫"
+    },
+    {
+      "en": "rolling pin",
+      "zh": "擀面杖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 500,
+      "desc": "把面团擀平的圆柱形擀面杖",
+      "kw": "擀面棍 / 擀面棒 / 面棍 / 面杖 / 擀面柱 / 撖面杖 / 厨具 / 工具 / 面棒 / 麺棒 / めんぼう / 밀방망이"
+    },
+    {
+      "en": "serving dome",
+      "zh": "餐盖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 343,
+      "desc": "上菜时使用的金属圆顶盖",
+      "kw": "餐盘盖 / 上菜罩 / 保温罩 / 圆顶餐盖 / 银罩 / 餐具 / 厨具 / cloche (tableware) / クロッシュ"
+    },
+    {
+      "en": "sink",
+      "zh": "水槽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5659,
+      "desc": "用于洗手或洗涤的盆状洁具，通常带水龙头和排水口。",
+      "kw": "洗手台 / 洗手盆 / 洗脸台 / 洗面台 / 盥洗盆 / 水池 / 洗手池 / 卫浴 / 洗面器"
+    },
+    {
+      "en": "sizzler plate",
+      "zh": "铁板烧盘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 83,
+      "desc": "上桌前加热的铸铁铁板烧餐盘，常配木托",
+      "kw": "铁板餐盘 / 滋滋盘 / 热铁板盘 / 铁板托盘 / 铁板烧餐盘 / 铸铁铁板烧盘"
+    },
+    {
+      "en": "soda fountain",
+      "zh": "汽水机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43
+    },
+    {
+      "en": "spatula",
+      "zh": "锅铲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5058,
+      "desc": "用于翻面或盛取食物的平头厨房用具。",
+      "kw": "锅铲子 / 煎铲 / 平头铲 / 炒菜铲 / 铲子 / 厨具 / 厨房用品 / へら / フライ返し"
+    },
+    {
+      "en": "serving spatula",
+      "zh": "蛋糕铲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15
+    },
+    {
+      "en": "shamoji",
+      "zh": "饭勺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 991,
+      "desc": "日式搅拌和盛饭用的大饭勺",
+      "kw": "饭铲 / 饭匙 / 木饭勺 / 盛饭勺 / 日式饭勺 / 厨具 / 日本风格 / rice spoon / rice paddle / しゃもじ / 杓文字"
+    },
+    {
+      "en": "chinese spoon",
+      "zh": "散莲花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 259,
+      "desc": "短柄深勺的中式汤匙，又称调羹",
+      "kw": "中国汤匙 / 调羹 / 汤勺 / 中式勺子 / 中国勺子 / 瓷汤匙 / 短柄汤匙 / 散莲华 / 散蓮華 / 調羹 / レンゲ(食器)"
+    },
+    {
+      "en": "stove",
+      "zh": "炉灶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2928,
+      "desc": "厨房烹饪用炉灶",
+      "kw": "灶台 / 煤气灶 / 燃气灶 / 火炉 / 炉子 / 厨房灶具 / 厨具 / 家电 / コンロ / ガス台 / ガスレンジ"
+    },
+    {
+      "en": "toaster",
+      "zh": "烤面包机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 396,
+      "desc": "烤面包片用的小型电器。",
+      "kw": "面包机 / 吐司机 / 多士炉 / 烤土司机 / 面包烘烤器 / 厨房电器 / 家电 / トースター"
+    },
+    {
+      "en": "tongs",
+      "zh": "夹子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1992,
+      "desc": "两根长臂相连的夹取工具，如食品夹、火钳",
+      "kw": "钳子 / 长柄钳 / 火钳 / 食品夹 / 烧烤夹 / 火夹 / 食物夹 / トング / 火ばさみ"
+    },
+    {
+      "en": "tokoroten-tsuki",
+      "zh": "心太推条器",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "utensil rack",
+      "zh": "厨具架",
+      "rating": "g",
+      "nsfw": false,
+      "count": 104,
+      "desc": "挂放汤勺锅铲等厨具的壁挂架。",
+      "kw": "厨房器具架 / 锅铲架 / 挂厨具架 / 壁挂厨具架 / 厨具挂架 / 餐具架 / 厨房用具"
+    },
+    {
+      "en": "whisk",
+      "zh": "打蛋器",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4467,
+      "desc": "由金属丝圈制成的厨房打蛋工具。",
+      "kw": "蛋抽 / 搅拌器 / 手动打蛋器 / 钢丝打蛋器 / 打蛋帚 / 搅蛋器 / 厨具 / 厨房用品 / eggbeater / ホイッパー / 泡立て器"
+    },
+    {
+      "en": "wok",
+      "zh": "炒锅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1146,
+      "desc": "圆底的中式炒锅，用于翻炒烹饪。",
+      "kw": "中华锅 / 中式炒锅 / 镬 / 铁锅 / 圆底锅 / 炒菜锅 / 广东镬 / 厨具 / 鑊 / 炒鍋 / 中華鍋"
+    },
+    {
+      "en": "nail polish brush",
+      "zh": "指甲油刷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 282,
+      "desc": "涂抹指甲油用的小刷子",
+      "kw": "指甲油刷子 / 美甲刷 / 指甲油笔刷 / 涂甲油刷 / 甲油涂抹刷 / 化妆品 / 工具"
+    },
+    {
+      "en": "frying pan",
+      "zh": "平底锅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6800,
+      "desc": "平底用于煎炒食物的锅",
+      "kw": "煎锅 / 煎盘 / 平底煎锅 / 平底炒锅 / 煎锅子 / 厨具 / 炊具 / cooking pan / skillet / フライパン / 프라이팬"
+    },
+    {
+      "en": "rice cooker",
+      "zh": "电饭煲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 652,
+      "desc": "能自动煮饭的电饭锅",
+      "kw": "电锅 / 饭锅 / 煮饭锅 / 电锅子 / 电子锅 / 厨具 / 家电 / 炊饭器 / 炊飯器"
+    },
+    {
+      "en": "accordion",
+      "zh": "手风琴",
+      "rating": "g",
+      "count": 394,
+      "desc": "靠推拉矩形风箱发声、一侧带琴键的乐器",
+      "kw": "手拉风琴 / 键盘式手风琴 / 风琴 / 手风琴演奏 / 手风琴乐器 / 乐器 / アコーディオン"
+    },
+    {
+      "en": "acoustic guitar",
+      "zh": "原声吉他",
+      "rating": "g",
+      "count": 3045,
+      "desc": "靠共鸣箱发声的原声吉他",
+      "kw": "木吉他 / 民谣吉他 / 古典吉他 / 空心吉他 / 不插电吉他 / 乐器 / アコギ"
+    },
+    {
+      "en": "adapted turret",
+      "zh": "改装炮塔",
+      "rating": "g",
+      "count": 2260,
+      "desc": "由舰炮炮塔改装而成的枪械",
+      "kw": "舰炮改造枪 / 炮塔改装 / 舰炮炮塔改造 / 改装舰炮 / 炮塔改枪 / 改造炮塔 / 武器 / 炮塔"
+    },
+    {
+      "en": "adjustable wrench",
+      "zh": "活动扳手",
+      "rating": "g",
+      "count": 659,
+      "desc": "开口大小可调的活动扳手。",
+      "kw": "活扳手 / 可调扳手 / 猴子扳手 / 活动扳钳 / 工具 / 扳手 / モンキーレンチ"
+    },
+    {
+      "en": "aegis sword (xenoblade)",
+      "zh": "天之圣杯之剑",
+      "rating": "g",
+      "count": 956,
+      "desc": "异度神剑2中焰与光使用的圣杯之剑",
+      "kw": "圣杯之剑 / 焰与光之剑 / 天之圣杯剑 / 异度神剑2圣杯剑 / 天之圣杯之剑 (异度神剑) / 武器 / 剑 / 游戏道具"
+    },
+    {
+      "en": "aestus estus",
+      "zh": "原初之火（武器）",
+      "rating": "g",
+      "count": 1512,
+      "desc": "尼禄·克劳狄乌斯所持的原初之火",
+      "kw": "尼禄的武器 / 原初之火 / 火焰 / 武器"
+    },
+    {
+      "en": "ai arctic warfare",
+      "zh": "AI北极战争狙击步枪",
+      "rating": "g",
+      "count": 526,
+      "desc": "英国精密国际AW系列狙击步枪",
+      "kw": "AI AW狙击步枪 / AW狙击步枪 / 北极战争狙击枪 / AI北极作战狙击步枪 / 精密国际AW狙击枪 / L96A1狙击步枪 / AI狙击步枪 / 极地战记 (爱) / ai aws / ai awp / ai awm / ai awf"
+    },
+    {
+      "en": "air pump",
+      "zh": "气泵",
+      "rating": "g",
+      "count": 106,
+      "desc": "给轮胎或气球等充气的打气筒",
+      "kw": "打气筒 / 充气泵 / 打气泵 / 气筒 / 充气筒 / 科技 / inflator"
+    },
+    {
+      "en": "aircraft",
+      "zh": "飞机",
+      "rating": "g",
+      "count": 25745,
+      "desc": "各种真实或虚构的飞行器",
+      "kw": "飞行器 / 航空器 / 飞行工具 / 飞行载具 / 载具 / 航空机 / 航空機"
+    },
+    {
+      "en": "aircraft carrier",
+      "zh": "航空母舰",
+      "rating": "g",
+      "count": 746,
+      "desc": "带平坦飞行甲板的航空母舰",
+      "kw": "航母 / 空母 / 军舰 / 航空母艦"
+    },
+    {
+      "en": "airplane",
+      "zh": "飞机",
+      "rating": "g",
+      "count": 17770,
+      "desc": "靠固定机翼产生升力的飞行器。",
+      "kw": "固定翼飞机 / 军用飞机 / 民航机 / 客机 / 飞机（固定翼） / 科技 / 飞行器 / 航空器 / plane / planes / aeroplane / airplanes"
+    },
+    {
+      "en": "airpods",
+      "zh": "AirPods",
+      "rating": "g",
+      "count": 386,
+      "desc": "苹果公司的AirPods无线耳机。",
+      "kw": "苹果无线耳机 / AirPods耳机 / 苹果蓝牙耳机 / AirPods Pro / AirPods Max / 苹果无线蓝牙耳机 / 无线耳机 / 科技产品"
+    },
+    {
+      "en": "airship",
+      "zh": "飞空艇",
+      "rating": "g",
+      "count": 1598,
+      "desc": "奇幻或科幻中形似船只的飞行器",
+      "kw": "飞艇 / 飞行船 / 飞船 / 空中战舰 / 空艇 / 浮空艇 / 飞空船 / 飞天艇 / airships / flying ship / 空中戦舰 / 空中舰"
+    },
+    {
+      "en": "ak-12",
+      "zh": "AK-12突击步枪",
+      "rating": "g",
+      "count": 611,
+      "desc": "俄罗斯卡拉什尼科夫AK-12突击步枪",
+      "kw": "AK12步枪 / 卡拉什尼科夫AK-12 / AK-12自动步枪 / 俄制AK-12 / AK-12步枪 / AK-12 / 枪械 / 武器 / ak-19"
+    },
+    {
+      "en": "ak-47",
+      "zh": "AK-47步枪",
+      "rating": "g",
+      "count": 1000,
+      "desc": "苏联AK-47突击步枪",
+      "kw": "阿卡47步枪 / 卡拉什尼科夫步枪 / 阿卡自动步枪 / 四七式突击步枪 / AK-47 / 突击步枪 / 枪械"
+    },
+    {
+      "en": "akg",
+      "zh": "AKG耳机",
+      "rating": "g",
+      "count": 252,
+      "desc": "奥地利音频品牌AKG耳机",
+      "kw": "爱科技耳机 / 爱科技 / AKG品牌耳机 / AKG / 品牌 / 音频"
+    },
+    {
+      "en": "alfa romeo",
+      "zh": "阿尔法·罗密欧",
+      "rating": "g",
+      "count": 143,
+      "desc": "意大利汽车品牌阿尔法·罗密欧",
+      "kw": "阿尔法·罗密欧汽车 / 爱快罗密欧 / 阿尔法罗密欧 / 爱快·罗密欧 / 阿尔法·罗密欧汽车品牌 / 汽车 / 品牌"
+    },
+    {
+      "en": "alternate weapon",
+      "zh": "武器变化",
+      "rating": "g",
+      "count": 1942,
+      "desc": "角色使用非标志性的其他武器。",
+      "kw": "替换武器 / 武器替换 / 另类武器 / 其他武器 / 非标志武器 / 改用其他武器 / 备用武器 / 装备 / alternative weapon"
+    },
+    {
+      "en": "ambrosia (dungeon meshi)",
+      "zh": "安布罗西亚法杖",
+      "rating": "g",
+      "count": 1015,
+      "desc": "《迷宫饭》中玛露希尔的法杖",
+      "kw": "安布罗西亚之杖 / 安布罗西亚魔杖 / 玛露希尔的法杖 / 玛露希尔的魔杖 / 昂布罗修 (迷宫饭) / 角色 / 动画角色"
+    },
+    {
+      "en": "ambulance",
+      "zh": "救护车",
+      "rating": "g",
+      "count": 196,
+      "desc": "运送重伤病者去医院的急救车辆",
+      "kw": "急救车 / 救护车辆 / 急救车救护车 / 120车 / 车辆 / 医疗设备 / 救急车 / 救急車"
+    },
+    {
+      "en": "an-94",
+      "zh": "AN-94步枪",
+      "rating": "g",
+      "count": 558,
+      "desc": "俄罗斯AN-94突击步枪",
+      "kw": "阿巴坎 / 阿巴坎步枪 / AN94突击步枪 / AN-94自动步枪 / AN94自动步枪 / AN-94 / 突击步枪 / 俄罗斯步枪 / アバカン"
+    },
+    {
+      "en": "anti-aircraft gun",
+      "zh": "高射炮",
+      "rating": "g",
+      "count": 961,
+      "desc": "用于击落飞机的防空炮",
+      "kw": "防空炮 / 防空火炮 / 对空炮 / 高炮 / 对空武器 / 军事装备 / aa gun / 対空炮 / 対空砲 / 高射砲"
+    },
+    {
+      "en": "anti-materiel rifle",
+      "zh": "反器材步枪",
+      "rating": "g",
+      "count": 3372,
+      "desc": "专门攻击车辆器材等硬目标的大口径步枪",
+      "kw": "反器材狙击步枪 / 反器材枪 / 反坦克步枪 / 反装甲步枪 / 对物步枪 / 枪械 / 武器 / anti material rifle / anti-material rifle / anti-tank rifle / anti materiel rifle"
+    },
+    {
+      "en": "antique firearm",
+      "zh": "古董火器",
+      "rating": "g",
+      "count": 2101,
+      "desc": "外形古老或年代久远的火器",
+      "kw": "老式火器 / 古董枪 / 旧式枪械 / 古旧火枪 / 老枪 / 古董枪械 / 武器 / 古董"
+    },
+    {
+      "en": "antique phone",
+      "zh": "古董电话",
+      "rating": "g",
+      "count": 3020,
+      "desc": "拨号盘式的古董电话",
+      "kw": "老式电话 / 复古电话 / 转盘电话 / 拨号盘电话 / 老电话 / 旧式电话 / 复古 / 电话机 / antique telephone"
+    },
+    {
+      "en": "ar-15",
+      "zh": "AR-15步枪",
+      "rating": "g",
+      "count": 2019,
+      "desc": "阿玛莱特公司设计的半自动步枪，常见于民用和游戏",
+      "kw": "AR15 / 阿玛莱特15 / AR-15突击步枪 / M16民用版 / AR-15卡宾枪 / 阿玛莱特15步枪 / AR-15 / 突击步枪"
+    },
+    {
+      "en": "arcade cabinet",
+      "zh": "街机柜",
+      "rating": "g",
+      "count": 1320,
+      "desc": "投币游玩的街机机体或框体",
+      "kw": "街机机台 / 街机框体 / 电玩机台 / 投币游戏机 / 游戏机台 / 街机机体 / 大型电玩机台 / 游戏机 / アーケードゲーム筐体"
+    },
+    {
+      "en": "arcade stick",
+      "zh": "街机摇杆",
+      "rating": "g",
+      "count": 517,
+      "desc": "还原街机柜摇杆与按键布局的游戏控制器",
+      "kw": "摇杆 / 街机控制器 / 格斗摇杆 / 大摇杆 / 游戏配件 / アーケードコントローラー / アケコン"
+    },
+    {
+      "en": "arisaka",
+      "zh": "有坂步枪",
+      "rating": "g",
+      "count": 1146,
+      "desc": "有坂成章设计的日军栓动步枪系列，包括三八式等。",
+      "kw": "三八大盖 / 三八式步枪 / 有坂铳 / 三八式 / 三十年式步枪 / 有坂式步枪 / 日本有坂步枪 / 阿里萨卡 / type 38 rifle / type 38 carbine / type 30 rifle / type 44 carbine"
+    },
+    {
+      "en": "arm blade",
+      "zh": "手臂刀刃",
+      "rating": "g",
+      "count": 3987,
+      "desc": "装在手臂上的刀刃",
+      "kw": "臂刃 / 手刃 / 前臂刀 / 手臂刀 / 腕刃 / 肘刃 / 袖剑 / 武器"
+    },
+    {
+      "en": "arm cannon",
+      "zh": "手炮",
+      "rating": "g",
+      "count": 14958,
+      "desc": "覆盖或取代手臂的炮，常见于改造人或机器人。",
+      "kw": "手臂炮 / 臂部加农炮 / 手臂加农炮 / 臂装炮 / 手臂炮管 / 机械臂炮 / 手臂大炮 / 臂炮兵器 / z buster / zero buster / x buster / mega buster"
+    },
+    {
+      "en": "arm mounted weapon",
+      "zh": "臂挂式武器",
+      "rating": "g",
+      "count": 683,
+      "desc": "安装在手臂外侧的武器",
+      "kw": "手臂武器 / 臂装武器 / 手臂安装武器 / 胳膊武器 / 前臂武器 / 手甲武器 / 臂部武器 / 武器"
+    },
+    {
+      "en": "arm shield",
+      "zh": "臂盾",
+      "rating": "g",
+      "count": 2126,
+      "desc": "绑在手臂上的盾",
+      "kw": "手臂盾 / 臂甲盾 / 绑臂盾 / 手盾 / 盾牌 / 护甲 / 装备"
+    },
+    {
+      "en": "armored vehicle",
+      "zh": "装甲车",
+      "rating": "g",
+      "count": 665,
+      "desc": "军用装甲车辆，通常非坦克",
+      "kw": "装甲战斗车辆 / 装甲运兵车 / 轮式装甲车 / 军用装甲车 / 军用车辆 / 军事装备"
+    },
+    {
+      "en": "arrow (projectile)",
+      "zh": "箭",
+      "rating": "g",
+      "count": 26033,
+      "desc": "弓或弩射出的箭矢",
+      "kw": "箭矢 / 弓箭 / 箭只 / 弩箭 / 飞箭 / 武器 / arrows / 矢"
+    },
+    {
+      "en": "art brush",
+      "zh": "画笔",
+      "rating": "g",
+      "count": 1787,
+      "desc": "绘画用的小号圆头或平头画笔",
+      "kw": "绘笔 / 绘画用笔 / 画刷 / 美术画笔 / 油画笔 / 艺术工具 / 绘画"
+    },
+    {
+      "en": "artillery",
+      "zh": "火炮",
+      "rating": "g",
+      "count": 692,
+      "desc": "迫击炮、火炮、火箭炮等远程重火力武器",
+      "kw": "大炮 / 炮 / 重炮 / 火炮武器 / 炮兵武器 / 远程火炮 / 炮火 / 大砲 / 砲兵"
+    },
+    {
+      "en": "assault rifle",
+      "zh": "突击步枪",
+      "rating": "g",
+      "count": 24709,
+      "desc": "具备选择射击方式的步兵用自动步枪。",
+      "kw": "自动步枪 / 突击来福枪 / 攻击步枪 / 军用突击步枪 / 武器 / 枪械 / 突撃铳 / アサルトライフル / 突撃銃"
+    },
+    {
+      "en": "aston martin",
+      "zh": "阿斯顿·马丁",
+      "rating": "g",
+      "count": 134,
+      "desc": "英国跑车品牌阿斯顿·马丁，常与007系列关联",
+      "kw": "阿斯顿马丁 / 阿斯顿马汀 / 阿斯顿·马汀 / 阿斯顿马丁汽车 / 阿斯顿马丁跑车 / 阿斯顿·马丁汽车 / 汽车 / 豪华车"
+    },
+    {
+      "en": "audi",
+      "zh": "奥迪",
+      "rating": "g",
+      "count": 201,
+      "desc": "德国汽车品牌奥迪",
+      "kw": "奥迪汽车 / 奥迪车 / 汽车 / 品牌"
+    },
+    {
+      "en": "audio-technica",
+      "zh": "铁三角",
+      "rating": "g",
+      "count": 108,
+      "desc": "日本音频设备品牌铁三角",
+      "kw": "铁三角耳机 / 铁三角品牌 / 铁三角公司 / 品牌 / 音频设备"
+    },
+    {
+      "en": "bagpipes",
+      "zh": "风笛",
+      "rating": "g",
+      "count": 124,
+      "desc": "源自苏格兰的簧管吹奏乐器。",
+      "kw": "苏格兰风笛 / 爱尔兰风笛 / 风笛管 / 风笛乐器 / 乐器 / 苏格兰风"
+    },
+    {
+      "en": "ball and chain (weapon)",
+      "zh": "流星锤",
+      "rating": "g",
+      "count": 1333,
+      "desc": "用长链甩动的重球武器",
+      "kw": "链球（武器） / 锁铁球 / 流星锤（武器） / 武器 / 链锤 / meteor hammer / ball and chain / 流星锤（无刺）"
+    },
+    {
+      "en": "ballistic shield",
+      "zh": "防弹盾牌",
+      "rating": "g",
+      "count": 1065,
+      "desc": "警用或军用防弹战术盾牌。",
+      "kw": "弹道盾 / 防弹盾 / 战术盾牌 / 防弹护盾 / 警用防弹盾 / 战术防弹盾 / 盾牌 / 军事装备 / 防弾盾 / 防弾シールド / バリスティックシールド / バリスティック・シールド"
+    },
+    {
+      "en": "bamboo broom",
+      "zh": "竹扫帚",
+      "rating": "g",
+      "count": 2188,
+      "desc": "以竹竿为柄的扫帚",
+      "kw": "竹扫把 / 竹制扫帚 / 竹竿扫帚 / 竹枝扫帚 / 竹帚 / 中国风 / 扫帚 / bamboo-shafted broom"
+    },
+    {
+      "en": "banjo",
+      "zh": "班卓琴",
+      "rating": "g",
+      "count": 148,
+      "desc": "圆身长颈、三到六根弦的拨弦乐器班卓琴",
+      "kw": "班卓 / 五弦琴 / 班久琴 / 斑鸠琴 / banjo / 拨弦乐器 / 蓝草音乐"
+    },
+    {
+      "en": "barcode scanner",
+      "zh": "条码扫描器",
+      "rating": "g",
+      "count": 874,
+      "desc": "读取条形码并传输数据的扫描设备",
+      "kw": "条码扫描仪 / 扫码枪 / 条码枪 / 条码扫描枪 / 扫描枪 / 条码读取器 / 条码扫描机 / 条形码扫描枪"
+    },
+    {
+      "en": "barrett m82",
+      "zh": "巴雷特M82",
+      "rating": "g",
+      "count": 573,
+      "desc": "美国巴雷特公司生产的五十口径半自动反器材步枪",
+      "kw": "M82狙击步枪 / 巴雷特重型狙击步枪 / M82反器材步枪 / 狙击枪 / 武器 / m82a1 / m82 / m-82a / m107"
+    },
+    {
+      "en": "baton (weapon)",
+      "zh": "警棍（武器）",
+      "rating": "g",
+      "count": 1605,
+      "desc": "警察或武术者使用的棍棒武器",
+      "kw": "警棍 / 警用棍 / 警用棒 / 警棍武器 / 短棍 / 防暴棍 / 巡逻棍 / 警用短棍 / police baton / nightstick / truncheon / 警棒"
+    },
+    {
+      "en": "battle axe",
+      "zh": "战斧",
+      "rating": "g",
+      "count": 4009,
+      "desc": "专门为战斗设计的斧类武器",
+      "kw": "战斗斧 / 军用斧 / 战士斧 / 双手斧 / 长柄战斧 / 阔斧 / 斧头 / 武器 / war axe / 戦斧"
+    },
+    {
+      "en": "battle rifle",
+      "zh": "战斗步枪",
+      "rating": "g",
+      "count": 2449,
+      "desc": "使用全威力弹药的战斗步枪",
+      "kw": "全威力步枪 / 军用战斗步枪 / 枪械 / 武器 / バトルライフル"
+    },
+    {
+      "en": "battleship",
+      "zh": "战列舰",
+      "rating": "g",
+      "count": 1110,
+      "desc": "装甲厚重、主炮巨大的大型战舰",
+      "kw": "战舰 / 战斗舰 / 主力舰 / 大战舰 / 军舰 / 军事 / 戦舰 / 戦艦 / 戰艦"
+    },
+    {
+      "en": "bayonet",
+      "zh": "刺刀",
+      "rating": "g",
+      "count": 1953,
+      "desc": "装在枪口上用于近身刺击的刺刀。",
+      "kw": "枪刺 / 刺刀剑 / 刺刀武器 / 刺刀匕首 / 刺刀刀 / 武器 / 刀具 / 军刀 / 铳剣 / 銃剣"
+    },
+    {
+      "en": "bazooka (gundam)",
+      "zh": "高达火箭筒",
+      "rating": "g",
+      "count": 750,
+      "desc": "《高达》系列中机体使用的大型火箭筒",
+      "kw": "高达火箭炮 / 钢弹火箭筒 / MS火箭筒 / 机体用火箭筒 / 火箭筒(高达) / 武器 / 发射器 / 火箭发射器 / バズーカ(ガンダムシリーズ)"
+    },
+    {
+      "en": "beach umbrella",
+      "zh": "沙滩伞",
+      "rating": "g",
+      "count": 12466,
+      "desc": "插在沙中遮阳的沙滩伞",
+      "kw": "海滩伞 / 沙滩遮阳伞 / 海滩遮阳伞 / 海边遮阳伞 / 伞 / 沙滩 / ビーチパラソル"
+    },
+    {
+      "en": "beam cannon",
+      "zh": "光束炮",
+      "rating": "g",
+      "count": 1823,
+      "desc": "发射能量光束的炮",
+      "kw": "光束加农炮 / 能量炮 / 激光炮 / 光线炮 / 粒子炮 / 炮 / 武器 / 科幻"
+    },
+    {
+      "en": "beam rifle",
+      "zh": "光束步枪",
+      "rating": "g",
+      "count": 4410,
+      "desc": "《高达》中机体手持的光束步枪",
+      "kw": "光束枪 / 激光步枪 / 能量步枪 / 镭射步枪 / 科幻武器 / ビームライフル"
+    },
+    {
+      "en": "bear trap",
+      "zh": "熊夹",
+      "rating": "g",
+      "count": 658,
+      "desc": "带尖齿、踩下即合拢的捕熊夹",
+      "kw": "捕熊夹 / 熊陷阱 / 兽夹 / 夹熊器 / 熊夹子 / 捕兽夹 / 陷阱 / 工具 / foothold trap / トラバサミ"
+    },
+    {
+      "en": "beats by dr. dre",
+      "zh": "Beats耳机",
+      "rating": "g",
+      "count": 127,
+      "desc": "品牌 Beats by Dr. Dre 的耳机，常见于角色佩戴。",
+      "kw": "Beats耳麦 / Beats头戴式耳机 / Beats耳罩 / Monster Beats耳机 / 耳机 / 电子产品"
+    },
+    {
+      "en": "beretta 1301",
+      "zh": "伯莱塔1301霰弹枪",
+      "rating": "g",
+      "count": 1108,
+      "desc": "伯莱塔公司生产的12号半自动霰弹枪",
+      "kw": "伯莱塔1301 / 贝雷塔1301 / 伯莱塔M1301 / M1301霰弹枪 / 1301战术霰弹枪 / 贝雷塔 1301 / 霰弹枪 / 武器 / ベレッタ1301"
+    },
+    {
+      "en": "bicycle basket",
+      "zh": "自行车车筐",
+      "rating": "g",
+      "count": 1331,
+      "desc": "装在自行车前方的车筐，用于载物。",
+      "kw": "自行车篮 / 自行车菜篮 / 单车车篮 / 单车菜篮 / 脚踏车车篮 / 脚踏车菜篮 / 车头篮 / 前置车篮"
+    },
+    {
+      "en": "bishamonten's spear",
+      "zh": "毗沙门天之矛",
+      "rating": "g",
+      "count": 962,
+      "desc": "《东方Project》中寅丸星持有的长矛",
+      "kw": "毗沙门天矛 / 毗沙门天的矛 / 毗沙门天长矛 / 寅丸星的矛 / 毘沙门天之枪 / 神话武器 / 日本神话 / 武器 / 鋒"
+    },
+    {
+      "en": "biwa lute",
+      "zh": "日本琵琶",
+      "rating": "g",
+      "count": 1001,
+      "desc": "日本传统短颈拨弦乐器，多用于说唱叙事",
+      "kw": "琵琶 / 日式琵琶 / 日本四弦琵琶 / 短颈琵琶 / 乐器 / 日本传统 / 和风"
+    },
+    {
+      "en": "black car",
+      "zh": "黑色汽车",
+      "rating": "g",
+      "count": 509,
+      "desc": "黑色的汽车，可作背景或载具",
+      "kw": "黑色轿车 / 黑车 / 黑色小车 / 黑色跑车 / 黑色车辆 / 黑色汽车背景 / 车辆 / 汽车"
+    },
+    {
+      "en": "black keys (type-moon)",
+      "zh": "黑键（型月）",
+      "rating": "g",
+      "count": 897,
+      "desc": "《月姬》等型月作品中希耶尔使用的投掷武器。",
+      "kw": "黑键 / 型月黑键 / 月姬黑键 / 希耶尔黑键 / 黑键剑 / 黑键 (型月) / 武器 / 型月作品 / black key / black keys / black keys (fate) / 黒鍵"
+    },
+    {
+      "en": "black umbrella",
+      "zh": "黑伞",
+      "rating": "g",
+      "count": 3199,
+      "desc": "遮雨或遮阳用的黑伞",
+      "kw": "黑色雨伞 / 黑色伞 / 黑雨伞 / 黑色的伞 / 黑色阳伞 / 黑阳伞 / 伞 / 道具"
+    },
+    {
+      "en": "blood on knife",
+      "zh": "刀上血迹",
+      "rating": "s",
+      "count": 3667,
+      "desc": "刀刃或刀身沾有血迹。",
+      "kw": "刀上有血 / 刀子上的血 / 刀身沾血 / 染血的刀 / 带血的刀 / 血染刀身 / 刀身血迹 / 刀上的血 / blood-stained knife / bloody knife"
+    },
+    {
+      "en": "blood on weapon",
+      "zh": "武器上有血",
+      "rating": "s",
+      "count": 11358,
+      "desc": "刀剑等武器表面沾有血迹。",
+      "kw": "武器沾血 / 兵器血迹 / 刀剑染血 / 武器带血 / 血染兵器 / 血迹 / 武器 / 战斗 / bloody sword / bloody weapon"
+    },
+    {
+      "en": "blue car",
+      "zh": "蓝色汽车",
+      "rating": "g",
+      "count": 737,
+      "desc": "车身涂装为蓝色的汽车",
+      "kw": "蓝车 / 蓝色轿车 / 蓝色跑车 / 蓝汽车 / 蓝色车辆 / 蓝色车子 / 车辆 / 交通工具"
+    },
+    {
+      "en": "blue umbrella",
+      "zh": "蓝色伞",
+      "rating": "g",
+      "count": 2024,
+      "desc": "遮雨用的蓝色雨伞",
+      "kw": "蓝伞 / 蓝色雨伞 / 蓝雨伞 / 伞 / 蓝色"
+    },
+    {
+      "en": "bmw",
+      "zh": "宝马",
+      "rating": "g",
+      "count": 566,
+      "desc": "德国汽车品牌宝马",
+      "kw": "宝马车 / 宝马牌汽车 / 汽车 / 品牌"
+    },
+    {
+      "en": "bo staff",
+      "zh": "长棍",
+      "rating": "g",
+      "count": 1963,
+      "desc": "武术中使用的长棍，约六尺长。",
+      "kw": "棍 / 棍棒 / 齐眉棍 / 长棒 / 武术棍 / 少林棍 / 棒 / 武器"
+    },
+    {
+      "en": "boat",
+      "zh": "小船",
+      "rating": "g",
+      "count": 9480,
+      "desc": "载人较少的小型船",
+      "kw": "小舟 / 木船 / 划艇 / 船 / 舟 / 船只 / 交通工具"
+    },
+    {
+      "en": "bokken",
+      "zh": "木刀",
+      "rating": "g",
+      "count": 1471,
+      "desc": "木制的剑道练习用刀，形似武士刀",
+      "kw": "木剑 / 木制武士刀 / 练习木刀 / 剑道木刀 / 木质日本刀 / 木剣 / 练习剑 / 日本刀模型 / wooden katana / 木剣 / ぼっけん / ぼくとう"
+    },
+    {
+      "en": "bolt (hardware)",
+      "zh": "螺栓",
+      "rating": "g",
+      "count": 1112,
+      "desc": "用扳手和螺母固定的螺栓",
+      "kw": "螺丝栓 / 六角螺栓 / 紧固螺栓 / 螺杆 / 螺栓五金件 / 螺丝杆 / 五金 / 机械 / bolts / bolt / ボルト"
+    },
+    {
+      "en": "bolt action",
+      "zh": "栓式枪机",
+      "rating": "g",
+      "count": 8217,
+      "desc": "手动拉动枪机完成上膛的枪械结构",
+      "kw": "栓动式 / 栓动步枪 / 手拉枪机 / 旋转后拉枪机 / 手动枪机 / 枪械 / bolt-action / ボルトアクション方式 / ボルトアクションほうしき / 手動槍機"
+    },
+    {
+      "en": "bomb",
+      "zh": "炸弹",
+      "rating": "g",
+      "count": 3819,
+      "desc": "靠引信引爆的爆炸性武器。",
+      "kw": "爆弹 / 爆炸物 / 炸弹装置 / 武器 / 爆弾"
+    },
+    {
+      "en": "bomber",
+      "zh": "轰炸机",
+      "rating": "g",
+      "count": 634,
+      "desc": "以投掷炸弹为主要任务的飞机",
+      "kw": "爆击机 / 轰炸机飞机 / 科技 / 军用飞机 / 战机 / 爆撃機"
+    },
+    {
+      "en": "boom microphone",
+      "zh": "吊杆麦克风",
+      "rating": "g",
+      "count": 180,
+      "desc": "装在长杆上、常用于影视收音的麦克风",
+      "kw": "吊杆话筒 / 长杆麦克风 / 挑杆麦克风 / 挑杆话筒 / 话筒吊杆 / 录音杆麦克风 / 吊杆式麦克风 / 长柄麦克风"
+    },
+    {
+      "en": "boombox",
+      "zh": "手提音响",
+      "rating": "g",
+      "count": 836,
+      "desc": "带提手可播放磁带或电台的便携音响",
+      "kw": "手提录音机 / 手提收录机 / 便携音响 / 大喇叭音响 / 拎式音响 / 双卡录音机 / 手提音箱 / 音箱 / ラジカセ / ラジオカセットレコーダー"
+    },
+    {
+      "en": "bow (music)",
+      "zh": "琴弓",
+      "rating": "g",
+      "count": 4574,
+      "desc": "拉奏弦乐器所用的弓。",
+      "kw": "小提琴弓 / 弦乐器弓 / 乐弓 / 演奏弓 / 弓 / 乐器配件 / bow (musical) / violin bow / bow (instrument)"
+    },
+    {
+      "en": "bow (weapon)",
+      "zh": "弓（武器）",
+      "rating": "g",
+      "count": 31820,
+      "desc": "发射箭矢的弓形武器",
+      "kw": "弓 / 弓箭 / 弓矢 / 长弓 / 反曲弓 / 复合弓 / 武器 / bow and arrow"
+    },
+    {
+      "en": "box truck",
+      "zh": "厢式货车",
+      "rating": "g",
+      "count": 642,
+      "desc": "带方形货厢的卡车",
+      "kw": "箱式货车 / 厢货 / 箱货 / 厢式卡车 / 箱式卡车 / 封闭货车 / 厢型货车 / 货厢卡车"
+    },
+    {
+      "en": "boxcutter",
+      "zh": "美工刀",
+      "rating": "g",
+      "count": 1953,
+      "desc": "可更换刀片的切割工具，常用于手工裁切。",
+      "kw": "裁纸刀 / 文具刀 / 切割刀 / 刀片刀 / 雕刻刀 / 介刀 / 工具 / 刀具 / box cutter / utility knife / stationery knife / カッター"
+    },
+    {
+      "en": "brass knuckles",
+      "zh": "指虎",
+      "rating": "g",
+      "count": 1191,
+      "desc": "套在手指上增强拳击威力的金属武器。",
+      "kw": "手指虎 / 铁指虎 / 拳刺 / 铁拳头 / 指节铜环 / 指节套 / 金属拳套 / 铁四指 / メリケンサック"
+    },
+    {
+      "en": "broken sword",
+      "zh": "断剑",
+      "rating": "g",
+      "count": 1293,
+      "desc": "剑刃从柄处折断的剑。",
+      "kw": "折断的剑 / 残剑 / 破剑 / 半截剑 / 断裂的剑 / 武器 / 剑"
+    },
+    {
+      "en": "broken weapon",
+      "zh": "破碎的武器",
+      "rating": "g",
+      "count": 2065,
+      "desc": "剑、枪等各类武器被折断或损毁",
+      "kw": "损坏的武器 / 折断的武器 / 碎裂的武器 / 断剑 / 破刀 / 武器破损 / 坏掉的武器 / 损毁武器"
+    },
+    {
+      "en": "buckler",
+      "zh": "小圆盾",
+      "rating": "g",
+      "count": 648,
+      "desc": "直径二十到四十厘米的小圆盾",
+      "kw": "小型圆盾 / 小盾 / 圆盾 / 手盾 / 盾牌 / 武器 / 中世纪 / バックラー"
+    },
+    {
+      "en": "bugle",
+      "zh": "军号",
+      "rating": "g",
+      "count": 155,
+      "desc": "无活塞铜管乐器，靠唇振发声",
+      "kw": "号角 / 喇叭 / 铜号 / 无活塞军号 / 信号号 / 步号 / 行军号 / 乐器"
+    },
+    {
+      "en": "bullpup",
+      "zh": "无托步枪",
+      "rating": "g",
+      "count": 5687,
+      "desc": "弹匣和枪机位于扳机后方的无托结构枪械。",
+      "kw": "无托式步枪 / 无托结构 / 无托枪 / 犊牛式步枪 / 牛犊式步枪 / 无枪托步枪 / 步枪 / 枪械 / bullpup rifle / ブルパップ方式"
+    },
+    {
+      "en": "bus",
+      "zh": "公共汽车",
+      "rating": "g",
+      "count": 1792,
+      "desc": "大型客运公共汽车",
+      "kw": "公交车 / 公交 / 巴士 / 大巴 / 公车 / 客车 / 车辆 / 交通工具 / バス"
+    },
+    {
+      "en": "buster sword",
+      "zh": "破坏剑",
+      "rating": "g",
+      "count": 2663,
+      "desc": "《最终幻想7》克劳德的大剑。",
+      "kw": "克劳德大剑 / 扎克斯之剑 / FF7破坏剑 / 最终幻想破坏剑 / 武器 / 剑 / 幻想 / バスターソード"
+    },
+    {
+      "en": "butterfly net",
+      "zh": "捕虫网",
+      "rating": "g",
+      "count": 2319,
+      "desc": "捕捉蝴蝶等昆虫的网",
+      "kw": "蝴蝶网 / 捕蝶网 / 昆虫网 / 虫网 / 捕虫网兜 / 道具 / 工具 / bug net / 虫取り網"
+    },
+    {
+      "en": "cable",
+      "zh": "线缆",
+      "rating": "g",
+      "count": 29871,
+      "desc": "电子设备使用的各类线缆。",
+      "kw": "电缆 / 电线 / 连接线 / 数据线 / 电源线 / 线材 / 机械 / electric cable / cables / cord / cords"
+    },
+    {
+      "en": "caduceus",
+      "zh": "双蛇杖",
+      "rating": "g",
+      "count": 151,
+      "desc": "双蛇缠绕的赫耳墨斯之杖，常与单蛇杖混淆",
+      "kw": "商神杖 / 赫尔墨斯之杖 / 赫耳墨斯之杖 / 墨丘利之杖 / 双蛇缠绕杖 / 希腊神话 / 医疗 / 象征"
+    },
+    {
+      "en": "caliburn (fate)",
+      "zh": "必胜黄金之剑（Fate）",
+      "rating": "g",
+      "count": 1212,
+      "desc": "Fate中Saber所持的黄金剑。",
+      "kw": "卡利本 / 石中剑 / 黄金剑 / 胜利黄金之剑 / 必胜黄金剑 / 石中剑（Fate / stay night） / 圣剑 / caliburn / 勝利すべき黄金の剣"
+    },
+    {
+      "en": "calligraphy brush",
+      "zh": "毛笔",
+      "rating": "g",
+      "count": 6768,
+      "desc": "书写书法用的毛笔。",
+      "kw": "书法笔 / 墨笔 / 湖笔 / 狼毫 / 羊毫 / 毛笔笔 / 中国风 / 文具 / ink brush / writing brush / 筆 / ふで"
+    },
+    {
+      "en": "camera around neck",
+      "zh": "脖子上挂相机",
+      "rating": "g",
+      "count": 1199,
+      "desc": "挂在脖子上的相机",
+      "kw": "挂脖相机 / 颈挂相机 / 相机挂在脖子上 / 挂颈相机 / 颈上相机 / 挂在脖子上的相机 / 相机 / 摄影 / camera on neck / camera hanging from neck"
+    },
+    {
+      "en": "cannon",
+      "zh": "大炮",
+      "rating": "g",
+      "count": 19716,
+      "desc": "口径20毫米以上的火炮",
+      "kw": "加农炮 / 火炮 / 炮 / 大砲 / 火砲 / 炮台 / 炮管 / 重炮 / cannons / 炮兵 / 砲兵"
+    },
+    {
+      "en": "canopy (aircraft)",
+      "zh": "座舱盖",
+      "rating": "g",
+      "count": 917,
+      "desc": "覆盖飞机座舱的透明罩。",
+      "kw": "飞机座舱盖 / 驾驶舱盖 / 飞机舱盖 / 座舱罩 / 驾驶员舱盖 / 飞机部件 / 航空 / canopy"
+    },
+    {
+      "en": "car",
+      "zh": "汽车",
+      "rating": "g",
+      "count": 30450,
+      "desc": "四轮陆上客运汽车",
+      "kw": "轿车 / 小汽车 / 机动车 / 车辆 / 四轮车 / 私家车 / 科技 / 交通工具 / cars / 外车 / 改造车 / 自动车"
+    },
+    {
+      "en": "carriage",
+      "zh": "马车",
+      "rating": "g",
+      "count": 675,
+      "desc": "马拉的载客车辆。",
+      "kw": "载客马车 / 四轮马车 / 两轮马车 / 交通工具 / 古风 / 馬車"
+    },
+    {
+      "en": "cart",
+      "zh": "推车",
+      "rating": "g",
+      "count": 1346,
+      "desc": "人力推拉的小型载货车",
+      "kw": "手推车 / 载货推车 / 平板推车 / 板车 / 车辆 / 工具"
+    },
+    {
+      "en": "cassette player",
+      "zh": "卡带机",
+      "rating": "g",
+      "count": 846,
+      "desc": "播放录音磁带的设备",
+      "kw": "卡式磁带播放器 / 卡带播放器 / 磁带播放机 / 卡带录音机 / 卡式录音机 / 磁带播放器 / 电器 / 复古 / カセットプレーヤー"
+    },
+    {
+      "en": "castanets",
+      "zh": "响板",
+      "rating": "g",
+      "count": 206,
+      "desc": "两片凹形木壳相击发声的响板",
+      "kw": "西班牙响板 / 木响板 / 手响板 / 响板乐器 / 乐器 / 打击乐 / castanet"
+    },
+    {
+      "en": "caterpillar tracks",
+      "zh": "履带",
+      "rating": "g",
+      "count": 3671,
+      "desc": "坦克等越野车辆的履带",
+      "kw": "坦克履带 / 链轨 / 履带板 / 履带式 / 履带链条 / 无限轨道 / 卡特彼勒履带 / 机械部件 / tank treads / 履帯 / 無限軌道 / キャタピラ"
+    },
+    {
+      "en": "cd player",
+      "zh": "CD播放机",
+      "rating": "g",
+      "count": 392,
+      "desc": "播放音频CD的电子设备。",
+      "kw": "CD机 / CD播放器 / 激光唱机 / 光碟播放器 / CD音响 / CD播放设备 / 音响设备 / 电子产品"
+    },
+    {
+      "en": "cello",
+      "zh": "大提琴",
+      "rating": "g",
+      "count": 1172,
+      "desc": "需坐着演奏的大型弓弦乐器",
+      "kw": "大提琴乐器 / 大提琴演奏 / 提琴 / 大提琴手 / 乐器 / 弦乐器 / 音乐 / violoncello / チェロ / ヴィオロンチェロ"
+    },
+    {
+      "en": "cellphone",
+      "zh": "手机",
+      "rating": "g",
+      "count": 139034,
+      "desc": "可随身携带的小型移动电话。",
+      "kw": "移动电话 / 行动电话 / 手提电话 / 电话 / 便携式电话 / 智能手机 / 手机电话 / 掌上电话 / cell phone / mobile phone / keitai / 携帯电话"
+    },
+    {
+      "en": "chainsaw",
+      "zh": "电锯",
+      "rating": "g",
+      "count": 5816,
+      "desc": "机动链锯，常作为恐怖片武器。",
+      "kw": "链锯 / 油锯 / 机动链锯 / 工具 / 武器 / チェーンソー / チェンソー"
+    },
+    {
+      "en": "charging device",
+      "zh": "充电设备",
+      "rating": "g",
+      "count": 618,
+      "desc": "给手机等设备充电",
+      "kw": "充电中 / 正在充电 / 给设备充电 / 设备充电 / 充电状态 / 充电 / 充电装置 / 电子 / 充電"
+    },
+    {
+      "en": "chenqing flute",
+      "zh": "陈情笛",
+      "rating": "g",
+      "count": 756,
+      "desc": "《魔道祖师》魏无羡所持的笛子陈情",
+      "kw": "陈情 / 陈情笛子 / 魏无羡的笛子 / 鬼笛陈情"
+    },
+    {
+      "en": "chevrolet",
+      "zh": "雪佛兰",
+      "rating": "g",
+      "count": 375,
+      "desc": "通用汽车旗下的雪佛兰品牌及车辆",
+      "kw": "雪佛兰汽车 / 雪佛兰车 / 美国雪佛兰 / 通用雪佛兰 / 雪佛兰轿车 / 汽车 / 品牌 / 车辆 / シボレー"
+    },
+    {
+      "en": "chokutou",
+      "zh": "直刀",
+      "rating": "g",
+      "count": 656,
+      "desc": "日本古代的直刃单刃刀",
+      "kw": "日本直刀 / 直刃刀 / 日本刀 / 和风 / 武器"
+    },
+    {
+      "en": "chronal accelerator (overwatch)",
+      "zh": "时空加速器（守望先锋）",
+      "rating": "g",
+      "count": 747,
+      "desc": "《守望先锋》中猎空用以稳定自身时间的装置。",
+      "kw": "时间加速器 / 猎空的时空加速器 / 守望先锋时空加速器 / 时间稳定器 / 时空加速器 (守望先锋) / 特蕾西装备 / 时间锚定器 / 时空腰带"
+    },
+    {
+      "en": "circuit board",
+      "zh": "电路板",
+      "rating": "g",
+      "count": 512,
+      "desc": "电脑或电子设备的印刷电路板",
+      "kw": "线路板 / 印刷电路板 / PCB板 / 电路板纹理 / 电子电路板 / 电脑主板 / 电路板背景 / 电子元件 / circuitboard"
+    },
+    {
+      "en": "circular saw",
+      "zh": "圆锯",
+      "rating": "g",
+      "count": 1037,
+      "desc": "电动驱动的圆形锯片锯",
+      "kw": "圆盘锯 / 电锯 / 锯片 / 旋转锯 / 圆锯机 / 工具 / 机械 / buzzsaw / 丸锯 / 回転锯 / 丸鋸"
+    },
+    {
+      "en": "citroen",
+      "zh": "雪铁龙",
+      "rating": "g",
+      "count": 118,
+      "desc": "法国汽车品牌雪铁龙",
+      "kw": "雪铁龙汽车 / 法国雪铁龙 / 雪铁龙牌 / 雪铁龙车 / 汽车品牌 / 法国车"
+    },
+    {
+      "en": "clarinet",
+      "zh": "单簧管",
+      "rating": "g",
+      "count": 369,
+      "desc": "用单簧片发声的木管乐器。",
+      "kw": "黑管 / 克拉管 / 单簧管乐器 / 乐器 / 木管 / クラリネット"
+    },
+    {
+      "en": "claw (weapon)",
+      "zh": "爪（武器）",
+      "rating": "g",
+      "count": 4359,
+      "desc": "套在手上使用的利爪状武器",
+      "kw": "手甲钩 / 钩爪 / 手爪 / 爪型武器 / 利爪武器 / 爪刃 / 腕爪 / 猫爪武器"
+    },
+    {
+      "en": "clockwork",
+      "zh": "发条",
+      "rating": "g",
+      "count": 476,
+      "desc": "发条驱动的机械结构",
+      "kw": "发条装置 / 机械发条 / 齿轮机构 / 发条机构"
+    },
+    {
+      "en": "closed umbrella",
+      "zh": "收起的伞",
+      "rating": "g",
+      "count": 8355,
+      "desc": "没有撑开的伞或阳伞",
+      "kw": "收好的伞 / 未撑开的伞 / 合上的伞 / 折叠伞 / 伞 / 道具 / folded umbrella"
+    },
+    {
+      "en": "club (weapon)",
+      "zh": "棍棒（武器）",
+      "rating": "g",
+      "count": 5204,
+      "desc": "作为武器使用的粗重棍棒。",
+      "kw": "棍子 / 木棒 / 大棒 / 粗棍 / 棒槌 / 短棍 / 棍棒 / 武器 / club / 棍棒"
+    },
+    {
+      "en": "colored pencil",
+      "zh": "彩色铅笔",
+      "rating": "g",
+      "count": 629,
+      "desc": "作为物品出现在画面中的彩色铅笔",
+      "kw": "彩铅 / 色铅笔 / 木颜色笔 / 颜色铅笔 / 彩笔 / 文具 / 绘画工具 / coloured pencil"
+    },
+    {
+      "en": "combat knife",
+      "zh": "战斗刀",
+      "rating": "g",
+      "count": 1509,
+      "desc": "兼具格斗与实用功能的战斗刀",
+      "kw": "格斗刀 / 军用刀 / 战术刀 / 战斗匕首 / 军用匕首 / 军刀 / コンバットナイフ"
+    },
+    {
+      "en": "compass",
+      "zh": "指南针",
+      "rating": "g",
+      "count": 1341,
+      "desc": "指示磁北方向的罗盘",
+      "kw": "罗盘 / 指北针 / 罗盘仪 / 方位磁针 / 工具 / 导航仪器 / compasses / 罗针盘 / 方位磁針 / 羅針盤"
+    },
+    {
+      "en": "computer",
+      "zh": "电脑",
+      "rating": "g",
+      "count": 20867,
+      "desc": "按指令处理数据的电子计算机",
+      "kw": "计算机 / 个人电脑 / 台式机 / 台式电脑 / 笔记本 / 笔记本电脑 / 微机 / 电子计算机 / コンピューター / コンピュータ / パソコン"
+    },
+    {
+      "en": "computer chip",
+      "zh": "电脑芯片",
+      "rating": "g",
+      "count": 355,
+      "desc": "硅晶片制成的电脑芯片。",
+      "kw": "芯片 / 计算机芯片 / 集成电路芯片 / 晶片 / 电脑晶片 / 微芯片 / IC芯片 / 电子元件"
+    },
+    {
+      "en": "computer keyboard",
+      "zh": "电脑键盘",
+      "rating": "g",
+      "count": 9861,
+      "desc": "向电脑输入字符的键盘",
+      "kw": "键盘 / 计算机键盘 / 电脑键盘设备 / PC键盘 / 键盘外设 / 打字键盘 / 键鼠套装键盘 / 机械键盘 / keyboard (computer) / キーボード"
+    },
+    {
+      "en": "computer tower",
+      "zh": "电脑主机箱",
+      "rating": "g",
+      "count": 808,
+      "desc": "容纳电脑主要部件的机箱",
+      "kw": "电脑主机 / 主机箱 / 机箱 / 塔式机箱 / 台式机主机 / 电脑塔 / 电子设备 / 电脑配件 / desktop tower"
+    },
+    {
+      "en": "concealed weapon",
+      "zh": "隐藏武器",
+      "rating": "g",
+      "count": 595,
+      "desc": "藏于手杖、裙下等处的隐蔽武器",
+      "kw": "暗器 / 藏匿武器 / 隐蔽武器 / 藏武器 / 暗藏武器 / 隐藏兵器 / 秘密武器 / 武器 / hidden blade / アサシンブレード / 仕込み刀"
+    },
+    {
+      "en": "conductor baton",
+      "zh": "指挥棒",
+      "rating": "g",
+      "count": 1868,
+      "desc": "指挥乐团或合唱团时挥动的细棒。",
+      "kw": "乐团指挥棒 / 音乐指挥棒 / 指挥杖 / 音乐 / 指挥工具 / baton (instrument) / baton (conducting) / 指揮棒"
+    },
+    {
+      "en": "container",
+      "zh": "集装箱",
+      "rating": "g",
+      "count": 642,
+      "desc": "用于盛装或运输物品的容器，通常带有可分离的盖子。",
+      "kw": "容器 / 物品"
+    },
+    {
+      "en": "convertible",
+      "zh": "敞篷车",
+      "rating": "g",
+      "count": 1148,
+      "desc": "车顶可收起或拆卸的汽车",
+      "kw": "敞篷汽车 / 开篷车 / 敞篷跑车 / 敞篷轿车 / 折叠顶车 / 软顶敞篷车 / 汽车 / 车辆 / オープンカー / カブリオレ / コンバーチブル / オープンカーの日"
+    },
+    {
+      "en": "corded phone",
+      "zh": "有线电话",
+      "rating": "g",
+      "count": 5382,
+      "desc": "话筒带线的有线电话",
+      "kw": "座机 / 固定电话 / 有线座机 / 带线电话 / 有绳电话 / 座机电话 / 复古电话"
+    },
+    {
+      "en": "cordless phone",
+      "zh": "无绳电话",
+      "rating": "g",
+      "count": 340,
+      "desc": "话筒与座机无线连接的电话",
+      "kw": "无线电话 / 数字无绳电话 / 子母机电话 / 电话 / 电子产品"
+    },
+    {
+      "en": "core crystal (xenoblade)",
+      "zh": "核心水晶（异度神剑）",
+      "rating": "g",
+      "count": 3400,
+      "desc": "《异度神剑2》中能与御刃者共鸣的核心水晶。",
+      "kw": "核心水晶 / 异度神剑核心水晶 / 异度之刃核心水晶 / 异度神剑2核心水晶 / 异度之刃2核心水晶 / 核心水晶(异度神剑) / 游戏道具 / 幻想"
+    },
+    {
+      "en": "crane game",
+      "zh": "抓娃娃机",
+      "rating": "g",
+      "count": 2156,
+      "desc": "用机械爪抓取奖品的抓娃娃机",
+      "kw": "夹娃娃机 / 娃娃机 / 抓娃娃 / 钓娃娃机 / 机械爪游戏机 / 吊娃娃机 / 抓布偶机 / 游戏机 / ufo catcher / claw machine / claw crane / クレーンゲーム"
+    },
+    {
+      "en": "crank",
+      "zh": "曲柄",
+      "rating": "g",
+      "count": 102,
+      "desc": "用于转动机构的直角手柄",
+      "kw": "摇把 / 手摇柄 / 转柄 / 曲柄把手 / 机械部件 / 把手"
+    },
+    {
+      "en": "crescent rose",
+      "zh": "新月玫瑰",
+      "rating": "g",
+      "count": 783,
+      "desc": "《RWBY》中Ruby Rose的可变形狙击镰刀",
+      "kw": "新月玫瑰镰刀 / Ruby的镰刀 / 红色新月玫瑰 / RWBY新月玫瑰 / 武器 / 镰刀"
+    },
+    {
+      "en": "crosier",
+      "zh": "牧杖",
+      "rating": "g",
+      "count": 568,
+      "desc": "主教等高位神职人员所持的牧杖",
+      "kw": "主教权杖 / 司教杖 / 教杖 / 权杖 / 宗教用品 / 杖 / priest staff (western)"
+    },
+    {
+      "en": "crossbow",
+      "zh": "弩",
+      "rating": "g",
+      "count": 3102,
+      "desc": "靠机械装置上弦发射弩箭的弩",
+      "kw": "十字弓 / 弩弓 / 十字弩 / 劲弩 / 弩机 / 武器 / 远程武器 / クロスボウ / ボウガン"
+    },
+    {
+      "en": "crossed swords",
+      "zh": "交叉的剑",
+      "rating": "g",
+      "count": 581,
+      "desc": "两把剑交叉摆放",
+      "kw": "交叉剑 / 双剑交叉 / 交叉双剑 / 剑交叉 / 交叉的双剑 / 武器 / 剑 / swords crossed"
+    },
+    {
+      "en": "crowbar",
+      "zh": "撬棍",
+      "rating": "g",
+      "count": 1669,
+      "desc": "弯头钢制撬棍，用于撬开物体。",
+      "kw": "铁撬 / 撬棒 / 撬杠 / 起钉器 / 撬棍棒 / 工具 / 武器 / バールのようなもの"
+    },
+    {
+      "en": "crutch",
+      "zh": "拐杖",
+      "rating": "g",
+      "count": 990,
+      "desc": "支撑身体行走的拐杖",
+      "kw": "拐棍 / 手杖 / 腋下拐杖 / 肘拐 / 助行拐 / 松叶杖 / 医疗器械 / 辅助工具 / crutches / 松葉杖 / 松葉づえ"
+    },
+    {
+      "en": "crystal sword",
+      "zh": "水晶剑",
+      "rating": "g",
+      "count": 646,
+      "desc": "剑身由水晶或冰构成的剑",
+      "kw": "水晶之剑 / 冰剑 / 晶体剑 / 宝石剑 / 剑 / 武器 / 魔法 / ice sword"
+    },
+    {
+      "en": "cue stick",
+      "zh": "台球杆",
+      "rating": "g",
+      "count": 1204,
+      "desc": "台球运动中用于击球的细长球杆。",
+      "kw": "球杆 / 桌球杆 / 撞球杆 / 台球棍 / 打台球的杆 / 母球杆 / 台球杆子 / 运动器材 / pool cue"
+    },
+    {
+      "en": "cute weapon",
+      "zh": "可爱武器",
+      "rating": "g",
+      "count": 1139,
+      "desc": "走可爱风格、常为粉彩色系的武器",
+      "kw": "可爱系武器 / 可爱风武器 / 粉彩武器 / 萌系武器 / 武器 / 萌系 / Q版"
+    },
+    {
+      "en": "cutlass",
+      "zh": "海盗弯刀",
+      "rating": "g",
+      "count": 655,
+      "desc": "短而宽的单刃弯刀，加勒比海盗常用",
+      "kw": "水手弯刀 / 短弯刀 / 大砍刀 / 卡特拉斯刀 / 海贼弯刀 / 弯刀 / 武器 / 刀剑 / cutlass (sword) / カトラス"
+    },
+    {
+      "en": "cymbals",
+      "zh": "钹",
+      "rating": "g",
+      "count": 895,
+      "desc": "对击或敲击发声的铜钹",
+      "kw": "铜钹 / 铙钹 / 镲 / 乐器 / 打击乐器 / cymbal"
+    },
+    {
+      "en": "d-sword",
+      "zh": "妄想之剑",
+      "rating": "g",
+      "count": 671,
+      "desc": "《混沌之子》中的妄想之剑",
+      "kw": "D剑 / 妄想剑 / 迪剑 / D之剑 / 武器 / 剑"
+    },
+    {
+      "en": "delorean",
+      "zh": "德罗宁",
+      "rating": "g",
+      "count": 132,
+      "desc": "《回到未来》中改装为时光机的德罗宁跑车",
+      "kw": "德罗宁跑车 / 德罗宁DMC-12 / 德罗宁汽车 / 回到未来时光车 / DMC跑车 / 汽车 / 科幻 / 交通工具"
+    },
+    {
+      "en": "depth charge",
+      "zh": "深水炸弹",
+      "rating": "g",
+      "count": 792,
+      "desc": "在水下设定深度爆炸以攻击潜艇的炸弹",
+      "kw": "深弹 / 深水爆雷 / 反潜深弹 / 爆雷 / 武器 / 军事"
+    },
+    {
+      "en": "desert eagle",
+      "zh": "沙漠之鹰",
+      "rating": "g",
+      "count": 1155,
+      "desc": "以色列IMI研制的大口径半自动手枪",
+      "kw": "沙鹰 / 沙漠鹰 / 沙漠之鹰手枪 / 手枪 / 武器 / deagle / デザートイーグル"
+    },
+    {
+      "en": "digital clock",
+      "zh": "数字时钟",
+      "rating": "g",
+      "count": 1273,
+      "desc": "用数字显示时间的时钟。",
+      "kw": "数码时钟 / 数字钟 / 电子钟 / 数码钟 / 时钟"
+    },
+    {
+      "en": "digital walkman",
+      "zh": "数字随身听",
+      "rating": "g",
+      "count": 841,
+      "desc": "索尼推出的数字音乐随身听系列。",
+      "kw": "随身听 / 索尼随身听 / 数字随身听播放器 / 便携数字播放器 / MP3随身听 / 音乐播放器 / 电子设备"
+    },
+    {
+      "en": "double bass",
+      "zh": "低音提琴",
+      "rating": "g",
+      "count": 397,
+      "desc": "体积最大的低音弦乐器。",
+      "kw": "倍大提琴 / 大贝斯 / 低音大提琴 / 弦贝斯 / 乐器 / 弦乐器 / contrabass / コントラバス"
+    },
+    {
+      "en": "double blade",
+      "zh": "双刃",
+      "rating": "g",
+      "count": 707,
+      "desc": "一根柄两端各接一把刀身的武器",
+      "kw": "双刃剑 / 双头刃 / 双头刀 / 双刃刀 / 两面刃 / 双头剑 / 两端刃 / 武器 / two-bladed sword / double-blade"
+    },
+    {
+      "en": "double-sided axe",
+      "zh": "双刃斧",
+      "rating": "g",
+      "count": 803,
+      "desc": "两侧都开刃的斧头",
+      "kw": "双面斧 / 双锋斧 / 双刃战斧 / 两面斧 / 斧头 / 武器"
+    },
+    {
+      "en": "double-sided wrench",
+      "zh": "双开口扳手",
+      "rating": "g",
+      "count": 334,
+      "desc": "两端均为开口的扳手。",
+      "kw": "双头开口扳手 / 双开扳手 / 双开口板手 / 双口扳手 / 双头扳手 / 工具 / 扳手 / 双开口"
+    },
+    {
+      "en": "doujigiri yasutsuna (fate)",
+      "zh": "童子切安纲（Fate）",
+      "rating": "g",
+      "count": 592,
+      "desc": "Fate中源赖光持有的太刀",
+      "kw": "Fate童子切安纲 / 童子切 / 安纲 / 童子切安纲 (Fate) / 刀剑 / 日本刀"
+    },
+    {
+      "en": "dragonslayer (sword)",
+      "zh": "屠龙剑",
+      "rating": "g",
+      "count": 643,
+      "desc": "剑风传奇中格斯使用的巨剑",
+      "kw": "斩龙剑 / 屠龙巨剑 / 龙杀剑 / 屠龙大剑 / 嘎子巨剑 / 格斯巨剑 / 斩龙巨剑 / 屠龙刀 / ドラゴン殺し / ドラゴンころし"
+    },
+    {
+      "en": "dragunov svd",
+      "zh": "德拉贡诺夫SVD狙击枪",
+      "rating": "g",
+      "count": 581,
+      "desc": "苏联德拉贡诺夫半自动狙击步枪。",
+      "kw": "SVD狙击枪 / 德拉贡诺夫狙击步枪 / SVD狙击步枪 / 苏制SVD / 德拉贡诺夫SVD / 德拉贡诺夫 SVD / 狙击步枪 / 武器 / dragunov / svd / ドラグノフ"
+    },
+    {
+      "en": "drawing tablet",
+      "zh": "数位板",
+      "rating": "g",
+      "count": 3889,
+      "desc": "连接电脑作画用的数位板，也称手绘板",
+      "kw": "手绘板 / 绘画板 / 绘图板 / 数位绘图板 / 板子 / 电绘板 / 数位屏 / 数字画板 / ペンタブレット / ペンタブ / 液晶ペンタブレット / 液晶タブレット"
+    },
+    {
+      "en": "drill",
+      "zh": "钻头",
+      "rating": "g",
+      "count": 2721,
+      "desc": "用于钻孔的工具或钻头状武器",
+      "kw": "电钻 / 手钻 / 钻孔机 / 钻子 / 钻机 / 螺旋钻 / 螺旋卷 / 发型 / ドリル"
+    },
+    {
+      "en": "drum",
+      "zh": "鼓",
+      "rating": "g",
+      "count": 7392,
+      "desc": "打击乐器，通常由鼓槌或手敲击发声",
+      "kw": "鼓类乐器 / 鼓具 / 鼓乐器 / 打鼓 / 乐器 / 打击乐 / drums / ドラム"
+    },
+    {
+      "en": "drum magazine",
+      "zh": "弹鼓",
+      "rating": "g",
+      "count": 933,
+      "desc": "子弹螺旋排列的弹鼓",
+      "kw": "弹盘 / 鼓形弹匣 / 圆盘弹匣 / 旋转弹鼓 / 弹鼓弹匣 / 鼓型弹匣 / 弹匣 / 枪械 / ドラム型弾倉 / ドラムマガジン"
+    },
+    {
+      "en": "drum set",
+      "zh": "架子鼓",
+      "rating": "g",
+      "count": 3103,
+      "desc": "由多个鼓和镲组合的套鼓，一人演奏",
+      "kw": "爵士鼓 / 鼓组 / 套鼓 / 鼓套件 / 爵士鼓套装 / 架子鼓组 / 乐器 / 鼓 / drum kit / ドラム"
+    },
+    {
+      "en": "drumsticks",
+      "zh": "鼓槌",
+      "rating": "g",
+      "count": 5833,
+      "desc": "敲鼓用的一对鼓槌，不是鸡腿。",
+      "kw": "鼓棒 / 鼓棍 / 鼓锤 / 敲鼓棒 / 乐器 / 配件 / drumstick"
+    },
+    {
+      "en": "ducati",
+      "zh": "杜卡迪",
+      "rating": "g",
+      "count": 147,
+      "desc": "意大利著名摩托车品牌，常出现于机车题材作品中。",
+      "kw": "意大利杜卡迪 / 杜卡迪摩托 / 杜卡迪摩托车 / 摩托车 / 品牌"
+    },
+    {
+      "en": "duel disk",
+      "zh": "决斗盘",
+      "rating": "g",
+      "count": 1674,
+      "desc": "《游戏王》中戴在手臂上用于放置卡片的决斗盘。",
+      "kw": "游戏王决斗盘 / 决斗轮盘 / 战斗盘 / 卡片决斗盘 / 决斗板 / 游戏道具 / 动漫装备 / デュエルディスク"
+    },
+    {
+      "en": "earbuds",
+      "zh": "耳塞式耳机",
+      "rating": "g",
+      "count": 5793,
+      "desc": "塞在耳道外的小型耳机。",
+      "kw": "耳塞 / 平头塞 / 耳塞耳机 / 平头耳塞 / 入耳式耳机 / 耳机 / 电子产品 / 配饰"
+    },
+    {
+      "en": "earphones removed",
+      "zh": "摘下的耳机",
+      "rating": "g",
+      "count": 896,
+      "desc": "耳机被摘下，未佩戴",
+      "kw": "耳机摘下 / 取下耳机 / 耳机卸下 / 未佩戴耳机 / 耳机脱下 / 摘掉耳机 / 耳机 / 动作"
+    },
+    {
+      "en": "electric guitar",
+      "zh": "电吉他",
+      "rating": "g",
+      "count": 16688,
+      "desc": "靠拾音器把弦振动转为电信号的吉他。",
+      "kw": "电吉它 / 电子吉他 / 电吉他琴 / 电声吉他 / 乐器 / 吉他 / 摇滚 / エレキギター"
+    },
+    {
+      "en": "electrodes",
+      "zh": "电极",
+      "rating": "g",
+      "count": 691,
+      "desc": "用于导电的电极或电极片。",
+      "kw": "电极片 / 导电电极 / 电疗电极 / 贴片电极 / 电击电极 / 医疗器械 / 科幻 / electrode (object) / 電極 / でんきょく"
+    },
+    {
+      "en": "energy arrow",
+      "zh": "能量箭",
+      "rating": "g",
+      "count": 580,
+      "desc": "由能量、光或魔法凝聚成的箭矢",
+      "kw": "能量箭矢 / 光箭 / 魔法箭 / 虚拟箭 / 魔力箭 / 能量之箭 / 灵箭 / 箭矢 / light arrow / magic arrow / virtual arrow"
+    },
+    {
+      "en": "energy blade",
+      "zh": "能量刀片",
+      "rating": "g",
+      "count": 1133,
+      "desc": "非剑形的能量刀刃。",
+      "kw": "能量刃 / 能量刀刃 / 光刃 / 能量刀 / 光束刃 / 激光刀片 / 科幻 / 武器"
+    },
+    {
+      "en": "energy cannon",
+      "zh": "能量炮",
+      "rating": "g",
+      "count": 1567,
+      "desc": "发射能量的炮",
+      "kw": "能量大炮 / 能源炮 / 光线炮 / 光束炮 / 能量加农炮 / 武器 / 科幻"
+    },
+    {
+      "en": "energy gun",
+      "zh": "能量枪",
+      "rating": "g",
+      "count": 7710,
+      "desc": "发射光束或能量弹的枪械",
+      "kw": "光束枪 / 光线枪 / 能量枪械 / 镭射枪 / 激光枪 / 能量手枪 / 能量武器 / 科幻枪械 / 光线铳"
+    },
+    {
+      "en": "energy sword",
+      "zh": "能量剑",
+      "rating": "g",
+      "count": 9342,
+      "desc": "刀刃由能量而非实体材料构成的剑。",
+      "kw": "光剑 / 光束军刀 / 能量刃 / 激光剑 / 光刀 / 光束剑 / 科幻 / 武器 / light sword / beam saber / beam sword / レーザーブレード"
+    },
+    {
+      "en": "energy weapon",
+      "zh": "能源武器",
+      "rating": "g",
+      "count": 847,
+      "desc": "定向发射能量毁伤目标的武器",
+      "kw": "能量武器 / 光束兵器 / 能量兵器 / 定向能武器 / 科幻武器 / 射线武器"
+    },
+    {
+      "en": "engine",
+      "zh": "引擎",
+      "rating": "g",
+      "count": 696,
+      "desc": "把能量转化为机械功的机器",
+      "kw": "发动机 / 动力引擎 / 机械引擎 / 引擎装置 / 动力装置 / 马达 / 引擎部件 / 机械 / 엔진"
+    },
+    {
+      "en": "erhu",
+      "zh": "二胡",
+      "rating": "g",
+      "count": 461,
+      "desc": "两弦六角形琴筒的中国拉弦乐器",
+      "kw": "胡琴 / 南胡 / 两弦胡琴 / 乐器 / 中国风 / 弦乐"
+    },
+    {
+      "en": "erlenmeyer flask",
+      "zh": "锥形瓶",
+      "rating": "g",
+      "count": 1288,
+      "desc": "平底锥形瓶身、圆柱瓶颈的实验室烧瓶。",
+      "kw": "三角烧瓶 / 锥形烧瓶 / 爱伦美氏烧瓶 / 实验室器具 / 化学用品 / conical flask / 三角フラスコ"
+    },
+    {
+      "en": "euphonium",
+      "zh": "上低音号",
+      "rating": "g",
+      "count": 600,
+      "desc": "中低音铜管乐器，常见于管乐团，台湾称悠风号",
+      "kw": "悠风号 / 粗管上低音号 / 次中音号 / 上低音铜管乐器 / 低音号（悠风号） / 乐器 / 铜管乐 / ユーフォニアム"
+    },
+    {
+      "en": "evangelion (mecha)",
+      "zh": "福音战士机体",
+      "rating": "g",
+      "count": 1657,
+      "desc": "《新世纪福音战士》中对抗使徒的巨大人形兵器。",
+      "kw": "新世纪福音战士机体 / 福音战士机甲 / 使徒对抗机体 / 人形兵器机体 / 初号机 (机甲) / 科幻 / 机械 / eva"
+    },
+    {
+      "en": "excalibur (fate/stay night)",
+      "zh": "誓约胜利之剑",
+      "rating": "g",
+      "count": 4515,
+      "desc": "《Fate/stay night》中亚瑟王所持的宝具圣剑。",
+      "kw": "约定胜利之剑 / 契约胜利之剑 / 胜利誓约之剑 / 誓约之剑 / 咖喱棒 / EX咖喱棒 / Excalibur / Fate圣剑 / excalibur / エクスカリバー / 約束された勝利の剣"
+    },
+    {
+      "en": "excalibur morgan (fate)",
+      "zh": "誓约胜利之剑·摩根",
+      "rating": "g",
+      "count": 1736,
+      "desc": "Fate中Saber Alter使用的黑红色誓约胜利之剑",
+      "kw": "黑誓约胜利之剑 / 誓约胜利之剑(黑Saber) / 黑亚瑟王誓约胜利之剑 / 摩根誓约胜利之剑 / 黑化誓约胜利之剑 / 誓约胜利之剑（Alter） / 誓约胜利之剑 (黑化) (Fate) / 宝具 / dark excalibur / excalibur morgan / 約束された勝利の剣(セイバーオルタ) / エクスカリバー・モルガン"
+    },
+    {
+      "en": "exhaust pipe",
+      "zh": "排气管",
+      "rating": "g",
+      "count": 523,
+      "desc": "车辆或机械排出废气的管道",
+      "kw": "排气筒 / 尾气管 / 排气管道 / 排烟管 / 废气排放管 / 机械零件 / 汽车"
+    },
+    {
+      "en": "exposed internal machinery",
+      "zh": "露出内部机械",
+      "rating": "g",
+      "count": 937,
+      "desc": "车辆等机器的内部机械结构外露可见。",
+      "kw": "内部机械外露 / 机械内部暴露 / 内构外露 / 机械结构外露 / 内部机械可见 / 机械内构露出 / 暴露的内部机械 / 内部机械 / internal mechanical parts"
+    },
+    {
+      "en": "falchion (fire emblem)",
+      "zh": "法尔西昂（火焰之纹章）",
+      "rating": "g",
+      "count": 1362,
+      "desc": "《火焰之纹章》系列中马尔斯等人所持的传说之剑。",
+      "kw": "法尔西昂 / 法尔西翁 / 火焰之纹章法尔西昂 / 法尔西昂神剑 / 法尔西昂剑 / 法尔西昂 (火焰之纹章) / 火焰纹章 / 圣剑 / ファルシオン(ファイアーエムブレム)"
+    },
+    {
+      "en": "famicom controller",
+      "zh": "红白机手柄",
+      "rating": "g",
+      "count": 198,
+      "desc": "红白机的有线手柄，二号手柄带麦克风",
+      "kw": "FC手柄 / 红白机控制器 / 任天堂红白机手柄 / Famicom手柄 / 游戏手柄 / 道具 / 复古 / famicom gamepad"
+    },
+    {
+      "en": "feather fan",
+      "zh": "羽毛扇",
+      "rating": "g",
+      "count": 580,
+      "desc": "羽毛制成的扇子",
+      "kw": "羽扇 / 羽毛扇子 / 羽绒扇 / 羽饰扇 / 中国风 / 古风 / 扇子"
+    },
+    {
+      "en": "feature phone",
+      "zh": "功能手机",
+      "rating": "g",
+      "count": 602,
+      "desc": "智能手机之前的传统手机",
+      "kw": "功能机 / 非智能手机 / 传统手机 / 按键手机 / 老人机 / 老式手机 / 翻盖手机"
+    },
+    {
+      "en": "fender jazz bass",
+      "zh": "芬达爵士贝斯",
+      "rating": "g",
+      "count": 1036,
+      "desc": "Fender公司1960年推出的Jazz Bass型号贝斯",
+      "kw": "爵士贝斯 / 芬达贝斯 / J贝斯 / 爵士贝斯琴 / Fender Jazz Bass / 贝斯 / 乐器 / 电贝斯 / jazz bass / j-bass"
+    },
+    {
+      "en": "fender jazzmaster",
+      "zh": "芬达Jazzmaster电吉他",
+      "rating": "g",
+      "count": 559,
+      "desc": "Fender 1958年推出的Jazzmaster电吉他",
+      "kw": "芬达爵士大师 / 爵士大师电吉他 / 芬达电吉他 / 芬达 Jazzmaster / 吉他 / 乐器 / jazzmaster / psychederhythm psychomaster"
+    },
+    {
+      "en": "fender musical instruments corporation",
+      "zh": "芬达乐器公司",
+      "rating": "g",
+      "count": 245,
+      "desc": "美国著名乐器制造商芬达",
+      "kw": "Fender乐器 / 芬达吉他 / 芬达乐器 / 品牌 / 乐器"
+    },
+    {
+      "en": "fender mustang",
+      "zh": "芬达野马吉他",
+      "rating": "g",
+      "count": 489,
+      "desc": "Fender于1964年推出的Mustang电吉他",
+      "kw": "芬达野马 / 野马吉他 / 芬达野马电吉他 / 野马电吉他 / 芬达电吉他野马型号 / 吉他 / 乐器 / フェンダー・ムスタング / ムスタング(ギター)"
+    },
+    {
+      "en": "fender precision bass",
+      "zh": "芬达Precision贝斯",
+      "rating": "g",
+      "count": 528,
+      "desc": "Fender于1951年推出的Precision贝斯",
+      "kw": "芬达P贝斯 / P贝斯 / 芬德Precision贝斯 / 芬达P型贝斯 / 芬达精准贝斯 / 芬达电贝斯 / 电贝斯 / 乐器 / precision bass / プレシジョンベース"
+    },
+    {
+      "en": "fender stratocaster",
+      "zh": "芬达Stratocaster电吉他",
+      "rating": "g",
+      "count": 1410,
+      "desc": "Fender推出的经典Stratocaster型号电吉他。",
+      "kw": "芬达电吉他 / 芬达斯特拉特 / 芬达斯特拉托 / 芬达Strat / 芬达Stratocaster / 斯特拉特电吉他 / 斯特拉托电吉他 / 芬达st / stratocaster / ストラトキャスター / ストラト"
+    },
+    {
+      "en": "fender telecaster",
+      "zh": "芬达Telecaster电吉他",
+      "rating": "g",
+      "count": 872,
+      "desc": "Fender于1951年推出的Telecaster电吉他",
+      "kw": "芬达Tele电吉他 / 芬达特雷卡斯特 / 芬达电吉他 / 特雷卡斯特电吉他 / 芬达T型电吉他 / 芬达 Telecaster / 吉他 / 乐器 / telecaster / フェンダー・テレキャスター / テレキャスター"
+    },
+    {
+      "en": "ferrari",
+      "zh": "法拉利",
+      "rating": "g",
+      "count": 508,
+      "desc": "意大利超级跑车制造商法拉利",
+      "kw": "法拉利跑车 / 法拉利轿车 / 法拉利汽车 / 汽车 / 跑车 / フェラーリ"
+    },
+    {
+      "en": "fiat",
+      "zh": "菲亚特",
+      "rating": "g",
+      "count": 285,
+      "desc": "意大利汽车及工业集团菲亚特",
+      "kw": "菲亚特汽车 / 意大利菲亚特 / 飞雅特 / 飞亚特 / 菲亚特公司 / 汽车 / 品牌 / 意大利车 / フィアット"
+    },
+    {
+      "en": "field radio",
+      "zh": "野战无线电",
+      "rating": "g",
+      "count": 186,
+      "desc": "可背负的军用无线电设备",
+      "kw": "野战电台 / 军用无线电 / 背负式电台 / 战场无线电 / 军用电台 / 战地无线电 / 通讯设备 / 军事装备"
+    },
+    {
+      "en": "fighter jet",
+      "zh": "喷气式战斗机",
+      "rating": "g",
+      "count": 3817,
+      "desc": "喷气式军用战斗机",
+      "kw": "战斗机 / 喷气战斗机 / 歼击机 / 战机 / 飞机 / 军事 / jet fighter / 戦闘机 / ジェット戦闘機 / 戦闘機"
+    },
+    {
+      "en": "fire extinguisher",
+      "zh": "灭火器",
+      "rating": "g",
+      "count": 749,
+      "desc": "喷射水或泡沫灭火的便携装置",
+      "kw": "灭火筒 / 消火器 / 灭火瓶 / 消防灭火器 / 工具 / 消防设备"
+    },
+    {
+      "en": "fire truck",
+      "zh": "消防车",
+      "rating": "g",
+      "count": 107,
+      "desc": "配备水带云梯的消防车辆",
+      "kw": "救火车 / 火警车 / 消防车辆 / 灭火车 / 科技 / 车辆 / firetruck / fire engine"
+    },
+    {
+      "en": "firelock",
+      "zh": "前装火枪",
+      "rating": "g",
+      "count": 1324,
+      "desc": "用外部点火机构击发的前装古董枪械",
+      "kw": "火绳枪 / 燧发枪 / 明火枪 / 旧式火枪 / 武器 / 火枪"
+    },
+    {
+      "en": "fish hook",
+      "zh": "鱼钩",
+      "rating": "g",
+      "count": 778,
+      "desc": "系在钓线上用来钓鱼的金属钩",
+      "kw": "钓钩 / 鱼钓 / 鱼钩子 / 钓鱼钩 / 渔具 / 钩子 / fishing hook"
+    },
+    {
+      "en": "fishing line",
+      "zh": "钓鱼线",
+      "rating": "g",
+      "count": 1307,
+      "desc": "钓竿上用来钓鱼的线",
+      "kw": "鱼线 / 钓线 / 渔线 / 钓鱼丝 / 钓丝 / 尼龙线 / 钓鱼用品 / 渔具 / fishing lines / 钓糸 / 釣り糸 / 釣糸"
+    },
+    {
+      "en": "flamethrower",
+      "zh": "火焰喷射器",
+      "rating": "g",
+      "count": 1243,
+      "desc": "喷出燃烧胶状燃料的武器",
+      "kw": "喷火器 / 火焰放射器 / 火炎喷射器 / 喷火枪 / 燃烧武器 / 武器 / 火焰武器 / 火炎放射器"
+    },
+    {
+      "en": "flaming sword",
+      "zh": "燃烧的剑",
+      "rating": "g",
+      "count": 2157,
+      "desc": "由火焰构成或熊熊燃烧的剑",
+      "kw": "火焰剑 / 炎剑 / 冒火剑 / 烈焰剑 / 着火剑 / 剑 / 武器 / burning sword / fire sword / flame sword / fiery sword"
+    },
+    {
+      "en": "flaming weapon",
+      "zh": "火焰武器",
+      "rating": "g",
+      "count": 2836,
+      "desc": "燃烧着或由火焰构成的武器。",
+      "kw": "燃烧武器 / 火焰兵器 / 着火武器 / 火之武器 / 烈焰武器 / 武器 / 火焰属性 / burning weapon / fire weapon / flame weapon / fiery weapon"
+    },
+    {
+      "en": "flask",
+      "zh": "烧瓶",
+      "rating": "g",
+      "count": 6236,
+      "desc": "实验室中盛装液体的玻璃容器",
+      "kw": "三角烧瓶 / 平底烧瓶 / 圆底烧瓶 / 玻璃烧瓶 / 实验室烧瓶 / 锥形瓶 / 实验室器具 / 玻璃 / フラスコ"
+    },
+    {
+      "en": "flintlock",
+      "zh": "燧发枪",
+      "rating": "g",
+      "count": 1041,
+      "desc": "以燧石击打钢片点火的老式枪械",
+      "kw": "燧石枪 / 火石枪 / 燧发式枪 / 打火枪 / 燧发枪械 / 火枪 / 枪械 / 古董武器 / フリントロック式 / フリントロック"
+    },
+    {
+      "en": "flip phone",
+      "zh": "翻盖手机",
+      "rating": "g",
+      "count": 10037,
+      "desc": "可上下翻开的翻盖式手机",
+      "kw": "翻盖机 / 折叠手机 / 翻盖电话 / 翻盖式手机 / 手机 / 电子设备"
+    },
+    {
+      "en": "floating screen",
+      "zh": "浮动屏幕",
+      "rating": "g",
+      "count": 165,
+      "desc": "悬浮在空中的屏幕或显示器",
+      "kw": "悬浮屏 / 漂浮屏幕 / 浮空屏幕 / 悬浮屏幕 / 科幻 / 显示器 / 界面"
+    },
+    {
+      "en": "floating sword",
+      "zh": "漂浮的剑",
+      "rating": "g",
+      "count": 1287,
+      "desc": "无外力支撑自行漂浮在空中的剑。",
+      "kw": "浮剑 / 悬浮剑 / 飞剑 / 浮空剑 / 漂浮剑 / 浮游剑 / 剑 / 武器 / floating swords / flying sword"
+    },
+    {
+      "en": "floating weapon",
+      "zh": "漂浮武器",
+      "rating": "g",
+      "count": 3061,
+      "desc": "无外力支撑自行漂浮的武器",
+      "kw": "浮空武器 / 悬空武器 / 悬浮武器 / 飘浮武器 / 武器 / 科幻"
+    },
+    {
+      "en": "floppy disk",
+      "zh": "软盘",
+      "rating": "g",
+      "count": 504,
+      "desc": "封在塑料壳内的磁性存储软盘",
+      "kw": "软磁盘 / 磁盘 / 3.5英寸软盘 / 磁碟 / 软碟 / 电脑软盘 / 塑料磁盘 / 存储设备 / フロッピーディスク / ディスケット"
+    },
+    {
+      "en": "fluorescent lamp",
+      "zh": "荧光灯",
+      "rating": "g",
+      "count": 1184,
+      "desc": "靠汞蒸气荧光发光的管状灯具",
+      "kw": "日光灯 / 灯管 / 荧光灯管 / 日光灯管 / 荧光管 / 灯具 / 室内 / 蛍光灯"
+    },
+    {
+      "en": "flute",
+      "zh": "长笛",
+      "rating": "g",
+      "count": 6813,
+      "desc": "西方横吹管乐器，带吹孔和按键。",
+      "kw": "横笛 / 西洋长笛 / 笛子 / 长笛乐器 / 银笛 / 音频标签 / 乐器 / 吹管乐器 / フルート"
+    },
+    {
+      "en": "flying nimbus",
+      "zh": "筋斗云",
+      "rating": "g",
+      "count": 635,
+      "desc": "孙悟空驾乘的觔斗云",
+      "kw": "觔斗云 / 斤斗云 / 金斗云 / 筋斗雲 / 觔斗雲 / 金斗雲 / 孙悟空筋斗云 / 悟空筋斗云 / kintoun"
+    },
+    {
+      "en": "flying saucer",
+      "zh": "飞碟",
+      "rating": "g",
+      "count": 634,
+      "desc": "碟形不明飞行物",
+      "kw": "不明飞行物 / 幽浮 / 碟形飞行器 / 外星飞碟 / 飞盘状飞行物 / UFO / 飞行器 / 科幻 / ufo / 空飛ぶ円盤"
+    },
+    {
+      "en": "fn p90",
+      "zh": "FN P90冲锋枪",
+      "rating": "g",
+      "count": 1340,
+      "desc": "FN公司研制的5.7毫米无托冲锋枪",
+      "kw": "P90冲锋枪 / FN P90 / 比利时P90冲锋枪 / 冲锋枪 / p90"
+    },
+    {
+      "en": "folded fan",
+      "zh": "折扇闭合",
+      "rating": "g",
+      "count": 8122,
+      "desc": "收拢起来的折扇",
+      "kw": "合扇 / 折扇合起 / 收起的折扇 / 折叠扇 / 闭扇 / 折扇收起 / 折扇 / 扇子 / closed fan / 折叠的扇子"
+    },
+    {
+      "en": "ford",
+      "zh": "福特",
+      "rating": "g",
+      "count": 496,
+      "desc": "美国福特汽车公司",
+      "kw": "福特汽车 / 福特车 / 美国福特 / 福特牌汽车 / 福特公司 / 汽车 / 品牌 / フォード"
+    },
+    {
+      "en": "foregrip",
+      "zh": "前握把",
+      "rating": "g",
+      "count": 1962,
+      "desc": "枪身前部供握持、提高稳定性的握把。",
+      "kw": "前握柄 / 前把手 / 垂直握把 / 枪前握把 / 前置握把 / 前托握把 / 枪械配件 / フォアグリップ"
+    },
+    {
+      "en": "french horn",
+      "zh": "圆号",
+      "rating": "g",
+      "count": 403,
+      "desc": "盘绕成圈、末端喇叭口的圆号。",
+      "kw": "法国号 / 法国圆号 / 法兰西号 / 乐器 / 铜管乐器 / フレンチホルン"
+    },
+    {
+      "en": "frilled umbrella",
+      "zh": "荷叶边雨伞",
+      "rating": "g",
+      "count": 1681,
+      "desc": "带荷叶边的雨伞。",
+      "kw": "荷叶边伞 / 花边雨伞 / 蕾丝边伞 / 褶皱边雨伞 / 波浪边雨伞 / 荷叶伞 / 雨伞 / 伞具"
+    },
+    {
+      "en": "funnels (gundam)",
+      "zh": "浮游炮（高达）",
+      "rating": "g",
+      "count": 1202,
+      "desc": "《高达》中由新人类远程操控的浮游炮",
+      "kw": "浮游炮 / 高达浮游炮 / 感应炮 / 精神感应炮 / 浮游炮台 / 浮游炮 (高达) / 武器 / 科幻 / funnels"
+    },
+    {
+      "en": "fuuin no tsue",
+      "zh": "封印之杖",
+      "rating": "g",
+      "count": 2099,
+      "desc": "《魔卡少女樱》中木之本樱使用的封印之杖",
+      "kw": "封印杖 / 小樱的封印之杖 / 魔卡少女樱封印之杖 / 樱之封印杖 / 武器 / 法杖 / 封印の杖"
+    },
+    {
+      "en": "gae bolg (fate)",
+      "zh": "刺穿死棘之枪（Fate）",
+      "rating": "g",
+      "count": 3968,
+      "desc": "Fate中库丘林的红色长枪",
+      "kw": "盖博尔加之枪 / 死棘之枪 / GB / 刺穿死棘枪 / 穿刺之死棘枪 (Fate) / Fate武器 / 长枪 / gae bolg"
+    },
+    {
+      "en": "galaxia (sword)",
+      "zh": "银河剑",
+      "rating": "g",
+      "count": 519,
+      "desc": "《星之卡比》中金属骑士的金色佩剑",
+      "kw": "银河之剑 / 宝剑银河 / 星之卡比银河剑 / 伽拉西亚 (剑) / 武器 / 剑 / 宝剣ギャラクシア"
+    },
+    {
+      "en": "game boy",
+      "zh": "Game Boy掌机",
+      "rating": "g",
+      "count": 1602,
+      "desc": "任天堂的掌上游戏机系列",
+      "kw": "任天堂掌机 / GB掌机 / 游戏男孩掌机 / 任天堂Game Boy / 任天堂GB / 掌上游戏机 / Game Boy / 任天堂 / gameboy / ゲームボーイ"
+    },
+    {
+      "en": "game boy advance",
+      "zh": "GBA掌机",
+      "rating": "g",
+      "count": 545,
+      "desc": "任天堂2001年发售的32位掌机。",
+      "kw": "GBA / 游戏男孩Advance / 任天堂GBA掌机 / GBA游戏机 / 游戏机 / 掌机 / gameboy advance / ゲームボーイアドバンス"
+    },
+    {
+      "en": "game boy advance sp",
+      "zh": "Game Boy Advance SP",
+      "rating": "g",
+      "count": 207,
+      "desc": "可折叠翻盖设计的Game Boy Advance SP",
+      "kw": "GBA SP / GBASP / GBA折叠机 / 游戏机 / 掌机 / gameboy advance sp / ゲームボーイアドバンスsp"
+    },
+    {
+      "en": "game cartridge",
+      "zh": "游戏卡带",
+      "rating": "g",
+      "count": 539,
+      "desc": "卡带式游戏机使用的游戏卡带",
+      "kw": "游戏卡 / 卡带 / 卡匣 / 游戏卡匣 / 游戏配件 / 电子产品"
+    },
+    {
+      "en": "game console",
+      "zh": "游戏机",
+      "rating": "g",
+      "count": 6016,
+      "desc": "连接电视使用的家用游戏主机",
+      "kw": "游戏主机 / 家用游戏机 / 电视游戏机 / 电子设备 / 娱乐 / video game console / ゲーム機"
+    },
+    {
+      "en": "game controller",
+      "zh": "游戏手柄",
+      "rating": "g",
+      "count": 19067,
+      "desc": "与主机分离、用于操作游戏的手柄",
+      "kw": "手柄 / 游戏控制器 / 游戏机手柄 / 电玩手柄 / 主机手柄 / 摇杆手柄 / 游戏配件 / 控制器 / gamepad / コントローラー"
+    },
+    {
+      "en": "game link cable",
+      "zh": "游戏联机线",
+      "rating": "g",
+      "count": 106,
+      "desc": "连接两台 Game Boy 等掌机进行联机对战的线缆",
+      "kw": "联机线 / 连接线 / GB联机线 / Game Boy联机线 / 宝可梦联机线 / 对战线 / 游戏链接电缆 / game boy配件"
+    },
+    {
+      "en": "gamecube controller",
+      "zh": "GameCube手柄",
+      "rating": "g",
+      "count": 232,
+      "desc": "任天堂GameCube游戏机专用手柄。",
+      "kw": "NGC手柄 / GameCube控制器 / 任天堂GameCube手柄 / GC手柄 / GameCube 控制器 / 游戏手柄 / 配件"
+    },
+    {
+      "en": "gamepad",
+      "zh": "游戏手柄",
+      "rating": "g",
+      "count": 2305,
+      "desc": "经典的游戏控制器，可双手握持，提供开始、选择、方向导航等功能",
+      "kw": "控制器 / 游戏配件"
+    },
+    {
+      "en": "gatling gun",
+      "zh": "加特林机枪",
+      "rating": "g",
+      "count": 3264,
+      "desc": "多根枪管旋转射击的重机枪",
+      "kw": "加特林 / 格林机枪 / 多管机枪 / 转管机枪 / 旋转机枪 / 加特林机关枪 / 火神炮 / 机炮 / gatling / ガトリングガン / ガトリング砲"
+    },
+    {
+      "en": "gauge",
+      "zh": "仪表",
+      "rating": "g",
+      "count": 500,
+      "desc": "用指针在刻度上显示数值的仪表",
+      "kw": "计量器 / 计器 / 测量仪表 / 指针仪表 / 仪表盘 / 量规 / 量表 / 计量表 / 計量器 / けいりょうき / 計器 / けいき"
+    },
+    {
+      "en": "gears",
+      "zh": "齿轮",
+      "rating": "g",
+      "count": 8762,
+      "desc": "互相咬合传动的机械零件",
+      "kw": "牙轮 / 机轮 / 传动齿轮 / 机械 / 零件 / 科幻 / gear / cog / cogs / 歯车"
+    },
+    {
+      "en": "giant brush",
+      "zh": "巨型画笔",
+      "rating": "g",
+      "count": 609,
+      "desc": "大到需要抱着挥动的画笔",
+      "kw": "大画笔 / 巨笔 / 大型画笔 / 超大画笔 / 巨大画笔 / 巨无霸画笔 / 大毛笔 / 中国风 / giant paintbrush"
+    },
+    {
+      "en": "gibson brands inc",
+      "zh": "吉普森公司",
+      "rating": "g",
+      "count": 293,
+      "desc": "美国著名吉他及乐器制造商吉普森公司。",
+      "kw": "吉布森公司 / 吉普森吉他公司 / 吉布森吉他公司 / 吉普森乐器 / 吉布森乐器 / 吉普森品牌 / 吉布森品牌 / 品牌"
+    },
+    {
+      "en": "gibson flying v",
+      "zh": "吉布森Flying V电吉他",
+      "rating": "g",
+      "count": 268,
+      "desc": "Gibson公司1958年推出的V形电吉他",
+      "kw": "Flying V吉他 / 飞行V吉他 / V型吉他 / 吉普森Flying V / Gibson Flying V / 吉他 / 乐器 / flying v"
+    },
+    {
+      "en": "gibson les paul",
+      "zh": "吉普森Les Paul吉他",
+      "rating": "g",
+      "count": 3175,
+      "desc": "Gibson公司生产的经典Les Paul实心电吉他。",
+      "kw": "吉普森莱斯保罗吉他 / 莱斯保罗电吉他 / 吉布森莱斯保罗 / 吉普森莱斯·保罗 / 莱斯·保罗型电吉他 / 吉普森莱斯保罗电吉他 / 吉普森 Les Paul / 吉他 / les paul / レスポール / レス・ポール"
+    },
+    {
+      "en": "gibson sg",
+      "zh": "吉普森双缺角电吉他",
+      "rating": "g",
+      "count": 433,
+      "desc": "Gibson公司生产的SG型双缺角实心电吉他。",
+      "kw": "吉普森实心电吉他 / 双缺角电吉他 / 实心电吉他 / 吉普森电吉他 / Gibson SG / 吉他 / 乐器 / sg"
+    },
+    {
+      "en": "glaive (polearm)",
+      "zh": "长柄刀",
+      "rating": "g",
+      "count": 1674,
+      "desc": "欧洲长柄武器，杆端装有单刃刀身。",
+      "kw": "长柄砍刀 / 阔刃长柄刀 / 欧洲长柄刀 / 长柄武器 / 戈矛类长刀 / 单刃刀 / glaive"
+    },
+    {
+      "en": "glock",
+      "zh": "格洛克",
+      "rating": "g",
+      "count": 2198,
+      "desc": "奥地利格洛克公司生产的系列手枪。",
+      "kw": "格洛克手枪 / 格洛克17 / 格洛克19 / 格洛克18C / 手枪 / 枪械 / glock 17 / glock 19 / glock 18c / グロック"
+    },
+    {
+      "en": "glowing sword",
+      "zh": "发光的剑",
+      "rating": "g",
+      "count": 4588,
+      "desc": "散发着光芒的剑",
+      "kw": "发光剑 / 光剑 / 光芒剑 / 亮剑 / 光效剑 / 荧光剑 / 闪光的剑 / 魔法剑"
+    },
+    {
+      "en": "glowing weapon",
+      "zh": "发光的武器",
+      "rating": "g",
+      "count": 7471,
+      "desc": "任何发光的武器",
+      "kw": "武器发光 / 光效武器 / 带光武器 / 冒光武器 / 发光的兵器 / 武器 / 魔法"
+    },
+    {
+      "en": "gohei",
+      "zh": "御币",
+      "rating": "g",
+      "count": 22459,
+      "desc": "神道教仪式中缀有纸垂的木杖",
+      "kw": "币束 / 御币束 / 神道御币 / 纸垂杖 / 日本风 / 神道道具 / 御幣 / 幣束"
+    },
+    {
+      "en": "golf club",
+      "zh": "高尔夫球杆",
+      "rating": "g",
+      "count": 1400,
+      "desc": "打高尔夫球用的球杆。",
+      "kw": "高尔夫杆 / 高尔夫球棒 / 高球杆 / 高尔夫 / 体育器材 / ゴルフクラブ / 골프채 / 高爾夫球桿"
+    },
+    {
+      "en": "grand piano",
+      "zh": "三角钢琴",
+      "rating": "g",
+      "count": 3588,
+      "desc": "琴弦与音板水平放置的大型钢琴。",
+      "kw": "平台钢琴 / 大钢琴 / 卧式钢琴 / 演奏会钢琴 / 音乐会钢琴 / 三角琴 / 平台琴 / 乐器 / グランドピアノ"
+    },
+    {
+      "en": "greatsword",
+      "zh": "巨剑",
+      "rating": "g",
+      "count": 5364,
+      "desc": "需双手挥动的巨大长剑",
+      "kw": "大剑 / 双手剑 / 双手大剑 / 重剑 / 武器 / 剑"
+    },
+    {
+      "en": "green umbrella",
+      "zh": "绿色雨伞",
+      "rating": "g",
+      "count": 745,
+      "desc": "颜色为绿色的雨伞",
+      "kw": "绿色伞 / 绿伞 / 绿色阳伞 / 绿雨伞 / 绿阳伞 / 伞 / 绿色 / 道具"
+    },
+    {
+      "en": "grenade",
+      "zh": "手榴弹",
+      "rating": "g",
+      "count": 5706,
+      "desc": "用手投掷的小型爆炸物。",
+      "kw": "手雷 / 菠萝弹 / 手投弹 / 武器 / grenades / 手榴弾"
+    },
+    {
+      "en": "grenade launcher",
+      "zh": "榴弹发射器",
+      "rating": "g",
+      "count": 1777,
+      "desc": "发射榴弹的武器。",
+      "kw": "榴弹炮 / 枪榴弹发射器 / 榴弹枪 / 榴弹筒 / 榴弹投射器 / 武器 / 枪械 / グレネードランチャー"
+    },
+    {
+      "en": "grenade pin",
+      "zh": "手榴弹保险销",
+      "rating": "g",
+      "count": 3016,
+      "desc": "手榴弹上拔下的保险销或拉环。",
+      "kw": "手榴弹拉环 / 手榴弹插销 / 手雷保险销 / 手雷拉环 / 手榴弹安全销 / 手榴弹保险拉环 / 手榴弹别针 / 武器"
+    },
+    {
+      "en": "guan dao",
+      "zh": "关刀",
+      "rating": "g",
+      "count": 550,
+      "desc": "中国长柄大刀，因关羽而得名",
+      "kw": "青龙偃月刀 / 偃月刀 / 大刀 / 关王刀 / 关羽刀 / 长柄大刀 / 长柄刀 / 關刀 / 大刀(中国の武器)"
+    },
+    {
+      "en": "guitar strap",
+      "zh": "吉他背带",
+      "rating": "g",
+      "count": 934,
+      "desc": "演奏时挂在肩上的吉他背带",
+      "kw": "吉他肩带 / 吉他带 / 吉他挂带 / 背带 / 乐器配件"
+    },
+    {
+      "en": "gun on back",
+      "zh": "背枪",
+      "rating": "g",
+      "count": 1248,
+      "desc": "背在背上的枪械",
+      "kw": "背着枪 / 枪背在背上 / 枪背身后 / 枪在背上 / 背负枪械 / 背后挂枪 / 背上的枪 / 武器 / rifle on back"
+    },
+    {
+      "en": "gun sling",
+      "zh": "枪背带",
+      "rating": "g",
+      "count": 3668,
+      "desc": "用于背负或悬挂枪械的背带。",
+      "kw": "枪带 / 枪用背带 / 枪械背带 / 枪绳 / 枪挂带 / 枪械配件 / 武器 / sling (firearms) / sling"
+    },
+    {
+      "en": "gunblade",
+      "zh": "枪刃",
+      "rating": "g",
+      "count": 1546,
+      "desc": "枪与剑结合的虚构武器，常见于《最终幻想》",
+      "kw": "铳刃 / 枪剑 / 枪刀 / 铳剑 / 武器 / 科幻 / ガンブレード"
+    },
+    {
+      "en": "gunpod",
+      "zh": "枪荚舱",
+      "rating": "g",
+      "count": 558,
+      "desc": "挂在飞行器外部的机炮吊舱",
+      "kw": "机炮吊舱 / 枪吊舱 / 航炮吊舱 / 机枪荚舱 / 武器吊舱 / 武器 / 航空"
+    },
+    {
+      "en": "guqin",
+      "zh": "古琴",
+      "rating": "g",
+      "count": 270,
+      "desc": "七弦的中国传统弹拨乐器",
+      "kw": "七弦琴 / 中国古琴 / 瑶琴 / 中国风 / 古风 / 乐器"
+    },
+    {
+      "en": "guzheng",
+      "zh": "古筝",
+      "rating": "g",
+      "count": 147,
+      "desc": "中国传统弹拨乐器，通常有十六至二十一弦。",
+      "kw": "汉筝 / 中国古筝 / 传统古筝 / 二十一弦古筝 / 古筝乐器 / 中国风 / 古风 / 乐器"
+    },
+    {
+      "en": "h&k g11",
+      "zh": "HK G11步枪",
+      "rating": "g",
+      "count": 556,
+      "desc": "德国无壳弹突击步枪原型",
+      "kw": "G11无壳弹步枪 / 赫克勒科赫G11 / G11步枪 / 无壳弹步枪 / H&K G11步枪 / 步枪 / 枪械 / 武器 / g11"
+    },
+    {
+      "en": "h&k hk416",
+      "zh": "HK416突击步枪",
+      "rating": "g",
+      "count": 2462,
+      "desc": "采用G36活塞系统的AR系突击步枪",
+      "kw": "HK416步枪 / M27步枪 / M27 IAR / 黑克勒-科赫HK416 / HK416 / 枪械 / 突击步枪 / 武器 / m27 iar / hk416"
+    },
+    {
+      "en": "h&k mp5",
+      "zh": "MP5冲锋枪",
+      "rating": "g",
+      "count": 657,
+      "desc": "德国九毫米滚柱延迟冲锋枪",
+      "kw": "MP5型冲锋枪 / 黑克勒-科赫MP5冲锋枪 / MP5冲锋枪（德制） / H&K MP5 / 冲锋枪 / 武器 / mp5"
+    },
+    {
+      "en": "h&k mp7",
+      "zh": "HK MP7冲锋枪",
+      "rating": "g",
+      "count": 592,
+      "desc": "德国四点六毫米个人防卫武器",
+      "kw": "MP7冲锋枪 / HK MP7 / MP7个人防卫武器 / MP7 / H&K MP7冲锋枪 / 冲锋枪 / 枪械 / mp7"
+    },
+    {
+      "en": "h&k p30",
+      "zh": "HK P30手枪",
+      "rating": "g",
+      "count": 525,
+      "desc": "HK公司的聚合物框架半自动手枪。",
+      "kw": "P30手枪 / 赫克勒-科赫P30 / P30半自动手枪 / 赫克勒-科赫P30手枪 / H&K P30手枪 / H&K P30 / 手枪 / 武器 / p30"
+    },
+    {
+      "en": "h&k ump",
+      "zh": "HK UMP冲锋枪",
+      "rating": "g",
+      "count": 1462,
+      "desc": "德国通用冲锋枪",
+      "kw": "UMP冲锋枪 / UMP9 / UMP45 / UMP40 / 黑克勒-科赫UMP / 德国UMP冲锋枪 / UMP微冲 / UMP系列冲锋枪 / h&k ump9 / h&k ump40 / h&k ump45 / hk ump"
+    },
+    {
+      "en": "halberd",
+      "zh": "戟",
+      "rating": "g",
+      "count": 2874,
+      "desc": "带斧刃与枪尖的长柄武器",
+      "kw": "长戟 / 长柄斧 / 斧枪 / 长柄战斧 / 长柄斧枪 / 戟斧 / 长柄武器 / 斧戟 / pole axe / pollaxe / poleaxe / ハルバード"
+    },
+    {
+      "en": "hand net",
+      "zh": "手抄网",
+      "rating": "g",
+      "count": 2770,
+      "desc": "带网兜和长柄的抄网。",
+      "kw": "抄网 / 捞鱼网 / 手持网 / 手网 / 长柄网 / 网兜 / 捕虫网 / 工具"
+    },
+    {
+      "en": "handgun",
+      "zh": "手枪",
+      "rating": "g",
+      "count": 55475,
+      "desc": "单手可持的短枪管火器。",
+      "kw": "短枪 / 手铳 / 小手枪 / 手枪枪械 / 枪械 / 武器 / 手持 / hand gun / pistol / 拳铳 / 拳銃"
+    },
+    {
+      "en": "handheld electric fan",
+      "zh": "手持电风扇",
+      "rating": "g",
+      "count": 529,
+      "desc": "个人使用的小型手持电动风扇",
+      "kw": "手持风扇 / 便携电风扇 / 手持小电扇 / 便携小风扇 / 小手拿风扇 / 电器 / 道具 / handheld fan"
+    },
+    {
+      "en": "handheld game console",
+      "zh": "掌上游戏机",
+      "rating": "g",
+      "count": 15985,
+      "desc": "便于携带的掌上游戏机",
+      "kw": "掌机 / 便携游戏机 / 手持游戏机 / 便携式游戏机 / 游戏设备 / 电子产品 / handheld / 携帯ゲーム機"
+    },
+    {
+      "en": "handlebar",
+      "zh": "车把",
+      "rating": "g",
+      "count": 628,
+      "desc": "自行车或摩托车带握把的车把",
+      "kw": "车把手 / 自行车把 / 摩托车把 / 龙头把 / 自行车把手 / 摩托车把手"
+    },
+    {
+      "en": "hanging lantern",
+      "zh": "悬挂灯笼",
+      "rating": "g",
+      "count": 691,
+      "desc": "明显悬挂着的灯笼",
+      "kw": "挂着的灯笼 / 挂灯笼 / 吊灯笼 / 悬吊灯笼 / 灯笼悬挂 / 灯笼吊饰 / 吊灯 / 灯笼"
+    },
+    {
+      "en": "hanging light",
+      "zh": "吊灯",
+      "rating": "g",
+      "count": 1907,
+      "desc": "由链或杆吊在天花板上的灯具。",
+      "kw": "悬挂灯 / 吊挂灯 / 悬挂灯具 / 顶吊灯 / 灯具 / 照明"
+    },
+    {
+      "en": "harmonica",
+      "zh": "口琴",
+      "rating": "g",
+      "count": 347,
+      "desc": "吹奏式自由簧管乐器",
+      "kw": "布鲁斯口琴 / 蓝调口琴 / 十孔口琴 / 半音阶口琴 / 复音口琴 / 吹琴 / 乐器 / 吹奏乐器 / ハーモニカ"
+    },
+    {
+      "en": "harp",
+      "zh": "竖琴",
+      "rating": "g",
+      "count": 1639,
+      "desc": "三角形框架的拨弦竖琴",
+      "kw": "拨弦竖琴 / 大竖琴 / 古典竖琴 / 三角竖琴 / 竖琴乐器 / 乐器 / 弦乐器"
+    },
+    {
+      "en": "harpoon",
+      "zh": "鱼叉",
+      "rating": "g",
+      "count": 624,
+      "desc": "捕鲸捕鱼用的带倒钩鱼叉。",
+      "kw": "捕鲸叉 / 渔叉 / 渔镖 / 叉鱼镖 / 鱼镖 / 武器 / 狩猎 / 銛"
+    },
+    {
+      "en": "hashitsuki nata",
+      "zh": "带嘴柴刀",
+      "rating": "g",
+      "count": 810,
+      "desc": "带钩嘴的日式柴刀，病娇常用武器",
+      "kw": "钩嘴柴刀 / 嘴付柴刀 / 带钩柴刀 / 日式柴刀 / 箸付那太 / 工具 / 日本风 / nose hatchet / hashinata / 嘴付き鉈"
+    },
+    {
+      "en": "hatchet (axe)",
+      "zh": "短柄斧",
+      "rating": "g",
+      "count": 504,
+      "desc": "单手使用的小型斧头",
+      "kw": "手斧 / 短斧 / 小手斧 / 单手斧 / 短柄小斧 / 短柄手斧 / 短柄战斧 / 轻便斧 / western hatchet"
+    },
+    {
+      "en": "hauchiwa",
+      "zh": "天狗叶扇",
+      "rating": "g",
+      "count": 2148,
+      "desc": "天狗持有的羽扇",
+      "kw": "羽团扇 / 天狗羽扇 / 羽扇 / 天狗团扇 / 天狗扇 / 乌鸦天狗扇 / 天狗羽毛扇 / 军扇 / 羽団扇 / 羽うちわ / 葉うちわ / 天狗葉扇"
+    },
+    {
+      "en": "heart wand",
+      "zh": "心形魔杖",
+      "rating": "g",
+      "count": 926,
+      "desc": "顶端带心形的魔杖。",
+      "kw": "爱心魔杖 / 心形法杖 / 爱心法杖 / 心形魔法杖 / 爱心魔法杖 / 心形手杖 / 心形权杖 / 爱心权杖"
+    },
+    {
+      "en": "heavenly boat maanna",
+      "zh": "天舟玛安娜",
+      "rating": "g",
+      "count": 775,
+      "desc": "《Fate/Grand Order》中伊什塔尔的飞船兼巨弓",
+      "kw": "天舟曼达 / 天堂船玛安娜 / 天舟玛安娜号 / 伊什塔尔天舟 / 天舟玛安娜飞船 / 天之舟马安娜 / 角色 / 人物 / 天舟マアンナ"
+    },
+    {
+      "en": "heavy machine gun",
+      "zh": "重机枪",
+      "rating": "g",
+      "count": 808,
+      "desc": "使用大口径弹药、通常需架设的重机枪",
+      "kw": "重型机枪 / 重机关枪 / 武器 / 枪械 / 重机関铳 / 重機関銃 / 중기관총"
+    },
+    {
+      "en": "heckler & koch",
+      "zh": "黑克勒-科赫枪械",
+      "rating": "g",
+      "count": 1859,
+      "desc": "德国黑克勒-科赫公司生产的枪械",
+      "kw": "黑克勒科赫 / 赫克勒科赫 / 黑克勒科赫制武器 / 黑克勒-科赫公司枪械 / HK武器 / 黑克勒-科赫 / 枪械 / 武器 / ヘッケラー&コッホ"
+    },
+    {
+      "en": "helicopter",
+      "zh": "直升机",
+      "rating": "g",
+      "count": 2824,
+      "desc": "靠旋翼产生升力飞行的航空器。",
+      "kw": "直升飞机 / 旋翼机 / 直升灰机 / 武装直升机 / 民用直升机 / 军用直升机 / 救援直升机 / 运输直升机 / ヘリコプター"
+    },
+    {
+      "en": "hirschgeweih antennas",
+      "zh": "鹿角天线",
+      "rating": "g",
+      "count": 607,
+      "desc": "德军夜间战斗机上的鹿角状天线",
+      "kw": "鹿角状天线 / 鹿角形天线 / 分叉天线 / 鹿角式天线 / 鹿角雷达天线 / 天线 / 头饰 / 八木アンテナ"
+    },
+    {
+      "en": "hockey stick",
+      "zh": "曲棍球棒",
+      "rating": "g",
+      "count": 152,
+      "desc": "冰球或曲棍球用的长柄击球杆",
+      "kw": "曲棍球棍 / 冰球杆 / 冰球棍 / 曲棍球杆 / 冰上曲棍球杆 / 运动器材 / 棍棒"
+    },
+    {
+      "en": "holographic interface",
+      "zh": "全息界面",
+      "rating": "g",
+      "count": 3377,
+      "desc": "悬浮在空中的全息操作界面",
+      "kw": "全息操作界面 / 全息投影界面 / 全息屏幕 / 全息显示屏 / 立体投影界面 / 科幻 / 界面 / 科技"
+    },
+    {
+      "en": "holographic keyboard",
+      "zh": "全息键盘",
+      "rating": "g",
+      "count": 111,
+      "desc": "投影在空中的全息键盘",
+      "kw": "全息投影键盘 / 虚拟键盘 / 投影键盘 / 激光键盘 / 激光投影键盘 / 全息界面 / 科幻键盘 / 虚拟设备"
+    },
+    {
+      "en": "holographic monitor",
+      "zh": "全息显示器",
+      "rating": "g",
+      "count": 1218,
+      "desc": "由全息影像构成的显示器。",
+      "kw": "全息显示屏 / 全息屏幕 / 全息投影屏 / 立体显示器 / 全息监视器 / 科技 / holographic screen / holographic display"
+    },
+    {
+      "en": "holographic touchscreen",
+      "zh": "全息触摸屏",
+      "rating": "g",
+      "count": 226,
+      "desc": "可触控的全息屏幕",
+      "kw": "全息触屏 / 全息触控屏 / 投影触摸屏 / 全息交互屏 / 科幻 / 设备"
+    },
+    {
+      "en": "honda",
+      "zh": "本田",
+      "rating": "g",
+      "count": 2066,
+      "desc": "本田，日本汽车与摩托车制造商",
+      "kw": "本田汽车 / 本田摩托 / 本田技研工业 / 本田公司 / 汽车品牌 / 日本车 / 本田技研工業 / ホンダ"
+    },
+    {
+      "en": "horn (instrument)",
+      "zh": "号角",
+      "rating": "g",
+      "count": 648,
+      "desc": "用作乐器或警报的喇叭形中空器具",
+      "kw": "角笛 / 喇叭 / 号角乐器 / 吹角 / 牛角号 / 兽角号 / 角制号角 / 羊角号"
+    },
+    {
+      "en": "hose",
+      "zh": "软管",
+      "rating": "g",
+      "count": 7734,
+      "desc": "输水的长橡胶软管。",
+      "kw": "水管 / 橡胶软管 / 塑料水管 / 输水管 / 胶管 / 橡皮管 / 管子 / water hose / ホース"
+    },
+    {
+      "en": "hose nozzle",
+      "zh": "软管喷嘴",
+      "rating": "g",
+      "count": 255,
+      "desc": "装在软管末端控制水流的喷嘴",
+      "kw": "水管喷嘴 / 软管喷头 / 水管喷头 / 浇水喷头 / 水管嘴 / 水龙喷头 / 喷嘴 / 水管"
+    },
+    {
+      "en": "hoshi no tsue",
+      "zh": "星之杖",
+      "rating": "g",
+      "count": 808,
+      "desc": "《魔卡少女樱》中木之本樱使用的星之杖。",
+      "kw": "小樱的星之杖 / 魔卡少女樱星之杖 / 星之杖（魔卡少女樱） / 星星杖 / 魔法杖 / 武器 / 星の杖"
+    },
+    {
+      "en": "huge weapon",
+      "zh": "巨型武器",
+      "rating": "g",
+      "count": 14452,
+      "desc": "尺寸巨大、通常与角色等身或更大的武器。",
+      "kw": "超大武器 / 巨大武器 / 大型武器 / 重量武器 / 比人还大的武器 / 大剑 / 巨剑 / 大刀 / bfg / huge sword / huge gun / oversized weapon"
+    },
+    {
+      "en": "hylian shield",
+      "zh": "海利亚盾",
+      "rating": "g",
+      "count": 833,
+      "desc": "《塞尔达传说》系列中海利亚骑士的传统盾牌",
+      "kw": "海拉尔盾 / 海拉鲁盾 / 海利亚之盾 / 塞尔达盾 / 海利亚盾牌 / 海拉尔之盾 / 盾牌 / 武器"
+    },
+    {
+      "en": "idol heart incom",
+      "zh": "偶像心形对讲机",
+      "rating": "g",
+      "count": 555,
+      "desc": "偶像心形对讲机道具",
+      "kw": "偶像心形耳麦 / 心形对讲机（偶像） / 偶像爱心对讲机 / 偶像之心INCOM / INCOM偶像服 / 偶像品牌"
+    },
+    {
+      "en": "ink tank (splatoon)",
+      "zh": "墨水罐（斯普拉遁）",
+      "rating": "g",
+      "count": 1699,
+      "desc": "《斯普拉遁》角色背上的墨水罐",
+      "kw": "斯普拉遁墨水罐 / 喷射战士墨水罐 / 墨水背罐 / 墨水罐 (喷射战士) / 武器 / 游戏道具"
+    },
+    {
+      "en": "instrument",
+      "zh": "乐器",
+      "rating": "g",
+      "count": 83570,
+      "desc": "演奏音乐用的乐器。",
+      "kw": "民族乐器 / 器乐 / 乐器类 / 音频标签 / 音乐器材 / 演奏工具 / instruments / 楽器 / 民族楽器"
+    },
+    {
+      "en": "intravenous drip",
+      "zh": "静脉滴注",
+      "rating": "g",
+      "count": 3654,
+      "desc": "用软管把药液输入静脉的输液治疗",
+      "kw": "打点滴 / 挂水 / 输液 / 静脉输液 / 点滴 / 吊盐水 / 打吊瓶 / 吊针 / iv / iv drip / 点滴静脉注射 / 静脉注射"
+    },
+    {
+      "en": "iphone",
+      "zh": "iPhone",
+      "rating": "g",
+      "count": 2525,
+      "desc": "苹果公司的智能手机系列",
+      "kw": "苹果手机 / 爱疯 / 苹果智能手机 / 手机 / 电子产品"
+    },
+    {
+      "en": "ipod",
+      "zh": "iPod",
+      "rating": "g",
+      "count": 1518,
+      "desc": "苹果公司的便携音乐播放器",
+      "kw": "苹果音乐播放器 / 苹果随身听 / iPod播放器 / 苹果播放器 / 音乐播放器 / 电子产品"
+    },
+    {
+      "en": "iv stand",
+      "zh": "输液架",
+      "rating": "g",
+      "count": 1184,
+      "desc": "悬挂输液袋用的输液架",
+      "kw": "点滴架 / 输液杆 / 吊针架 / 静脉滴注架 / 吊瓶架 / 点滴挂架 / 盐水架 / 医疗器械 / 点滴スタンド"
+    },
+    {
+      "en": "jet airliner",
+      "zh": "喷气客机",
+      "rating": "g",
+      "count": 624,
+      "desc": "用于商业航班的大型喷气客机",
+      "kw": "喷气式客机 / 喷气飞机 / 客机 / 大型客机 / 喷气式飞机 / 旅客機 / 商用客机 / 民航飞机 / jumbo jet / airliner / jetliner / 旅客機"
+    },
+    {
+      "en": "jet engine",
+      "zh": "喷气发动机",
+      "rating": "g",
+      "count": 294,
+      "desc": "喷出高速气流产生推力的发动机，用于飞机。",
+      "kw": "喷气引擎 / 喷射发动机 / 涡轮喷气发动机 / 涡喷发动机 / 喷气式发动机 / 航空发动机 / 喷气动力装置 / 机械"
+    },
+    {
+      "en": "jetpack",
+      "zh": "喷气背包",
+      "rating": "g",
+      "count": 1502,
+      "desc": "背在身上让人飞行的喷气装置",
+      "kw": "喷射背包 / 喷气飞行包 / 火箭背包 / 飞行背包 / 喷气式背包 / 科幻 / 背包 / ジェットパック"
+    },
+    {
+      "en": "jian (weapon)",
+      "zh": "剑（武器）",
+      "rating": "g",
+      "count": 1001,
+      "desc": "中国传统的双刃直剑，长约45至80厘米",
+      "kw": "中国剑 / 宝剑 / 青锋剑 / 长剑 / 传统剑 / 剑 / 武器 / 冷兵器"
+    },
+    {
+      "en": "joy-con",
+      "zh": "Joy-Con手柄",
+      "rating": "g",
+      "count": 1267,
+      "desc": "任天堂Switch的可拆分无线手柄。",
+      "kw": "Joy-Con控制器 / Switch手柄 / 任天堂Switch手柄 / NS手柄 / 可拆卸手柄 / 分体手柄 / 左右手柄 / Joy-Con手把 / ジョイコン"
+    },
+    {
+      "en": "joystick",
+      "zh": "操纵杆",
+      "rating": "g",
+      "count": 1200,
+      "desc": "带握杆和按键的游戏控制器，常见于街机",
+      "kw": "摇杆 / 游戏摇杆 / 控制杆 / 飞行摇杆 / 街机摇杆 / 手柄摇杆 / 控制器 / 游戏设备 / ジョイスティック"
+    },
+    {
+      "en": "kagura suzu",
+      "zh": "神乐铃",
+      "rating": "g",
+      "count": 971,
+      "desc": "巫女使用的三层铃铛神乐铃",
+      "kw": "巫女铃 / 三层铃 / 神乐铃铛 / 巫女神乐铃 / 三铃神乐铃 / 神乐铃 (VTuber) / VTuber / 角色 / 神楽鈴"
+    },
+    {
+      "en": "kalashnikov rifle",
+      "zh": "卡拉什尼科夫步枪",
+      "rating": "g",
+      "count": 3992,
+      "desc": "以AK-47为基础的卡拉什尼科夫步枪",
+      "kw": "AK步枪 / AK系列 / 卡拉什尼科夫枪 / 卡氏步枪 / AK-47 / AK-74 / AK系列步枪 / 枪械 / kalashinkov rifle / kalashnikov / カラシニコフ"
+    },
+    {
+      "en": "kaleidostick",
+      "zh": "万花筒之杖",
+      "rating": "g",
+      "count": 1408,
+      "desc": "《魔法少女伊莉雅》中能让人变身的魔法杖。",
+      "kw": "万华镜杖 / 万花筒手杖 / 魔法少女伊莉雅魔杖 / 红宝石魔杖 / 蓝宝石魔杖 / 万华镜手杖 / 万花筒魔法杖 / 魔法少女伊莉雅变身杖 / カレイドステッキ"
+    },
+    {
+      "en": "kantele",
+      "zh": "坎特勒琴",
+      "rating": "g",
+      "count": 616,
+      "desc": "芬兰传统拨弦乐器",
+      "kw": "坎特勒 / 康特勒琴 / 芬兰筝 / 芬兰齐特琴 / 芬兰传统拨弦乐器 / 乐器 / 弦乐器 / カンテレ"
+    },
+    {
+      "en": "kawasaki (company)",
+      "zh": "川崎（公司）",
+      "rating": "g",
+      "count": 285,
+      "desc": "日本川崎重工及旗下摩托车品牌。",
+      "kw": "川崎重工 / 川崎重工业 / 川崎公司 / 川崎摩托车 / 川崎重工集团 / 川崎 (公司) / 品牌 / 摩托车 / kawasaki / 川崎重工業 / 川崎"
+    },
+    {
+      "en": "kei truck",
+      "zh": "轻型小货车",
+      "rating": "g",
+      "count": 671,
+      "desc": "日本轻型规格的小货车",
+      "kw": "轻卡 / 微型卡车 / 轻型卡车 / 轻自动车 / 轻型货车 / K-Car / 车辆 / 日本车 / 軽自動車 / 軽トラック"
+    },
+    {
+      "en": "kerosene lamp",
+      "zh": "煤油灯",
+      "rating": "g",
+      "count": 654,
+      "desc": "以煤油为燃料的便携灯",
+      "kw": "洋油灯 / 马灯 / 火油灯 / 手提煤油灯 / 灯具 / 油灯 / 照明设备"
+    },
+    {
+      "en": "keyblade",
+      "zh": "键刃",
+      "rating": "g",
+      "count": 1303,
+      "desc": "《王国之心》中钥匙形状的武器。",
+      "kw": "钥匙刃 / 钥刃 / 键剑 / 钥匙剑 / 王国之心键刃 / 武器 / 王国之心 / キーブレード"
+    },
+    {
+      "en": "keyboard (instrument)",
+      "zh": "电子键盘",
+      "rating": "g",
+      "count": 4272,
+      "desc": "非钢琴类的电子键盘乐器，如电子琴、合成器",
+      "kw": "键盘乐器 / 电子琴 / 合成器 / 电钢琴 / 便携键盘 / 键盘 / 键盘 (乐器) / 乐器 / electric keyboard / 键盘楽器 / 鍵盤 / 鍵盤楽器"
+    },
+    {
+      "en": "keytar",
+      "zh": "肩背式键盘",
+      "rating": "g",
+      "count": 689,
+      "desc": "可肩背弹奏的键盘乐器。",
+      "kw": "肩背键盘 / 键盘吉他 / 便携键盘 / 肩背电子琴 / 肩背式合成器 / 乐器 / 键盘"
+    },
+    {
+      "en": "kingdom key",
+      "zh": "王国钥匙",
+      "rating": "g",
+      "count": 514,
+      "desc": "《王国之心》中索拉的初始键刃",
+      "kw": "王国之钥 / 王国键刃 / 王国之心键刃 / 索拉初始键刃 / 王国钥匙键刃 / 王国之心钥匙 / 钥匙 / 武器"
+    },
+    {
+      "en": "knife sheath",
+      "zh": "匕首鞘",
+      "rating": "g",
+      "count": 2050,
+      "desc": "收纳刀或短匕的刀鞘",
+      "kw": "小刀鞘 / 刀鞘 / 刀套 / 匕首套 / 短刀鞘 / 刀具护套 / knife holster"
+    },
+    {
+      "en": "knitting needle",
+      "zh": "织针",
+      "rating": "g",
+      "count": 700,
+      "desc": "编织毛线用的长针，前端不尖，多为木制",
+      "kw": "毛线针 / 编织针 / 棒针 / 毛衣针 / 编织用针 / 织毛线针 / 毛线织针 / 线针 / knitting needles"
+    },
+    {
+      "en": "koto (instrument)",
+      "zh": "日本筝",
+      "rating": "g",
+      "count": 260,
+      "desc": "日本传统十三弦拨弦乐器",
+      "kw": "十三弦筝 / 日本古筝 / 和筝 / 日本琴 / 筝 / 日本乐器 / 弦乐器 / 古风"
+    },
+    {
+      "en": "kriss vector",
+      "zh": "克里斯矢量冲锋枪",
+      "rating": "g",
+      "count": 1030,
+      "desc": "KRISS USA生产、采用特殊枪机降低后坐力的冲锋枪",
+      "kw": "维克托冲锋枪 / 短剑冲锋枪 / 克里斯矢量 / 维克多冲锋枪 / KRISS Vector / 冲锋枪 / 武器 / tdi vector / kriss super v / kriss / krissvector"
+    },
+    {
+      "en": "kunai",
+      "zh": "苦无",
+      "rating": "g",
+      "count": 7075,
+      "desc": "忍者常用的投掷与近战两用短刃",
+      "kw": "苦无短刃 / 苦无手里剑 / 忍者苦无 / 苦无匕首 / 忍具 / 武器 / 日本风 / 苦無 / くない"
+    },
+    {
+      "en": "lamborghini",
+      "zh": "兰博基尼",
+      "rating": "g",
+      "count": 398,
+      "desc": "以高性能跑车闻名的意大利汽车品牌。",
+      "kw": "蓝宝坚尼 / 林宝坚尼 / 兰博基尼汽车 / 兰博基尼跑车 / 蛮牛 / 兰博 / 跑车 / 汽车 / ランボルギーニ"
+    },
+    {
+      "en": "lampshade",
+      "zh": "灯罩",
+      "rating": "g",
+      "count": 915,
+      "desc": "罩在灯泡上柔化光线的灯罩",
+      "kw": "灯伞 / 灯帽 / 灯罩子 / 家具 / 灯具"
+    },
+    {
+      "en": "lance",
+      "zh": "骑枪",
+      "rating": "g",
+      "count": 6676,
+      "desc": "骑兵冲锋或马上比武使用的长杆武器。",
+      "kw": "长枪 / 骑士枪 / 骑兵长矛 / 马上枪 / 长矛 / 枪矛 / 武器 / 枪 / ランス"
+    },
+    {
+      "en": "lance of longinus (evangelion)",
+      "zh": "朗基努斯之枪",
+      "rating": "g",
+      "count": 1018,
+      "desc": "《新世纪福音战士》中的红色双叉长枪，可穿透A.T.力场。",
+      "kw": "朗基努斯枪 / 隆基努斯之枪 / 隆基努斯枪 / 朗基努斯之矛 / EVA朗基努斯枪 / 朗基努斯之枪 (EVA) / 武器 / 科幻 / lance of longinus / holy lance / longinus no yari / spear of destiny"
+    },
+    {
+      "en": "lantern on liquid",
+      "zh": "水上灯笼",
+      "rating": "g",
+      "count": 338,
+      "desc": "漂浮在水面上的灯笼，常见于放灯活动",
+      "kw": "水面灯笼 / 水灯 / 流灯 / 水灯笼 / 漂流灯笼 / 河灯 / 水面上的灯笼 / 灯笼 / 灯籠流し / 灯篭流し / とうろうながし / 水燈"
+    },
+    {
+      "en": "large syringe",
+      "zh": "巨大注射器",
+      "rating": "g",
+      "count": 1165,
+      "desc": "尺寸远超实用的巨大注射器",
+      "kw": "大注射器 / 巨型注射器 / 大型注射器 / 超大针筒 / 医疗器械 / 道具 / giant syringe"
+    },
+    {
+      "en": "laser sight",
+      "zh": "激光瞄准器",
+      "rating": "g",
+      "count": 1054,
+      "desc": "装在武器上辅助瞄准的激光装置",
+      "kw": "激光瞄准具 / 雷射瞄准器 / 镭射瞄准器 / 激光指示器 / 激光瞄具"
+    },
+    {
+      "en": "lasso",
+      "zh": "套索",
+      "rating": "g",
+      "count": 637,
+      "desc": "可套住目标并收紧的绳圈",
+      "kw": "绳套 / 绳索套 / 牛仔套索 / 投绳 / 套马索 / 武器 / 绳索 / 投縄"
+    },
+    {
+      "en": "lead pipe",
+      "zh": "铅管",
+      "rating": "g",
+      "count": 1477,
+      "desc": "常被当作钝器使用的金属管线",
+      "kw": "金属管 / 钢管 / 铁管 / 水管 / 钝器管 / 武器 / 管道 / 鉄パイプ"
+    },
+    {
+      "en": "leaf umbrella",
+      "zh": "叶伞",
+      "rating": "g",
+      "count": 1366,
+      "desc": "把大叶片当作伞来遮雨",
+      "kw": "叶子伞 / 树叶伞 / 大叶子遮雨 / 叶片当伞 / 叶雨伞 / 植物 / 伞类 / 葉っぱの傘"
+    },
+    {
+      "en": "lever action",
+      "zh": "杠杆式枪机",
+      "rating": "g",
+      "count": 629,
+      "desc": "用扳机护圈处的杠杆完成上膛的枪械",
+      "kw": "杠杆式步枪 / 杠杆枪机 / 杠杆式枪 / 下护木杠杆式 / 枪械 / 武器 / 杠杆式"
+    },
+    {
+      "en": "lexus",
+      "zh": "雷克萨斯",
+      "rating": "g",
+      "count": 102,
+      "desc": "丰田旗下的豪华品牌雷克萨斯",
+      "kw": "凌志 / 雷克萨斯汽车 / Lexus / 凌志汽车 / 雷克萨斯品牌 / 公司 / 品牌 / 汽车品牌"
+    },
+    {
+      "en": "light bulb",
+      "zh": "灯泡",
+      "rating": "g",
+      "count": 5158,
+      "desc": "通电发光的灯泡",
+      "kw": "电灯泡 / 白炽灯 / 发光灯泡 / 玻璃灯泡 / 灯胆 / 电灯珠 / 螺口灯泡 / 照明 / lightbulb / 电球 / 電球"
+    },
+    {
+      "en": "light machine gun",
+      "zh": "轻机枪",
+      "rating": "g",
+      "count": 2104,
+      "desc": "可由单人操作的轻机枪。",
+      "kw": "轻机关枪 / 轻机 / 班用机枪 / 分队支援武器 / 机枪 / 分队支援火器 / 軽机 / 軽机関铳 / 軽機関銃"
+    },
+    {
+      "en": "lightsaber",
+      "zh": "光剑",
+      "rating": "g",
+      "count": 2074,
+      "desc": "《星球大战》中绝地与西斯使用的能量剑",
+      "kw": "激光剑 / 光束剑 / 能量剑 / 光刃 / 绝地光剑 / 激光军刀 / 科幻 / 武器 / ライトセーバー"
+    },
+    {
+      "en": "locomotive",
+      "zh": "火车头",
+      "rating": "g",
+      "count": 1265,
+      "desc": "提供牵引动力的火车头。",
+      "kw": "机车 / 火车机车 / 牵引机车 / 铁路机车 / 轨道机车 / 机关车 / 火车 / 交通工具 / 机関车 / 機関車 / 기관차"
+    },
+    {
+      "en": "log pose",
+      "zh": "记录指针（海贼王）",
+      "rating": "g",
+      "count": 1775,
+      "desc": "《海贼王》中记录磁场的球形罗盘。",
+      "kw": "记录指针 / 磁力指针 / 海贼王记录指针 / 航海指针 / 磁场指针 / 罗盘指针 / 海贼王 / 航海仪器"
+    },
+    {
+      "en": "long sword",
+      "zh": "长剑",
+      "rating": "g",
+      "count": 608,
+      "desc": "双手持握的西洋长剑。",
+      "kw": "西洋长剑 / 欧式长剑 / 双手长剑 / 手半剑 / 长刃剑 / 武器 / 剑类"
+    },
+    {
+      "en": "lord camelot (fate)",
+      "zh": "卡美洛特之盾",
+      "rating": "g",
+      "count": 1722,
+      "desc": "Fate中玛修持有的圆桌黑色大盾",
+      "kw": "卡美洛之盾 / 卡美洛特城墙 / 圆桌之盾 / 玛修之盾 / 理想之城 / 卡美洛特壁垒 / 已然遥远的理想之城 (Fate) / 宝具"
+    },
+    {
+      "en": "lotus (brand)",
+      "zh": "路特斯",
+      "rating": "g",
+      "count": 107,
+      "desc": "英国跑车品牌，曾译莲花汽车",
+      "kw": "莲花汽车 / 莲花跑车 / 路特斯汽车 / 莲花 / 路特斯（品牌） / 公司品牌名 / 汽车品牌"
+    },
+    {
+      "en": "luminosite eternelle",
+      "zh": "吾主在此（Fate）",
+      "rating": "g",
+      "count": 1114,
+      "desc": "贞德的宝具，旗帜状，可用尖端突刺",
+      "kw": "吾神在此 / 永恒之光 / 吾主于此 / 主在此 / 贞德宝具 / 光辉永恒 / 吾之神旨在兹 / 技能"
+    },
+    {
+      "en": "lunatic gun",
+      "zh": "狂气之枪",
+      "rating": "g",
+      "count": 669,
+      "desc": "铃仙在东方绀珠传中使用的兔耳手枪",
+      "kw": "狂气之铳 / 月狂枪 / 狂气手枪 / 铃仙的枪 / 兔耳枪 / 狂气枪 / 铃仙·优昙华院·因幡的枪 / 武器 / ルナティックガン"
+    },
+    {
+      "en": "lute (instrument)",
+      "zh": "鲁特琴",
+      "rating": "g",
+      "count": 2292,
+      "desc": "琴颈带弦、背面圆鼓的鲁特琴",
+      "kw": "鲁特 / 琉特琴 / 古鲁特琴 / 圆背鲁特琴 / 乐器 / 弦乐器"
+    },
+    {
+      "en": "lyre",
+      "zh": "里拉琴",
+      "rating": "g",
+      "count": 2105,
+      "desc": "古希腊风格手持弹拨乐器",
+      "kw": "七弦琴 / 古希腊七弦琴 / 莱雅琴 / 小竖琴 / 抱琴 / 弦琴 / 弦乐器 / 古乐器 / 竪琴(古代ギリシア) / リラ(竪琴) / ライアー(竪琴)"
+    },
+    {
+      "en": "m16",
+      "zh": "M16步枪",
+      "rating": "g",
+      "count": 1160,
+      "desc": "美国5.56毫米口径的M16突击步枪",
+      "kw": "M16突击步枪 / M16自动步枪 / M16A1步枪 / M16A4步枪 / 美军M16步枪 / M16枪族 / 武器 / 枪械 / m16a1 / m16a4"
+    },
+    {
+      "en": "m16a1",
+      "zh": "M16A1步枪",
+      "rating": "g",
+      "count": 670,
+      "desc": "M16的早期型号，使用三角握把和20发弹匣",
+      "kw": "M16A1自动步枪 / M16A1突击步枪 / M16早期型 / M16步枪早期型号 / 三角握把步枪 / M16A1 / 突击步枪 / 武器"
+    },
+    {
+      "en": "m1911",
+      "zh": "M1911手枪",
+      "rating": "g",
+      "count": 2252,
+      "desc": "勃朗宁设计的M1911半自动手枪",
+      "kw": "柯尔特M1911 / M1911A1 / 勃朗宁M1911 / 柯尔特1911 / 点45手枪 / M1911 / 手枪 / 武器 / colt m1911 / m1911a1 / コルト・ガバメント / コルトガバメント"
+    },
+    {
+      "en": "m4 carbine",
+      "zh": "M4卡宾枪",
+      "rating": "g",
+      "count": 3402,
+      "desc": "美国5.56毫米卡宾枪，常见于FPS游戏",
+      "kw": "M4卡宾 / M4突击步枪 / M4型卡宾枪 / 枪械 / 武器 / m4a1 / mk 18 carbine / m4 sopmod ii / m4カービン"
+    },
+    {
+      "en": "mace",
+      "zh": "钉头锤",
+      "rating": "g",
+      "count": 3581,
+      "desc": "顶端带重头、靠重击伤人的武器",
+      "kw": "钉锤 / 锤矛 / 狼牙棒 / 晨星锤 / 战锤 / 武器 / メイス"
+    },
+    {
+      "en": "machete",
+      "zh": "砍刀",
+      "rating": "g",
+      "count": 752,
+      "desc": "刀刃宽长的砍刀、开山刀",
+      "kw": "开山刀 / 大砍刀 / 弯刀 / 丛林刀 / 柴刀 / 宽刃砍刀 / 菲律宾砍刀 / 武器 / マチェット"
+    },
+    {
+      "en": "machine",
+      "zh": "机械",
+      "rating": "g",
+      "count": 2495,
+      "desc": "未归入更具体标签的机械装置",
+      "kw": "机器 / 机械设备 / 机械装置 / 机械类 / 设备 / 科幻 / machines / 機械 / 기계"
+    },
+    {
+      "en": "machine gun",
+      "zh": "机关枪",
+      "rating": "g",
+      "count": 9294,
+      "desc": "可长时间自动连射的机枪。",
+      "kw": "机枪 / 机关枪械 / 连射机枪 / 重机枪 / 轻机枪 / 枪械 / 武器 / machinegun / general-purpose machine gun / 机関铳 / 泛用机関铳"
+    },
+    {
+      "en": "magazine (weapon)",
+      "zh": "弹匣",
+      "rating": "g",
+      "count": 6915,
+      "desc": "为枪械储弹供弹的弹匣",
+      "kw": "弹夹 / 弹仓 / 供弹匣 / 枪械弹匣 / 枪械 / 武器 / magazine (gun) / gun magazine / ammunition magazine / stanag magazine"
+    },
+    {
+      "en": "mage staff",
+      "zh": "法师法杖",
+      "rating": "g",
+      "count": 7090,
+      "desc": "施法者用来引导魔法的华丽法杖",
+      "kw": "魔法杖 / 法杖 / 魔法棒 / 魔杖 / 施法杖 / 法师杖 / 武器 / 魔法"
+    },
+    {
+      "en": "magical musket (madoka magica)",
+      "zh": "魔法火枪（魔法少女小圆）",
+      "rating": "g",
+      "count": 2487,
+      "desc": "《魔法少女小圆》巴麻美使用的长管火枪",
+      "kw": "魔法火枪 / 魔弹火枪 / 魔法步枪 / 魔法枪 / 巴麻美火枪 / 魔法线膛枪 / 武器 / 魔法道具"
+    },
+    {
+      "en": "mallet",
+      "zh": "木槌",
+      "rating": "g",
+      "count": 4489,
+      "desc": "两端平头的锤状工具，常用木或橡胶制成。",
+      "kw": "木锤 / 橡皮锤 / 胶锤 / 大木槌 / 平头锤 / 槌子 / 锤子 / 工具"
+    },
+    {
+      "en": "mallet (instrument)",
+      "zh": "乐器槌",
+      "rating": "g",
+      "count": 101,
+      "desc": "演奏马林巴、木琴等敲击乐器用的槌",
+      "kw": "琴槌 / 木琴槌 / 马林巴槌 / 演奏槌 / 打击乐器槌 / 鼓槌"
+    },
+    {
+      "en": "maracas",
+      "zh": "沙锤",
+      "rating": "g",
+      "count": 1120,
+      "desc": "拉丁美洲成对摇奏的葫芦制沙锤",
+      "kw": "马拉卡斯 / 沙铃 / 沙球 / 摇响器 / 葫芦沙锤 / 手摇沙锤 / 马拉卡 / 乐器 / maraca"
+    },
+    {
+      "en": "marker",
+      "zh": "记号笔",
+      "rating": "g",
+      "count": 3857,
+      "desc": "画面中出现的毡头马克笔/记号笔",
+      "kw": "马克笔 / 麦克笔 / 油性笔 / 毡头笔 / 文具"
+    },
+    {
+      "en": "marshall amplification",
+      "zh": "马歇尔音箱",
+      "rating": "g",
+      "count": 236,
+      "desc": "英国品牌Marshall的吉他音箱与音响设备",
+      "kw": "Marshall音箱 / 马勺音箱 / 马歇尔音响 / 吉他音箱品牌Marshall / 音箱 / 音乐设备"
+    },
+    {
+      "en": "master sword",
+      "zh": "大师之剑",
+      "rating": "g",
+      "count": 3005,
+      "desc": "《塞尔达传说》中林克的标志性武器，又称退魔之剑",
+      "kw": "大师剑 / 退魔之剑 / 退魔剑 / 塞尔达大师剑 / 林克之剑 / 主角之剑 / 武器 / 塞尔达 / マスターソード"
+    },
+    {
+      "en": "mauser 98",
+      "zh": "毛瑟98步枪",
+      "rating": "g",
+      "count": 1032,
+      "desc": "毛瑟公司设计的栓动步枪系列，使用7.92毫米枪弹",
+      "kw": "毛瑟98 / 毛瑟98K / 98K / 毛瑟栓动步枪 / 毛瑟步枪 / 毛瑟G98 / 枪械 / 武器 / gewehr 98 / type 24 (chiang kai-shek rifle) / wz.29 / kar 98"
+    },
+    {
+      "en": "mauser c96",
+      "zh": "毛瑟C96手枪",
+      "rating": "g",
+      "count": 614,
+      "desc": "德国毛瑟半自动手枪，握把似扫帚柄",
+      "kw": "毛瑟C96 / 驳壳枪 / 盒子炮 / 匣子枪 / 快慢机 / 自来得手枪 / 二十响 / 手枪 / c96 / マウザーc96"
+    },
+    {
+      "en": "mazda",
+      "zh": "马自达",
+      "rating": "g",
+      "count": 841,
+      "desc": "日本汽车厂商，以转子发动机闻名。",
+      "kw": "马自达汽车 / 马自达公司 / 松田汽车 / 万事得 / 汽车 / 品牌 / マツダ株式会社 / マツダ"
+    },
+    {
+      "en": "mclaren",
+      "zh": "迈凯轮",
+      "rating": "g",
+      "count": 209,
+      "desc": "英国超级跑车制造商",
+      "kw": "迈凯伦 / 麦克拉伦 / 英国迈凯轮 / 迈凯轮汽车 / 汽车 / 品牌 / マクラーレン"
+    },
+    {
+      "en": "mecha",
+      "zh": "机甲",
+      "rating": "g",
+      "count": 56620,
+      "desc": "大型机器人或机械载具，常见于科幻题材。",
+      "kw": "机械 / 机器人 / 巨型机器人 / 机战 / 铁人 / 机动装甲 / 萝卜 / 机械人 / mech / メカ / ロボット / オリメカ"
+    },
+    {
+      "en": "mechanical broom",
+      "zh": "机械扫帚",
+      "rating": "g",
+      "count": 126,
+      "desc": "以魔法科技或纯科技制成的女巫扫帚",
+      "kw": "机械扫把 / 科技扫帚 / 魔法科技扫帚 / 机扫帚 / 机械飞天扫帚 / 机械魔女扫帚 / 科技 / 魔导扫帚"
+    },
+    {
+      "en": "mechanical pencil",
+      "zh": "自动铅笔",
+      "rating": "g",
+      "count": 2845,
+      "desc": "按动顶部即可推出笔芯的铅笔",
+      "kw": "自动笔 / 活动铅笔 / 按动铅笔 / 机械铅笔 / 文具 / 笔"
+    },
+    {
+      "en": "megaphone",
+      "zh": "扩音器",
+      "rating": "g",
+      "count": 7143,
+      "desc": "对着嘴部使用的锥形扩音器，含电子喊话器",
+      "kw": "喇叭 / 喊话器 / 扩音喇叭 / 手持扩音器 / 大喇叭 / 道具 / 通讯设备 / bullhorn / bull horn / 扩声器 / メガホン"
+    },
+    {
+      "en": "melodica",
+      "zh": "口风琴",
+      "rating": "g",
+      "count": 191,
+      "desc": "键盘在上、从侧面吹气并按键演奏的乐器",
+      "kw": "键盘口琴 / 吹奏键盘 / 美乐迪卡 / 口吹风琴 / 乐器 / 风琴"
+    },
+    {
+      "en": "mercedes-benz",
+      "zh": "梅赛德斯-奔驰",
+      "rating": "g",
+      "count": 593,
+      "desc": "德国汽车制造巨头，以高端豪华车闻名",
+      "kw": "奔驰 / 梅赛德斯奔驰 / 宾士 / 平治 / 梅赛德斯 / 汽车 / 品牌 / メルセデスベンツ / メルセデス・ベンツ / ベンツ"
+    },
+    {
+      "en": "metal baseball bat",
+      "zh": "金属棒球棒",
+      "rating": "g",
+      "count": 1092,
+      "desc": "用金属而非木头制成的棒球棒。",
+      "kw": "金属球棒 / 金属棒球棍 / 金属球棍 / 铝棒球棒 / 钢棒球棒 / 武器 / 体育用品"
+    },
+    {
+      "en": "mg42",
+      "zh": "MG42机枪",
+      "rating": "g",
+      "count": 1321,
+      "desc": "二战德军7.92毫米通用机枪，高射速",
+      "kw": "MG42通用机枪 / MG42机关枪 / 德国MG42机枪 / 撕布机 / 希特勒的电锯 / 希特勒电锯 / MG42式机枪 / MG42"
+    },
+    {
+      "en": "microphone stand",
+      "zh": "麦克风支架",
+      "rating": "g",
+      "count": 10082,
+      "desc": "支撑麦克风、解放双手的可调支架",
+      "kw": "麦克风杆 / 话筒架 / 话筒支架 / 麦克风撑杆 / 麦克风立柱 / 麦克风架 / 音乐道具 / 舞台设备 / マイクスタンド"
+    },
+    {
+      "en": "military jeep",
+      "zh": "军用吉普",
+      "rating": "g",
+      "count": 261,
+      "desc": "主要用于军事或越野的轻型吉普车",
+      "kw": "军用吉普车 / 军用越野车 / 军事吉普 / 军用轻型越野车 / 军用敞篷吉普 / 军车 / 车辆"
+    },
+    {
+      "en": "military vehicle",
+      "zh": "军用载具",
+      "rating": "g",
+      "count": 23281,
+      "desc": "主要用于军事作战的车辆或载具。",
+      "kw": "军用车辆 / 军用车 / 军事载具 / 军车 / 军用交通工具 / 战斗车辆 / 军事 / 车辆 / 军用车両 / 军用车輌 / 軍用車両 / 軍用車輌"
+    },
+    {
+      "en": "mini cooper",
+      "zh": "迷你库珀",
+      "rating": "g",
+      "count": 269,
+      "desc": "Mini的高性能版本，也泛指各代Mini车型",
+      "kw": "迷你 / 迷你库柏 / 迷你车 / 迷你汽车 / 宝马迷你 / 汽车 / 车辆 / austin mini / ミニ / ミニ・クーパー / ミニクーパー"
+    },
+    {
+      "en": "minigun",
+      "zh": "米尼岗转管机枪",
+      "rating": "g",
+      "count": 1146,
+      "desc": "可单人携带的多管旋转机枪。",
+      "kw": "迷你加特林 / 加特林 / 转管机枪 / 多管旋转机枪 / 迷你炮 / 米尼冈 / 米尼岗机枪 / 迷你炮机枪 / ミニガン"
+    },
+    {
+      "en": "miracle mallet",
+      "zh": "万宝槌",
+      "rating": "g",
+      "count": 981,
+      "desc": "日本民间故事中挥动即可实现愿望的小槌",
+      "kw": "万宝锤 / 奇迹之槌 / 许愿槌 / 幸运槌 / 宝槌 / 万槌 / 武器 / 锤子 / 打ち出の小槌 / うちでのこづち"
+    },
+    {
+      "en": "missile",
+      "zh": "导弹",
+      "rating": "g",
+      "count": 3343,
+      "desc": "以发动机推进的远程爆炸性武器，含制导与非制导型",
+      "kw": "飞弹 / 制导导弹 / 飞弹武器 / 武器 / 军事 / 诱导弾 / ミサイル"
+    },
+    {
+      "en": "missile pod",
+      "zh": "导弹吊舱",
+      "rating": "g",
+      "count": 1845,
+      "desc": "军用载具上储存并发射导弹的装置",
+      "kw": "导弹发射器 / 火箭发射巢 / 导弹荚舱 / 火箭吊舱 / 导弹发射舱 / 机载导弹吊舱 / 导弹挂架 / 导弹荚 / rocket pod"
+    },
+    {
+      "en": "mitsubishi motors",
+      "zh": "三菱汽车",
+      "rating": "g",
+      "count": 313,
+      "desc": "日本三菱集团的汽车制造公司。",
+      "kw": "三菱自动车 / 三菱汽车公司 / 三菱车 / 三菱汽车株式会社 / 三菱汽车品牌 / 三菱自动车工业 / 汽车 / 品牌 / 三菱 / 三菱自動車"
+    },
+    {
+      "en": "mixing console",
+      "zh": "调音台",
+      "rating": "g",
+      "count": 354,
+      "desc": "用于混合并调节麦克风、乐器等音频信号的设备",
+      "kw": "混音台 / 调音控制台 / 混音控制台 / 音频混合台 / 音响调音台 / 音乐设备 / mixing table / mixer (console)"
+    },
+    {
+      "en": "mobile suit",
+      "zh": "机动战士",
+      "rating": "g",
+      "count": 14904,
+      "desc": "《高达》系列中约15至20米高、由人类驾驶的人形机体",
+      "kw": "机动战士高达 / 高达机体 / 高达型机体 / 人形机动兵器 / 高达机器人 / 机甲 / 科幻 / モビルスーツ"
+    },
+    {
+      "en": "molotov cocktail",
+      "zh": "莫洛托夫鸡尾酒",
+      "rating": "g",
+      "count": 241,
+      "desc": "装满燃料的玻璃瓶加布条制成的简易燃烧弹",
+      "kw": "燃烧瓶 / 汽油弹 / 莫洛托夫燃烧弹 / 土制燃烧弹 / 简易燃烧弹 / 雞尾酒燃燒彈 / 武器 / 爆炸物 / 火炎瓶"
+    },
+    {
+      "en": "moriya's iron rings",
+      "zh": "泄矢的铁环",
+      "rating": "g",
+      "count": 586,
+      "desc": "东方Project泄矢诹访子的铁环武器",
+      "kw": "洩矢的铁环 / 泄矢铁轮 / 洩矢铁轮 / 泄矢的铁之环 / 守矢的铁环 / 东方Project / 武器 / moriya's rings / moriya's iron ring / moriyas iron ring / moriyas iron rings"
+    },
+    {
+      "en": "mosin-nagant",
+      "zh": "莫辛纳甘",
+      "rating": "g",
+      "count": 1093,
+      "desc": "俄国莫辛-纳甘栓动步枪。",
+      "kw": "莫辛-纳甘 / 莫辛纳甘步枪 / M1891步枪 / 纳甘步枪 / 莫辛步枪 / 俄国莫辛纳甘 / 枪械 / 武器 / モシン・ナガン"
+    },
+    {
+      "en": "motor vehicle",
+      "zh": "机动车辆",
+      "rating": "g",
+      "count": 63656,
+      "desc": "在道路上行驶的各种机动车辆",
+      "kw": "机动车 / 车辆 / 动力车 / 引擎车辆 / 机械化车辆 / 机动交通工具 / 交通工具"
+    },
+    {
+      "en": "motorcycle",
+      "zh": "摩托车",
+      "rating": "g",
+      "count": 13062,
+      "desc": "两轮跨骑式摩托车。",
+      "kw": "机车 / 摩托 / 重机 / 电单车 / 两轮摩托 / 跨骑摩托 / 档车 / 交通工具 / motorbike / バイク / オートバイ"
+    },
+    {
+      "en": "multiple monitors",
+      "zh": "多台显示器",
+      "rating": "g",
+      "count": 830,
+      "desc": "图中出现多个显示器",
+      "kw": "多个显示器 / 多显示器 / 多屏幕 / 多个屏幕 / 多台监视器 / 电脑 / 设备"
+    },
+    {
+      "en": "multiple swords",
+      "zh": "多把剑",
+      "rating": "g",
+      "count": 3805,
+      "desc": "角色携带或画面中出现多把剑",
+      "kw": "多剑 / 复数剑 / 多把刀剑 / 多柄剑 / 武器 / 刀剑"
+    },
+    {
+      "en": "multiple unit train",
+      "zh": "动车组",
+      "rating": "g",
+      "count": 800,
+      "desc": "由一节以上车厢组成、可统一控制的动车组",
+      "kw": "动车 / 多单元列车 / 动力分散列车 / 多节动车组 / 火车 / 交通工具 / 気動車"
+    },
+    {
+      "en": "multiple weapons",
+      "zh": "多种武器",
+      "rating": "g",
+      "count": 3848,
+      "desc": "角色携带多种类型或两件以上武器。",
+      "kw": "多武器 / 复数武器 / 携带多把武器 / 多样武器 / 武器复数 / 多件武器 / 多重武器 / 武器"
+    },
+    {
+      "en": "music stand",
+      "zh": "谱架",
+      "rating": "g",
+      "count": 440,
+      "desc": "用于放置乐谱的谱架",
+      "kw": "乐谱架 / 谱台 / 乐谱摆放架 / 音乐器材 / 支架 / 谱面台"
+    },
+    {
+      "en": "musket",
+      "zh": "滑膛枪",
+      "rating": "g",
+      "count": 1071,
+      "desc": "前装滑膛、抵肩射击的老式长枪。",
+      "kw": "火枪 / 前装枪 / 滑膛火枪 / 旧式步枪 / 火药枪 / 武器 / 枪械 / マスケット銃"
+    },
+    {
+      "en": "naginata",
+      "zh": "薙刀",
+      "rating": "g",
+      "count": 3037,
+      "desc": "长柄弯刃组成的日本薙刀",
+      "kw": "日本薙刀 / 长柄刀 / 薙刀术 / 长柄薙刀 / 武器 / 日本风"
+    },
+    {
+      "en": "nail (hardware)",
+      "zh": "钉子",
+      "rating": "g",
+      "count": 4222,
+      "desc": "用于固定木材等材料的金属钉子",
+      "kw": "铁钉 / 钢钉 / 五金钉 / 金属钉 / 圆钉 / 木钉 / 工具 / nail / 釘"
+    },
+    {
+      "en": "nail (hollow knight)",
+      "zh": "骨钉（空洞骑士）",
+      "rating": "g",
+      "count": 638,
+      "desc": "空洞骑士中使用的骨钉武器",
+      "kw": "骨钉 / 空洞骑士骨钉 / 骨钉 (空洞骑士) / 武器 / 游戏"
+    },
+    {
+      "en": "nail bat",
+      "zh": "钉刺球棒",
+      "rating": "g",
+      "count": 1652,
+      "desc": "钉入钉子以增强杀伤力的木制棒球棒",
+      "kw": "钉棒 / 钉子棒 / 钉球棒 / 钉刺棒 / 带钉球棒 / 钉刺球棍 / 钉子球棒 / 刺钉球棒 / nailbat / 釘バット"
+    },
+    {
+      "en": "nameless dagger (fate)",
+      "zh": "无铭短剑",
+      "rating": "g",
+      "count": 628,
+      "desc": "Fate系列中美杜莎所使用的短剑",
+      "kw": "无名匕首 / 无铭短剑（Fate） / Fate无铭短剑 / 美杜莎短剑 / 无名匕首 (Fate) / 武器 / 匕首 / nameless dagger / 无铭短剣 / 無銘短剣"
+    },
+    {
+      "en": "nata (tool)",
+      "zh": "柴刀",
+      "rating": "g",
+      "count": 1575,
+      "desc": "日本劈柴砍木的厚刃刀具，形似大菜刀",
+      "kw": "日式柴刀 / 日本柴刀 / 劈柴刀 / 砍刀 / 厚刃刀 / 日式砍刀 / 工具 / 农具 / oriental hatchet / hatchet (oriental) / ナタ / 鉈"
+    },
+    {
+      "en": "needle (hollow knight)",
+      "zh": "针（空洞骑士）",
+      "rating": "g",
+      "count": 1264,
+      "desc": "《空洞骑士》中大黄蜂所持的针状武器。",
+      "kw": "大黄蜂的针 / 空洞骑士针 / 针形武器 / 空洞骑士大黄蜂针 / 蜂后针 / 骨钉 (空洞骑士) / 武器 / 游戏道具"
+    },
+    {
+      "en": "nib pen (object)",
+      "zh": "蘸水笔（物件）",
+      "rating": "g",
+      "count": 1911,
+      "desc": "带笔尖的笔，常指蘸水笔或钢笔等。",
+      "kw": "蘸水笔 / 沾水笔 / 钢笔 / 万年笔 / 笔尖笔 / 蘸墨笔 / 文具 / dip pen / fountain pen / つけペン / 万年筆"
+    },
+    {
+      "en": "night vision device",
+      "zh": "夜视仪",
+      "rating": "g",
+      "count": 1605,
+      "desc": "在全黑环境中观察的夜视仪器",
+      "kw": "夜视装置 / 夜视镜 / 夜视护目镜 / 微光夜视仪 / 红外夜视仪 / 夜视设备 / 暗视装置 / 装备 / night vision goggles / 暗视镜 / 暗視装置 / 暗視ゴーグル"
+    },
+    {
+      "en": "ninjatou",
+      "zh": "忍者刀",
+      "rating": "g",
+      "count": 615,
+      "desc": "忍者使用的短刀，多直刃",
+      "kw": "忍者短刀 / 忍刀 / 忍者直刀 / 忍者佩刀 / 忍者用刀 / 日本刀 / 武器"
+    },
+    {
+      "en": "nintendo 3ds",
+      "zh": "任天堂3DS",
+      "rating": "g",
+      "count": 1197,
+      "desc": "任天堂2011年发售的具备裸眼3D功能的掌上游戏机。",
+      "kw": "3DS掌机 / 任天堂3DS掌机 / 3DS游戏机 / 任天堂3DS游戏机 / 裸眼3D掌机 / N3DS / 任天堂3DS主机 / 游戏机 / nintendo3ds / ニンテンドー3ds"
+    },
+    {
+      "en": "nintendo 64 controller",
+      "zh": "Nintendo 64控制器",
+      "rating": "g",
+      "count": 210,
+      "desc": "任天堂N64主机的三叉式手柄，中央有摇杆",
+      "kw": "N64手柄 / 任天堂64控制器 / N64控制器 / 任天堂64手柄 / N64游戏手柄 / 游戏手柄 / 任天堂配件"
+    },
+    {
+      "en": "nintendo switch",
+      "zh": "任天堂Switch",
+      "rating": "g",
+      "count": 9337,
+      "desc": "任天堂2017年发售的混合型主机",
+      "kw": "任天堂混合主机 / 任天堂游戏机 / 任天堂掌上主机 / 游戏机 / nintendoswitch / ニンテンドースイッチ / ニンテンドーswitch"
+    },
+    {
+      "en": "nintendo switch pro controller",
+      "zh": "Nintendo Switch Pro控制器",
+      "rating": "g",
+      "count": 187,
+      "desc": "Switch的传统造型手柄Pro手柄",
+      "kw": "Switch Pro手柄 / NS Pro手柄 / Switch Pro控制器 / 任天堂Switch Pro手柄 / 任天堂 Switch Pro 控制器 / 游戏手柄 / 控制器 / プロコン"
+    },
+    {
+      "en": "nissan skyline",
+      "zh": "日产天际线",
+      "rating": "g",
+      "count": 500,
+      "desc": "日产天际线轿车系列，以GT-R高性能版闻名",
+      "kw": "尼桑天际线 / 天际线 / 日产天际线轿车 / 日产Skyline车系 / 日产天际线跑车 / 日产 Skyline / 汽车 / 车辆 / スカイライン"
+    },
+    {
+      "en": "nixie tube",
+      "zh": "辉光管",
+      "rating": "g",
+      "count": 100,
+      "desc": "利用辉光放电显示数字的玻璃管电子元件",
+      "kw": "霓虹管 / 数字管 / 辉光显示管 / 冷阴极辉光管 / 科技 / 电子元件 / 复古显示"
+    },
+    {
+      "en": "nunchaku",
+      "zh": "双节棍",
+      "rating": "g",
+      "count": 794,
+      "desc": "两节短棍用链条或绳索连接的传统武器",
+      "kw": "双截棍 / 二节棍 / 两节棍 / 双节棒 / 武器 / 中国风 / nunchuks / ヌンチャク"
+    },
+    {
+      "en": "oboe",
+      "zh": "双簧管",
+      "rating": "g",
+      "count": 188,
+      "desc": "双簧木管乐器",
+      "kw": "欧伯管 / 欧波 / 奥博 / 音频标签 / 管乐器 / オーボエ"
+    },
+    {
+      "en": "ocarina",
+      "zh": "陶笛",
+      "rating": "g",
+      "count": 809,
+      "desc": "蛋形木管乐器，常见于《塞尔达传说》",
+      "kw": "奥卡利那笛 / 洋埙 / 陶土笛 / 塞尔达陶笛 / 蛋形陶笛 / 音频标签 / 奥卡丽娜 / 吹奏乐器 / オカリナ"
+    },
+    {
+      "en": "oil-paper umbrella",
+      "zh": "油纸伞",
+      "rating": "g",
+      "count": 19228,
+      "desc": "中国与日本等地传统的多骨油纸伞",
+      "kw": "和伞 / 唐伞 / 番伞 / 和傘 / 唐傘 / 番傘 / 蛇之目伞 / 纸伞 / wagasa / oriental umbrella / japanese umbrella / paper umbrella"
+    },
+    {
+      "en": "one-eyed mecha",
+      "zh": "独眼机甲",
+      "rating": "g",
+      "count": 4428,
+      "desc": "设计有独眼式单眼的机甲",
+      "kw": "独眼机器人 / 单眼机甲 / 独眼机械 / 独眼萝卜 / 单眼机械人 / 独眼机体 / 独眼巨人 / 机甲特征"
+    },
+    {
+      "en": "ootachi",
+      "zh": "大太刀",
+      "rating": "g",
+      "count": 2503,
+      "desc": "比普通打刀更长、常超过身高的太刀",
+      "kw": "野太刀 / 巨型太刀 / 长太刀 / 日本刀 / 武器 / 日式 / nodachi / oodachi"
+    },
+    {
+      "en": "optical sight",
+      "zh": "光学瞄具",
+      "rating": "g",
+      "count": 2234,
+      "desc": "带准星或红点等分划的枪械光学瞄具",
+      "kw": "光学瞄准镜 / 瞄准镜 / 红点瞄准镜 / 枪械瞄具 / 照准器 / 红点镜 / 全息瞄准镜 / 光学瞄准器 / optics / 照準器 / ダットサイト"
+    },
+    {
+      "en": "organ (instrument)",
+      "zh": "管风琴",
+      "rating": "g",
+      "count": 247,
+      "desc": "键盘演奏的管风琴类乐器。",
+      "kw": "风琴 / 管风琴类乐器 / 教堂风琴 / 大型管风琴 / 风琴乐器 / 管风琴演奏 / 乐器 / 键盘乐器"
+    },
+    {
+      "en": "oxygen tank",
+      "zh": "氧气罐",
+      "rating": "g",
+      "count": 664,
+      "desc": "装有氧气的储气罐。",
+      "kw": "氧气瓶 / 氧气筒 / 储氧罐 / 氧气钢瓶 / 医疗设备 / 容器 / 酸素ボンベ"
+    },
+    {
+      "en": "paint palette",
+      "zh": "调色盘",
+      "rating": "g",
+      "count": 3404,
+      "desc": "画家用于混合颜料的浅板",
+      "kw": "调色板 / 调色碟 / 颜料盘 / 绘画调色板 / 颜料板 / 绘画工具 / 艺术 / palette / palette (object)"
+    },
+    {
+      "en": "paint roller",
+      "zh": "滚筒刷",
+      "rating": "g",
+      "count": 558,
+      "desc": "蘸涂料刷墙面用滚筒工具",
+      "kw": "油漆滚筒 / 滚筒油漆刷 / 滚刷 / 涂料滚筒 / 滚筒刷子 / 工具 / 绘画工具"
+    },
+    {
+      "en": "paint tube",
+      "zh": "颜料管",
+      "rating": "g",
+      "count": 794,
+      "desc": "可挤压的颜料软管，用于把颜料挤到调色盘",
+      "kw": "颜料软管 / 管状颜料 / 油画颜料管 / 水彩颜料管 / 丙烯颜料管 / 绘画工具 / 艺术用品"
+    },
+    {
+      "en": "pangu terminal (wuthering waves)",
+      "zh": "盘古终端（鸣潮）",
+      "rating": "g",
+      "count": 567,
+      "desc": "《鸣潮》共鸣者携带的葫芦形盘古终端",
+      "kw": "盘古终端 / 鸣潮盘古终端 / 葫芦终端 / 盘古终端 (鸣潮) / 鸣潮 / 终端 / 科幻装置"
+    },
+    {
+      "en": "paper fan",
+      "zh": "纸扇",
+      "rating": "g",
+      "count": 9145,
+      "desc": "纸制的扇子，非搞笑用折扇",
+      "kw": "折扇 / 纸折扇 / 纸制扇 / 和风扇 / 日式纸扇 / 纸扇子 / 扇子 / 日本风"
+    },
+    {
+      "en": "paper lantern",
+      "zh": "纸灯笼",
+      "rating": "g",
+      "count": 12090,
+      "desc": "用纸做的传统灯笼，常见于节日。",
+      "kw": "提灯 / 灯笼 / 纸灯 / 彩纸灯笼 / 灯饰 / 灯篭 / 灯籠"
+    },
+    {
+      "en": "parachute",
+      "zh": "降落伞",
+      "rating": "g",
+      "count": 670,
+      "desc": "减缓下落速度的降落伞",
+      "kw": "伞降 / 保险伞 / 跳伞伞具 / 降落伞包 / 降落伞装备 / 减速伞 / 装备 / 工具 / パラシュート"
+    },
+    {
+      "en": "paralyzer",
+      "zh": "麻痹枪",
+      "rating": "g",
+      "count": 977,
+      "desc": "《银河战士》萨姆斯零装甲形态的麻痹枪",
+      "kw": "麻痹手枪 / 眩晕枪 / 电击麻痹枪 / 帕拉莱萨 / 电击枪 / 萨姆斯武器 / パラライザー"
+    },
+    {
+      "en": "paw stick",
+      "zh": "爪杖",
+      "rating": "g",
+      "count": 504,
+      "desc": "末端带大爪子的长棍武器",
+      "kw": "熊爪棒 / 爪棍 / 兽爪棍 / 动物爪杖 / 大手爪棒 / 爪形杖 / 熊爪锤 / 爪子长棍 / bear paw hammer"
+    },
+    {
+      "en": "penlight (glowstick)",
+      "zh": "荧光棒（应援）",
+      "rating": "g",
+      "count": 2379,
+      "desc": "演唱会等场合使用的电池式手持应援灯",
+      "kw": "应援灯 / 应援棒 / 手灯 / 电光棒 / 演唱会应援灯 / 笔灯 / 荧光棒 / 道具 / ペンライト"
+    },
+    {
+      "en": "pgm hecate ii",
+      "zh": "PGM赫卡特II狙击枪",
+      "rating": "g",
+      "count": 508,
+      "desc": "法国PGM公司生产的12.7毫米反器材步枪。",
+      "kw": "PGM赫卡特2 / 赫卡特II狙击枪 / 赫卡特2反器材步枪 / PGM反器材狙击枪 / PGM 12.7毫米狙击枪 / 赫卡特II反器材步枪 / 赫卡特II狙击步枪 / PGM Hecate II / ヘカートii / ヘカート2"
+    },
+    {
+      "en": "phone",
+      "zh": "电话",
+      "rating": "g",
+      "count": 157430,
+      "desc": "远距离通话设备，含手机与座机。",
+      "kw": "电话机 / 座机 / 固定电话 / 有线电话 / 移动电话 / 手机 / 手机电话 / 无线电话 / telephone / 電話"
+    },
+    {
+      "en": "phonograph",
+      "zh": "留声机",
+      "rating": "g",
+      "count": 3031,
+      "desc": "用唱针读取唱片纹路放音的装置。",
+      "kw": "唱片机 / 电唱机 / 留声器 / 唱机 / 手摇留声机 / 唱片播放器 / 老式留声机 / 蜡筒留声机 / record player / record machine / gramophone / victrola"
+    },
+    {
+      "en": "piano keys",
+      "zh": "琴键",
+      "rating": "g",
+      "count": 1207,
+      "desc": "画面突出显示、不依附具体乐器的琴键",
+      "kw": "钢琴键 / 黑白键 / 键盘琴键 / 琴键特写 / 乐器键 / 钢琴 / 乐器"
+    },
+    {
+      "en": "pickaxe",
+      "zh": "镐",
+      "rating": "g",
+      "count": 2240,
+      "desc": "采掘硬岩用的镐",
+      "kw": "鹤嘴锄 / 十字镐 / 丁字镐 / 镐头 / 鹤嘴镐 / 采石镐 / 矿镐 / 工具 / pick axe / pick-ax / pick-axe / pickax"
+    },
+    {
+      "en": "pickup truck",
+      "zh": "皮卡",
+      "rating": "g",
+      "count": 1170,
+      "desc": "带敞开货斗的轻型皮卡",
+      "kw": "皮卡车 / 轻型皮卡 / 敞篷货车 / 轻卡 / 货斗车 / 小货车 / 汽车 / 越野车 / ピックアップトラック / 軽トラ / 軽トラック"
+    },
+    {
+      "en": "pink umbrella",
+      "zh": "粉色伞",
+      "rating": "g",
+      "count": 2090,
+      "desc": "粉色的雨伞或阳伞",
+      "kw": "粉色雨伞 / 粉红色伞 / 粉红雨伞 / 粉色阳伞 / 粉红遮阳伞 / 粉伞 / 伞 / 粉色物品"
+    },
+    {
+      "en": "pipa (instrument)",
+      "zh": "琵琶",
+      "rating": "g",
+      "count": 528,
+      "desc": "中国梨形音箱四弦弹拨乐器",
+      "kw": "中国琵琶 / 琵琶乐器 / 四弦琵琶 / 中国风 / 古风 / 乐器"
+    },
+    {
+      "en": "pipe organ",
+      "zh": "管风琴",
+      "rating": "g",
+      "count": 105,
+      "desc": "大型键盘乐器，由音管发声",
+      "kw": "风琴 / 教堂管风琴 / 音频标签 / 乐器 / 教堂乐器"
+    },
+    {
+      "en": "pirate ship",
+      "zh": "海盗船",
+      "rating": "g",
+      "count": 545,
+      "desc": "海盗用于抢劫船只的船",
+      "kw": "海贼船 / 海盗舰船 / 海盗帆船 / 船只 / 海盗风 / 冒险 / 海賊船 / かいぞくせん"
+    },
+    {
+      "en": "piston",
+      "zh": "活塞",
+      "rating": "g",
+      "count": 461,
+      "desc": "在气缸内往复运动的机械零件",
+      "kw": "气缸活塞 / 往复活塞 / 圆形活塞 / 发动机活塞 / 机械零件 / 引擎部件"
+    },
+    {
+      "en": "pitchfork",
+      "zh": "干草叉",
+      "rating": "g",
+      "count": 968,
+      "desc": "用来叉起和抛掷干草等松散物料的多齿农具",
+      "kw": "草叉 / 三叉叉 / 农用叉 / 干草耙 / 农具 / 叉子"
+    },
+    {
+      "en": "planted sword",
+      "zh": "插在地上的剑",
+      "rating": "g",
+      "count": 9068,
+      "desc": "剑尖明显插在地上的剑",
+      "kw": "剑插地 / 插地剑 / 剑立地上 / 剑插地面 / 剑刺入地面 / 立剑 / 插地之剑 / 剑 / sword in ground / sword stuck in ground"
+    },
+    {
+      "en": "planted umbrella",
+      "zh": "插在地上的伞",
+      "rating": "g",
+      "count": 735,
+      "desc": "伞尖插在地上的收拢雨伞",
+      "kw": "插地伞 / 伞插地 / 插地雨伞 / 插着的伞 / 伞尖插地 / 伞 / 场景"
+    },
+    {
+      "en": "playstation 1",
+      "zh": "PlayStation 1",
+      "rating": "g",
+      "count": 268,
+      "desc": "索尼1994年推出的初代PlayStation主机",
+      "kw": "PS1 / 初代PlayStation / 索尼PlayStation / PSX / PS一代 / PlayStation初代 / 索尼PS1 / 游戏机 / ps1 / psx / プレイステーション"
+    },
+    {
+      "en": "playstation 2",
+      "zh": "PS2",
+      "rating": "g",
+      "count": 337,
+      "desc": "索尼2000年推出的游戏主机。",
+      "kw": "PS2游戏机 / PlayStation 2主机 / 索尼PS2 / PlayStation 2 / 游戏机 / 电子产品 / ps2 / プレイステーション2"
+    },
+    {
+      "en": "playstation 3",
+      "zh": "PS3",
+      "rating": "g",
+      "count": 226,
+      "desc": "索尼2006年推出的游戏主机",
+      "kw": "PS3主机 / 索尼PS3 / PS3游戏机 / PS3家用机 / PlayStation 3 / 游戏机 / 电子产品 / ps3 / プレイステーション3"
+    },
+    {
+      "en": "playstation 4",
+      "zh": "PS4",
+      "rating": "g",
+      "count": 413,
+      "desc": "索尼2013年推出的PlayStation 4主机",
+      "kw": "PS4主机 / PlayStation 4游戏机 / 索尼PS4 / 第四代PlayStation / 游戏机 / 索尼 / 主机 / ps4 / プレイステーション4"
+    },
+    {
+      "en": "playstation 5",
+      "zh": "PS5",
+      "rating": "g",
+      "count": 461,
+      "desc": "索尼2020年推出的PlayStation 5主机",
+      "kw": "索尼PS5 / PS5主机 / PS五代 / 索尼PS5主机 / PlayStation 5 / 游戏机 / 主机 / ps5 / プレイステーション5"
+    },
+    {
+      "en": "playstation controller",
+      "zh": "PS手柄",
+      "rating": "g",
+      "count": 2331,
+      "desc": "用于PlayStation系列游戏机的手柄",
+      "kw": "PS控制器 / PS游戏手柄 / 索尼手柄 / PlayStation手柄 / PlayStation控制器 / 游戏手柄 / 电子配件"
+    },
+    {
+      "en": "playstation portable",
+      "zh": "索尼PSP掌机",
+      "rating": "g",
+      "count": 1754,
+      "desc": "索尼2004年推出的便携式游戏机。",
+      "kw": "PSP掌机 / PSP游戏机 / 索尼PSP / PSP便携游戏机 / PlayStation Portable掌机 / PSP机 / PSP / 游戏机 / psp / プレイステーション・ポータブル"
+    },
+    {
+      "en": "playstation vita",
+      "zh": "PlayStation Vita",
+      "rating": "g",
+      "count": 438,
+      "desc": "索尼2011年推出的掌机 PlayStation Vita。",
+      "kw": "PS Vita / PSV / PSVita / 索尼PSV / PS Vita掌机 / 游戏机 / 掌机 / ps vita / psvita"
+    },
+    {
+      "en": "plectrum",
+      "zh": "拨片",
+      "rating": "g",
+      "count": 7256,
+      "desc": "弹拨弦乐器的薄片工具",
+      "kw": "吉他拨片 / 琴拨 / pick拨片 / 乐器拨片 / 乐器配件 / guitar pick / ギターピック / ピック"
+    },
+    {
+      "en": "pliers",
+      "zh": "钳子",
+      "rating": "g",
+      "count": 725,
+      "desc": "用于夹持管件或金属丝的可调工具",
+      "kw": "老虎钳 / 夹钳 / 手钳 / 平口钳 / 尖嘴钳 / 工具"
+    },
+    {
+      "en": "polearm",
+      "zh": "长柄武器",
+      "rating": "g",
+      "count": 76320,
+      "desc": "刃部装在长杆末端的近战武器",
+      "kw": "长杆武器 / 长兵器 / 长柄兵刃 / 长柄冷兵器 / 长柄近战武器 / 长枪 / 矛 / 长枪 / ポールウェポン"
+    },
+    {
+      "en": "police car",
+      "zh": "警车",
+      "rating": "g",
+      "count": 1302,
+      "desc": "警察巡逻和出警使用的汽车。",
+      "kw": "巡逻车 / 警用汽车 / 警察车 / 公安警车 / 车辆 / 警察 / パトカー / パトロールカー"
+    },
+    {
+      "en": "pop filter",
+      "zh": "防喷罩",
+      "rating": "g",
+      "count": 552,
+      "desc": "装在麦克风前的圆形防喷网罩",
+      "kw": "防喷网 / 麦克风防喷罩 / 录音防喷罩 / 防噗罩 / 防喷海绵 / 喷麦防护罩 / 录音配件 / 麦克风 / ポップガード"
+    },
+    {
+      "en": "porsche",
+      "zh": "保时捷",
+      "rating": "g",
+      "count": 482,
+      "desc": "德国高性能跑车制造商保时捷",
+      "kw": "保时捷汽车 / 保时捷跑车 / 波尔舍 / 保时捷牌 / 汽车 / 跑车 / 豪车 / ポルシェ"
+    },
+    {
+      "en": "print umbrella",
+      "zh": "印花雨伞",
+      "rating": "g",
+      "count": 328,
+      "desc": "印有不寻常图案的雨伞",
+      "kw": "印花伞 / 图案雨伞 / 花伞 / 有图案雨伞 / 印刷图案伞 / 彩印雨伞 / 伞 / 图案伞"
+    },
+    {
+      "en": "projector",
+      "zh": "投影仪",
+      "rating": "g",
+      "count": 322,
+      "desc": "将图像投射到屏幕的显示设备",
+      "kw": "投影机 / 放映机 / 幻灯机 / 电子设备 / 映写机 / プロジェクタ / 映写機"
+    },
+    {
+      "en": "propeller",
+      "zh": "螺旋桨",
+      "rating": "g",
+      "count": 1931,
+      "desc": "旋转产生推力的多叶螺旋桨。",
+      "kw": "推进器 / 螺旋推进器 / 桨叶 / 螺旋叶片 / 转动桨 / 机械部件 / 航空器 / プロペラ / 推進器 / すいしんき"
+    },
+    {
+      "en": "propeller fighter",
+      "zh": "螺旋桨战机",
+      "rating": "g",
+      "count": 1574,
+      "desc": "由活塞发动机驱动螺旋桨的军用战斗机",
+      "kw": "螺旋桨战斗机 / 活塞战斗机 / 活塞战机 / 螺旋桨飞机 / 螺旋桨军用机 / 飞机 / 战斗机 / 载具 / piston engine fighter / piston fighter"
+    },
+    {
+      "en": "pump",
+      "zh": "泵",
+      "rating": "g",
+      "count": 237,
+      "desc": "用于输送或加压流体的机械装置",
+      "kw": "泵浦 / 泵机 / 泵浦机 / 抽水泵 / 气泵 / 水泵 / 抽吸 / 机械泵"
+    },
+    {
+      "en": "pump action",
+      "zh": "泵动式枪机",
+      "rating": "g",
+      "count": 2249,
+      "desc": "通过推拉护木完成上膛的枪械结构",
+      "kw": "泵动式 / 泵动式霰弹枪 / 手泵式 / 唧筒式 / 泵动上膛 / 泵动枪机 / 枪械 / pump shotgun / ポンプアクション"
+    },
+    {
+      "en": "purple umbrella",
+      "zh": "紫色雨伞",
+      "rating": "g",
+      "count": 5402,
+      "desc": "紫色雨伞，多与《东方》多良小伞联系在一起",
+      "kw": "紫伞 / 紫色伞 / 紫雨伞 / 紫色洋伞 / 紫色遮阳伞 / 雨伞 / 道具"
+    },
+    {
+      "en": "quill",
+      "zh": "羽毛笔",
+      "rating": "g",
+      "count": 6130,
+      "desc": "用鸟羽制成的蘸墨羽毛笔",
+      "kw": "鹅毛笔 / 羽笔 / 蘸水笔 / 文具 / 古风 / feather pen / 羽ペン / 羽根ペン"
+    },
+    {
+      "en": "race vehicle",
+      "zh": "竞速载具",
+      "rating": "g",
+      "count": 2402,
+      "desc": "用于竞速比赛的各类载具，包括汽车、摩托、船、飞机等。",
+      "kw": "竞速交通工具 / 竞赛载具 / 比赛载具 / 竞速车辆 / 竞速机器 / 比赛用载具 / 赛车 / 车辆"
+    },
+    {
+      "en": "racecar",
+      "zh": "赛车",
+      "rating": "g",
+      "count": 2065,
+      "desc": "贴满赞助商标志、专为竞速造的汽车",
+      "kw": "竞速车 / 跑车 / 比赛用车 / 方程式赛车 / 拉力赛车 / 赛道车 / 车辆 / 汽车 / レーシングカー / モータースポーツ"
+    },
+    {
+      "en": "racket",
+      "zh": "球拍",
+      "rating": "g",
+      "count": 3949,
+      "desc": "网球羽毛球等运动使用的球拍",
+      "kw": "网球拍 / 羽毛球拍 / 拍子 / 运动球拍 / 体育用品 / ラケット"
+    },
+    {
+      "en": "radio antenna",
+      "zh": "无线电天线",
+      "rating": "g",
+      "count": 11351,
+      "desc": "用于接收无线电信号的杆状天线。",
+      "kw": "天线 / 无线电接收天线 / 金属天线 / 信号天线 / 电台天线 / 通讯设备 / 电子 / アンテナ"
+    },
+    {
+      "en": "railgun",
+      "zh": "电磁炮",
+      "rating": "g",
+      "count": 895,
+      "desc": "用电磁力高速发射弹丸的电磁炮",
+      "kw": "电磁轨道炮 / 磁轨炮 / 超电磁炮 / 电磁炮武器 / 武器 / 科幻 / railgun (weapon) / 电磁炮（武器） / レールガン"
+    },
+    {
+      "en": "rapier",
+      "zh": "西洋剑",
+      "rating": "g",
+      "count": 7143,
+      "desc": "细长的刺击用西洋剑",
+      "kw": "刺剑 / 细剑 / 迅捷剑 / 西洋细剑 / 武器 / 剑类 / 击剑 / レイピア"
+    },
+    {
+      "en": "rattle drum",
+      "zh": "拨浪鼓",
+      "rating": "g",
+      "count": 131,
+      "desc": "转动时珠子敲击鼓面发声的拨浪鼓",
+      "kw": "波浪鼓 / 拨楞鼓 / 咚咚鼓 / 手摇鼓 / 摇鼓 / 小摇鼓 / 中国风 / 玩具 / denden daiko"
+    },
+    {
+      "en": "ray gun",
+      "zh": "射线枪",
+      "rating": "g",
+      "count": 1114,
+      "desc": "1950年代科幻风格的射线手枪",
+      "kw": "激光枪 / 光线枪 / 射线手枪 / 科幻枪 / 光枪 / 能量枪 / raygun / 光线铳 / 光線銃"
+    },
+    {
+      "en": "razor",
+      "zh": "剃刀",
+      "rating": "g",
+      "count": 849,
+      "desc": "用于剃须的剃刀",
+      "kw": "刮胡刀 / 剃须刀 / 须刨 / 剃头刀 / 工具 / 个人护理 / かみそり / カミソリ"
+    },
+    {
+      "en": "rear-view mirror",
+      "zh": "后视镜",
+      "rating": "g",
+      "count": 715,
+      "desc": "机动车上供驾驶者观察后方的镜子",
+      "kw": "后照镜 / 车内后视镜 / 倒后镜 / 后视镜片 / 望后镜 / 汽车后视镜 / 汽车配件 / 车辆 / バックミラー"
+    },
+    {
+      "en": "recorder",
+      "zh": "竖笛",
+      "rating": "g",
+      "count": 1790,
+      "desc": "竖吹的木管乐器，学校常见塑料高音竖笛",
+      "kw": "直笛 / 木笛 / 高音竖笛 / 巴洛克竖笛 / 学校竖笛 / 塑料竖笛 / 音频标签 / 乐器 / リコーダー"
+    },
+    {
+      "en": "red car",
+      "zh": "红色汽车",
+      "rating": "g",
+      "count": 1029,
+      "desc": "车身涂装为红色的汽车",
+      "kw": "红色轿车 / 红色车 / 红色小汽车 / 红色跑车 / 车辆 / 汽车 / 交通工具"
+    },
+    {
+      "en": "red lightsaber",
+      "zh": "红色光剑",
+      "rating": "g",
+      "count": 538,
+      "desc": "红色的光剑，通常与邪恶的西斯相关",
+      "kw": "红光剑 / 红色激光剑 / 红刃光剑 / 西斯光剑 / 光剑 / 武器 / 科幻"
+    },
+    {
+      "en": "red umbrella",
+      "zh": "红伞",
+      "rating": "g",
+      "count": 6217,
+      "desc": "颜色为红色的雨伞或阳伞",
+      "kw": "红色伞 / 红色的伞 / 红色雨伞 / 红雨伞 / 红阳伞 / 伞具 / 红色物品"
+    },
+    {
+      "en": "renault",
+      "zh": "雷诺",
+      "rating": "g",
+      "count": 170,
+      "desc": "法国汽车厂商雷诺及其车型。",
+      "kw": "雷诺汽车 / 雷诺车 / 法国雷诺 / 雷诺牌 / 雷诺汽车公司 / 汽车 / 品牌"
+    },
+    {
+      "en": "revolver",
+      "zh": "左轮手枪",
+      "rating": "g",
+      "count": 9831,
+      "desc": "带旋转弹巢的多发手枪",
+      "kw": "左轮枪 / 转轮手枪 / 轮转手枪 / 左轮 / 转轮枪 / 手枪 / 武器 / 回転式拳铳 / リボルバー / 回転式拳銃"
+    },
+    {
+      "en": "rickenbacker",
+      "zh": "里肯贝克",
+      "rating": "g",
+      "count": 117,
+      "desc": "1932年创立、最早量产电吉他的美国乐器公司",
+      "kw": "里肯巴克 / 里肯贝克尔 / 里肯贝克吉他 / 里肯贝克电吉他 / 里肯贝克乐器 / 吉他 / 乐器"
+    },
+    {
+      "en": "rickenbacker 4001",
+      "zh": "Rickenbacker 4001贝斯",
+      "rating": "g",
+      "count": 219,
+      "desc": "Rickenbacker 公司1961年推出的贝斯型号",
+      "kw": "里肯巴克4001贝斯 / 里肯贝克4001 / Rickenbacker 4001 / 吉他 / 贝斯 / 乐器"
+    },
+    {
+      "en": "rifle cartridge",
+      "zh": "步枪弹",
+      "rating": "g",
+      "count": 816,
+      "desc": "步枪使用的枪弹",
+      "kw": "步枪子弹 / 步枪弹药 / 步枪枪弹 / 步枪弹壳 / 弹药 / 子弹 / ライフル実包"
+    },
+    {
+      "en": "rigging",
+      "zh": "舰装",
+      "rating": "g",
+      "count": 33857,
+      "desc": "舰娘身上装备的舰装。",
+      "kw": "舣装 / 艤装 / 舰娘装备 / 舰船装备 / 舰装装备 / 军武"
+    },
+    {
+      "en": "ring-con",
+      "zh": "健身环",
+      "rating": "g",
+      "count": 677,
+      "desc": "《健身环大冒险》的环形控制器",
+      "kw": "健身环大冒险控制器 / 普拉提环 / 瑜伽环 / 任天堂健身环 / 健身环控制器 / 健身环外设 / 健身环 (Ring-Con) / 健身器材"
+    },
+    {
+      "en": "riot shield",
+      "zh": "防暴盾牌",
+      "rating": "g",
+      "count": 321,
+      "desc": "防暴用的手持防护盾牌",
+      "kw": "防暴盾 / 防爆盾 / 防爆盾牌 / 镇暴盾 / 镇暴盾牌 / 警用防暴盾 / 盾牌 / 防护装备 / ライオットシールド"
+    },
+    {
+      "en": "ritual baton",
+      "zh": "笏板",
+      "rating": "g",
+      "count": 2804,
+      "desc": "中国古代书写用、后为礼器与神官持物的笏板。",
+      "kw": "笏 / 朝板 / 手板 / 仪式笏 / 礼器笏 / 木笏 / 玉笏 / 神官笏"
+    },
+    {
+      "en": "robotic vacuum cleaner",
+      "zh": "扫地机器人",
+      "rating": "g",
+      "count": 617,
+      "desc": "圆盘形自动扫地机器人",
+      "kw": "自动吸尘器 / 智能吸尘器 / 机器人吸尘器 / 自动扫地机 / 扫地机 / 吸尘机器人 / 家电 / 机器人 / roomba / 掃除用ロボット / ルンバ"
+    },
+    {
+      "en": "rocket",
+      "zh": "火箭",
+      "rating": "g",
+      "count": 1941,
+      "desc": "非军事用途的航天火箭。",
+      "kw": "运载火箭 / 太空火箭 / 航天火箭 / 飞行器 / 发射火箭 / 武器 / 科幻 / rockets"
+    },
+    {
+      "en": "rocket launcher",
+      "zh": "火箭筒",
+      "rating": "g",
+      "count": 4245,
+      "desc": "单兵发射火箭弹的武器",
+      "kw": "火箭发射器 / 火箭炮 / 单兵火箭筒 / 反坦克火箭筒 / 火箭弹发射器 / 肩扛式火箭筒 / 无后坐力炮 / 无反动炮 / missile launcher / recoilless rifle / ロケットランチャー / 無反動砲"
+    },
+    {
+      "en": "rocket ship",
+      "zh": "火箭飞船",
+      "rating": "g",
+      "count": 405,
+      "desc": "尖头带尾翼的管状太空火箭船",
+      "kw": "火箭 / 太空火箭 / 火箭船 / 宇宙飞船玤 / rocketship"
+    },
+    {
+      "en": "rotary phone",
+      "zh": "转盘电话",
+      "rating": "g",
+      "count": 2356,
+      "desc": "通过旋转拨号盘拨号的旧式电话机",
+      "kw": "拨盘电话 / 旋转拨号电话 / 老式转盘电话 / 黑电话 / 老式电话机 / 转盘式电话 / 拨号电话 / 复古电话 / 黒電話 / 回転ダイヤル式電話機"
+    },
+    {
+      "en": "rowboat",
+      "zh": "划艇",
+      "rating": "g",
+      "count": 856,
+      "desc": "用桨划水推进的小船",
+      "kw": "小船 / 桨船 / 手划船 / 划船 / 船只"
+    },
+    {
+      "en": "rpg (weapon)",
+      "zh": "火箭筒",
+      "rating": "g",
+      "count": 766,
+      "desc": "手持式反坦克火箭发射器",
+      "kw": "火箭推进榴弹 / 手持火箭筒 / 反坦克火箭筒 / 火箭弹发射器 / RPG火箭筒 / 武器 / rpg"
+    },
+    {
+      "en": "ruan (instrument)",
+      "zh": "阮",
+      "rating": "g",
+      "count": 168,
+      "desc": "阮是中国传统弹拨弦乐器，形似琵琶，有品柱琴颈、圆形琴身和四根弦，但底座为圆形而非梨形。汉至唐时期「琵琶」泛指各类弹拨乐器，相传阮可能源自秦代修筑长城劳工用弦绷在拨浪鼓上制成的「弦鼗」。武则天时期（约684–704年）在四川古墓中发现形似秦琵琶的铜制乐器，因阮咸擅长演奏此类乐器，遂",
+      "kw": "音频标签 / 弹拨乐器 / 阮咸 / 民族乐器"
+    },
+    {
+      "en": "saber (weapon)",
+      "zh": "军刀",
+      "rating": "g",
+      "count": 1676,
+      "desc": "骑兵与军官使用的大型单刃弯刀。",
+      "kw": "马刀 / 佩刀 / 骑兵刀 / 弯刀 / 指挥刀 / 武器 / 刀剑 / サーベル"
+    },
+    {
+      "en": "sailboat",
+      "zh": "帆船",
+      "rating": "g",
+      "count": 829,
+      "desc": "利用风帆驱动的小型船只。",
+      "kw": "小帆船 / 风帆船 / 单桅帆船 / 游艇帆船 / 帆船模型 / 船只 / 交通工具"
+    },
+    {
+      "en": "satellite",
+      "zh": "卫星",
+      "rating": "g",
+      "count": 622,
+      "desc": "环绕天体运行的人造装置",
+      "kw": "人造卫星 / 人造天体 / 卫星装置 / 环绕卫星 / 人造地球卫星 / 航天器 / 科技 / 人工卫星 / 人工衛星 / じんこうえいせい / 衛星"
+    },
+    {
+      "en": "satellite dish",
+      "zh": "卫星天线",
+      "rating": "g",
+      "count": 836,
+      "desc": "抛物面无线电天线，常见于屋顶或转播车",
+      "kw": "卫星锅 / 卫星接收器 / 抛物面天线 / 卫星碟 / 卫星接收天线 / 天线 / 通讯设备"
+    },
+    {
+      "en": "saw",
+      "zh": "锯子",
+      "rating": "g",
+      "count": 2516,
+      "desc": "带齿刃的切割工具，多用于锯木",
+      "kw": "锯 / 手锯 / 工具 / 切割工具"
+    },
+    {
+      "en": "saxophone",
+      "zh": "萨克斯管",
+      "rating": "g",
+      "count": 843,
+      "desc": "常用于爵士与古典乐的管乐器，有四种常见音域",
+      "kw": "萨克斯 / 萨克斯风 / 萨克斯管乐器 / 萨克管 / 乐器 / 管乐 / サクソフォン / サクソフォーン / サキソフォン"
+    },
+    {
+      "en": "scabbard",
+      "zh": "剑鞘",
+      "rating": "g",
+      "count": 18969,
+      "desc": "刀剑、刺刀等长刃武器所用的鞘",
+      "kw": "刀鞘 / 剑套 / 刀剑鞘 / 武器鞘 / 鞘 / 武器配件 / sword sheath / 硬质鞘"
+    },
+    {
+      "en": "scalpel",
+      "zh": "手术刀",
+      "rating": "g",
+      "count": 1302,
+      "desc": "外科手术和解剖用的小型锋利刀具。",
+      "kw": "解剖刀 / 外科手术刀 / 医用刀 / 手术刀片 / 外科刀 / 医疗器械 / 刀具 / 円刃刀 / メス / えんじんとう"
+    },
+    {
+      "en": "scimitar",
+      "zh": "弯刀",
+      "rating": "g",
+      "count": 559,
+      "desc": "源自西亚、刀身弧曲的单手弯刀",
+      "kw": "阿拉伯弯刀 / 西亚弯刀 / 弧刀 / 新月刀 / 波斯弯刀 / 半月弯刀 / 武器 / 刀剑 / シミター / シャムシール"
+    },
+    {
+      "en": "scissor blade (kill la kill)",
+      "zh": "剪刀刃（斩服少女）",
+      "rating": "g",
+      "count": 2425,
+      "desc": "《斩服少女》缠流子的主要武器，半把红色大剪刀",
+      "kw": "片太刀剪刀 / 半把剪刀 / 剪刀刀片 / 缠流子剪刀 / 片太刀剪 / 杀戮都市 / 武器 / scissor blade / 片太刀バサミ"
+    },
+    {
+      "en": "screen",
+      "zh": "屏幕",
+      "rating": "g",
+      "count": 3640,
+      "desc": "显示影像或信息的屏幕，含投影幕与电子显示面。",
+      "kw": "显示屏 / 荧幕 / 大屏幕 / 投影幕 / 显示屏幕 / 电子屏幕 / 电子设备 / 画面"
+    },
+    {
+      "en": "seaplane",
+      "zh": "水上飞机",
+      "rating": "g",
+      "count": 738,
+      "desc": "可在水面起降的飞机，分船身式与浮筒式",
+      "kw": "水上机 / 水面飞机 / 浮筒飞机 / 水上飞行器 / 飞机 / 交通工具 / 水上機"
+    },
+    {
+      "en": "searchlight",
+      "zh": "探照灯",
+      "rating": "g",
+      "count": 1300,
+      "desc": "极亮的户外聚光灯，也指被探照灯照到的角色",
+      "kw": "搜索灯 / 强光灯 / 聚光灯 / 照射灯 / 探照灯光 / 灯光 / 照明设备 / searchlights / サーチライト / 电筒 / 手电筒"
+    },
+    {
+      "en": "sedan",
+      "zh": "轿车",
+      "rating": "g",
+      "count": 930,
+      "desc": "一种三厢式乘用车，发动机舱、乘客舱和行李舱各自独立。",
+      "kw": "车辆 / 交通工具 / 三厢车"
+    },
+    {
+      "en": "sega saturn",
+      "zh": "世嘉土星",
+      "rating": "g",
+      "count": 179,
+      "desc": "世嘉1994年推出的32位家用游戏机",
+      "kw": "土星游戏机 / 世嘉土星游戏机 / 土星主机 / 世嘉土星主机 / 土星家用游戏机 / 世嘉土星家用机 / 土星游戏主机 / 土星机 / セガサターン"
+    },
+    {
+      "en": "segment display",
+      "zh": "分段显示",
+      "rating": "g",
+      "count": 197,
+      "desc": "用可开关线段显示数字或字母的电子显示方式",
+      "kw": "数码管显示 / 七段显示 / 七段数码管 / 段码显示 / 电子数字显示 / LED段显示 / 段码显示器 / 数码管"
+    },
+    {
+      "en": "selfie stick",
+      "zh": "自拍杆",
+      "rating": "g",
+      "count": 1252,
+      "desc": "用于自拍的伸缩单脚架",
+      "kw": "自拍棒 / 自拍架 / 自拍神器 / 配件 / 摄影器材 / 自撮り棒"
+    },
+    {
+      "en": "semi truck",
+      "zh": "半挂卡车",
+      "rating": "g",
+      "count": 316,
+      "desc": "带拖挂拖车的大型商用卡车。",
+      "kw": "半挂车 / 牵引卡车 / 拖挂卡车 / 半拖挂卡车 / 货柜车 / 拖头 / 集卡 / 卡车 / セミトレーラー"
+    },
+    {
+      "en": "seven-segment display",
+      "zh": "七段数码管",
+      "rating": "g",
+      "count": 501,
+      "desc": "用七段笔画显示数字的电子显示器件",
+      "kw": "七段显示器 / 七段数码显示屏 / 数码管 / LED七段显示 / 七划管 / 七段显示管 / 显示屏 / 电子 / 7セグメントディスプレイ"
+    },
+    {
+      "en": "sewing needle",
+      "zh": "缝衣针",
+      "rating": "g",
+      "count": 1301,
+      "desc": "尾部带孔可穿线的手缝针。",
+      "kw": "缝纫针 / 手缝针 / 缝针 / 针线用针 / 缝纫用针 / 工具 / 针类 / sewing needles / 縫い針"
+    },
+    {
+      "en": "sewing pin",
+      "zh": "珠针",
+      "rating": "g",
+      "count": 550,
+      "desc": "临时固定布料的带圆头细针",
+      "kw": "大头针 / 缝纫针 / 定位针 / 圆头针 / 针 / 工具"
+    },
+    {
+      "en": "shakujou",
+      "zh": "锡杖",
+      "rating": "g",
+      "count": 1308,
+      "desc": "佛教仪式用带金属环的锡杖。",
+      "kw": "禅杖 / 佛杖 / 僧杖 / 环锡杖 / 佛教锡杖 / 佛教法器 / 僧侣杖 / 日本风 / shakujo / khakkhara / sounding staff / priest staff (buddhist)"
+    },
+    {
+      "en": "shamisen",
+      "zh": "三味线",
+      "rating": "g",
+      "count": 694,
+      "desc": "日本传统三弦乐器，用拨子演奏",
+      "kw": "三弦 / 日本三弦 / 三味线琴 / 三味线乐器 / 日本乐器 / 和风 / 弦乐 / shamisen (instrument) / 三味線"
+    },
+    {
+      "en": "sheath",
+      "zh": "刀鞘",
+      "rating": "g",
+      "count": 70787,
+      "desc": "刀剑等有刃武器的鞘。",
+      "kw": "剑鞘 / 鞘 / 刀剑鞘 / 刀剑套 / 剑套"
+    },
+    {
+      "en": "sheathed",
+      "zh": "入鞘",
+      "rating": "g",
+      "count": 36750,
+      "desc": "刀剑处于插入鞘中的状态。",
+      "kw": "收刀 / 刀入鞘 / 剑入鞘 / 未出鞘 / 佩刀 / 佩剑 / 带刀 / 带剑 / 帯刀"
+    },
+    {
+      "en": "shell casing",
+      "zh": "弹壳",
+      "rating": "g",
+      "count": 5058,
+      "desc": "射击后留下的空弹壳。",
+      "kw": "子弹壳 / 空弹壳 / 药筒 / 弹壳残片 / 枪械配件 / 弹药 / shell casings / bullet casings / 薬荚 / 薬莢"
+    },
+    {
+      "en": "shield on back",
+      "zh": "背负盾牌",
+      "rating": "g",
+      "count": 1587,
+      "desc": "盾牌背在背后",
+      "kw": "背盾 / 盾牌背在背后 / 背挂盾牌 / 背后盾牌 / 后背盾牌 / 背上的盾牌 / 盾牌 / 武器"
+    },
+    {
+      "en": "shinai",
+      "zh": "竹刀",
+      "rating": "g",
+      "count": 1795,
+      "desc": "剑道使用的竹制练习刀",
+      "kw": "剑道竹刀 / 竹剑 / 竹刀剑道 / 竹剑道 / 剑道练习刀 / bamboo sword / しない"
+    },
+    {
+      "en": "ship",
+      "zh": "轮船",
+      "rating": "g",
+      "count": 8549,
+      "desc": "大型远洋船只，不包括潜艇",
+      "kw": "船 / 大船 / 舰船 / 海船 / 舰艇 / 船只 / 交通工具 / ships"
+    },
+    {
+      "en": "ship turret",
+      "zh": "舰炮塔",
+      "rating": "g",
+      "count": 21780,
+      "desc": "军舰上可旋转的装甲炮塔",
+      "kw": "舰炮 / 炮塔 / 军舰炮塔 / 舰用炮塔 / 舰载炮塔 / 武器 / 军事"
+    },
+    {
+      "en": "ship's wheel",
+      "zh": "舵轮",
+      "rating": "g",
+      "count": 696,
+      "desc": "船和艇上的辐条式舵轮",
+      "kw": "船舵 / 船用舵轮 / 舵盘 / 船舵轮 / 航海舵轮 / 帆船舵轮 / 轮舵 / 驾驶舵轮 / 舵輪"
+    },
+    {
+      "en": "short sword",
+      "zh": "短剑",
+      "rating": "g",
+      "count": 3859,
+      "desc": "可单手挥动但长于匕首的短刃剑",
+      "kw": "短刀 / 短刃剑 / 单手短剑 / 短柄剑 / 短刃 / 武器 / 剑 / 短剣 / ショートソード"
+    },
+    {
+      "en": "shotgun",
+      "zh": "霰弹枪",
+      "rating": "g",
+      "count": 8328,
+      "desc": "发射弹丸或独头弹的滑膛枪，近距离威力大",
+      "kw": "散弹枪 / 猎枪 / 霰弹鎗 / 散弹鎗 / 喷子 / 鸟枪 / 枪械 / 武器 / 散弾铳 / ショットガン / 散弾銃"
+    },
+    {
+      "en": "shotgun shell",
+      "zh": "霰弹枪弹壳",
+      "rating": "g",
+      "count": 1514,
+      "desc": "霰弹枪使用的管状弹药外壳",
+      "kw": "霰弹弹壳 / 散弹枪弹壳 / 散弹弹壳 / 猎枪弹壳 / 霰弹枪子弹 / 散弹 / 霰弹壳 / 霰弹枪外壳 / shotgun shells"
+    },
+    {
+      "en": "shoulder cannon",
+      "zh": "肩部加农炮",
+      "rating": "g",
+      "count": 2146,
+      "desc": "角色肩上架设的枪炮，多见于远程机甲",
+      "kw": "肩炮 / 肩扛炮 / 肩装炮 / 肩部炮 / 肩膀上炮 / 肩载加农炮 / 肩部火炮 / 肩部大炮"
+    },
+    {
+      "en": "shovel",
+      "zh": "铲子",
+      "rating": "g",
+      "count": 6042,
+      "desc": "常见的挖掘工具铲子",
+      "kw": "铁锹 / 铁铲 / 挖铲 / 锹 / 工具 / 挖掘 / シャベル / ショベル / スコップ"
+    },
+    {
+      "en": "shuriken",
+      "zh": "手里剑",
+      "rating": "g",
+      "count": 4200,
+      "desc": "日本传统的投掷用手里剑，常见十字形或星形",
+      "kw": "飞镖 / 忍者镖 / 十字镖 / 十字飞镖 / 日本飞镖 / 手里剣 / 忍具 / 武器 / throwing stars / ninja star / 手裏剣"
+    },
+    {
+      "en": "sickle",
+      "zh": "镰刀",
+      "rating": "g",
+      "count": 1455,
+      "desc": "短柄弯刃的镰刀，常与锤子组合象征共产主义。",
+      "kw": "短柄镰刀 / 收割镰 / 镰刃 / 小镰刀 / 弯镰 / 武器 / 农具 / 鎌 / 낫"
+    },
+    {
+      "en": "sig 556",
+      "zh": "西格556步枪",
+      "rating": "g",
+      "count": 746,
+      "desc": "西格绍尔2007至2016年生产的突击步枪",
+      "kw": "西格绍尔556步枪 / 西格556突击步枪 / 西格绍尔556突击步枪 / SIG 556 / 枪械 / 武器 / sig sauer 556"
+    },
+    {
+      "en": "sig mcx",
+      "zh": "SIG MCX步枪",
+      "rating": "g",
+      "count": 578,
+      "desc": "西格绍尔设计生产的系列选射步枪，模块化设计",
+      "kw": "西格绍尔MCX步枪 / 西格绍尔MCX / MCX步枪 / 西格绍尔MCX卡宾枪 / 西格绍尔MCX突击步枪 / 西格绍尔MCX短步枪 / SIG MCX / 突击步枪 / sig sauer mcx spear / sig sauer mcx / mcx"
+    },
+    {
+      "en": "sig mpx",
+      "zh": "SIG MPX冲锋枪",
+      "rating": "g",
+      "count": 726,
+      "desc": "西格绍尔2015年推出的冲锋枪",
+      "kw": "西格绍尔MPX / SIG MPX / MPX冲锋枪 / 西格绍尔冲锋枪 / 冲锋枪 / 武器 / sig sauer mpx / mpx"
+    },
+    {
+      "en": "sig p220/p226",
+      "zh": "SIG P220/P226手枪",
+      "rating": "g",
+      "count": 576,
+      "desc": "西格绍尔1975年研制的半自动手枪系列，包括P220和P226",
+      "kw": "西格绍尔P220/P226手枪 / 西格绍尔P220手枪 / 西格绍尔P226手枪 / P220/P226手枪 / 西格绍尔P220 / 西格绍尔P226 / 西格绍尔P220/P226 / SIG P220 / sig sauer p220 / sig sauer p225 / sig sauer p226 / p220"
+    },
+    {
+      "en": "single earphone removed",
+      "zh": "只戴单侧耳机",
+      "rating": "g",
+      "count": 658,
+      "desc": "只戴一侧耳机，另一侧摘下",
+      "kw": "只戴一边耳机 / 单耳耳机 / 一侧耳机摘下 / 单侧耳机 / 只戴一只耳机 / 一耳戴耳机 / 摘下一只耳机 / 耳机"
+    },
+    {
+      "en": "sledgehammer",
+      "zh": "大锤",
+      "rating": "g",
+      "count": 718,
+      "desc": "需双手挥动、常用于拆墙或破拆的大锤。",
+      "kw": "大铁锤 / 双手锤 / 重锤 / 拆墙锤 / 碎石锤 / 八角锤 / 武器 / 工具 / 锤子（大锤） / 大型ハンマー / スレッジハンマー"
+    },
+    {
+      "en": "sleigh",
+      "zh": "雪橇",
+      "rating": "g",
+      "count": 945,
+      "desc": "在冰雪上由马或驯鹿拉行的敞篷雪车",
+      "kw": "马拉雪橇 / 雪车 / 鹿拉雪橇 / 敞篷雪橇 / 雪爬犁 / 交通工具 / 圣诞"
+    },
+    {
+      "en": "slingshot (weapon)",
+      "zh": "弹弓",
+      "rating": "g",
+      "count": 506,
+      "desc": "Y形叉加皮筋、用来弹射石子的玩具",
+      "kw": "皮筋弹弓 / Y形弹弓 / 橡皮筋弹弓 / 射石弹弓 / 打鸟弹弓 / 弹弓武器 / 木制弹弓 / 手持弹弓 / slingshot / スリングショット / パチンコ"
+    },
+    {
+      "en": "smartphone case",
+      "zh": "手机壳",
+      "rating": "g",
+      "count": 1295,
+      "desc": "套在智能手机外面的保护壳。",
+      "kw": "手机保护壳 / 手机套 / 手机保护套 / 智能机壳 / 电话壳 / 手机配件 / 配饰"
+    },
+    {
+      "en": "smoke grenade",
+      "zh": "烟雾弹",
+      "rating": "g",
+      "count": 521,
+      "desc": "释放大量烟雾的手投弹药",
+      "kw": "烟幕弹 / 发烟弹 / 烟雾手榴弹 / 烟幕手榴弹 / 烟罐 / 武器 / 道具 / 発烟弾 / 発煙弾"
+    },
+    {
+      "en": "smoking barrel",
+      "zh": "冒烟的枪管",
+      "rating": "g",
+      "count": 2115,
+      "desc": "枪械刚刚射击后枪管仍冒烟",
+      "kw": "枪管冒烟 / 冒烟枪口 / 刚开火的枪 / 枪口冒烟 / 枪械 / 武器 / smoking gun"
+    },
+    {
+      "en": "snare drum",
+      "zh": "小军鼓",
+      "rating": "g",
+      "count": 147,
+      "desc": "底面绷有响弦、声音清脆短促的军鼓",
+      "kw": "军鼓 / 小鼓 / 响弦鼓 / 边鼓 / 弹簧鼓 / 鼓 / 乐器 / 打击乐"
+    },
+    {
+      "en": "snorkel",
+      "zh": "潜水呼吸管",
+      "rating": "g",
+      "count": 2247,
+      "desc": "浅水潜水时用的呼吸管，常与面镜同用",
+      "kw": "呼吸管 / 浮潜呼吸管 / 水下呼吸管 / 潜水通气管 / 潜水装备"
+    },
+    {
+      "en": "snowboard",
+      "zh": "单板滑雪板",
+      "rating": "g",
+      "count": 813,
+      "desc": "固定在双靴下的一块宽板，用于单板滑雪。",
+      "kw": "单板 / 滑雪板 / 单板滑雪 / 雪地滑板 / 单板雪板 / 滑雪器材 / 滑板 / スノーボード"
+    },
+    {
+      "en": "space shuttle",
+      "zh": "航天飞机",
+      "rating": "g",
+      "count": 200,
+      "desc": "NASA于1981至2011年使用的部分可重复使用航天器",
+      "kw": "太空梭 / 航天飞船 / 太空穿梭机 / 航天飞梭 / 科技 / 航天器 / 穿梭机"
+    },
+    {
+      "en": "space sword",
+      "zh": "太空剑",
+      "rating": "g",
+      "count": 142,
+      "desc": "水手天王星施展「太空剑爆破」时所用的剑",
+      "kw": "天王星之剑 / 空间剑 / 宇宙剑 / 太空剑刃 / 太空剑（美少女战士） / 科幻 / 武器"
+    },
+    {
+      "en": "spacecraft",
+      "zh": "宇宙飞船",
+      "rating": "g",
+      "count": 7689,
+      "desc": "为太空飞行设计的载具，科幻作品中常见。",
+      "kw": "航天器 / 太空船 / 宇宙飞行器 / 宇宙战舰 / 太空载具 / 飞船 / 星际飞船 / 科技 / spaceship / space ship / space craft / 宇宙戦舰"
+    },
+    {
+      "en": "speaker",
+      "zh": "扬声器",
+      "rating": "g",
+      "count": 5856,
+      "desc": "把电信号转换为声音的声音输出设备",
+      "kw": "音箱 / 喇叭 / 扬声器喇叭 / 音响 / 扩音器 / 电子设备 / speakers / loudspeaker / スピーカー"
+    },
+    {
+      "en": "spear the gungnir",
+      "zh": "神枪冈格尼尔",
+      "rating": "g",
+      "count": 2604,
+      "desc": "蕾米莉亚·斯卡蕾特的符卡，源自奥丁之枪。",
+      "kw": "冈格尼尔 / 斯皮尔·冈格尼尔 / 奥丁之枪 / 蕾米莉亚的符卡 / 冈格尼尔之枪 / 武器 / 长矛 / 神话 / 神槍「スピア・ザ・グングニル」 / スピア・ザ・グングニル"
+    },
+    {
+      "en": "spiked ball and chain",
+      "zh": "尖刺链球",
+      "rating": "g",
+      "count": 827,
+      "desc": "球体带尖刺的连枷武器",
+      "kw": "流星锤 / 尖刺铁球链 / 狼牙球链 / 刺球连枷 / 刺球流星锤 / 武器"
+    },
+    {
+      "en": "spiked club",
+      "zh": "狼牙棒",
+      "rating": "g",
+      "count": 2611,
+      "desc": "带有尖刺的棍棒，日式金砕棒常与鬼相关。",
+      "kw": "金棒 / 金砕棒 / 尖刺棍棒 / 棘棍 / 钉头棒 / 带刺棍棒 / 尖刺棒 / 武器"
+    },
+    {
+      "en": "spiked mace",
+      "zh": "狼牙棒",
+      "rating": "g",
+      "count": 887,
+      "desc": "头部为尖刺球的钉头锤",
+      "kw": "尖刺狼牙棒 / 钉头锤 / 尖刺钉头锤 / 晨星锤 / 武器 / 锤类 / morning star (weapon) / モーニングスター"
+    },
+    {
+      "en": "splattershot (splatoon)",
+      "zh": "斯普拉射击枪",
+      "rating": "g",
+      "count": 1256,
+      "desc": "《斯普拉遁》系列中的标志性射击武器。",
+      "kw": "斯普拉射手 / 斯普拉枪 / 喷射射击枪 / 斯普拉遁射击枪 / 斯普拉射枪 / 武器 / 枪械 / 游戏道具 / スプラシューター / スプラシューターコラボ / スプラシューターワサビ"
+    },
+    {
+      "en": "spoiler (automobile)",
+      "zh": "汽车扰流板",
+      "rating": "g",
+      "count": 1982,
+      "desc": "安装在汽车尾部的扰流板，又称尾翼",
+      "kw": "尾翼 / 定风翼 / 车尾扰流板 / 后扰流板 / 尾扰流板 / 汽车尾翼 / 汽车配件 / 赛车"
+    },
+    {
+      "en": "sports car",
+      "zh": "跑车",
+      "rating": "g",
+      "count": 3758,
+      "desc": "强调驾驶性能与乐趣的跑车",
+      "kw": "运动型汽车 / 运动轿车 / 性能车 / 超级跑车 / 高性能跑车 / supercar / 超级跑车 / 超跑"
+    },
+    {
+      "en": "sports utility vehicle",
+      "zh": "运动型多用途车",
+      "rating": "g",
+      "count": 767,
+      "desc": "具越野能力的运动型多用途车",
+      "kw": "运动型多功能车 / 运动休旅车 / 休旅车 / 越野车 / 城市越野车 / SUV / 汽车 / 交通工具 / suv"
+    },
+    {
+      "en": "spray bottle",
+      "zh": "喷雾瓶",
+      "rating": "g",
+      "count": 1038,
+      "desc": "扳机式喷出细雾的喷瓶",
+      "kw": "喷瓶 / 喷雾壶 / 喷壶 / 喷射瓶 / 喷雾器瓶 / 喷雾器 / 瓶子"
+    },
+    {
+      "en": "spray can",
+      "zh": "喷雾罐",
+      "rating": "g",
+      "count": 2904,
+      "desc": "按下喷头喷出细雾的加压罐。",
+      "kw": "喷漆罐 / 喷雾瓶 / 喷雾器 / 气雾罐 / 喷罐 / 工具"
+    },
+    {
+      "en": "spray paint",
+      "zh": "喷漆",
+      "rating": "g",
+      "count": 950,
+      "desc": "可喷出漆料的加压罐。",
+      "kw": "喷漆罐 / 自动喷漆 / 气雾漆 / 手喷漆 / 喷漆涂鸦 / 涂鸦工具 / 喷雾"
+    },
+    {
+      "en": "spring (object)",
+      "zh": "弹簧",
+      "rating": "g",
+      "count": 585,
+      "desc": "提供弹力的金属螺旋弹簧",
+      "kw": "螺旋弹簧 / 弹力弹簧 / 金属弹簧 / 弹簧物体 / 弹簧 (物体) / 机械零件 / 物品 / 道具 / 発条"
+    },
+    {
+      "en": "staff of homa (genshin impact)",
+      "zh": "护摩之杖（原神）",
+      "rating": "g",
+      "count": 575,
+      "desc": "《原神》中胡桃的五星长柄武器。",
+      "kw": "护摩之杖 / 护摩杖 / 护摩 / 护摩之杖 (原神) / 武器 / 法杖 / 護摩の杖"
+    },
+    {
+      "en": "staff of selection (fate)",
+      "zh": "选定之杖",
+      "rating": "g",
+      "count": 667,
+      "desc": "《Fate/Grand Order》中阿尔托莉雅·Caster的选定之杖",
+      "kw": "阿尔托莉雅·卡斯特的杖 / 卡斯特的杖 / 术阶阿尔托莉雅的杖 / Fate / 法杖 / 武器"
+    },
+    {
+      "en": "stapler",
+      "zh": "订书机",
+      "rating": "g",
+      "count": 757,
+      "desc": "装订纸张用的工具",
+      "kw": "订书器 / 钉书机 / 装订机 / 文具 / 办公用品 / 纸缀器 / ホッチキス / ステープラー / 紙綴器"
+    },
+    {
+      "en": "star wand",
+      "zh": "星魔杖",
+      "rating": "g",
+      "count": 1589,
+      "desc": "顶端有星星的魔杖",
+      "kw": "星星魔杖 / 星形魔杖 / 星星法杖 / 星杖 / 五角星魔杖 / 星星魔法杖 / 魔法道具 / 武器"
+    },
+    {
+      "en": "starfighter",
+      "zh": "星际战斗机",
+      "rating": "g",
+      "count": 792,
+      "desc": "科幻作品中单人驾驶的小型战斗机",
+      "kw": "太空战斗机 / 宇宙战斗机 / 星际战机 / 星战战斗机 / 科幻战斗机 / 科幻战机 / 宇宙戦闘机 / 宇宙戦闘機"
+    },
+    {
+      "en": "steam locomotive",
+      "zh": "蒸汽机车",
+      "rating": "g",
+      "count": 859,
+      "desc": "以蒸汽机为动力的火车头",
+      "kw": "蒸汽火车 / 蒸汽火车头 / 蒸汽机关车 / 火车 / 交通工具 / 蒸気机関车 / 蒸気機関車 / 증기기관차"
+    },
+    {
+      "en": "steel ball (jojo)",
+      "zh": "铁球（JOJO的奇妙冒险）",
+      "rating": "g",
+      "count": 556,
+      "desc": "JOJO中齐贝林家族使用的铁球",
+      "kw": "铁球（JOJO） / 齐贝林铁球 / JOJO铁球 / 钢球 / 铁球 (JOJO) / JOJO / 武器 / steel ball"
+    },
+    {
+      "en": "steering wheel",
+      "zh": "方向盘",
+      "rating": "g",
+      "count": 5233,
+      "desc": "机动车上用于操控方向的方向盘。",
+      "kw": "汽车方向盘 / 舵轮 / 转向盘 / 驾驶盘 / 车辆方向盘 / 车辆配件 / 道具 / ステアリング・ホイール / ステアリング / ハンドル"
+    },
+    {
+      "en": "stereo",
+      "zh": "立体声音响",
+      "rating": "g",
+      "count": 475,
+      "desc": "家用双声道扬声器音响设备，非便携式",
+      "kw": "立体声 / 音响 / 音箱 / 家用音响 / 双扬声器音响 / 高保真音响 / 立体声系统 / 电器 / ステレオ"
+    },
+    {
+      "en": "stethoscope",
+      "zh": "听诊器",
+      "rating": "g",
+      "count": 5427,
+      "desc": "听诊体内声音的医疗器械",
+      "kw": "听筒 / 听诊管 / 医疗听诊器 / 听诊设备 / 医疗器械 / 聴诊器 / 聴診器"
+    },
+    {
+      "en": "stiletto (weapon)",
+      "zh": "短剑（武器）",
+      "rating": "g",
+      "count": 1238,
+      "desc": "细长针状、专用于刺击的短剑",
+      "kw": "细剑 / 匕首 / 刺剑 / 短匕首 / 尖刀 / 剑 / 武器 / stilett / stiletto"
+    },
+    {
+      "en": "streetcar",
+      "zh": "有轨电车",
+      "rating": "g",
+      "count": 476,
+      "desc": "在公共道路上与汽车混行的轨道车辆",
+      "kw": "路面电车 / 电车 / 街车 / 轻轨电车 / 轨道电车 / 交通工具 / 车辆 / tram / 路面電車"
+    },
+    {
+      "en": "stretcher",
+      "zh": "担架",
+      "rating": "g",
+      "count": 177,
+      "desc": "带轮子用于运送伤病者的担架",
+      "kw": "救护担架 / 担架床 / 急救担架 / 抬架 / 医疗用品 / 工具"
+    },
+    {
+      "en": "striker unit",
+      "zh": "飞行脚",
+      "rating": "g",
+      "count": 3089,
+      "desc": "《强袭魔女》系列中装在腿上的魔法飞行装置。",
+      "kw": "飞行腿 / 强袭魔女飞行装置 / 强袭单元 / 机甲部件 / 机械 / striker units / ストライカーユニット"
+    },
+    {
+      "en": "string of light bulbs",
+      "zh": "灯泡串",
+      "rating": "g",
+      "count": 789,
+      "desc": "串在两点之间的圆灯泡串，大于圣诞灯",
+      "kw": "一串灯泡 / 灯串 / 圆灯泡串 / 装饰灯泡串 / 节日灯泡串 / 灯泡链 / 装饰灯串 / 节日灯串"
+    },
+    {
+      "en": "studio microphone",
+      "zh": "录音棚麦克风",
+      "rating": "g",
+      "count": 660,
+      "desc": "录音棚中使用的专业麦克风，常带防喷罩。",
+      "kw": "录音室麦克风 / 录音麦克风 / 广播麦克风 / 专业麦克风 / 麦克风 / 录音设备"
+    },
+    {
+      "en": "stylus",
+      "zh": "触控笔",
+      "rating": "g",
+      "count": 6421,
+      "desc": "在数码设备上绘画写字用的笔状输入工具",
+      "kw": "数位笔 / 数绘笔 / 手写笔 / 笔型输入工具 / 笔 / 文具 / tablet pen / スタイラス"
+    },
+    {
+      "en": "submachine gun",
+      "zh": "冲锋枪",
+      "rating": "g",
+      "count": 14003,
+      "desc": "使用手枪弹、可全自动射击的短管枪械",
+      "kw": "短机关枪 / 轻机枪 / 自动手枪 / 微型冲锋枪 / 微冲 / 手提机枪 / 小型冲锋枪 / 自动冲锋枪 / smg / 短机関铳 / サブマシンガン / 短機関銃"
+    },
+    {
+      "en": "submarine",
+      "zh": "潜艇",
+      "rating": "g",
+      "count": 808,
+      "desc": "可在水下航行的舰艇",
+      "kw": "潜水艇 / 潜水舰 / 水底舰艇 / 军舰 / 载具 / 潜水艦"
+    },
+    {
+      "en": "super famicom controller",
+      "zh": "超级红白机手柄",
+      "rating": "g",
+      "count": 265,
+      "desc": "超级红白机的手柄，首次引入肩键",
+      "kw": "超任手柄 / SFC手柄 / 超级任天堂手柄 / 超级红白机控制器 / 超任控制器 / SFC控制器 / 超级任天堂控制器 / 游戏手柄 / super famicom gamepad"
+    },
+    {
+      "en": "super soaker",
+      "zh": "超级水枪",
+      "rating": "g",
+      "count": 586,
+      "desc": "带大容量水仓和泵动加压装置的水枪",
+      "kw": "加压水枪 / 泵动水枪 / 超级水枪玩具 / 大容量水枪 / 玩具 / 水枪"
+    },
+    {
+      "en": "sword of hisou",
+      "zh": "绯想之剑",
+      "rating": "g",
+      "count": 3291,
+      "desc": "东方Project中比那名居天子的武器，能变形并找出敌人弱点。",
+      "kw": "绯想剑 / 比那名居天子的剑 / 天子之剑 / 绯想之剑（天子） / 武器 / 剑 / 幻想 / 緋想の剣"
+    },
+    {
+      "en": "sword of st. catherine (fate)",
+      "zh": "圣凯瑟琳之剑（Fate）",
+      "rating": "g",
+      "count": 682,
+      "desc": "Fate系列贞德持有的圣凯瑟琳之剑",
+      "kw": "圣凯瑟琳之剑 / 圣卡特琳娜之剑 / 圣加大利纳之剑 / 圣凯瑟琳剑 / 贞德的圣凯瑟琳之剑 / 圣凯瑟琳之剑（命运系列） / 圣凯瑟琳之剑 (Fate) / 武器"
+    },
+    {
+      "en": "sword of the creator",
+      "zh": "天帝之剑",
+      "rating": "g",
+      "count": 680,
+      "desc": "《火焰纹章 风花雪月》中贝雷特的专属武器",
+      "kw": "天帝剑 / 创世之剑 / 创造者之剑 / 风花雪月天帝之剑 / 贝雷特的剑 / 武器 / 剑"
+    },
+    {
+      "en": "sword on back",
+      "zh": "背剑",
+      "rating": "g",
+      "count": 7970,
+      "desc": "把剑背在背上的状态。",
+      "kw": "背上的剑 / 背着剑 / 背上背剑 / 剑背在背上 / 剑在背后 / 背负剑 / 身后背剑 / 背后的剑"
+    },
+    {
+      "en": "sword tassel",
+      "zh": "剑穗",
+      "rating": "g",
+      "count": 1137,
+      "desc": "系在剑柄上、用于缠腕防脱手的装饰穗子",
+      "kw": "剑穗子 / 刀穗 / 剑缨 / 刀穗子 / 剑绳 / 佩剑穗 / 刀剑穗 / 流苏 / portepee / saber knot / sabre knot / sword knot"
+    },
+    {
+      "en": "synthesizer",
+      "zh": "合成器",
+      "rating": "g",
+      "count": 335,
+      "desc": "可编辑参数或自制音色的电子键盘乐器",
+      "kw": "电子合成器 / 音乐合成器 / 合成器乐器 / 电子乐器 / 键盘 / 音乐设备 / シンセサイザー"
+    },
+    {
+      "en": "syringe",
+      "zh": "注射器",
+      "rating": "g",
+      "count": 15147,
+      "desc": "带活塞和空心针头，用于注射或抽取液体。",
+      "kw": "针筒 / 注射针 / 针管 / 针头 / 打针器 / 医用注射器 / 一次性注射器 / 注射针筒 / ちゅうしゃき"
+    },
+    {
+      "en": "table tennis paddle",
+      "zh": "乒乓球拍",
+      "rating": "g",
+      "count": 929,
+      "desc": "打乒乓球用的球拍",
+      "kw": "乒乓拍 / 桌球拍 / 乒乓球板 / 体育器材 / 球拍 / ping-pong racket / ping-pong paddle / ping pong racket / ping pong paddle"
+    },
+    {
+      "en": "tablet pc",
+      "zh": "平板电脑",
+      "rating": "g",
+      "count": 9646,
+      "desc": "带触摸屏、无内置键盘的平板电脑",
+      "kw": "平板 / 平板机 / 触屏平板 / 平板设备 / 电子产品 / タブレットpc"
+    },
+    {
+      "en": "tachi (weapon)",
+      "zh": "太刀",
+      "rating": "g",
+      "count": 587,
+      "desc": "早于打刀、主要供武士骑马使用的日本刀",
+      "kw": "日本太刀 / 太刀型日本刀 / 武器 / 日本刀 / 和风"
+    },
+    {
+      "en": "tactical surface fighter",
+      "zh": "战术机（Muv-Luv）",
+      "rating": "g",
+      "count": 576,
+      "desc": "《Muv-Luv》系列中用于对抗BETA的双足步行机体",
+      "kw": "战术机 / 战术步行战斗机 / Muv-Luv战术机 / 机甲 / 科幻 / 机械 / 戦术机 / 第3世代戦术机 / 戦術機 / 戰術機"
+    },
+    {
+      "en": "taiko drum",
+      "zh": "太鼓",
+      "rating": "g",
+      "count": 799,
+      "desc": "日本传统打击乐器，鼓身宽大、用鼓槌敲击",
+      "kw": "和太鼓 / 日本太鼓 / 日式太鼓 / 和鼓 / 乐器 / 日本风格"
+    },
+    {
+      "en": "tambourine",
+      "zh": "铃鼓",
+      "rating": "g",
+      "count": 1276,
+      "desc": "带成对小钹的框形打击乐器。",
+      "kw": "手鼓 / 小手鼓 / 铃框鼓 / 铃圈 / 摇铃鼓 / 乐器 / 打击乐 / タンバリン"
+    },
+    {
+      "en": "tank",
+      "zh": "坦克",
+      "rating": "g",
+      "count": 10754,
+      "desc": "带厚重装甲与履带的军用车辆",
+      "kw": "战车 / 主战坦克 / 装甲战车 / 坦克车 / 军事 / 车辆 / tanks / main battle tank / 戦车 / 架空戦车"
+    },
+    {
+      "en": "tank shell",
+      "zh": "坦克炮弹",
+      "rating": "g",
+      "count": 609,
+      "desc": "坦克发射的大型爆炸弹丸",
+      "kw": "坦克弹 / 战车炮弹 / 坦克炮弹丸 / 坦克主炮弹 / 坦克炮弹药 / 武器 / 军事 / 炮弹 / 炮弾 / 砲弾"
+    },
+    {
+      "en": "tank turret",
+      "zh": "坦克炮塔",
+      "rating": "g",
+      "count": 1121,
+      "desc": "安装在坦克等装甲车辆上、容纳主炮和乘员的旋转炮塔。",
+      "kw": "战车炮塔 / 坦克炮台 / 装甲炮塔 / 战车炮台 / 坦克旋转炮塔 / 坦克 / 军事装备"
+    },
+    {
+      "en": "tantou",
+      "zh": "短刀",
+      "rating": "g",
+      "count": 1444,
+      "desc": "日本武士或贵族女性携带的短剑或匕首",
+      "kw": "怀剑 / 短匕首 / 日本短刀 / 武士短刀 / 护身短刀 / 怀刀 / 武器 / 日本刀"
+    },
+    {
+      "en": "taxi",
+      "zh": "出租车",
+      "rating": "g",
+      "count": 546,
+      "desc": "按里程收费、载客前往目的地的营运汽车",
+      "kw": "的士 / 计程车 / 出租汽车 / 的士车 / 计程出租车 / 车辆 / 交通工具 / タクシー"
+    },
+    {
+      "en": "tear arcana rod",
+      "zh": "泪之秘仪权杖",
+      "rating": "g",
+      "count": 758,
+      "desc": "光之美少女系列中的道具",
+      "kw": "泪之秘仪杖 / 泪之秘仪棒 / 光之美少女泪之秘仪权杖 / 泪之秘仪法杖 / Tear Arcana Rod / 泪魔法杖 / 奥秘法杖"
+    },
+    {
+      "en": "thompson submachine gun",
+      "zh": "汤普森冲锋枪",
+      "rating": "g",
+      "count": 616,
+      "desc": "1919年发明的美国.45口径汤普森冲锋枪",
+      "kw": "汤姆逊冲锋枪 / 汤姆森冲锋枪 / 汤普森枪 / 芝加哥打字机 / 汤米枪 / 武器 / 冲锋枪 / tommy gun / トミーガン / シカゴタイプライター / トンプソン・サブマシンガン"
+    },
+    {
+      "en": "three-dimensional maneuver gear",
+      "zh": "立体机动装置",
+      "rating": "g",
+      "count": 2410,
+      "desc": "《进击的巨人》中人类对抗巨人的立体机动装置",
+      "kw": "立体机动 / 立体机动装备 / 立体机动兵装 / 立体机动系统 / 3D机动装置 / 装备 / 机械装置 / 科幻 / 3dmg / 立体機動装置 / 立體機動裝置 / 입체기동장치"
+    },
+    {
+      "en": "throat microphone",
+      "zh": "喉咙麦克风",
+      "rating": "g",
+      "count": 1256,
+      "desc": "贴喉接触拾音的颈挂式麦克风",
+      "kw": "喉麦 / 喉部麦克风 / 颈挂式麦克风 / 贴喉麦克风 / 项圈麦克风 / 麦克风 / 通讯设备"
+    },
+    {
+      "en": "throwing knife",
+      "zh": "飞刀",
+      "rating": "g",
+      "count": 1277,
+      "desc": "专为投掷设计的刀具。",
+      "kw": "投掷刀 / 掷刀 / 投掷用小刀 / 武器 / 刀具 / throwing knives / 投げナイフ"
+    },
+    {
+      "en": "throwing needles",
+      "zh": "投掷针",
+      "rating": "g",
+      "count": 631,
+      "desc": "用于格斗投掷伤人的长针，非缝纫针",
+      "kw": "飞针 / 暗器针 / 投针 / 针状暗器 / 暗器长针 / 掷针 / 投飞针 / 暗器"
+    },
+    {
+      "en": "tie fighter",
+      "zh": "钛战机",
+      "rating": "g",
+      "count": 113,
+      "desc": "《星球大战》中银河帝国的标准星际战机。",
+      "kw": "钛式战斗机 / 帝国钛战机 / 钛战斗机 / TIE 战斗机 / 星战 / 飞船"
+    },
+    {
+      "en": "tiger i",
+      "zh": "虎式坦克",
+      "rating": "g",
+      "count": 695,
+      "desc": "二战德国虎式重型坦克",
+      "kw": "虎式重型坦克 / 虎I坦克 / 虎1坦克 / 德国虎式坦克 / 虎式战车 / 虎型坦克 / 虎I式 / 老虎坦克 / panzer vi tiger i / pzkpfw vi tiger i / ティーガーi / ティーガーi"
+    },
+    {
+      "en": "tools",
+      "zh": "工具",
+      "rating": "g",
+      "count": 1806,
+      "desc": "协助作业的各种工具",
+      "kw": "道具 / 用具 / 器具 / 器械 / 器材 / 工具类 / tool"
+    },
+    {
+      "en": "torpedo",
+      "zh": "鱼雷",
+      "rating": "g",
+      "count": 9632,
+      "desc": "在水中航行攻击目标的自推进爆炸武器",
+      "kw": "魚雷 / 重型鱼雷 / 武器 / 军事 / 导弹"
+    },
+    {
+      "en": "torpedo launcher",
+      "zh": "鱼雷发射管",
+      "rating": "g",
+      "count": 2285,
+      "desc": "用于发射鱼雷的圆柱形装置",
+      "kw": "鱼雷发射器 / 武器 / 军事"
+    },
+    {
+      "en": "torpedo tubes",
+      "zh": "鱼雷发射管",
+      "rating": "g",
+      "count": 3969,
+      "desc": "发射鱼雷用的圆筒形发射管",
+      "kw": "鱼雷管 / 鱼雷发射器 / 武器 / 军事 / 装备 / 鱼雷発射管 / 魚雷発射管"
+    },
+    {
+      "en": "traffic baton",
+      "zh": "交通指挥棒",
+      "rating": "g",
+      "count": 821,
+      "desc": "交警指挥交通或航空引导用的指挥棒",
+      "kw": "诱导棒 / 指挥棒 / 交警棒 / 交通棒 / 发光指挥棒 / 诱导指挥棒 / 警具 / 誘導棒"
+    },
+    {
+      "en": "trailer",
+      "zh": "拖车",
+      "rating": "g",
+      "count": 318,
+      "desc": "由机动车牵引、用于载货或居住的无动力车辆",
+      "kw": "挂车 / 拖挂车 / 拖斗 / 拖车车厢 / 露营拖车 / 旅行拖车 / 房车拖车 / 预告片 / トレーラー"
+    },
+    {
+      "en": "train",
+      "zh": "列车",
+      "rating": "g",
+      "count": 6592,
+      "desc": "在轨道上连接成列运送乘客或货物的车辆。",
+      "kw": "火车 / 电车 / 轨道列车 / 铁路车辆 / 铁道列车 / 交通工具 / 女性専用车両 / 気动车 / 货物列车 / 铁道"
+    },
+    {
+      "en": "transparent umbrella",
+      "zh": "透明雨伞",
+      "rating": "g",
+      "count": 5031,
+      "desc": "伞面透光或半透明的雨伞。",
+      "kw": "透明伞 / 塑料伞 / 乙烯基伞 / 半透明伞 / 雨伞 / 透明物品 / ビニール傘"
+    },
+    {
+      "en": "transverse flute",
+      "zh": "横笛",
+      "rating": "g",
+      "count": 1464,
+      "desc": "横持吹奏的笛类乐器，如长笛",
+      "kw": "长笛 / 横吹笛 / 侧吹笛 / 西式长笛 / 笛子 / 横吹乐器 / 管乐器 / side-blown flute"
+    },
+    {
+      "en": "triangle (instrument)",
+      "zh": "三角铁",
+      "rating": "g",
+      "count": 338,
+      "desc": "三角形金属打击乐器。",
+      "kw": "三角铃 / 三角铁乐器 / 三角打击乐器 / 三角器 / 乐器 / 打击乐器"
+    },
+    {
+      "en": "trombone",
+      "zh": "长号",
+      "rating": "g",
+      "count": 522,
+      "desc": "靠U形拉管改变音高的铜管乐器",
+      "kw": "伸缩长号 / 拉管长号 / 拉管 / 乐器 / 铜管 / トロンボーン"
+    },
+    {
+      "en": "trowel",
+      "zh": "泥刀",
+      "rating": "g",
+      "count": 1021,
+      "desc": "单手使用的小型铲子或抹刀",
+      "kw": "抹泥刀 / 泥铲 / 刮刀 / 园艺小铲 / 小手铲 / 瓦刀 / 镘刀 / 工具 / スコップ / シャベル"
+    },
+    {
+      "en": "truck",
+      "zh": "卡车",
+      "rating": "g",
+      "count": 3538,
+      "desc": "运输货物的机动车辆",
+      "kw": "货车 / 载重汽车 / 大卡车 / 卡車 / 货运车 / 车辆 / lorry / 货物自动车 / トラック / 貨物自動車"
+    },
+    {
+      "en": "trumpet",
+      "zh": "小号",
+      "rating": "g",
+      "count": 3903,
+      "desc": "带三个活塞阀的铜管乐器",
+      "kw": "喇叭 / 小喇叭 / 铜管小号 / 西洋小号 / 乐器 / 铜管"
+    },
+    {
+      "en": "tsuba (guard)",
+      "zh": "刀镡",
+      "rating": "g",
+      "count": 777,
+      "desc": "日本刀柄与刀刃之间的圆或方形护手",
+      "kw": "刀锷 / 护手 / 刀护手 / 日本刀护手 / 刀挡 / 镡 / 刀剑配件 / 日本刀 / 鐔 / 鍔"
+    },
+    {
+      "en": "tsuzumi",
+      "zh": "日本手鼓",
+      "rating": "g",
+      "count": 359,
+      "desc": "沙漏形日式传统手鼓",
+      "kw": "日式手鼓 / 日式鼓 / 和式手鼓 / 日本鼓 / 手鼓（日本） / 沙漏鼓 / 小提鼓 / 鼓 / 鼓 / つづみ"
+    },
+    {
+      "en": "tuanshan",
+      "zh": "团扇",
+      "rating": "g",
+      "count": 1801,
+      "desc": "中国式圆形丝质团扇",
+      "kw": "宫扇 / 纨扇 / 中国团扇 / 圆扇 / 丝绸团扇 / 扇子 / 中国风 / 古风 / 團扇"
+    },
+    {
+      "en": "tuba",
+      "zh": "大号",
+      "rating": "g",
+      "count": 245,
+      "desc": "体型最大、音域最低的铜管乐器。",
+      "kw": "低音大号 / 低音号 / 土巴号 / 土巴大号 / 铜管乐器 / 音乐仪器"
+    },
+    {
+      "en": "turntable",
+      "zh": "电唱机",
+      "rating": "g",
+      "count": 763,
+      "desc": "播放黑胶唱片的设备，DJ常用",
+      "kw": "黑胶唱机 / 唱片机 / 唱盘 / 转盘 / DJ转盘 / 留声机 / 唱片转盘 / 音乐器材"
+    },
+    {
+      "en": "two-handed sword",
+      "zh": "双手剑",
+      "rating": "g",
+      "count": 641,
+      "desc": "为双手握持而设计的大型剑",
+      "kw": "双手大剑 / 双手长剑 / 重剑 / 巨剑 / 剑 / 武器 / 両手剣"
+    },
+    {
+      "en": "typewriter",
+      "zh": "打字机",
+      "rating": "g",
+      "count": 536,
+      "desc": "敲击键盘在纸上印字的机械打字设备",
+      "kw": "机械打字机 / 老式打字机 / 办公设备 / 书写机械 / 印字机 / タイプライター / 印字機 / いんじき"
+    },
+    {
+      "en": "uchiwa",
+      "zh": "团扇",
+      "rating": "g",
+      "count": 5529,
+      "desc": "竹骨糊纸或绢的日式圆形团扇",
+      "kw": "日式团扇 / 日本团扇 / 和风团扇 / 圆形团扇 / 竹骨团扇 / 纸团扇 / 绢团扇 / 圆扇 / 団扇 / うちわ"
+    },
+    {
+      "en": "ufo",
+      "zh": "不明飞行物",
+      "rating": "g",
+      "count": 4012,
+      "desc": "目击报告中的外星飞船，常呈碟形",
+      "kw": "飞碟 / UFO / 幽浮 / 外星飞船 / 不明飞行体 / 科幻 / 未确认飞行物体"
+    },
+    {
+      "en": "ukulele",
+      "zh": "尤克里里",
+      "rating": "g",
+      "count": 485,
+      "desc": "类似吉他的四弦小型拨弦乐器，风行于夏威夷",
+      "kw": "乌克丽丽 / 尤克里里琴 / 夏威夷四弦琴 / 夏威夷小吉他 / 乐器 / 弦乐器 / ukelele / ウクレレ"
+    },
+    {
+      "en": "underbarrel grenade launcher",
+      "zh": "下挂榴弹发射器",
+      "rating": "g",
+      "count": 559,
+      "desc": "装在步枪等武器枪管下方的榴弹发射器",
+      "kw": "枪挂榴弹发射器 / 下挂式榴弹发射器 / 枪管下挂榴弹发射器 / 下挂榴弹 / 武器 / 枪械附件"
+    },
+    {
+      "en": "unsheathed",
+      "zh": "已出鞘",
+      "rating": "g",
+      "count": 6818,
+      "desc": "刀剑已出鞘且剑鞘仍在画面中",
+      "kw": "出鞘 / 拔刀 / 拔剑 / 剑出鞘 / 刀出鞘 / 亮剑 / 刀刃出鞘 / 武器出鞘 / 出鞘的"
+    },
+    {
+      "en": "unworn headphones",
+      "zh": "未戴的耳机",
+      "rating": "g",
+      "count": 1228,
+      "desc": "画面中有但没戴在头上的耳机。",
+      "kw": "没戴耳机 / 摘下耳机 / 挂脖耳机 / 未佩戴耳机 / 耳机未戴 / 没戴上的耳机 / 耳机 / 配件"
+    },
+    {
+      "en": "upright piano",
+      "zh": "立式钢琴",
+      "rating": "g",
+      "count": 382,
+      "desc": "琴弦竖直排列的钢琴",
+      "kw": "直立式钢琴 / 竖式钢琴 / 立式琴 / 乐器 / 家具 / アップライトピアノ"
+    },
+    {
+      "en": "usb",
+      "zh": "USB",
+      "rating": "g",
+      "count": 1002,
+      "desc": "连接设备传输数据或供电的标准接口",
+      "kw": "USB接口 / USB连接线 / 通用串行总线 / U盘 / 电子设备 / 接口 / ユニバーサル・シリアル・バス"
+    },
+    {
+      "en": "vacuum cleaner",
+      "zh": "吸尘器",
+      "rating": "g",
+      "count": 1235,
+      "desc": "利用吸力清理灰尘的清洁电器",
+      "kw": "真空吸尘器 / 吸尘机 / 家电 / 清洁工具 / vacuum / 扫除机 / 掃除機"
+    },
+    {
+      "en": "van",
+      "zh": "面包车",
+      "rating": "g",
+      "count": 1566,
+      "desc": "厢式货车或载客面包车",
+      "kw": "厢型车 / 箱型车 / 小巴 / 客货两用车 / 商务车 / 休旅车 / 多功能车 / 车辆 / minivan / バン / ミニバン"
+    },
+    {
+      "en": "variable fighter",
+      "zh": "可变形战机",
+      "rating": "g",
+      "count": 987,
+      "desc": "超时空要塞中可变形成机器人的战机",
+      "kw": "可变战斗机 / 变形战机 / 女武神战机 / 可变形战斗机 / 可变式战斗机 / 战斗机 / 科幻 / 机甲"
+    },
+    {
+      "en": "vertical foregrip",
+      "zh": "垂直前握把",
+      "rating": "g",
+      "count": 1416,
+      "desc": "枪身前下方便于握持的垂直握把。",
+      "kw": "垂直握把 / 前握把 / 枪械垂直握把 / 竖握把 / 直握把 / 枪械配件"
+    },
+    {
+      "en": "vespa",
+      "zh": "Vespa摩托车",
+      "rating": "g",
+      "count": 447,
+      "desc": "意大利著名踏板摩托车品牌Vespa",
+      "kw": "伟士牌摩托 / 维斯帕摩托 / Vespa小摩托 / 意大利踏板车 / 比亚乔Vespa / 伟士牌踏板车 / 摩托车 / 交通工具 / ベスパ"
+    },
+    {
+      "en": "video camera",
+      "zh": "摄像机",
+      "rating": "g",
+      "count": 3693,
+      "desc": "可拍摄视频的摄像机，含家用与专业机型。",
+      "kw": "录影机 / 摄影机 / 视频摄像机 / 家用摄像机 / 数码摄像机 / 摄影设备 / ビデオカメラ"
+    },
+    {
+      "en": "vintage microphone",
+      "zh": "复古麦克风",
+      "rating": "g",
+      "count": 683,
+      "desc": "上世纪70年代及以前的老式麦克风。",
+      "kw": "老式麦克风 / 古董麦克风 / 经典麦克风 / 怀旧麦克风 / 道具 / 麦克风"
+    },
+    {
+      "en": "volkswagen",
+      "zh": "大众汽车",
+      "rating": "g",
+      "count": 481,
+      "desc": "德国汽车制造商大众及其车型",
+      "kw": "大众 / 福斯 / 福斯汽车 / 大众车 / 大众牌 / 汽车 / 品牌 / フォルクスワーゲン"
+    },
+    {
+      "en": "wagon",
+      "zh": "四轮货车",
+      "rating": "g",
+      "count": 502,
+      "desc": "无动力的四轮载货马车或推车",
+      "kw": "马车 / 载货马车 / 四轮车 / 运货马车 / 货车 / 推车 / 四轮载货车 / 交通工具 / ワゴン"
+    },
+    {
+      "en": "walker (robot)",
+      "zh": "步行机（机器人）",
+      "rating": "g",
+      "count": 1086,
+      "desc": "靠腿行走的双足或多足非人形机器或机甲。",
+      "kw": "步行机 / 双足步行机器人 / 多足步行机 / 步行机械 / 步行机器人 / 机甲步行者 / 步行机甲 / 步行者 (机器人) / walker / imperialwalker"
+    },
+    {
+      "en": "walkie-talkie",
+      "zh": "对讲机",
+      "rating": "g",
+      "count": 4388,
+      "desc": "手持式无线电收发设备",
+      "kw": "步话机 / 无线电对讲机 / 手持对讲机 / 双向无线电 / 通讯工具 / walkie talkie / トランシーバー"
+    },
+    {
+      "en": "walkman",
+      "zh": "随身听",
+      "rating": "g",
+      "count": 573,
+      "desc": "索尼在70年代推出的便携式音频播放器，含后续卡带机型",
+      "kw": "便携式磁带播放器 / 卡带随身听 / 索尼随身听 / 音乐播放器 / 电子产品 / ウォークマン"
+    },
+    {
+      "en": "walkman nw-s203f",
+      "zh": "Walkman NW-S203F",
+      "rating": "g",
+      "count": 571,
+      "desc": "圆柱形机身配长条屏幕的Walkman数字播放器，曾在女神异闻录3中出现",
+      "kw": "索尼Walkman NW-S203F / NW-S203F播放器 / 索尼随身听NW-S203F / 播放器 / 电子设备"
+    },
+    {
+      "en": "walther wa 2000",
+      "zh": "瓦尔特WA 2000狙击枪",
+      "rating": "g",
+      "count": 510,
+      "desc": "瓦尔特公司生产的无托式半自动狙击步枪",
+      "kw": "瓦尔特WA2000 / WA2000狙击枪 / 瓦尔特WA-2000 / 瓦尔特WA2000狙击步枪 / 瓦尔特 WA 2000 / 狙击枪 / 武器 / 枪械 / wa-2000 / wa2000 / walther wa-2000"
+    },
+    {
+      "en": "war hammer",
+      "zh": "战锤",
+      "rating": "g",
+      "count": 1414,
+      "desc": "中世纪长柄钝器，锤头可击破重甲。",
+      "kw": "战锤武器 / 长柄战锤 / 战争之锤 / 破甲锤 / 长柄锤 / 战槌 / 武器 / 锤子 / warhammer / ウォーハンマー"
+    },
+    {
+      "en": "warship",
+      "zh": "军舰",
+      "rating": "g",
+      "count": 3350,
+      "desc": "海军用于作战的军用舰艇，不含舰船拟人角色",
+      "kw": "战舰 / 舰艇 / 军用舰船 / 战斗舰艇 / 海军舰艇 / 舰船 / 军事 / 架空舰 / 軍艦 / 軍用艦船 / 艦船"
+    },
+    {
+      "en": "water gun",
+      "zh": "水枪",
+      "rating": "g",
+      "count": 10432,
+      "desc": "以射出水流为主的玩具枪。",
+      "kw": "玩具水枪 / 水手枪 / 呲水枪 / 滋水枪 / 射水枪 / 水铁炮 / 玩具 / watergun / water pistol / squirt gun / 水鉄砲"
+    },
+    {
+      "en": "watercraft",
+      "zh": "水上载具",
+      "rating": "g",
+      "count": 18918,
+      "desc": "船、艇、气垫船、潜水艇等水上载具",
+      "kw": "船只 / 水上交通工具 / 船艇 / 舰船 / 舟船 / 船舶 / 船 / 水上交通"
+    },
+    {
+      "en": "weapon formation",
+      "zh": "武器阵列",
+      "rating": "g",
+      "count": 587,
+      "desc": "多件武器整齐排列成圆形、弧形或扇形，如浮游炮阵",
+      "kw": "武器列阵 / 武器环绕 / 武器排列 / 浮游武器阵 / 武器圆阵 / 武器阵型 / 兵器阵列 / 武器队形"
+    },
+    {
+      "en": "weapon on back",
+      "zh": "背上的武器",
+      "rating": "g",
+      "count": 17871,
+      "desc": "武器佩挂在角色背上。",
+      "kw": "背负武器 / 背上挂武器 / 武器背在身后 / 背后武器 / 背挂武器 / 背后的武器 / 武器 / sword on back"
+    },
+    {
+      "en": "weapon tassel",
+      "zh": "武器流苏",
+      "rating": "g",
+      "count": 1222,
+      "desc": "系在武器柄端或刃部的装饰性流苏，常见于中式兵器。",
+      "kw": "剑穗 / 刀穗 / 枪缨 / 武器穗子 / 兵刃流苏 / 长枪红缨 / 刀剑流苏 / 兵器缨子 / pommel tassel"
+    },
+    {
+      "en": "wheelbarrow",
+      "zh": "独轮手推车",
+      "rating": "g",
+      "count": 1195,
+      "desc": "单轮、后方带把手的独轮手推车",
+      "kw": "独轮车 / 手推车 / 独轮小推车 / 单轮车 / 猫车 / 独轮搬运车 / 工具车 / 运输工具 / 手押し車 / 猫車"
+    },
+    {
+      "en": "wheelchair",
+      "zh": "轮椅",
+      "rating": "g",
+      "count": 3727,
+      "desc": "行动不便者使用的代步轮椅。",
+      "kw": "轮椅车 / 折叠轮椅 / 电动轮椅 / 行动不便用车 / 辅助器具 / 交通工具 / 车椅子 / 車椅子 / 車いす / 車イス"
+    },
+    {
+      "en": "whip sword",
+      "zh": "蛇腹剑",
+      "rating": "g",
+      "count": 1057,
+      "desc": "由多节相连、能像鞭子一样挥动的剑",
+      "kw": "鞭剑 / 鞭子剑 / 链剑 / 节剑 / 多节剑 / 软鞭剑 / 武器 / 剑类 / 蛇腹剣 / ガリアンソード"
+    },
+    {
+      "en": "white car",
+      "zh": "白色汽车",
+      "rating": "g",
+      "count": 811,
+      "desc": "车身漆成白色的汽车",
+      "kw": "白车 / 白色轿车 / 白色车辆 / 白色车 / 车辆 / 交通工具"
+    },
+    {
+      "en": "white umbrella",
+      "zh": "白色雨伞",
+      "rating": "g",
+      "count": 3844,
+      "desc": "白色雨伞或阳伞。",
+      "kw": "白伞 / 白色伞 / 白雨伞 / 白色阳伞 / 白阳伞 / 白色遮阳伞 / 伞具 / 道具"
+    },
+    {
+      "en": "wii u gamepad",
+      "zh": "Wii U游戏手柄",
+      "rating": "g",
+      "count": 131,
+      "desc": "Wii U的主要手柄，自带屏幕。",
+      "kw": "Wii U手柄 / Wii U GamePad / Wii U平板手柄 / Wii U控制器 / Wii U平板控制器 / Wii U 手柄 / 游戏手柄 / 控制器"
+    },
+    {
+      "en": "wireless earphones",
+      "zh": "无线耳机",
+      "rating": "g",
+      "count": 1139,
+      "desc": "通过蓝牙等无线连接的耳机。",
+      "kw": "无线耳塞 / 蓝牙耳机 / 无线入耳式耳机 / 真无线耳机 / 无线耳麦 / 耳机 / 配饰"
+    },
+    {
+      "en": "wooden staff",
+      "zh": "木杖",
+      "rating": "g",
+      "count": 528,
+      "desc": "木头制成的杖或长棍",
+      "kw": "木质长杖 / 木制长杖 / 木棍法杖 / 木质法杖 / 木手杖 / 木制杖 / 武器 / 法杖"
+    },
+    {
+      "en": "wooden sword",
+      "zh": "木剑",
+      "rating": "g",
+      "count": 2950,
+      "desc": "木制剑，区别于竹剑或木刀",
+      "kw": "木制剑 / 木头剑 / 训练木剑 / 练习木剑 / 武器 / 木剣"
+    },
+    {
+      "en": "wrench",
+      "zh": "扳手",
+      "rating": "g",
+      "count": 6734,
+      "desc": "用于拧紧或松开螺母螺栓的工具。",
+      "kw": "扳子 / 扳钳 / 活动扳手 / 梅花扳手 / 开口扳手 / 螺丝扳手 / 工具 / 机械工具 / spanner / レンチ / スパナ"
+    },
+    {
+      "en": "xbox 360",
+      "zh": "Xbox 360",
+      "rating": "g",
+      "count": 294,
+      "desc": "微软推出的第二代Xbox游戏机。",
+      "kw": "微软Xbox 360 / Xbox360 / XBOX360 / 360游戏机 / 微软360 / 游戏机 / 电子设备 / xbox360"
+    },
+    {
+      "en": "xbox controller",
+      "zh": "Xbox控制器",
+      "rating": "g",
+      "count": 212,
+      "desc": "Xbox系列游戏机配套的手柄。",
+      "kw": "Xbox手柄 / Xbox手把 / Xbox游戏手柄 / Xbox遥控器 / 游戏手柄 / 控制器"
+    },
+    {
+      "en": "xylophone",
+      "zh": "木琴",
+      "rating": "g",
+      "count": 124,
+      "desc": "用两根小槌敲击木条或金属条的打击乐器",
+      "kw": "木琴乐器 / 敲击木琴 / 打击木琴 / 木制木琴 / 小木琴 / 木片琴 / 儿童木琴 / 乐器"
+    },
+    {
+      "en": "yamaha pacifica",
+      "zh": "雅马哈Pacifica",
+      "rating": "g",
+      "count": 235,
+      "desc": "雅马哈1989年起生产的Pacifica系列电吉他",
+      "kw": "雅马哈Pacifica电吉他 / 雅马哈太平洋系列 / 雅马哈Pacifica系列 / 雅马哈Pacifica吉他 / 雅马哈 Pacifica / 吉他 / 乐器"
+    },
+    {
+      "en": "yamaha trb",
+      "zh": "雅马哈TRB贝斯",
+      "rating": "g",
+      "count": 203,
+      "desc": "雅马哈TRB与TRBX系列贝斯",
+      "kw": "雅马哈TRB / TRB贝斯 / 雅马哈电贝斯 / 雅马哈贝斯 / 雅马哈 TRB / 贝斯 / 乐器"
+    },
+    {
+      "en": "yamato (sword)",
+      "zh": "阎魔刀",
+      "rating": "g",
+      "count": 635,
+      "desc": "《鬼泣》中维吉尔所持的传奇魔剑",
+      "kw": "阎魔刀（鬼泣） / 阎魔刀(维吉尔) / 閻魔刀 / 鬼泣阎魔刀 / 日本刀 / 武器 / 閻魔刀(やまと)"
+    },
+    {
+      "en": "yellow car",
+      "zh": "黄色汽车",
+      "rating": "g",
+      "count": 517,
+      "desc": "车身涂成黄色的汽车",
+      "kw": "黄车 / 黄色轿车 / 黄色车子 / 黄汽车 / 黄色车辆 / 黄色小汽车 / 汽车 / 车辆"
+    },
+    {
+      "en": "yellow umbrella",
+      "zh": "黄伞",
+      "rating": "g",
+      "count": 1075,
+      "desc": "黄色雨伞或阳伞。",
+      "kw": "黄色雨伞 / 黄雨伞 / 黄色伞 / 黄色阳伞 / 黄颜色的伞 / 伞 / 道具"
+    },
+    {
+      "en": "yumi (bow)",
+      "zh": "和弓",
+      "rating": "g",
+      "count": 972,
+      "desc": "上下不对称的日本传统长弓",
+      "kw": "日本弓 / 日式长弓 / 大弓 / 弓道弓 / 和弓（日本传统长弓） / 武器 / 和风"
+    },
+    {
+      "en": "z saber",
+      "zh": "Z光剑",
+      "rating": "g",
+      "count": 1203,
+      "desc": "《洛克人》Zero的绿色能量光剑",
+      "kw": "Z光刃 / Zero光剑 / Z光束剑 / Z型光剑 / 光剑 / 武器 / 科幻"
+    },
+    {
+      "en": "zanpakutou",
+      "zh": "斩魄刀",
+      "rating": "g",
+      "count": 651,
+      "desc": "《死神》中死神所持的可变形近战武器",
+      "kw": "斩魄刀（死神） / 死神斩魄刀 / 死神 / 武器 / 日本刀"
+    },
+    {
+      "en": "zither",
+      "zh": "齐特琴",
+      "rating": "g",
+      "count": 1345,
+      "desc": "琴弦横跨扁平共鸣箱的一类弦乐器",
+      "kw": "齐特尔琴 / 欧洲齐特琴 / 弦乐器齐特琴 / 齐特琴类 / 古筝 / 音频标签 / 乐器 / 弦乐器"
+    },
+    {
+      "en": "zweihander",
+      "zh": "双手大剑",
+      "rating": "g",
+      "count": 526,
+      "desc": "中世纪晚期日耳曼使用的长柄双手巨剑",
+      "kw": "德国双手剑 / 双手巨剑 / 日耳曼双手剑 / 双手阔剑 / 巨剑 / 武器 / ツヴァイハンダー"
+    },
+    {
+      "en": "ink",
+      "zh": "墨水",
+      "rating": "g",
+      "count": 3606,
+      "desc": "用于书写和绘画的墨水，也指画面中的墨渍。",
+      "kw": "墨汁 / 墨 / 油墨 / 墨液 / 液体 / 绘画用品"
+    },
+    {
+      "en": "mixing bowl",
+      "zh": "搅拌碗",
+      "rating": "g",
+      "count": 2854,
+      "desc": "烹饪时用于搅拌食材的碗",
+      "kw": "拌料盆 / 料理碗 / 混合碗 / 搅拌盆 / 打蛋盆 / 调拌碗 / 厨具 / 容器"
+    },
+    {
+      "en": "mortar (bowl)",
+      "zh": "研钵（碗）",
+      "rating": "g",
+      "count": 760,
+      "desc": "与杵配合研磨食材或药材的碗状容器。",
+      "kw": "研钵 / 研磨碗 / 捣蒜器 / 乳钵 / 杵臼 / 石臼 / 药碾子 / 厨具 / mortar / 乳鉢 / 臼 / 研缽"
+    },
+    {
+      "en": "kitchen knife",
+      "zh": "菜刀",
+      "rating": "g",
+      "count": 3151,
+      "desc": "处理食材用的菜刀。",
+      "kw": "厨刀 / 厨房刀 / 料理刀 / 刀子 / 刀具 / 厨具 / 包丁 / 水果刀"
+    },
+    {
+      "en": "cooking pot",
+      "zh": "烹饪锅",
+      "rating": "g",
+      "count": 4934,
+      "desc": "用于煮炖的深锅",
+      "kw": "煮锅 / 炖锅 / 汤锅 / 深锅 / 锅 / 厨具 / 炊具 / 烹饪用具 / pot (cooking) / 鍋"
+    },
+    {
+      "en": "pot",
+      "zh": "汤锅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3305,
+      "desc": "模糊标签，建议使用更具体的标签如烹饪锅或花盆。",
+      "kw": "锅 / 厨具 / 容器"
+    },
+    {
+      "en": "portable stove",
+      "zh": "便携炉",
+      "rating": "g",
+      "count": 543,
+      "desc": "便于携带、用于露营的轻便炉具",
+      "kw": "便携式火炉 / 便携式炉具 / 便携炉子 / 露营炉 / 露营用炉 / 户外炉 / 轻便火炉 / 便携式炉灶"
+    },
+    {
+      "en": "sword",
+      "zh": "长剑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 382064,
+      "desc": "用于砍击或刺击的刃具，有护手、握柄和刀刃",
+      "kw": "刀剑 / 宝剑 / 佩剑 / 手持剑 / 武器 / 冷兵器 / swords / 刀剣 / 大刀 / 大剣"
+    },
+    {
+      "en": "katana",
+      "zh": "武士刀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 84906,
+      "desc": "日本传统的单刃弯刀。",
+      "kw": "日本刀 / 太刀 / 打刀 / 刀 / 弯刀 / 东洋刀 / 倭刀 / 刀剑 / katanas"
+    },
+    {
+      "en": "dagger",
+      "zh": "匕首",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21551,
+      "desc": "用于刺击的双刃短刀匕首",
+      "kw": "短剑 / 短刀 / 双刃匕首 / 刺剑 / 武器 / 刀 / daggers / ダガー"
+    },
+    {
+      "en": "staff",
+      "zh": "法杖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 85160,
+      "desc": "用于施法或战斗的长棍法杖。",
+      "kw": "长杖 / 权杖 / 魔杖 / 杖 / 手杖 / 战斗杖 / 施法杖 / 木杖"
+    },
+    {
+      "en": "pistol",
+      "zh": "手枪",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rifle",
+      "zh": "步枪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57587,
+      "desc": "从肩部发射、枪管内有膛线的长枪",
+      "kw": "来复枪 / 来福枪 / 长步枪 / 突击步枪 / 步枪枪械 / 步枪武器 / 卡宾枪 / 枪械 / rifles / 小铳 / ライフル / 小銃"
+    },
+    {
+      "en": "spear",
+      "zh": "长枪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30535,
+      "desc": "长杆顶端带尖刃的刺击类长柄武器",
+      "kw": "矛 / 枪矛 / 刺枪 / 长柄枪 / 武器 / 冷兵器 / spears / 槍"
+    },
+    {
+      "en": "shield",
+      "zh": "盾牌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39209,
+      "desc": "手持或戴在前臂的防御盾牌。",
+      "kw": "盾 / 护盾 / 圆盾 / 方盾 / 塔盾 / 防盾 / 武器 / 防具 / shields"
+    },
+    {
+      "en": "wand",
+      "zh": "魔杖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30672,
+      "desc": "用于施展魔法的短杖。",
+      "kw": "魔法杖 / 法杖 / 魔法棒 / 魔法手杖 / 魔法道具 / 奇幻 / 杖 / magic wand / 魔法权杖 / 杖 / 魔法の杖"
+    },
+    {
+      "en": "axe",
+      "zh": "斧头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21801,
+      "desc": "用于砍伐或劈砍的斧头",
+      "kw": "斧子 / 斧 / 战斧 / 板斧 / 斧类武器 / 武器 / ax / バトルアックス"
+    },
+    {
+      "en": "blade",
+      "zh": "刀刃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1385,
+      "desc": "已弃用标签，请使用武器列表中的相关标签",
+      "kw": "武器 / 刀剑"
+    },
+    {
+      "en": "gun",
+      "zh": "枪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 201225,
+      "desc": "以火药发射子弹的管式武器。",
+      "kw": "枪械 / 枪支 / 火器 / 手枪 / 步枪 / 持枪 / 枪炮 / 武器 / guns / firearm / 铳口 / 铳器"
+    },
+    {
+      "en": "scythe",
+      "zh": "镰刀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21641,
+      "desc": "长柄大刃的农具，常作死神武器",
+      "kw": "大镰刀 / 死神镰刀 / 大镰 / 长柄镰刀 / 镰刀武器 / 武器 / 农具 / 镰刀（长柄） / 大鎌 / デスサイズ"
+    },
+    {
+      "en": "sniper rifle",
+      "zh": "狙击步枪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12542,
+      "desc": "配瞄准镜、用于远距离精准射击的步枪",
+      "kw": "狙击枪 / 狙击步 / 狙击武器 / 远程步枪 / 枪械 / 武器 / 军事 / 狙撃铳 / 狙撃銃 / スナイパーライフル / マークスマンライフル"
+    }
+  ]
+}

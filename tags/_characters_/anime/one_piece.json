@@ -1,0 +1,91 @@
+{
+  "id": "one_piece",
+  "name": "海贼王",
+  "parentId": "anime",
+  "order": 9,
+  "file": "anime/one_piece.json",
+  "characters": [
+    {
+      "game": "海贼王",
+      "gameTag": "anime",
+      "name": "蒙奇·D·路飞",
+      "tag": "monkey d. luffy",
+      "charZh": "蒙奇·D·路飞（海贼王）",
+      "auto": "black hair|黑发;black eyes|黑瞳;straw hat|草帽;pirate|海盗;scar|伤疤;zori|草履",
+      "subName": ""
+    },
+    {
+      "game": "海贼王",
+      "gameTag": "anime",
+      "name": "罗罗诺亚·索隆",
+      "tag": "roronoa zoro",
+      "charZh": "罗罗诺亚·索隆（海贼王）",
+      "auto": "green hair|绿发;short hair|短发;black eyes|黑瞳",
+      "subName": ""
+    },
+    {
+      "game": "海贼王",
+      "gameTag": "anime",
+      "name": "娜美",
+      "tag": "nami (one piece)",
+      "charZh": "娜美（海贼王）",
+      "auto": "orange hair|橙发;curly hair|卷发;long hair|长发;orange eyes|橙瞳;bangs|刘海;sidelocks|鬓发;small breasts|小胸;swimsuit|泳装;bikini|比基尼;jeans|牛仔裤",
+      "subName": ""
+    },
+    {
+      "game": "海贼王",
+      "gameTag": "anime",
+      "name": "妮可·罗宾",
+      "tag": "nico robin",
+      "charZh": "妮可·罗宾（海贼王）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "海贼王",
+      "gameTag": "anime",
+      "name": "波雅·汉库克",
+      "tag": "boa hancock",
+      "charZh": "波雅·汉库克（海贼王）",
+      "auto": "black hair|黑发;long hair|长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "海贼王",
+      "gameTag": "anime",
+      "name": "山治",
+      "tag": "sanji (one piece)",
+      "charZh": "山治（海贼王）",
+      "auto": "blonde hair|金发;short hair|短发;brown eyes|棕瞳;business suit|西装",
+      "subName": ""
+    },
+    {
+      "game": "海贼王",
+      "gameTag": "anime",
+      "name": "乌索普",
+      "tag": "usopp (one piece)",
+      "charZh": "乌索普（海贼王）",
+      "auto": "black hair|黑发;short hair|短发;brown eyes|棕瞳;goggles|护目镜",
+      "subName": ""
+    },
+    {
+      "game": "海贼王",
+      "gameTag": "anime",
+      "name": "托尼托尼·乔巴",
+      "tag": "tony tony chopper",
+      "charZh": "托尼托尼·乔巴（海贼王）",
+      "auto": "brown hair|棕发;hat|帽子",
+      "subName": ""
+    },
+    {
+      "game": "海贼王",
+      "gameTag": "anime",
+      "name": "特拉法尔加·罗",
+      "tag": "trafalgar law (one piece)",
+      "charZh": "特拉法尔加·罗（海贼王）",
+      "auto": "black hair|黑发;short hair|短发;yellow eyes|黄瞳;hat|帽子",
+      "subName": ""
+    }
+  ],
+  "count": 9
+}

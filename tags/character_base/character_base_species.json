@@ -1,0 +1,2701 @@
+{
+  "id": "species",
+  "name": "物种",
+  "icon": "🧝",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 3,
+  "file": "character_base/character_base_species.json",
+  "updatedAt": "2026-11-18T05:36:30.156Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "robot",
+      "zh": "机器人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 95045,
+      "desc": "能自主运作的机械或电子机器",
+      "kw": "机械人 / 机器人角色 / 机娘 / 萝卜 / 机器娘 / 机械娘 / 科幻 / 机械 / ロボット / ロボ / ロボショタ / ロボエロ"
+    },
+    {
+      "en": "catgirl",
+      "zh": "猫娘",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "mecha girl",
+      "zh": "机甲娘",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "mermaid",
+      "zh": "人鱼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16397,
+      "desc": "下半身为鱼的女性人鱼",
+      "kw": "鲛人 / 人鱼姬 / 鱼人 / 美人鱼姬 / 海的女儿 / 幻想生物 / 人魚 / マーメイド / 人魚化 / マーこれかわいい"
+    },
+    {
+      "en": "fox girl",
+      "zh": "狐娘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 155054,
+      "desc": "长有狐耳或狐尾的女孩。",
+      "kw": "狐狸女孩 / 狐女 / 狐狸少女 / 狐狸精 / 狐少女 / 狐耳娘 / 狐妖娘 / 小狐狸 / foxgirl / 狐っ娘"
+    },
+    {
+      "en": "elf",
+      "zh": "精灵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 116186,
+      "desc": "尖耳长寿、外貌年轻的奇幻种族",
+      "kw": "妖精 / 尖耳精灵 / 精灵族 / 精灵人 / 传说生物 / 尖耳朵 / elf ears / elven ears / エルフ / エロフ"
+    },
+    {
+      "en": "angel",
+      "zh": "天使",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31228,
+      "desc": "源自天堂的灵体，常见为带白翼和光环的人形",
+      "kw": "安琪儿 / 女天使 / 天使角色 / 天使少女 / 天使娘 / 神圣 / 幻想 / angels / archangel / angel costume / tenshi"
+    },
+    {
+      "en": "vampire",
+      "zh": "吸血鬼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22140,
+      "desc": "靠吸食活物血液为生的传说生物",
+      "kw": "血族 / 夜魔 / 吸血族 / 幻想生物 / 哥特 / vampyr / ヴァンパイア"
+    },
+    {
+      "en": "cyborg",
+      "zh": "赛博格",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13871,
+      "desc": "身体由机械与有机部分结合的改造人",
+      "kw": "改造人 / 半机械人 / 机械改造人 / 电子人 / 生化改造人 / 半机械体 / 科幻 / cyborgs / 改造人间 / サイボーグ / 改造人間"
+    },
+    {
+      "en": "kemonomimi",
+      "zh": "兽人耳",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tentacle monster",
+      "zh": "触手怪",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "slime",
+      "zh": "史莱姆",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "slime girl",
+      "zh": "史莱姆娘",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5726,
+      "desc": "由黏稠透明液体构成的怪物女孩。",
+      "kw": "史莱姆女孩 / 史莱姆少女 / 黏液娘 / 软泥怪娘 / 胶质女孩 / 怪物娘 / 史莱姆 / goo girl / googirl / slimegirl / スライム娘"
+    },
+    {
+      "en": "lamia",
+      "zh": "拉米亚（蛇女）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6507,
+      "desc": "上半身为人、下半身为蛇的怪物娘",
+      "kw": "蛇女 / 拉米亚 / 半人半蛇 / 蛇妖 / 蛇姬 / 蛇身女妖 / 蛇尾娘 / 怪物娘 / naga / naga-ette / snake girl / ラミア"
+    },
+    {
+      "en": "naga",
+      "zh": "娜迦",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "siren",
+      "zh": "塞壬",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "merfolk",
+      "zh": "人鱼族",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18085,
+      "desc": "上半身为人、下半身为鱼的种族。",
+      "kw": "人鱼 / 美人鱼 / 人鱼角色 / 人鱼姐姐 / 人鱼男 / 人鱼众人 / 人鱼王子 / 鱼尾人类"
+    },
+    {
+      "en": "centaur",
+      "zh": "半人马",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3113,
+      "desc": "上半身为人、下半身为马的半人马",
+      "kw": "人马 / 人马娘 / 肯陶洛斯 / 半人马族 / 人首马身 / 幻想生物 / 神话生物 / centaurfemale / ケンタウロス / ケンタウロス娘 / ケンタウルス"
+    },
+    {
+      "en": "minotaur",
+      "zh": "牛头人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1453,
+      "desc": "牛头人身的怪物，源自希腊神话",
+      "kw": "米诺陶 / 米诺陶斯 / 弥诺陶洛斯 / 牛头人身怪 / 牛怪 / 神话生物 / 怪物 / ミノタウロス"
+    },
+    {
+      "en": "satyr",
+      "zh": "萨堤尔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 588,
+      "desc": "希腊神话中人身羊腿、羊角羊耳的木精",
+      "kw": "萨梯 / 萨提洛斯 / 羊人 / 幻想生物 / サテュロス"
+    },
+    {
+      "en": "goblin",
+      "zh": "哥布林",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4816,
+      "desc": "绿皮肤尖耳的小型类人怪物，常见于奇幻作品。",
+      "kw": "地精 / 小鬼 / 鬼怪 / 绿皮怪 / 哥布林兽人 / 哥布林怪物 / 传说生物 / ゴブリン"
+    },
+    {
+      "en": "orc",
+      "zh": "兽人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5317,
+      "desc": "奇幻作品中绿皮、长獠牙、好战的类人怪物",
+      "kw": "欧克 / 奥克 / 绿皮兽人 / 怪物 / 幻想生物 / ork / オーク"
+    },
+    {
+      "en": "ogre",
+      "zh": "食人鬼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 521,
+      "desc": "奇幻中大型食人怪物",
+      "kw": "食人妖 / 欧格 / 奥加 / 食人怪物 / 怪物 / 奇幻生物 / オウガ / オーガ"
+    },
+    {
+      "en": "troll",
+      "zh": "巨魔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 160,
+      "desc": "北欧神话中体型巨大的怪物族类",
+      "kw": "巨怪 / 山怪 / 北欧巨魔 / 洞穴巨人 / 山精 / 幻想生物 / 怪物"
+    },
+    {
+      "en": "kobold",
+      "zh": "狗头人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 99,
+      "desc": "奇幻中矮小的爬虫类类人种族狗头人",
+      "kw": "寇伯 / 寇伯德 / 狗头怪 / 犬头人"
+    },
+    {
+      "en": "lizardman",
+      "zh": "蜥蜴人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 652,
+      "desc": "爬虫类人形种族蜥蜴人",
+      "kw": "爬虫人 / 蜥蜴人形 / 蜥蜴怪 / 蜥蜴人族 / 蜥蜴人型 / 蜥蜴人种 / 怪物 / 兽人 / リザードマン"
+    },
+    {
+      "en": "dragon girl",
+      "zh": "龙娘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 66961,
+      "desc": "有龙类外观的女性角色",
+      "kw": "龙女 / 龙少女 / 龙族女孩 / 龙人娘 / 龙族娘 / 龙娘化 / 龙裔少女 / 龙族少女 / 竜人 / 竜娘 / 辰娘 / ドラゴン娘"
+    },
+    {
+      "en": "wyvern",
+      "zh": "飞龙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1321,
+      "desc": "有翼无前肢、用双腿行走的幻想飞龙",
+      "kw": "双足龙 / 双足翼龙 / 飞龙兽 / 有翼双足龙 / 翼龙 / 幻想生物 / 怪物 / ワイバーン"
+    },
+    {
+      "en": "kraken",
+      "zh": "海妖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 141,
+      "desc": "北欧传说中的巨型海怪",
+      "kw": "北海巨妖 / 挪威海怪 / 海怪克拉肯 / 大章鱼海怪 / 克拉肯海怪 / 海怪 / 幻想生物"
+    },
+    {
+      "en": "scylla",
+      "zh": "斯库拉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1505,
+      "desc": "上半身为人、下身触手的章鱼型怪物娘",
+      "kw": "斯库拉娘 / 触手娘 / 章鱼娘 / 女妖斯库拉 / 海妖斯库拉 / 神话生物 / 海怪 / octopus girl / スキュラ / タコ娘"
+    },
+    {
+      "en": "gorgon",
+      "zh": "戈耳工",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "medusa",
+      "zh": "美杜莎",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chimera",
+      "zh": "奇美拉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1941,
+      "desc": "希腊神话中的混合怪兽，也指合成生物。",
+      "kw": "喀迈拉 / 合成兽 / 混合兽 / 嵌合兽 / 拼接怪 / 混种兽 / 怪物 / 幻想生物 / 合成獣 / キメラ"
+    },
+    {
+      "en": "hydra",
+      "zh": "九头蛇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 219,
+      "desc": "希腊神话中砍掉一头会再长出头的怪物",
+      "kw": "海德拉 / 许德拉 / 九头怪 / 九头龙 / 神话生物 / 怪物"
+    },
+    {
+      "en": "phoenix",
+      "zh": "凤凰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1093,
+      "desc": "希腊神话中从灰烬重生的不死火鸟。",
+      "kw": "火鸟 / 不死火鸟 / 长生鸟 / 凤鸟 / 菲尼克斯 / 神话生物 / 中国风 / フェニックス"
+    },
+    {
+      "en": "unicorn",
+      "zh": "独角兽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2957,
+      "desc": "额前长有单角的神话白马。",
+      "kw": "独角马 / 一角兽 / 独角白马 / 独角兽马 / 神话独角兽 / 幻想兽 / ユニコーン"
+    },
+    {
+      "en": "pegasus",
+      "zh": "天马",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1746,
+      "desc": "希腊神话中带羽翼能飞的神马",
+      "kw": "飞马 / 珀伽索斯 / 佩加索斯 / 希腊神马 / 有翼神马 / 带翼飞马 / 神兽 / ペガサス"
+    },
+    {
+      "en": "griffin",
+      "zh": "狮鹫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 656,
+      "desc": "狮身鹰首带翅的神话生物",
+      "kw": "狮鹫兽 / 鹰头狮身兽 / 格里风 / 魔兽 / 幻想生物 / gryphon / グリフィン / グリフォン"
+    },
+    {
+      "en": "werewolf",
+      "zh": "狼人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2707,
+      "desc": "能变身成狼或狼形生物的人类，常与满月相关。",
+      "kw": "人狼 / 狼人症 / 狼化人 / 狼人形态 / 幻想生物 / 怪物 / ワーウルフ / ウェアウルフ"
+    },
+    {
+      "en": "dhampir",
+      "zh": "半吸血鬼",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "succubus",
+      "zh": "魅魔",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "incubus",
+      "zh": "梦魔",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "imp",
+      "zh": "小恶魔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 272,
+      "desc": "调皮捣蛋的小恶魔或妖精",
+      "kw": "小魔鬼 / 小妖精 / 捣蛋鬼 / 小鬼 / 小恶鬼 / 小惡魔 / 恶魔 / 幻想生物 / 小悪魔"
+    },
+    {
+      "en": "fallen angel",
+      "zh": "堕天使",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1232,
+      "desc": "堕落或被腐化的原天使。",
+      "kw": "堕落的天使 / 黑化天使 / 天使 / 幻想生物"
+    },
+    {
+      "en": "seraph",
+      "zh": "炽天使",
+      "rating": "g",
+      "nsfw": false,
+      "count": 976,
+      "desc": "拥有六只翅膀、位阶最高的天使",
+      "kw": "撒拉弗 / 六翼天使 / 炽天使长 / 赛拉弗 / 天使 / seraphim / セラフ / 熾天使"
+    },
+    {
+      "en": "ghost",
+      "zh": "幽灵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38403,
+      "desc": "死者离体而出的幽灵",
+      "kw": "鬼魂 / 鬼 / 亡魂 / 幽灵鬼魂 / 鬼怪 / 怪物 / 灵异 / ghosts / 亡霊 / 幽霊 / おばけ"
+    },
+    {
+      "en": "zombie",
+      "zh": "僵尸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9834,
+      "desc": "被重新唤醒、行动僵硬的尸体",
+      "kw": "活死人 / 行尸 / 殭屍 / 怪物 / 恐怖 / zombies / ゾンビ"
+    },
+    {
+      "en": "skeleton",
+      "zh": "骷髅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13592,
+      "desc": "人或动物完整的骨骼，常通过X光、透视或尸体呈现",
+      "kw": "骨架 / 骸骨 / 白骨 / 骷髅骨 / 骨骼结构 / 完整骨骼 / 恐怖 / 骨格"
+    },
+    {
+      "en": "lich",
+      "zh": "巫妖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 238,
+      "desc": "会使用魔法的亡灵法师",
+      "kw": "尸巫 / 亡灵巫妖 / 不死巫妖 / 亡灵法师 / 巫妖亡灵 / 怪物 / 奇幻"
+    },
+    {
+      "en": "undead",
+      "zh": "亡灵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2267,
+      "desc": "已死却如活物行动的存在，如幽灵、僵尸",
+      "kw": "不死族 / 不死生物 / 亡灵族 / 不死者 / 活尸 / 不死系 / 传说生物"
+    },
+    {
+      "en": "mummy",
+      "zh": "木乃伊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1571,
+      "desc": "经防腐处理并用绷带包裹的尸体",
+      "kw": "干尸 / 埃及木乃伊 / 裹尸布木乃伊 / 绷带尸 / 埃及干尸 / 埃及风 / 怪物 / ミイラ / マミー"
+    },
+    {
+      "en": "high elf",
+      "zh": "高等精灵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38
+    },
+    {
+      "en": "dwarf",
+      "zh": "矮人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3132,
+      "desc": "奇幻作品中矮壮多须、擅长锻造的种族。",
+      "kw": "矮人族 / 小矮人 / 幻想种族 / dwarfs / dwarves / ドワーフ"
+    },
+    {
+      "en": "gnome",
+      "zh": "地精",
+      "rating": "g",
+      "nsfw": false,
+      "count": 215,
+      "desc": "住在地下、戴尖帽、守护财宝的小矮人",
+      "kw": "小矮人 / 花园地精 / 诺姆 / 侏儒族 / 幻想生物"
+    },
+    {
+      "en": "oni",
+      "zh": "鬼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49135,
+      "desc": "日本神话中的鬼怪，常红蓝皮肤、长角、围虎纹兜裆布。",
+      "kw": "鬼女 / 鬼娘 / 鬼怪 / 日本鬼 / 赤鬼 / 青鬼 / 恶鬼 / 日本风格 / 鬼嫁 / おに"
+    },
+    {
+      "en": "tengu",
+      "zh": "天狗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2099,
+      "desc": "日本传统妖怪，兼具人、猴与鸟特征",
+      "kw": "乌天狗 / 大天狗 / 鸦天狗 / 白狼天狗 / 天狗妖怪 / 日式天狗 / 天狗面 / 日本妖怪 / てんぐ / 烏天狗 / カラステング"
+    },
+    {
+      "en": "kitsune",
+      "zh": "狐妖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18834,
+      "desc": "日本传说中具有狐耳和多尾的狐妖角色",
+      "kw": "狐狸 / 妖狐 / 狐娘 / 狐耳 / 九尾狐 / 狐狸精 / 狐仙 / 多尾狐"
+    },
+    {
+      "en": "nekomata",
+      "zh": "猫又",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15449,
+      "desc": "有两条或分叉尾巴的猫形妖怪",
+      "kw": "猫股 / 猫叉 / 猫妖 / 双尾猫妖 / 猫形妖怪 / 猫 / 传说生物 / 二尾猫 / ねこまた"
+    },
+    {
+      "en": "kappa",
+      "zh": "河童",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1110,
+      "desc": "日本传说中头顶水盘的妖怪",
+      "kw": "水虎 / 河伯 / 日本河童 / 头顶水盘的妖怪 / 川童 / 日本妖怪 / 妖怪"
+    },
+    {
+      "en": "yuki-onna",
+      "zh": "雪女",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dullahan",
+      "zh": "无头骑士",
+      "rating": "g",
+      "nsfw": false,
+      "count": 975,
+      "desc": "抱着自己头颅的无头骑士",
+      "kw": "杜拉汉 / 杜拉罕 / 无头妖精 / 幻想生物 / 怪物 / デュラハン"
+    },
+    {
+      "en": "golem",
+      "zh": "魔像",
+      "rating": "g",
+      "nsfw": false,
+      "count": 892,
+      "desc": "犹太传说中用泥土等制成的有生命的人形傀儡",
+      "kw": "石魔像 / 哥雷姆 / 泥傀儡 / 土傀儡 / 怪物 / 幻想生物 / ゴーレム"
+    },
+    {
+      "en": "butterfly girl",
+      "zh": "蝴蝶娘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 191,
+      "desc": "具蝴蝶触角、翅膀等特征的虫娘",
+      "kw": "蝶娘 / 蝴蝶少女 / 蝴蝶拟人化 / 蝴蝶女 / 幻想 / 人物"
+    },
+    {
+      "en": "insect girl",
+      "zh": "虫娘",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "arachne",
+      "zh": "蜘蛛娘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1402,
+      "desc": "上身为人、下半身为蜘蛛的怪物娘。",
+      "kw": "半人半蜘蛛 / 蜘蛛女 / 蜘蛛人外娘 / 阿拉克涅 / 蛛化女 / 蜘蛛女妖 / 半蜘蛛人 / drider / アラクネ / アルケニー"
+    },
+    {
+      "en": "plant girl",
+      "zh": "植物娘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3505,
+      "desc": "具有植物特征的怪物女孩",
+      "kw": "娘化植物 / 植物少女 / 植物女孩 / 植物系女孩 / 植物怪娘 / 花草娘 / 幻想生物 / plantgirl / アルラウネ"
+    },
+    {
+      "en": "dryad",
+      "zh": "树精",
+      "rating": "g",
+      "nsfw": false,
+      "count": 305,
+      "desc": "希腊神话中的树之宁芙",
+      "kw": "树仙女 / 森林宁芙 / 树宁芙 / 德律阿得斯 / 妖精 / 森林生物 / ドリアード / ドライアド"
+    },
+    {
+      "en": "nymph",
+      "zh": "宁芙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 140,
+      "desc": "希腊神话中的自然仙女，标签含义较模糊，可能含昆虫若虫",
+      "kw": "自然仙女 / 水泽仙女 / 山林仙女 / 树精 / 仙女 / 宁芙仙子 / 精灵 / 神话"
+    },
+    {
+      "en": "fairy",
+      "zh": "妖精",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24169,
+      "desc": "长有透明翅翼、会使用魔法的小型传说生物。",
+      "kw": "小妖精 / 小仙女 / 仙子 / 精灵 / 小精灵 / 花仙子 / 有翅妖精 / 西方妖精 / fairies / pixie / faerie / オナホ妖精"
+    },
+    {
+      "en": "pixie",
+      "zh": "小精灵",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "alien",
+      "zh": "外星人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13966,
+      "desc": "非地球的外星生物",
+      "kw": "外星生物 / 宇宙人 / 异星人 / 外星生命 / 地外生命 / 外星来客 / 外星种族 / 地外生物 / aliengirl"
+    },
+    {
+      "en": "android",
+      "zh": "人造人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33386,
+      "desc": "外形几乎与人相同的人造人/机器人",
+      "kw": "人形机器人 / 机械人 / 机器人 / 仿生机器人 / 人型机器人 / 类人机器人 / 科技 / gynoid / 人造人间 / 合成人间 / アンドロイド"
+    },
+    {
+      "en": "half-dragon",
+      "zh": "半龙人",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "mimic",
+      "zh": "宝箱怪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1144,
+      "desc": "伪装成宝箱等物品诱骗受害者的奇幻怪物。",
+      "kw": "拟态箱 / 模仿怪 / 伪装怪 / 拟形怪 / 拟态怪物 / 怪物 / 奇幻生物 / ミミック"
+    },
+    {
+      "en": "wraith",
+      "zh": "怨灵",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "banshee",
+      "zh": "报丧女妖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "valkyrie",
+      "zh": "女武神",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1424,
+      "desc": "北欧神话中决定战死者归属的女武神",
+      "kw": "瓦尔基里 / 瓦尔基丽 / 瓦尔基莉 / 戦乙女 / 瓦尔基里女武神 / 北欧神话 / 战士 / ワルキューレ / ヴァルキリー"
+    },
+    {
+      "en": "beastman",
+      "zh": "兽人战士",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "kemonomimi mode",
+      "zh": "兽耳化",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55289,
+      "desc": "本无兽耳或兽尾的角色被画上兽耳、尾巴或少量兽毛。",
+      "kw": "兽化 / 兽娘化 / 加兽耳 / 添兽尾 / 动物化 / 兽耳形态 / 兽耳设定"
+    },
+    {
+      "en": "harpy",
+      "zh": "鹰身女妖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6822,
+      "desc": "有翅膀和利爪的鸟身女妖",
+      "kw": "哈比 / 哈耳庇厄 / 鹰身人 / 鸟身女妖 / 鹰女 / 翼人女妖 / 怪物 / 鸟人 / 鹰身 / ハーピー / ハーピィ / ハルピュイア"
+    },
+    {
+      "en": "rito",
+      "zh": "利特族",
+      "rating": "g",
+      "nsfw": false,
+      "count": 691,
+      "desc": "塞尔达传说中鸟形人种族利特族",
+      "kw": "塞尔达利特族 / 鸟人族（塞尔达） / 利特鸟人 / 利特族（塞尔达传说系列） / 里托族 / 塞尔达传说利特族 / 利特族人 / リト族"
+    },
+    {
+      "en": "giant",
+      "zh": "巨人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19595,
+      "desc": "体型远超周遭人物甚至建筑的巨人",
+      "kw": "巨大人形 / 巨人族 / 巨大型角色 / 巨人角色 / 巨大的人 / 巨人怪物 / 大型巨人 / 巨人生物"
+    },
+    {
+      "en": "giantess",
+      "zh": "巨大娘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12557,
+      "desc": "体型远大于周围环境的女性巨人",
+      "kw": "巨大女性 / 女巨人 / 巨女 / 巨人娘 / 巨大化少女 / 巨型妹子 / 巨人 / 女性 / giant female / giant woman / 巨大娘 / 거대소녀"
+    },
+    {
+      "en": "miniboy",
+      "zh": "微型男孩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8160,
+      "desc": "相比周围环境异常微小的男性角色",
+      "kw": "小人 / 微型男子 / 缩小男 / 迷你男性 / 超小男性 / 小人儿 / 微缩男 / 小男孩 / mini boy"
+    },
+    {
+      "en": "minigirl",
+      "zh": "迷你女孩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33878,
+      "desc": "相比周围环境异常微小的少女，常与巨物对比",
+      "kw": "微型少女 / 小人女孩 / 缩小少女 / 迷你娘 / 超小少女 / 小小少女 / 迷你女性 / mini girl / 小人 / 小女子 / 縮小娘"
+    },
+    {
+      "en": "archangel",
+      "zh": "大天使",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cherub",
+      "zh": "小天使",
+      "rating": "g",
+      "nsfw": false,
+      "count": 201,
+      "desc": "西方艺术中长翅膀的胖婴儿天使",
+      "kw": "基路伯 / 胖天使 / 天使宝宝 / 小天使宝宝 / 智天使 / 天使 / 宗教"
+    },
+    {
+      "en": "bakeneko (mythology)",
+      "zh": "化猫（神话）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 185,
+      "desc": "能喷火球、入梦并直立行走的日本妖怪猫。",
+      "kw": "猫妖 / 妖怪猫 / 猫怪 / 日本猫妖 / 化猫（日本神话） / 传说生物 / 妖怪"
+    },
+    {
+      "en": "basilisk",
+      "zh": "蛇怪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 86,
+      "desc": "欧洲传说中蛇中之王的蛇怪",
+      "kw": "巴西利斯克 / 巴吉里斯克 / 蛇王 / 怪蛇 / 蛇妖 / 石化蛇妖"
+    },
+    {
+      "en": "behemoth",
+      "zh": "比蒙巨兽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50,
+      "desc": "《圣经》中的巨兽，常指庞然大物。",
+      "kw": "比蒙 / 巨兽 / 庞然大物 / 巨物"
+    },
+    {
+      "en": "centauroid",
+      "zh": "半人马型生物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2949,
+      "desc": "下半身为四足兽身的人形生物",
+      "kw": "人马形生物 / 半人马型 / 人马形 / 半人半兽 / 四足兽身人形 / 兽身人形 / 半人马形态 / 半人马 / タウル"
+    },
+    {
+      "en": "cerberus",
+      "zh": "刻耳柏洛斯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 534,
+      "desc": "希腊神话中看守冥界的三头犬",
+      "kw": "刻尔伯洛斯 / 塞伯拉斯 / 地狱三头犬 / 三头犬 / 冥界守门犬 / 神话 / ケルベロス"
+    },
+    {
+      "en": "shachihoko",
+      "zh": "鯱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 169,
+      "desc": "日本传说中虎头鱼身、能唤雨防火的神兽。",
+      "kw": "虎鱼 / 虎头鱼 / 日本鱼虎 / 屋顶兽 / 鸱吻 / 建筑装饰 / 日本风格"
+    },
+    {
+      "en": "sphinx",
+      "zh": "斯芬克斯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 448,
+      "desc": "埃及神话中狮身人面的神兽。",
+      "kw": "狮身人面兽 / 埃及狮身人面 / 斯芬克斯像 / 人面狮身像 / 无毛猫 / 猫咪 / スフィンクス / スピンクス"
+    },
+    {
+      "en": "cockatrice",
+      "zh": "鸡蛇兽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55,
+      "desc": "有公鸡头与蛇尾的传说怪兽鸡蛇",
+      "kw": "鸡蛇 / 鸡蛇怪 / 蛇鸡兽 / 鸡身蛇尾怪 / 鸡头蛇尾怪"
+    },
+    {
+      "en": "chupacabra",
+      "zh": "卓柏卡布拉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 141,
+      "desc": "拉美传说中吸食牲畜血液的怪物卓柏卡布拉",
+      "kw": "丘帕卡布拉 / 吸血怪 / 拉美吸血怪 / 怪物 / 神秘生物 / チュパカブラ"
+    },
+    {
+      "en": "mokele-mbembe",
+      "zh": "魔克拉-姆边贝（水怪）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "loch ness monster",
+      "zh": "尼斯湖水怪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 74,
+      "desc": "苏格兰尼斯湖传说中的水怪",
+      "kw": "尼斯湖怪 / 尼斯水怪 / 尼西 / 水怪 / nessie (cryptid)"
+    },
+    {
+      "en": "tsuchinoko",
+      "zh": "槌之子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 480,
+      "desc": "日本传说中体粗如槌的蛇形妖怪",
+      "kw": "槌蛇 / 日本槌蛇 / 土之子 / 槌子蛇 / 日本妖怪 / 传说生物 / ツチノコ / 槌の子 / つちのこ"
+    },
+    {
+      "en": "yeti (creature)",
+      "zh": "雪人（生物）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 168,
+      "desc": "喜马拉雅传说中的雪人",
+      "kw": "喜马拉雅雪人 / 雪男 / 夜帝 / 雪怪 / 雪山人 / 神秘雪人 / 雪人 / 生物"
+    },
+    {
+      "en": "cupid",
+      "zh": "丘比特",
+      "rating": "g",
+      "nsfw": false,
+      "count": 468,
+      "desc": "罗马神话中手持弓箭的恋爱之神丘比特",
+      "kw": "爱神丘比特 / 小爱神 / 厄洛斯 / 神话 / 天使"
+    },
+    {
+      "en": "cyclops",
+      "zh": "独眼巨人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3756,
+      "desc": "额头正中只有一只眼睛的独眼巨人",
+      "kw": "独眼 / 单眼巨人 / 独眼怪 / 独眼龙 / 怪物 / 幻想 / 生物 / mono-eye / 单眼 / 単眼 / 一つ目"
+    },
+    {
+      "en": "demon",
+      "zh": "恶魔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10252,
+      "desc": "长角、獠牙、蝙蝠翼等特征的非人恶魔",
+      "kw": "魔鬼 / 恶鬼 / 妖魔 / 魔族 / 魔神 / 小恶魔 / 传说生物 / 魔物 / demons / devil / 小悪魔 / 悪魔"
+    },
+    {
+      "en": "demon boy",
+      "zh": "恶魔少年",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12755,
+      "desc": "带有恶魔特征的男孩",
+      "kw": "小恶魔 / 恶魔男 / 恶魔系男孩 / 恶魔正太 / 淫魔男孩 / 男梦魔 / 魅魔男孩 / incubus / demonboy / devil boy / 小悪魔"
+    },
+    {
+      "en": "demon girl",
+      "zh": "恶魔娘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 137979,
+      "desc": "长角、獠牙、恶魔翼等特征的拟人恶魔少女。",
+      "kw": "恶魔女孩 / 女恶魔 / 小恶魔 / 恶魔妹子 / 恶魔女性 / 恶鬼少女 / 魔少女 / demongirl / demon girls / succubus / 女悪魔"
+    },
+    {
+      "en": "dragon",
+      "zh": "龙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38646,
+      "desc": "会飞的传说爬虫类生物，通常指西方龙。",
+      "kw": "西方龙 / 飞龙 / 巨龙 / 龙族 / 恶龙 / 魔龙 / 龙兽 / 神话生物 / 竜奸 / ドラゴン / ドラゴン化 / 竜姦"
+    },
+    {
+      "en": "eastern dragon",
+      "zh": "东方龙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6891,
+      "desc": "东亚传说中蛇形长身有爪的龙，区别于西方龙",
+      "kw": "中国龙 / 东方神龙 / 神龙 / 龙 / 青龙 / 东方巨龙 / 应龙 / 中国风 / chinese dragon / 龍"
+    },
+    {
+      "en": "western dragon",
+      "zh": "西方龙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2639,
+      "desc": "有翅膀、长颈、四足的西方龙。",
+      "kw": "西洋龙 / 欧式龙 / 有翅膀的龙 / 四足龙 / 龙 / 幻想生物 / ドラゴン"
+    },
+    {
+      "en": "vouivre",
+      "zh": "薇薇尔（飞龙）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wyrm",
+      "zh": "无翼巨龙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 165,
+      "desc": "无腿无翼的龙形怪物",
+      "kw": "无腿龙 / 龙蛇 / 蛇形龙 / 蠕虫龙 / 无翼无腿龙 / 传说生物 / 龙形怪物 / 蛇虫"
+    },
+    {
+      "en": "dark elf",
+      "zh": "暗精灵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9959,
+      "desc": "通常被描绘为邪恶的精灵亚种",
+      "kw": "黑暗精灵 / 黑精灵 / 卓尔 / 黑暗妖精 / 暗夜精灵 / 暗黑精灵 / 暗色精灵 / 奇幻 / drow / ダークエルフ"
+    },
+    {
+      "en": "elemental (creature)",
+      "zh": "元素生物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 900,
+      "desc": "与火、水、风、土等元素相关的生物",
+      "kw": "元素精灵 / 元素使 / 元素怪 / 属性精灵 / 精灵 / 传说生物 / 精灵 / 精霊"
+    },
+    {
+      "en": "salamander",
+      "zh": "蝾螈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 342,
+      "desc": "两栖动物，传说中能灭火。",
+      "kw": "火蝾螈 / 沙罗曼蛇 / 有尾目 / 火蜥蜴 / 沙罗曼达 / 生物 / 幻想 / サラマンダー / 도롱뇽목"
+    },
+    {
+      "en": "sylph",
+      "zh": "希尔芙（风精灵）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "undine",
+      "zh": "温蒂妮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 53,
+      "desc": "水之精灵",
+      "kw": "水精灵 / 水之精灵 / 水仙女 / 温迪妮 / 乌狄妮 / 水元素精灵 / 温蒂尼"
+    },
+    {
+      "en": "faun",
+      "zh": "农牧神",
+      "rating": "g",
+      "nsfw": false,
+      "count": 52,
+      "desc": "罗马神话中半人半羊的神。",
+      "kw": "法恩 / 法乌努斯 / 羊人 / 半人半羊神"
+    },
+    {
+      "en": "hitodama",
+      "zh": "人魂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21188,
+      "desc": "日本传说中死者灵魂化成的蓝色鬼火",
+      "kw": "魂火 / 灵魂火焰 / 狐火 / 磷火 / 幽灵火 / 蓝色鬼火 / 灵魂之火 / spirit flame / soul flame / fox fire"
+    },
+    {
+      "en": "hakutaku",
+      "zh": "白泽（神兽）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "中国传说中通晓万物的神兽",
+      "kw": "白泽神兽 / 白泽兽 / 白泽仙人 / 泽白"
+    },
+    {
+      "en": "hippocamp",
+      "zh": "海马（神话生物）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27
+    },
+    {
+      "en": "halfling",
+      "zh": "半身人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 999,
+      "desc": "奇幻设定中身材约人类一半的种族",
+      "kw": "半身人族 / 哈比人 / 霍比特人 / 半身矮人 / 奇幻种族 / 生物 / hobbit / ハーフリング"
+    },
+    {
+      "en": "kune-kune",
+      "zh": "扭扭怪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 87,
+      "desc": "日本都市传说中在田野里扭动的白色人形",
+      "kw": "扭动怪 / 扭曲怪 / 蠕动怪 / 扭来扭去怪 / 白色扭动怪"
+    },
+    {
+      "en": "kage-nashi dog",
+      "zh": "无影犬",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "longma",
+      "zh": "龙马（神兽）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "mandragora",
+      "zh": "曼德拉草",
+      "rating": "g",
+      "nsfw": false,
+      "count": 309,
+      "desc": "传说中拔出会尖叫的曼陀罗草怪物。",
+      "kw": "曼德拉戈拉 / 曼陀罗草 / 曼德拉草怪 / 曼德拉根 / 曼德拉草人 / 植物 / 幻想生物"
+    },
+    {
+      "en": "merman",
+      "zh": "人鱼男",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1733,
+      "desc": "上半身为人、下半身为鱼的男性人鱼",
+      "kw": "男美人鱼 / 雄性人鱼 / 男人鱼 / 人鱼 / 传说生物 / 半鱼人 / 人鱼 / マーマン"
+    },
+    {
+      "en": "mimic chest",
+      "zh": "宝箱怪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1008,
+      "desc": "伪装成宝箱的拟态怪物",
+      "kw": "拟态宝箱 / 宝箱拟态 / 拟态箱 / 宝箱怪物 / 宝箱魔物 / 怪物 / 宝箱"
+    },
+    {
+      "en": "flatwoods monster",
+      "zh": "弗拉特伍兹怪物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 58,
+      "desc": "美国传说中的外星人型未确认生物，1952年西弗吉尼亚目击事件",
+      "kw": "弗拉特伍兹怪兽 / 弗拉特伍兹怪人"
+    },
+    {
+      "en": "jackalope",
+      "zh": "长角兔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49
+    },
+    {
+      "en": "mothman (mythology)",
+      "zh": "天蛾人（神话）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35
+    },
+    {
+      "en": "wendigo",
+      "zh": "温迪戈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "nue",
+      "zh": "鵺（日本神话）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 159,
+      "desc": "日本神话中猴头狸身虎肢蛇尾的妖怪鵺。",
+      "kw": "鵺妖怪 / 日本鵺 / 猴头鵺 / 鵺兽 / 鵺（妖怪） / 猿头妖怪 / 妖怪 / 日本妖怪"
+    },
+    {
+      "en": "namahage",
+      "zh": "生剥鬼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32
+    },
+    {
+      "en": "qilin (mythology)",
+      "zh": "麒麟",
+      "rating": "g",
+      "nsfw": false,
+      "count": 454,
+      "desc": "中国神话中的瑞兽",
+      "kw": "瑞兽麒麟 / 麒麟神兽 / 中国麒麟 / 中国神话 / 瑞兽 / kirin (mythology)"
+    },
+    {
+      "en": "rusalka (mythology)",
+      "zh": "露莎卡（神话）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "selkie (mythology)",
+      "zh": "塞尔奇（神话）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "spirit",
+      "zh": "灵体",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2610,
+      "desc": "具有情感和超自然力量的生物，常表现为生命活力或逝者显现",
+      "kw": "精灵 / 灵魂 / 幽灵 / 鬼魂 / 超自然生物"
+    },
+    {
+      "en": "chouchin-obake",
+      "zh": "提灯小僧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 161,
+      "desc": "日本传说中提灯化成的独眼长舌妖怪",
+      "kw": "提灯鬼 / 灯笼妖怪 / 灯笼怪 / 提灯怪 / 灯笼鬼 / 纸灯笼妖怪 / 传统妖怪 / chochin-obake"
+    },
+    {
+      "en": "genie",
+      "zh": "灯神",
+      "rating": "g",
+      "nsfw": false,
+      "count": 697,
+      "desc": "能实现愿望、常封印在神灯里的精灵。",
+      "kw": "精灵 / 魔仆 / 阿拉丁神灯精灵 / 许愿精灵 / 镇尼 / 精灵 (灯神) / 神话生物 / djinn / ジン(精霊) / ジーニー"
+    },
+    {
+      "en": "kalavinka",
+      "zh": "迦陵频伽（妙音鸟）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "karakasa obake",
+      "zh": "唐伞小僧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8446,
+      "desc": "一眼一足的伞形妖怪唐伞",
+      "kw": "伞妖 / 唐伞怪 / 唐伞鬼 / 唐伞妖 / 日本妖怪 / 伞鬼 / karakasa / kasa-obake / kasa obake / karakasa-obake"
+    },
+    {
+      "en": "kyuubi",
+      "zh": "九尾狐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8463,
+      "desc": "拥有九条尾巴的狐狸或狐娘",
+      "kw": "九条尾巴 / 九尾妖狐 / 九尾天狐 / 传说生物 / 九尾的狐狸 / kumiho / nine-tailed fox / jiuweihu / 九尾の狐"
+    },
+    {
+      "en": "nixie (mythology)",
+      "zh": "尼克西（神话）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28
+    },
+    {
+      "en": "slime (creature)",
+      "zh": "史莱姆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6165,
+      "desc": "RPG中常见的软泥状黏液怪物",
+      "kw": "史莱姆生物 / 黏液怪 / 软泥怪 / 软泥怪物 / 泥怪 / 史莱姆怪物 / 怪物 / 生物 / スライム"
+    },
+    {
+      "en": "tanuki",
+      "zh": "狸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4060,
+      "desc": "日本的貉，传说中会变身的妖怪。",
+      "kw": "貉 / 日本貉 / 妖狸 / 狸子 / 狸猫妖怪 / 动物 / 日本妖怪 / タヌキ"
+    },
+    {
+      "en": "therianthrope",
+      "zh": "兽人/半兽人",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "shinigami",
+      "zh": "死神",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1118,
+      "desc": "日本传说中引渡亡魂的死神",
+      "kw": "日本死神 / 死亡之神 / 冥府使者 / 勾魂使者 / 死神大人 / 死神角色 / 角色 / 日本风格"
+    },
+    {
+      "en": "frankenstein's monster",
+      "zh": "科学怪人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 243,
+      "desc": "小说《弗兰肯斯坦》中由维克多博士创造的怪物",
+      "kw": "弗兰肯斯坦"
+    },
+    {
+      "en": "ghoul",
+      "zh": "食尸鬼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "jiangshi",
+      "zh": "僵尸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10923,
+      "desc": "中国传说中额贴符咒、双臂前伸跳跃的僵尸",
+      "kw": "僵屍 / 跳尸 / 湘西僵尸 / 清朝僵尸 / 僵尸先生 / 传说生物 / 跳僵 / geung si / kyonshii / chinese vampire / キョンシー"
+    },
+    {
+      "en": "vrykolakas",
+      "zh": "弗里科拉卡斯（吸血鬼）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "yamata no orochi",
+      "zh": "八岐大蛇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39
+    },
+    {
+      "en": "akaname",
+      "zh": "垢尝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46
+    },
+    {
+      "en": "amabie",
+      "zh": "阿玛比埃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 105,
+      "desc": "日本传说中能驱除疫病的妖怪阿玛比埃",
+      "kw": "阿玛比埃妖怪 / 阿玛比惠 / 阿磨比埃 / 疫病退散妖怪 / 尼彦 / 传说生物 / 妖怪"
+    },
+    {
+      "en": "rokurokubi",
+      "zh": "辘轳首",
+      "rating": "g",
+      "nsfw": false,
+      "count": 105,
+      "desc": "能伸长脖子的日本妖怪辘轳首",
+      "kw": "长颈妖怪 / 伸长脖子妖怪 / 辘轳首妖怪 / 传说生物 / 妖怪 / 日本妖怪"
+    },
+    {
+      "en": "zashiki-warashi",
+      "zh": "座敷童子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 133,
+      "desc": "日本传说中住在屋子里的孩童模样家灵",
+      "kw": "座敷童 / 座敷儿童 / 坐敷童子 / 家宅童子 / 屋内童子 / 座敷娃娃 / 家灵童子 / 日本妖怪"
+    },
+    {
+      "en": "yukinko (spirit)",
+      "zh": "雪童子（妖怪）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "roc",
+      "zh": "大鹏金翅鸟",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "fenghuang",
+      "zh": "凤凰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "aku bouzu",
+      "zh": "灰坊主（妖怪）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "koropokkuru",
+      "zh": "克鲁波克鲁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 81,
+      "desc": "阿伊努民间传说中住在款冬叶下的小人族",
+      "kw": "科罗波克鲁 / 款冬下小人"
+    },
+    {
+      "en": "ushi-oni",
+      "zh": "牛鬼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40
+    },
+    {
+      "en": "monster",
+      "zh": "怪物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 44242,
+      "desc": "体型巨大、凶恶的非人类生物",
+      "kw": "怪兽 / 妖魔 / 魔物 / 异形 / 怪物生物 / 恶兽 / 生物 / 奇幻 / monsters / 怪人 / モンスター"
+    },
+    {
+      "en": "blue oni",
+      "zh": "青鬼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1094,
+      "desc": "蓝色皮肤的日本鬼，常与红鬼成对出现。",
+      "kw": "蓝鬼 / 蓝色鬼 / 蓝肤鬼 / 蓝色皮肤恶鬼 / 蓝色恶鬼 / 青肤鬼 / 日本妖怪 / 鬼"
+    },
+    {
+      "en": "red oni",
+      "zh": "赤鬼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1773,
+      "desc": "红色皮肤的鬼，常与蓝鬼成对出现。",
+      "kw": "红鬼 / 红肤鬼 / 红皮鬼 / 日本红鬼 / 日本鬼 / 妖怪"
+    },
+    {
+      "en": "cryptid",
+      "zh": "神秘生物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 87,
+      "desc": "主流科学未能证实的传闻生物。",
+      "kw": "未确认动物 / 未知生物 / 传闻生物 / 隐匿生物"
+    },
+    {
+      "en": "legion (demons)",
+      "zh": "军团恶魔",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "death (entity)",
+      "zh": "死神（实体）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 758,
+      "desc": "各类作品中死神的拟人化形象统称",
+      "kw": "死神 / 死神拟人 / 死神（拟人化） / 死亡 / 收割者 / 黑袍骷髅 / grim reaper / 格里姆·里珀"
+    },
+    {
+      "en": "traditional youkai",
+      "zh": "传统妖怪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2698,
+      "desc": "日本神话中的传统超自然妖怪生物",
+      "kw": "妖怪 / 日式妖怪 / 日本妖怪 / 和风妖怪 / 传统日本妖怪 / 传说生物 / 民间传说 / youkai"
+    },
+    {
+      "en": "cait sith (mythology)",
+      "zh": "猫妖精（凯尔特神话）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "leviathan (mythology)",
+      "zh": "利维坦（神话）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27
+    },
+    {
+      "en": "kikimora (mythology)",
+      "zh": "基基莫拉（斯拉夫家神）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "abyssal ship",
+      "zh": "深海栖舰",
+      "rating": "g",
+      "count": 27584,
+      "desc": "《舰队Collection》中敌方深海势力的舰娘，通常面色苍白、身着黑色装甲。",
+      "kw": "深海棲舰 / 深海舰 / 深海舰娘 / 深海栖舰娘 / 深海敌人 / 深海舰队 / 舰船 / 深海 / shinkaisei-kan / 深海棲艦 / 深海棲艦化"
+    },
+    {
+      "en": "alternate form",
+      "zh": "异形态",
+      "rating": "g",
+      "count": 7081,
+      "desc": "角色或生物以不同于通常的外观出现，身体发生显着变化",
+      "kw": "替换形态 / 变身 / 变体 / 另类形态"
+    },
+    {
+      "en": "alternate shiny pokemon",
+      "zh": "非官方异色宝可梦",
+      "rating": "g",
+      "count": 941,
+      "desc": "非官方闪光配色的异色宝可梦。",
+      "kw": "自创异色宝可梦 / 非官方闪光宝可梦 / 替代闪光宝可梦 / 原创异色宝可梦 / 换色宝可梦 / 替代色宝可梦 / 自制闪光宝可梦 / 同人异色宝可梦"
+    },
+    {
+      "en": "alternate species",
+      "zh": "种族转换",
+      "rating": "g",
+      "count": 1965,
+      "desc": "角色被描绘成不同于原设定的种族。",
+      "kw": "种族变更 / 替代种族 / 异种族化 / 变种族 / 换种族 / 种族改变 / 异种 / 物种变化 / alternate race / 种族変更"
+    },
+    {
+      "en": "arrancar",
+      "zh": "破面",
+      "rating": "g",
+      "count": 1266,
+      "desc": "《死神》中由虚进化、拥有人形与理智的存在",
+      "kw": "破面者 / 虚化破面 / 虚 / 破面军"
+    },
+    {
+      "en": "arthropod boy",
+      "zh": "节肢动物男孩",
+      "rating": "g",
+      "count": 2043,
+      "desc": "带甲壳、触角、翅膀等节肢特征的男孩",
+      "kw": "昆虫男孩 / 虫人少年 / 节肢男孩 / 甲壳男孩 / 虫子男孩 / 虫男 / 怪物男孩 / 生物 / insect boy / bug boy / bugboy / 虫人"
+    },
+    {
+      "en": "arthropod girl",
+      "zh": "节肢动物女孩",
+      "rating": "g",
+      "count": 12817,
+      "desc": "具有触角、翅膀等节肢动物特征的女孩",
+      "kw": "虫娘 / 昆虫娘 / 虫少女 / 节肢动物娘 / 虫子女孩 / 昆虫女孩 / 怪物娘 / buggirl / bug girl / insect girl / 虫人"
+    },
+    {
+      "en": "bakeneko",
+      "zh": "化猫",
+      "rating": "g",
+      "count": 818,
+      "desc": "一种具有超自然能力的妖怪猫，能制造鬼火并用后腿行走。",
+      "kw": "妖怪 / 日本风"
+    },
+    {
+      "en": "bat girl",
+      "zh": "蝙蝠女孩",
+      "rating": "g",
+      "count": 3571,
+      "desc": "具有蝙蝠耳和蝙蝠翅等特征的女孩",
+      "kw": "蝙蝠娘 / 蝙蝠少女 / 蝙蝠女 / 蝙蝠妹子 / 怪物娘 / コウモリ娘"
+    },
+    {
+      "en": "bear boy",
+      "zh": "熊男孩",
+      "rating": "g",
+      "count": 3569,
+      "desc": "具有熊耳朵、尾巴等特征的男孩。",
+      "kw": "熊少年 / 熊耳男孩 / 熊耳少年 / 熊系男孩 / 熊兽人男孩 / 男孩 / 动物装"
+    },
+    {
+      "en": "bear girl",
+      "zh": "熊女孩",
+      "rating": "g",
+      "count": 4777,
+      "desc": "具有熊耳朵等特征的女孩",
+      "kw": "熊娘 / 熊女 / 熊少女 / 熊耳娘 / 熊妹子 / 兽娘"
+    },
+    {
+      "en": "bee girl",
+      "zh": "蜂娘",
+      "rating": "g",
+      "count": 1194,
+      "desc": "带蜇针和蜂翅等特征的蜜蜂女孩",
+      "kw": "蜜蜂女孩 / 蜜蜂娘 / 蜂女 / 蜜蜂少女 / 蜜蜂娘化 / 兽耳娘 / 昆虫"
+    },
+    {
+      "en": "bird boy",
+      "zh": "鸟男孩",
+      "rating": "g",
+      "count": 3121,
+      "desc": "带有鸟类翅膀或特征的男孩",
+      "kw": "鸟人 / 鸟少年 / 羽翼男孩 / 翼少年 / 鸟系男孩 / 鸟男 / 角色 / 男孩 / 鳥人"
+    },
+    {
+      "en": "bird girl",
+      "zh": "鸟娘",
+      "rating": "g",
+      "count": 9323,
+      "desc": "带鸟翅或尾羽等特征的鸟女孩。",
+      "kw": "鸟女孩 / 鸟人 / 鸟类女孩 / 鸟少女 / 鸟兽人娘 / 鸟特征 / 幻想种族 / 鳥娘 / 鳥人"
+    },
+    {
+      "en": "blood elf (warcraft)",
+      "zh": "血精灵",
+      "rating": "g",
+      "count": 425,
+      "desc": "《魔兽》系列中眼睛发光的血精灵",
+      "kw": "魔兽血精灵 / 血精灵族 / WOW血精灵 / 血精灵 (魔兽世界) / 魔兽世界 / 种族 / blood elf / bloodelf"
+    },
+    {
+      "en": "cat boy",
+      "zh": "猫男（猫耳少年）",
+      "rating": "g",
+      "count": 20445,
+      "desc": "有真实猫耳或猫尾特征的男孩",
+      "kw": "猫耳少年 / 猫系男子 / 猫耳男 / 猫男孩 / 猫耳正太 / 猫耳朵男孩 / 猫咪男孩 / 猫人男 / catboy / 猫人 / 猫男 / ねこ男"
+    },
+    {
+      "en": "cat girl",
+      "zh": "猫娘",
+      "rating": "g",
+      "count": 177034,
+      "desc": "有真实猫耳或猫尾特征的女孩",
+      "kw": "猫耳娘 / 猫女 / 猫系女孩 / 猫人 / 猫咪女孩 / 猫耳少女 / 兽耳 / catgirl / キャットガール / 猫系女子 / 貓人"
+    },
+    {
+      "en": "cathead",
+      "zh": "猫头生物",
+      "rating": "g",
+      "count": 181,
+      "desc": "只有头部的猫形生物",
+      "kw": "猫头怪 / 猫头怪物 / 猫头人 / 只有头的猫 / 猫头兽 / 猫头 / 猫形 / 头饰"
+    },
+    {
+      "en": "chipmunk girl",
+      "zh": "花栗鼠女孩",
+      "rating": "g",
+      "count": 803,
+      "desc": "具有花栗鼠特征的兽娘。",
+      "kw": "花栗鼠娘 / 花栗鼠兽娘 / 花栗鼠少女 / 花栗鼠女 / 花栗鼠女生 / 兽娘 / 动物耳 / 女孩 / chipmunkgirl"
+    },
+    {
+      "en": "cockroach girl",
+      "zh": "蟑螂娘",
+      "rating": "g",
+      "count": 778,
+      "desc": "以蟑螂为原型的女性角色",
+      "kw": "蟑螂女孩 / 小强娘 / 蟑螂拟人 / 蟑螂少女 / 蟑螂妹子 / 虫娘 / 怪物女孩 / ゴキブリ娘"
+    },
+    {
+      "en": "cow boy",
+      "zh": "牛男",
+      "rating": "g",
+      "count": 2775,
+      "desc": "以牛为原型的牛男。",
+      "kw": "牛少年 / 公牛男孩 / 乳牛男 / 奶牛男 / 牛特征男孩 / 牛主题男孩 / 男孩 / 动物主题 / ox boy"
+    },
+    {
+      "en": "cow girl",
+      "zh": "奶牛娘",
+      "rating": "g",
+      "count": 15216,
+      "desc": "具有牛的特征（耳、角、尾等）的拟人化女性。",
+      "kw": "牛娘 / 乳牛娘 / 奶牛少女 / 牛耳娘 / 牛角娘 / 牛尾娘 / 母牛娘 / 母牛少女 / cowgirl / ox girl / 丑娘"
+    },
+    {
+      "en": "cyber-elf (mega man)",
+      "zh": "电子精灵",
+      "rating": "g",
+      "count": 108,
+      "desc": "《洛克人Zero》系列中以能量实体化的智慧程序",
+      "kw": "网络精灵 / 赛博精灵 / 电子妖精 / 电子精灵（洛克人Zero系列） / 科技 / 计算机程序 / 能量生命体 / cyber elf (mega man) / cyber elves"
+    },
+    {
+      "en": "deer boy",
+      "zh": "鹿男孩",
+      "rating": "g",
+      "count": 928,
+      "desc": "带有鹿特征的男孩。",
+      "kw": "鹿少年 / 雄鹿正太 / 鹿正太 / 鹿系男孩 / 鹿耳男孩 / 鹿人男孩 / 鹿男 / 鹿角男孩"
+    },
+    {
+      "en": "deer girl",
+      "zh": "鹿娘",
+      "rating": "g",
+      "count": 6031,
+      "desc": "带有鹿特征的拟人化女孩",
+      "kw": "鹿女孩 / 鹿少女 / 鹿耳女孩 / 鹿角女孩 / 小鹿娘 / 鹿人娘 / 鹿妹 / 兽耳娘"
+    },
+    {
+      "en": "dog boy",
+      "zh": "狗耳少年",
+      "rating": "g",
+      "count": 14413,
+      "desc": "有狗耳或狗尾等犬类特征的男性角色。",
+      "kw": "犬耳少年 / 狗男 / 犬男 / 犬系男子 / 狗狗男孩 / 狗耳男 / 犬耳男 / 犬耳男孩 / dogboy / 犬耳男子"
+    },
+    {
+      "en": "dog girl",
+      "zh": "犬娘",
+      "rating": "g",
+      "count": 52726,
+      "desc": "有狗耳或狗尾等特征的女孩",
+      "kw": "狗娘 / 狗狗女孩 / 犬系女孩 / 犬耳娘 / 狗耳娘 / 萌犬娘 / 犬女 / 狗女孩 / いぬ娘 / 犬系女子"
+    },
+    {
+      "en": "dolphin girl",
+      "zh": "海豚女孩",
+      "rating": "g",
+      "count": 736,
+      "desc": "带海豚特征的女孩",
+      "kw": "海豚娘 / 海豚少女 / 海豚拟人 / 海豚拟人化 / 海豚美少女 / 怪物娘 / 海豚"
+    },
+    {
+      "en": "dragon boy",
+      "zh": "龙男孩",
+      "rating": "g",
+      "count": 11076,
+      "desc": "长有角、翅膀或龙尾等龙特征的男孩",
+      "kw": "龙少年 / 龙人男孩 / 龙族男孩 / 龙男 / 男性龙人 / 龙裔男孩 / 龙族少年 / 龙耳少年 / 竜人 / 竜男"
+    },
+    {
+      "en": "duel monster",
+      "zh": "决斗怪兽",
+      "rating": "g",
+      "count": 29622,
+      "desc": "游戏王中登场的怪兽形象。",
+      "kw": "游戏王怪兽 / 游戏王卡片 / 决斗怪兽卡 / 游戏王OCG怪兽 / 游戏王 / 怪兽 / 卡片 / 机械族 / 虫惑魔 / 遊戯王ocg / 遊戯王ファンアート"
+    },
+    {
+      "en": "emblem (fire emblem engage)",
+      "zh": "纹章士（火焰纹章 Engage）",
+      "rating": "g",
+      "count": 560,
+      "desc": "火纹Engage中由戒指召唤的纹章士",
+      "kw": "纹章士 / Engage纹章士 / 火焰纹章Engage纹章士 / 火纹纹章士 / 火焰之纹章结合 / 英雄纹章"
+    },
+    {
+      "en": "erune",
+      "zh": "艾露恩",
+      "rating": "g",
+      "count": 10223,
+      "desc": "《碧蓝幻想》中的长耳兽耳种族。",
+      "kw": "兽耳族 / 艾露恩族 / 艾尔恩 / 长耳族 / 碧蓝幻想兽耳族 / 种族 / 精灵耳 / erun (granblue fantasy) / エルーン"
+    },
+    {
+      "en": "familiar (madoka magica)",
+      "zh": "使魔（魔法少女小圆）",
+      "rating": "g",
+      "count": 740,
+      "desc": "《魔法少女小圆》中由魔女创造的使魔",
+      "kw": "魔女的手下 / 魔女使魔 / 魔女眷属 / 魔女的下属 / 使魔 (魔法少女小圆) / 魔法生物 / 动漫"
+    },
+    {
+      "en": "felyne",
+      "zh": "艾露猫",
+      "rating": "g",
+      "count": 984,
+      "desc": "《怪物猎人》中的人形猫种族艾露猫",
+      "kw": "随从猫 / 艾露 / 艾路猫 / 猫人族 / 猫 / 游戏生物 / palico / アイルー / オトモアイルー"
+    },
+    {
+      "en": "female goblin",
+      "zh": "女哥布林",
+      "rating": "g",
+      "count": 1849,
+      "desc": "哥布林种族的雌性个体",
+      "kw": "雌性哥布林 / 母哥布林 / 女性哥布林 / 哥布林女 / 怪物女孩 / 哥布林 / goblin female"
+    },
+    {
+      "en": "female orc",
+      "zh": "女性兽人",
+      "rating": "g",
+      "count": 900,
+      "desc": "兽人种族的雌性个体",
+      "kw": "女兽人 / 兽人女性 / 雌性兽人 / 女性奥克 / 女奥克 / 母兽人 / 兽人 / 幻想种族 / orc female"
+    },
+    {
+      "en": "ferret girl",
+      "zh": "雪貂娘",
+      "rating": "g",
+      "count": 934,
+      "desc": "带有雪貂特征的少女",
+      "kw": "貂娘 / 雪貂少女 / 白貂娘 / 兽耳娘 / 动物娘"
+    },
+    {
+      "en": "fire elemental",
+      "zh": "火元素",
+      "rating": "g",
+      "count": 512,
+      "desc": "火属性的元素生物",
+      "kw": "火焰元素 / 火元素生物 / 火灵 / 火焰精灵 / 火之精灵"
+    },
+    {
+      "en": "fish boy",
+      "zh": "鱼人少年",
+      "rating": "g",
+      "count": 2031,
+      "desc": "具有鱼类特征的怪物少年",
+      "kw": "鱼男孩 / 半鱼人少年 / 鱼男 / 人鱼男孩 / 鱼人男孩 / 鱼人 / 半鱼人 / 水生怪物 / fishman / 半鱼人 / 鱼人 / 魚人"
+    },
+    {
+      "en": "fish girl",
+      "zh": "鱼娘",
+      "rating": "g",
+      "count": 5493,
+      "desc": "长腿的鱼系怪物少女",
+      "kw": "鱼少女 / 鱼人少女 / 鱼怪少女 / 鱼妖少女 / 鱼系少女 / 鱼人娘 / 鱼女 / 鱼人女孩 / 魚人 / 魚娘"
+    },
+    {
+      "en": "food-themed creature",
+      "zh": "食物主题生物",
+      "rating": "g",
+      "count": 1042,
+      "desc": "以食物为原型设计的生物",
+      "kw": "食物动物 / 食品主题生物 / 食物造型生物 / 食物拟人 / 食物化生物 / 生物 / 幻想 / food animal"
+    },
+    {
+      "en": "fox boy",
+      "zh": "狐男",
+      "rating": "g",
+      "count": 10484,
+      "desc": "长有狐耳或狐尾的男孩。",
+      "kw": "狐狸男孩 / 狐耳男孩 / 狐尾男孩 / 狐狸少年 / 狐耳少年 / 狐男孩 / 兽耳 / 少年"
+    },
+    {
+      "en": "frog boy",
+      "zh": "青蛙男孩",
+      "rating": "g",
+      "count": 554,
+      "desc": "具有青蛙特征的男性角色。",
+      "kw": "蛙男 / 青蛙男 / 青蛙少年 / 蛙少年 / 青蛙系男孩 / 蛙人 / 怪物 / 角色"
+    },
+    {
+      "en": "frog girl",
+      "zh": "青蛙娘",
+      "rating": "g",
+      "count": 1245,
+      "desc": "带长舌或蹼等青蛙特征的女孩",
+      "kw": "蛙娘 / 青蛙少女 / 青蛙女孩 / 蛙女 / 动物娘 / 蛙女孩 / カエル娘"
+    },
+    {
+      "en": "furry",
+      "zh": "兽人",
+      "rating": "g",
+      "count": 149636,
+      "desc": "拟人化动物角色的统称，俗称福瑞。",
+      "kw": "福瑞 / 兽太 / 兽设 / 兽控 / 毛茸茸 / 拟人动物 / 动物化 / 兽人化 / kemono / anthro / furries / furry art"
+    },
+    {
+      "en": "furry female",
+      "zh": "兽娘",
+      "rating": "g",
+      "count": 71465,
+      "desc": "女性的兽人角色。",
+      "kw": "女性兽人 / 女兽人 / 母兽人 / 女福瑞 / 福瑞女 / 兽人女 / 女性福瑞 / furry / female furry / furry girl / 獣人 / 獣娘"
+    },
+    {
+      "en": "furry male",
+      "zh": "福瑞男性",
+      "rating": "g",
+      "count": 69165,
+      "desc": "男性的兽人角色。",
+      "kw": "男性兽人 / 男兽人 / 兽人男性 / 公兽人 / 雄性兽人 / 男福瑞 / 福瑞男 / 兽人男子 / male furry / furry boy / 獣人 / ケモショタ"
+    },
+    {
+      "en": "garlean",
+      "zh": "加雷马族",
+      "rating": "g",
+      "count": 636,
+      "desc": "《最终幻想14》中额头有第三只眼的种族",
+      "kw": "加雷马人 / 加雷马族人 / 加雷马帝国人 / 加雷马帝国臣民 / 加雷马族裔 / 加雷马 (最终幻想14) / 种族 / FF14"
+    },
+    {
+      "en": "gem (steven universe)",
+      "zh": "宝石人（宇宙小子）",
+      "rating": "g",
+      "count": 1884,
+      "desc": "《宇宙小子》中身体核心为宝石的外星种族",
+      "kw": "宇宙小子宝石人 / 宝石人（SU） / 宝石族 / 宝石人角色 / 宝石人 (史蒂芬宇宙) / 史蒂芬宇宙 / 角色"
+    },
+    {
+      "en": "ghost girl",
+      "zh": "幽灵少女",
+      "rating": "g",
+      "count": 1607,
+      "desc": "以少女或女性形象出现的幽灵",
+      "kw": "女幽灵 / 幽灵女孩 / 幽灵娘 / 少女幽灵 / 女鬼 / 鬼魂 / 怪物女孩 / 女幽霊"
+    },
+    {
+      "en": "giant monster",
+      "zh": "巨型怪物",
+      "rating": "g",
+      "count": 1809,
+      "desc": "体型远超人类的巨大怪物",
+      "kw": "巨兽 / 巨怪 / 巨大怪兽 / 大怪兽 / 庞然巨物 / 怪物 / 怪獣"
+    },
+    {
+      "en": "goat boy",
+      "zh": "山羊男孩",
+      "rating": "g",
+      "count": 2829,
+      "desc": "具有山羊特征的男孩。",
+      "kw": "山羊少年 / 山羊男 / 羊男 / 山羊特征男孩 / 山羊系少年 / 公山羊男孩 / 幻想生物 / 角色"
+    },
+    {
+      "en": "goat girl",
+      "zh": "山羊女孩",
+      "rating": "g",
+      "count": 4927,
+      "desc": "具有山羊特征的女孩或拟人角色",
+      "kw": "山羊少女 / 山羊娘 / 羊娘 / 山羊拟人化 / 山羊妖 / 山羊耳娘 / 兽娘 / 动物耳 / ヤギ娘"
+    },
+    {
+      "en": "half-harpy",
+      "zh": "半哈比",
+      "rating": "g",
+      "count": 586,
+      "desc": "背部生翅、有鸟腿的哈比类魔物娘",
+      "kw": "半哈耳庇厄 / 半鸟身女妖 / 半哈比女妖 / 半哈比人 / 哈比 / 怪物女孩 / 幻想生物 / ハーフハーピー / ハーフハーピィ / 하프하피"
+    },
+    {
+      "en": "hamster girl",
+      "zh": "仓鼠女孩",
+      "rating": "g",
+      "count": 550,
+      "desc": "仓鼠拟人化的女孩",
+      "kw": "仓鼠娘 / 仓鼠拟人化女孩 / 仓鼠娘化 / 仓鼠少女 / 仓鼠妹子 / 动物娘"
+    },
+    {
+      "en": "harpy boy",
+      "zh": "哈比男孩",
+      "rating": "g",
+      "count": 659,
+      "desc": "带哈比（鹰身女妖）特征的男孩",
+      "kw": "鹰身男孩 / 哈比男 / 鹰身男 / 鹰身正太 / 幻想生物 / 怪物男孩"
+    },
+    {
+      "en": "hedgehog boy",
+      "zh": "刺猬男孩",
+      "rating": "g",
+      "count": 2533,
+      "desc": "具有刺猬特征的男孩",
+      "kw": "刺猬少年 / 刺猬男生 / 刺猬男 / 刺猬头少年 / 刺猬头 / 男孩 / 发型"
+    },
+    {
+      "en": "hedgehog girl",
+      "zh": "刺猬女孩",
+      "rating": "g",
+      "count": 1657,
+      "desc": "具有刺猬特征的女孩",
+      "kw": "刺猬娘 / 刺猬少女 / 刺猬女 / 刺猬拟人 / 刺猬妹子 / 兽娘"
+    },
+    {
+      "en": "hippopotamus girl",
+      "zh": "河马女孩",
+      "rating": "g",
+      "count": 582,
+      "desc": "河马拟人化的女孩",
+      "kw": "河马娘 / 河马拟人化女孩 / 河马少女 / 河马妹子 / 河马娘化 / 兽娘 / 动物耳朵"
+    },
+    {
+      "en": "horse boy",
+      "zh": "马男",
+      "rating": "g",
+      "count": 1498,
+      "desc": "带马耳或马尾等特征的男性角色",
+      "kw": "马男孩 / 马少年 / 马耳男 / 马尾男 / 马系男子 / 兽人 / 拟人 / horse man / ウマ息子"
+    },
+    {
+      "en": "horse girl",
+      "zh": "马娘",
+      "rating": "g",
+      "count": 242709,
+      "desc": "带马耳或马尾巴等特征的女性角色",
+      "kw": "马耳娘 / 马少女 / 马女 / 马女孩 / 兽娘 / 半兽人 / 马耳尾 / pony girl / 馬娘 / ウマ娘"
+    },
+    {
+      "en": "humanoid robot",
+      "zh": "人形机器人",
+      "rating": "g",
+      "count": 10799,
+      "desc": "有双足和四肢但明显非人类的人形机器人",
+      "kw": "仿生机器人 / 机器人 / 机械人 / 类人机器人 / 人型机器人 / 机器人角色 / 科幻 / 人型ロボット"
+    },
+    {
+      "en": "hyena boy",
+      "zh": "鬣狗男孩",
+      "rating": "g",
+      "count": 1624,
+      "desc": "带鬣狗特征的男性角色",
+      "kw": "鬣狗少年 / 男性鬣狗兽人 / 鬣狗男子 / 男鬣狗 / 鬣狗兽人少年 / 鬣狗男 / 兽人 / 怪物男孩"
+    },
+    {
+      "en": "hyena girl",
+      "zh": "鬣狗女孩",
+      "rating": "g",
+      "count": 1111,
+      "desc": "具有鬣狗特征的女性角色",
+      "kw": "鬣狗娘 / 鬣狗少女 / 鬣狗娘化 / 鬣狗兽娘 / 鬣狗耳女孩 / 斑点鬣狗女孩 / 兽娘 / 动物耳"
+    },
+    {
+      "en": "inkling",
+      "zh": "乌贼人",
+      "rating": "g",
+      "count": 23835,
+      "desc": "《斯普拉遁》/《喷射战士》中能变身为乌贼的人形种族。",
+      "kw": "墨灵 / 墨鱼人 / 乌贼娘 / 小乌贼 / 乌贼种族 / 鱿鱼人 / 墨鱼娘 / 乌贼女孩"
+    },
+    {
+      "en": "jackal boy",
+      "zh": "胡狼男孩",
+      "rating": "g",
+      "count": 908,
+      "desc": "有胡狼耳朵或尾巴特征的男孩",
+      "kw": "豺狼男孩 / 胡狼少年 / 胡狼兽人男孩 / 胡狼耳男孩 / 豺狼少年 / 兽人 / 动物男孩"
+    },
+    {
+      "en": "jaguar girl",
+      "zh": "美洲豹娘",
+      "rating": "g",
+      "count": 1081,
+      "desc": "有美洲豹耳朵或尾巴特征的女孩。",
+      "kw": "美洲豹女孩 / 美洲豹少女 / 豹娘 / 美洲豹妹子 / 美洲豹女 / 美洲虎娘 / 兽耳娘 / 动物拟人"
+    },
+    {
+      "en": "kaiju",
+      "zh": "怪兽",
+      "rating": "g",
+      "count": 2470,
+      "desc": "特摄或科幻中出现的巨大怪兽",
+      "kw": "巨兽 / 巨型怪兽 / 特摄怪兽 / 大怪兽 / 怪獣 / 异兽 / 科幻 / kaijuu"
+    },
+    {
+      "en": "kneeless merfolk",
+      "zh": "无膝人鱼",
+      "rating": "g",
+      "count": 776,
+      "desc": "尾部平滑弯曲、看不出膝盖的人鱼",
+      "kw": "无膝盖人鱼 / 无膝关节人鱼 / 光滑尾人鱼 / 脊椎鱼尾 / 真实鱼尾 / 鲸鱼尾巴 / 海洋生物尾 / kneeless mermaid"
+    },
+    {
+      "en": "kneeless mermaid",
+      "zh": "无膝美人鱼",
+      "rating": "g",
+      "count": 708,
+      "desc": "尾部平滑弯曲如脊椎，没有膝盖关节的人鱼设计",
+      "kw": "美人鱼 / 幻想生物"
+    },
+    {
+      "en": "komainu boy",
+      "zh": "狛犬男孩",
+      "rating": "g",
+      "count": 981,
+      "desc": "具有狛犬特征的男孩",
+      "kw": "狛犬少年 / 狛犬正太 / 狛犬系男孩 / 石狮男孩 / 狛犬 / 日本神话"
+    },
+    {
+      "en": "komainu girl",
+      "zh": "狛犬娘",
+      "rating": "g",
+      "count": 824,
+      "desc": "具有狛犬耳朵或尾巴特征的女孩",
+      "kw": "狛犬女孩 / 狛犬少女 / 狛犬娘化 / 石狮娘 / 兽娘 / 神社守护兽"
+    },
+    {
+      "en": "laguz (fire emblem)",
+      "zh": "拉古兹（火焰纹章）",
+      "rating": "g",
+      "count": 984,
+      "desc": "《火焰之纹章》中能变成兽类的种族",
+      "kw": "拉古兹族 / 拉古兹 / 拉格兹 / 火焰纹章拉古兹 / 兽人种族 / 兽人 (火焰纹章) / 幻想种族 / 游戏"
+    },
+    {
+      "en": "leopard girl",
+      "zh": "豹娘",
+      "rating": "g",
+      "count": 588,
+      "desc": "具有豹特征的女孩",
+      "kw": "豹子女孩 / 豹女 / 豹子女 / 花豹娘 / 豹耳娘 / 豹系少女 / 兽耳娘 / 动物娘"
+    },
+    {
+      "en": "lion boy",
+      "zh": "狮子男孩",
+      "rating": "g",
+      "count": 4310,
+      "desc": "具有狮耳或狮尾的男孩角色。",
+      "kw": "狮少年 / 狮子男 / 狮耳男孩 / 雄狮男孩 / 小狮子男孩 / 兽人 / 男孩 / lionboy"
+    },
+    {
+      "en": "lion girl",
+      "zh": "狮子娘",
+      "rating": "g",
+      "count": 9252,
+      "desc": "具有狮子特征的女孩。",
+      "kw": "狮娘 / 狮子女孩 / 狮子少女 / 狮子女 / 狮耳娘 / 兽耳娘 / 动物耳 / 獅子娘"
+    },
+    {
+      "en": "mecha musume",
+      "zh": "机娘",
+      "rating": "g",
+      "count": 16177,
+      "desc": "把各类机械硬件拟人化为可爱少女",
+      "kw": "机甲娘 / 机械娘 / 机械少女 / 兵器娘 / 兵器拟人化 / 舰娘 / 机甲少女 / 武器娘 / weapongirl / mechamusume / メカ娘 / メカ少女"
+    },
+    {
+      "en": "miqo'te",
+      "zh": "猫魅族",
+      "rating": "g",
+      "count": 11737,
+      "desc": "《最终幻想14》中的猫耳猫尾种族，官方译名猫魅族。",
+      "kw": "猫魅 / 最终幻想14猫魅族 / FF14猫魅 / 猫魅族角色 / 最终幻想14猫人 / 魅可忒 / 猫娘 / 幻想种族 / ミコッテ / ミッコテ"
+    },
+    {
+      "en": "monkey boy",
+      "zh": "猴子男孩",
+      "rating": "g",
+      "count": 1604,
+      "desc": "具有猴耳或猴尾等猴子特征的男孩角色。",
+      "kw": "猴男孩 / 猴少年 / 猴子少年 / 猴耳男孩 / 猴尾男孩 / 猴系男孩 / 猴男 / 动物男孩 / monkeyboy"
+    },
+    {
+      "en": "monkey girl",
+      "zh": "猴子女孩",
+      "rating": "g",
+      "count": 1499,
+      "desc": "具有猴子特征的女孩",
+      "kw": "猴娘 / 猿女 / 猴子少女 / 猴子女 / 猿娘 / 兽耳娘 / 猿娘"
+    },
+    {
+      "en": "moon rabbit",
+      "zh": "月兔",
+      "rating": "g",
+      "count": 372,
+      "desc": "月中捣药的兔子，中日神话中的月兔。",
+      "kw": "玉兔 / 月中兔 / 月球兔 / 捣药兔 / 中国风 / 神话生物 / 月の兎"
+    },
+    {
+      "en": "moth girl",
+      "zh": "蛾娘",
+      "rating": "g",
+      "count": 1539,
+      "desc": "具有飞蛾特征的兽娘，常被灯光吸引",
+      "kw": "飞蛾女孩 / 蛾少女 / 飞蛾娘 / 蛾子娘 / 飞蛾兽娘 / 虫娘 / 兽耳娘"
+    },
+    {
+      "en": "mouse boy",
+      "zh": "老鼠男孩",
+      "rating": "g",
+      "count": 1131,
+      "desc": "具有鼠耳、鼠尾等老鼠特征的男孩。",
+      "kw": "鼠男孩 / 鼠少年 / 老鼠男 / 鼠耳男孩 / 鼠尾男孩 / 兽耳男孩 / 男孩"
+    },
+    {
+      "en": "mouse girl",
+      "zh": "鼠娘",
+      "rating": "g",
+      "count": 20979,
+      "desc": "天生具有鼠耳鼠尾特征的女孩",
+      "kw": "老鼠娘 / 鼠女 / 鼠耳娘 / 鼠娘女孩 / 鼠耳少女 / 鼠尾娘 / 小鼠娘 / 兽娘 / rat girl / ねずみ娘"
+    },
+    {
+      "en": "namekian",
+      "zh": "那美克星人",
+      "rating": "g",
+      "count": 998,
+      "desc": "龙珠中绿皮肤、长触角的那美克星人种族",
+      "kw": "娜美克星人 / 纳美克星人 / 那美克星种族 / 短笛族人 / 比克族人 / 龙珠 / 外星人 / ナメック星人"
+    },
+    {
+      "en": "neco spirit",
+      "zh": "猫灵",
+      "rating": "g",
+      "count": 761,
+      "desc": "Type-Moon作品中猫型亚人种族，源自猫Arc",
+      "kw": "猫妖精 / 猫型精灵 / 猫型亚人 / 猫Arc种族 / 猫灵族 / 精灵 / 幻想 / necoarc"
+    },
+    {
+      "en": "netnavi",
+      "zh": "网络领航员",
+      "rating": "g",
+      "count": 1696,
+      "desc": "《洛克人EXE》中由操作员操控的数字化身",
+      "kw": "网络导航员 / 网路领航员 / 网路导航员 / 虚拟程序 / 网络角色 / ネットナビ"
+    },
+    {
+      "en": "night elf (warcraft)",
+      "zh": "暗夜精灵（魔兽世界）",
+      "rating": "g",
+      "count": 561,
+      "desc": "《魔兽世界》中紫肤长眉、眼睛发光的暗夜精灵",
+      "kw": "暗夜精灵 / 魔兽暗夜精灵 / 暗夜精灵族 / 魔兽世界暗夜精灵 / 暗夜精灵 (魔兽世界) / 魔兽世界 / 精灵 / 幻想种族 / night elf / nightelf"
+    },
+    {
+      "en": "non-humanoid robot",
+      "zh": "非人形机器人",
+      "rating": "g",
+      "count": 9194,
+      "desc": "外形不是人形的机器人",
+      "kw": "非人型机器人 / 非拟人机器人 / 非人形机械 / 异形机器人 / 非人型机械 / 机器体 / 机器人 / 科幻"
+    },
+    {
+      "en": "octoling",
+      "zh": "章鱼娘",
+      "rating": "g",
+      "count": 10659,
+      "desc": "《斯普拉遁》中可变成章鱼的人形种族",
+      "kw": "章鱼族 / 章鱼人 / 章鱼角色 / 斯普拉遁章鱼 / 喷射战士章鱼 / Splatoon / 游戏种族 / 人形章鱼 / オクトリング"
+    },
+    {
+      "en": "orca girl",
+      "zh": "虎鲸女孩",
+      "rating": "g",
+      "count": 1336,
+      "desc": "具有黑白肤色、虎鲸尾等虎鲸特征的女孩",
+      "kw": "虎鲸娘 / 虎鲸妹子 / 虎鲸少女 / 虎鲸人外娘 / 黑白虎鲸娘 / 逆戟鲸娘 / 杀人鲸娘 / 动物娘 / 𩾇娘 / シャチ娘 / 鯱娘"
+    },
+    {
+      "en": "owl girl",
+      "zh": "猫头鹰女孩",
+      "rating": "g",
+      "count": 1234,
+      "desc": "具有羽毛或耳羽等猫头鹰特征的女孩。",
+      "kw": "猫头鹰少女 / 猫头鹰娘 / 鸮娘 / 枭娘 / 兽耳娘 / 幻想生物"
+    },
+    {
+      "en": "panda boy",
+      "zh": "熊猫男孩",
+      "rating": "g",
+      "count": 940,
+      "desc": "带熊猫耳朵或尾巴的男孩。",
+      "kw": "熊猫少年 / 熊猫正太 / 熊貓男孩 / 熊猫系男孩 / 熊猫耳男孩 / 动物拟人 / 男孩"
+    },
+    {
+      "en": "panda girl",
+      "zh": "熊猫女孩",
+      "rating": "g",
+      "count": 772,
+      "desc": "带熊猫耳朵或尾巴的女孩",
+      "kw": "熊猫娘 / 熊猫少女 / 熊猫耳娘 / 熊猫尾巴女孩 / 动物女孩 / 萌系 / パンダ娘"
+    },
+    {
+      "en": "panther girl",
+      "zh": "黑豹女孩",
+      "rating": "g",
+      "count": 5271,
+      "desc": "带有黑豹耳朵、尾巴等特征的女孩。",
+      "kw": "黑豹娘 / 豹女 / 黑豹少女 / 豹女孩 / 黑豹女 / 豹娘 / 兽娘 / 动物耳"
+    },
+    {
+      "en": "penguin girl",
+      "zh": "企鹅女孩",
+      "rating": "g",
+      "count": 912,
+      "desc": "带有企鹅特征的女孩。",
+      "kw": "企鹅少女 / 企鹅娘 / 企鹅妹子 / 企鹅女 / 企鹅系女孩 / 兽娘 / 动物拟人"
+    },
+    {
+      "en": "persocom (chobits)",
+      "zh": "人形电脑（Chobits）",
+      "rating": "g",
+      "count": 679,
+      "desc": "《人形电脑天使心》中形似人类、带机器耳的人形电脑。",
+      "kw": "人形电脑 / 人型电脑 / 电脑人形 / Chobits人形电脑 / 人形电脑天使心机器人 / 机器人 / 科幻 / persocom"
+    },
+    {
+      "en": "persona (summon)",
+      "zh": "人格面具（召唤）",
+      "rating": "g",
+      "count": 1509,
+      "desc": "《女神异闻录》系列中角色召唤的人格面具",
+      "kw": "人格面具 / 人格假面 / 心灵面具 / 召唤人格面具 / 人格面具 (召唤) / Persona系列 / 召唤物"
+    },
+    {
+      "en": "pig girl",
+      "zh": "猪女孩",
+      "rating": "g",
+      "count": 698,
+      "desc": "长着猪耳等猪特征的女孩",
+      "kw": "猪娘 / 猪耳娘 / 猪女 / 猪人娘 / 猪妹 / 猪耳女孩 / 兽娘 / 动物女孩 / 豚娘"
+    },
+    {
+      "en": "plant monster",
+      "zh": "植物怪物",
+      "rating": "g",
+      "count": 605,
+      "desc": "能移动并攻击他人的植物",
+      "kw": "植物怪 / 植物魔物 / 植物系怪物 / 植物型怪物 / 植物妖怪 / 植物怪兽 / 怪物 / 植物系"
+    },
+    {
+      "en": "rabbit boy",
+      "zh": "兔男",
+      "rating": "g",
+      "count": 5864,
+      "desc": "长有兔耳或兔尾等兔子特征的男孩",
+      "kw": "兔子男孩 / 兔耳男孩 / 兔尾男孩 / 男兔 / 公兔男 / 动物男孩"
+    },
+    {
+      "en": "rabbit girl",
+      "zh": "兔娘",
+      "rating": "g",
+      "count": 62911,
+      "desc": "长有兔耳或兔尾等真实兔子特征的女孩",
+      "kw": "兔女 / 兔耳娘 / 兔子女孩 / 兔族女孩 / 兔少女 / 兔尾娘 / 兔耳少女 / 兔娘化 / bunny girl / bunnygirl / rabbitgirl / 兎娘"
+    },
+    {
+      "en": "raccoon boy",
+      "zh": "浣熊男孩",
+      "rating": "g",
+      "count": 1355,
+      "desc": "具有浣熊特征的男孩",
+      "kw": "狸猫男孩 / 浣熊少年 / 浣熊兽耳男 / 男孩 / 动物拟人 / 幻想 / tanuki boy"
+    },
+    {
+      "en": "raccoon girl",
+      "zh": "浣熊娘",
+      "rating": "g",
+      "count": 11267,
+      "desc": "长有浣熊耳朵尾巴等特征的女性角色，常与狸猫娘混淆。",
+      "kw": "浣熊女孩 / 小浣熊娘 / 狸娘 / 狸猫娘 / 浣熊兽娘 / 浣熊亚人 / 兽耳娘 / 动物耳 / tanuki girl / アライグマ娘"
+    },
+    {
+      "en": "red panda girl",
+      "zh": "小熊猫女孩",
+      "rating": "g",
+      "count": 1294,
+      "desc": "带有小熊猫（红熊猫）特征的女孩。",
+      "kw": "红熊猫女孩 / 小熊猫娘 / 红熊猫娘 / 小熊猫少女 / 兽耳娘 / 动物女孩"
+    },
+    {
+      "en": "reindeer girl",
+      "zh": "驯鹿女孩",
+      "rating": "g",
+      "count": 1394,
+      "desc": "长有鹿耳或驯鹿角的女孩",
+      "kw": "驯鹿娘 / 驯鹿少女 / 兽耳娘 / 圣诞角色"
+    },
+    {
+      "en": "reptile boy",
+      "zh": "爬行动物男孩",
+      "rating": "g",
+      "count": 1322,
+      "desc": "具有鳞片、蜥蜴尾巴等爬行动物特征的男孩",
+      "kw": "爬虫男孩 / 蜥蜴男孩 / 爬行动物男生 / 爬行类男孩 / 蜥蜴少年 / 爬虫少年 / 爬行动物 / 男孩 / lizard boy"
+    },
+    {
+      "en": "reptile girl",
+      "zh": "蜥蜴娘",
+      "rating": "g",
+      "count": 3045,
+      "desc": "有蜥蜴尾巴和鳞片等特征的女孩",
+      "kw": "爬虫娘 / 爬行动物女孩 / 蜥蜴女孩 / 蜥蜴女 / 爬行类少女 / 爬虫类娘 / 爬虫类女孩 / 怪物娘 / lizard girl / トカゲ娘"
+    },
+    {
+      "en": "rider-tan",
+      "zh": "骑士娘",
+      "rating": "g",
+      "count": 507,
+      "desc": "将历代假面骑士皮套拟人化的女孩",
+      "kw": "假面骑士娘 / 骑士少女 / 假面骑士拟人化 / 来打娘 / 假面骑士女孩 / 来打少女 / 拟人 / 女版骑士 / ridertan / ライダー少女"
+    },
+    {
+      "en": "robot animal",
+      "zh": "机械动物",
+      "rating": "g",
+      "count": 3081,
+      "desc": "动物形状的机器人",
+      "kw": "机械兽 / 动物机器人 / 机器动物 / 机器人动物 / 机械兽形机器人 / 科幻 / mechanical animal / animal robot / 生物メカ"
+    },
+    {
+      "en": "robot boy",
+      "zh": "机器人男孩",
+      "rating": "g",
+      "count": 1304,
+      "desc": "外观明显为机械的男性人形机器人",
+      "kw": "机械男孩 / 男孩机器人 / 机器人少年 / 机械少年 / 机器人 / 男孩 / 科幻"
+    },
+    {
+      "en": "robot dog",
+      "zh": "机器狗",
+      "rating": "g",
+      "count": 555,
+      "desc": "狗形状的机器人",
+      "kw": "机器人狗 / 机械狗 / 机械犬 / 机器人犬 / 仿生机器狗 / 机械宠物 / 仿生狗 / 科技宠物"
+    },
+    {
+      "en": "robot dragon",
+      "zh": "机械龙",
+      "rating": "g",
+      "count": 714,
+      "desc": "由机械零件构成或呈现龙形态的机器人",
+      "kw": "机器人龙 / 龙形机器人 / 机械龙形机器人 / 机械飞龙 / 机器人飞龙 / 机器人 / 龙 / 科幻 / mechanical dragon"
+    },
+    {
+      "en": "robot girl",
+      "zh": "机器人女孩",
+      "rating": "g",
+      "count": 8936,
+      "desc": "外形明显是机械的女性机器人",
+      "kw": "机械少女 / 机器人少女 / 机娘 / 机械女孩 / 女性机器人 / 女机器人 / 机器人 / 科幻 / ロボ娘"
+    },
+    {
+      "en": "salmonid",
+      "zh": "鲑鱼（斯普拉遁）",
+      "rating": "g",
+      "count": 563,
+      "desc": "《斯普拉遁》鲑鱼跑模式中登场的鱼形敌人",
+      "kw": "斯普拉遁鲑鱼 / 喷喷鲑鱼 / 鲑鱼怪 / 三文鱼 / 鲑鱼敌人 / 鲑鱼仔 / 鲑鱼人 / 鱼人 / シャケ(スプラトゥーン)"
+    },
+    {
+      "en": "sea slug girl",
+      "zh": "海蛞蝓娘",
+      "rating": "g",
+      "count": 545,
+      "desc": "具有海蛞蝓特征的女孩",
+      "kw": "海蛞蝓女孩 / 海兔娘 / 海牛娘 / 海蛞蝓少女 / 海蛞蝓拟人化 / 海兔女孩 / 生物娘 / ウミウシ娘"
+    },
+    {
+      "en": "sentient plant",
+      "zh": "有意识的植物",
+      "rating": "g",
+      "count": 815,
+      "desc": "具有自我意识、能自主思考和行动的植物。",
+      "kw": "具有自我意识的植物 / 智慧植物 / 有智能的植物 / 植物生命体 / 自主思考的植物 / 智能植物"
+    },
+    {
+      "en": "shadow (persona)",
+      "zh": "影（女神异闻录）",
+      "rating": "g",
+      "count": 558,
+      "desc": "《女神异闻录》中被压抑的自我化身",
+      "kw": "阴影（女神异闻录） / 暗影 / 心之影 / 人格阴影 / 异闻录之影 / 阴影 / 女神异闻录 / 怪物 / シャドウ / シャドウ(ペルソナ)"
+    },
+    {
+      "en": "shark boy",
+      "zh": "鲨鱼男孩",
+      "rating": "g",
+      "count": 879,
+      "desc": "带尖牙或鲨鱼尾等鲨鱼特征的男性鱼人",
+      "kw": "鲨鱼少年 / 鲨鱼男子 / 男性鲨鱼人 / 鲨鱼男 / 角色 / 人物"
+    },
+    {
+      "en": "shark girl",
+      "zh": "鲨鱼娘",
+      "rating": "g",
+      "count": 18043,
+      "desc": "带鲨鱼特征的女性人鱼或兽娘。",
+      "kw": "鲨鱼少女 / 鲨鱼女孩 / 鲨鱼人鱼 / 鲨鱼人 / 鲛女 / 鲛娘 / 鲨鱼妹子 / 鲨鱼拟人 / マーシャーク / サメ娘"
+    },
+    {
+      "en": "sheep boy",
+      "zh": "绵羊男孩",
+      "rating": "g",
+      "count": 600,
+      "desc": "带羊角或羊耳等绵羊特征的男孩",
+      "kw": "羊男孩 / 羊少年 / 绵羊少年 / 羊角男孩 / 怪物男孩 / 幻想生物 / 羊の少年"
+    },
+    {
+      "en": "sheep girl",
+      "zh": "羊女孩",
+      "rating": "g",
+      "count": 7668,
+      "desc": "带羊角或羊耳等绵羊特征的女孩",
+      "kw": "羊娘 / 绵羊女孩 / 绵羊娘 / 小羊女孩 / 羊耳女孩 / 羊角少女 / 兽耳娘 / 动物耳"
+    },
+    {
+      "en": "sheet ghost",
+      "zh": "床单幽灵",
+      "rating": "g",
+      "count": 1721,
+      "desc": "用白床单披盖的经典幽灵形象",
+      "kw": "白床单幽灵 / 床单鬼 / 幽灵床单 / 披床单的幽灵 / 鬼魂 / 万圣节 / cosplay"
+    },
+    {
+      "en": "shiny pokemon",
+      "zh": "闪光宝可梦",
+      "rating": "g",
+      "count": 14046,
+      "desc": "体色与同种通常颜色不同的宝可梦",
+      "kw": "闪光精灵 / 异色宝可梦 / 色违宝可梦 / 颜色不同宝可梦 / 稀有闪亮宝可梦 / 闪光宠 / 异色精灵 / 闪亮宝可梦 / shinypokemon / 色違い"
+    },
+    {
+      "en": "simulacrum (titanfall)",
+      "zh": "模拟体（泰坦陨落）",
+      "rating": "g",
+      "count": 622,
+      "desc": "《泰坦陨落》系列中装载人类意识的人形机器人",
+      "kw": "泰坦陨落模拟体 / 模拟人形 / 泰坦陨落机器人 / 模拟体 / 模拟机 / 机器人 / titanfall"
+    },
+    {
+      "en": "slime boy",
+      "zh": "史莱姆男孩",
+      "rating": "g",
+      "count": 562,
+      "desc": "由透明黏稠液体构成的怪物男孩",
+      "kw": "史莱姆男 / 黏液男孩 / 软泥男孩 / 史莱姆少年 / 史莱姆正太 / 史莱姆 / 怪物 / goo guy / slime guy"
+    },
+    {
+      "en": "slug girl",
+      "zh": "蛞蝓女孩",
+      "rating": "g",
+      "count": 627,
+      "desc": "蛞蝓拟人化的女孩",
+      "kw": "蛞蝓娘 / 蛞蝓少女 / 鼻涕虫女孩 / 蛞蝓拟人化 / 怪物娘 / 软体动物 / ナメクジ娘"
+    },
+    {
+      "en": "slugcat",
+      "zh": "蛞蝓猫",
+      "rating": "g",
+      "count": 269,
+      "desc": "游戏《雨世界》中的可操作种族。",
+      "kw": "雨世界蛞蝓猫 / 蛞蝓猫种族 / 蛞蝓猫角色 / 蛞蝓猫生物 / 蛞蝓猫类 / 蛞蝓猫 (雨世界) / 游戏角色 / 动物 / slug cat"
+    },
+    {
+      "en": "snake girl",
+      "zh": "蛇女",
+      "rating": "g",
+      "count": 3496,
+      "desc": "具有蛇类特征的女孩，如竖瞳、分叉舌或蛇尾",
+      "kw": "蛇娘 / 蛇系少女 / 蛇妖少女 / 蛇人少女 / 美女蛇 / 妖怪 / 幻想生物"
+    },
+    {
+      "en": "snow leopard boy",
+      "zh": "雪豹男孩",
+      "rating": "g",
+      "count": 1105,
+      "desc": "有雪豹耳或雪豹尾等特征的男孩。",
+      "kw": "雪豹少年 / 雪豹正太 / 雪豹男 / 雪豹系男孩 / 雪豹兽人男孩 / 小豹男孩 / 兽人 / 动物男孩"
+    },
+    {
+      "en": "snow leopard girl",
+      "zh": "雪豹娘",
+      "rating": "g",
+      "count": 1827,
+      "desc": "具有雪豹特征的女性角色",
+      "kw": "雪豹女孩 / 雪豹少女 / 兽耳娘 / 动物耳"
+    },
+    {
+      "en": "spider girl",
+      "zh": "蜘蛛娘",
+      "rating": "g",
+      "count": 3429,
+      "desc": "蜘蛛主题的怪物娘，常有多眼或多臂特征。",
+      "kw": "蜘蛛女 / 蜘蛛女妖 / 蜘蛛精 / 蛛娘 / 蜘蛛人外娘 / 阿拉克涅 / 蜘蛛怪娘 / 蜘蛛女郎 / アルケニー / アラクネ"
+    },
+    {
+      "en": "squirrel girl",
+      "zh": "松鼠女孩",
+      "rating": "g",
+      "count": 5609,
+      "desc": "具有松鼠特征的女孩。",
+      "kw": "松鼠娘 / 松鼠女 / 松鼠兽娘 / 松鼠少女 / 松鼠娘化 / 松鼠兽耳娘 / 松鼠耳 / 松鼠尾巴 / squirrelgirl / リス娘"
+    },
+    {
+      "en": "stand (jojo)",
+      "zh": "替身",
+      "rating": "g",
+      "count": 8011,
+      "desc": "《JOJO的奇妙冒险》中精神具现化的替身",
+      "kw": "替身能力 / 幽波纹 / 乔乔替身 / 精神替身 / 替身使者 / 替身（JOJO的奇妙冒险） / JOJO / 超能力 / stand / スタンド / 幽波紋"
+    },
+    {
+      "en": "tacet discord (wuthering waves)",
+      "zh": "无音残象（鸣潮）",
+      "rating": "g",
+      "count": 1086,
+      "desc": "《鸣潮》中由混沌频率能量构成的非人敌人。",
+      "kw": "无音残象 / 鸣潮无音残象 / 无音残象敌人 / 无音之残象 / 残象 (鸣潮) / 鸣潮 / 怪物"
+    },
+    {
+      "en": "tamaranean",
+      "zh": "塔马兰人",
+      "rating": "g",
+      "count": 621,
+      "desc": "DC漫画中橙色皮肤的人形外星种族，如星火。",
+      "kw": "塔马兰星人 / 塔马兰族 / 塔马兰外星人 / 塔马兰原住民 / 塔玛兰星人 / 外星人 / 科幻"
+    },
+    {
+      "en": "tapir girl",
+      "zh": "貘娘",
+      "rating": "g",
+      "count": 1643,
+      "desc": "带有貘特征的女角色",
+      "kw": "貘少女 / 貘兽娘 / 獏娘 / 马来貘少女 / 貘女孩 / 貘拟人 / 兽耳娘 / 妖怪"
+    },
+    {
+      "en": "taur",
+      "zh": "半人马型",
+      "rating": "g",
+      "count": 8385,
+      "desc": "上半身人类躯干、下半身动物身体的角色，如半人马",
+      "kw": "半人马 / 人马 / 半人半马 / 半人马体型 / 半人马形态 / 兽身人形 / 半人兽 / 兽人 / タウル"
+    },
+    {
+      "en": "tentacle girl",
+      "zh": "触手娘",
+      "rating": "g",
+      "count": 1418,
+      "desc": "身体某处长有触手或以触手代替部分身体的怪物娘",
+      "kw": "触手少女 / 触手女孩 / 触手怪娘 / 触手妹子 / 触手 / 奇幻"
+    },
+    {
+      "en": "tiger boy",
+      "zh": "虎男",
+      "rating": "g",
+      "count": 6635,
+      "desc": "带有虎耳/虎尾等虎特征的男孩。",
+      "kw": "老虎男孩 / 虎耳男孩 / 虎少年 / 虎尾男孩 / 虎人男孩 / 虎耳少年 / 兽人 / 少年"
+    },
+    {
+      "en": "tiger girl",
+      "zh": "虎娘",
+      "rating": "g",
+      "count": 12993,
+      "desc": "天生具有虎耳虎尾等虎特征的女孩",
+      "kw": "虎耳娘 / 虎女 / 老虎娘 / 虎少女 / 虎人娘 / 寅娘 / 虎耳少女 / 老虎女孩"
+    },
+    {
+      "en": "traditional elf",
+      "zh": "传统精灵",
+      "rating": "g",
+      "count": 542,
+      "desc": "托尔金式经典奇幻精灵。",
+      "kw": "经典精灵 / 正统精灵 / 奇幻精灵 / 托尔金式精灵 / 传统奇幻精灵 / 高精灵"
+    },
+    {
+      "en": "unicorn girl",
+      "zh": "独角兽女孩",
+      "rating": "g",
+      "count": 855,
+      "desc": "长有独角兽角等特征的人类女孩",
+      "kw": "独角兽少女 / 独角兽娘 / 独角兽妹子 / 独角兽女 / 独角兽拟人 / 独角兽娘化 / 幻想生物 / 兽娘"
+    },
+    {
+      "en": "weasel girl",
+      "zh": "鼬娘",
+      "rating": "g",
+      "count": 1731,
+      "desc": "具有鼬鼠特征的女孩",
+      "kw": "鼬鼠女孩 / 鼬耳女孩 / 鼬尾女孩 / 鼬少女 / 鼬人娘 / 鼬鼠娘 / 鼬兽娘 / 动物女孩 / weaselgirl"
+    },
+    {
+      "en": "whale girl",
+      "zh": "鲸鱼女孩",
+      "rating": "g",
+      "count": 967,
+      "desc": "具有鲸鱼特征的少女",
+      "kw": "鲸鱼娘 / 鲸娘 / 鲸少女 / 鲸鱼少女 / 鲸人娘 / 鲸鱼拟人化 / 动物娘"
+    },
+    {
+      "en": "witch (madoka magica)",
+      "zh": "魔女（魔法少女小圆）",
+      "rating": "g",
+      "count": 2271,
+      "desc": "《魔法少女小圆》中由负面情绪诞生的魔女",
+      "kw": "魔法少女小圆魔女 / 小圆魔女 / 魔女 / 敌人 / 反派 / 魔女化身 / 诅咒 / 魔女(魔法少女まどか☆マギカ)"
+    },
+    {
+      "en": "witch (manosaba)",
+      "zh": "魔女（魔法少女的魔女审判）",
+      "rating": "g",
+      "count": 864,
+      "desc": "《魔法少女的魔女审判》中由承受巨大压力者化成的魔女",
+      "kw": "魔法少女的魔女审判魔女 / 魔女审判中的魔女 / 魔女 (魔王大人 / RETRY!) / 魔女 / 角色"
+    },
+    {
+      "en": "wolf boy",
+      "zh": "狼男孩",
+      "rating": "g",
+      "count": 12591,
+      "desc": "长着狼耳或狼尾等狼特征的男孩",
+      "kw": "狼少年 / 狼耳男孩 / 狼尾男孩 / 狼人男孩 / 男孩 / 狼人 / 兽耳 / 狼男"
+    },
+    {
+      "en": "wolf girl",
+      "zh": "狼娘",
+      "rating": "g",
+      "count": 62812,
+      "desc": "长有狼耳、狼尾等狼特征的女孩子",
+      "kw": "狼女 / 狼少女 / 狼耳少女 / 狼耳娘 / 狼耳女 / 狼耳女孩 / 兽娘"
+    },
+    {
+      "en": "yuki onna",
+      "zh": "雪女",
+      "rating": "g",
+      "count": 843,
+      "desc": "日本传说中雪夜里出现的雪女妖怪",
+      "kw": "雪女妖 / 雪女子 / 雪女妖怪 / 日本妖怪 / 和风"
+    },
+    {
+      "en": "zentradi",
+      "zh": "天顶星人",
+      "rating": "g",
+      "count": 601,
+      "desc": "《超时空要塞》系列中的巨人外星人种族",
+      "kw": "杰特拉帝人 / 赞特拉帝人 / 巨人外星人 / 外星人 / 科幻 / ゼントラーディ"
+    },
+    {
+      "en": "merfolk out of environment",
+      "zh": "人鱼离水",
+      "rating": "g",
+      "count": 660,
+      "desc": "人鱼出现在泳池、浴缸等非典型环境。",
+      "kw": "人鱼离开水域 / 人鱼出现在非水中环境 / 人鱼在陆上 / 人鱼反常环境 / 泳池人鱼 / 浴缸人鱼 / 旱地人鱼 / 异域人鱼 / mermaid out of environment"
+    },
+    {
+      "en": "mermaid out of environment",
+      "zh": "陆地美人鱼",
+      "rating": "g",
+      "count": 526,
+      "desc": "美人鱼出现在陆地或非水域环境。",
+      "kw": "陆地上的美人鱼 / 美人鱼 / 奇幻"
+    },
+    {
+      "en": "abyssal ship transformation",
+      "zh": "深海栖舰化",
+      "rating": "g",
+      "count": 783,
+      "desc": "舰队Collection舰娘被描绘成深海栖舰",
+      "kw": "深海化 / 舰娘深海化 / 被深海侵蚀 / 深海栖姬化 / 舰娘黑化 / 栖舰化"
+    },
+    {
+      "en": "animalization",
+      "zh": "动物化",
+      "rating": "g",
+      "count": 23002,
+      "desc": "将人类或人形角色描绘成动物，区别于animification",
+      "kw": "兽化 / 拟兽化 / 拟动物化 / 动物化表现 / 变成动物 / 动物形态 / 变身 / animalisation / 猫化 / ケモ化 / 擬鳥化"
+    },
+    {
+      "en": "furrification",
+      "zh": "兽人化",
+      "rating": "g",
+      "count": 3935,
+      "desc": "将非兽人角色画成兽人（furry）的表现。",
+      "kw": "拟兽化 / 兽化 / 毛茸茸化 / 野兽化 / 毛茸茸拟兽 / 兽拟 / 毛皮化 / 变身 / 拟兽 / 獣化 / 擬獣化 / 獣人化"
+    },
+    {
+      "en": "mechanization",
+      "zh": "机械化",
+      "rating": "g",
+      "count": 2351,
+      "desc": "将人或物改造成机械体、机甲或改造人的过程。",
+      "kw": "机械改造 / 机器人化 / 机械体化 / 机械变异 / 机甲化 / 半机械化 / 机械融合 / 机械 / robotification / robotization / 機械化 / ポケモン機械化"
+    },
+    {
+      "en": "monsterification",
+      "zh": "魔物化",
+      "rating": "g",
+      "count": 5186,
+      "desc": "人类角色变成怪物",
+      "kw": "怪物化 / 怪兽化 / 魔物娘化 / 人外化 / 变成怪物 / 怪物转变 / 魔化 / 异形化 / モンスター化 / 人魚化 / スライム化 / モンスター娘化"
+    },
+    {
+      "en": "slimification",
+      "zh": "史莱姆化",
+      "rating": "s",
+      "count": 242,
+      "desc": "把角色怪物化变成史莱姆。",
+      "kw": "史莱姆怪物化 / 变成史莱姆 / 黏液化 / 艺术表现 / 史莱姆 / 怪物化 / スライム化"
+    },
+    {
+      "en": "zombification",
+      "zh": "僵尸化",
+      "rating": "g",
+      "count": 405,
+      "desc": "原本不是僵尸的角色被画成或正在变成僵尸",
+      "kw": "丧尸化 / 尸化 / 变成僵尸 / 僵尸转变 / 僵尸变异 / 感染僵尸 / 活尸化 / 变身"
+    }
+  ]
+}

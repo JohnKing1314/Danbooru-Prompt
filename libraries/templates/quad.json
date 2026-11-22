@@ -1,0 +1,12 @@
+{
+  "id": "quad",
+  "icon": "🗯️",
+  "name": "四格漫画页",
+  "desc": "2×2 分格，每格一句台词的位置",
+  "tags": "1girl|一个女孩;four-panel layout|四格版面;comic page layout|漫画分页;manga style|漫画风;speech bubble|对话气泡;monochrome|单色",
+  "layout": {
+    "tpl": "quad",
+    "size": "1024x1024"
+  },
+  "builtin": true
+}

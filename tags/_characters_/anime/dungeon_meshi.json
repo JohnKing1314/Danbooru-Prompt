@@ -1,0 +1,55 @@
+{
+  "id": "dungeon_meshi",
+  "name": "迷宫饭",
+  "parentId": "anime",
+  "order": 20,
+  "file": "anime/dungeon_meshi.json",
+  "characters": [
+    {
+      "game": "迷宫饭",
+      "gameTag": "anime",
+      "name": "莱欧斯",
+      "tag": "laios touden",
+      "charZh": "莱欧斯（迷宫饭）",
+      "auto": "blonde hair|金发;short hair|短发;armor|盔甲;sword|长剑",
+      "subName": ""
+    },
+    {
+      "game": "迷宫饭",
+      "gameTag": "anime",
+      "name": "玛露希尔",
+      "tag": "marcille donato",
+      "charZh": "玛露希尔（迷宫饭）",
+      "auto": "blonde hair|金发;braid|麻花辫;green eyes|绿瞳;pointy ears|尖耳;staff|法杖;princess|公主;forehead|额头;cape|披风;belt|腰带;sandals|凉鞋",
+      "subName": ""
+    },
+    {
+      "game": "迷宫饭",
+      "gameTag": "anime",
+      "name": "奇尔查克",
+      "tag": "chilchuck tims",
+      "charZh": "奇尔查克（迷宫饭）",
+      "auto": "brown hair|棕发;short hair|短发;ahoge|呆毛;brown eyes|棕瞳;fingerless gloves|露指手套",
+      "subName": ""
+    },
+    {
+      "game": "迷宫饭",
+      "gameTag": "anime",
+      "name": "先西",
+      "tag": "senshi (dungeon meshi)",
+      "charZh": "先西（迷宫饭）",
+      "auto": "black hair|黑发;curly hair|卷发;black eyes|黑瞳;beard|胡须;armor|盔甲;helmet|头盔;axe|斧头;sandals|凉鞋;chef|厨师",
+      "subName": ""
+    },
+    {
+      "game": "迷宫饭",
+      "gameTag": "anime",
+      "name": "法琳",
+      "tag": "falin touden",
+      "charZh": "法琳（迷宫饭）",
+      "auto": "blonde hair|金发;short hair|短发;squinting|眯眼;boots|靴子;staff|法杖;plump|丰满",
+      "subName": ""
+    }
+  ],
+  "count": 5
+}

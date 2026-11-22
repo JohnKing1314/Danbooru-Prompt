@@ -1,0 +1,1383 @@
+{
+  "id": "eyewear",
+  "name": "眼部",
+  "icon": "👓",
+  "parentId": "outfit_group",
+  "level": 2,
+  "order": 2,
+  "file": "outfit_group/outfit_group_eyewear.json",
+  "updatedAt": "2026-11-22T12:39:36.687Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "round eyewear",
+      "zh": "圆框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 81236,
+      "desc": "镜片明显呈圆形或椭圆形的眼镜",
+      "kw": "圆形眼镜 / 圆镜片眼镜 / 圆框 / 圆眼镜 / 圆框墨镜 / 圆形墨镜 / 圆片眼镜 / 眼镜 / round glasses / circular eyewear / 丸眼鏡 / 丸メガネ"
+    },
+    {
+      "en": "semi-rimless eyewear",
+      "zh": "半框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 66404,
+      "desc": "只在镜片上缘、下缘或侧边有镜框的眼镜。",
+      "kw": "半框镜 / 半框眼镜架 / 半框架眼镜 / 半框镜架 / 半无框眼镜 / 半边框眼镜 / 半框式眼镜 / 眉线眼镜 / semi rimless glasses / half rim glasses / half-rim glasses / semi-rimless glasses"
+    },
+    {
+      "en": "rimless eyewear",
+      "zh": "无框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12156,
+      "desc": "镜片周围没有镜框的眼镜。",
+      "kw": "无框镜 / 无框镜片眼镜 / 无边框眼镜 / 眼镜 / 配饰 / rimless glasses / 縁無し眼鏡 / リムレスフレーム / リムレス"
+    },
+    {
+      "en": "bandage over one eye",
+      "zh": "单眼绷带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9194,
+      "desc": "用绷带或创可贴遮住一只眼睛",
+      "kw": "单眼缠绷带 / 一只眼缠绷带 / 绷带遮单眼 / 独眼绷带 / 眼部绷带 / 单眼贴创可贴 / 绷带 / 伤痕 / bandages over one eye / bandaged eye"
+    },
+    {
+      "en": "eyepatch",
+      "zh": "眼罩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 107149,
+      "desc": "遮住单只眼睛的布片",
+      "kw": "单眼眼罩 / 眼带 / 独眼罩 / 遮眼罩 / 单眼罩 / 眼罩布 / 配饰 / eye patch / 眼帯 / アイパッチ"
+    },
+    {
+      "en": "glasses",
+      "zh": "眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 517410,
+      "desc": "戴在眼前矫正视力或装饰的镜片",
+      "kw": "近视镜 / 眼镜儿 / 眼镜架 / 镜片 / 眼镜娘 / 眼镜男 / 眼镜框 / 配饰 / meganekko / megane / meganeko / eyeglasses"
+    },
+    {
+      "en": "goggles",
+      "zh": "护目镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 90390,
+      "desc": "保护眼睛防尘、防水、防眩光的护目装备。",
+      "kw": "风镜 / 防风镜 / 防护镜 / 泳镜 / 潜水镜 / 雪镜 / 飞行护目镜 / 防护眼镜 / ゴーグル"
+    },
+    {
+      "en": "monocle",
+      "zh": "单片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13764,
+      "desc": "只矫正一只眼睛的镜片，常附链子",
+      "kw": "单眼镜 / 单片镜 / 单眼眼镜 / 挂链单眼镜 / 眼镜 / 配饰 / 首饰 / モノクル / 片眼鏡"
+    },
+    {
+      "en": "sunglasses",
+      "zh": "墨镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 152747,
+      "desc": "过滤强光、可遮眼的墨镜。",
+      "kw": "太阳镜 / 太阳眼镜 / 黑超 / 遮阳镜 / 太阳镜片 / 墨色眼镜 / 配饰 / shades / サングラス"
+    },
+    {
+      "en": "aqua-framed eyewear",
+      "zh": "水蓝色框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 787,
+      "desc": "镜框为水色（蓝绿色）的眼镜等镜架",
+      "kw": "水色镜框 / 蓝绿色镜框眼镜 / 水蓝色镜框眼镜 / 浅蓝绿镜框眼镜 / 水色框眼镜 / 水色镜架 / 水色眼镜框"
+    },
+    {
+      "en": "black-framed eyewear",
+      "zh": "黑框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 59652,
+      "desc": "黑色镜框的眼镜或墨镜",
+      "kw": "黑色镜框眼镜 / 黑框墨镜 / 黑色框架眼镜 / 黑边眼镜 / 黑框眼镜架 / 眼镜 / 配饰 / black-framed glasses / 黒縁眼鏡"
+    },
+    {
+      "en": "blue-framed eyewear",
+      "zh": "蓝框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5996,
+      "desc": "蓝色镜框的眼镜",
+      "kw": "蓝色镜框眼镜 / 蓝边眼镜 / 蓝色眼镜框 / 眼镜 / 配饰 / blue-framed glasses"
+    },
+    {
+      "en": "brown-framed eyewear",
+      "zh": "棕色框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3941,
+      "desc": "镜框为棕色的眼镜",
+      "kw": "棕框眼镜 / 茶色镜框眼镜 / 咖啡色镜框眼镜 / 棕色眼镜框 / 棕色边框眼镜 / 棕框镜 / 眼镜 / brown-framed glasses"
+    },
+    {
+      "en": "green-framed eyewear",
+      "zh": "绿框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3824,
+      "desc": "绿色镜框的眼镜",
+      "kw": "绿色框眼镜 / 绿框眼睛 / 绿镜框眼镜 / 眼镜 / 框架眼镜 / 配饰 / green-framed glasses"
+    },
+    {
+      "en": "grey-framed eyewear",
+      "zh": "灰框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5880,
+      "desc": "灰色或银色镜框的眼镜",
+      "kw": "银框眼镜 / 灰色框眼镜 / 银色镜框眼镜 / 银色框眼镜 / 眼镜 / 配饰 / silver-framed eyewear"
+    },
+    {
+      "en": "orange-framed eyewear",
+      "zh": "橙框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 950,
+      "desc": "镜框为橙色的眼镜等眼部饰品",
+      "kw": "橙色框眼镜 / 橙色镜框 / 橙框眼镜饰品 / 眼镜 / 配饰"
+    },
+    {
+      "en": "pink-framed eyewear",
+      "zh": "粉框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5302,
+      "desc": "粉色镜框的眼镜",
+      "kw": "粉色框眼镜 / 粉红镜框眼镜 / 粉色眼镜框 / 粉红色镜框眼镜 / 粉色眼镜 / 配饰 / pink-framed glasses"
+    },
+    {
+      "en": "purple-framed eyewear",
+      "zh": "紫框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2071,
+      "desc": "紫色镜框的眼镜或墨镜",
+      "kw": "紫色镜框眼镜 / 紫框墨镜 / 紫色镜框墨镜 / 紫框眼镜架 / 紫色框眼镜 / 眼镜 / 配饰 / purple-framed glasses / 紫縁眼鏡"
+    },
+    {
+      "en": "red-framed eyewear",
+      "zh": "红框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45210,
+      "desc": "镜框为红色的眼镜、墨镜或单片镜",
+      "kw": "红色镜框眼镜 / 红边眼镜 / 红框墨镜 / 红色边框眼镜 / 红色眼镜 / 红眼镜 / 红框单片镜 / 红色镜架 / red framed glasses / red-rimmed glasses / red-framed glasses / 赤眼鏡"
+    },
+    {
+      "en": "white-framed eyewear",
+      "zh": "白框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7349,
+      "desc": "白色镜框的眼镜",
+      "kw": "白色镜框眼镜 / 白色框眼镜 / 白色眼镜框 / 白框眼镜架 / 眼镜 / 配饰 / white-framed glasses"
+    },
+    {
+      "en": "two-tone eyewear",
+      "zh": "双色镜框",
+      "rating": "g",
+      "nsfw": false,
+      "count": 127,
+      "desc": "镜框呈现两种颜色的眼镜",
+      "kw": "双色镜框眼镜 / 双色框架眼镜 / 双色眼镜框 / 双色镜架 / 眼镜 / 配饰"
+    },
+    {
+      "en": "yellow-framed eyewear",
+      "zh": "黄框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7402,
+      "desc": "黄色或金色镜框的眼镜",
+      "kw": "黄色镜框眼镜 / 金色镜框眼镜 / 金色框眼镜 / 眼镜 / 配饰 / yellow-framed glasses / gold-framed eyewear"
+    },
+    {
+      "en": "aqua-tinted eyewear",
+      "zh": "浅蓝色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 189,
+      "desc": "镜片带水色色调的眼镜",
+      "kw": "水色眼镜 / 水蓝色眼镜 / 浅蓝镜片眼镜 / 水色墨镜 / 水色护目镜 / 水色镜片 / 浅蓝色眼镜 / 眼镜"
+    },
+    {
+      "en": "blue-tinted eyewear",
+      "zh": "蓝色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5081,
+      "desc": "镜片带蓝色色调的眼镜",
+      "kw": "蓝镜片眼镜 / 蓝色镜片 / 蓝片眼镜 / 蓝镜眼镜 / 蓝镜片墨镜 / 蓝色墨镜 / 蓝墨镜 / 蓝色镜片墨镜"
+    },
+    {
+      "en": "brown-tinted eyewear",
+      "zh": "棕色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1201,
+      "desc": "镜片为棕色的眼镜或墨镜",
+      "kw": "棕色眼镜 / 茶色眼镜 / 褐色太阳镜 / 棕色太阳镜 / 浅棕色眼镜 / 棕色调眼镜 / 眼镜 / 配饰"
+    },
+    {
+      "en": "gradient-tinted eyewear",
+      "zh": "渐变色眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1210,
+      "desc": "镜片颜色呈平滑渐变效果的眼镜或太阳镜。",
+      "kw": "渐变镜片 / 渐变色墨镜 / 渐变染色眼镜 / 渐变太阳镜 / 色彩渐变眼镜 / 渐变滤镜眼镜 / 渐变色调镜片"
+    },
+    {
+      "en": "green-tinted eyewear",
+      "zh": "绿色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2549,
+      "desc": "绿色镜片的眼镜",
+      "kw": "绿镜片眼镜 / 绿色眼镜 / 绿色镜片墨镜 / 绿色有色眼镜 / 眼镜 / 配饰 / 墨镜"
+    },
+    {
+      "en": "grey-tinted eyewear",
+      "zh": "灰色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 156,
+      "desc": "灰色镜片的眼镜，颜色浅于黑色墨镜",
+      "kw": "灰色眼镜 / 灰镜片 / 灰色有色眼镜 / 灰色太阳镜 / 灰调眼镜 / 灰色镜片 / 配饰 / 眼镜"
+    },
+    {
+      "en": "multicolor-tinted eyewear",
+      "zh": "多色渐变眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 179,
+      "desc": "单片镜片呈多色渐变的染色眼镜",
+      "kw": "多色染色眼镜 / 多色渐变镜片 / 彩色镜片 / 多色墨镜 / 多色镜片眼镜 / 彩虹镜片 / 多色透明眼镜 / 多色眼镜"
+    },
+    {
+      "en": "rainbow-tinted eyewear",
+      "zh": "彩虹色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 56,
+      "desc": "镜片呈彩虹色的眼镜",
+      "kw": "彩虹色眼镜 / 彩虹眼镜 / 彩虹镜片眼镜 / 七彩镜片 / 彩色镜片眼镜 / 彩虹色调眼镜"
+    },
+    {
+      "en": "orange-tinted eyewear",
+      "zh": "橙色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8621,
+      "desc": "镜片带橙色色调的眼镜",
+      "kw": "橙色镜片墨镜 / 橙色太阳镜 / 橙色护目镜 / 橙色有色眼镜 / 橙镜片眼镜 / 眼镜 / 橙色 / 配饰"
+    },
+    {
+      "en": "pink-tinted eyewear",
+      "zh": "粉色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6142,
+      "desc": "粉色镜片的眼镜",
+      "kw": "粉红色眼镜 / 粉红色镜片眼镜 / 粉红眼镜 / 粉色墨镜 / 眼镜 / 配饰"
+    },
+    {
+      "en": "purple-tinted eyewear",
+      "zh": "紫色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6266,
+      "desc": "镜片为紫色的染色眼镜或太阳镜",
+      "kw": "紫色染色眼镜 / 紫镜片眼镜 / 紫色太阳镜 / 紫色墨镜 / 紫色护目镜 / 紫色眼镜 / 紫眼镜 / 眼镜"
+    },
+    {
+      "en": "red-tinted eyewear",
+      "zh": "红色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8390,
+      "desc": "镜片带红色着色的眼镜",
+      "kw": "红镜片眼镜 / 红色调眼镜 / 红玻璃眼镜 / 红色护目镜 / 红镜片墨镜 / 眼镜 / 配饰"
+    },
+    {
+      "en": "yellow-tinted eyewear",
+      "zh": "黄色镜片眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3763,
+      "desc": "黄色镜片的染色眼镜",
+      "kw": "黄色眼镜 / 黄片眼镜 / 黄色遮阳镜 / 黄色护目镜 / 黄色染色镜 / 黄色滤镜眼镜 / 眼镜 / 配饰"
+    },
+    {
+      "en": "animal-themed eyewear",
+      "zh": "动物主题眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31
+    },
+    {
+      "en": "cat eye-framed eyewear",
+      "zh": "猫眼眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 88,
+      "desc": "外眼角上挑的猫眼形镜框",
+      "kw": "猫眼镜框 / 猫眼框眼镜 / 猫眼眼镜框 / 上扬镜框"
+    },
+    {
+      "en": "food-themed eyewear",
+      "zh": "食物主题眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "heart-shaped eyewear",
+      "zh": "心形眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11762,
+      "desc": "心形镜框的眼镜",
+      "kw": "心形太阳镜 / 心形墨镜 / 爱心眼镜 / 心形镜框眼镜 / 心形眼镜框 / 爱心太阳镜 / 心形的眼镜 / 眼镜 / heart-shaped sunglasses / heart-shaped glasses"
+    },
+    {
+      "en": "rectangular eyewear",
+      "zh": "长方形眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11463,
+      "desc": "方形或矩形镜框的眼镜。",
+      "kw": "方形眼镜 / 方框眼镜 / 方眼镜 / 矩形镜框 / 眼镜 / 配饰 / rectangular glasses"
+    },
+    {
+      "en": "semi-circular eyewear",
+      "zh": "半圆框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 341,
+      "desc": "镜片呈半圆形的眼镜",
+      "kw": "半圆眼镜 / 半月形眼镜 / 半圆镜片眼镜 / 半圆形墨镜 / 半圆太阳镜 / 眼镜 / 配饰 / semicircular eyewear"
+    },
+    {
+      "en": "over-rim eyewear",
+      "zh": "上半框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5236,
+      "desc": "上边框宽、下半部分无框的眼镜。",
+      "kw": "下半无框眼镜 / 眉线眼镜 / 上框眼镜 / 粗眉框眼镜 / 半框眼镜 / 下半框眼镜 / 眼镜 / 配饰 / over rim glasses / over-rim glasses"
+    },
+    {
+      "en": "under-rim eyewear",
+      "zh": "下框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40201,
+      "desc": "下半有框、上半无框的眼镜。",
+      "kw": "下半框眼镜 / 下缘框眼镜 / 下边框眼镜 / 半框眼镜（下框） / 眼镜 / 配饰 / under rim glasses / under-rim glasses / アンダーリム"
+    },
+    {
+      "en": "teardrop-framed glasses",
+      "zh": "泪滴框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1320,
+      "desc": "一侧镜框带有泪滴形装饰的眼镜。",
+      "kw": "泪珠框眼镜 / 泪滴镜框眼镜 / 泪珠眼镜 / 泪滴装饰眼镜 / 蛤蟆镜 / 眼镜 / 墨镜 / glasses with tear"
+    },
+    {
+      "en": "triangular eyewear",
+      "zh": "三角眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1186,
+      "desc": "三角形镜片的眼镜或护目镜",
+      "kw": "三角形眼镜 / 三角护目镜 / 三角形护目镜 / 三角镜片 / 三角形镜框 / 眼镜 / 配饰"
+    },
+    {
+      "en": "tortoiseshell-framed eyewear",
+      "zh": "玳瑁框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57,
+      "desc": "镜框呈玳瑁壳花纹的眼镜",
+      "kw": "玳瑁眼镜 / 玳瑁纹眼镜 / 龟甲纹眼镜 / 玳瑁纹框眼镜 / 仿玳瑁眼镜 / 玳瑁框 / 玳瑁花纹眼镜"
+    },
+    {
+      "en": "alternate eyewear",
+      "zh": "替换眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 206,
+      "desc": "角色戴上与平时不同的眼镜",
+      "kw": "换用眼镜 / 不同眼镜 / 备用镜 / 眼镜 / 配饰 / alternate glasses"
+    },
+    {
+      "en": "bespectacled",
+      "zh": "戴眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31684,
+      "desc": "平时不戴眼镜的角色戴上眼镜",
+      "kw": "佩戴眼镜 / 戴了眼镜 / 眼镜造型 / 戴眼镜的 / 眼镜 / 配饰 / メガネプラス / リュネット・パッチェ / 東方眼鏡娘"
+    },
+    {
+      "en": "broken eyewear",
+      "zh": "破损眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1411,
+      "desc": "镜片碎裂或镜架损坏的眼镜",
+      "kw": "破碎的眼镜 / 破掉的眼镜 / 损坏的眼镜 / 坏掉的眼镜 / 碎裂的眼镜 / 镜片碎裂 / 镜架损坏 / 烂眼镜 / broken glasses"
+    },
+    {
+      "en": "crooked eyewear",
+      "zh": "歪斜眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 485,
+      "desc": "未在鼻梁上放正、歪斜的眼镜",
+      "kw": "眼镜歪了 / 歪眼镜 / 滑落眼镜 / 眼镜滑下 / 歪戴眼镜 / 歪掉的眼镜 / 眼镜 / eyewear slip / ずり落ち眼鏡"
+    },
+    {
+      "en": "eyewear around neck",
+      "zh": "眼镜挂脖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 354,
+      "desc": "眼镜挂在脖子上，如用眼镜链",
+      "kw": "脖子上挂眼镜 / 眼镜挂颈 / 挂脖眼镜 / 眼镜戴在脖子上 / 眼镜垂于胸前 / 眼镜挂在脖子上 / 眼镜 / 配饰"
+    },
+    {
+      "en": "eyewear around wrist",
+      "zh": "眼睛挂在手腕上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "eyewear on head",
+      "zh": "头顶眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 103313,
+      "desc": "眼镜戴在头顶而非眼前。",
+      "kw": "眼镜戴头顶 / 眼镜推到头上 / 眼镜架在头上 / 眼镜在头顶 / 墨镜戴在头上 / 太阳镜戴在头上 / 眼镜 / glasses on head / sunglasses on head"
+    },
+    {
+      "en": "eyewear on headwear",
+      "zh": "眼镜挂在头饰上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4097,
+      "desc": "眼镜架在帽子等头饰上而非眼睛上。",
+      "kw": "眼镜架在帽子 / 眼镜戴在帽子上 / 帽子上的眼镜 / 头饰眼镜 / 头饰上戴眼镜 / 眼镜 / 配饰"
+    },
+    {
+      "en": "eyewear strap",
+      "zh": "眼镜挂绳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5214,
+      "desc": "防止眼镜脱落的固定带或链条。",
+      "kw": "眼镜链 / 眼镜绳 / 眼镜带 / 眼镜防掉绳 / 眼镜固定带 / 眼镜挂链 / 眼镜挂带 / 眼镜防滑绳 / eyewear chain / glasses chain / メガネチェーン / メガネストラップ"
+    },
+    {
+      "en": "eyewear switch",
+      "zh": "交换眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 181,
+      "desc": "两个角色互戴或试戴对方的眼镜",
+      "kw": "互换眼镜 / 眼镜交换 / 试戴对方眼镜 / 换眼镜戴 / 交换彼此的眼镜 / 眼镜 / 互动 / glasses switch"
+    },
+    {
+      "en": "eyewear view",
+      "zh": "眼镜视角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 264,
+      "desc": "透过镜片的第一人称视角",
+      "kw": "镜片视角 / 护目镜视角 / 眼镜画面 / 透过眼镜视角 / 视角 / POV"
+    },
+    {
+      "en": "fogged glasses",
+      "zh": "起雾眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "蒙上水汽变得不透明的眼镜",
+      "kw": "起雾的眼镜 / 眼镜起雾 / 蒙雾眼镜 / 水汽眼镜 / 镜片起雾 / 哈气眼镜"
+    },
+    {
+      "en": "no eyewear",
+      "zh": "无眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4988,
+      "desc": "通常戴眼镜的角色没有戴眼镜",
+      "kw": "没戴眼镜 / 未戴眼镜 / 摘下眼镜 / 不戴眼镜 / 摘了眼镜 / 眼镜摘掉 / 裸眼 / no glasses / 眼鏡なし"
+    },
+    {
+      "en": "unworn eyewear",
+      "zh": "未佩戴的眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22692,
+      "desc": "眼镜或墨镜未佩戴，架在头上不算；与无眼镜不同",
+      "kw": "没戴的眼镜 / 摘下的眼镜 / 脱下的眼镜 / 取下的眼镜 / 眼镜未佩戴 / 摘掉的眼镜 / 不戴的眼镜 / 眼镜 / glasses off / glasses removed / sunglasses removed / eyewear removed"
+    },
+    {
+      "en": "eyewear hang",
+      "zh": "挂眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2816,
+      "desc": "眼镜或墨镜挂在衣物上，未佩戴时暂放",
+      "kw": "眼镜挂在衣服上 / 眼镜挂脖 / 眼镜挂衣领 / 眼镜别在衣服上 / 墨镜挂在衣服上 / 眼镜 / 配饰 / eyewear on clothing / eyewear on shirt"
+    },
+    {
+      "en": "nose pads",
+      "zh": "鼻托",
+      "rating": "g",
+      "nsfw": false,
+      "count": 376,
+      "desc": "眼镜架靠近鼻梁处的小椭圆垫。",
+      "kw": "眼镜鼻托 / 镜鼻垫 / 镜鼻托 / 眼镜鼻垫 / 眼镜配件 / 配饰 / 细节"
+    },
+    {
+      "en": "3d glasses",
+      "zh": "3D眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 552,
+      "desc": "看3D电影用的一红一蓝镜片眼镜",
+      "kw": "立体眼镜 / 红蓝眼镜 / 红蓝3D眼镜 / 三D眼镜 / 3D立体眼镜 / 红蓝立体眼镜 / 眼镜 / 配饰 / 3dメガネ / 3d眼鏡 / 赤青メガネ"
+    },
+    {
+      "en": "aviator glasses",
+      "zh": "飞行员镜框眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 84,
+      "desc": "双鼻梁、泪滴形镜片的飞行员式镜架",
+      "kw": "飞行墨镜 / 飞行员式眼镜 / 飞行眼镜 / 飞行员镜框 / 飞行员太阳镜 / 雷朋眼镜"
+    },
+    {
+      "en": "coke-bottle glasses",
+      "zh": "瓶底眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2695,
+      "desc": "镜片厚如可乐瓶底、带漩涡纹的圆眼镜，常表现宅或书呆子角色。",
+      "kw": "酒瓶底眼镜 / 漩涡眼镜 / 圈圈眼镜 / 厚瓶底眼镜 / 老土眼镜 / 螺旋眼镜 / 深厚度数眼镜 / spiral glasses / swirly glasses / 瓶底眼鏡 / ぐるぐる眼鏡"
+    },
+    {
+      "en": "diving mask",
+      "zh": "潜水面罩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3371,
+      "desc": "覆盖眼鼻的潜水用面镜，区别于只遮眼的泳镜",
+      "kw": "潜水面镜 / 潜水镜 / 潜水眼镜 / 浮潜面镜 / 浮潜面罩 / 水肺面镜 / 面镜 / 潜水装备"
+    },
+    {
+      "en": "novelty glasses",
+      "zh": "趣味搞怪眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 415,
+      "desc": "镜框造型花哨或带装饰的眼镜。",
+      "kw": "新奇眼镜 / 创意眼镜 / 搞怪镜框 / 花哨眼镜 / 装饰眼镜 / 趣味眼镜 / 造型眼镜 / 搞怪墨镜 / fancy glasses"
+    },
+    {
+      "en": "star-shaped eyewear",
+      "zh": "星形眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1841,
+      "desc": "镜片为星形的眼镜",
+      "kw": "星星眼镜 / 星型眼镜 / 星形镜片眼镜 / 星星镜片 / 五角星眼镜 / 星形墨镜 / 眼镜 / 配饰"
+    },
+    {
+      "en": "aviator goggles",
+      "zh": "飞行护目镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 765,
+      "desc": "飞行员佩戴的防风护目镜，镜片大，周围有皮革或橡胶垫。",
+      "kw": "飞行员护目镜 / 航空风镜 / 飞行风镜 / 驾驶风镜 / 防风镜 / 护目镜 / 航空风 / flight goggles / パイロットゴーグル"
+    },
+    {
+      "en": "groucho glasses",
+      "zh": "滑稽眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 440,
+      "desc": "带眉毛、大鼻子和假胡子的搞笑伪装眼镜。",
+      "kw": "搞笑眼镜 / 大鼻子眼镜 / 假胡子眼镜 / 鼻眼镜 / 整蛊眼镜 / 丑角眼镜 / 搞笑道具 / funny glasses / グルーチョ眼鏡 / 鼻メガネ / 鼻眼鏡"
+    },
+    {
+      "en": "lorgnette",
+      "zh": "长柄眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29
+    },
+    {
+      "en": "opaque glasses",
+      "zh": "反光眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8467,
+      "desc": "镜片反光或不透明而遮住眼睛的眼镜",
+      "kw": "眼镜反光 / 不透明眼镜 / 遮眼眼镜 / 镜片反光 / 镜片遮眼 / 发光眼镜 / 眼镜 / glasses shine"
+    },
+    {
+      "en": "opera glasses",
+      "zh": "观剧镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 111,
+      "desc": "带手柄的迷你双筒观剧镜，也可作饰品",
+      "kw": "看戏望远镜 / 剧院望远镜 / 迷你望远镜 / 手柄望远镜 / 观赏镜 / 剧场镜 / 观剧望远镜 / 眼镜"
+    },
+    {
+      "en": "pince-nez",
+      "zh": "夹鼻眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7304,
+      "desc": "靠夹鼻梁固定的眼镜，无镜腿",
+      "kw": "无镜腿眼镜 / 鼻夹式眼镜 / 钢丝夹鼻眼镜 / 眼镜 / 配饰 / pince nez"
+    },
+    {
+      "en": "safety glasses",
+      "zh": "安全眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1221,
+      "desc": "实验室或射击时防飞溅物的眼镜。",
+      "kw": "护目镜 / 防护镜 / 劳保眼镜 / 防护目镜 / 眼镜 / 防护用品 / shooting glasses / safety goggles / 保護眼鏡"
+    },
+    {
+      "en": "scouter",
+      "zh": "战斗力探测器",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1378,
+      "desc": "戴在耳侧的单镜片装置，可显示目标战斗力等数据（源自龙珠Z）",
+      "kw": "史考特 / 史考塔 / 战斗力侦测器 / 侦测器 / 龙珠探测器 / 单眼探测器 / 战斗力测试器 / 能量探测器 / スカウター"
+    },
+    {
+      "en": "ski goggles",
+      "zh": "滑雪镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1537,
+      "desc": "滑雪时使用的护目镜，通常单片大镜片",
+      "kw": "滑雪护目镜 / 雪镜 / 滑雪眼镜 / 雪地护目镜 / 眼镜 / 眼饰 / 护目镜 / 运动装备 / snow goggles"
+    },
+    {
+      "en": "x-ray glasses",
+      "zh": "透视眼镜",
+      "rating": "q",
+      "nsfw": true,
+      "count": 437,
+      "desc": "能产生透视效果的眼镜。",
+      "kw": "X光眼镜 / X射线眼镜 / 透视镜 / 透視眼鏡 / 道具 / 透视 / 透視 / 透視メガネ"
+    },
+    {
+      "en": "aviator sunglasses",
+      "zh": "飞行员墨镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2363,
+      "desc": "双鼻梁、泪滴形镜片的飞行员墨镜",
+      "kw": "雷朋墨镜 / 蛤蟆镜 / 泪滴形太阳镜 / 墨镜 / 配饰 / aviator glasses"
+    },
+    {
+      "en": "kamina shades",
+      "zh": "卡米那墨镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 837,
+      "desc": "《天元突破》卡米那的尖角墨镜。",
+      "kw": "卡米那眼镜 / 卡米纳墨镜 / 卡米那太阳镜 / 卡米那护目镜 / 天元突破卡米那眼镜 / 卡米那风镜 / 墨镜 / 眼镜 / kamina glasses"
+    },
+    {
+      "en": "shutter shades",
+      "zh": "百叶窗眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 280,
+      "desc": "镜片做成百叶窗细条造型的墨镜",
+      "kw": "百叶窗太阳镜 / 百叶窗帘眼镜 / 条状墨镜 / 百叶镜片太阳镜 / 百叶窗式墨镜 / 条杆太阳镜 / 眼镜"
+    },
+    {
+      "en": "simon shades",
+      "zh": "西蒙墨镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 116,
+      "desc": "《天元突破》成年西蒙所戴的墨镜",
+      "kw": "成年西蒙墨镜 / 天元突破西蒙墨镜 / 西蒙太阳镜 / 西蒙的太阳眼镜 / 赛门·谢兹 / 角色 / 眼镜"
+    },
+    {
+      "en": "pixel sunglasses",
+      "zh": "像素墨镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 757,
+      "desc": "像素风格墨镜，常配“Deal with it”梗使用",
+      "kw": "像素太阳镜 / 像素风墨镜 / 8-bit墨镜 / 马赛克墨镜 / 像素风格太阳镜 / 眼镜 / 眼饰 / 墨镜"
+    },
+    {
+      "en": "contact lens",
+      "zh": "隐形眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 157,
+      "desc": "画面中可见或明确提及的隐形眼镜。",
+      "kw": "隐形镜片 / 接触镜 / 角膜接触镜 / 美瞳 / 隐形眼镜片 / 透明隐形眼镜 / 眼镜 / 配饰"
+    },
+    {
+      "en": "visor",
+      "zh": "帽檐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2178,
+      "desc": "标签含义模糊，指多种眼部防护或显示装置",
+      "kw": "护目镜 / 眼镜 / 配件"
+    },
+    {
+      "en": "blindfold",
+      "zh": "蒙眼",
+      "rating": "q",
+      "nsfw": true,
+      "count": 31119,
+      "desc": "蒙住双眼的布制遮眼物，与睡眠眼罩区分",
+      "kw": "眼罩 / 遮眼布 / 蒙眼带 / 遮眼物 / 蒙眼罩 / 蒙眼布条 / 束缚 / blindfolded / 目隠し"
+    },
+    {
+      "en": "aqua assault visor",
+      "zh": "水色突击面罩",
+      "rating": "g",
+      "count": 523,
+      "desc": "水蓝色突击面罩，属头盔部件",
+      "kw": "浅蓝突击面罩 / 蓝绿色突击面罩 / 水蓝突击面罩 / 水色战术面罩 / 水色突击护目镜 / 水色突击面镜 / 战术护目镜 / 水色眼罩"
+    },
+    {
+      "en": "assault visor",
+      "zh": "突击面罩",
+      "rating": "g",
+      "count": 8572,
+      "desc": "科幻作品中头盔或机甲头部的玻璃面罩",
+      "kw": "突击面甲 / 战术面罩 / 战术面甲 / 头盔面罩 / 机甲面罩 / 突击护目镜 / 面罩 / 头盔"
+    },
+    {
+      "en": "asymmetrical eyewear",
+      "zh": "不对称眼镜",
+      "rating": "g",
+      "count": 550,
+      "desc": "左右镜片形状或设计不同的眼镜",
+      "kw": "左右不对称眼镜 / 不对称镜片 / 异形眼镜 / 不同框眼镜 / 不对称镜框 / 左右不同眼镜 / 眼镜 / 配饰"
+    },
+    {
+      "en": "bandages over eyes",
+      "zh": "眼部绷带",
+      "rating": "g",
+      "count": 772,
+      "desc": "双眼被绷带覆盖",
+      "kw": "绷带蒙眼 / 蒙眼绷带 / 绷带遮眼 / 眼睛上缠绷带 / 缠眼绷带 / 绷带 / 伤口 / bandaged eyes / bandage over eyes"
+    },
+    {
+      "en": "bird mask",
+      "zh": "鸟面具",
+      "rating": "g",
+      "count": 1901,
+      "desc": "带鸟类特征的鸟形面具，如鸟喙、羽毛等。",
+      "kw": "鸟形面具 / 鸟类面具 / 鸟嘴面具 / 禽鸟面具 / 面具 / 头饰 / 配饰"
+    },
+    {
+      "en": "black mask",
+      "zh": "黑色面具",
+      "rating": "g",
+      "count": 16059,
+      "desc": "遮住面部的黑色面具",
+      "kw": "黑面具 / 黑色面罩 / 黑面罩 / 面具 / 配饰"
+    },
+    {
+      "en": "blindfold mask",
+      "zh": "蒙眼面罩",
+      "rating": "g",
+      "count": 3476,
+      "desc": "只遮住双眼、形似眼罩的面罩。",
+      "kw": "遮眼面罩 / 蒙眼面具 / 掩眼罩 / 眼罩式面罩 / 盲眼罩 / 遮眼面具 / 蒙眼眼罩 / 只遮眼面罩"
+    },
+    {
+      "en": "blue assault visor",
+      "zh": "蓝色突击面罩",
+      "rating": "g",
+      "count": 1077,
+      "desc": "蓝色透明战术面罩，常配合头盔使用",
+      "kw": "蓝色战术面罩 / 蓝色突击面甲 / 蓝色防爆面罩 / 蓝色防弹面罩 / 蓝色突击护目镜 / 蓝色战术护目镜 / 军用护目镜"
+    },
+    {
+      "en": "blue mask",
+      "zh": "蓝色面具",
+      "rating": "g",
+      "count": 1204,
+      "desc": "遮住面部的蓝色面具",
+      "kw": "蓝色面罩 / 蓝面具 / 蓝色口罩 / 蓝口罩 / 面具 / 道具"
+    },
+    {
+      "en": "broken mask",
+      "zh": "破碎的面具",
+      "rating": "g",
+      "count": 1450,
+      "desc": "面具出现裂缝或缺损。",
+      "kw": "破损的面具 / 裂开的面具 / 碎裂面具 / 面具破碎 / 坏掉的面具 / 破裂面具 / 损坏 / 面具"
+    },
+    {
+      "en": "cat mask",
+      "zh": "猫面具",
+      "rating": "g",
+      "count": 1576,
+      "desc": "带有猫特征的面具",
+      "kw": "猫咪面具 / 猫脸面具 / 猫形面具 / 猫面具头饰 / 面具 / 动物"
+    },
+    {
+      "en": "character mask",
+      "zh": "角色面具",
+      "rating": "g",
+      "count": 992,
+      "desc": "模仿特定角色脸部的面具",
+      "kw": "动漫角色面具 / 人物面具 / 角色脸面具 / 卡通面具 / cos面具 / 面具 / 道具 / お面"
+    },
+    {
+      "en": "colored blindfold",
+      "zh": "彩色蒙眼布",
+      "rating": "g",
+      "count": 1020,
+      "desc": "黑白色以外的彩色蒙眼布。",
+      "kw": "彩色眼罩 / 彩色蒙眼巾 / 彩色遮眼布 / 彩色蒙眼睛布 / 眼罩 / 蒙眼 / red blindfold / orange blindfold / yellow blindfold / green blindfold"
+    },
+    {
+      "en": "colored eyepatch",
+      "zh": "彩色眼罩",
+      "rating": "g",
+      "count": 845,
+      "desc": "黑白色以外的彩色眼罩",
+      "kw": "有色眼罩 / 彩色独眼罩 / 彩色海盗眼罩 / 彩色单眼罩 / 眼罩 / 配饰 / red eyepatch / orange eyepatch / yellow eyepatch / green eyepatch"
+    },
+    {
+      "en": "cracked kawaii mask",
+      "zh": "破裂的可爱面具",
+      "rating": "g",
+      "count": 582,
+      "desc": "参照黏土可爱面具照片的再创作，面具破损露出苦恼真容",
+      "kw": "破碎可爱面具 / 可爱面具破裂 / 碎裂可爱面具 / 裂开的可爱面具 / 破损面具 / 可爱面具"
+    },
+    {
+      "en": "cracked mask",
+      "zh": "破裂的面具",
+      "rating": "g",
+      "count": 959,
+      "desc": "出现裂纹但未完全碎掉的面具",
+      "kw": "裂纹面具 / 裂痕面具 / 裂开的面具 / 破碎面具 / 有裂痕的面具 / 破碎的面具 / 面具 / 道具"
+    },
+    {
+      "en": "domino mask",
+      "zh": "多米诺面具",
+      "rating": "g",
+      "count": 7882,
+      "desc": "遮住眼周的半脸小面具，常见于假面舞会。",
+      "kw": "半脸眼罩 / 半脸面具 / 假面舞会面具 / 化妆舞会面具 / 眼罩式面具 / 眼睛面具 / 眼部面具 / 遮眼面具 / ドミノマスク"
+    },
+    {
+      "en": "eye mask",
+      "zh": "眼部面具",
+      "rating": "g",
+      "count": 24312,
+      "desc": "只遮住眼部周围、眼睛仍外露的面具。",
+      "kw": "眼罩面具 / 半面罩 / 眼周面具 / 遮眼面具 / 露眼面具 / 假面眼罩 / 蝴蝶眼罩 / 蒙眼布 / eyemask"
+    },
+    {
+      "en": "face shield",
+      "zh": "护面罩",
+      "rating": "g",
+      "count": 870,
+      "desc": "保护面部的透明防护面罩。",
+      "kw": "面罩 / 防护面罩 / 透明面罩 / 脸部防护罩 / 防护装备 / 面部防护 / 安全"
+    },
+    {
+      "en": "flower eyepatch",
+      "zh": "花朵眼罩",
+      "rating": "g",
+      "count": 819,
+      "desc": "带花朵装饰的眼罩",
+      "kw": "花眼罩 / 花朵眼带 / 花饰眼罩 / 带花眼罩 / 花朵单眼罩 / 眼罩 / 配饰"
+    },
+    {
+      "en": "gas mask",
+      "zh": "防毒面具",
+      "rating": "g",
+      "count": 5724,
+      "desc": "遮住口鼻与眼、可过滤毒气的面具。",
+      "kw": "防毒面罩 / 防毒口罩 / 毒气面具 / 防化面具 / 防毒面具罩 / 防毒呼吸器 / 面具 / 防护装备 / gas-mask / ガスマスク"
+    },
+    {
+      "en": "goggles on head",
+      "zh": "护目镜戴头上",
+      "rating": "g",
+      "count": 52636,
+      "desc": "把护目镜架在头顶",
+      "kw": "护目镜架头顶 / 护目镜顶头上 / 护目镜戴在头顶 / 头上护目镜 / 风镜戴头上 / 风镜架头顶 / 护目镜上头 / 护目镜置于头顶 / goggle on head"
+    },
+    {
+      "en": "goggles on headwear",
+      "zh": "帽上护目镜",
+      "rating": "g",
+      "count": 9503,
+      "desc": "把护目镜架在帽子或头盔上",
+      "kw": "帽子护目镜 / 头盔护目镜 / 护目镜架在帽上 / 护目镜戴在帽上 / 头戴护目镜 / 头饰上的护目镜 / 护目镜 / 头饰 / goggles on hat / goggles on helmet"
+    },
+    {
+      "en": "green assault visor",
+      "zh": "绿色突击面罩",
+      "rating": "g",
+      "count": 1742,
+      "desc": "绿色突击/战术面罩",
+      "kw": "绿色战术面罩 / 绿色护面 / 绿色战斗面罩 / 绿色突击护目镜 / 绿色战术护目镜 / 军用护目镜"
+    },
+    {
+      "en": "grey mask",
+      "zh": "灰色面具",
+      "rating": "g",
+      "count": 554,
+      "desc": "颜色为灰色的面具",
+      "kw": "灰面具 / 灰色面罩 / 灰面罩 / 灰色假面 / 灰色口罩 / 口罩 / 防护用品 / 面部防护"
+    },
+    {
+      "en": "half eye mask",
+      "zh": "单眼眼罩",
+      "rating": "g",
+      "count": 906,
+      "desc": "只遮住一只眼睛的眼罩，另一种常见于中二角色",
+      "kw": "半眼眼罩 / 遮单眼眼罩 / 单眼遮罩 / 单边眼罩 / 半脸眼罩 / 只遮一只眼的眼罩 / 半眼罩 / 眼罩"
+    },
+    {
+      "en": "half mask",
+      "zh": "半面具",
+      "rating": "g",
+      "count": 3098,
+      "desc": "只遮住半张脸的面具。",
+      "kw": "半脸面具 / 半遮面具 / 半边面具 / 遮半脸面具 / 半个面具 / 面具 / 配饰"
+    },
+    {
+      "en": "head-mounted display",
+      "zh": "头戴式显示器",
+      "rating": "g",
+      "count": 6701,
+      "desc": "完全遮眼的头戴显示设备，常指VR头显。",
+      "kw": "头戴显示器 / 头显 / VR眼镜 / 虚拟现实头显 / 头戴式显示设备 / 头戴显示装置 / 科幻 / vr visor / vr headset / vr goggles / head mounted display"
+    },
+    {
+      "en": "heart eyepatch",
+      "zh": "心形眼罩",
+      "rating": "g",
+      "count": 965,
+      "desc": "心形的眼罩",
+      "kw": "心形眼带 / 爱心眼罩 / 心型眼罩 / 心形单眼罩 / 眼罩 / 配饰"
+    },
+    {
+      "en": "heterochromatic eyewear",
+      "zh": "异色眼镜",
+      "rating": "g",
+      "count": 1301,
+      "desc": "左右镜片颜色不同的眼镜。",
+      "kw": "双色眼镜 / 异色镜片 / 左右不同色眼镜 / 阴阳眼镜 / 眼镜 / 配饰 / 异色"
+    },
+    {
+      "en": "hockey mask",
+      "zh": "曲棍球面具",
+      "rating": "g",
+      "count": 846,
+      "desc": "冰球守门员常戴的面具，如杰森的面具",
+      "kw": "冰球面具 / 曲棍球守门员面具 / 冰球守门员面具 / 杰森面具 / 球棍面具 / 面具 / 运动装备"
+    },
+    {
+      "en": "horned mask",
+      "zh": "带角面具",
+      "rating": "g",
+      "count": 2469,
+      "desc": "为美观设计、带假角的面具",
+      "kw": "角面具 / 有角面具 / 饰角面具 / 假角面具 / 带角面罩 / 角饰面具 / 面具 / 头饰"
+    },
+    {
+      "en": "ko-omote mask",
+      "zh": "小面面具",
+      "rating": "g",
+      "count": 598,
+      "desc": "能乐中表现年轻女性的小面面具",
+      "kw": "小面 / 能乐小面 / 能面小面 / 年轻女性能面具 / 小面能面具 / 面具 / 日本风"
+    },
+    {
+      "en": "mask on head",
+      "zh": "头上的面具",
+      "rating": "g",
+      "count": 29230,
+      "desc": "面具未遮脸，戴在头顶或额头上",
+      "kw": "面具戴头上 / 掀到头上的面具 / 面具推到头上 / 头上面具 / 未遮脸面具 / 面具推上 / 头顶面具 / 面具"
+    },
+    {
+      "en": "mask over one eye",
+      "zh": "单眼面罩",
+      "rating": "g",
+      "count": 1526,
+      "desc": "只遮住一只眼睛的面具，被遮的眼可完全挡住或留有细缝",
+      "kw": "单眼面具 / 遮单眼面罩 / 只遮一眼的面罩 / 半边面罩 / 遮住一眼的面具 / 单眼眼罩 / 面具 / 遮挡"
+    },
+    {
+      "en": "masked",
+      "zh": "蒙面",
+      "rating": "g",
+      "count": 2469,
+      "desc": "脸戴面具遮住面部",
+      "kw": "戴面具 / 面具遮脸 / 遮脸 / 蒙面人 / 戴面具的 / 面具 / 伪装"
+    },
+    {
+      "en": "masquerade mask",
+      "zh": "化装舞会面具",
+      "rating": "g",
+      "count": 1407,
+      "desc": "化装舞会上隐藏身份的华丽面具。",
+      "kw": "假面舞会面具 / 舞会面具 / 化妆舞会面具 / 假面面具 / 遮眼面具 / 面具 / 配饰"
+    },
+    {
+      "en": "medical eyepatch",
+      "zh": "医用眼罩",
+      "rating": "g",
+      "count": 10385,
+      "desc": "用于治疗的眼罩，常为白色方形并带透气孔",
+      "kw": "医疗眼罩 / 医用眼贴 / 治疗眼罩 / 单眼眼罩 / 眼罩 / 医疗用品 / 眼帯"
+    },
+    {
+      "en": "metal mask",
+      "zh": "金属面具",
+      "rating": "g",
+      "count": 561,
+      "desc": "用金属制成、遮住脸部的面具。",
+      "kw": "铁面具 / 钢面具 / 金属制面具 / 铁假面 / 金属面罩 / 钢铁面具 / 面具 / 护具 / steel mask / 铁仮面"
+    },
+    {
+      "en": "monocle chain",
+      "zh": "单片眼镜链",
+      "rating": "g",
+      "count": 904,
+      "desc": "连接单片眼镜与衣物以防跌落的链子。",
+      "kw": "单片镜链 / 眼镜链 / 单片眼镜挂链 / 单镜链 / 眼镜挂链 / 单片眼镜系链 / 配饰"
+    },
+    {
+      "en": "mouth veil",
+      "zh": "遮口面纱",
+      "rating": "g",
+      "count": 5747,
+      "desc": "只遮住口鼻、不遮眼睛的面纱。",
+      "kw": "面部下半部分面纱 / 遮鼻面纱 / 半脸面纱 / 口鼻面纱 / 蒙面纱 / 面纱 / 头饰 / 配饰 / フェイスベール"
+    },
+    {
+      "en": "ninja mask",
+      "zh": "忍者面罩",
+      "rating": "g",
+      "count": 2743,
+      "desc": "遮住下半张脸、只露眼睛的忍者面罩",
+      "kw": "忍者面具 / 忍者蒙面 / 忍者口罩 / 忍者覆面 / 忍者装备 / 日本风格 / 面頬 / カラスマスク"
+    },
+    {
+      "en": "no blindfold",
+      "zh": "没戴蒙眼布",
+      "rating": "g",
+      "count": 2372,
+      "desc": "通常蒙眼的角色没有戴蒙眼布。",
+      "kw": "不戴眼罩 / 无蒙眼 / 没蒙眼 / 摘掉蒙眼布 / 没有蒙眼 / 未蒙眼 / 无眼罩"
+    },
+    {
+      "en": "no eyepatch",
+      "zh": "不戴眼罩",
+      "rating": "g",
+      "count": 1813,
+      "desc": "通常戴眼罩的角色未佩戴眼罩",
+      "kw": "没戴眼罩 / 去掉眼罩 / 无眼罩 / 未戴眼罩 / 没有眼罩 / 无眼部遮挡"
+    },
+    {
+      "en": "no mask",
+      "zh": "未戴面具",
+      "rating": "g",
+      "count": 2673,
+      "desc": "通常戴口罩或面具的角色没有戴",
+      "kw": "没戴面具 / 摘下面具 / 无面具 / 不戴口罩 / 未戴口罩 / 没戴口罩"
+    },
+    {
+      "en": "noh mask",
+      "zh": "能面",
+      "rating": "g",
+      "count": 2212,
+      "desc": "日本传统能剧使用的面具",
+      "kw": "能剧面具 / 能面具 / 日本能面 / 能乐面具 / 面具 / 日本风"
+    },
+    {
+      "en": "oni mask",
+      "zh": "鬼面",
+      "rating": "g",
+      "count": 3912,
+      "desc": "日本传统的鬼面具，与般若面不同",
+      "kw": "鬼面具 / 日本鬼面 / 恶鬼面具 / 鬼脸面具 / 赤鬼面具 / 青鬼面具 / 鬼头面具 / 面具"
+    },
+    {
+      "en": "orange goggles",
+      "zh": "橙色护目镜",
+      "rating": "g",
+      "count": 933,
+      "desc": "镜片或镜框为橙色的护目镜",
+      "kw": "橙色风镜 / 橘色护目镜 / 橘色风镜 / 橙护目镜 / 护目镜 / 眼镜 / 配饰"
+    },
+    {
+      "en": "oxygen mask",
+      "zh": "氧气面罩",
+      "rating": "g",
+      "count": 953,
+      "desc": "输送氧气或麻醉气体的面罩。",
+      "kw": "氧气罩 / 供氧面罩 / 吸氧面罩 / 呼吸面罩 / 医用氧气面罩 / 输氧面罩 / 医疗器械 / 面罩 / 酸素マスク"
+    },
+    {
+      "en": "partially opaque glasses",
+      "zh": "部分不透明眼镜",
+      "rating": "g",
+      "count": 617,
+      "desc": "只有一片镜片或部分镜片不透明的眼镜",
+      "kw": "半透明眼镜 / 单边不透明眼镜 / 半透眼镜 / 半镜片墨镜 / 半透明镜片 / 眼镜 / 配饰 / half opaque glasses"
+    },
+    {
+      "en": "pink mask",
+      "zh": "粉色面具",
+      "rating": "g",
+      "count": 525,
+      "desc": "遮面用的粉色面具",
+      "kw": "粉红色面具 / 粉红面具 / 粉色面罩 / 粉红色面罩 / 粉面罩 / 粉色口罩 / 口罩 / 面具"
+    },
+    {
+      "en": "print eyepatch",
+      "zh": "印花眼罩",
+      "rating": "g",
+      "count": 912,
+      "desc": "表面印有图案的眼罩。",
+      "kw": "图案眼罩 / 花案眼罩 / 带图案眼罩 / 印花单眼罩 / 眼罩 / 配饰"
+    },
+    {
+      "en": "purple mask",
+      "zh": "紫色面具",
+      "rating": "g",
+      "count": 641,
+      "desc": "紫色面具，遮住面部的道具",
+      "kw": "紫色面罩 / 紫面具 / 紫色口罩 / 紫色假面 / 面具 / 道具"
+    },
+    {
+      "en": "rabbit mask",
+      "zh": "兔子面具",
+      "rating": "g",
+      "count": 583,
+      "desc": "带兔子特征的面具",
+      "kw": "兔面具 / 兔子假面 / 兔脸面具 / 兔头面具 / 面具 / 动物 / 兔子 / bunny mask"
+    },
+    {
+      "en": "red mask",
+      "zh": "红色面具",
+      "rating": "g",
+      "count": 4074,
+      "desc": "遮住面部的红色面具或面罩。",
+      "kw": "红面具 / 红色面罩 / 红面罩 / 面具 / 道具"
+    },
+    {
+      "en": "respirator",
+      "zh": "呼吸器",
+      "rating": "g",
+      "count": 3898,
+      "desc": "遮住口鼻、带滤芯的半面式呼吸防护面罩",
+      "kw": "防毒面具 / 半面罩 / 防尘面罩 / 防护面罩 / 呼吸面罩 / 过滤面罩 / 半面式防毒面具 / 面具"
+    },
+    {
+      "en": "see-through mask",
+      "zh": "透明面具",
+      "rating": "g",
+      "count": 1112,
+      "desc": "透明或半透明的面具。",
+      "kw": "半透明面具 / 透视面具 / 透明面罩 / 薄纱面具 / 可透视面具 / 面具 / transparent mask"
+    },
+    {
+      "en": "skull mask",
+      "zh": "骷髅面具",
+      "rating": "g",
+      "count": 3318,
+      "desc": "骷髅形状的面具",
+      "kw": "骷髅面罩 / 骷髅脸面具 / 骸骨面具 / 面具 / 恐怖"
+    },
+    {
+      "en": "sleep mask",
+      "zh": "遮光眼罩",
+      "rating": "g",
+      "count": 6054,
+      "desc": "睡觉时遮光用的眼罩",
+      "kw": "睡眠眼罩 / 睡觉眼罩 / 眼罩(睡眠用) / 睡眠用眼罩 / 遮光睡眠眼罩 / 配饰 / sleeping mask / アイマスク(就寝用)"
+    },
+    {
+      "en": "swim goggles",
+      "zh": "泳镜",
+      "rating": "g",
+      "count": 1376,
+      "desc": "游泳时使用的护目镜",
+      "kw": "游泳镜 / 游泳护目镜 / 防水镜 / 泳具 / 配饰"
+    },
+    {
+      "en": "tengu mask",
+      "zh": "天狗面具",
+      "rating": "g",
+      "count": 1121,
+      "desc": "长鼻或鸟喙、表情严厉的天狗面具，常涂红色",
+      "kw": "天狗面 / 天狗假面 / 能剧天狗面 / 长鼻天狗面具 / 红天狗面 / 日本风格 / 面具 / 妖怪 / 天狗の面"
+    },
+    {
+      "en": "tinted eyewear",
+      "zh": "有色眼镜",
+      "rating": "g",
+      "count": 48450,
+      "desc": "镜片带颜色的眼镜或太阳镜",
+      "kw": "彩色眼镜 / 染色镜片 / 彩色镜片 / 墨镜 / 太阳镜 / 有色镜片 / 眼镜 / 配饰 / colored lenses"
+    },
+    {
+      "en": "two-tone mask",
+      "zh": "双色面具",
+      "rating": "g",
+      "count": 1236,
+      "desc": "恰好由两种颜色构成的面具",
+      "kw": "双色面罩 / 二色面具 / 双色口罩 / 两色面具"
+    },
+    {
+      "en": "unworn eyepatch",
+      "zh": "未戴的眼罩",
+      "rating": "g",
+      "count": 1100,
+      "desc": "常戴眼罩的角色取下眼罩，眼罩仍在画面中",
+      "kw": "摘下的眼罩 / 取下的眼罩 / 眼罩拿在手上 / 没戴眼罩 / 摘下眼罩 / 摘掉的眼罩 / 未戴的单眼罩 / 眼罩 / eyepatch off / eyepatch removed"
+    },
+    {
+      "en": "unworn goggles",
+      "zh": "未戴的护目镜",
+      "rating": "g",
+      "count": 1072,
+      "desc": "画面中有护目镜但没有戴在头上。",
+      "kw": "未佩戴的护目镜 / 摘下的护目镜 / 没戴的护目镜 / 闲置的护目镜 / 脱下的护目镜 / 护目镜摘下 / 没戴上的护目镜 / 护目镜 / goggles off / goggles removed"
+    },
+    {
+      "en": "unworn mask",
+      "zh": "未戴的面具",
+      "rating": "g",
+      "count": 8706,
+      "desc": "出现但未戴在脸上的面具",
+      "kw": "摘下的面具 / 脱下的面具 / 拿在手里的面具 / 没戴在脸上的面具 / 面具 / 道具 / unmasked / mask off / mask removed / マスクオフ"
+    },
+    {
+      "en": "visor (armor)",
+      "zh": "面甲（盔甲）",
+      "rating": "g",
+      "count": 2420,
+      "desc": "头盔上可抬起、遮护面部的面甲",
+      "kw": "头盔面甲 / 面部护甲 / 面罩（盔甲） / 护面甲 / 面铠 / 面甲 / 盔甲面罩 / 护面"
+    },
+    {
+      "en": "white mask",
+      "zh": "白色面具",
+      "rating": "g",
+      "count": 7799,
+      "desc": "覆盖整个面部、整体呈白色的面具。",
+      "kw": "白面具 / 纯白面具 / 全白面具 / 白色面罩 / 面具 / 道具"
+    },
+    {
+      "en": "wrestling mask",
+      "zh": "摔角面具",
+      "rating": "g",
+      "count": 776,
+      "desc": "职业摔角手佩戴的布制面具，作为擂台形象标志",
+      "kw": "摔跤面具 / 职业摔角面具 / 摔角手面具 / 职业摔跤面具 / 面具 / 头饰"
+    },
+    {
+      "en": "yellow mask",
+      "zh": "黄色面具",
+      "rating": "g",
+      "count": 1239,
+      "desc": "覆盖面部的黄色面具",
+      "kw": "黄色面罩 / 黄面具 / 黄面罩 / 金黄色面具 / 面具 / 道具"
+    },
+    {
+      "en": "mask",
+      "zh": "面具",
+      "rating": "g",
+      "nsfw": false,
+      "count": 207203,
+      "desc": "遮住面部的面具或面罩",
+      "kw": "面罩 / 口罩 / 假面 / 覆面 / 面巾 / 遮面物 / 道具 / masks / 仮面 / マスク / 衛生マスク"
+    },
+    {
+      "en": "mouth mask",
+      "zh": "口罩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47893,
+      "desc": "遮住口鼻的口罩或忍者面罩",
+      "kw": "面罩 / 口部口罩 / 遮口面罩 / 忍者口罩 / 口鼻遮挡 / 防护 / face mask / カラスマスク"
+    },
+    {
+      "en": "fox mask",
+      "zh": "狐狸面具",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19866,
+      "desc": "狐狸脸形状的面具",
+      "kw": "狐面 / 狐狸脸面具 / 狐面具 / 白狐面具 / 妖狐面具 / 狐狸假面 / 狐脸面具 / 狐狸造型面具 / kitsune mask"
+    },
+    {
+      "en": "plague doctor mask",
+      "zh": "鸟嘴面具",
+      "rating": "g",
+      "nsfw": false,
+      "count": 964,
+      "desc": "带长鸟喙、原用于填装香草的防疫面具",
+      "kw": "瘟疫面具 / 黑死病医生面具 / 鸟喙面具 / 中世纪医生面具 / 面具 / 医用 / ペストマスク"
+    },
+    {
+      "en": "surgical mask",
+      "zh": "医用口罩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7450,
+      "desc": "医生护士佩戴、防止飞沫传播的口罩",
+      "kw": "外科口罩 / 口罩 / 一次性口罩 / 卫生口罩 / 手术口罩 / 防菌口罩 / 防护 / medical mask / 衛生マスク / サージカルマスク"
+    }
+  ]
+}

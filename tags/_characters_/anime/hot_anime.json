@@ -1,0 +1,721 @@
+{
+  "id": "hot_anime",
+  "name": "热门番剧",
+  "parentId": "anime",
+  "order": 1,
+  "file": "anime/hot_anime.json",
+  "characters": [
+    {
+      "game": "孤独摇滚",
+      "gameTag": "anime",
+      "name": "后藤一里",
+      "tag": "gotoh hitori",
+      "charZh": "后藤一里（孤独摇滚）",
+      "auto": "pink hair|粉发;long hair|长发;ahoge|呆毛;blue eyes|蓝瞳;guitar|吉他;bangs|刘海;small breasts|小胸;skirt|半身裙",
+      "subName": ""
+    },
+    {
+      "game": "孤独摇滚",
+      "gameTag": "anime",
+      "name": "伊地知虹夏",
+      "tag": "ijichi nijika",
+      "charZh": "伊地知虹夏（孤独摇滚）",
+      "auto": "blonde hair|金发;ponytail|马尾;braid|麻花辫;ahoge|呆毛;red eyes|红瞳;slit pupils|竖瞳;bowtie|领结;ankle socks|短袜;angel|天使",
+      "subName": ""
+    },
+    {
+      "game": "孤独摇滚",
+      "gameTag": "anime",
+      "name": "山田凉",
+      "tag": "yamada ryo",
+      "charZh": "山田凉（孤独摇滚）",
+      "auto": "blue hair|蓝发;yellow eyes|黄瞳;black pantyhose|黑色连裤袜;ear piercing|耳钉;hair over one eye|遮单眼发",
+      "subName": ""
+    },
+    {
+      "game": "孤独摇滚",
+      "gameTag": "anime",
+      "name": "喜多郁代",
+      "tag": "kita ikuyo",
+      "charZh": "喜多郁代（孤独摇滚）",
+      "auto": "red hair|红发;long hair|长发;ponytail|马尾;yellow eyes|黄瞳;guitar|吉他;angel|天使;ankle socks|短袜;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "我推的孩子",
+      "gameTag": "anime",
+      "name": "星野爱",
+      "tag": "hoshino ai",
+      "charZh": "星野爱（我推的孩子）",
+      "auto": "purple hair|紫发;ponytail|马尾;purple eyes|紫瞳;idol|偶像;thigh boots|过膝靴;gloves|手套;hair ornament|发饰;bangs|刘海;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "我推的孩子",
+      "gameTag": "anime",
+      "name": "星野露比",
+      "tag": "hoshino ruby",
+      "charZh": "星野露比（我推的孩子）",
+      "auto": "blonde hair|金发;ponytail|马尾;red eyes|红瞳;idol|偶像;kneehighs|及膝袜;boots|靴子;twins|双胞胎",
+      "subName": ""
+    },
+    {
+      "game": "Re:从零开始的异世界生活",
+      "gameTag": "anime",
+      "name": "雷姆",
+      "tag": "rem (re:zero)",
+      "charZh": "雷姆（Re:从零开始的异世界生活）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;maid|女仆;small breasts|小胸;tareme|垂眼;hair over one eye|遮单眼发;blunt bangs|齐刘海;hair clip|发夹;thighhighs|过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "Re:从零开始的异世界生活",
+      "gameTag": "anime",
+      "name": "爱蜜莉雅",
+      "tag": "emilia (re:zero)",
+      "charZh": "爱蜜莉雅（Re:从零开始的异世界生活）",
+      "auto": "silver hair|银发;long hair|长发;purple eyes|紫瞳;pointy ears|尖耳;cape|披风;cloak|斗篷;angel|天使;thigh boots|过膝靴;thighhighs|过膝袜;hair flower|头花",
+      "subName": ""
+    },
+    {
+      "game": "Re:从零开始的异世界生活",
+      "gameTag": "anime",
+      "name": "艾姬多娜",
+      "tag": "echidna (re:zero)",
+      "charZh": "艾姬多娜（Re:从零开始的异世界生活）",
+      "auto": "white hair|白发;black eyes|黑瞳;curious|好奇;small breasts|小胸;witch|魔女;hair ornament|发饰;bangs|刘海;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "间谍过家家",
+      "gameTag": "anime",
+      "name": "阿尼亚",
+      "tag": "anya (spy x family)",
+      "charZh": "阿尼亚（间谍过家家）",
+      "auto": "pink hair|粉发;long hair|长发;ahoge|呆毛;green eyes|绿瞳;small breasts|小胸;student|学生;hair ornament|发饰;ankle socks|短袜;thighhighs|过膝袜;mary janes|玛丽珍鞋",
+      "subName": ""
+    },
+    {
+      "game": "间谍过家家",
+      "gameTag": "anime",
+      "name": "约尔·福杰",
+      "tag": "yor briar",
+      "charZh": "约尔·福杰（间谍过家家）",
+      "auto": "black hair|黑发;red eyes|红瞳;small breasts|小胸;thigh boots|过膝靴;high heels|高跟鞋;earrings|耳环;hairband|发箍;updo|盘发",
+      "subName": ""
+    },
+    {
+      "game": "Lycoris Recoil",
+      "gameTag": "anime",
+      "name": "锦木千束",
+      "tag": "nishikigi chisato",
+      "charZh": "锦木千束（Lycoris Recoil）",
+      "auto": "blonde hair|金发;short hair|短发;red eyes|红瞳;small breasts|小胸;angel|天使;uniform|制服;ribbon|丝带;pistol|手枪;kneehighs|及膝袜",
+      "subName": ""
+    },
+    {
+      "game": "Lycoris Recoil",
+      "gameTag": "anime",
+      "name": "井之上泷奈",
+      "tag": "inoue takina",
+      "charZh": "井之上泷奈（Lycoris Recoil）",
+      "auto": "black hair|黑发;twintails|双马尾;purple eyes|紫瞳;bangs|刘海;kneehighs|及膝袜;loafers|乐福鞋;uniform|制服;shorts|短裤",
+      "subName": ""
+    },
+    {
+      "game": "蓝色监狱",
+      "gameTag": "anime",
+      "name": "洁世一",
+      "tag": "isagi yoichi",
+      "charZh": "洁世一（蓝色监狱）",
+      "auto": "black hair|黑发;short hair|短发;ahoge|呆毛;blue eyes|蓝瞳;athlete|运动员",
+      "subName": ""
+    },
+    {
+      "game": "蓝色监狱",
+      "gameTag": "anime",
+      "name": "蜂乐回",
+      "tag": "bachira meguru",
+      "charZh": "蜂乐回（蓝色监狱）",
+      "auto": "black hair|黑发;yellow eyes|黄瞳;tongue out|吐舌;athlete|运动员",
+      "subName": ""
+    },
+    {
+      "game": "青春猪头少年不会梦到兔女郎学姐",
+      "gameTag": "anime",
+      "name": "樱岛麻衣",
+      "tag": "sakurajima mai",
+      "charZh": "樱岛麻衣（青春猪头少年不会梦到兔女郎学姐）",
+      "auto": "black hair|黑发;black eyes|黑瞳;hair clip|发夹;black pantyhose|黑色连裤袜;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "紫罗兰永恒花园",
+      "gameTag": "anime",
+      "name": "薇尔莉特",
+      "tag": "violet evergarden",
+      "charZh": "薇尔莉特·伊芙加登（紫罗兰永恒花园）",
+      "auto": "blonde hair|金发;blue eyes|蓝瞳;updo|盘发;soldier|士兵;arms up|举手;boots|靴子;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "药屋少女的呢喃",
+      "gameTag": "anime",
+      "name": "猫猫",
+      "tag": "maomao (kusuriya no hitorigoto)",
+      "charZh": "猫猫（药屋少女的呢喃）",
+      "auto": "green hair|绿发;twintails|双马尾;blue eyes|蓝瞳;freckles|雀斑",
+      "subName": ""
+    },
+    {
+      "game": "一拳超人",
+      "gameTag": "anime",
+      "name": "埼玉",
+      "tag": "saitama (one-punch man)",
+      "charZh": "埼玉（一拳超人）",
+      "auto": "black hair|黑发;black eyes|黑瞳;bald|光头;cape|披风;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "一拳超人",
+      "gameTag": "anime",
+      "name": "龙卷",
+      "tag": "tatsumaki",
+      "charZh": "龙卷（一拳超人）",
+      "auto": "green hair|绿发;curly hair|卷发;short hair|短发;green eyes|绿瞳;small breasts|小胸;high heels|高跟鞋",
+      "subName": ""
+    },
+    {
+      "game": "更衣人偶坠入爱河",
+      "gameTag": "anime",
+      "name": "喜多川海梦",
+      "tag": "kitagawa marin",
+      "charZh": "喜多川海梦（更衣人偶坠入爱河）",
+      "auto": "blonde hair|金发;dyed hair|染发;black eyes|黑瞳;uniform|制服;ankle socks|短袜;earrings|耳环;thigh boots|过膝靴;ring|戒指;small breasts|小胸;angel|天使",
+      "subName": ""
+    },
+    {
+      "game": "更衣人偶坠入爱河",
+      "gameTag": "anime",
+      "name": "五条新菜",
+      "tag": "gojou wakana",
+      "charZh": "五条新菜（更衣人偶坠入爱河）",
+      "auto": "black hair|黑发;black eyes|黑瞳;kimono|和服;bandana|方巾;bangs|刘海;doll joints|人偶关节",
+      "subName": ""
+    },
+    {
+      "game": "Fate/stay night",
+      "gameTag": "anime",
+      "name": "Saber",
+      "tag": "saber (fate)",
+      "charZh": "Saber（Fate/stay night）",
+      "auto": "blonde hair|金发;long hair|长发;low ponytail|低马尾;ahoge|呆毛;green eyes|绿瞳;knight|骑士;updo|盘发;armor|盔甲;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "为美好的世界献上祝福！",
+      "gameTag": "anime",
+      "name": "惠惠",
+      "tag": "megumin",
+      "charZh": "惠惠（为美好的世界献上祝福！）",
+      "auto": "black hair|黑发;red eyes|红瞳;small breasts|小胸;eyepatch|眼罩;thighhighs|过膝袜;hat|帽子;gloves|手套;belt|腰带;bandage|绷带;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "间谍过家家",
+      "gameTag": "anime",
+      "name": "劳埃德·福杰",
+      "tag": "loid forger",
+      "charZh": "劳埃德·福杰（间谍过家家）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳;business suit|西装",
+      "subName": ""
+    },
+    {
+      "game": "间谍过家家",
+      "gameTag": "anime",
+      "name": "菲奥娜·弗罗斯特",
+      "tag": "fiona frost",
+      "charZh": "菲奥娜·弗罗斯特（间谍过家家）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "我推的孩子",
+      "gameTag": "anime",
+      "name": "有马加奈",
+      "tag": "arima kana",
+      "charZh": "有马加奈（我推的孩子）",
+      "auto": "red hair|红发;short hair|短发;red eyes|红瞳;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "我推的孩子",
+      "gameTag": "anime",
+      "name": "黑川茜",
+      "tag": "kurokawa akane",
+      "charZh": "黑川茜（我推的孩子）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "小林家的龙女仆",
+      "gameTag": "anime",
+      "name": "托尔",
+      "tag": "tohru (dragonmaid)",
+      "charZh": "托尔（小林家的龙女仆）",
+      "auto": "blonde hair|金发;long hair|长发;horns|角;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "小林家的龙女仆",
+      "gameTag": "anime",
+      "name": "康娜·卡姆依",
+      "tag": "kanna kamui",
+      "charZh": "康娜·卡姆依（小林家的龙女仆）",
+      "auto": "white hair|白发;long hair|长发;horns|角;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "Re:从零开始的异世界生活",
+      "gameTag": "anime",
+      "name": "拉姆",
+      "tag": "ram (re:zero)",
+      "charZh": "拉姆（Re:从零开始的异世界生活）",
+      "auto": "pink hair|粉发;short hair|短发;red eyes|红瞳;maid|女仆",
+      "subName": ""
+    },
+    {
+      "game": "为美好的世界献上祝福！",
+      "gameTag": "anime",
+      "name": "阿库娅",
+      "tag": "aqua (konosuba)",
+      "charZh": "阿库娅（为美好的世界献上祝福！）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "为美好的世界献上祝福！",
+      "gameTag": "anime",
+      "name": "达克妮斯",
+      "tag": "darkness (konosuba)",
+      "charZh": "达克妮斯（为美好的世界献上祝福！）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;armor|盔甲",
+      "subName": ""
+    },
+    {
+      "game": "为美好的世界献上祝福！",
+      "gameTag": "anime",
+      "name": "芸芸",
+      "tag": "yunyun (konosuba)",
+      "charZh": "芸芸（为美好的世界献上祝福！）",
+      "auto": "black hair|黑发;twintails|双马尾;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "刀剑神域",
+      "gameTag": "anime",
+      "name": "亚丝娜",
+      "tag": "asuna (sao)",
+      "charZh": "亚丝娜（刀剑神域）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳;sword|长剑",
+      "subName": ""
+    },
+    {
+      "game": "刀剑神域",
+      "gameTag": "anime",
+      "name": "桐人",
+      "tag": "kirito (sao)",
+      "charZh": "桐人（刀剑神域）",
+      "auto": "black hair|黑发;short hair|短发;black eyes|黑瞳;sword|长剑",
+      "subName": ""
+    },
+    {
+      "game": "刀剑神域",
+      "gameTag": "anime",
+      "name": "诗乃",
+      "tag": "sinon (sao)",
+      "charZh": "诗乃（刀剑神域）",
+      "auto": "blue hair|蓝发;short hair|短发;blue eyes|蓝瞳;rifle|步枪",
+      "subName": ""
+    },
+    {
+      "game": "刀剑神域",
+      "gameTag": "anime",
+      "name": "爱丽丝·辛赛西斯·萨蒂",
+      "tag": "alice zuberg (sao)",
+      "charZh": "爱丽丝·辛赛西斯·萨蒂（刀剑神域）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;armor|盔甲",
+      "subName": ""
+    },
+    {
+      "game": "声之形",
+      "gameTag": "anime",
+      "name": "西宫硝子",
+      "tag": "nishimiya shouko",
+      "charZh": "西宫硝子（声之形）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "你的名字。",
+      "gameTag": "anime",
+      "name": "宫水三叶",
+      "tag": "miyamizu mitsuha",
+      "charZh": "宫水三叶（你的名字。）",
+      "auto": "black hair|黑发;long hair|长发;brown eyes|棕瞳;hair ribbon|发带",
+      "subName": ""
+    },
+    {
+      "game": "天气之子",
+      "gameTag": "anime",
+      "name": "天野阳菜",
+      "tag": "amano hina",
+      "charZh": "天野阳菜（天气之子）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "铃芽之旅",
+      "gameTag": "anime",
+      "name": "岩户铃芽",
+      "tag": "iwato suzume",
+      "charZh": "岩户铃芽（铃芽之旅）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "无职转生",
+      "gameTag": "anime",
+      "name": "洛琪希·米格路迪亚",
+      "tag": "roxy migurdia",
+      "charZh": "洛琪希·米格路迪亚（无职转生）",
+      "auto": "blue hair|蓝发;long hair|长发;braid|麻花辫",
+      "subName": ""
+    },
+    {
+      "game": "无职转生",
+      "gameTag": "anime",
+      "name": "艾莉丝·伯雷亚斯·格雷拉特",
+      "tag": "eris boreas greyrat",
+      "charZh": "艾莉丝·伯雷亚斯·格雷拉特（无职转生）",
+      "auto": "red hair|红发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "无职转生",
+      "gameTag": "anime",
+      "name": "希露菲叶特",
+      "tag": "sylphiette",
+      "charZh": "希露菲叶特（无职转生）",
+      "auto": "white hair|白发;short hair|短发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "我的青春恋爱物语果然有问题",
+      "gameTag": "anime",
+      "name": "雪之下雪乃",
+      "tag": "yukinoshita yukino",
+      "charZh": "雪之下雪乃（我的青春恋爱物语果然有问题）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "我的青春恋爱物语果然有问题",
+      "gameTag": "anime",
+      "name": "由比滨结衣",
+      "tag": "yuigahama yui",
+      "charZh": "由比滨结衣（我的青春恋爱物语果然有问题）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "我的青春恋爱物语果然有问题",
+      "gameTag": "anime",
+      "name": "一色彩羽",
+      "tag": "isshiki iroha",
+      "charZh": "一色彩羽（我的青春恋爱物语果然有问题）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "青春猪头少年",
+      "gameTag": "anime",
+      "name": "双叶理央",
+      "tag": "futaba rio",
+      "charZh": "双叶理央（青春猪头少年）",
+      "auto": "black hair|黑发;short hair|短发;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "青春猪头少年",
+      "gameTag": "anime",
+      "name": "古贺朋绘",
+      "tag": "koga tomoe",
+      "charZh": "古贺朋绘（青春猪头少年）",
+      "auto": "black hair|黑发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "排球少年",
+      "gameTag": "anime",
+      "name": "日向翔阳",
+      "tag": "hinata shouyou (haikyuu!!)",
+      "charZh": "日向翔阳（排球少年）",
+      "auto": "orange hair|橙发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "排球少年",
+      "gameTag": "anime",
+      "name": "影山飞雄",
+      "tag": "kageyama tobio (haikyuu!!)",
+      "charZh": "影山飞雄（排球少年）",
+      "auto": "black hair|黑发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "排球少年",
+      "gameTag": "anime",
+      "name": "月岛萤",
+      "tag": "tsukishima kei (haikyuu!!)",
+      "charZh": "月岛萤（排球少年）",
+      "auto": "blonde hair|金发;short hair|短发;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "灌篮高手",
+      "gameTag": "anime",
+      "name": "樱木花道",
+      "tag": "sakuragi hanamichi (slam dunk)",
+      "charZh": "樱木花道（灌篮高手）",
+      "auto": "red hair|红发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "灌篮高手",
+      "gameTag": "anime",
+      "name": "流川枫",
+      "tag": "rukawa kaede (slam dunk)",
+      "charZh": "流川枫（灌篮高手）",
+      "auto": "black hair|黑发;short hair|短发;black eyes|黑瞳",
+      "subName": ""
+    },
+    {
+      "game": "灌篮高手",
+      "gameTag": "anime",
+      "name": "赤木晴子",
+      "tag": "akagi haruko (slam dunk)",
+      "charZh": "赤木晴子（灌篮高手）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "名侦探柯南",
+      "gameTag": "anime",
+      "name": "江户川柯南",
+      "tag": "edogawa conan",
+      "charZh": "江户川柯南（名侦探柯南）",
+      "auto": "black hair|黑发;short hair|短发;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "名侦探柯南",
+      "gameTag": "anime",
+      "name": "毛利兰",
+      "tag": "mouri ran",
+      "charZh": "毛利兰（名侦探柯南）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "名侦探柯南",
+      "gameTag": "anime",
+      "name": "灰原哀",
+      "tag": "haibara ai",
+      "charZh": "灰原哀（名侦探柯南）",
+      "auto": "brown hair|棕发;short hair|短发;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "银魂",
+      "gameTag": "anime",
+      "name": "坂田银时",
+      "tag": "sakata gintoki (gintama)",
+      "charZh": "坂田银时（银魂）",
+      "auto": "silver hair|银发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "银魂",
+      "gameTag": "anime",
+      "name": "神乐",
+      "tag": "kagura (gintama)",
+      "charZh": "神乐（银魂）",
+      "auto": "orange hair|橙发;twintails|双马尾;blue eyes|蓝瞳;kimono|和服",
+      "subName": ""
+    },
+    {
+      "game": "命运石之门",
+      "gameTag": "anime",
+      "name": "牧濑红莉栖",
+      "tag": "makise kurisu",
+      "charZh": "牧濑红莉栖（命运石之门）",
+      "auto": "red hair|红发;long hair|长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "埃罗芒阿老师",
+      "gameTag": "anime",
+      "name": "和泉纱雾",
+      "tag": "izumi sagiri",
+      "charZh": "和泉纱雾（埃罗芒阿老师）",
+      "auto": "silver hair|银发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "东京食种",
+      "gameTag": "anime",
+      "name": "雾岛董香",
+      "tag": "kirishima touka (tokyo ghoul)",
+      "charZh": "雾岛董香（东京食种）",
+      "auto": "purple hair|紫发;short hair|短发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "冰果",
+      "gameTag": "hyouka",
+      "name": "千反田爱琉",
+      "tag": "chitanda eru",
+      "charZh": "千反田爱琉（冰果）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "冰果",
+      "gameTag": "hyouka",
+      "name": "折木奉太郎",
+      "tag": "oreki houtarou",
+      "charZh": "折木奉太郎（冰果）",
+      "auto": "brown hair|棕发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "冰果",
+      "gameTag": "hyouka",
+      "name": "伊原摩耶花",
+      "tag": "ibara mayaka",
+      "charZh": "伊原摩耶花（冰果）",
+      "auto": "brown hair|棕发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "冰果",
+      "gameTag": "hyouka",
+      "name": "福部里志",
+      "tag": "fukube satoshi",
+      "charZh": "福部里志（冰果）",
+      "auto": "brown hair|棕发;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "Overlord",
+      "gameTag": "overlord",
+      "name": "雅儿贝德",
+      "tag": "albedo (overlord)",
+      "charZh": "雅儿贝德（Overlord）",
+      "auto": "black hair|黑发;long hair|长发;horns|角;wings|翅膀",
+      "subName": ""
+    },
+    {
+      "game": "Overlord",
+      "gameTag": "overlord",
+      "name": "夏提雅",
+      "tag": "shalltear bloodfallen",
+      "charZh": "夏提雅（Overlord）",
+      "auto": "silver hair|银发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Overlord",
+      "gameTag": "overlord",
+      "name": "亚乌菈",
+      "tag": "aura bella fiora",
+      "charZh": "亚乌菈（Overlord）",
+      "auto": "dark elf|暗精灵;pointy ears|尖耳",
+      "subName": ""
+    },
+    {
+      "game": "Overlord",
+      "gameTag": "overlord",
+      "name": "马雷",
+      "tag": "mare bello fiore",
+      "charZh": "马雷（Overlord）",
+      "auto": "dark elf|暗精灵;pointy ears|尖耳",
+      "subName": ""
+    },
+    {
+      "game": "路人女主的养成方法",
+      "gameTag": "saekano",
+      "name": "加藤惠",
+      "tag": "kato megumi (saekano)",
+      "charZh": "加藤惠（路人女主的养成方法）",
+      "auto": "brown hair|棕发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "路人女主的养成方法",
+      "gameTag": "saekano",
+      "name": "霞之丘诗羽",
+      "tag": "kasumigaoka utaha",
+      "charZh": "霞之丘诗羽（路人女主的养成方法）",
+      "auto": "black hair|黑发;long hair|长发;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "路人女主的养成方法",
+      "gameTag": "saekano",
+      "name": "泽村英梨梨",
+      "tag": "sawamura spencer eriri",
+      "charZh": "泽村英梨梨（路人女主的养成方法）",
+      "auto": "blonde hair|金发;twintails|双马尾",
+      "subName": ""
+    },
+    {
+      "game": "宝石之国",
+      "gameTag": "land of the lustrous",
+      "name": "磷叶石",
+      "tag": "phosphophyllite",
+      "charZh": "磷叶石（宝石之国）",
+      "auto": "green hair|绿发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "宝石之国",
+      "gameTag": "land of the lustrous",
+      "name": "钻石",
+      "tag": "diamond (land of the lustrous)",
+      "charZh": "钻石（宝石之国）",
+      "auto": "white hair|白发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "宝石之国",
+      "gameTag": "land of the lustrous",
+      "name": "辰砂",
+      "tag": "cinnabar (land of the lustrous)",
+      "charZh": "辰砂（宝石之国）",
+      "auto": "red hair|红发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "宝石之国",
+      "gameTag": "land of the lustrous",
+      "name": "圆粒金刚石",
+      "tag": "bort (land of the lustrous)",
+      "charZh": "圆粒金刚石（宝石之国）",
+      "auto": "black hair|黑发;short hair|短发",
+      "subName": ""
+    }
+  ],
+  "count": 79
+}

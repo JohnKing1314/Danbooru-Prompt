@@ -1,0 +1,15 @@
+{
+  "id": "product",
+  "icon": "📦",
+  "name": "商品广告图",
+  "desc": "棚拍产品 + 卖点文案",
+  "tags": "product photography|产品摄影;studio photo|棚拍照片;softbox lighting|柔光箱布光;product label|产品标签;advertising copy|广告文案",
+  "layout": {
+    "tpl": "poster",
+    "size": "1024x1024",
+    "title": "九成新 机械键盘",
+    "sub": "原价 399 \n 现价 150",
+    "info": "校内自提 · 可小刀"
+  },
+  "builtin": true
+}

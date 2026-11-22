@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "type": "tag_tree_manifest",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "majors": [
+    {
+      "id": "style_group",
+      "name": "画风",
+      "icon": "🎨",
+      "order": 1,
+      "file": "style_group/style_group.json",
+      "subDir": "style_group"
+    },
+    {
+      "id": "character_base",
+      "name": "人物基础",
+      "icon": "👤",
+      "order": 2,
+      "file": "character_base/character_base.json",
+      "subDir": "character_base"
+    },
+    {
+      "id": "action_group",
+      "name": "动作",
+      "icon": "🏃",
+      "order": 3,
+      "file": "action_group/action_group.json",
+      "subDir": "action_group"
+    },
+    {
+      "id": "outfit_group",
+      "name": "服饰",
+      "icon": "👗",
+      "order": 4,
+      "file": "outfit_group/outfit_group.json",
+      "subDir": "outfit_group"
+    },
+    {
+      "id": "props_group",
+      "name": "道具",
+      "icon": "🎒",
+      "order": 5,
+      "file": "props_group/props_group.json",
+      "subDir": "props_group"
+    },
+    {
+      "id": "scene_group",
+      "name": "场景",
+      "icon": "🏙️",
+      "order": 6,
+      "file": "scene_group/scene_group.json",
+      "subDir": "scene_group"
+    },
+    {
+      "id": "uncategorized_group",
+      "name": "未分类",
+      "icon": "📦",
+      "order": 7,
+      "file": "uncategorized_group/uncategorized_group.json",
+      "subDir": "uncategorized_group"
+    },
+    {
+      "id": "negative",
+      "name": "负面提示词",
+      "icon": "⛔",
+      "order": 8,
+      "file": "negative/negative.json",
+      "subDir": "negative"
+    }
+  ]
+}

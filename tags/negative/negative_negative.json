@@ -1,0 +1,942 @@
+{
+  "id": "negative",
+  "name": "负面提示词",
+  "icon": "⛔",
+  "parentId": "negative",
+  "level": 2,
+  "order": 1,
+  "file": "negative/negative_negative.json",
+  "updatedAt": "2026-11-18T05:36:30.217Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "worst quality",
+      "zh": "最差质量",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "low quality",
+      "zh": "低质量",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "score_1",
+      "zh": "评分一分(低质)",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "score_2",
+      "zh": "评分二分(低质)",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "score_3",
+      "zh": "评分三分(低质)",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "artist name",
+      "zh": "画师签名水印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 648339,
+      "desc": "画面中写有画师名字或笔名",
+      "kw": "绘师名 / 作者名 / 画师署名 / 画师名称 / 画师名字 / 绘师署名 / 画师昵称 / 绘师名称 / 艺术家名称"
+    },
+    {
+      "en": "blurry",
+      "zh": "画面模糊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 316945,
+      "desc": "画面整体或局部模糊，如动态模糊或景深。",
+      "kw": "虚化 / 模糊效果 / 失焦 / 模糊不清 / 构图 / 虚焦 / 朦胧 / blurred / ぼかし / ぼやけた"
+    },
+    {
+      "en": "jpeg artifacts",
+      "zh": "压缩痕迹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27436,
+      "desc": "JPEG压缩产生的块状或蚊状噪点等失真瑕疵。",
+      "kw": "JPEG压缩伪影 / JPG伪影 / JPG压缩伪影 / JPEG压缩失真 / 块状噪点 / 蚊状噪点 / 压缩噪点 / 压缩瑕疵 / jpeg artefacts / jpg artifacts / jpegartifacts"
+    },
+    {
+      "en": "lowres",
+      "zh": "低分辨率",
+      "rating": "g",
+      "nsfw": false,
+      "count": 114330,
+      "desc": "宽或高小于500像素的低分辨率图",
+      "kw": "低清 / 低画质 / 低分辨率图 / 小分辨率"
+    },
+    {
+      "en": "bad anatomy",
+      "zh": "解剖错误",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18416,
+      "desc": "人体结构画得明显不正确的图",
+      "kw": "人体结构错误 / 结构崩坏 / 肢体错位 / 人体崩坏 / 画崩 / 比例失调 / 身体画错 / 糟糕的人体比例"
+    },
+    {
+      "en": "extra fingers",
+      "zh": "多余手指",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "watermark",
+      "zh": "水印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 255388,
+      "desc": "图上叠加的文字/标志，标明作者或防盗用。",
+      "kw": "版权水印 / 作者水印 / 防伪水印 / 浮水印 / 构图 / 文字 / 版权标志 / 标识 / watermarked / copyright notice / 透かし"
+    },
+    {
+      "en": "text",
+      "zh": "文字",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "signature",
+      "zh": "签名",
+      "rating": "g",
+      "nsfw": false,
+      "count": 455557,
+      "desc": "画面中显眼的画师或角色签名",
+      "kw": "署名 / 签绘 / 亲签 / 签名图 / 手写签名 / 作者签名 / 艺术签名 / 文字 / autograph / signed / artist signature / サイン"
+    },
+    {
+      "en": "bad hands",
+      "zh": "手部错误",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3398,
+      "desc": "手部画得拙劣或结构错误。",
+      "kw": "画手崩坏 / 手部崩坏 / 手画错 / 手部畸形 / 手部结构错误 / 手指崩坏 / 手残 / 手部画坏"
+    },
+    {
+      "en": "missing fingers",
+      "zh": "缺手指",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "mutated hands",
+      "zh": "畸形手",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "poorly drawn face",
+      "zh": "脸部崩坏",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "username",
+      "zh": "用户名",
+      "rating": "g",
+      "nsfw": false,
+      "count": 96,
+      "desc": "画面中出现的用户名或账号名称",
+      "kw": "账号名 / 账户名 / 用户名称 / 账号 / 用户ID / 登录名"
+    },
+    {
+      "en": "logo",
+      "zh": "标志",
+      "rating": "g",
+      "nsfw": false,
+      "count": 97033,
+      "desc": "公司或组织的标志图案",
+      "kw": "徽标 / 商标 / 品牌标识 / 企业标识 / 图案 / 品牌 / ロゴ"
+    },
+    {
+      "en": "out of frame",
+      "zh": "主体出画",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45498,
+      "desc": "角色仅有部分出现在画面中",
+      "kw": "出框 / 部分出画 / 画外 / 画面边缘 / 只露局部 / 半身出框 / 构图切到画外 / 画框外"
+    },
+    {
+      "en": "ugly",
+      "zh": "丑陋",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "duplicate",
+      "zh": "重复元素",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43012,
+      "desc": "与站内已有帖子相同或更差的后传重复帖。",
+      "kw": "重复 / 重帖 / 撞车 / 重复内容 / 重复上传 / 后传重复 / repost / dupe"
+    },
+    {
+      "en": "error",
+      "zh": "错误",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "less detailed",
+      "zh": "细节不足",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bad proportions",
+      "zh": "比例失调",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2421,
+      "desc": "人体各部位比例明显失调或画崩",
+      "kw": "人体比例失调 / 身体比例不协调 / 畸形比例 / 比例崩坏 / 身体比例崩坏 / 透视错误 / 比例错误 / 画风缺陷"
+    },
+    {
+      "en": "extra limbs",
+      "zh": "多余肢体",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "fused fingers",
+      "zh": "手指粘连",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "extra legs",
+      "zh": "多余腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 974,
+      "desc": "角色比正常多出的腿",
+      "kw": "多腿 / 额外腿 / 多出来的腿 / 多脚 / 额外的腿 / 额外肢体 / 怪物"
+    },
+    {
+      "en": "missing arms",
+      "zh": "缺失手臂",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "missing legs",
+      "zh": "缺失腿",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "malformed limbs",
+      "zh": "肢体畸形",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "twisted body",
+      "zh": "身体扭曲",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "disfigured",
+      "zh": "面容损毁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 107,
+      "desc": "面容或身体严重受损变形",
+      "kw": "容貌损毁 / 面部毁损 / 破相 / 毁容的 / 面部严重受损 / 毁容角色 / 面容损伤"
+    },
+    {
+      "en": "bad face",
+      "zh": "脸部错误",
+      "rating": "g",
+      "nsfw": false,
+      "count": 200,
+      "desc": "脸部比例或五官明显画得失常",
+      "kw": "脸崩 / 崩脸 / 画崩的脸 / 脸部画崩 / 糟糕的脸 / 不好的脸 / 脸画得差 / 崩坏脸"
+    },
+    {
+      "en": "deformed face",
+      "zh": "面部变形",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "asymmetric eyes",
+      "zh": "双眼不对称",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "poorly drawn hands",
+      "zh": "手部崩坏",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "extra ears",
+      "zh": "多余耳朵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 92688,
+      "desc": "角色同时拥有人耳和兽耳",
+      "kw": "双重耳朵 / 四声道 / 人耳兽耳 / 四只耳朵 / 双耳四耳 / 额外耳朵 / 多出来的耳朵 / 兽耳 / double ears / 四つ耳"
+    },
+    {
+      "en": "missing ears",
+      "zh": "缺失耳朵",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "extra toes",
+      "zh": "多余脚趾",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "missing toes",
+      "zh": "缺失脚趾",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "fused toes",
+      "zh": "脚趾粘连",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bad teeth",
+      "zh": "牙齿错误",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32
+    },
+    {
+      "en": "missing eyes",
+      "zh": "缺失眼睛",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "grayscale",
+      "zh": "灰阶画面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sepia",
+      "zh": "深褐色调",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10621,
+      "desc": "以棕褐色调呈现、仿旧照片质感的画面",
+      "kw": "深褐色 / 棕色调 / 旧照片色调 / 复古褐色 / 黄褐色 / 深棕色 / 仿旧照片效果 / 褐色调 / セピア / セピア色"
+    },
+    {
+      "en": "oversaturated",
+      "zh": "过度饱和",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "undersaturated",
+      "zh": "色彩黯淡",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "harsh lighting",
+      "zh": "刺眼光照",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "overexposed",
+      "zh": "画面过曝",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "underexposed",
+      "zh": "画面欠曝",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "noise",
+      "zh": "噪点",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "grain",
+      "zh": "颗粒",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "pixelated",
+      "zh": "像素化",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2125,
+      "desc": "图像呈现像素块效果，常与常规线稿结合表现数码感",
+      "kw": "像素风 / 点阵化 / 像素效果 / 数码像素 / 有像素 / 像素风格 / 数字化效果 / 虚拟纹理 / 有像素"
+    },
+    {
+      "en": "scan artifacts",
+      "zh": "扫描痕迹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4075,
+      "desc": "因扫描或后期不佳产生的折痕、透印等瑕疵。",
+      "kw": "扫描瑕疵 / 扫描伪影 / 扫图缺陷 / 扫描杂质 / 扫图噪点 / bad scan / scanner artifacts / scanning artifacts / badscan"
+    },
+    {
+      "en": "compression artifacts",
+      "zh": "压缩伪影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "smudged",
+      "zh": "涂抹痕迹",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "unfinished",
+      "zh": "未完成",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24894,
+      "desc": "草稿、线稿或平涂等未完成作品。",
+      "kw": "草稿 / 半成品 / 线稿 / 平涂 / 未完成作品 / 涂鸦 / 过程图 / work in progress / wip / 途中"
+    },
+    {
+      "en": "rough sketch",
+      "zh": "粗糙草图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "washed out",
+      "zh": "颜色褪淡",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bad composition",
+      "zh": "构图不佳",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cluttered",
+      "zh": "画面杂乱",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "messy",
+      "zh": "凌乱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2054,
+      "desc": "描绘角色被食物或其他非性液体覆盖的凌乱状态，可能带有性暗示但非直接性行为。",
+      "kw": "凌乱的 / 杂乱 / 状态"
+    },
+    {
+      "en": "bad perspective",
+      "zh": "透视错误",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1825,
+      "desc": "透视处理失败，消失点或角度错乱",
+      "kw": "错误透视 / 透视画错 / 透视崩坏 / 透视失败 / 透视不准 / 透视有问题 / 透视凌乱 / 透视错乱"
+    },
+    {
+      "en": "floating limbs",
+      "zh": "肢体漂浮",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "disconnected limbs",
+      "zh": "肢体断裂",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "multiple panels",
+      "zh": "多格分镜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "speech bubble",
+      "zh": "对话气泡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 550474,
+      "desc": "显示角色对话或想法内容的气泡",
+      "kw": "说话气泡 / 言语气泡 / 台词框 / 对白框 / 文字气泡 / 气泡框 / 对话泡泡 / text bubble / speech balloon / word bubble / ふきだし"
+    },
+    {
+      "en": "comic",
+      "zh": "漫画风格",
+      "rating": "g",
+      "nsfw": false,
+      "count": 749769,
+      "desc": "连续分格的漫画",
+      "kw": "连环画 / 条漫 / 漫画书 / 卡通 / comics / manga / マンガ / 漫畫"
+    },
+    {
+      "en": "border",
+      "zh": "画面边框",
+      "rating": "g",
+      "nsfw": false,
+      "count": 265943,
+      "desc": "图片四周有边框。",
+      "kw": "画框 / 图片边框 / 图框 / 镶边 / 框线 / 构图 / 背景 / 边饰 / bordered / windowbox / windowboxed"
+    },
+    {
+      "en": "frame",
+      "zh": "画框",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "white border",
+      "zh": "白色边框",
+      "rating": "g",
+      "nsfw": false,
+      "count": 168813,
+      "desc": "图像四周带有一圈白色边框",
+      "kw": "白边 / 白色框 / 白色边缘 / 白色描边 / 白色边框线 / 白边框 / 边框"
+    },
+    {
+      "en": "letterboxed",
+      "zh": "上下黑边",
+      "rating": "g",
+      "nsfw": false,
+      "count": 70778,
+      "desc": "画面上下加黑边以改变画幅比例。",
+      "kw": "信箱格式 / 信箱黑边 / 宽屏黑边 / 上下加黑边 / 信箱模式 / 宽银幕 / 画面效果 / letterbox / letter boxed"
+    },
+    {
+      "en": "censored",
+      "zh": "打码遮挡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 679886,
+      "desc": "敏感部位被遮挡",
+      "kw": "有码 / 遮罩 / 遮盖 / 已打码 / 码 / 审查 / 马赛克 / censor / censoring"
+    },
+    {
+      "en": "mosaic censoring",
+      "zh": "马赛克",
+      "rating": "g",
+      "nsfw": false,
+      "count": 313016,
+      "desc": "用像素化马赛克遮挡敏感部位。",
+      "kw": "像素化打码 / 马赛克遮挡 / 打码 / 像素遮挡 / 审查 / rough censoring / mosaic censor / pixel censor"
+    },
+    {
+      "en": "bar censor",
+      "zh": "遮挡条",
+      "rating": "g",
+      "nsfw": false,
+      "count": 250163,
+      "desc": "用黑白矩形条遮挡画面部位的打码方式，俗称海苔。",
+      "kw": "黑条打码 / 打码条 / 海苔码 / 海苔 / 黑条 / 条状遮挡 / 马赛克 / 审查 / censor bars / censor bar / 黑条（打码）"
+    },
+    {
+      "en": "bad reflection",
+      "zh": "倒影错误",
+      "rating": "g",
+      "nsfw": false,
+      "count": 246,
+      "desc": "镜面等反射与本体不符的作画失误",
+      "kw": "镜像不符 / 反射错误 / 镜中映像错误 / 倒影不一致 / 镜像不一致 / 镜面反射错误 / 糟糕的反光"
+    },
+    {
+      "en": "bad shadow",
+      "zh": "阴影错误",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "harsh shadow",
+      "zh": "生硬阴影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "distorted",
+      "zh": "画面扭曲",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "glitch",
+      "zh": "画面故障",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8970,
+      "desc": "模拟设备故障导致的视觉伪影，如块状位移和图像弯曲",
+      "kw": "故障艺术 / 毛刺 / 花屏 / 信号干扰 / 图像错乱 / 数据错乱 / 故障效果 / 特效"
+    },
+    {
+      "en": "static",
+      "zh": "雪花噪点",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1268,
+      "desc": "电视无信号时出现的黑白雪花噪点",
+      "kw": "电视雪花 / 噪点 / 雪花屏 / 电视噪点 / 特效 / noise (crt) / 砂岚 / 砂嵐 / スノーノイズ"
+    },
+    {
+      "en": "poorly drawn",
+      "zh": "画工粗糙",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "amateur",
+      "zh": "业余水平",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rushed",
+      "zh": "赶工痕迹",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "inconsistent",
+      "zh": "前后不一致",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wrong anatomy",
+      "zh": "错误结构",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "extra heads",
+      "zh": "多余头部",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "two heads",
+      "zh": "两个头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "missing head",
+      "zh": "缺失头部",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "floating head",
+      "zh": "漂浮头颅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 821,
+      "desc": "看似悬空漂浮、身首分离的头部",
+      "kw": "悬空头 / 飞头 / 漂浮脑袋 / 悬空头颅 / 断头漂浮 / 悬浮头 / 浮头"
+    },
+    {
+      "en": "patreon",
+      "zh": "赞助标识",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16
+    },
+    {
+      "en": "web address",
+      "zh": "网址",
+      "rating": "g",
+      "nsfw": false,
+      "count": 72446,
+      "desc": "画面中出现网址，多作为水印。",
+      "kw": "网站地址 / 链接地址 / 网页地址 / 网络地址 / 文字 / 水印 / url"
+    },
+    {
+      "en": "timestamp",
+      "zh": "时间戳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3746,
+      "desc": "标注图片拍摄或完成时间的角标",
+      "kw": "时间标记 / 时间角标 / 时间水印 / 日期时间戳 / 拍摄时间 / 时间印记 / UI / 界面元素 / time stamp"
+    },
+    {
+      "en": "dated",
+      "zh": "日期标注",
+      "rating": "g",
+      "nsfw": false,
+      "count": 277182,
+      "desc": "画面上写有创作日期。",
+      "kw": "标注日期 / 有日期 / 带日期 / 写有日期 / 日期标记 / 完成时间 / 日付 / 日期"
+    },
+    {
+      "en": "ui",
+      "zh": "界面元素",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "text box",
+      "zh": "文本框",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "subtitles",
+      "zh": "字幕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "caption",
+      "zh": "说明文字",
+      "rating": "g",
+      "nsfw": false,
+      "count": 366,
+      "desc": "图中附加的简短说明文字。",
+      "kw": "文字说明 / 图注 / 字幕 / 旁白文字 / 说明字幕 / 标题 / 文字"
+    },
+    {
+      "en": "stamp",
+      "zh": "印章",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "color banding",
+      "zh": "色带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 184,
+      "desc": "低色深图片中颜色过渡出现条带的瑕疵",
+      "kw": "色阶断层 / 颜色断层 / 色带现象 / posterization"
+    },
+    {
+      "en": "aliasing",
+      "zh": "锯齿边缘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1256,
+      "desc": "线条呈锯齿或像素块状的画质缺陷",
+      "kw": "像素锯齿 / 图像锯齿 / 锯齿状线条 / 画质缺陷 / resampling artifacts / resizing artifacts"
+    },
+    {
+      "en": "moire",
+      "zh": "摩尔纹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 497,
+      "desc": "两组网格叠加时产生的干涉条纹图案",
+      "kw": "摩尔条纹 / 莫尔条纹 / 波纹干涉 / 干涉条纹 / 莫列波纹 / 摩尔效应 / 莫尔纹 / 波纹图案 / moiré / モアレ / モワレ"
+    },
+    {
+      "en": "sharpening artifacts",
+      "zh": "锐化痕迹",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "double image",
+      "zh": "重影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "alien anatomy",
+      "zh": "异形结构",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "missing limbs",
+      "zh": "缺失肢体",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "fused limbs",
+      "zh": "肢体融合",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "too many fingers",
+      "zh": "手指过多",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "deformed hands",
+      "zh": "手部变形",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "asymmetrical",
+      "zh": "左右不对称",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bad eyes",
+      "zh": "眼睛错误",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ugly face",
+      "zh": "丑陋面容",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wrong foot",
+      "zh": "画错脚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1083,
+      "desc": "作画失误，把脚画到了错误的腿上。",
+      "kw": "左右脚错误 / 脚画反 / 左右脚颠倒 / 腿脚错位 / 脚部作画失误 / 穿错脚的鞋 / 鞋子 / wrong feet"
+    },
+    {
+      "en": "bad ass",
+      "zh": "画崩的屁股",
+      "rating": "g",
+      "nsfw": false,
+      "count": 116,
+      "desc": "臀部画得变形或比例错误的图",
+      "kw": "画崩的臀部 / 屁股画坏 / 臀部画崩 / 坏屁股 / 画得差的屁股 / 酷毙了 / 酷炫 / 硬汉风格"
+    },
+    {
+      "en": "bad feet",
+      "zh": "画崩的脚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3929,
+      "desc": "脚部画得拙劣或结构错误",
+      "kw": "脚部画法错误 / 糟糕的脚 / 脚部崩坏 / 画坏的脚 / 脚部结构错误 / 脚画崩了 / 脚部 / 低质量"
+    },
+    {
+      "en": "anatomical nonsense",
+      "zh": "身体结构乱来",
+      "rating": "g",
+      "count": 579,
+      "desc": "角色身体结构故意无视常识和常规风格，以达到搞笑或猎奇效果",
+      "kw": "解剖学胡来 / 人体结构崩坏 / 解剖崩坏 / 猎奇解剖 / 身体结构混乱 / 无视人体结构 / 夸张体型 / 解剖学谬误"
+    },
+    {
+      "en": "artistic error",
+      "zh": "画师失误",
+      "rating": "g",
+      "count": 9926,
+      "desc": "画师作画失误，如解剖、色彩、透视错误",
+      "kw": "作画失误 / 绘画错误 / 画错 / 绘画失误 / 绘图错误 / 作者画错 / 画师错误 / 绘画瑕疵 / error"
+    },
+    {
+      "en": "bad arm",
+      "zh": "手臂画崩",
+      "rating": "g",
+      "count": 752,
+      "desc": "手臂比例或结构明显画错的画面。",
+      "kw": "手臂画得不好 / 手臂比例失调 / 手臂结构错误 / 手臂画错 / 崩坏的手臂 / 受伤的手臂 / 伤臂 / 伤口"
+    },
+    {
+      "en": "bad aspect ratio",
+      "zh": "错误宽高比",
+      "rating": "g",
+      "count": 205,
+      "desc": "宽高比被不当拉伸或压缩的图",
+      "kw": "宽高比错误 / 比例失调 / 画面变形 / 拉伸变形 / 画面压扁 / 画面拉长 / 比例不对"
+    },
+    {
+      "en": "bad leg",
+      "zh": "腿画崩了",
+      "rating": "g",
+      "count": 772,
+      "desc": "腿部画得拙劣或比例错误",
+      "kw": "腿画得差 / 腿崩坏 / 腿部崩坏 / 腿比例失调 / 腿解剖错误 / 腿画崩 / 腿怪怪的 / 腿部不好"
+    },
+    {
+      "en": "bleed through",
+      "zh": "透印",
+      "rating": "g",
+      "count": 182,
+      "desc": "扫描时纸张背面内容透现",
+      "kw": "透背 / 透印现象 / 背面透字 / 背面影像透出 / 扫描透印"
+    },
+    {
+      "en": "extra digits",
+      "zh": "多指（趾）",
+      "rating": "g",
+      "count": 547,
+      "desc": "手指或脚趾多于正常数量。",
+      "kw": "多指 / 多指症 / 多趾 / 多趾症 / 六指 / 额外手指 / 多手指 / 异常 / extra digit / extra fingers / polydactyly / 指6本"
+    },
+    {
+      "en": "fewer digits",
+      "zh": "少指（趾）",
+      "rating": "g",
+      "count": 6496,
+      "desc": "手指或脚趾少于五根",
+      "kw": "少指 / 少趾 / 少指趾 / 手指脚趾少于五根 / 指数异常 / 手指异常 / 3finger hand / 4本指"
+    },
+    {
+      "en": "gif artifacts",
+      "zh": "GIF瑕疵",
+      "rating": "g",
+      "count": 260,
+      "desc": "GIF 256色限制造成的抖动、色带等画质瑕疵",
+      "kw": "GIF伪影 / GIF压缩瑕疵 / GIF图像失真 / GIF画质瑕疵 / GIF色彩失真 / GIF抖动 / GIF色带"
+    },
+    {
+      "en": "quality",
+      "zh": "作画崩坏",
+      "rating": "g",
+      "count": 248,
+      "desc": "讽刺商业动画中明显的作画崩坏或质量缺陷，通常大写QUALITY",
+      "kw": "作画崩壊 / 崩坏作画 / 画质崩坏 / 崩作画 / 劣质作画 / 崩帧 / 作画崩坏梗 / 画质 / yashigani"
+    },
+    {
+      "en": "vhs artifacts",
+      "zh": "录像带伪影",
+      "rating": "g",
+      "count": 619,
+      "desc": "模拟VHS录像带转录的画面失真与噪点",
+      "kw": "VHS伪影 / 录像带失真 / VHS失真 / 录像带噪点 / VHS噪点 / 录像带画面瑕疵 / VHS画面瑕疵 / 视频效果"
+    }
+  ]
+}

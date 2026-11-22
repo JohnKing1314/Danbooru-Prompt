@@ -1,0 +1,64 @@
+{
+  "id": "inuyasha",
+  "name": "犬夜叉",
+  "parentId": "anime",
+  "order": 18,
+  "file": "anime/inuyasha.json",
+  "characters": [
+    {
+      "game": "犬夜叉",
+      "gameTag": "inuyasha",
+      "name": "犬夜叉",
+      "tag": "inuyasha",
+      "charZh": "犬夜叉（犬夜叉）",
+      "auto": "white hair|白发;long hair|长发;dog ears|狗耳;red clothes|红色服装",
+      "subName": ""
+    },
+    {
+      "game": "犬夜叉",
+      "gameTag": "inuyasha",
+      "name": "日暮戈薇",
+      "tag": "higurashi kagome",
+      "charZh": "日暮戈薇（犬夜叉）",
+      "auto": "black hair|黑发;long hair|长发;school uniform|校服",
+      "subName": ""
+    },
+    {
+      "game": "犬夜叉",
+      "gameTag": "inuyasha",
+      "name": "桔梗",
+      "tag": "kikyou (inuyasha)",
+      "charZh": "桔梗（犬夜叉）",
+      "auto": "black hair|黑发;long hair|长发;miko|巫女",
+      "subName": ""
+    },
+    {
+      "game": "犬夜叉",
+      "gameTag": "inuyasha",
+      "name": "杀生丸",
+      "tag": "sesshoumaru",
+      "charZh": "杀生丸（犬夜叉）",
+      "auto": "white hair|白发;long hair|长发;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "犬夜叉",
+      "gameTag": "inuyasha",
+      "name": "珊瑚",
+      "tag": "sango (inuyasha)",
+      "charZh": "珊瑚（犬夜叉）",
+      "auto": "brown hair|棕发;long hair|长发;boomerang|回旋镖",
+      "subName": ""
+    },
+    {
+      "game": "犬夜叉",
+      "gameTag": "inuyasha",
+      "name": "弥勒",
+      "tag": "miroku (inuyasha)",
+      "charZh": "弥勒（犬夜叉）",
+      "auto": "black hair|黑发;short hair|短发;staff|法杖",
+      "subName": ""
+    }
+  ],
+  "count": 6
+}

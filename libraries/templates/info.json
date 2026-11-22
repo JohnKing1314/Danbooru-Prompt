@@ -1,0 +1,15 @@
+{
+  "id": "info",
+  "icon": "📊",
+  "name": "信息图",
+  "desc": "标题 + 三个要点栏 + 图标",
+  "tags": "infographic layout|信息图版式;data visualization|数据可视化;headline text|主标题文字;body copy block|正文文字块;flat vector illustration|扁平矢量插画;clean composition|干净构图",
+  "layout": {
+    "tpl": "poster",
+    "size": "1024x1536",
+    "title": "三步处理旧物",
+    "sub": "1 拍照上传 \n 2 定价挂牌 \n 3 线下自提",
+    "info": "校园二手交易平台"
+  },
+  "builtin": true
+}

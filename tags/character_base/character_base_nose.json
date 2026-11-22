@@ -1,0 +1,166 @@
+{
+  "id": "nose",
+  "name": "鼻子",
+  "icon": "👃",
+  "parentId": "character_base",
+  "order": 9,
+  "tags": [
+    {
+      "en": "nose",
+      "zh": "鼻子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35270,
+      "desc": "比一般动漫更突出的鼻子画法。",
+      "kw": "鼻梁 / 有鼻子 / 鼻子明显 / 高鼻梁 / 鼻子画法 / 突出鼻子 / 脸部 / 五官"
+    },
+    {
+      "en": "dot nose",
+      "zh": "点状鼻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 104813,
+      "desc": "鼻子画成一个小圆点。",
+      "kw": "点鼻 / 圆点鼻子 / 点鼻子 / 点点鼻 / 小圆点鼻子 / 一点鼻 / 小鼻"
+    },
+    {
+      "en": "no nose",
+      "zh": "无鼻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31603,
+      "desc": "角色脸上不画出明显的鼻子",
+      "kw": "没有鼻子 / 不见鼻子 / 缺鼻子 / 无鼻角色 / 脸部 / 无鼻子"
+    },
+    {
+      "en": "nose blush",
+      "zh": "鼻尖泛红",
+      "rating": "g",
+      "nsfw": false,
+      "count": 152965,
+      "desc": "脸红蔓延到鼻梁处。",
+      "kw": "鼻梁红晕 / 鼻子红晕 / 鼻头红晕 / 鼻子发红 / 脸红到鼻子 / 鼻梁泛红 / 鼻红 / 赤面"
+    },
+    {
+      "en": "nosebleed",
+      "zh": "流鼻血",
+      "rating": "s",
+      "nsfw": false,
+      "count": 18652,
+      "desc": "鼻子流血，可因兴奋或受伤",
+      "kw": "鼻子出血 / 鼻出血 / 出鼻血 / 鼻血直流 / 流鼻红 / 鼻血中 / 兴奋 / nose bleed / blood from nose / bloody nose / はなぢ"
+    },
+    {
+      "en": "animal nose",
+      "zh": "动物鼻子",
+      "rating": "g",
+      "count": 25237,
+      "desc": "人形角色的动物般鼻子",
+      "kw": "兽鼻 / 动物鼻 / 猫鼻 / 兔鼻 / 狗鼻 / 动物鼻头 / 兽鼻头 / 动物特征 / bunny nose / cat nose / dog nose / rabbit nose"
+    },
+    {
+      "en": "aquiline nose",
+      "zh": "鹰钩鼻",
+      "rating": "g",
+      "count": 1126,
+      "desc": "鼻梁隆起、鼻尖弯曲如鹰嘴的鼻型",
+      "kw": "鹰勾鼻 / 鹰嘴鼻 / 勾鼻 / 弯鼻 / 凸鼻 / 驼峰鼻 / 鼻梁隆起 / 鼻梁弯曲 / 鷲鼻"
+    },
+    {
+      "en": "aroused nosebleed",
+      "zh": "兴奋鼻血",
+      "rating": "s",
+      "count": 2095,
+      "desc": "因性兴奋而夸张地流鼻血",
+      "kw": "性奋鼻血 / 兴奋流鼻血 / 喷鼻血 / 刺激鼻血 / 热血鼻血 / 鼻血 / 兴奋 / 表情"
+    },
+    {
+      "en": "big nose",
+      "zh": "大鼻子",
+      "rating": "g",
+      "count": 2850,
+      "desc": "角色鼻子尺寸异常大。",
+      "kw": "面部特征"
+    },
+    {
+      "en": "large nose",
+      "zh": "大鼻子",
+      "rating": "g",
+      "count": 3132,
+      "desc": "比常人更大或更圆的鼻子。",
+      "kw": "大鼻头 / 大鼻 / 巨鼻 / 长鼻子 / big nose / bignose"
+    },
+    {
+      "en": "long nose",
+      "zh": "长鼻子",
+      "rating": "g",
+      "count": 3092,
+      "desc": "异常长的鼻子，如天狗",
+      "kw": "长鼻 / 长鼻梁 / 尖长鼻 / 面部特征"
+    },
+    {
+      "en": "nose bubble",
+      "zh": "鼻涕泡",
+      "rating": "g",
+      "count": 4565,
+      "desc": "睡着或困倦时鼻子冒出的鼻涕泡",
+      "kw": "鼻泡 / 鼻涕泡泡 / 鼻提灯 / 鼻灯泡 / 鼻水泡 / 睡泡 / 鼻涕 / 表情 / snot bubble / 鼻ちょうちん"
+    },
+    {
+      "en": "pig nose",
+      "zh": "猪鼻子",
+      "rating": "g",
+      "count": 552,
+      "desc": "角色长着猪一样的鼻子",
+      "kw": "猪鼻 / 猪鼻头 / 猪鼻子形状 / 鼻子 / 动物特征"
+    },
+    {
+      "en": "pink nose",
+      "zh": "粉鼻子",
+      "rating": "g",
+      "count": 759,
+      "desc": "面部呈粉色的鼻子",
+      "kw": "粉色鼻子 / 粉红鼻 / 红粉鼻子 / 鼻子 / 动物特征"
+    },
+    {
+      "en": "pointy nose",
+      "zh": "尖鼻子",
+      "rating": "g",
+      "count": 6820,
+      "desc": "又大又长、在脸上很显眼的鼻子。",
+      "kw": "尖鼻头 / 长鼻子 / 尖长鼻子 / 尖鼻 / 鹰钩鼻 / 脸部特征"
+    },
+    {
+      "en": "red nose",
+      "zh": "红鼻子",
+      "rating": "g",
+      "count": 2125,
+      "desc": "红色的鼻子，包括小丑假鼻或冻红、酒糟鼻。",
+      "kw": "红鼻头 / 红色鼻子 / 发红的鼻子 / 鼻子 / 特征"
+    },
+    {
+      "en": "runny nose",
+      "zh": "流鼻涕",
+      "rating": "g",
+      "count": 1282,
+      "desc": "感冒或哭泣时鼻子流出鼻涕。",
+      "kw": "鼻涕 / 鼻水 / 流鼻水 / 清鼻涕 / 流清涕 / 挂鼻涕 / 鼻水滴落 / 淌鼻涕 / nosedrip / nose drip"
+    },
+    {
+      "en": "scar on nose",
+      "zh": "鼻部疤痕",
+      "rating": "g",
+      "count": 9775,
+      "desc": "位于鼻子上的伤疤",
+      "kw": "鼻子伤疤 / 鼻梁伤疤 / 鼻上疤痕 / 鼻部伤疤 / 鼻子上的疤 / 鼻部伤痕 / 鼻梁上的伤疤 / 伤疤 / nose scar"
+    },
+    {
+      "en": "snout",
+      "zh": "口鼻部",
+      "rating": "g",
+      "count": 11002,
+      "desc": "动物面部突出的口鼻部位",
+      "kw": "吻部 / 鼻口部 / 动物口鼻 / 嘴鼻部 / 动物特征 / 兽吻"
+    }
+  ]
+}

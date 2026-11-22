@@ -1,0 +1,667 @@
+{
+  "id": "wuthering_waves",
+  "name": "鸣潮",
+  "parentId": "games",
+  "order": 4,
+  "file": "games/wuthering_waves.json",
+  "characters": [
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "漂泊者",
+      "tag": "rover (wuthering waves)",
+      "charZh": "漂泊者（鸣潮）",
+      "auto": "black hair|黑发;low ponytail|低马尾;ahoge|呆毛;gloves|手套;sleeveless|无袖;thighhighs|过膝袜;thigh boots|过膝靴;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "秧秧",
+      "tag": "yangyang (wuthering waves)",
+      "charZh": "秧秧（鸣潮）",
+      "auto": "black hair|黑发;black eyes|黑瞳;armlet|臂环;bow|蝴蝶结;shorts|短裤;beret|贝雷帽;pinafore|背带裙;ankle boots|短靴;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "炽霞",
+      "tag": "chixia (wuthering waves)",
+      "charZh": "炽霞（鸣潮）",
+      "auto": "red hair|红发;ponytail|马尾;braid|麻花辫;red eyes|红瞳;forehead|额头;bangs|刘海;bow|蝴蝶结;shawl|披肩;arm warmers|护臂;fingerless gloves|露指手套",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "白芷",
+      "tag": "baizhi (wuthering waves)",
+      "charZh": "白芷（鸣潮）",
+      "auto": "black hair|黑发;long hair|长发;green eyes|绿瞳;hair clip|发夹;fingerless gloves|露指手套;hair flower|头花;hair beads|发珠;bare shoulders|裸肩;scientist|科学家",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "吟霖",
+      "tag": "yinlin (wuthering waves)",
+      "charZh": "吟霖（鸣潮）",
+      "auto": "red hair|红发;long hair|长发;high ponytail|高马尾;pink eyes|粉瞳;pointy ears|尖耳;hairband|发箍;small breasts|小胸;gloves|手套;earrings|耳环;backless|露背",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "忌炎",
+      "tag": "jiyan (wuthering waves)",
+      "charZh": "忌炎（鸣潮）",
+      "auto": "green hair|绿发;high ponytail|高马尾;boots|靴子;belt|腰带;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "卡卡罗",
+      "tag": "calcharo (wuthering waves)",
+      "charZh": "卡卡罗（鸣潮）",
+      "auto": "silver hair|银发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "鉴心",
+      "tag": "jianxin (wuthering waves)",
+      "charZh": "鉴心（鸣潮）",
+      "auto": "black hair|黑发;two-tone hair|双色发;twintails|双马尾;ahoge|呆毛;green eyes|绿瞳;gloves|手套;boots|靴子",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "散华",
+      "tag": "sanhua (wuthering waves)",
+      "charZh": "散华（鸣潮）",
+      "auto": "silver hair|银发;white hair|白发;red eyes|红瞳;beret|贝雷帽;ribbon|丝带;sidelocks|鬓发;updo|盘发;earrings|耳环;backless|露背;necklace|项链",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "丹瑾",
+      "tag": "danjin (wuthering waves)",
+      "charZh": "丹瑾（鸣潮）",
+      "auto": "red hair|红发;short hair|短发;ahoge|呆毛;blue eyes|蓝瞳;earrings|耳环;bow|蝴蝶结;gloves|手套;ankle boots|短靴",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "桃祈",
+      "tag": "taoqi (wuthering waves)",
+      "charZh": "桃祈（鸣潮）",
+      "auto": "pink hair|粉发;ahoge|呆毛;pink eyes|粉瞳;hair ornament|发饰;hair over one eye|遮单眼发;detached sleeves|分离袖;arm warmers|护臂;backless|露背;belt|腰带;black pantyhose|黑色连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "莫特斐",
+      "tag": "mortefi (wuthering waves)",
+      "charZh": "莫特斐（鸣潮）",
+      "auto": "red hair|红发;braid|麻花辫;red eyes|红瞳;scientist|科学家;glasses|眼镜;belt|腰带",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "凌阳",
+      "tag": "lingyang (wuthering waves)",
+      "charZh": "凌阳（鸣潮）",
+      "auto": "silver hair|银发;low ponytail|低马尾;ahoge|呆毛;grey eyes|灰瞳;animal ears|兽耳;tail|尾巴;armlet|臂环;headband|头带;bare shoulders|裸肩",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "安可",
+      "tag": "encore (wuthering waves)",
+      "charZh": "安可（鸣潮）",
+      "auto": "pink hair|粉发;twintails|双马尾;ahoge|呆毛;purple eyes|紫瞳;bow|蝴蝶结;hair beads|发珠;mary janes|玛丽珍鞋",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "今汐",
+      "tag": "jinhsi (wuthering waves)",
+      "charZh": "今汐（鸣潮）",
+      "auto": "white hair|白发;twintails|双马尾;braid|麻花辫;silver eyes|银瞳;blunt bangs|齐刘海;sleeveless|无袖;thigh boots|过膝靴;thighhighs|过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "长离",
+      "tag": "changli (wuthering waves)",
+      "charZh": "长离（鸣潮）",
+      "auto": "pink hair|粉发;twintails|双马尾;ahoge|呆毛;bangs|刘海;hair clip|发夹;hair ribbon|发带;small breasts|小胸;detached sleeves|分离袖;thighhighs|过膝袜;high heels|高跟鞋",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "折枝",
+      "tag": "zhezhi (wuthering waves)",
+      "charZh": "折枝（鸣潮）",
+      "auto": "black hair|黑发;twintails|双马尾;pink eyes|粉瞳;tail|尾巴;hair ribbon|发带;glasses|眼镜;cape|披风;fingerless gloves|露指手套",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "相里要",
+      "tag": "xiangli yao (wuthering waves)",
+      "charZh": "相里要（鸣潮）",
+      "auto": "white hair|白发;long hair|长发;ear piercing|耳钉;mechanical parts|机械部件;ribbon|丝带",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "守岸人",
+      "tag": "shorekeeper (wuthering waves)",
+      "charZh": "守岸人（鸣潮）",
+      "auto": "blue hair|蓝发;purple eyes|紫瞳;armlet|臂环;backless|露背;dress|连衣裙;high heels|高跟鞋;sandals|凉鞋",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "维里奈",
+      "tag": "verina (wuthering waves)",
+      "charZh": "维里奈（鸣潮）",
+      "auto": "blonde hair|金发;twintails|双马尾;green eyes|绿瞳;hairband|发箍;bow|蝴蝶结;pinafore|背带裙;fingerless gloves|露指手套",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "椿",
+      "tag": "camellya (wuthering waves)",
+      "charZh": "椿（鸣潮）",
+      "auto": "white hair|白发;twintails|双马尾;hair bun|发髻;grey eyes|灰瞳;hair flower|头花;dress|连衣裙;ring|戒指;earrings|耳环",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "珂莱塔",
+      "tag": "carlotta (wuthering waves)",
+      "charZh": "珂莱塔（鸣潮）",
+      "auto": "white hair|白发;ahoge|呆毛;blue eyes|蓝瞳;hairband|发箍;bow|蝴蝶结;detached sleeves|分离袖;gloves|手套;dress|连衣裙;thighhighs|过膝袜;shawl|披肩",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "菲比",
+      "tag": "phoebe (wuthering waves)",
+      "charZh": "菲比（鸣潮）",
+      "auto": "long hair|长发;purple eyes|紫瞳;sun hat|遮阳帽;blunt bangs|齐刘海;hair ornament|发饰;nun|修女;long sleeves|长袖;pantyhose|连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "赞妮",
+      "tag": "zani (wuthering waves)",
+      "charZh": "赞妮（鸣潮）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;tail|尾巴;bangs|刘海;necktie|领带;gloves|手套;belt|腰带;pouch|腰包;pants|长裤",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "卡提希娅",
+      "tag": "cartethyia (wuthering waves)",
+      "charZh": "卡提希娅（鸣潮）",
+      "auto": "blonde hair|金发;long hair|长发;braid|麻花辫;blue eyes|蓝瞳;halo|光环;pointy ears|尖耳;necklace|项链;bangs|刘海;backless|露背;high heels|高跟鞋",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "尤诺",
+      "tag": "iuno (wuthering waves)",
+      "charZh": "尤诺（鸣潮）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "弗洛洛",
+      "tag": "phrolova (wuthering waves)",
+      "charZh": "弗洛洛（鸣潮）",
+      "auto": "green hair|绿发;short hair|短发;braid|麻花辫;red eyes|红瞳;flower|花朵;hair over one eye|遮单眼发;bandage|绷带;earrings|耳环;bare shoulders|裸肩;ribbon|丝带",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "坎特蕾拉",
+      "tag": "cantarella (wuthering waves)",
+      "charZh": "坎特蕾拉（鸣潮）",
+      "auto": "purple hair|紫发;curly hair|卷发;blue eyes|蓝瞳;hairband|发箍;hair flower|头花;tsurime|吊眼;small breasts|小胸;tube top|抹胸;detached sleeves|分离袖;ring|戒指",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "露帕",
+      "tag": "lupa (wuthering waves)",
+      "charZh": "露帕（鸣潮）",
+      "auto": "red hair|红发;twintails|双马尾;green eyes|绿瞳;hairband|发箍;sleeveless|无袖;cape|披风;thigh boots|过膝靴;high heels|高跟鞋;gun|枪;spear|长枪",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "奥古斯塔",
+      "tag": "augusta (wuthering waves)",
+      "charZh": "奥古斯塔（鸣潮）",
+      "auto": "white hair|白发;long hair|长发;golden eyes|金瞳;armor|盔甲;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "布兰特",
+      "tag": "brant (wuthering waves)",
+      "charZh": "布兰特（鸣潮）",
+      "auto": "blue hair|蓝发;pink eyes|粉瞳;hair ornament|发饰;pirate|海盗;ear piercing|耳钉;mask|口罩;belt|腰带",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "阿布",
+      "tag": "abby (wuthering waves)",
+      "charZh": "阿布（鸣潮）",
+      "auto": "white hair|白发;short hair|短发;blue eyes|蓝瞳;jacket|夹克",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "洛可可",
+      "tag": "roccia (wuthering waves)",
+      "charZh": "洛可可（鸣潮）",
+      "auto": "blue hair|蓝发;twintails|双马尾;yellow eyes|黄瞳;small breasts|小胸;heterochromia|异色瞳;bow|蝴蝶结;hair beads|发珠;ring|戒指;ankle boots|短靴",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "伤痕",
+      "tag": "scar (wuthering waves)",
+      "charZh": "伤痕（鸣潮）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;coat|大衣;mask|口罩",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "卢克·赫尔森",
+      "tag": "luuk herssen (wuthering waves)",
+      "charZh": "卢克·赫尔森（鸣潮）",
+      "auto": "brown hair|棕发;short hair|短发;grey eyes|灰瞳;coat|大衣",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "渊武",
+      "tag": "yuanwu (wuthering waves)",
+      "charZh": "渊武（鸣潮）",
+      "auto": "blue hair|蓝发;blue eyes|蓝瞳;glasses|眼镜;sun hat|遮阳帽;gloves|手套;beard|胡须",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "釉瑚",
+      "tag": "youhu (wuthering waves)",
+      "charZh": "釉瑚（鸣潮）",
+      "auto": "blue hair|蓝发;hair bun|发髻;ahoge|呆毛;blue eyes|蓝瞳;bangs|刘海;hair flower|头花;hair clip|发夹;gloves|手套;shorts|短裤;ankle boots|短靴",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "灯灯",
+      "tag": "lumi (wuthering waves)",
+      "charZh": "灯灯（鸣潮）",
+      "auto": "brown hair|棕发;hair bun|发髻;braid|麻花辫;pink eyes|粉瞳;hair ribbon|发带;fingerless gloves|露指手套;thighhighs|过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "卜灵",
+      "tag": "buling (wuthering waves)",
+      "charZh": "卜灵（鸣潮）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;chinese clothes|中式服装",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "秋水",
+      "tag": "aalto (wuthering waves)",
+      "charZh": "秋水（鸣潮）",
+      "auto": "silver hair|银发;ponytail|马尾;yellow eyes|黄瞳;bangs|刘海;fingerless gloves|露指手套;belt|腰带;knee pads|护膝;boots|靴子",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "哥舒临",
+      "tag": "geshu lin (wuthering waves)",
+      "charZh": "哥舒临（鸣潮）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;armor|盔甲",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "克里斯托弗",
+      "tag": "cristoforo (wuthering waves)",
+      "charZh": "克里斯托弗（鸣潮）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳;coat|大衣",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "无冠者",
+      "tag": "crownless (wuthering waves)",
+      "charZh": "无冠者（鸣潮）",
+      "auto": "white hair|白发;long hair|长发;golden eyes|金瞳;armor|盔甲;mask|口罩",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "无梦者",
+      "tag": "dreamless (wuthering waves)",
+      "charZh": "无梦者（鸣潮）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "角",
+      "tag": "jue (wuthering waves)",
+      "charZh": "角（鸣潮）",
+      "auto": "horns|犄角;armor|盔甲;mask|口罩",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "赫卡忒",
+      "tag": "hecate (wuthering waves)",
+      "charZh": "赫卡忒（鸣潮）",
+      "auto": "white hair|白发;very long hair|超长发;red eyes|红瞳;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "利维坦",
+      "tag": "leviathan (wuthering waves)",
+      "charZh": "利维坦（鸣潮）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;coat|大衣",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "迷迭香",
+      "tag": "rosemary (wuthering waves)",
+      "charZh": "迷迭香（鸣潮）",
+      "auto": "white hair|白发;long hair|长发;green eyes|绿瞳;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "玛格丽特",
+      "tag": "margherita (wuthering waves)",
+      "charZh": "玛格丽特（鸣潮）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;hat|帽子",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "米娅",
+      "tag": "mya (wuthering waves)",
+      "charZh": "米娅（鸣潮）",
+      "auto": "pink hair|粉发;twintails|双马尾;blue eyes|蓝瞳;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "芙洛拉夫人",
+      "tag": "lady flora (wuthering waves)",
+      "charZh": "芙洛拉夫人（鸣潮）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "千咲",
+      "tag": "chisa (wuthering waves)",
+      "charZh": "千咲（鸣潮）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;kimono|和服",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "夏空",
+      "tag": "ciaccona (wuthering waves)",
+      "charZh": "夏空（鸣潮）",
+      "auto": "long hair|长发;hair ornament|发饰;dress|连衣裙;bard|吟游诗人",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "芙露德莉斯",
+      "tag": "fleurdelys (wuthering waves)",
+      "charZh": "芙露德莉斯（鸣潮）",
+      "auto": "white hair|白发;wings|翅膀;horns|角",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "泰缇斯",
+      "tag": "threnodian (wuthering waves)",
+      "charZh": "泰缇斯（鸣潮）",
+      "auto": "monster|怪物;wings|翅膀;giant|巨大",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "达妮娅",
+      "tag": "denia (wuthering waves)",
+      "charZh": "达妮娅（鸣潮）",
+      "auto": "pink hair|粉发;very long hair|超长发;purple eyes|紫瞳;hair ornament|发饰;off shoulder|露肩;white dress|白色连衣裙;black skirt|黑色短裙;red gloves|红色手套;choker|颈圈;necklace|项链;plush toy|毛绒玩偶;fur trim|毛边;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "洛瑟菈",
+      "tag": "lucilla (wuthering waves)",
+      "charZh": "洛瑟菈（鸣潮）",
+      "auto": "blue hair|蓝发;wavy hair|卷发;purple eyes|紫瞳;earrings|耳环;chinese clothes|中式服装",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "绯雪",
+      "tag": "hiyuki (wuthering waves)",
+      "charZh": "绯雪（鸣潮）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "穗穗",
+      "tag": "suisui (wuthering waves)",
+      "charZh": "穗穗（鸣潮）",
+      "auto": "blonde hair|金发;long hair|长发;curly hair|卷发;blue eyes|蓝瞳;hair ornament|发饰;chinese clothes|中式服装",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "嘉贝莉娜",
+      "tag": "galbrena (wuthering waves)",
+      "charZh": "嘉贝莉娜（鸣潮）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;streaked hair|挑染;black dress|黑色连衣裙;fur trim|毛边",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "莫宁",
+      "tag": "mornye (wuthering waves)",
+      "charZh": "莫宁（鸣潮）",
+      "auto": "light blue hair|浅蓝发;short hair|短发;bob cut|波波头;purple eyes|紫瞳;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "爱弥斯",
+      "tag": "aemeath (wuthering waves)",
+      "charZh": "爱弥斯（鸣潮）",
+      "auto": "pink hair|粉发;twintails|双马尾;red eyes|红瞳;hair ribbon|发带;white dress|白色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "景燃",
+      "tag": "jingran (wuthering waves)",
+      "charZh": "景燃（鸣潮）",
+      "auto": "black hair|黑发;hat|帽子;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "丽贝卡",
+      "tag": "rebecca (wuthering waves)",
+      "charZh": "丽贝卡（鸣潮）",
+      "auto": "teal hair|青绿发;short hair|短发;heterochromia|异色瞳;tattoo|纹身;jacket|夹克",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "心",
+      "tag": "hsin (wuthering waves)",
+      "charZh": "心（鸣潮）",
+      "auto": "white hair|白发;red eyes|红瞳;hair ornament|发饰;chinese clothes|中式服装;fur trim|毛边",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "锁暝",
+      "tag": "suoming (wuthering waves)",
+      "charZh": "锁暝（鸣潮）",
+      "auto": "red hair|红发;ponytail|马尾;red eyes|红瞳;hair ornament|发饰;black dress|黑色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "仇远",
+      "tag": "qiuyuan (wuthering waves)",
+      "charZh": "仇远（鸣潮）",
+      "auto": "black hair|黑发;long hair|长发;hair ribbon|发带;chinese clothes|中式服装",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "西格莉卡",
+      "tag": "sigrika (wuthering waves)",
+      "charZh": "西格莉卡（鸣潮）",
+      "auto": "orange hair|橙发;hair bun|发髻;green eyes|绿瞳;pointy ears|尖耳;feather hair ornament|羽毛发饰",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "清宵",
+      "tag": "qingxiao (wuthering waves)",
+      "charZh": "清宵（鸣潮）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;hair ornament|发饰;earrings|耳环",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "琳奈",
+      "tag": "lynae (wuthering waves)",
+      "charZh": "琳奈（鸣潮）",
+      "auto": "blonde hair|金发;medium hair|中长发;purple eyes|紫瞳;choker|颈圈",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "露西",
+      "tag": "lucy (wuthering waves)",
+      "charZh": "露西（鸣潮）",
+      "auto": "white hair|白发;short hair|短发;purple eyes|紫瞳;streaked hair|挑染",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "漂泊者（女）",
+      "tag": "female rover (wuthering waves)",
+      "charZh": "漂泊者（女）（鸣潮）",
+      "auto": "black hair|黑发;long hair|长发;yellow eyes|金瞳;black outfit|黑衣;white scarf|白围巾;tacet mark (wuthering waves)|声痕",
+      "subName": ""
+    },
+    {
+      "game": "鸣潮",
+      "gameTag": "wuthering waves",
+      "name": "漂泊者（男）",
+      "tag": "male rover (wuthering waves)",
+      "charZh": "漂泊者（男）（鸣潮）",
+      "auto": "1boy|男;black hair|黑发;short hair|短发;yellow eyes|金瞳;black jacket|黑夹克;high collar|高领",
+      "subName": ""
+    }
+  ],
+  "count": 73
+}

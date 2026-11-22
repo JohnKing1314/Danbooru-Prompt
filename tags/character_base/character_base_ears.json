@@ -1,0 +1,635 @@
+{
+  "id": "ears",
+  "name": "耳朵",
+  "icon": "🦊",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 6,
+  "file": "character_base/character_base_ears.json",
+  "updatedAt": "2026-11-22T12:39:36.666Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "animal ears",
+      "zh": "兽耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1816292,
+      "desc": "角色头部有真实或假的动物耳朵",
+      "kw": "动物耳朵 / 兽耳角色 / 兽耳娘 / 毛茸茸耳朵 / 动物耳 / 兽耳属性 / 兽娘耳 / 兽耳发型 / kemonomimi / pokemon ears / 獣娘 / 獣耳"
+    },
+    {
+      "en": "animal ear fluff",
+      "zh": "兽耳绒毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 379662,
+      "desc": "兽耳内侧突出的绒毛",
+      "kw": "兽耳毛 / 兽耳内绒毛 / 耳朵绒毛 / 兽耳毛绒 / 动物耳朵绒毛 / 耳内绒毛 / 毛茸茸"
+    },
+    {
+      "en": "fox ears",
+      "zh": "狐耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 226507,
+      "desc": "长而尖、颜色较浅的狐耳",
+      "kw": "狐狸耳朵 / 狐狸耳 / 狐耳朵 / 狐狸耳饰 / 狐耳兽耳 / 兽耳 / kitsunemimi / きつね耳 / キツネ耳 / きつねみみ"
+    },
+    {
+      "en": "cat ears",
+      "zh": "猫耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 419405,
+      "desc": "角色长有或佩戴猫耳；不用于真实猫",
+      "kw": "猫耳朵 / 猫咪耳朵 / 猫耳饰 / 猫耳发饰 / 猫耳头饰 / 兽耳 / 头饰 / nekomimi / catears / ネコミミ / ねこみみ"
+    },
+    {
+      "en": "rabbit ears",
+      "zh": "兔耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 334794,
+      "desc": "角色长有或戴着兔耳。",
+      "kw": "兔耳朵 / 兔子耳朵 / 兔耳头饰 / 假兔耳 / 真兔耳 / 兽耳 / 动物耳 / bunny ears / bunny ear / rabbit ear / うさぎ耳"
+    },
+    {
+      "en": "elf ears",
+      "zh": "精灵耳",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "pointy ears",
+      "zh": "尖耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 621964,
+      "desc": "末端尖的耳朵，常见于精灵、瓦肯人或兽耳角色",
+      "kw": "尖耳朵 / 精灵耳 / 精灵耳朵 / 尖尖耳 / 兽耳 / 尖耳廓 / 长耳 / 尖长耳 / pointed ears / pointy ear / elf ears / elven ears"
+    },
+    {
+      "en": "round ears",
+      "zh": "圆耳",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bear ears",
+      "zh": "熊耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16580,
+      "desc": "熊那样小而圆的耳朵",
+      "kw": "熊耳朵 / 熊的耳朵 / 圆耳朵 / 兽耳 / 动物耳 / 毛茸茸 / くまみみ"
+    },
+    {
+      "en": "wolf ears",
+      "zh": "狼耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 119505,
+      "desc": "长在角色头上的狼耳",
+      "kw": "狼耳朵 / 野狼耳 / 灰狼耳 / 兽耳 / 动物耳 / coyote ears / ookamimimi"
+    },
+    {
+      "en": "dog ears",
+      "zh": "狗耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 93684,
+      "desc": "长着或戴着狗耳",
+      "kw": "犬耳 / 狗狗耳朵 / 狗耳朵 / 犬系耳 / 狗耳兽耳 / 兽耳 / inumimi / dog ear / african wild dog ears"
+    },
+    {
+      "en": "mouse ears",
+      "zh": "鼠耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36776,
+      "desc": "角色长有或佩戴的圆形鼠耳。",
+      "kw": "老鼠耳 / 鼠耳朵 / 米老鼠耳 / 圆耳 / 小圆耳 / 老鼠耳朵 / 兽耳 / rat ears / nezumimi / ねずみみ"
+    },
+    {
+      "en": "horse ears",
+      "zh": "马耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 248981,
+      "desc": "马一样细长的兽耳",
+      "kw": "马耳朵 / 马兽耳 / 兽耳 / 动物耳朵 / 马娘 / 馬耳"
+    },
+    {
+      "en": "axolotl ears",
+      "zh": "蝾螈耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 185,
+      "desc": "形似美西螈外鳃的兽耳。",
+      "kw": "六角恐龙耳 / 墨西哥钝口螈耳 / 美西螈鳃耳 / 六角恐龙鳃耳 / 钝口螈耳 / 蝾螈耳朵 / 动物耳 / 耳朵"
+    },
+    {
+      "en": "bat ears",
+      "zh": "蝙蝠耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4843,
+      "desc": "人类角色头上的蝙蝠状兽耳",
+      "kw": "蝙蝠耳朵 / 蝙蝠兽耳 / 蝠耳 / 蝙蝠耳娘特征 / 兽耳 / 动物耳 / コウモリ耳"
+    },
+    {
+      "en": "cow ears",
+      "zh": "牛耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28427,
+      "desc": "牛耳或牛耳造型饰品",
+      "kw": "牛耳朵 / 牛耳饰品 / 奶牛耳 / 动物耳 / 兽耳 / ox ears / ushimimi"
+    },
+    {
+      "en": "deer ears",
+      "zh": "鹿耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8347,
+      "desc": "角色长着鹿的动物耳朵",
+      "kw": "鹿耳朵 / 驯鹿耳 / 麋鹿耳 / 鹿耳兽耳 / 兽耳 / 动物耳 / reindeer ears"
+    },
+    {
+      "en": "ferret ears",
+      "zh": "雪貂耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 932,
+      "desc": "角色长有雪貂形状的兽耳",
+      "kw": "雪貂兽耳 / 貂耳 / 兽耳 / 动物耳 / ferretmimi"
+    },
+    {
+      "en": "goat ears",
+      "zh": "山羊耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6630,
+      "desc": "山羊形状的兽耳",
+      "kw": "羊耳 / 山羊耳朵 / 羊耳朵 / 兽耳 / 动物耳 / 幻想 / ヤギ耳"
+    },
+    {
+      "en": "lion ears",
+      "zh": "狮耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15512,
+      "desc": "狮子形状的兽耳",
+      "kw": "狮子兽耳 / 狮兽耳 / 狮子耳饰 / 狮子耳型 / 兽耳 / 动物耳 / 獅子耳"
+    },
+    {
+      "en": "monkey ears",
+      "zh": "猴耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2260,
+      "desc": "角色长着一对猴耳而非普通人耳",
+      "kw": "猴子耳朵 / 猿耳 / 类人猿耳朵 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "panda ears",
+      "zh": "熊猫耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3303,
+      "desc": "类似熊猫的兽耳。",
+      "kw": "熊猫兽耳 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "pig ears",
+      "zh": "猪耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1485,
+      "desc": "角色长着猪的耳朵",
+      "kw": "猪的耳朵 / 猪耳特性 / 兽耳 / 头饰 / 动物耳 / 豚耳"
+    },
+    {
+      "en": "raccoon ears",
+      "zh": "浣熊耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20982,
+      "desc": "模仿浣熊或狸猫耳朵的兽耳",
+      "kw": "狸猫耳朵 / 狸耳 / 浣熊兽耳 / 狸猫兽耳 / 小浣熊耳 / 浣熊耳兽耳 / 动物耳朵 / tanuki ears / tanukimimi"
+    },
+    {
+      "en": "sheep ears",
+      "zh": "羊耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7533,
+      "desc": "人类角色身上的绵羊样兽耳",
+      "kw": "绵羊耳 / 羊耳朵 / 绵羊耳朵 / 兽耳羊 / 羊兽耳 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "squirrel ears",
+      "zh": "松鼠耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6467,
+      "desc": "角色长有松鼠的耳朵",
+      "kw": "松鼠兽耳 / 松鼠的耳朵 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "tiger ears",
+      "zh": "虎耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26103,
+      "desc": "长在人身上的老虎耳朵",
+      "kw": "老虎耳朵 / 老虎耳 / 虎耳朵 / 兽耳 / 动物耳 / トラ耳"
+    },
+    {
+      "en": "floppy ears",
+      "zh": "垂耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18512,
+      "desc": "无力垂下、无法自行竖起的动物长耳",
+      "kw": "耷拉耳 / 趴耳 / 塌耳 / 软垂耳 / 垂耳朵 / 耷拉耳朵 / 无力垂耳 / 垂耳兽耳 / 垂れ耳"
+    },
+    {
+      "en": "hair ears",
+      "zh": "发耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6761,
+      "desc": "头发形成的假兽耳",
+      "kw": "头发假兽耳 / 头发耳朵 / 发型兽耳 / 头发做的兽耳 / 假兽耳发型 / 发丝兽耳 / 耳状发 / 耳状发"
+    },
+    {
+      "en": "long pointy ears",
+      "zh": "长尖耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 52279,
+      "desc": "明显长于一般的尖耳",
+      "kw": "长尖耳朵 / 尖长耳朵 / 长精灵耳 / 类似精灵的长耳 / 长耳尖 / 耳朵 / 精灵特征"
+    },
+    {
+      "en": "robot ears",
+      "zh": "机器人耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9848,
+      "desc": "天线状或其他机械部件形状的机器耳",
+      "kw": "机器耳 / 天线耳 / 机械性耳朵 / 机械部件耳 / 机器耳朵 / 天线状耳朵 / 机械耳状物 / メカ耳 / ロボ耳 / 機械耳"
+    },
+    {
+      "en": "ears down",
+      "zh": "耳朵下垂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9977,
+      "desc": "通常竖立的兽耳因情绪而垂下",
+      "kw": "垂耳 / 耷拉耳朵 / 耳朵耷拉 / 兽耳下垂 / 动物耳朵下垂 / 垂耳状态 / 耳朵向下 / 耳朵低下"
+    },
+    {
+      "en": "one ear down",
+      "zh": "折耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1860,
+      "desc": "兽耳一侧竖起另一侧下垂。",
+      "kw": "单耳耷拉 / 一只耳朵下垂 / 单耳垂落 / 兽耳一侧下垂 / 不对称兽耳 / 耳朵 / 动物特征 / single ear down / unaligned ears"
+    },
+    {
+      "en": "ears through headwear",
+      "zh": "耳穿头饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21807,
+      "desc": "兽耳从帽子等头饰中穿出",
+      "kw": "兽耳穿过帽子 / 耳朵从头饰穿出 / 动物耳穿头饰 / 耳朵穿孔头饰 / 耳朵穿过头饰 / 头饰特征"
+    },
+    {
+      "en": "ears under headwear",
+      "zh": "头饰下的耳朵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 450,
+      "desc": "兽耳被头饰部分或完全遮住",
+      "kw": "帽子压耳 / 头饰压住兽耳 / 被头饰遮住的耳朵 / 耳朵 / 头饰"
+    },
+    {
+      "en": "notched ear",
+      "zh": "缺口耳",
+      "rating": "s",
+      "nsfw": false,
+      "count": 7440,
+      "desc": "耳朵因旧伤出现缺口，常见于流浪猫",
+      "kw": "耳朵缺口 / 耳朵有缺口 / 耳缘缺口 / 耳朵破损 / 耳朵撕裂 / 缺耳角 / 耳朵 / 动物特征 / torn ear / chipped ear / broken ear"
+    },
+    {
+      "en": "lipstick mark on ear",
+      "zh": "耳上的唇印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "ear focus",
+      "zh": "耳朵特写",
+      "rating": "g",
+      "nsfw": false,
+      "count": 186,
+      "desc": "画面重点强调耳朵",
+      "kw": "耳部特写 / 耳朵焦点 / 耳朵重点 / 特写镜头 / 耳朵 / 焦点 / ears focus / ear"
+    },
+    {
+      "en": "alpaca ears",
+      "zh": "羊驼耳",
+      "rating": "g",
+      "count": 1395,
+      "desc": "模仿羊驼长耳朵的兽耳。",
+      "kw": "羊驼耳朵 / 羊驼兽耳 / 羊驼耳型兽耳 / 羊驼长耳 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "anteater ears",
+      "zh": "食蚁兽耳朵",
+      "rating": "g",
+      "count": 513,
+      "desc": "模仿食蚁兽的兽耳",
+      "kw": "食蚁兽兽耳 / 食蚁兽耳 / 仿食蚁兽耳朵 / 食蚁兽特征耳 / 兽耳 / 动物特征"
+    },
+    {
+      "en": "beaver ears",
+      "zh": "海狸耳",
+      "rating": "g",
+      "count": 537,
+      "desc": "海狸那样圆小的兽耳",
+      "kw": "海狸耳朵 / 河狸耳 / 河狸耳朵 / 海狸兽耳 / 河狸兽耳 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "bird ears",
+      "zh": "鸟耳",
+      "rating": "g",
+      "count": 10854,
+      "desc": "具有鸟类特征的兽耳或羽毛耳",
+      "kw": "鸟类耳朵 / 羽毛耳 / 羽耳 / 鸟兽耳 / 禽耳 / 动物耳 / 幻想"
+    },
+    {
+      "en": "chipmunk ears",
+      "zh": "花栗鼠耳朵",
+      "rating": "g",
+      "count": 809,
+      "desc": "花栗鼠样式的兽耳",
+      "kw": "花栗鼠兽耳 / 花鼠耳 / 花栗鼠耳 / 兽耳 / 动物耳朵"
+    },
+    {
+      "en": "colored inner animal ears",
+      "zh": "动物耳内上色",
+      "rating": "g",
+      "count": 10694,
+      "desc": "兽耳内侧呈现不自然的颜色",
+      "kw": "兽耳内侧着色 / 动物耳朵内侧上色 / 耳朵内有颜色 / 彩色兽耳内侧 / 兽耳内里上色 / 动物耳彩色内里 / 兽耳内侧上色 / 有色内耳"
+    },
+    {
+      "en": "dragon ears",
+      "zh": "龙耳",
+      "rating": "g",
+      "count": 2038,
+      "desc": "龙女或龙男头上的耳朵。",
+      "kw": "龙耳朵 / 龙角耳 / 龙族耳朵 / 龙人耳 / 龙耳廓 / 动物耳 / 幻想"
+    },
+    {
+      "en": "drawn ears",
+      "zh": "画上去的耳朵",
+      "rating": "g",
+      "count": 2837,
+      "desc": "在角色脸上画出的动物耳朵（非真实）。",
+      "kw": "画出来的耳朵 / 画的动物耳朵 / 画上的耳朵 / 手绘耳朵 / 假耳朵 / 耳朵 / 绘画风格 / 画的耳朵"
+    },
+    {
+      "en": "droopy ears",
+      "zh": "垂耳",
+      "rating": "g",
+      "count": 3001,
+      "desc": "天生向下耷拉的动物耳朵。",
+      "kw": "下垂耳 / 耷拉耳 / 耷拉耳朵 / 垂耳朵 / 软垂耳 / 耳朵 / 动物特征"
+    },
+    {
+      "en": "ears through hood",
+      "zh": "耳朵穿出兜帽",
+      "rating": "g",
+      "count": 1509,
+      "desc": "兽耳从兜帽中穿出",
+      "kw": "兜帽挖洞露耳 / 耳朵从兜帽穿出 / 兽耳穿出帽子 / 帽子露耳 / 兜帽露出耳朵 / 兜帽开洞耳朵 / 帽子外露耳朵 / 耳朵穿过兜帽"
+    },
+    {
+      "en": "ears visible through hair",
+      "zh": "耳朵透过头发可见",
+      "rating": "g",
+      "count": 1500,
+      "desc": "耳朵透过头发隐约可见",
+      "kw": "发间露耳 / 耳朵透发 / 透过头发看到耳朵 / 发下耳朵 / 头发间露出耳朵 / 耳廓可见 / 耳朵 / 发型特征"
+    },
+    {
+      "en": "giraffe ears",
+      "zh": "长颈鹿耳朵",
+      "rating": "g",
+      "count": 690,
+      "desc": "长颈鹿形状的兽耳",
+      "kw": "长颈鹿兽耳 / 长颈鹿耳 / 长颈鹿形状耳朵 / 长颈鹿动物耳 / 长颈鹿兽耳造型 / 长颈鹿耳朵装饰 / 长颈鹿耳饰 / 长颈鹿可爱耳朵"
+    },
+    {
+      "en": "hamster ears",
+      "zh": "仓鼠耳朵",
+      "rating": "g",
+      "count": 643,
+      "desc": "仓鼠形状的兽耳",
+      "kw": "仓鼠耳 / 仓鼠兽耳 / 鼠耳 / 仓鼠耳朵形 / 小仓鼠耳 / 兽耳 / 头饰"
+    },
+    {
+      "en": "hippopotamus ears",
+      "zh": "河马耳朵",
+      "rating": "g",
+      "count": 600,
+      "desc": "河马造型的兽耳",
+      "kw": "河马兽耳 / 河马耳 / 河马造型耳朵 / 河马拟人耳朵 / 河马耳饰 / 动物耳"
+    },
+    {
+      "en": "hyena ears",
+      "zh": "鬣狗耳朵",
+      "rating": "g",
+      "count": 2530,
+      "desc": "形状像鬣狗的兽耳",
+      "kw": "鬣狗耳 / 鬣狗兽耳 / 土狼耳朵 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "implied extra ears",
+      "zh": "暗示额外耳朵",
+      "rating": "g",
+      "count": 1207,
+      "desc": "兽耳角色暗示还藏着人类耳朵",
+      "kw": "暗示还有耳朵 / 暗示隐藏耳朵 / 暗示第二对耳朵 / 暗示人类耳朵 / 耳机遮耳 / 暗示额外的耳朵 / 耳朵 / 兽耳 / pointless headphones"
+    },
+    {
+      "en": "jackal ears",
+      "zh": "胡狼耳",
+      "rating": "g",
+      "count": 5004,
+      "desc": "胡狼形状的兽耳",
+      "kw": "豺耳 / 豺狼耳 / 胡狼耳朵 / 豺狼耳朵 / 胡狼兽耳 / 豺狼兽耳 / 动物耳"
+    },
+    {
+      "en": "jaguar ears",
+      "zh": "美洲豹耳",
+      "rating": "g",
+      "count": 2563,
+      "desc": "美洲豹形状的兽耳",
+      "kw": "美洲豹耳朵 / 美洲豹兽耳 / 美洲豹耳兽耳 / 豹耳（美洲豹） / 美洲豹兽人耳 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "komainu ears",
+      "zh": "狛犬耳",
+      "rating": "g",
+      "count": 1271,
+      "desc": "角色拥有基于狛犬的动物耳朵。",
+      "kw": "兽耳 / 日本风"
+    },
+    {
+      "en": "large ears",
+      "zh": "大耳朵",
+      "rating": "g",
+      "count": 2749,
+      "desc": "明显大于正常尺寸的耳朵",
+      "kw": "大耳 / 巨耳 / 大耳廓 / 耳朵 / big ears"
+    },
+    {
+      "en": "leopard ears",
+      "zh": "豹耳",
+      "rating": "g",
+      "count": 1425,
+      "desc": "豹子形状的兽耳。",
+      "kw": "豹耳朵 / 豹兽耳 / 豹子耳朵 / 花豹耳 / 豹耳装饰 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "lop rabbit ears",
+      "zh": "垂耳兔耳",
+      "rating": "g",
+      "count": 3553,
+      "desc": "向下垂落的兔耳",
+      "kw": "垂耳兔耳朵 / 垂耳兔的耳朵 / 折耳兔耳 / 垂耳兔耳造型 / 下垂兔耳 / 兔耳 / 头饰"
+    },
+    {
+      "en": "mechanical ears",
+      "zh": "机械耳朵",
+      "rating": "g",
+      "count": 3905,
+      "desc": "外形仿照真实耳朵的机械耳",
+      "kw": "机械耳 / 金属耳朵 / 机械仿生耳 / 机械式耳朵 / 机耳 / 机械 / 耳朵 / 科幻 / メカ耳"
+    },
+    {
+      "en": "mismatched animal ear colors",
+      "zh": "不匹配的兽耳颜色",
+      "rating": "g",
+      "count": 660,
+      "desc": "角色两侧兽耳颜色不同。",
+      "kw": "不同色兽耳 / 异色兽耳 / 两侧兽耳颜色不同 / 不对称兽耳"
+    },
+    {
+      "en": "moose ears",
+      "zh": "驼鹿耳朵",
+      "rating": "g",
+      "count": 848,
+      "desc": "角色长有驼鹿造型的兽耳。",
+      "kw": "驼鹿耳 / 驼鹿兽耳 / 驼鹿造型耳朵 / 驼鹿耳兽耳 / 麋鹿耳 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "no animal ears",
+      "zh": "没有动物耳朵",
+      "rating": "g",
+      "count": 341,
+      "desc": "通常有兽耳的角色未被画出兽耳",
+      "kw": "无兽耳 / 无动物耳 / 缺少兽耳 / 没画兽耳 / 无兽耳化 / 未画出兽耳 / 耳朵 / 否"
+    },
+    {
+      "en": "otter ears",
+      "zh": "水獭耳",
+      "rating": "g",
+      "count": 1419,
+      "desc": "基于水獭的兽耳。",
+      "kw": "水獭耳朵 / 水獭兽耳 / 水獭耳装饰 / 水獭耳兽耳 / 水獭耳朵兽耳 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "owl ears",
+      "zh": "猫头鹰耳朵",
+      "rating": "g",
+      "count": 1769,
+      "desc": "部分猫头鹰头顶形似耳朵的羽簇。",
+      "kw": "猫头鹰耳 / 鸮耳 / 羽角 / 耳羽 / 角羽 / 猫头鹰耳羽 / 兽耳 / 幻想耳朵"
+    },
+    {
+      "en": "panther ears",
+      "zh": "黑豹耳朵",
+      "rating": "g",
+      "count": 5638,
+      "desc": "黑豹的耳朵，即黑色的豹耳",
+      "kw": "黑豹耳 / 豹耳 / 黑色豹耳 / 黑豹兽耳 / 黑豹耳饰 / 兽耳"
+    },
+    {
+      "en": "red panda ears",
+      "zh": "小熊猫耳",
+      "rating": "g",
+      "count": 1543,
+      "desc": "以小熊猫为原型的兽耳",
+      "kw": "红熊猫耳朵 / 小熊猫兽耳 / 红熊猫兽耳 / 小熊猫耳朵 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "snow leopard ears",
+      "zh": "雪豹耳",
+      "rating": "g",
+      "count": 3534,
+      "desc": "基于雪豹的兽耳",
+      "kw": "雪豹耳朵 / 雪豹兽耳 / 雪豹耳兽耳 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "tapir ears",
+      "zh": "貘耳",
+      "rating": "g",
+      "count": 1979,
+      "desc": "以貘为原型的兽耳。",
+      "kw": "貘耳朵 / 貘兽耳 / 马来貘耳朵 / 貘耳兽耳 / 貘的耳朵 / 兽耳 / 动物耳"
+    },
+    {
+      "en": "tied ears",
+      "zh": "系起的兽耳",
+      "rating": "g",
+      "count": 987,
+      "desc": "动物耳朵被扎起或束在一起",
+      "kw": "绑起的兽耳 / 扎起的兽耳 / 束起的兽耳 / 捆起的兽耳 / 被绑的兽耳 / 耳朵被扎 / 兽耳被绑 / 系住耳朵"
+    },
+    {
+      "en": "very long ears",
+      "zh": "超长耳朵",
+      "rating": "g",
+      "count": 1179,
+      "desc": "长到至少与头部等长的耳朵",
+      "kw": "极长耳朵 / 长耳 / 长耳朵 / 特长耳朵 / 大长耳朵 / 耳朵很长 / 极长的耳朵 / 耳朵"
+    },
+    {
+      "en": "visible ears",
+      "zh": "露出耳朵",
+      "rating": "g",
+      "count": 529,
+      "desc": "头发或帽子未遮挡，能看到角色的耳朵",
+      "kw": "露耳 / 可见耳朵 / 外露耳朵 / 耳朵露出 / 耳朵可见 / 耳朵 / 人物特征"
+    },
+    {
+      "en": "weasel ears",
+      "zh": "鼬鼠耳朵",
+      "rating": "g",
+      "count": 2505,
+      "desc": "模仿鼬的动物耳朵",
+      "kw": "鼬耳 / 黄鼠狼耳朵 / 鼬鼠耳 / 黄鼬耳 / 兽耳 / 动物耳 / stoat ears"
+    }
+  ]
+}

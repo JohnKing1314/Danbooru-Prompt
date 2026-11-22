@@ -1,0 +1,343 @@
+{
+  "id": "honkai_impact_3rd",
+  "name": "崩坏3",
+  "parentId": "games",
+  "order": 13,
+  "file": "games/honkai_impact_3rd.json",
+  "characters": [
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "琪亚娜·卡斯兰娜",
+      "tag": "kiana kaslana",
+      "charZh": "琪亚娜·卡斯兰娜（崩坏3）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;ahoge|呆毛;hair between eyes|眼间发;very long hair|超长发;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "雷电芽衣",
+      "tag": "raiden mei",
+      "charZh": "雷电芽衣（崩坏3）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;purple hair|紫发;bare shoulders|露肩;horns|犄角;ponytail|马尾;black gloves|黑色手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "布洛妮娅·扎伊切克",
+      "tag": "bronya zaychik",
+      "charZh": "布洛妮娅·扎伊切克（崩坏3）",
+      "auto": "silver hair|银发;twin drills|双钻头卷;blue eyes|蓝瞳;grey hair|灰发;grey eyes|灰瞳;long hair|长发;hair between eyes|眼间刘海;bare shoulders|露肩;black gloves|黑手套;very long hair|超长发",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "爱莉希雅",
+      "tag": "elysia (honkai impact)",
+      "charZh": "爱莉希雅（崩坏3）",
+      "auto": "pink hair|粉发;long hair|长发;blue eyes|蓝瞳;elf ears|精灵耳;very long hair|超长发;pointy ears|尖耳;bare shoulders|露肩;white gloves|白色手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "符华",
+      "tag": "fu hua",
+      "charZh": "符华（崩坏3）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;hair between eyes|眼间发;grey hair|灰发;red eyes|红瞳;bare shoulders|露肩;streaked hair|挑染;blue hair|蓝发;low-tied long hair|低扎长发;yellow pupils|黄瞳孔",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "德丽莎·阿波卡利斯",
+      "tag": "theresa apocalypse",
+      "charZh": "德丽莎·阿波卡利斯（崩坏3）",
+      "auto": "white hair|白发;short hair|短发;blue eyes|蓝瞳;nun|修女;long hair|长发;hair between eyes|眼间发;bare shoulders|露肩;black dress|黑色连衣裙;long sleeves|长袖;side ponytail|侧马尾",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "八重樱",
+      "tag": "yae sakura",
+      "charZh": "八重樱（崩坏3）",
+      "auto": "pink hair|粉发;long hair|长发;fox ears|狐耳;miko|巫女;purple eyes|紫瞳;bare shoulders|露肩;hair between eyes|眼间发;katana|武士刀;holding sword|持剑;petals|花瓣",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "希儿·芙乐艾",
+      "tag": "seele vollerei",
+      "charZh": "希儿·芙乐艾（崩坏3）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;blue eyes|蓝瞳;bare shoulders|露肩;hair between eyes|眼间发;blue hair|蓝发;short hair|短发;black hair|黑发;white dress|白色连衣裙;hair flower|发花;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "帕朵菲莉丝",
+      "tag": "pardofelis",
+      "charZh": "帕朵菲莉丝（崩坏3）",
+      "auto": "brown hair|棕发;long hair|长发;cat ears|猫耳;blue eyes|蓝瞳;cat girl|猫娘;cat tail|猫尾;heterochromia|异色瞳;green eyes|绿瞳;black gloves|黑色手套;navel|肚脐;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "维尔薇",
+      "tag": "vill-v",
+      "charZh": "维尔薇（崩坏3）",
+      "auto": "purple hair|紫发;long hair|长发;blue eyes|蓝瞳;grey eyes|灰瞳;brown hair|棕发;hair between eyes|眼间发;brown gloves|棕色手套;hair intakes|内卷发;top hat|高礼帽;gears|齿轮;braid|单辫",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "格蕾修",
+      "tag": "griseo",
+      "charZh": "格蕾修（崩坏3）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;purple eyes|紫瞳;blue hair|蓝发;white dress|白色连衣裙;bare shoulders|露肩;ahoge|呆毛;beret|贝雷帽;very long hair|超长发;barefoot|赤脚;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "梅比乌斯",
+      "tag": "mobius (honkai impact)",
+      "charZh": "梅比乌斯（崩坏3）",
+      "auto": "green hair|绿发;long hair|长发;green eyes|绿瞳;bare shoulders|露肩;black gloves|黑色手套;hair between eyes|眼间发;black dress|黑色连衣裙;slit pupils|竖瞳;crown|皇冠;wavy hair|波浪发;sleeveless dress|无袖连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "渡鸦",
+      "tag": "raven (honkai impact)",
+      "charZh": "渡鸦（崩坏3）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;mole under mouth|嘴角痣;short hair|短发;purple eyes|紫瞳;grey hair|灰发;black bodysuit|黑色连体衣;ahoge|呆毛;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "卡莲·卡斯兰娜",
+      "tag": "kallen kaslana",
+      "charZh": "卡莲·卡斯兰娜（崩坏3）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳;hair between eyes|眼间发;braided ponytail|麻花辫马尾;long sleeves|长袖;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "罗莎莉亚",
+      "tag": "rozaliya olenyeva",
+      "charZh": "罗莎莉亚（崩坏3）",
+      "auto": "pink hair|粉发;short hair|短发;blue eyes|蓝瞳;long hair|长发;hair between eyes|眼间发;bare shoulders|露肩;thick eyebrows|浓眉;single horn|独角;tail|尾巴;black gloves|黑色手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "莉莉娅",
+      "tag": "liliya olenyeva",
+      "charZh": "莉莉娅（崩坏3）",
+      "auto": "blue hair|蓝发;short hair|短发;blue eyes|蓝瞳;long hair|长发;bare shoulders|露肩;hair between eyes|眼间发;tail|尾巴;single horn|独角;black gloves|黑色手套;thick eyebrows|浓眉;small breasts|小胸;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "丽塔·洛丝薇瑟",
+      "tag": "rita rossweisse",
+      "charZh": "丽塔·洛丝薇瑟（崩坏3）",
+      "auto": "black hair|黑发;short hair|短发;maid|女仆;hair over one eye|遮单眼发;brown hair|棕发;mole under eye|眼下泪痣;purple eyes|紫瞳;bare shoulders|露肩;red eyes|红瞳;hair flower|发花",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "幽兰黛尔",
+      "tag": "durandal (honkai impact)",
+      "charZh": "幽兰黛尔（崩坏3）",
+      "auto": "blonde hair|金发;long hair|长发;armor|盔甲;blue eyes|蓝瞳;hair between eyes|眼间发;very long hair|超长发;earrings|耳环;bare shoulders|露肩;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "阿波尼亚",
+      "tag": "aponia",
+      "charZh": "阿波尼亚（崩坏3）",
+      "auto": "white hair|白发;long hair|长发;nun|修女;hair between eyes|眼间发;blue eyes|蓝瞳;brown hair|棕发;long sleeves|长袖;mole under eye|眼下泪痣;habit|修女服;veil|面纱;black dress|黑色连衣裙;blonde hair|金发",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "时雨绮罗",
+      "tag": "shigure kira",
+      "charZh": "时雨绮罗（崩坏3）",
+      "auto": "blue hair|蓝发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "卡萝尔·佩珀",
+      "tag": "carole pepper",
+      "charZh": "卡萝尔·佩珀（崩坏3）",
+      "auto": "brown hair|棕发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "奥托·阿波卡利斯",
+      "tag": "otto apocalypse",
+      "charZh": "奥托·阿波卡利斯（崩坏3）",
+      "auto": "long hair|长发;blonde hair|金发;green eyes|绿瞳;hair between eyes|眼间发;long sleeves|长袖;side ponytail|侧马尾",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "李素裳",
+      "tag": "li sushang",
+      "charZh": "李素裳（崩坏3）",
+      "auto": "brown hair|棕发;brown eyes|棕瞳;bare shoulders|露肩;fingerless gloves|露指手套;white dress|白色连衣裙;very long hair|超长发;long hair|长发;hair ornament|发饰;white gloves|白色手套;elbow gloves|长筒手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "无量塔姬子",
+      "tag": "murata himeko",
+      "charZh": "无量塔姬子（崩坏3）",
+      "auto": "red hair|红发;yellow eyes|黄瞳;long hair|长发;mole on breast|乳痣;bare shoulders|露肩;black gloves|黑色手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "爱酱",
+      "tag": "ai-chan (honkai impact)",
+      "charZh": "爱酱 / 时帆旅人（崩坏3）",
+      "auto": "green hair|绿发;bare shoulders|露肩;black gloves|黑色手套;twintails|双马尾;fingerless gloves|露指手套;orange eyes|橙瞳;black dress|黑色连衣裙;long hair|长发;double bun|双丸子头;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "塞西莉亚·沙尼亚特",
+      "tag": "cecilia schariac",
+      "charZh": "塞西莉亚·沙尼亚特（崩坏3）",
+      "auto": "blue eyes|蓝瞳;white hair|白发;hair between eyes|眼间发;bare shoulders|露肩;long hair|长发;hair ornament|发饰;very long hair|超长发;earrings|耳环;grey hair|灰发;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "特斯拉",
+      "tag": "frederica nikola tesla",
+      "charZh": "芙蕾德莉卡·尼古拉·特斯拉（崩坏3）",
+      "auto": "red eyes|红瞳;red hair|红发;twintails|双马尾;long hair|长发;glasses|眼镜;hair between eyes|眼间发;white shirt|白衬衫;red necktie|红色领带;black skirt|黑色短裙;short sleeves|短袖;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "凯文·卡斯兰娜",
+      "tag": "kevin kaslana",
+      "charZh": "凯文·卡斯兰娜（崩坏3）",
+      "auto": "blue eyes|蓝瞳;white hair|白发;short hair|短发;hair between eyes|眼间发;white shirt|白衬衫;long sleeves|长袖;black coat|黑色大衣;black gloves|黑色手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "科斯魔",
+      "tag": "kosma",
+      "charZh": "科斯魔（崩坏3）",
+      "auto": "green hair|绿发;orange eyes|橙瞳;hair between eyes|眼间发;pointy ears|尖耳;horns|犄角;short hair|短发;green shirt|绿色衬衫;long sleeves|长袖;grey jacket|灰色夹克",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "薇塔",
+      "tag": "vita (honkai impact)",
+      "charZh": "薇塔（崩坏3）",
+      "auto": "hair between eyes|眼间发;red eyes|红瞳;long hair|长发;earrings|耳环;yellow pupils|黄瞳孔;ahoge|呆毛;grey hair|灰发;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "黑希儿",
+      "tag": "seele (alter ego)",
+      "charZh": "黑希儿 / 另一个我（崩坏3）",
+      "auto": "red eyes|红瞳;hair between eyes|眼间发;bare shoulders|露肩;black hair|黑发;long hair|长发;ahoge|呆毛;red hair|红发;hair ornament|发饰;short hair|短发;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "八重霞",
+      "tag": "yae kasumi",
+      "charZh": "八重霞（崩坏3）",
+      "auto": "pink hair|粉发;ninja|忍者;fox ears|狐耳;purple eyes|紫瞳;hair between eyes|眼间发;bare shoulders|露肩;fox mask|狐狸面具;hair ornament|发饰;holding sword|持剑;katana|武士刀;blue eyes|蓝瞳;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "绯玉丸",
+      "tag": "higokumaru",
+      "charZh": "绯玉丸（崩坏3）",
+      "auto": "fox ears|狐耳;pink hair|粉发;blue eyes|蓝瞳;hair between eyes|眼间发;long hair|长发;fox tail|狐尾;streaked hair|挑染;bare shoulders|露肩;multiple tails|多尾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "德丽莎·观星",
+      "tag": "zhuge kongming (honkai impact)",
+      "charZh": "朔夜观星 / 德丽莎·观星（崩坏3）",
+      "auto": "blue eyes|蓝瞳;white hair|白发;hair between eyes|眼间刘海;long hair|长发;hair ornament|发饰;chinese clothes|中式服饰;white thighhighs|白色过膝袜;hair flower|发花;long sleeves|长袖;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "西琳",
+      "tag": "sirin",
+      "charZh": "西琳（崩坏3）",
+      "auto": "purple hair|紫发;yellow eyes|黄瞳;hair between eyes|眼间刘海;very long hair|超长发;bare shoulders|露肩;long hair|长发;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "布洛妮娅·次生银翼",
+      "tag": "bronya zaychik (silverwing: n-ex)",
+      "charZh": "布洛妮娅·次生银翼 / 大鸭鸭（崩坏3）",
+      "auto": "grey hair|灰发;grey eyes|灰瞳;long hair|长发;hair between eyes|眼间刘海;bare shoulders|露肩;black gloves|黑手套;white dress|白裙;very long hair|超长发;twin drills|双螺旋卷;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏3",
+      "gameTag": "honkai impact 3rd",
+      "name": "缇米朵",
+      "tag": "timido cute",
+      "charZh": "缇米朵·丘特（崩坏3）",
+      "auto": "pink hair|粉发;bob cut|波波头;mouth mask|口罩;grey eyes|灰瞳;white gloves|白手套;short sleeves|短袖;short hair|短发;black leotard|黑色紧身衣;single glove|单边手套;medium hair|中长发;small breasts|小胸",
+      "subName": ""
+    }
+  ],
+  "count": 37
+}

@@ -1,0 +1,788 @@
+{
+  "id": "sex_toys",
+  "name": "性玩具",
+  "icon": "🔞",
+  "parentId": "props_group",
+  "level": 2,
+  "order": 5,
+  "file": "props_group/props_group_sex_toys.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "sex toy",
+      "zh": "性玩具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 77300,
+      "desc": "用于自慰或性行为的器具",
+      "kw": "性爱玩具 / 成人玩具 / 情趣玩具 / 自慰器具 / 情趣用品 / 性器具 / 道具 / 按摩棒 / sex toys / 大人のおもちゃ"
+    },
+    {
+      "en": "wand vibrator",
+      "zh": "按摩棒",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "magic wand",
+      "zh": "魔法棒",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "hitachi magic wand",
+      "zh": "日立魔法棒",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5025,
+      "desc": "日立牌电动震动棒，常被当作按摩棒使用",
+      "kw": "震动棒 / 电动震动棒 / 按摩棒 / 电动按摩棒 / 日立按摩棒 / 日立震动棒 / 魔杖按摩器 / 魔法棒振动器 / wand vibrator / 電マ / 電動マッサージ機 / 日立マジックワンド"
+    },
+    {
+      "en": "anal beads",
+      "zh": "肛珠",
+      "rating": "q",
+      "nsfw": true,
+      "count": 9968,
+      "desc": "串珠状的肛门刺激器具",
+      "kw": "肛门拉珠 / 肛门串珠 / 后庭拉珠 / 肛门玩具 / 串珠肛塞 / 拉珠 / 肛门珠 / 后庭串珠 / analbeads / 肛塞串珠 / アナルビーズ / アナルパール"
+    },
+    {
+      "en": "butt plug",
+      "zh": "肛塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7655,
+      "desc": "插入肛门的性玩具",
+      "kw": "肛门塞 / 后庭塞 / 肛栓 / 菊花塞 / 屁股塞 / 肛门玩具 / 性玩具 / buttplug / anal plug / アナルプラグ / ジュエリーアナルプラグ"
+    },
+    {
+      "en": "anal plug",
+      "zh": "肛塞",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "prostate massager",
+      "zh": "前列腺按摩器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 267,
+      "desc": "同时刺激前列腺与会阴的男性性玩具",
+      "kw": "前列腺按摩棒 / 前列腺刺激器 / 后庭按摩器 / 前高按摩器 / 男性专用按摩器 / 性玩具 / 成人用品"
+    },
+    {
+      "en": "fleshlight",
+      "zh": "飞机杯",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "sex machine",
+      "zh": "性爱机器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3510,
+      "desc": "模拟性交动作的机械装置，常用于BDSM。",
+      "kw": "性爱机械 / 炮机 / 打桩机 / 机械姦 / 做爱机器 / 自慰机器 / 机械奸 / 性玩具 / dildo machine / 機械姦"
+    },
+    {
+      "en": "cock ring",
+      "zh": "阴茎环",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1303,
+      "desc": "套在阴茎根部以维持勃起的环。",
+      "kw": "锁精环 / 锁阳环 / 阴茎套环 / 勃起环 / 男用环 / 羊眼圈 / 性玩具 / 成人用品 / penis ring"
+    },
+    {
+      "en": "vibrator egg",
+      "zh": "跳蛋",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "remote control vibrator",
+      "zh": "遥控跳蛋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 12543,
+      "desc": "由遥控器控制的振动棒",
+      "kw": "遥控震动器 / 遥控自慰器 / 遥控按摩棒 / 远程控制震动棒 / 性玩具 / 振动器 / リモコンバイブ"
+    },
+    {
+      "en": "public vibrator",
+      "zh": "公共场合跳蛋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 852,
+      "desc": "在公共场合使用跳蛋等振动器",
+      "kw": "公共场合使用振动器 / 公开跳蛋 / 当众振动器 / 公共场所跳蛋 / 公共场合使用跳蛋 / 跳蛋 / 性玩具 / 公开震动器"
+    },
+    {
+      "en": "double dildo",
+      "zh": "双头假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1496,
+      "desc": "两端都可用于插入的假阳具",
+      "kw": "双头龙 / 双头假阴茎 / 双头按摩棒 / 双头情趣玩具 / 双头成人玩具 / 双头假体 / 性玩具 / double sided dildo / two headed dildo / 双頭ディルド"
+    },
+    {
+      "en": "tail plug",
+      "zh": "尾巴肛塞",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "cat tail plug",
+      "zh": "猫尾肛塞",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "fox tail plug",
+      "zh": "狐尾肛塞",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "wolf tail plug",
+      "zh": "狼尾肛塞",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "bunny tail plug",
+      "zh": "兔尾肛塞",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "dragon tail plug",
+      "zh": "龙尾肛塞",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "tentacle dildo",
+      "zh": "触手假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 50,
+      "desc": "触手形状的成人玩具",
+      "kw": "触手阳具 / 触手按摩棒 / 触手自慰棒 / 触手造型玩具"
+    },
+    {
+      "en": "violet wand",
+      "zh": "电击棒",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "sex dice",
+      "zh": "性爱骰子",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "sex card",
+      "zh": "性爱卡牌",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "sex game",
+      "zh": "性爱游戏",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "double-ended dildo",
+      "zh": "双头假阳具",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "suction cup dildo",
+      "zh": "吸盘假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 536,
+      "desc": "底部带吸盘、可吸附墙面使用的假阳具",
+      "kw": "带吸盘的假阳具 / 吸盘式假阳具 / 吸盘按摩棒 / 吸盘假阴茎 / 假阳具 / 性玩具"
+    },
+    {
+      "en": "horse dildo",
+      "zh": "马形假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 589,
+      "desc": "模仿马阴茎形状的大型动物型假阳具，尺寸通常较大",
+      "kw": "马阴茎假阳具 / 马屌假阳具 / 马茎假阳具 / 马阳具假阳具 / 马型假阳具 / 马鞭假阳具 / 性玩具 / 假阳具（马）"
+    },
+    {
+      "en": "knot dildo",
+      "zh": "结形假阳具",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "anal tail",
+      "zh": "尾巴肛塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8420,
+      "desc": "带尾巴的肛塞，插入后像尾巴",
+      "kw": "带尾肛塞 / 肛塞尾 / 肛门尾巴 / 尾巴塞 / 玩具 / butt plug tail / tail plug / アナル尻尾"
+    },
+    {
+      "en": "onahole",
+      "zh": "飞机杯",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4086,
+      "desc": "男用自慰筒状玩具，飞机杯。",
+      "kw": "自慰杯 / 男用自慰器 / 名器 / 倒模 / 阴部 / 性玩具 / 道具 / 自慰器具 / artificial vagina / 人工阴道"
+    },
+    {
+      "en": "ass onahole",
+      "zh": "肛门自慰器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 31
+    },
+    {
+      "en": "tenga",
+      "zh": "典雅_/_TENGA",
+      "rating": "q",
+      "nsfw": true,
+      "count": 783,
+      "desc": "日本成人用品品牌，以杯状器具闻名",
+      "kw": "典雅 / TENGA转生～姐姐正太与精灵一起度过的无需伦理的异世界生活～ / 性玩具 / 道具 / TENGA公司 / テンガ"
+    },
+    {
+      "en": "jewel butt plug",
+      "zh": "宝石肛塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 770,
+      "desc": "末端镶有宝石的肛塞",
+      "kw": "珠宝肛塞 / 镶宝石肛塞 / 宝石肛门塞 / 钻石肛塞 / 宝石塞子 / 公主塞 / 肛塞 / 性玩具 / princess plug / ジュエリーアナルプラグ / じゅえりーあなるぷらぐ"
+    },
+    {
+      "en": "dildo",
+      "zh": "假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 32876,
+      "desc": "用于自慰的人造阴茎，部分可震动",
+      "kw": "假阴茎 / 按摩棒 / 人造阳具 / 仿真阳具 / 假鸡巴 / 震动棒 / 性玩具 / ディルド"
+    },
+    {
+      "en": "dildo gag",
+      "zh": "假阳具口塞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 704,
+      "desc": "带有假阳具的口塞，用于堵嘴。",
+      "kw": "口塞假阳具 / 假阴茎口塞 / 阳具口塞 / 阴茎口塞 / 性玩具 / 口塞 / 束缚 / penis gag / ペニスギャグ"
+    },
+    {
+      "en": "dildo under mask",
+      "zh": "口罩下的假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 122,
+      "desc": "面罩下含着假阳具",
+      "kw": "假阳具在面具下 / 面具下面的假阳具 / 口罩下含假阳具 / 假阳具藏在口罩下 / 面罩下的假阳具 / 性玩具 / 道具"
+    },
+    {
+      "en": "dildo harness",
+      "zh": "假阳具固定带",
+      "rating": "q",
+      "nsfw": true,
+      "count": 260,
+      "desc": "将假阳具固定在胯部的束带",
+      "kw": "假阳具固定束具 / 假阳具穿戴带 / 假阴茎束带 / 穿戴式假阳具 / 假阳具皮带 / 假阳具捆绑带 / 假阳具背带 / 假阳具固定装置"
+    },
+    {
+      "en": "dildo under panties",
+      "zh": "内裤下佩戴假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 662,
+      "desc": "内裤下插着假阳具",
+      "kw": "内裤里的假阳具 / 假阳具藏内裤 / 内裤下插假阳具 / 内裤内假阳具 / 内裤下的按摩棒 / 性玩具 / 内衣"
+    },
+    {
+      "en": "huge dildo",
+      "zh": "巨大假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1580,
+      "desc": "远大于普通阴茎的假阳具",
+      "kw": "超大假阳具 / 巨型假阳具 / 大号假阳具 / 巨大假阴茎 / 性玩具 / large dildo"
+    },
+    {
+      "en": "dragon dildo",
+      "zh": "龙形假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 172,
+      "desc": "龙或异形阴茎形状的假阳具。",
+      "kw": "龙假屌 / 龙阴茎形状假阳具 / 龙丁丁 / 异形假阳具 / 性玩具 / 假阳具 / 龙形"
+    },
+    {
+      "en": "spiked dildo",
+      "zh": "带刺假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 450,
+      "desc": "带有尖刺、凸点或罗纹的假阳具。",
+      "kw": "尖刺假阳具 / 带刺假阴茎 / 刺状假阳具 / 带钉假阳具 / 钉刺假阳具 / 凸点假阳具 / 罗纹假阳具 / 假阳具 / studded dildo / 带刺的假阳具"
+    },
+    {
+      "en": "strap-on",
+      "zh": "穿戴式假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3935,
+      "desc": "戴在胯部用来模拟男性生殖器的假阳具",
+      "kw": "穿戴假阳具 / 假阳具背带 / 绑戴假阳具 / 穿戴式阳具 / 假阴茎穿戴具 / 女用假阳具 / 假阳具绑带 / 穿戴式假阴茎 / strapon / strap on / ペニスバンド / ペニバン"
+    },
+    {
+      "en": "aneros",
+      "zh": "Aneros前列腺按摩器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 213,
+      "desc": "用于刺激前列腺的男性性玩具",
+      "kw": "前列腺按摩器 / 后庭按摩器 / 前列腺刺激器 / 阿内罗斯 / Aneros / 性玩具 / エネマグラ"
+    },
+    {
+      "en": "breast pump",
+      "zh": "吸奶器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 606,
+      "desc": "用吸力挤出母乳的装置",
+      "kw": "吸乳器 / 挤奶器 / 抽奶器 / 母乳泵 / 母乳吸出器 / 道具 / 医疗 / 搾乳機 / 搾乳器"
+    },
+    {
+      "en": "clitoris pump",
+      "zh": "阴蒂泵",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "penis pump",
+      "zh": "阴茎泵",
+      "rating": "q",
+      "nsfw": true,
+      "count": 17
+    },
+    {
+      "en": "sex doll",
+      "zh": "性爱玩偶",
+      "rating": "q",
+      "nsfw": true,
+      "count": 205,
+      "desc": "模拟人体外形与性功能的性爱玩偶",
+      "kw": "充气娃娃 / 实体娃娃 / 成人娃娃 / 硅胶娃娃 / 情趣娃娃 / 人偶 / 成人玩具"
+    },
+    {
+      "en": "too many sex toys",
+      "zh": "大量情趣用品",
+      "rating": "q",
+      "nsfw": true,
+      "count": 573,
+      "desc": "画面中至少四个、每人至少三个的性玩具，强调数量过多",
+      "kw": "太多性玩具 / 性玩具太多 / 情趣玩具太多 / 成人玩具太多 / 性爱玩具过多 / 大量性玩具 / 许多性玩具 / 过多的性玩具"
+    },
+    {
+      "en": "catheter",
+      "zh": "导尿管",
+      "rating": "e",
+      "nsfw": true,
+      "count": 266,
+      "desc": "插入尿道辅助排尿的医用导管",
+      "kw": "导液管 / 医用导管 / 尿道导管 / 输液管 / 导管 / 医疗器械 / pee tube / カテーテル / 尿道カテーテル"
+    },
+    {
+      "en": "urethral beads",
+      "zh": "尿道拉珠",
+      "rating": "e",
+      "nsfw": true,
+      "count": 343,
+      "desc": "为性刺激而插入尿道的串珠",
+      "kw": "尿道串珠 / 尿道珠子 / 尿道插珠 / 尿道玩具 / 尿道用串珠 / 性玩具"
+    },
+    {
+      "en": "vibrator",
+      "zh": "震动棒",
+      "rating": "q",
+      "nsfw": true,
+      "count": 33029,
+      "desc": "可振动的蛋形或棒状成人玩具",
+      "kw": "震动器 / 按摩棒 / 跳蛋 / 震动蛋 / 振动棒 / 电动玩具 / 成人震动器 / vibrators / ローター / バイブ"
+    },
+    {
+      "en": "butterfly vibrator",
+      "zh": "跳蛋",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "clitoral suction vibrator",
+      "zh": "阴蒂吸吮振动器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 91,
+      "desc": "带有吸吮功能的阴蒂按摩器",
+      "kw": "吸吮振动器 / 阴蒂吸吸器 / 阴蒂专用吸吮器"
+    },
+    {
+      "en": "egg vibrator",
+      "zh": "跳蛋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8542,
+      "desc": "蛋形或子弹形的小型振动器",
+      "kw": "震动蛋 / 震蛋 / 蛋形振动器 / 子弹振动器 / 迷你振动器 / 性玩具 / 振动器 / egg vibrators / bullet vibrator / ローター / ピンクローター"
+    },
+    {
+      "en": "rabbit vibrator",
+      "zh": "兔型振动器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 558,
+      "desc": "杆身中部带刺激阴蒂附件的震动棒",
+      "kw": "兔女郎震动棒 / 兔头震动棒 / 兔形按摩棒 / 兔子自慰棒 / 兔子按摩器 / 兔形振动器 / 兔子跳蛋 / 性玩具 / bunny vibrator"
+    },
+    {
+      "en": "riding machine",
+      "zh": "骑乘机",
+      "rating": "q",
+      "nsfw": true,
+      "count": 106,
+      "desc": "模拟骑马动作的健身器材",
+      "kw": "骑马器 / 骑马健身机 / 模拟骑马器 / 骑马运动机 / 骑乘机器 / 性玩具 / 道具"
+    },
+    {
+      "en": "sybian",
+      "zh": "Sybian按摩椅",
+      "rating": "q",
+      "nsfw": true,
+      "count": 161,
+      "desc": "中间装有振动棒的骑乘式自慰机器",
+      "kw": "西比安 / 骑乘式自慰机 / 震动骑乘机 / 骑乘振动椅 / 西比安自慰椅 / 赛比安 / 性玩具 / 成人用品"
+    },
+    {
+      "en": "vibrator under clothes",
+      "zh": "衣下震动棒",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4987,
+      "desc": "藏在衣服里使用的震动棒，常用于公共场合",
+      "kw": "衣物下震动棒 / 衣服下藏震动棒 / 衣服内震动棒 / 衣物内震动棒 / 衣服里塞震动棒 / 衣服下塞震动棒 / 衣服下的跳蛋 / 性玩具 / 衣服下的震动器"
+    },
+    {
+      "en": "vibrator in thigh strap",
+      "zh": "大腿带藏跳蛋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1595,
+      "desc": "振动器或遥控器放在大腿绑带中防止滑落",
+      "kw": "大腿绑带中的震动器 / 大腿带上的震动器 / 腿环震动器 / 大腿绑带震动棒 / 大腿绑带遥控器 / 大腿绑带跳蛋 / 大腿袜带内的跳蛋 / 情趣玩具 / vibrator in leg garter"
+    },
+    {
+      "en": "vibrator in thighhighs",
+      "zh": "过膝袜内跳蛋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2136,
+      "desc": "塞在过膝袜里防止滑落的振动器或遥控器。",
+      "kw": "大腿袜里的跳蛋 / 过膝袜内的震动器 / 袜内跳蛋 / 过膝袜中的震动器 / 跳蛋 / 过膝袜 / 成人玩具 / 大腿袜里的震动器"
+    },
+    {
+      "en": "vibrator under panties",
+      "zh": "内裤下藏跳蛋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2426,
+      "desc": "藏在内裤下面的振动器，常与BDSM或户外露出相关",
+      "kw": "内裤里塞振动器 / 内裤藏跳蛋 / 内裤里跳蛋 / 内裤下跳蛋 / 内裤里震动器 / 穿着内裤塞跳蛋 / 内裤内振动器 / 内裤里的跳蛋 / 内裤下的震动器 / 内裤里的震动器 / バイブinパンツ"
+    },
+    {
+      "en": "vibrator under pantyhose",
+      "zh": "连裤袜下藏跳蛋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 100,
+      "desc": "藏在连裤袜下面的振动器/跳蛋",
+      "kw": "裤袜下的振动器 / 连裤袜内振动器 / 丝袜下振动器 / 连裤袜里的振动棒 / 裤袜里的跳蛋 / 丝袜下跳蛋 / 连裤袜下震动棒 / 裤袜下震动器"
+    },
+    {
+      "en": "vibrator in anus",
+      "zh": "肛门跳蛋",
+      "rating": "e",
+      "nsfw": true,
+      "count": 635,
+      "desc": "插入肛门内的振动器。",
+      "kw": "肛门振动器 / 肛内振动器 / 肛门按摩棒 / 后庭震动棒 / 插入肛门的振动器 / 后庭跳蛋 / 性玩具 / 肛门玩具 / 肛门里的震动器"
+    },
+    {
+      "en": "vibrator on nipple",
+      "zh": "乳头振动器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1944,
+      "desc": "放置在乳头上的振动器，常用跳蛋贴住",
+      "kw": "乳头按摩器 / 跳蛋贴乳头 / 乳头用震动棒 / 乳头震蛋 / 性玩具 / 振动器 / nipple vibrator"
+    },
+    {
+      "en": "vibrator on penis",
+      "zh": "阴茎上的跳蛋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 242,
+      "desc": "贴在阴茎上的振动器。",
+      "kw": "阴茎震动器 / 阴茎按摩器 / 震动器贴阴茎 / 鸡巴振动器 / 丁丁振动器 / 性玩具 / 阴茎上的震动器"
+    },
+    {
+      "en": "enema",
+      "zh": "灌肠",
+      "rating": "q",
+      "nsfw": true,
+      "count": 861,
+      "desc": "把液体经肛门注入肠道",
+      "kw": "浣肠 / 灌肠术 / 洗肠 / 道具 / 医疗 / 浣腸 / 灌腸"
+    },
+    {
+      "en": "used condom on penis",
+      "zh": "带精液的安全套（佩戴中）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1583,
+      "desc": "仍戴在阴茎上且已射精的避孕套",
+      "kw": "戴在阴茎上的已用避孕套 / 已射精避孕套 / 戴着用过的套 / 套在阴茎上的避孕套 / 阴茎上的旧避孕套 / 避孕套 / 性用品 / 成人玩具 / condom filling / ゴム射 / ゴム射精"
+    },
+    {
+      "en": "condom",
+      "zh": "避孕套",
+      "rating": "q",
+      "nsfw": true,
+      "count": 48025,
+      "desc": "性交时套在阴茎上的避孕套",
+      "kw": "安全套 / 套套 / 保险套 / 阴茎套 / 小雨衣 / 性用品 / condoms / コンドーム / ゴム"
+    },
+    {
+      "en": "condom left inside",
+      "zh": "避孕套残留",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1013,
+      "desc": "射精后避孕套遗留在阴道或肛门内",
+      "kw": "避孕套留在里面 / 安全套留在体内 / 套套留在里面 / 套子留在里面 / 避孕套遗留在体内 / 避孕套掉在里面 / 套套掉里面 / ゴム残し"
+    },
+    {
+      "en": "used condom",
+      "zh": "用过的避孕套",
+      "rating": "q",
+      "nsfw": true,
+      "count": 21255,
+      "desc": "已使用且常残留精液的避孕套",
+      "kw": "用过的安全套 / 用过的套套 / 用过的保险套 / 废弃避孕套 / 使用过的避孕套 / 残留精液的避孕套 / 用过的套 / 已使用的避孕套 / 使用済みコンドーム"
+    },
+    {
+      "en": "condom wrapper",
+      "zh": "避孕套包装",
+      "rating": "q",
+      "nsfw": true,
+      "count": 22251,
+      "desc": "避孕套的密封包装，包括已拆开的包装",
+      "kw": "安全套包装 / 避孕套外包装 / 套套包装 / 保险套包装 / 避孕套包装袋 / 避孕用品"
+    },
+    {
+      "en": "aphrodisiac",
+      "zh": "催情剂",
+      "rating": "q",
+      "nsfw": true,
+      "count": 713,
+      "desc": "提高性欲或敏感度的药物",
+      "kw": "媚药 / 催情药 / 性兴奋剂 / 春酒 / 惑药 / 催淫剂 / 药物 / 媚薬"
+    },
+    {
+      "en": "lube bottle",
+      "zh": "润滑液瓶",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "lube",
+      "zh": "润滑剂",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2854,
+      "desc": "性行为等场合减少摩擦的润滑液",
+      "kw": "润滑液 / 润滑凝胶 / 人体润滑液 / 性爱润滑油 / 润滑剂（性） / 成人用品"
+    },
+    {
+      "en": "milking machine",
+      "zh": "挤奶机",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2800,
+      "desc": "用吸力从动物或人体抽取乳汁的装置。",
+      "kw": "榨乳机 / 吸奶器 / 榨乳器 / 挤乳机 / 吸奶机 / 机械 / 工具 / 搾乳機 / 搾乳器"
+    },
+    {
+      "en": "lipstick mark on dildo",
+      "zh": "假阳具上的唇印",
+      "rating": "q",
+      "nsfw": true,
+      "count": 10
+    },
+    {
+      "en": "animal dildo",
+      "zh": "动物假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 714,
+      "desc": "动物阴茎形状的假阳具",
+      "kw": "动物形状假阳具 / 动物造型假阳具 / 兽形假阳具 / 动物阴茎形状假阳具 / 动物丁丁假阳具 / 动物假丁丁 / 兽茎假阳具 / 兽用假阳具"
+    },
+    {
+      "en": "artificial vagina",
+      "zh": "人工阴道/飞机杯",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3568,
+      "desc": "管状自慰工具，模拟阴道形状，通常有阴部、肛门或张开的嘴等开口",
+      "kw": "名器 / 性玩具 / 飞机杯"
+    },
+    {
+      "en": "bunny vibrator",
+      "zh": "兔子跳蛋",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "butt plug tail",
+      "zh": "尾巴肛塞",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "colored condom",
+      "zh": "彩色避孕套",
+      "rating": "q",
+      "nsfw": true,
+      "count": 834,
+      "desc": "颜色明显的彩色避孕套。",
+      "kw": "彩色安全套 / 彩色保险套 / 有颜色避孕套 / 彩色套套 / 彩色套"
+    },
+    {
+      "en": "condom box",
+      "zh": "避孕套盒",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2225,
+      "desc": "装避孕套的盒子",
+      "kw": "安全套盒 / 保险套盒 / 套套盒 / 避孕套包装盒 / 安全套包装盒 / 避孕套 / 盒装"
+    },
+    {
+      "en": "condom packet strip",
+      "zh": "连排避孕套包装",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3682,
+      "desc": "多个独立包装避孕套连成一条的包装形式。",
+      "kw": "连排避孕套 / 避孕套条装 / 避孕套连排 / 安全套连排包装 / 条装避孕套 / 连装安全套 / 避孕套 / 性用品"
+    },
+    {
+      "en": "dildo under clothes",
+      "zh": "衣服下假阳具",
+      "rating": "q",
+      "nsfw": true,
+      "count": 831,
+      "desc": "衣服下插着假阳具",
+      "kw": "衣物下假阳具 / 假阳具藏在衣服下 / 衣服内假阳具 / 衣服下面有假阳具 / 衣服下的跳蛋 / 性玩具 / 假阳具 / 隐藏插入 / 衣服下的假阳具"
+    },
+    {
+      "en": "multiple condoms",
+      "zh": "多个避孕套",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3571,
+      "desc": "出现多个用过的或未拆的避孕套",
+      "kw": "多个安全套 / 多个套套 / 一堆避孕套 / 好几个避孕套 / 避孕套若干 / 避孕套 / 安全套"
+    },
+    {
+      "en": "okamoto condoms",
+      "zh": "冈本安全套",
+      "rating": "q",
+      "nsfw": true,
+      "count": 689,
+      "desc": "日本冈本橡胶公司生产的冈本安全套",
+      "kw": "冈本避孕套 / 冈本套套 / 冈本保险套 / 冈本0.01 / 冈本001 / 冈本零一 / 冈本橡胶避孕套 / 冈本牌安全套 / 0.01 condom / オカモトコンドームズ / オカモトゼロワン / オカモトゼロツー"
+    },
+    {
+      "en": "pointless condom",
+      "zh": "无效避孕套",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3335,
+      "desc": "用了避孕套却仍内射等使套子失去意义的情形",
+      "kw": "安全套失效 / 避孕套白带 / 有套内射 / 套子失效 / 白戴套 / 装饰用避孕套 / 避孕套 / 成人用品"
+    },
+    {
+      "en": "vibrator cord",
+      "zh": "振动器线",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3209,
+      "desc": "连接振动器的电线。",
+      "kw": "震动器线 / 振动器电线 / 震动棒线 / 跳蛋线 / 按摩棒线 / 振棒线 / 跳蛋电线 / 性玩具"
+    },
+    {
+      "en": "vibrator in leg garter",
+      "zh": "吊袜带藏震动棒",
+      "rating": "q",
+      "nsfw": true,
+      "count": 96
+    },
+    {
+      "en": "condom on penis",
+      "zh": "戴避孕套",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5767,
+      "desc": "阴茎上戴着避孕套。",
+      "kw": "戴套 / 安全套 / 套套 / 阴茎戴套 / 使用避孕套 / 阴茎上的避孕套 / 避孕套 / 阴茎 / ゴム着用"
+    },
+    {
+      "en": "nipple stretcher",
+      "zh": "乳头扩张器",
+      "rating": "q",
+      "nsfw": true,
+      "count": 16
+    },
+    {
+      "en": "nipple plug",
+      "zh": "乳头夹",
+      "rating": "q",
+      "nsfw": true,
+      "count": 17
+    },
+    {
+      "en": "nipple lock",
+      "zh": "乳环锁",
+      "rating": "q",
+      "nsfw": true,
+      "count": 18
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "key": "p220",
+  "id": "p220",
+  "name": "条漫分镜",
+  "desc": "竖屏滚动的连续格",
+  "cat": "版式海报",
+  "tags": "comic page layout|漫画分页;manga style|漫画风;speech bubble|对话气泡;monochrome|单色;cinematic framing|电影构图",
+  "builtin": true
+}

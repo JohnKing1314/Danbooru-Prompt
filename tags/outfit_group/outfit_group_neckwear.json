@@ -1,0 +1,3040 @@
+{
+  "id": "neckwear",
+  "name": "颈部",
+  "icon": "🧣",
+  "parentId": "outfit_group",
+  "level": 2,
+  "order": 3,
+  "file": "outfit_group/outfit_group_neckwear.json",
+  "updatedAt": "2026-11-18T05:36:30.181Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "red scarf",
+      "zh": "红色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50162,
+      "desc": "围在颈部的红色围巾。",
+      "kw": "红围巾 / 红色围脖 / 红围脖 / 赤色围巾 / 红色领巾 / 围巾 / 配饰 / 赤マフラー"
+    },
+    {
+      "en": "blue necktie",
+      "zh": "蓝色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 84125,
+      "desc": "颜色为蓝色的领带。",
+      "kw": "蓝领带 / 领带 / 配饰"
+    },
+    {
+      "en": "wing collar",
+      "zh": "翼领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 87618,
+      "desc": "领角折下形成翼状的大翻领，非传统翼领。",
+      "kw": "翼状领 / 大翻领 / 翼形领 / 领角翻领 / 翻领 / 矩形翻领 / 翅膀翻领"
+    },
+    {
+      "en": "bandana around neck",
+      "zh": "颈部方巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3435,
+      "desc": "系在脖子上、多垂在胸前的方巾",
+      "kw": "系脖头巾 / 脖子围巾 / 颈上头巾 / 系脖方巾 / 颈部头巾 / 配饰 / 头巾"
+    },
+    {
+      "en": "neck warmer",
+      "zh": "脖套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 993,
+      "desc": "环绕颈部的保暖布筒",
+      "kw": "颈部保暖套 / 保暖围脖 / 筒状围巾 / 颈套 / 围颈 / 防风围脖 / 围巾 / neck gaiter / tube scarf / snood scarf"
+    },
+    {
+      "en": "pet cone",
+      "zh": "伊丽莎白圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 202,
+      "desc": "防止宠物舔咬伤口的锥形项圈，俗称耻辱圈。",
+      "kw": "宠物锥 / 宠物头套 / 耻辱圈 / 伊丽莎白颈圈 / 宠物防舔圈 / 防舔咬项圈 / 宠物锥形项圈 / 伊丽莎白头套 / elizabethan collar / dog cone / エリザベスカラー"
+    },
+    {
+      "en": "neck tassel",
+      "zh": "颈部流苏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2548,
+      "desc": "系在脖子上的装饰流苏",
+      "kw": "颈饰流苏 / 脖子流苏 / 颈部流苏装饰 / 流苏 / 中国风 / 配饰"
+    },
+    {
+      "en": "animal around neck",
+      "zh": "挂在颈部的动物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1057,
+      "desc": "像皮草围脖一样围在脖子上的动物。",
+      "kw": "动物围脖 / 围在脖子上的动物 / 颈上动物 / 动物披肩 / 动物围巾 / 脖子上挂动物 / 动物环绕颈部 / 动物围颈"
+    },
+    {
+      "en": "goggles around neck",
+      "zh": "脖挂护目镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7414,
+      "desc": "护目镜放在脖子上",
+      "kw": "脖子上挂护目镜 / 护目镜挂脖 / 护目镜戴在颈上 / 护目镜环绕颈部 / 护目镜 / 配饰"
+    },
+    {
+      "en": "gorget",
+      "zh": "护喉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4474,
+      "desc": "保护喉部的护颈甲，后来也有装饰作用。",
+      "kw": "护颈甲 / 颈甲 / 护颈 / 喉甲 / 护喉铠甲 / 护颈铠甲 / 盔甲"
+    },
+    {
+      "en": "headphones around neck",
+      "zh": "耳机挂颈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21773,
+      "desc": "耳机挂在脖子上而没有戴在头上",
+      "kw": "耳机挂在脖子上 / 颈挂耳机 / 耳机绕颈 / 耳机围脖戴 / 挂在脖子上的耳机 / 耳机 / 配饰"
+    },
+    {
+      "en": "mask around neck",
+      "zh": "口罩挂脖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3104,
+      "desc": "挂在角色脖子上的面具",
+      "kw": "面具挂脖子上 / 颈部面具 / 挂脖面具 / 挂在脖子上的面具 / 口罩 / 防护用品"
+    },
+    {
+      "en": "whistle around neck",
+      "zh": "颈挂哨子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7970,
+      "desc": "用挂绳挂在脖子上的哨子。",
+      "kw": "口哨挂脖 / 挂脖口哨 / 脖子挂哨 / 颈挂口哨 / 脖挂哨子 / 脖子上挂哨子 / 挂颈口哨 / 哨子挂在脖子上"
+    },
+    {
+      "en": "unworn neckerchief",
+      "zh": "未佩戴的领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 240,
+      "desc": "画面中出现但无人佩戴的领巾",
+      "kw": "没戴的领巾 / 摘下的领巾 / 放着的领巾 / 未佩戴领巾 / 不戴的领巾 / 领巾 / 配饰 / neckerchief removed"
+    },
+    {
+      "en": "no neckwear",
+      "zh": "无颈饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 211,
+      "desc": "常戴领带/领结等领饰的角色没有佩戴时使用",
+      "kw": "没有领饰 / 没带领饰 / 未佩戴领饰 / 不带领带 / 没带领结 / 缺少领饰 / 没戴颈饰"
+    },
+    {
+      "en": "undone neckerchief",
+      "zh": "解开的领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 860,
+      "desc": "领巾解开后仍挂在脖子上",
+      "kw": "松开的领巾 / 散开的领巾 / 未系好的领巾 / 服装 / 领结"
+    },
+    {
+      "en": "checkered neckerchief",
+      "zh": "格子领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 327,
+      "desc": "带方格图案的领巾",
+      "kw": "方格围巾 / 格子三角巾 / 方格脖巾 / 棋盘格领巾 / 格子围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "striped neckerchief",
+      "zh": "条纹领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 986,
+      "desc": "带条纹图案的领巾",
+      "kw": "条纹方巾 / 条纹颈巾 / 条纹三角巾 / 条纹围脖 / 领巾 / 配饰"
+    },
+    {
+      "en": "diagonal-striped neckerchief",
+      "zh": "斜条纹领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 95,
+      "desc": "带有斜向条纹的领巾。",
+      "kw": "斜纹领巾 / 斜条领巾 / 对角条纹领巾 / 斜条纹围巾 / 斜纹围巾"
+    },
+    {
+      "en": "two-tone neckerchief",
+      "zh": "双色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 354,
+      "desc": "由两种颜色构成的领巾。",
+      "kw": "两色领巾 / 双色三角巾 / 双色脖巾 / 领巾 / 配饰"
+    },
+    {
+      "en": "gradient neckerchief",
+      "zh": "渐变色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 405,
+      "desc": "带渐变色的领巾",
+      "kw": "渐变围巾 / 领巾 / 配饰"
+    },
+    {
+      "en": "aqua neckerchief",
+      "zh": "水蓝色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7202,
+      "desc": "水色（蓝绿色）的领巾。",
+      "kw": "水绿色领巾 / 蓝绿色领巾 / 浅蓝领巾 / 水蓝领巾 / 湖蓝领巾 / 青色领巾 / 碧色领巾"
+    },
+    {
+      "en": "black neckerchief",
+      "zh": "黑色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19199,
+      "desc": "系在颈部的黑色领巾",
+      "kw": "黑领巾 / 黑色围巾 / 黑色方巾 / 黑方巾 / 黑色颈巾 / 领巾 / 配饰 / 校服"
+    },
+    {
+      "en": "blue neckerchief",
+      "zh": "蓝色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27769,
+      "desc": "系在颈部的蓝色三角领巾。",
+      "kw": "蓝色三角巾 / 蓝领巾 / 蓝色三角领巾 / 蓝色方巾 / 领巾 / 配饰"
+    },
+    {
+      "en": "brown neckerchief",
+      "zh": "棕色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1693,
+      "desc": "系在脖子上的棕色领巾。",
+      "kw": "棕色三角巾 / 棕色脖巾 / 棕色领结巾 / 棕色围巾 / 配饰"
+    },
+    {
+      "en": "green neckerchief",
+      "zh": "绿色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6145,
+      "desc": "系在脖子上的绿色三角领巾",
+      "kw": "绿色三角巾 / 绿色脖巾 / 绿领巾 / 绿色围巾 / 领巾 / 配饰"
+    },
+    {
+      "en": "grey neckerchief",
+      "zh": "灰色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5448,
+      "desc": "颜色为灰色的领巾",
+      "kw": "灰领巾 / 灰色方巾 / 灰色颈巾 / 灰色围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "orange neckerchief",
+      "zh": "橙色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5844,
+      "desc": "橙色方形领巾，系在脖子上",
+      "kw": "橘色领巾 / 橙色方巾 / 橙色三角巾 / 橙色围巾(领巾) / 配饰 / 领巾"
+    },
+    {
+      "en": "pink neckerchief",
+      "zh": "粉色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12339,
+      "desc": "粉色方巾系在脖子上的领巾。",
+      "kw": "粉红领巾 / 粉色方巾 / 粉色三角巾 / 粉红方巾 / 领巾 / 配饰"
+    },
+    {
+      "en": "red neckerchief",
+      "zh": "红色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 79668,
+      "desc": "系在颈部的红色领巾",
+      "kw": "红领巾 / 红色围脖 / 红色颈巾 / 红色三角巾 / 领巾 / 中国风"
+    },
+    {
+      "en": "white neckerchief",
+      "zh": "白色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15172,
+      "desc": "系在颈部的白色方形或三角形布巾。",
+      "kw": "白领巾 / 白色三角巾 / 白色方巾 / 白色围巾 / 白色脖巾 / 白色颈巾 / 配饰 / 围巾"
+    },
+    {
+      "en": "yellow neckerchief",
+      "zh": "黄色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31550,
+      "desc": "系在颈部的黄色方巾",
+      "kw": "黄领巾 / 黄色方巾 / 黄色颈巾 / 黄色领巾围巾 / 配饰 / 领巾"
+    },
+    {
+      "en": "locket",
+      "zh": "小金锁挂坠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 726,
+      "desc": "可打开放照片的项链挂坠盒。",
+      "kw": "项链挂坠盒 / 吊坠盒 / 相片盒项链 / 心形挂坠盒 / 纪念吊坠盒 / 首饰 / 配饰 / ロケットペンダント"
+    },
+    {
+      "en": "towel around neck",
+      "zh": "脖子上围毛巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9793,
+      "desc": "毛巾搭在脖子上，可能垂过肩膀",
+      "kw": "脖子挂毛巾 / 毛巾搭在脖子上 / 肩披毛巾 / 颈挂毛巾 / 披毛巾 / 脖子上围着毛巾 / 毛巾 / towel on shoulders"
+    },
+    {
+      "en": "scarf wrapped up to the chin",
+      "zh": "围巾一直裹到下巴",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sailor collar",
+      "zh": "水手领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 425765,
+      "desc": "水手服风格的条纹领，常配领巾",
+      "kw": "水手服领 / 水兵领 / 水手衣领 / 海员领 / 水手领子 / 颈部 / 颈饰 / 水手服 / セーラー襟 / セーラーカラー / セーラー水着"
+    },
+    {
+      "en": "cross necklace",
+      "zh": "十字架项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22240,
+      "desc": "挂着十字架吊坠的项链",
+      "kw": "十字项链 / 十字架链坠 / 十字架吊坠项链 / 十字架挂饰 / 十字架颈链 / 项链 / 首饰 / 配饰"
+    },
+    {
+      "en": "animal collar",
+      "zh": "宠物项圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 19076,
+      "desc": "类似宠物项圈风格的项圈，常见狗项圈",
+      "kw": "动物项圈 / 狗项圈 / 犬项圈 / 兽用项圈 / 宠物项圈风格 / 皮项圈 / 项圈 / 宠物用品 / pet collar / dog collar / 犬の首輪 / 개목걸이"
+    },
+    {
+      "en": "belt collar",
+      "zh": "皮带式项圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 20679,
+      "desc": "外形像腰带的项圈。",
+      "kw": "皮带项圈 / 束带项圈 / 颈带项圈 / 腰带式颈圈 / 皮带颈圈 / 项圈式腰带 / 项圈 / 配饰 / neck belt / belt choker"
+    },
+    {
+      "en": "frilled collar",
+      "zh": "荷叶边领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14623,
+      "desc": "带荷叶边/褶边的衣领，可独立佩戴。",
+      "kw": "荷叶领 / 花边领 / 褶边领 / 荷叶边领子 / 花边衣领 / 褶边衣领 / 褶边领口"
+    },
+    {
+      "en": "fur collar",
+      "zh": "毛领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37889,
+      "desc": "整体由毛皮制成的衣领，区别于仅边缘有毛的领子。",
+      "kw": "皮草领 / 毛皮领 / 皮草围领 / 毛领子 / 皮草领子 / 服装 / 领饰"
+    },
+    {
+      "en": "fur-trimmed collar",
+      "zh": "毛边领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4051,
+      "desc": "独立衣领上加的毛皮镶边。",
+      "kw": "毛领 / 皮草领 / 毛皮镶边领 / 毛绒衣领 / 毛皮衣领 / 服装 / 领子 / 毛边"
+    },
+    {
+      "en": "heart collar",
+      "zh": "爱心项圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2819,
+      "desc": "正面带心形挂饰或心形锁的项圈。",
+      "kw": "心形项圈 / 桃心项圈 / 心型项圈 / 心形颈环 / 爱心颈圈 / 心形choker / 心形颈带"
+    },
+    {
+      "en": "lace-trimmed collar",
+      "zh": "蕾丝边衣领",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1098,
+      "desc": "衣领边缘装饰有蕾丝花边。",
+      "kw": "蕾丝边领 / 蕾丝花边领 / 带蕾丝边的衣领 / 蕾丝滚边领 / 蕾丝嵌边领 / 花边饰领 / 蕾丝点缀领 / 蕾丝花边衣领"
+    },
+    {
+      "en": "metal collar",
+      "zh": "金属项圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 10596,
+      "desc": "用金属制成的项圈",
+      "kw": "金属颈圈 / 金属圈 / 金属项环 / 铁项圈 / 钢项圈 / 金属制项圈 / 项圈 / 配饰"
+    },
+    {
+      "en": "o-ring choker",
+      "zh": "O形环项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11535,
+      "desc": "带O形环的项圈，环通常在前或后",
+      "kw": "O环项圈 / O型环颈圈 / 带O型环的项圈 / O形环项链 / O环颈环 / 带环项圈 / O形环颈圈 / 项圈"
+    },
+    {
+      "en": "o-ring collar",
+      "zh": "O型环项圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1093,
+      "desc": "正面带有O形金属环的项圈。",
+      "kw": "O形环项圈 / O环颈圈 / 金属环项圈 / 圆圈颈圈 / 带环颈圈 / O环 / 项圈"
+    },
+    {
+      "en": "padlocked collar",
+      "zh": "挂锁项圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 995,
+      "desc": "正面带有挂锁的项圈",
+      "kw": "带锁项圈 / 锁项圈 / 挂锁颈圈 / 锁扣项圈 / 带挂锁的项圈 / 锁链项圈 / 项圈 / 束缚具"
+    },
+    {
+      "en": "pendant choker",
+      "zh": "吊坠颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8772,
+      "desc": "挂着吊坠、紧贴颈部的项圈",
+      "kw": "吊坠颈链 / 挂坠项圈 / 带吊坠的项圈 / 吊坠颈环 / 带吊坠颈链 / 项圈 / 配饰"
+    },
+    {
+      "en": "spiked collar",
+      "zh": "尖刺项圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 19191,
+      "desc": "带尖刺的项圈，朋克风格或给烈性动物佩戴",
+      "kw": "带刺项圈 / 钉刺项圈 / 尖刺颈圈 / 刺项圈 / 钉项圈 / 朋克项圈 / 尖刺项环 / 项圈 / spike collar"
+    },
+    {
+      "en": "studded collar",
+      "zh": "铆钉颈圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1322,
+      "desc": "镶有金属铆钉的项圈，常为装饰或护颈",
+      "kw": "钉饰项圈 / 金属铆钉项圈 / 尖钉项圈 / 朋克铆钉项圈 / 铆钉项环 / 项圈 / 配饰"
+    },
+    {
+      "en": "ribbon choker",
+      "zh": "丝带颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16817,
+      "desc": "脖子上系成蝴蝶结的缎带项圈，直接接触皮肤。",
+      "kw": "丝带项圈 / 蝴蝶结项圈 / 缎带颈圈 / 蝴蝶结颈饰 / 缎带颈带 / 缎带领结项圈 / 蝴蝶结脖子带"
+    },
+    {
+      "en": "contrast collar",
+      "zh": "撞色领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12427,
+      "desc": "颜色与衣身形成对比的领子。",
+      "kw": "异色领 / 对比色领子 / 拼色领 / 配色领 / 撞色领口 / 领口 / 服装设计"
+    },
+    {
+      "en": "detached collar",
+      "zh": "假领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 193153,
+      "desc": "没有衬衫、单独的折叠衣领，常配领带或蝴蝶结。",
+      "kw": "分离领 / 可拆卸领 / 独立领 / 装饰领 / 假领子 / 衬衫领 / 服装 / 领子 / 付け襟"
+    },
+    {
+      "en": "rounded collar",
+      "zh": "圆角领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1017,
+      "desc": "领角略圆的衬衫领",
+      "kw": "圆角衬衫领 / 圆领角 / 圆角衣领 / 微圆领 / 圆角领口 / 圆领 / 领子 / 服装"
+    },
+    {
+      "en": "round collar",
+      "zh": "圆领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 560,
+      "desc": "领角呈弧形的圆领衬衫领",
+      "kw": "圆角领 / 圆弧领 / 圆领衬衫领 / 圆领片 / 领口 / 服装设计 / 衣领"
+    },
+    {
+      "en": "mandarin collar",
+      "zh": "中式立领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19427,
+      "desc": "中式服装上的立式高领",
+      "kw": "立领 / 中式领 / 满洲领 / 旗袍领 / 中山领 / 立式高领 / 中国风 / 服装 / 立襟"
+    },
+    {
+      "en": "high collar",
+      "zh": "立领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 67113,
+      "desc": "衣服上竖起挺立的高领。",
+      "kw": "高领口 / 竖领 / 高领上衣 / 高领衫 / 高领毛衣 / 高领衬衣 / 高领服装"
+    },
+    {
+      "en": "mystical high collar",
+      "zh": "魔法高领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1088,
+      "desc": "常与巫师、超能力者和吸血鬼相关的高竖翻领",
+      "kw": "神秘高翻领 / 神秘立领 / 巫师高领 / 吸血鬼高领 / 高竖领 / 高领 / 服装"
+    },
+    {
+      "en": "medici collar",
+      "zh": "美第奇领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 152,
+      "desc": "高耸后翻前开的立领，常见红心王后造型",
+      "kw": "麦地奇领 / 美第奇立领 / 美第奇高领 / 美第奇扇领 / 美第奇花领 / 扇形立领 / 领子 / 服装"
+    },
+    {
+      "en": "popped collar",
+      "zh": "翻起的衣领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16571,
+      "desc": "衬衫或外套立起来而非翻折的衣领",
+      "kw": "立领 / 领子立起 / 竖起的领子 / 领子竖起 / 翻领 / 领子 / 服装细节 / collar up"
+    },
+    {
+      "en": "wingtip collar",
+      "zh": "翼领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 397,
+      "desc": "领角呈小三角折翼的翼形领",
+      "kw": "飞翼领 / 尖翼领 / 翅膀领 / 翼状领 / 燕尾领 / 领子 / 衬衫"
+    },
+    {
+      "en": "bib collar",
+      "zh": "围兜领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2886,
+      "desc": "围在颈部、形似围兜的平圆衣领",
+      "kw": "围嘴领 / 口水巾领 / 平圆领 / 婴儿围兜领 / 围兜式领子 / 领子 / 服装细节"
+    },
+    {
+      "en": "puritan collar",
+      "zh": "清教徒领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1234,
+      "desc": "垂挂在锁骨上方、不覆盖肩部的大领",
+      "kw": "清教徒领子 / 清教徒领口 / 朝圣者领 / 清教徒领圈 / 清教徒领片 / 下垂领 / 锁骨领 / 领子 / ピューリタンカラー"
+    },
+    {
+      "en": "peter pan collar",
+      "zh": "彼得潘领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 421,
+      "desc": "扁平圆角的彼得潘式衣领。",
+      "kw": "娃娃领 / 圆角领 / 扁平圆领 / 小圆领 / 国民领 / 领子 / 服装 / 丸襟 / ピーターパンカラー"
+    },
+    {
+      "en": "neck bell",
+      "zh": "颈铃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69004,
+      "desc": "挂在项圈上的铃铛，常见于宠物。",
+      "kw": "铃铛项圈 / 铃铛颈圈 / 铃铛项链 / 脖子铃铛 / 项圈铃铛 / 挂铃项圈 / 宠物铃铛 / 猫铃铛 / bellcollar / collar bell / bell collar / bell choker"
+    },
+    {
+      "en": "bolo tie",
+      "zh": "波洛领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3319,
+      "desc": "用装饰扣固定的细绳领带，美洲西部风格",
+      "kw": "波洛结 / 西部领带 / 牛仔领带 / 绳状领带 / 细绳领带 / 领带 / 配饰 / 西部风格 / ポーラー・タイ / ポーラータイ"
+    },
+    {
+      "en": "lanyard",
+      "zh": "挂绳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15570,
+      "desc": "挂在脖子或手腕上防止物品掉落的绳带",
+      "kw": "颈挂绳 / 挂带 / 吊绳 / 挂脖绳 / 证件挂绳 / 挂脖带 / 腕带 / 吊带 / ネックストラップ"
+    },
+    {
+      "en": "necktie between breasts",
+      "zh": "乳间领带",
+      "rating": "s",
+      "nsfw": false,
+      "count": 15899,
+      "desc": "女性将领带夹在双乳之间，常见于中胸以上",
+      "kw": "领带夹乳 / 领带夹胸 / 乳沟夹领带 / 领带夹在双乳间 / 领带 / 服装 / ネクパイ / 谷間ネクタイ"
+    },
+    {
+      "en": "unworn choker",
+      "zh": "未佩戴的项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23
+    },
+    {
+      "en": "unworn necklace",
+      "zh": "未佩戴的项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 988,
+      "desc": "画面中出现但无人佩戴的项链",
+      "kw": "摘下的项链 / 没戴的项链 / 取下的项链 / 拿在手里的项链 / 放在一旁的项链 / 没有戴的项链 / 项链 / necklace removed"
+    },
+    {
+      "en": "unworn necktie",
+      "zh": "未佩戴的领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1538,
+      "desc": "画面中有领带但没人佩戴",
+      "kw": "没戴的领带 / 未系领带 / 领带未戴 / 闲置领带 / 摘下的领带 / 未戴的领带 / 领带 / 服装配件 / necktie off / necktie removed"
+    },
+    {
+      "en": "unworn scarf",
+      "zh": "未佩戴的围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1238,
+      "desc": "未被佩戴的围巾",
+      "kw": "摘下的围巾 / 脱下的围巾 / 围巾 / 服饰 / scarf removed"
+    },
+    {
+      "en": "no choker",
+      "zh": "无项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 296,
+      "desc": "常戴项圈的角色脖子上没有项圈。",
+      "kw": "没带项圈 / 不戴项圈 / 项圈缺失 / 没有项圈 / 未戴项圈 / 脖子没有项圈 / 无饰品"
+    },
+    {
+      "en": "no necklace",
+      "zh": "无项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29
+    },
+    {
+      "en": "no necktie",
+      "zh": "未系领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 72,
+      "desc": "官方造型本来系领带的角色没有系",
+      "kw": "没有系领带 / 没带领带 / 无领带"
+    },
+    {
+      "en": "no scarf",
+      "zh": "未戴围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 258,
+      "desc": "常戴围巾的角色未佩戴围巾",
+      "kw": "没有围巾 / 没围巾 / 无围巾 / 不围围巾 / 无颈饰"
+    },
+    {
+      "en": "necktie on head",
+      "zh": "头系领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 169,
+      "desc": "把领带当钵卷绑在头上",
+      "kw": "领带缠头 / 领带当头带 / 领带绑在头上 / 领带钵卷 / 头饰 / 配饰"
+    },
+    {
+      "en": "scarf over mouth",
+      "zh": "围巾遮口",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2228,
+      "desc": "围巾遮住佩戴者嘴部",
+      "kw": "围巾遮住嘴 / 围巾蒙嘴 / 围巾掩口 / 围巾遮下巴 / 围巾包嘴 / 围巾 / 面部遮挡"
+    },
+    {
+      "en": "shared scarf",
+      "zh": "共围一条围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3582,
+      "desc": "至少两人共用一条围巾。",
+      "kw": "共用一条围巾 / 同围巾 / 共享围巾 / 两人围巾 / 情侣围巾 / 合围围巾 / 配饰 / scarf sharing / 二人マフラー / ダブルマフラー / 2人マフラー"
+    },
+    {
+      "en": "loose bowtie",
+      "zh": "松散领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5014,
+      "desc": "系好但明显松垮地挂在脖子上的领结",
+      "kw": "松垮的领结 / 松了的领结 / 松领结 / 松开领结 / 没系紧的领结 / 松散的蝴蝶结领结 / 松散的蝴蝶结 / 蝴蝶结"
+    },
+    {
+      "en": "loose necktie",
+      "zh": "松垮领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10671,
+      "desc": "打好结却松松垂在颈肩处的领带",
+      "kw": "松领带 / 领带松散 / 领带松着 / 领带松松垮垮 / 没系紧的领带 / 松松的领带 / 松散系着领带 / 松垮的领带 / loose tie"
+    },
+    {
+      "en": "undone ascot",
+      "zh": "解开的阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 184,
+      "desc": "宽领巾解开后仍挂在脖子上",
+      "kw": "解开的领巾 / 松散宽领巾 / 领巾 / 配饰"
+    },
+    {
+      "en": "checkered ascot",
+      "zh": "格纹领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 66,
+      "desc": "带方格图案的宽领巾",
+      "kw": "格子宽领巾 / 方格领巾 / 格纹宽领巾 / 棋盘格宽领巾 / 格子阿斯科特领巾"
+    },
+    {
+      "en": "gingham ascot",
+      "zh": "带有维希格纹的阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lace-trimmed ascot",
+      "zh": "蕾丝边领巾",
+      "rating": "s",
+      "nsfw": false,
+      "count": 65,
+      "desc": "带蕾丝边的领巾",
+      "kw": "蕾丝饰边领巾 / 蕾丝花边领巾 / 蕾丝边领结 / 蕾丝边阿斯科特领巾 / 蕾丝镶边领巾 / 带蕾丝的阿斯科特领巾 / 蕾丝宽领巾 / 蕾丝领巾"
+    },
+    {
+      "en": "plaid ascot",
+      "zh": "格纹领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 180,
+      "desc": "格纹图案的宽领巾，塞进衬衫领口。",
+      "kw": "格纹阿斯科特领巾 / 格子宽领巾 / 格纹阔领巾 / 领巾 / 配饰"
+    },
+    {
+      "en": "striped ascot",
+      "zh": "条纹领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 107,
+      "desc": "带条纹图案的宽领巾。",
+      "kw": "条纹阔领巾 / 条纹阿斯科特领巾 / 条纹宽领带 / 条纹阿斯科特领带 / 颈部 / 颈饰 / 条纹领带"
+    },
+    {
+      "en": "torn ascot",
+      "zh": "破损的领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 113,
+      "desc": "被撕破的宽领巾",
+      "kw": "撕破的领巾 / 破损领巾 / 撕裂宽领巾 / 烂领巾 / 撕裂的领巾 / 颈部与颈饰 / 领巾 / 破损 / ripped ascot"
+    },
+    {
+      "en": "gradient ascot",
+      "zh": "渐变色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 72,
+      "desc": "带渐变色的宽领巾",
+      "kw": "渐变色宽领巾 / 渐变阿斯科特领巾 / 渐变阿斯科特领带 / 渐变色阿斯科特 / 渐变领巾"
+    },
+    {
+      "en": "multicolored ascot",
+      "zh": "多色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 248,
+      "desc": "有两种以上颜色的宽领巾",
+      "kw": "彩色宽领巾 / 多色领结 / 多色领巾式领带 / 双色宽领巾 / 多色围巾领结 / 多色雅斯科特领巾 / 多色宽领带"
+    },
+    {
+      "en": "two-tone ascot",
+      "zh": "双色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 93,
+      "desc": "有两种颜色的宽领巾（ascot tie）。",
+      "kw": "双色阿斯科特领巾 / 双色雅士领巾 / 两色宽领巾 / 双色宽领带 / 双色阿斯科特"
+    },
+    {
+      "en": "aqua ascot",
+      "zh": "水蓝色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 536,
+      "desc": "水色（蓝绿色）的宽领巾",
+      "kw": "水色领巾 / 淡蓝色宽领巾 / 蓝绿色宽领巾 / 水色阿斯科特领巾 / 水色领结 / 配饰 / 领结"
+    },
+    {
+      "en": "black ascot",
+      "zh": "黑色阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13013,
+      "desc": "系在衬衫领内的黑色宽领巾。",
+      "kw": "黑色阿斯科特 / 黑色宽领带 / 黑色阔领巾 / 黑色领巾 / 黑领巾 / 黑宽领巾 / 黑色细领带 / black jabot"
+    },
+    {
+      "en": "blue ascot",
+      "zh": "蓝色阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11189,
+      "desc": "系在衬衫领下的蓝色宽领巾",
+      "kw": "蓝色领巾 / 蓝色阔领巾 / 蓝色领巾式领带 / 蓝色宽领带 / 蓝色细领带 / 配饰 / blue jabot"
+    },
+    {
+      "en": "brown ascot",
+      "zh": "棕色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1434,
+      "desc": "一种塞进衬衫领口佩戴的宽领巾，通常为棕色。",
+      "kw": "棕色宽领带 / 棕色阿斯科特领巾 / 棕色阿斯科特 / 棕色司脱领带 / 棕色阔领巾 / 棕色宽领结 / 领结 / brown jabot"
+    },
+    {
+      "en": "green ascot",
+      "zh": "绿色阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1863,
+      "desc": "呈绿色、塞入领口的宽领巾。",
+      "kw": "绿宽领巾 / 绿色领巾 / 领结 / 配饰 / green jabot"
+    },
+    {
+      "en": "grey ascot",
+      "zh": "灰色阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1267,
+      "desc": "灰色的阿斯科特领巾",
+      "kw": "灰色领巾 / 灰色宽领结 / 灰领巾 / 领带 / 配饰 / 灰色 / grey jabot"
+    },
+    {
+      "en": "orange ascot",
+      "zh": "橙色阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2241,
+      "desc": "橙色的领巾式领带",
+      "kw": "橙色领巾 / 橙色司仪领巾 / 橙色围巾式领带 / 橙色宽领带 / 领带 / 配饰"
+    },
+    {
+      "en": "pink ascot",
+      "zh": "粉色领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3273,
+      "desc": "系在领口的粉色宽领巾。",
+      "kw": "粉色阿斯科特领巾 / 粉色宽领带 / 粉色雅博特领巾 / 粉色领结式领巾 / 粉宽领巾 / 配饰 / 领结 / pink jabot"
+    },
+    {
+      "en": "red ascot",
+      "zh": "红色阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27402,
+      "desc": "红色阿斯科特式宽领巾。",
+      "kw": "红色阿斯科特领带 / 红宽领巾 / 红色宽领带 / 红色领巾 / 领结 / 配饰 / red jabot"
+    },
+    {
+      "en": "white ascot",
+      "zh": "白色阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29280,
+      "desc": "系在颈部的白色宽领巾，常见于礼服",
+      "kw": "白色领巾 / 白色宽领带 / 白色领巾式领带 / 领巾 / 配饰 / white jabot"
+    },
+    {
+      "en": "yellow ascot",
+      "zh": "黄色阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 42899,
+      "desc": "黄色的领巾，常见于博丽灵梦。",
+      "kw": "黄色领巾 / 黄色领饰 / 黄色宽领带 / 黄领巾 / 领饰 / 配饰 / yellow jabot"
+    },
+    {
+      "en": "huge bowtie",
+      "zh": "巨大领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 52
+    },
+    {
+      "en": "argyle bowtie",
+      "zh": "菱格纹领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 99,
+      "desc": "带菱形格纹的领结",
+      "kw": "菱形格纹领结 / 格纹领结 / 菱纹蝴蝶结 / 阿盖尔领结 / 菱形格子领结"
+    },
+    {
+      "en": "checkered bowtie",
+      "zh": "格纹领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 547,
+      "desc": "带方格图案的领结",
+      "kw": "方格领结 / 格子领结 / 棋盘格蝴蝶结 / 格纹蝴蝶结 / 领结 / 配饰"
+    },
+    {
+      "en": "plaid bowtie",
+      "zh": "格子领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7897,
+      "desc": "格纹图案的领结，常用于学院风。",
+      "kw": "格纹蝴蝶结 / 格纹蝴蝶领结 / 花格领结 / 方格领结 / 格子蝴蝶结 / 格纹领花 / 苏格兰格领结"
+    },
+    {
+      "en": "polka dot bowtie",
+      "zh": "圆点领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1216,
+      "desc": "带圆点图案的领结。",
+      "kw": "波点领结 / 点点领结 / 圆点蝴蝶结 / 波尔卡圆点领结 / 领结 / 配饰"
+    },
+    {
+      "en": "striped bowtie",
+      "zh": "条纹领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19379,
+      "desc": "带条纹图案的领结",
+      "kw": "条纹蝴蝶结 / 条纹蝴蝶领结 / 条子领结 / 条纹领花 / 领结 / 配饰"
+    },
+    {
+      "en": "gradient bowtie",
+      "zh": "渐变色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 64,
+      "desc": "带渐变色、系在颈部的蝴蝶结/领结",
+      "kw": "渐变蝴蝶结 / 渐层领结 / 渐变蝴蝶领结"
+    },
+    {
+      "en": "multicolored bowtie",
+      "zh": "多色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1373,
+      "desc": "有两种以上颜色的领结",
+      "kw": "彩色领结 / 双色领结 / 多颜色领结 / 花色领结 / 领结 / 配饰"
+    },
+    {
+      "en": "two-tone bowtie",
+      "zh": "双色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3422,
+      "desc": "恰好由两种颜色构成的领结。",
+      "kw": "双色蝴蝶结 / 双色领花 / 二色领结 / 双色蝶形领结 / 两色领结 / 双色蝴蝶领结 / 双色蝶结 / 领结"
+    },
+    {
+      "en": "aqua bowtie",
+      "zh": "水蓝色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9444,
+      "desc": "水色（蓝绿色）的领结",
+      "kw": "蓝绿色领结 / 水蓝领结 / 浅蓝领结 / 水色蝴蝶结 / 水蓝色蝴蝶结 / 领结 / 配饰"
+    },
+    {
+      "en": "black bowtie",
+      "zh": "黑色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 71937,
+      "desc": "系在衬衫领前的黑色蝴蝶领结。",
+      "kw": "黑领结 / 黑色蝴蝶领结 / 黑蝴蝶结领结 / 黑领花 / 黑色蝶形领结 / 领结 / 配饰"
+    },
+    {
+      "en": "blue bowtie",
+      "zh": "蓝色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55354,
+      "desc": "蓝色的领结。",
+      "kw": "蓝色蝴蝶结 / 蓝色蝶形领结 / 蓝色领花 / 蓝蝴蝶结 / 蓝色领带结 / 蓝领结 / 配饰"
+    },
+    {
+      "en": "brown bowtie",
+      "zh": "棕色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3999,
+      "desc": "棕色领结，系在衬衫领口",
+      "kw": "棕领结 / 咖啡色领结 / 褐色领结 / 茶色领结 / 棕色蝶形领结 / 领结 / 配饰"
+    },
+    {
+      "en": "green bowtie",
+      "zh": "绿色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17935,
+      "desc": "绿色领结。",
+      "kw": "绿领结 / 绿色蝴蝶结领结 / 绿色领带结 / 绿色领花 / 绿蝴蝶结领结 / 领结 / 配饰"
+    },
+    {
+      "en": "grey bowtie",
+      "zh": "灰色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2325,
+      "desc": "颜色为灰色的领结",
+      "kw": "灰领结 / 灰色蝴蝶领结 / 灰蝴蝶结 / 灰色领花 / 灰色蝴蝶结领结 / 领结 / 配饰"
+    },
+    {
+      "en": "orange bowtie",
+      "zh": "橙色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8644,
+      "desc": "橙色的领结，系于衬衫领口",
+      "kw": "橙色蝴蝶结 / 橙色蝴蝶领结 / 橙色领花 / 配饰 / 领结"
+    },
+    {
+      "en": "pink bowtie",
+      "zh": "粉色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29269,
+      "desc": "系在领口的粉色领结",
+      "kw": "粉红领结 / 粉色蝴蝶结 / 粉红蝴蝶结 / 粉色蝴蝶领结 / 领结 / 配饰"
+    },
+    {
+      "en": "red bowtie",
+      "zh": "红色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120150,
+      "desc": "系在衬衫领口的红色领结",
+      "kw": "红色蝴蝶结领结 / 红领结 / 红色领花 / 红色蝴蝶领结 / 领结 / 红色 / 配饰"
+    },
+    {
+      "en": "white bowtie",
+      "zh": "白色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27044,
+      "desc": "系在领口的白色领结",
+      "kw": "白领结 / 白色蝴蝶结领结 / 白蝴蝶结领结 / 白色领花 / 白色领带结 / 领结 / 配饰"
+    },
+    {
+      "en": "yellow bowtie",
+      "zh": "黄色领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19513,
+      "desc": "系在衬衫领前的黄色领结",
+      "kw": "黄领结 / 黄色蝴蝶结 / 黄蝴蝶结 / 黄色蝴蝶领结 / 黄色领花 / 领结 / 配饰"
+    },
+    {
+      "en": "anchor choker",
+      "zh": "锚形项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1619,
+      "desc": "带有锚形装饰的项圈",
+      "kw": "锚吊坠项圈 / 船锚项圈 / 锚形颈圈 / 锚形锁骨链 / 锚形颈饰 / 项圈 / 配饰"
+    },
+    {
+      "en": "bead choker",
+      "zh": "珠子项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1189,
+      "desc": "用珠子串成的贴颈短项链。",
+      "kw": "串珠项圈 / 珠链颈圈 / 珠串颈链 / 珠子短项链 / 串珠短项链 / 珠珠项圈 / 珠饰颈圈 / 珠子贴颈项链"
+    },
+    {
+      "en": "bell choker",
+      "zh": "铃铛项圈",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bow choker",
+      "zh": "蝴蝶结项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6307,
+      "desc": "用蝴蝶结装饰的项圈",
+      "kw": "蝴蝶结颈圈 / 蝴蝶结颈带 / 蝴蝶结颈饰 / 项圈 / 配饰 / 首饰"
+    },
+    {
+      "en": "crescent choker",
+      "zh": "新月颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 668,
+      "desc": "带新月形饰件的项圈",
+      "kw": "月牙项圈 / 月牙颈圈 / 新月颈环 / 月牙颈环 / 新月颈饰 / 月牙颈饰 / 颈圈"
+    },
+    {
+      "en": "cross choker",
+      "zh": "十字架项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2350,
+      "desc": "挂着十字架吊坠的项圈",
+      "kw": "十字项圈 / 十字架项链式项圈 / 带十字架的项圈 / 项圈 / 配饰 / 哥特风"
+    },
+    {
+      "en": "flower choker",
+      "zh": "花朵颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2822,
+      "desc": "带花朵装饰的项圈。",
+      "kw": "花饰项圈 / 花choker / 花项圈 / 花瓣项圈 / 花型颈带 / 花朵颈环 / 颈饰"
+    },
+    {
+      "en": "frilled choker",
+      "zh": "荷叶边项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17460,
+      "desc": "边缘带荷叶边的项圈",
+      "kw": "花边项圈 / 褶边项圈 / 荷叶边颈环 / 蕾丝边项圈 / 项圈 / 配饰"
+    },
+    {
+      "en": "fur choker",
+      "zh": "毛皮项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1732,
+      "desc": "整体由毛皮制成的项圈",
+      "kw": "皮草项圈 / 毛绒项圈 / 毛皮颈圈 / 毛皮颈饰 / 毛皮短项链 / 毛皮贴颈项链 / 皮草颈圈 / 颈圈"
+    },
+    {
+      "en": "fur-trimmed choker",
+      "zh": "毛边项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 774,
+      "desc": "边缘镶有毛皮的项圈",
+      "kw": "镶毛边项圈 / 毛绒项圈 / 皮草边项圈 / 毛皮边颈圈 / 项圈 / 配饰"
+    },
+    {
+      "en": "gold choker",
+      "zh": "金色颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7011,
+      "desc": "黄金制成的颈圈",
+      "kw": "金项圈 / 金颈圈 / 黄金项圈 / 金制项圈 / 金质项圈 / 项圈 / 首饰"
+    },
+    {
+      "en": "heart choker",
+      "zh": "心形颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10381,
+      "desc": "紧贴颈部并带至少一个心形装饰的项圈/短项链",
+      "kw": "爱心项圈 / 心形颈链 / 爱心颈链 / 心形贴颈项链 / 心形锁骨链 / 爱心锁骨链 / 心形短项链"
+    },
+    {
+      "en": "key choker",
+      "zh": "钥匙项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 391,
+      "desc": "挂着钥匙的项圈。",
+      "kw": "钥匙颈圈 / 钥匙Choker / 挂钥匙项圈 / 带钥匙项圈 / 钥匙项链圈 / 钥匙颈环 / 项圈 / 配饰"
+    },
+    {
+      "en": "lace choker",
+      "zh": "蕾丝项圈",
+      "rating": "s",
+      "nsfw": false,
+      "count": 3333,
+      "desc": "完全由蕾丝制成、中间无缝隙的颈圈",
+      "kw": "蕾丝颈圈 / 蕾丝颈环 / 蕾丝短项链 / 蕾丝项带 / 蕾丝颈饰 / 颈部 / 颈饰"
+    },
+    {
+      "en": "lace-trimmed choker",
+      "zh": "蕾丝边颈圈",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2693,
+      "desc": "带蕾丝边的颈圈，区别于蕾丝颈圈",
+      "kw": "蕾丝饰边项圈 / 蕾丝滚边颈圈 / 带蕾丝边的项圈 / 蕾丝花边颈圈 / 蕾丝镶边项圈 / 蕾丝颈圈 / 颈部 / 颈饰"
+    },
+    {
+      "en": "heart ring choker",
+      "zh": "心形环颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 763,
+      "desc": "用爱心O型环连接的项圈",
+      "kw": "爱心环项圈 / 心形O形环项圈 / 爱心O环项圈 / 心型环颈圈 / 心形扣项圈 / 配饰 / 首饰"
+    },
+    {
+      "en": "rabbit choker",
+      "zh": "兔耳项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 285,
+      "desc": "兔子主题的颈圈",
+      "kw": "兔项圈 / 兔子颈圈 / 兔主题颈圈 / 兔子颈带 / 兔形项圈 / 动物项圈 / 配饰 / bunny choker"
+    },
+    {
+      "en": "silver choker",
+      "zh": "银色项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 409,
+      "desc": "银色的颈圈/贴颈项链；Danbooru 现多改用灰色或白色项圈标签。",
+      "kw": "银色颈圈 / 银色颈环 / 银项圈 / 银颈圈 / 银色贴颈项链 / 银色短项链 / 银制项圈 / 银色贴颈短链"
+    },
+    {
+      "en": "skull choker",
+      "zh": "骷髅项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 553,
+      "desc": "带有骷髅装饰的紧贴颈部的短项链或项圈。",
+      "kw": "骷髅颈圈 / 骷髅贴颈项链 / 骷髅短项链 / 骷髅颈链 / 骷髅装饰项圈 / 骷髅挂坠项圈 / 骷髅吊坠项圈 / 项圈"
+    },
+    {
+      "en": "spiked choker",
+      "zh": "尖刺项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4948,
+      "desc": "镶有尖刺的贴颈颈链",
+      "kw": "铆钉颈链 / 尖钉颈环 / 带刺颈链 / 刺钉项圈 / 项圈 / 哥特 / 配饰"
+    },
+    {
+      "en": "star choker",
+      "zh": "星星颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4724,
+      "desc": "带有星星装饰的项圈/颈圈。",
+      "kw": "星形项圈 / 星形颈圈 / 五角星项圈 / 星饰项圈 / 星星颈带 / 星形颈带 / 项圈"
+    },
+    {
+      "en": "striped choker",
+      "zh": "条纹项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 767,
+      "desc": "带条纹图案的颈圈",
+      "kw": "条纹颈圈 / 条纹颈带 / 条纹脖环 / 条纹脖圈 / 条纹领圈 / 项圈 / 颈饰 / 条纹"
+    },
+    {
+      "en": "studded choker",
+      "zh": "铆钉颈带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2281,
+      "desc": "镶有金属铆钉的颈部项圈",
+      "kw": "铆钉项圈 / 金属钉颈圈 / 尖钉颈圈 / 钉子项圈 / 铆钉颈环 / 铆钉choker / 项圈 / 配饰"
+    },
+    {
+      "en": "argyle choker",
+      "zh": "菱格纹颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46
+    },
+    {
+      "en": "plaid choker",
+      "zh": "格子项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31
+    },
+    {
+      "en": "print choker",
+      "zh": "印花颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 107,
+      "desc": "印有图案的项圈",
+      "kw": "印花脖圈 / 印刷图案项圈 / 图案项圈 / 印花项链 / 颈部 / 颈饰 / 颈圈"
+    },
+    {
+      "en": "aqua choker",
+      "zh": "水蓝色颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 867,
+      "desc": "水色（蓝绿色）的项圈。",
+      "kw": "水色颈圈 / 蓝绿色项圈 / 水蓝项圈 / 水色颈环 / 水色脖环 / 水色颈带 / 水蓝色项圈 / 项圈"
+    },
+    {
+      "en": "black choker",
+      "zh": "黑色颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 282923,
+      "desc": "紧贴脖颈的黑色项圈饰品。",
+      "kw": "黑色颈环 / 黑色颈带 / 黑色颈饰 / 黑色贴颈项圈 / 黑choker / 颈饰"
+    },
+    {
+      "en": "blue choker",
+      "zh": "蓝色颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18172,
+      "desc": "紧贴脖颈的蓝色项圈饰品",
+      "kw": "蓝项圈 / 蓝色颈环 / 蓝颈饰 / 蓝色贴颈项圈 / 项圈 / 配饰 / 颈饰"
+    },
+    {
+      "en": "brown choker",
+      "zh": "棕色颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2888,
+      "desc": "棕色项圈，紧贴脖子佩戴的颈饰",
+      "kw": "棕色颈环 / 棕色皮质项圈 / 棕色短项链 / 棕色颈带 / 颈圈 / 配饰"
+    },
+    {
+      "en": "green choker",
+      "zh": "绿色项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5395,
+      "desc": "呈绿色、紧贴颈部的项圈",
+      "kw": "绿色颈圈 / 绿项圈 / 绿色贴颈项链 / 绿色短项链 / 绿色颈饰 / 项圈 / 配饰"
+    },
+    {
+      "en": "grey choker",
+      "zh": "灰色颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2100,
+      "desc": "颜色为灰色的颈饰项圈",
+      "kw": "灰色颈环 / 灰色脖环 / 灰色项链 / 灰项圈 / 灰颈饰 / 项圈 / 配饰"
+    },
+    {
+      "en": "orange choker",
+      "zh": "橙色项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3543,
+      "desc": "橙色的紧贴颈部佩戴的颈链",
+      "kw": "橙色颈圈 / 橘色颈链 / 项圈 / 配饰 / 首饰"
+    },
+    {
+      "en": "pink choker",
+      "zh": "粉色颈链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14313,
+      "desc": "紧贴脖颈的粉色装饰项圈。",
+      "kw": "粉红项圈 / 粉色颈圈 / 粉红颈圈 / 粉色脖圈 / 粉色颈饰 / 粉红色项圈 / 粉项圈 / 项圈"
+    },
+    {
+      "en": "red choker",
+      "zh": "红色颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26154,
+      "desc": "紧贴脖颈佩戴的红色装饰性颈圈",
+      "kw": "红项圈 / 红颈圈 / 红色脖圈 / 红色颈带 / 项圈 / 颈饰 / 配饰"
+    },
+    {
+      "en": "white choker",
+      "zh": "白色颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30222,
+      "desc": "白色贴身颈饰。",
+      "kw": "白色颈环 / 白色脖环 / 白项圈 / 白色颈带 / 配饰 / 项饰"
+    },
+    {
+      "en": "yellow choker",
+      "zh": "黄色颈圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4380,
+      "desc": "紧贴颈部佩戴的黄色颈圈",
+      "kw": "黄色颈环 / 黄色脖子环 / 黄项圈 / 黄色锁骨链 / 配饰 / 项圈"
+    },
+    {
+      "en": "anchor necklace",
+      "zh": "锚型项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1844,
+      "desc": "挂有锚形吊坠的项链。",
+      "kw": "锚项链 / 船锚项链 / 锚形吊坠项链 / 锚吊坠项链 / 项链 / 首饰 / 配饰"
+    },
+    {
+      "en": "bead necklace",
+      "zh": "串珠项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20664,
+      "desc": "用珠子串成的项链。",
+      "kw": "珠串项链 / 珠子项链 / 串珠颈链 / 珠链 / 串珠链 / 珠珠项链 / 项链 / 首饰"
+    },
+    {
+      "en": "bow necklace",
+      "zh": "蝴蝶结项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 92,
+      "desc": "蝴蝶结形状或带蝴蝶结装饰的项链。",
+      "kw": "蝴蝶结颈链 / 蝴蝶结吊坠项链 / 蝴蝶结链子"
+    },
+    {
+      "en": "carrot necklace",
+      "zh": "胡萝卜项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3999,
+      "desc": "兔娘常戴的胡萝卜项链",
+      "kw": "胡萝卜挂坠 / 胡萝卜吊坠 / 萝卜项链 / 兔耳角色项链 / 项链 / 首饰"
+    },
+    {
+      "en": "chain necklace",
+      "zh": "链条项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12618,
+      "desc": "链节清晰可见的链条状项链",
+      "kw": "链式项链 / 链子项链 / 金属链条项链 / 链环项链 / 颈部 / 颈饰 / 饰品 / 链饰"
+    },
+    {
+      "en": "crescent necklace",
+      "zh": "月牙项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2130,
+      "desc": "带新月形吊坠的项链。",
+      "kw": "弯月项链 / 月牙形吊坠项链 / 项链 / 首饰 / 配饰"
+    },
+    {
+      "en": "dice necklace",
+      "zh": "骰子项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 190,
+      "desc": "以骰子作为吊坠的项链。",
+      "kw": "骰子吊坠项链 / 骰子挂坠项链 / 骰子颈链 / 骰子饰品 / 赌博配件 / 链坠饰物"
+    },
+    {
+      "en": "feather necklace",
+      "zh": "羽毛项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 648,
+      "desc": "用羽毛装饰的项链",
+      "kw": "羽毛饰品项链 / 羽毛挂坠项链 / 项链 / 首饰 / 羽毛"
+    },
+    {
+      "en": "festoon (necklace)",
+      "zh": "花彩项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 58,
+      "desc": "主链上垂挂宝石装饰的项链，形似垂花花环。",
+      "kw": "垂花式项链 / 花环式项链 / 垂饰项链"
+    },
+    {
+      "en": "flower necklace",
+      "zh": "鲜花项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3106,
+      "desc": "用花做成或带花饰的项链",
+      "kw": "花项链 / 花环项链 / 花串项链 / 项链 / 首饰"
+    },
+    {
+      "en": "gold necklace",
+      "zh": "金项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11844,
+      "desc": "黄金制成的项链",
+      "kw": "黄金项链 / 金链子 / 黄金颈链 / 金颈链 / 纯金项链 / 颈部 / 颈饰 / 金链"
+    },
+    {
+      "en": "heart necklace",
+      "zh": "心形项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10981,
+      "desc": "带心形吊坠的项链",
+      "kw": "爱心项链 / 心型项链 / 心形吊坠项链 / 爱心吊坠项链 / 红心项链 / 首饰 / 配饰"
+    },
+    {
+      "en": "key necklace",
+      "zh": "钥匙项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4204,
+      "desc": "挂着钥匙的项链",
+      "kw": "钥匙链 / 挂钥匙的项链 / 钥匙挂坠项链 / 钥匙吊坠 / 钥匙饰品 / 项链 / 首饰 / 配饰"
+    },
+    {
+      "en": "lariat (necklace)",
+      "zh": "套索项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 182,
+      "desc": "主链上分出另一条链形成Y形的项链",
+      "kw": "Y字项链 / Y型项链 / Y字链 / 项链 / 首饰"
+    },
+    {
+      "en": "leaf necklace",
+      "zh": "叶片项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 68,
+      "desc": "用叶子或叶形坠饰做成的项链。",
+      "kw": "树叶项链 / 叶子颈链 / 叶形项链 / 树叶颈饰 / 叶片颈链 / 叶子挂饰"
+    },
+    {
+      "en": "four-leaf clover necklace",
+      "zh": "四叶草项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 139,
+      "desc": "四叶草形状的项链",
+      "kw": "四叶三叶草项链 / 四叶幸运草项链 / 四叶草吊坠 / 四叶草挂坠 / 四叶草颈链 / 首饰 / 项链 / 幸运符"
+    },
+    {
+      "en": "lightning bolt necklace",
+      "zh": "闪电吊坠项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 99,
+      "desc": "带闪电符号吊坠的项链",
+      "kw": "闪电符号项链 / 闪电形状项链 / 雷电项链 / 闪电挂坠项链"
+    },
+    {
+      "en": "magatama necklace",
+      "zh": "勾玉项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4628,
+      "desc": "挂着勾玉的项链",
+      "kw": "勾玉链 / 勾玉吊坠 / 勾玉坠子 / 勾玉颈饰 / 勾玉挂链 / 曲玉项链 / 项链 / 日本风"
+    },
+    {
+      "en": "pearl necklace",
+      "zh": "珍珠项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16998,
+      "desc": "用珍珠串成一圈的项链，佩戴在脖子上。",
+      "kw": "珍珠链 / 珍珠颈链 / 珠串项链 / 珍珠串项链 / 珍珠项链饰品 / 珠链颈饰 / 首饰 / 项链"
+    },
+    {
+      "en": "pendant",
+      "zh": "吊坠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49254,
+      "desc": "挂在项链或颈饰下的垂坠饰品。",
+      "kw": "项链吊坠 / 项坠 / 挂坠 / 垂饰 / 吊饰 / 颈部 / 颈饰 / 饰品 / 吊坠项链 / ペンダント"
+    },
+    {
+      "en": "plastron (necklace)",
+      "zh": "胸铠式项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62,
+      "desc": "覆盖胸部的大型华丽项链，源自埃及乌塞克项圈。",
+      "kw": "胸甲项链 / 多层宝石项链 / 埃及风项链 / 乌塞克项圈 / 大项链"
+    },
+    {
+      "en": "ring necklace",
+      "zh": "戒指项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1451,
+      "desc": "项链上挂有戒指作为吊坠。",
+      "kw": "挂戒项链 / 串戒项链 / 带戒项链 / 戒指吊坠项链 / 指环项链 / 挂着戒指的项链 / 首饰 / 配饰"
+    },
+    {
+      "en": "riviere (necklace)",
+      "zh": "排钻项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 54,
+      "desc": "多颗同色同切工宝石串成的项链",
+      "kw": "里维埃项链 / 宝石串珠项链 / 同色宝石项链 / 宝石串链"
+    },
+    {
+      "en": "shell necklace",
+      "zh": "贝壳项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2305,
+      "desc": "挂有贝壳的项链",
+      "kw": "海贝项链 / 贝类项链 / 贝壳挂链 / 颈部 / 颈饰 / 贝壳吊坠 / 贝壳链 / seashell necklace"
+    },
+    {
+      "en": "silver necklace",
+      "zh": "银项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1121,
+      "desc": "银或银色材质制成的项链。",
+      "kw": "银色项链 / 银制项链 / 纯银项链 / 白银项链 / 银链子 / 银质项链 / 项链 / 首饰"
+    },
+    {
+      "en": "skull necklace",
+      "zh": "骷髅项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1804,
+      "desc": "由头骨或骷髅形饰品串成的项链",
+      "kw": "骷髅头项链 / 头骨项链 / 骷髅珠链 / 骷髅颈链 / 首饰 / 项链"
+    },
+    {
+      "en": "snake necklace",
+      "zh": "蛇形项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16
+    },
+    {
+      "en": "star necklace",
+      "zh": "星星项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4842,
+      "desc": "带有星形挂饰的项链",
+      "kw": "星型项链 / 五角星项链 / 星形挂饰项链 / 星星挂坠项链 / 项链 / 首饰 / 配饰"
+    },
+    {
+      "en": "station necklace",
+      "zh": "间珠项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38
+    },
+    {
+      "en": "strawberry necklace",
+      "zh": "草莓项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39
+    },
+    {
+      "en": "sun necklace",
+      "zh": "太阳项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 288,
+      "desc": "太阳形状的项链",
+      "kw": "太阳形项链 / 太阳吊坠项链 / 太阳款项链 / 日形项链 / 太阳图案项链 / 太阳挂坠项链 / 项链 / 首饰"
+    },
+    {
+      "en": "tassel necklace",
+      "zh": "流苏项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 103,
+      "desc": "带流苏装饰的项链。",
+      "kw": "流苏颈链 / 带流苏的项链 / 流苏吊坠项链 / 穗子项链 / 颈部 / 颈饰 / 项链 / 流苏饰品"
+    },
+    {
+      "en": "tooth necklace",
+      "zh": "牙齿项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4078,
+      "desc": "串着牙齿的项链，常与户外冒险者或部落角色相关。",
+      "kw": "兽牙项链 / 尖牙项链 / 牙链 / 牙齿挂饰 / 项链 / 首饰 / 部落风格 / fang necklace / teeth necklace"
+    },
+    {
+      "en": "aqua necktie",
+      "zh": "水蓝色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23424,
+      "desc": "水色（蓝绿色）的领带，初音未来标志性佩戴。",
+      "kw": "蓝绿色领带 / 浅蓝绿色领带 / 青绿色领带 / 领带 / 配饰"
+    },
+    {
+      "en": "black necktie",
+      "zh": "黑色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 110479,
+      "desc": "系在衬衫领下的黑色领带",
+      "kw": "黑领带 / 黑领呔 / 黑色领呔 / 领带 / 配饰"
+    },
+    {
+      "en": "brown necktie",
+      "zh": "棕色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5294,
+      "desc": "棕色的领带。",
+      "kw": "褐色领带 / 咖啡色领带 / 棕领带 / 深棕色领带 / 棕色细领带 / 领带 / 配饰 / 棕色"
+    },
+    {
+      "en": "green necktie",
+      "zh": "绿色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27476,
+      "desc": "颜色为绿色的领带。",
+      "kw": "绿领带 / 绿色系领带 / 绿色正装领带 / 领带 / 配饰 / 领结"
+    },
+    {
+      "en": "grey necktie",
+      "zh": "灰色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5550,
+      "desc": "颜色为灰色的领带",
+      "kw": "灰领带 / 灰色领带结 / 灰色领带条 / 浅灰领带 / 深灰领带 / 领带 / 配饰 / 灰色"
+    },
+    {
+      "en": "orange necktie",
+      "zh": "橙色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8683,
+      "desc": "橙色领带",
+      "kw": "橙领带 / 领带 / 配饰"
+    },
+    {
+      "en": "pink necktie",
+      "zh": "粉色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13122,
+      "desc": "衬衫领下打结的粉色领带。",
+      "kw": "粉领带 / 粉红领带 / 桃红领带 / 淡红领带 / 领带 / 配饰"
+    },
+    {
+      "en": "red necktie",
+      "zh": "红色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 126206,
+      "desc": "红色领带，衬衫领下打结垂下。",
+      "kw": "红领带 / 红色衬衫领带 / 红色领带（男式） / 领带 / 配饰"
+    },
+    {
+      "en": "white necktie",
+      "zh": "白色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14676,
+      "desc": "白色的领带，区别于领结。",
+      "kw": "白领带 / 白色领巾 / 白领巾 / 白色领带（长领带） / 配饰"
+    },
+    {
+      "en": "yellow necktie",
+      "zh": "黄色领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24414,
+      "desc": "颜色为黄色的领带。",
+      "kw": "黄领带 / 金色领带 / 亮黄色领带 / 领带 / 配饰 / gold necktie"
+    },
+    {
+      "en": "fur scarf",
+      "zh": "毛皮围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5288,
+      "desc": "用毛皮制成的围巾，保暖装饰。",
+      "kw": "皮草围脖 / 毛皮围脖 / 裘皮围巾 / 皮草长巾 / 毛皮长巾 / 围巾 / 毛领"
+    },
+    {
+      "en": "fur-trimmed scarf",
+      "zh": "毛领围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 87,
+      "desc": "带毛皮镶边的围巾",
+      "kw": "毛边围巾 / 皮草边围巾 / 毛绒边围巾 / 皮毛围巾 / 毛饰围巾 / 毛皮围巾"
+    },
+    {
+      "en": "floating scarf",
+      "zh": "飘浮围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2360,
+      "desc": "围巾在空中飘动，通常因风",
+      "kw": "飘浮的围巾 / 飘动围巾 / 围巾飘起 / 被风吹起的围巾 / 飞扬的围巾 / 围巾 / 飘逸 / flowing scarf"
+    },
+    {
+      "en": "sentient scarf",
+      "zh": "有意识的围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 106,
+      "desc": "由生物或动物（例如蛇）构成的围巾。",
+      "kw": "颈部 / 颈饰 / 围巾 / 生物 / 拟人化"
+    },
+    {
+      "en": "see-through scarf",
+      "zh": "透视围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 128,
+      "desc": "透明或半透明材质的围巾",
+      "kw": "透明围巾 / 半透明围巾 / 薄纱围巾 / 透视纱巾 / 围巾 / 透视"
+    },
+    {
+      "en": "argyle scarf",
+      "zh": "菱格纹围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 317,
+      "desc": "带明显菱形格纹的围巾。",
+      "kw": "菱形格纹围巾 / 菱纹围巾 / 菱形花纹围巾 / 网格菱纹围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "camouflage scarf",
+      "zh": "迷彩围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 253,
+      "desc": "迷彩图案的围巾",
+      "kw": "迷彩围脖 / 迷彩丝巾 / 迷彩领巾 / 围巾 / 配饰 / 军风"
+    },
+    {
+      "en": "polka dot scarf",
+      "zh": "波点围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 541,
+      "desc": "带圆点图案的围巾",
+      "kw": "圆点花纹围巾 / 点点围巾 / 波尔卡圆点围巾 / 圆点图案围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "striped scarf",
+      "zh": "条纹围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9004,
+      "desc": "带条纹图案的围巾",
+      "kw": "条纹围脖 / 横纹围巾 / 条纹领巾 / 条纹颈巾 / 斑纹围巾 / 围巾 / 条纹"
+    },
+    {
+      "en": "vertical-striped scarf",
+      "zh": "竖条纹围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 589,
+      "desc": "带竖条纹的围巾",
+      "kw": "纵条纹围巾 / 竖条围巾 / 垂直条纹围巾 / 直条纹围巾 / 围巾 / 配饰 / 条纹"
+    },
+    {
+      "en": "torn scarf",
+      "zh": "破损围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2772,
+      "desc": "末端明显破损撕裂的围巾。",
+      "kw": "撕裂围巾 / 破围巾 / 烂围巾 / 破洞围巾 / 围巾 / 颈饰 / ripped scarf"
+    },
+    {
+      "en": "gradient scarf",
+      "zh": "渐变色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 231,
+      "desc": "带有渐变色彩的围巾。",
+      "kw": "渐变围巾 / 渐变色围脖 / 渐变围脖 / 彩色渐变围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "multicolored scarf",
+      "zh": "多色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1646,
+      "desc": "设计中有两种或以上颜色的围巾",
+      "kw": "彩色围巾 / 多颜色围巾 / 花色围巾 / 多种颜色围巾 / 多彩围巾 / 颜色丰富围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "two-tone scarf",
+      "zh": "双色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2887,
+      "desc": "由两种基本颜色构成的围巾。",
+      "kw": "两色围巾 / 双色调围巾 / 二色围巾 / 双色围脖 / 两色调围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "aqua scarf",
+      "zh": "水蓝色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1176,
+      "desc": "水色（蓝绿色）的围巾",
+      "kw": "湖蓝围巾 / 蓝绿色围巾 / 水蓝围巾 / 淡水蓝围巾 / 青绿色围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "black scarf",
+      "zh": "黑色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18063,
+      "desc": "围在颈部的黑色围巾。",
+      "kw": "黑围巾 / 黑色围脖 / 黑围脖 / 黑色颈巾 / 黑色领巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "blue scarf",
+      "zh": "蓝色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23038,
+      "desc": "蓝色的围巾。",
+      "kw": "蓝围巾 / 蓝色围脖 / 蓝围脖 / 蓝色领巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "brown scarf",
+      "zh": "棕色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8561,
+      "desc": "棕色围巾，绕在脖子上保暖",
+      "kw": "棕色围脖 / 茶色围巾 / 褐色围巾 / 棕色颈巾 / 棕围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "green scarf",
+      "zh": "绿色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8803,
+      "desc": "颜色为绿色的围巾",
+      "kw": "绿围巾 / 绿色围脖 / 绿色丝巾 / 围巾 / 配饰 / 绿色"
+    },
+    {
+      "en": "grey scarf",
+      "zh": "灰色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5084,
+      "desc": "颜色为灰色的围巾",
+      "kw": "灰围巾 / 灰色围脖 / 灰围脖 / 灰色领巾 / 灰领巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "orange scarf",
+      "zh": "橙色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4922,
+      "desc": "橙色系围巾",
+      "kw": "橙围巾 / 橘色围巾 / 橘黄色围巾 / 橙黄色围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "pink scarf",
+      "zh": "粉色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10271,
+      "desc": "粉色的围巾",
+      "kw": "粉红色围巾 / 粉围巾 / 粉色围脖 / 粉红围巾 / 粉色丝巾 / 粉色领巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "white scarf",
+      "zh": "白色围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34191,
+      "desc": "围在脖子上的白色围巾。",
+      "kw": "白围巾 / 白色围脖 / 白围脖 / 白色领巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "yellow scarf",
+      "zh": "黄围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9983,
+      "desc": "围在脖子上的黄色围巾",
+      "kw": "黄色围脖 / 黄围脖 / 黄色领巾 / 黄色颈巾 / 黄色丝巾 / 黄色披巾 / 黄色巾"
+    },
+    {
+      "en": "cravat",
+      "zh": "领巾",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ascot",
+      "zh": "阿斯科特领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 211454,
+      "desc": "打成宽尾结、绕颈系着的宽领巾",
+      "kw": "领巾 / 宽领带 / 阔领巾 / 阿斯科特领带 / 领结围巾 / 领巾式领带 / 宽领结 / 围巾领带 / cravat / jabot / 多褶领巾 / ジャボ"
+    },
+    {
+      "en": "bowtie",
+      "zh": "领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 509803,
+      "desc": "系在脖子上的蝴蝶结，常见于校服或正装",
+      "kw": "蝴蝶结领 / 蝶形领结 / 蝴蝶领结 / 领花 / 蝴蝶结 / 颈结 / 配饰 / bow tie / neck bow / 蝶ネクタイ / ボウタイ"
+    },
+    {
+      "en": "traditional bowtie",
+      "zh": "传统领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15411,
+      "desc": "不带散尾的西式传统领结",
+      "kw": "传统蝴蝶结 / 经典领结 / 西式领结 / 正装领结 / 蝴蝶领结 / 无尾领结 / 正式领结 / 领结"
+    },
+    {
+      "en": "changmingsuo",
+      "zh": "长命锁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 390,
+      "desc": "中国挂在孩童颈上祈求长寿的长命锁。",
+      "kw": "长命缕 / 百家锁 / 寄名锁 / 平安锁 / 银锁 / 孩儿锁 / 长命锁牌 / 中国风"
+    },
+    {
+      "en": "choker",
+      "zh": "颈圈",
+      "rating": "s",
+      "nsfw": false,
+      "count": 638497,
+      "desc": "紧贴颈部佩戴的布制饰带，常为时尚或BDSM用",
+      "kw": "贴颈项圈 / choker式项圈 / 紧贴项圈 / 颈带 / 皮质项圈 / 蕾丝项圈 / 项带 / チョーカー / ちょーかー"
+    },
+    {
+      "en": "dog tags",
+      "zh": "军牌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12251,
+      "desc": "军人佩戴的身份识别牌，俗称狗牌。",
+      "kw": "军籍牌 / 身份牌 / 兵籍牌 / 军人身份牌 / 军用 / 配饰 / dogtags / dog tag / dogtag / 认识票"
+    },
+    {
+      "en": "guimpe",
+      "zh": "盖领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1383,
+      "desc": "修女常穿的覆盖颈部肩部的白色衬布",
+      "kw": "护颈布 / 修女领 / 修女衬领 / 白色护颈 / 衬裙盖领 / 修女服 / 服装配件 / 领饰"
+    },
+    {
+      "en": "lei",
+      "zh": "花环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 923,
+      "desc": "夏威夷特色的花环，常戴在脖子上。",
+      "kw": "夏威夷花圈 / 鲜花花环 / 花环项链 / 花朵项链 / 夏威夷鲜花环 / 鸡蛋花花环 / 夏威夷风"
+    },
+    {
+      "en": "neckerchief",
+      "zh": "领巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 263425,
+      "desc": "围在脖上打结、两端下垂似领带的布，常见水手服。",
+      "kw": "水手领巾 / 三角巾 / 方巾 / 颈巾 / 领结布 / 配饰 / 校服配件 / ネッカチーフ"
+    },
+    {
+      "en": "necklace",
+      "zh": "项链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 389580,
+      "desc": "松松环绕颈部的链状首饰，区别于项圈",
+      "kw": "颈链 / 链子 / 项链饰品 / 挂链 / 配饰 / 首饰 / ネックレス"
+    },
+    {
+      "en": "neck ring",
+      "zh": "颈环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17222,
+      "desc": "戴在脖子上的硬质环状饰品",
+      "kw": "脖子环 / 颈圈 / 硬颈环 / 金属颈环 / 项圈 / 配饰"
+    },
+    {
+      "en": "necktie",
+      "zh": "领带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 687038,
+      "desc": "系在颈部的长条布料",
+      "kw": "西服领带 / 配饰 / 领结 / tie / neck tie / ネクタイ"
+    },
+    {
+      "en": "scarf",
+      "zh": "围巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 288713,
+      "desc": "缠绕颈部的长条布料，用于保暖。",
+      "kw": "围脖 / 长围巾 / 围脖巾 / 保暖围巾 / 围巾饰 / 配饰 / 颈饰 / muffler / マフラー"
+    },
+    {
+      "en": "collar",
+      "zh": "项圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 286821,
+      "desc": "独立佩戴的颈部装饰环，非衬衫衣领。",
+      "kw": "颈圈 / 颈环 / 脖环 / 项环 / 领圈 / 颈饰 / 脖子圈 / 配饰 / 首轮 / 首輪"
+    },
+    {
+      "en": "cross tie",
+      "zh": "交叉领结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3556,
+      "desc": "两端在胸前交叠的细领带/颈带。",
+      "kw": "X形领带 / 交叉颈带 / 胸前交叉领带 / 领带 / 配饰 / x-shaped choker"
+    },
+    {
+      "en": "lapels",
+      "zh": "翻领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 48814,
+      "desc": "西装或外套前襟的翻折部分",
+      "kw": "驳领 / 驳头 / 西装领 / 西服领 / 西装翻领 / 领子翻折 / 服装 / lapel / ラペル"
+    },
+    {
+      "en": "neck ruff",
+      "zh": "拉夫领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5542,
+      "desc": "16至17世纪欧洲流行的颈部褶皱领饰",
+      "kw": "轮状皱领 / 褶饰领 / 褶皱领 / 蕾丝领 / 伊丽莎白领 / 拉夫褶皱领 / 花边领 / 飞边领 / 襞襟"
+    },
+    {
+      "en": "tie clip",
+      "zh": "领带夹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10278,
+      "desc": "将领带固定在衬衫前襟上的金属夹",
+      "kw": "领带扣 / 领带别针 / 领带针 / 领带固定夹 / 领带卡子 / 配饰 / 服装 / tie pin / tie tack / necktie pin / necktie clip"
+    },
+    {
+      "en": "neck ribbon",
+      "zh": "领口丝带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 219829,
+      "desc": "系在脖子上代替领带的丝带",
+      "kw": "领口缎带 / 颈带 / 领结丝带 / 丝带领带 / 颈巾 / 缎带领结 / 领结缎带 / 颈部丝带 / リボンタイ / りぼんたい / ネックリボン / ねっくりぼん"
+    },
+    {
+      "en": "scarf choker",
+      "zh": "围巾式项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 210,
+      "desc": "用小围巾或布条紧系颈部形成的颈圈。",
+      "kw": "围巾项圈 / 围巾choker / 小围巾颈圈 / 布条颈圈 / 围巾脖圈 / 配饰 / 颈饰"
+    },
+    {
+      "en": "usekh collar",
+      "zh": "乌瑟克项圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3512,
+      "desc": "古埃及贵族佩戴的宽项圈。",
+      "kw": "埃及宽项圈 / 古埃及项圈 / USEKH项圈 / 乌塞克宽领 / 埃及领 / 乌瑟克领圈 / 埃及风格 / 首饰 / egyptian collar / ウセク"
+    },
+    {
+      "en": "collar chain (jewelry)",
+      "zh": "领链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 621,
+      "desc": "连接衬衫领角的首饰链",
+      "kw": "衬衫领链 / 领角链 / 衣领链 / 领口链 / 领针链 / 领饰链 / 项圈链（首饰） / 项链 / ピンホールカラー"
+    },
+    {
+      "en": "open collar",
+      "zh": "开领",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15773,
+      "desc": "领口未扣合的翼领或衬衫领",
+      "kw": "敞开衣领 / 领口敞开 / 开襟领 / 领口开敞 / 未扣领口 / 衬衫开领 / 服装 / 開襟シャツ"
+    },
+    {
+      "en": "naked scarf",
+      "zh": "裸体围巾",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1335,
+      "desc": "角色仅围着一条围巾，身体裸露",
+      "kw": "裸围巾 / 只围围巾 / 裸体裹围巾 / 围巾裸体 / 裸体 / 围巾 / nude scarf / 裸マフラー"
+    },
+    {
+      "en": "ankh necklace",
+      "zh": "安卡项链",
+      "rating": "g",
+      "count": 645,
+      "desc": "带安卡（生命之符）吊坠的项链",
+      "kw": "生命之符项链 / 埃及十字项链 / 安卡十字项链 / 安克项链 / 生命钥匙项链 / 十字章项链 / 项链 / 埃及风"
+    },
+    {
+      "en": "aqua sailor collar",
+      "zh": "水色水手领",
+      "rating": "g",
+      "count": 1105,
+      "desc": "水色（蓝绿色）的水手领。",
+      "kw": "水蓝色水手领 / 浅蓝水手领 / 蓝绿色水手领 / 水色水手服领 / 水手领水色款 / 水色制服领 / 湖水色水手领 / 水手服"
+    },
+    {
+      "en": "ascot between breasts",
+      "zh": "乳间领巾",
+      "rating": "s",
+      "count": 911,
+      "desc": "宽领巾垂落、夹在双乳之间。",
+      "kw": "夹在胸部之间的领巾 / 双乳间领巾 / 胸部之间领巾 / 乳沟领巾 / 领巾夹在乳房间 / 胸前领巾 / 乳间阿斯科特领带 / 领带"
+    },
+    {
+      "en": "black collar",
+      "zh": "黑色衣领",
+      "rating": "g",
+      "count": 46910,
+      "desc": "黑色的独立衣领",
+      "kw": "黑领 / 黑色领子 / 黑领子 / 黑色项圈 / 配饰"
+    },
+    {
+      "en": "black sailor collar",
+      "zh": "黑色水手领",
+      "rating": "g",
+      "count": 67201,
+      "desc": "水手服式样的黑色衣领。",
+      "kw": "黑水手领 / 黑色水手服领 / 黑色水手服衣领 / 黑海军领 / 黑色海军领 / 黑色水兵领 / 水手领（黑色） / 制服"
+    },
+    {
+      "en": "blue collar",
+      "zh": "蓝色衣领",
+      "rating": "g",
+      "count": 5142,
+      "desc": "独立的蓝色衣领",
+      "kw": "蓝领 / 蓝色领子 / 蓝色假领 / 独立蓝领 / 蓝领子 / 蓝色衬衫领 / 蓝色衣领片 / 衣领"
+    },
+    {
+      "en": "blue sailor collar",
+      "zh": "蓝色水手领",
+      "rating": "g",
+      "count": 94002,
+      "desc": "水手服样式的蓝色披肩领",
+      "kw": "蓝水手领 / 蓝色水手服领 / 蓝色披肩领 / 蓝色大翻领 / 蓝色水兵领 / 水手服 / 校服 / 日本风格"
+    },
+    {
+      "en": "brown collar",
+      "zh": "棕色衣领",
+      "rating": "g",
+      "count": 2199,
+      "desc": "棕色的独立衣领",
+      "kw": "棕色领子 / 咖啡色衣领 / 棕色假领 / 衣领 / 服装"
+    },
+    {
+      "en": "brown sailor collar",
+      "zh": "棕色水手领",
+      "rating": "g",
+      "count": 6184,
+      "desc": "棕色水手领，背后带方形垂布",
+      "kw": "棕色水手服领 / 棕色海军领 / 棕色水手领巾 / 棕色水手服领子 / 水手领 / 制服"
+    },
+    {
+      "en": "butterfly choker",
+      "zh": "蝴蝶项圈",
+      "rating": "g",
+      "count": 564,
+      "desc": "带有蝴蝶装饰的颈圈",
+      "kw": "蝴蝶颈圈 / 蝴蝶颈饰 / 蝴蝶项饰 / 蝴蝶锁骨链 / 项圈 / 配饰"
+    },
+    {
+      "en": "butterfly necklace",
+      "zh": "蝴蝶项链",
+      "rating": "g",
+      "count": 711,
+      "desc": "蝴蝶造型的项链",
+      "kw": "蝴蝶造型项链 / 蝴蝶形状项链 / 蝴蝶吊坠项链 / 蝴蝶坠饰项链 / 蝴蝶挂坠项链 / 蝴蝶形项链 / 蝴蝶链饰 / 项链"
+    },
+    {
+      "en": "cat choker",
+      "zh": "猫项圈",
+      "rating": "g",
+      "count": 1413,
+      "desc": "带有猫铃或猫主题装饰的颈圈。",
+      "kw": "猫铃项圈 / 猫颈圈 / 猫咪项圈 / 猫颈环 / 猫用项圈 / 猫形项圈 / 猫铃铛项圈 / 猫项圈饰品"
+    },
+    {
+      "en": "checkered necktie",
+      "zh": "方格领带",
+      "rating": "g",
+      "count": 3406,
+      "desc": "带方格图案的领带。",
+      "kw": "格子领带 / 棋盘格领带 / 格纹领带 / 领带 / 格子图案"
+    },
+    {
+      "en": "checkered scarf",
+      "zh": "格子围巾",
+      "rating": "g",
+      "count": 6552,
+      "desc": "带明显方格图案的围巾。",
+      "kw": "格纹围巾 / 方格围巾 / 格子纹围巾 / 花纹围巾 / 棋盘格围巾 / 围巾 / 配饰 / チェック柄マフラー"
+    },
+    {
+      "en": "clerical collar",
+      "zh": "牧师领",
+      "rating": "g",
+      "count": 548,
+      "desc": "中间有白色方形开口的牧师领",
+      "kw": "神父领 / 教士领 / 罗马领 / 牧师领圈 / 白领圈 / 服装 / 宗教风"
+    },
+    {
+      "en": "collar jewel",
+      "zh": "项圈宝石",
+      "rating": "g",
+      "count": 780,
+      "desc": "镶在领圈上的宝石",
+      "kw": "领圈宝石 / 领口宝石 / 衣领宝石 / 领饰宝石 / 项饰宝石 / 颈圈宝石 / 宝石 / 首饰"
+    },
+    {
+      "en": "collar tabs",
+      "zh": "领章",
+      "rating": "g",
+      "count": 698,
+      "desc": "军警制服领上表示军衔的领章",
+      "kw": "衣领章 / 制服领章 / 军衔领章 / 军服领章 / 警服领章 / 领口章 / 领子徽章 / 衣领徽章"
+    },
+    {
+      "en": "contrast lapels",
+      "zh": "异色翻领",
+      "rating": "g",
+      "count": 1849,
+      "desc": "颜色与衣身明显不同的翻领",
+      "kw": "撞色翻领 / 对比色翻领 / 异色领 / 拼色翻领 / 异色西服领 / 服装 / 领子 / colored lapels"
+    },
+    {
+      "en": "cowl neck",
+      "zh": "堆堆领",
+      "rating": "g",
+      "count": 523,
+      "desc": "领口垂坠形成褶皱的领型",
+      "kw": "垂褶领 / 垂坠领 / 荡领 / 堆领 / 褶皱领 / 悬垂领 / 围巾领 / 垂领"
+    },
+    {
+      "en": "cross pendant",
+      "zh": "十字吊坠",
+      "rating": "g",
+      "count": 770,
+      "desc": "十字形状的吊坠",
+      "kw": "十字架吊坠 / 十字项链 / 十字架项链 / 十字挂件 / 十字架挂坠 / 十字坠 / 配饰 / 首饰"
+    },
+    {
+      "en": "crystal necklace",
+      "zh": "水晶项链",
+      "rating": "g",
+      "count": 628,
+      "desc": "水晶制成的项链",
+      "kw": "水晶颈链 / 水晶吊坠项链 / 水晶饰品项链 / 水晶链子 / 首饰 / 配饰"
+    },
+    {
+      "en": "diagonal-striped bowtie",
+      "zh": "斜条纹领结",
+      "rating": "g",
+      "count": 6019,
+      "desc": "带斜条纹图案的领结",
+      "kw": "斜纹领结 / 斜条纹蝴蝶结 / 斜纹蝴蝶结 / 斜条蝴蝶结 / 斜条纹领花 / 领结 / 配饰"
+    },
+    {
+      "en": "diagonal-striped necktie",
+      "zh": "斜条纹领带",
+      "rating": "g",
+      "count": 14239,
+      "desc": "带有斜向条纹的领带。",
+      "kw": "对角条纹领带 / 斜纹领带 / 斜条领带 / 斜线条纹领带 / 配饰"
+    },
+    {
+      "en": "diamond necklace",
+      "zh": "菱形项链",
+      "rating": "g",
+      "count": 522,
+      "desc": "以菱形作为装饰链坠或链节的项链，非指钻石宝石",
+      "kw": "钻石项链 / 菱形饰件项链 / 菱形吊坠 / 菱形挂坠 / 钻石形项链 / 菱形链子 / 项链 / 首饰"
+    },
+    {
+      "en": "floating neckwear",
+      "zh": "悬浮的颈部饰品",
+      "rating": "g",
+      "count": 1667,
+      "desc": "围巾、领带等颈部饰品飘浮在空中",
+      "kw": "飘浮的颈部饰品 / 飘起的颈部饰品 / 悬浮的围巾 / 飘起的领带 / 悬浮领饰 / 漂浮的颈饰 / 颈饰 / 配饰 / floating necktie / floating bowtie / floating neck ribbon"
+    },
+    {
+      "en": "fold-over collar",
+      "zh": "翻折领",
+      "rating": "g",
+      "count": 612,
+      "desc": "一侧压住另一侧的翻折衣领",
+      "kw": "翻领 / 折叠领 / 翻折衣领 / 叠领 / 双层翻领 / 翻叠领 / 折领 / 服装"
+    },
+    {
+      "en": "frilled ascot",
+      "zh": "荷叶边宽领巾",
+      "rating": "g",
+      "count": 3048,
+      "desc": "带荷叶边饰的宽领巾",
+      "kw": "花边领巾 / 褶边宽领巾 / 荷叶边领结 / 花边宽领巾 / 褶边宽领带 / 荷叶边领巾 / 领结 / 配饰"
+    },
+    {
+      "en": "frilled sailor collar",
+      "zh": "荷叶边水手领",
+      "rating": "g",
+      "count": 3616,
+      "desc": "带荷叶边装饰的水手领。",
+      "kw": "褶皱水手领 / 花边水手领 / 褶边水手领 / 水手服 / 校服"
+    },
+    {
+      "en": "frilled shirt collar",
+      "zh": "荷叶边衬衫领",
+      "rating": "g",
+      "count": 63220,
+      "desc": "衬衫等衣物上的荷叶边衣领",
+      "kw": "荷叶边领 / 褶边领 / 花边领 / 衬衫荷叶领 / 荷叶边衣领 / 褶边衬衫领 / 荷叶花边领 / 衬衫领"
+    },
+    {
+      "en": "gold collar",
+      "zh": "金项圈",
+      "rating": "g",
+      "count": 1719,
+      "desc": "黄金制成或呈金色的项圈。",
+      "kw": "金色项圈 / 黄金项圈 / 金颈圈 / 金色颈环 / 金色项环 / 项圈 / 首饰 / 金色"
+    },
+    {
+      "en": "gradient necktie",
+      "zh": "渐变领带",
+      "rating": "g",
+      "count": 729,
+      "desc": "带渐变色的领带",
+      "kw": "渐变色领带 / 渐层领带 / 渐变式领带 / 领带 / 配饰"
+    },
+    {
+      "en": "green collar",
+      "zh": "绿色衣领",
+      "rating": "g",
+      "count": 1680,
+      "desc": "独立的绿色衣领部件。",
+      "kw": "绿领 / 绿色领子 / 绿色领口 / 绿色假领 / 绿色领子单独存在 / 衣领 / 服装"
+    },
+    {
+      "en": "green sailor collar",
+      "zh": "绿色水手领",
+      "rating": "g",
+      "count": 10834,
+      "desc": "水手服上绿色的水手领",
+      "kw": "绿色水手服领 / 绿色水手领子 / 绿水手领 / 绿色海军领 / 绿色水手服领子 / 绿色水手领巾 / 制服 / 校服"
+    },
+    {
+      "en": "grey collar",
+      "zh": "灰色衣领",
+      "rating": "g",
+      "count": 769,
+      "desc": "独立佩戴或穿着的灰色衣领。",
+      "kw": "灰领 / 灰色假领 / 灰色领子 / 灰色领饰 / 灰色衬衫领 / 衣领 / 服装"
+    },
+    {
+      "en": "grey sailor collar",
+      "zh": "灰色水手领",
+      "rating": "g",
+      "count": 11369,
+      "desc": "灰色水手服上的方形领子。",
+      "kw": "灰色海军领 / 灰色水军领 / 灰色水手服领 / 灰水手领 / 制服 / 校服"
+    },
+    {
+      "en": "heart pendant",
+      "zh": "心形吊坠",
+      "rating": "g",
+      "count": 2489,
+      "desc": "心形项链坠饰，挂在链子上佩戴",
+      "kw": "心形吊饰 / 心形挂坠 / 心形项链坠 / 爱心吊坠 / 桃心吊坠 / 心形项坠 / 爱心挂坠 / 吊坠"
+    },
+    {
+      "en": "lace collar",
+      "zh": "蕾丝领",
+      "rating": "g",
+      "count": 1017,
+      "desc": "用蕾丝制成的衣领。",
+      "kw": "花边领 / 蕾丝衣领 / 花边衣领 / 蕾丝花边领 / 蕾丝领子 / 花边领子 / 衣饰 / 花边"
+    },
+    {
+      "en": "linked collar",
+      "zh": "相连项圈",
+      "rating": "q",
+      "nsfw": true,
+      "count": 732,
+      "desc": "两个或多个项圈用链条连接",
+      "kw": "连接项圈 / 链式项圈 / 项圈相连 / 锁链项圈 / 互连项圈 / 链条项圈 / 双人项圈 / 连环项圈"
+    },
+    {
+      "en": "long scarf",
+      "zh": "长围巾",
+      "rating": "g",
+      "count": 1548,
+      "desc": "长度超过身高的围巾",
+      "kw": "超长围巾 / 长款围巾 / 加长围巾 / 特长围巾 / 及地围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "loose neck ribbon",
+      "zh": "松散颈部丝带",
+      "rating": "g",
+      "count": 757,
+      "desc": "系着但松松垂在颈肩处的颈部丝带",
+      "kw": "松垮颈带 / 垂坠颈带 / 宽松颈带 / 松散蝴蝶结颈带 / 松散领结带 / 松散的领带 / 领结 / 配饰"
+    },
+    {
+      "en": "multicolored necktie",
+      "zh": "多色领带",
+      "rating": "g",
+      "count": 1726,
+      "desc": "有两种以上颜色的领带",
+      "kw": "彩色领带 / 杂色领带 / 花领带 / 多色条纹领带 / 领带 / 配饰"
+    },
+    {
+      "en": "multiple necklaces",
+      "zh": "多条项链",
+      "rating": "g",
+      "count": 3269,
+      "desc": "同一人物同时佩戴多条项链。",
+      "kw": "多个项链 / 多串项链 / 多层项链 / 复数项链 / 戴多条项链 / 项链 / 首饰 / 配饰"
+    },
+    {
+      "en": "naked necktie",
+      "zh": "裸体系领带",
+      "rating": "q",
+      "nsfw": true,
+      "count": 649,
+      "desc": "全裸只系一条长领带垂在身前",
+      "kw": "裸体打领带 / 全裸领带 / 裸体领带 / 裸围领带 / 裸体戴领带 / 领带 / 裸体 / 裸ネクタイ"
+    },
+    {
+      "en": "neck flower",
+      "zh": "颈部花朵",
+      "rating": "g",
+      "count": 4411,
+      "desc": "戴在或环绕颈部和上胸的花",
+      "kw": "脖子花 / 颈部花 / 颈花 / 脖子花朵 / 颈上花朵 / 颈部花饰 / 颈部装饰花 / 花饰"
+    },
+    {
+      "en": "neck garter",
+      "zh": "颈部袜带",
+      "rating": "s",
+      "count": 908,
+      "desc": "戴在脖子上的袜带圈。",
+      "kw": "脖子袜带 / 颈环袜带 / 颈圈袜带 / 戴在脖子上的袜带 / 颈部吊带 / 颈部袜圈 / 脖圈 / 颈带"
+    },
+    {
+      "en": "necklace between breasts",
+      "zh": "乳间项链",
+      "rating": "s",
+      "count": 516,
+      "desc": "项链垂落在双乳之间",
+      "kw": "项链夹在乳沟 / 乳沟项链 / 胸部之间的项链 / 项链垂于乳间 / 胸口项链 / 项链位于双乳间 / 坠入乳沟的项链 / 项链"
+    },
+    {
+      "en": "notched lapels",
+      "zh": "平驳领",
+      "rating": "g",
+      "count": 24511,
+      "desc": "西装翻领常见样式，领口有缺口。",
+      "kw": "缺口翻领 / V形翻领 / 凹口翻领 / 平驳头 / 缺口领 / 西装平驳领 / 开叉翻领 / 西装领"
+    },
+    {
+      "en": "orange sailor collar",
+      "zh": "橙色水手领",
+      "rating": "g",
+      "count": 2614,
+      "desc": "水手服式样的橙色大翻领",
+      "kw": "橙色水手服领 / 橙色大翻领 / 橘色水手领 / 橙色水兵领 / 橙色水手服襟 / 水手领 / 校服"
+    },
+    {
+      "en": "peaked lapels",
+      "zh": "戗驳领",
+      "rating": "g",
+      "count": 734,
+      "desc": "领尖向上翻起指向肩膀的西装翻领",
+      "kw": "枪驳领 / 戗驳头 / 尖领 / 西装尖领 / 戗驳翻领 / 领子 / 西装"
+    },
+    {
+      "en": "pearl choker",
+      "zh": "珍珠项圈",
+      "rating": "g",
+      "count": 634,
+      "desc": "珍珠串成的紧贴脖颈的项圈。",
+      "kw": "珍珠颈圈 / 珍珠脖圈 / 珍珠短项链 / 珍珠贴颈项链 / 珍珠颈链 / 首饰 / 配饰"
+    },
+    {
+      "en": "pendant collar",
+      "zh": "吊坠项圈",
+      "rating": "g",
+      "count": 1294,
+      "desc": "挂着吊坠的项圈。",
+      "kw": "带吊坠的项圈 / 坠子项圈 / 挂坠项圈 / 项圈 / 配饰"
+    },
+    {
+      "en": "pink collar",
+      "zh": "粉色颈圈",
+      "rating": "g",
+      "count": 4702,
+      "desc": "粉色的独立颈圈，非衬衫领",
+      "kw": "粉颈圈 / 粉色项圈 / 粉红颈圈 / 粉色脖圈 / 粉色领圈 / 项圈 / 宠物用品"
+    },
+    {
+      "en": "pink sailor collar",
+      "zh": "粉色水手领",
+      "rating": "g",
+      "count": 4146,
+      "desc": "水手服式样的粉色大翻领。",
+      "kw": "粉水手领 / 粉红色水手领 / 粉红水手领 / 粉色水兵领 / 粉红色水兵领 / 水手服 / 校服 / 制服"
+    },
+    {
+      "en": "plaid collar",
+      "zh": "格纹衣领",
+      "rating": "g",
+      "count": 523,
+      "desc": "格纹图案的衣领",
+      "kw": "格纹领 / 格子衣领 / 方格衣领 / 花格领 / 格纹领口 / 格子领 / 衣领 / 服装"
+    },
+    {
+      "en": "plaid lapels",
+      "zh": "格纹翻领",
+      "rating": "g",
+      "count": 1238,
+      "desc": "仅翻领为格纹、衣身并非全格纹的样式",
+      "kw": "格纹领子 / 格子翻领 / 格纹西装领 / 服装 / 翻领"
+    },
+    {
+      "en": "plaid necktie",
+      "zh": "格子领带",
+      "rating": "g",
+      "count": 6762,
+      "desc": "带格纹图案的领带。",
+      "kw": "格纹领带 / 方格领带 / 格子纹领带 / 花格领带 / 领带 / 配饰"
+    },
+    {
+      "en": "plaid sailor collar",
+      "zh": "格子水手领",
+      "rating": "g",
+      "count": 742,
+      "desc": "带格纹图案的水手领",
+      "kw": "格纹水手领 / 苏格兰格水手领 / 花格水手领 / 格子水手服领 / 水手领 / 制服"
+    },
+    {
+      "en": "plaid scarf",
+      "zh": "格子呢围巾",
+      "rating": "g",
+      "count": 10459,
+      "desc": "带格纹图案的围巾",
+      "kw": "格纹围巾 / 格子围巾 / 苏格兰格围巾 / 花格围巾 / 方格围巾 / 围巾 / 配饰 / 格纹"
+    },
+    {
+      "en": "polka dot necktie",
+      "zh": "圆点领带",
+      "rating": "g",
+      "count": 569,
+      "desc": "带圆点图案的领带",
+      "kw": "波点领带 / 点点领带 / 水玉领带 / 领带 / 配饰"
+    },
+    {
+      "en": "print bowtie",
+      "zh": "印花领结",
+      "rating": "g",
+      "count": 4228,
+      "desc": "印有图案的领结",
+      "kw": "印刷领结 / 印花蝴蝶结 / 印花领带 / 花纹领结 / 图案领结 / 蝴蝶结 / 领结 / 配饰"
+    },
+    {
+      "en": "print neckerchief",
+      "zh": "印花领巾",
+      "rating": "g",
+      "count": 227,
+      "desc": "印有图案的领巾",
+      "kw": "花领巾 / 印花围巾 / 印花三角巾 / 图案领巾 / 领巾 / 配饰"
+    },
+    {
+      "en": "print necktie",
+      "zh": "印花领带",
+      "rating": "g",
+      "count": 2031,
+      "desc": "印有图案或花纹的领带",
+      "kw": "图案领带 / 花领带 / 印刷领带 / 印纹领带 / 带图案领带 / 花色领带 / 印染领带 / 领带"
+    },
+    {
+      "en": "print scarf",
+      "zh": "印花围巾",
+      "rating": "g",
+      "count": 1104,
+      "desc": "印有图案的围巾。",
+      "kw": "印花丝巾 / 图案围巾 / 花围巾 / 花哨围巾 / 带印花围巾 / 印染围巾 / 围巾 / 配饰"
+    },
+    {
+      "en": "purple ascot",
+      "zh": "紫色宽领巾",
+      "rating": "g",
+      "count": 4103,
+      "desc": "紫色的阿斯科特式宽领巾。",
+      "kw": "紫色阿斯科特领巾 / 紫色宽领结 / 紫色领巾 / 紫色阔领巾 / 紫色阿斯科特 / 领结 / 配饰 / purple jabot"
+    },
+    {
+      "en": "purple bowtie",
+      "zh": "紫色领结",
+      "rating": "g",
+      "count": 25478,
+      "desc": "紫色蝴蝶结领结。",
+      "kw": "紫领结 / 紫色蝴蝶领结 / 紫色领花 / 领结 / 配饰"
+    },
+    {
+      "en": "purple choker",
+      "zh": "紫色颈链",
+      "rating": "g",
+      "count": 8819,
+      "desc": "紧贴脖子佩戴的紫色饰带",
+      "kw": "紫色项圈 / 紫色颈圈 / 紫色贴颈项链 / 紫色贴颈饰带 / 紫色颈饰 / 紫色项环 / 紫项圈 / 项圈"
+    },
+    {
+      "en": "purple collar",
+      "zh": "紫色项圈",
+      "rating": "g",
+      "count": 2441,
+      "desc": "单独佩戴的紫色项圈，非衣领",
+      "kw": "紫色颈圈 / 紫项圈 / 紫颈环 / 紫色脖圈 / 紫色颈饰 / 紫色宠物项圈 / 项圈 / 配饰"
+    },
+    {
+      "en": "purple neckerchief",
+      "zh": "紫色领巾",
+      "rating": "g",
+      "count": 3837,
+      "desc": "系在脖子上的紫色方巾。",
+      "kw": "紫色方巾 / 紫领巾 / 紫色围脖 / 紫色三角巾 / 紫方巾 / 领巾 / 配饰"
+    },
+    {
+      "en": "purple necktie",
+      "zh": "紫色领带",
+      "rating": "g",
+      "count": 16067,
+      "desc": "紫色领带，系在衬衫领口下方",
+      "kw": "紫领带 / 领带 / 配饰"
+    },
+    {
+      "en": "purple sailor collar",
+      "zh": "紫色水手领",
+      "rating": "g",
+      "count": 8260,
+      "desc": "紫色的水手领，翻在背后的方形领",
+      "kw": "紫水手领 / 紫色水手服领 / 紫领 / 紫色水手方领 / 紫色水手领巾 / 水手服 / 校服"
+    },
+    {
+      "en": "purple scarf",
+      "zh": "紫色围巾",
+      "rating": "g",
+      "count": 6827,
+      "desc": "紫色围巾，绕在脖子上的保暖织物",
+      "kw": "紫围巾 / 紫色围脖 / 紫围脖 / 紫色领巾 / 紫色围巾配饰 / 围巾 / 配饰"
+    },
+    {
+      "en": "red collar",
+      "zh": "红色领圈",
+      "rating": "g",
+      "count": 18612,
+      "desc": "单独佩戴的红色领圈饰品，非衬衫自带领子",
+      "kw": "红领圈 / 红色领饰 / 红色衣领 / 红色领子 / 红领 / 红色项圈领 / 红颈圈 / 红色装饰领"
+    },
+    {
+      "en": "red sailor collar",
+      "zh": "红色水手领",
+      "rating": "g",
+      "count": 10145,
+      "desc": "红色水手服式翻领，见于校服或水手装",
+      "kw": "红水手领 / 红色水手服领 / 红色水手服衣领 / 红色海军领 / 红海军领 / 红色水手衣领 / 红色翻领 / 水手服红领"
+    },
+    {
+      "en": "ribbon-trimmed collar",
+      "zh": "缎带边衣领",
+      "rating": "g",
+      "count": 4710,
+      "desc": "边缘镶缎带的衬衫衣领",
+      "kw": "缎带饰边衣领 / 缎带镶边领 / 丝带边领 / 缎带滚边领 / 丝带饰边衣领 / 服装 / 饰边"
+    },
+    {
+      "en": "rin's pendant (fate)",
+      "zh": "远坂凛的吊坠",
+      "rating": "g",
+      "count": 583,
+      "desc": "远坂凛持有的远坂家传家宝吊坠（Fate/stay night）",
+      "kw": "凛的吊坠 / 凛的项链 / 远坂家传家宝吊坠 / 远坂凛吊坠 / 凛的吊坠 (Fate) / 吊坠 / 配饰 / 首饰"
+    },
+    {
+      "en": "sailor collar lift",
+      "zh": "掀起水手领",
+      "rating": "s",
+      "count": 706,
+      "desc": "水手服领子被掀起或吹起",
+      "kw": "水手领掀起 / 翻起水手领 / 掀水手领 / 水手领翻动 / 吹起水手领 / 水手领上扬 / 水手服领子掀起 / 水手服"
+    },
+    {
+      "en": "scarf bow",
+      "zh": "围巾蝴蝶结",
+      "rating": "g",
+      "count": 789,
+      "desc": "把围巾系成蝴蝶结的样式",
+      "kw": "蝴蝶结围巾 / 围巾打结 / 围巾系蝴蝶结 / 蝴蝶结式围巾 / 围巾领结 / 围巾 / 领结 / 配饰"
+    },
+    {
+      "en": "shanghai neckline",
+      "zh": "旗袍领",
+      "rating": "g",
+      "count": 515,
+      "desc": "源自旗袍、纽扣从领口斜向下延伸的领型",
+      "kw": "上海领 / 斜襟领 / 中式立领 / 盘扣领 / 旗袍立领 / 中式领 / 唐装领 / 对襟领"
+    },
+    {
+      "en": "short necktie",
+      "zh": "短领带",
+      "rating": "g",
+      "count": 15327,
+      "desc": "长度比普通领带短的领带。",
+      "kw": "短款领带 / 迷你领带 / 小领带 / 减短领带 / 超短领带 / 领带 / 配饰 / mini necktie"
+    },
+    {
+      "en": "sign around neck",
+      "zh": "脖子上挂的牌子",
+      "rating": "q",
+      "nsfw": true,
+      "count": 665,
+      "desc": "挂在脖子上的牌子，常用于羞辱play",
+      "kw": "挂牌 / 颈挂牌 / 挂脖牌子 / 脖子上的牌子 / 脖子上挂牌子 / 道具 / 标语"
+    },
+    {
+      "en": "square-end necktie",
+      "zh": "平头领带",
+      "rating": "g",
+      "count": 2925,
+      "desc": "末端平直而非尖头的领带",
+      "kw": "方头领带 / 平角领带 / 方形末端领带 / 直边领带 / 平底领带 / 领带 / 配饰"
+    },
+    {
+      "en": "star pendant",
+      "zh": "星星吊坠",
+      "rating": "g",
+      "count": 691,
+      "desc": "星形吊坠饰品",
+      "kw": "星形吊坠 / 星型吊坠 / 五角星吊坠 / 星星挂坠 / 星形挂坠 / 首饰 / 配饰"
+    },
+    {
+      "en": "stethoscope around neck",
+      "zh": "脖子上挂听诊器",
+      "rating": "g",
+      "count": 732,
+      "desc": "挂在脖子上的听诊器",
+      "kw": "挂脖听诊器 / 听诊器挂颈 / 颈挂听诊器 / 脖戴听诊器 / 听诊器绕颈 / 挂脖子上的听诊器 / 脖挂式听诊器 / 脖子上挂着听诊器"
+    },
+    {
+      "en": "string of pearls",
+      "zh": "珍珠串",
+      "rating": "g",
+      "count": 541,
+      "desc": "串成一串的珍珠",
+      "kw": "一串珍珠 / 一串珍珠项链 / 珍珠链 / 珍珠串珠 / 串珠珍珠 / 珍珠项链 / 首饰 / 项链"
+    },
+    {
+      "en": "striped necktie",
+      "zh": "条纹领带",
+      "rating": "g",
+      "count": 28071,
+      "desc": "带条纹图案的领带",
+      "kw": "斜纹领带 / 条纹款领带 / 斑纹领带 / 条子领带 / 条纹领结 / 领带 / 条纹配饰 / striped tie"
+    },
+    {
+      "en": "sweater around neck",
+      "zh": "脖子上的毛衣",
+      "rating": "g",
+      "count": 531,
+      "desc": "打结后搭在脖子上的毛衣",
+      "kw": "毛衣披肩 / 毛衣围在脖子上 / 毛衣系脖子上 / 毛衣搭肩 / 毛衣披在肩上 / 毛衣系在脖子上 / 毛衣 / 服装"
+    },
+    {
+      "en": "symphogear pendant",
+      "zh": "战姬绝唱吊坠",
+      "rating": "g",
+      "count": 605,
+      "desc": "《战姬绝唱》中带红色宝石的变身装置吊坠，可启动圣遗物",
+      "kw": "战姬绝唱挂坠 / 战姬绝唱项链坠 / SG吊坠 / 战姬绝唱变身吊坠 / 战姬绝唱圣遗物吊坠 / 吊坠 / 配饰"
+    },
+    {
+      "en": "tassel choker",
+      "zh": "流苏项圈",
+      "rating": "g",
+      "count": 553,
+      "desc": "挂着流苏的颈圈",
+      "kw": "流苏颈圈 / 流苏颈环 / 流苏脖环 / 流苏颈带 / 流苏项链 / 带流苏的项圈 / 流苏 / 项圈"
+    },
+    {
+      "en": "two-tone necktie",
+      "zh": "双色领带",
+      "rating": "g",
+      "count": 2306,
+      "desc": "恰好由两种颜色构成的领带",
+      "kw": "两色调领带 / 双色调领带 / 两色领带 / 双色拼接领带 / 两种颜色领带 / 领带 / 配饰"
+    },
+    {
+      "en": "undone bowtie",
+      "zh": "解开的领结",
+      "rating": "g",
+      "count": 706,
+      "desc": "领结被解开成缎带但仍挂在颈间",
+      "kw": "领结松开 / 解开的蝴蝶结 / 领结散开 / 松开的领结 / 未系上的领结 / 解开领结 / 领结垂下 / 松散领结"
+    },
+    {
+      "en": "undone neck ribbon",
+      "zh": "解开的颈饰缎带",
+      "rating": "g",
+      "count": 1532,
+      "desc": "颈饰缎带解开后垂挂在脖子上",
+      "kw": "松开的颈缎带 / 解开的颈带 / 颈饰缎带松开 / 颈带松开 / 解开的颈蝴蝶结 / 解开的领部缎带 / 领结 / 配饰"
+    },
+    {
+      "en": "undone necktie",
+      "zh": "解开领带",
+      "rating": "g",
+      "count": 3697,
+      "desc": "领带被解开但仍挂在脖子上。",
+      "kw": "领带松开 / 领带解开了 / 松开的领带 / 领带未系好 / 解开状态的领带 / 解开的领带 / 领带 / 配饰 / untied necktie"
+    },
+    {
+      "en": "unworn bowtie",
+      "zh": "未系的领结",
+      "rating": "g",
+      "count": 916,
+      "desc": "画面中有但没被佩戴的领结",
+      "kw": "解下的领结 / 未佩戴的领结 / 脱下的领结 / 取下的领结 / 未戴的领结 / 领结 / 配饰 / bowtie removed"
+    },
+    {
+      "en": "vertical-striped necktie",
+      "zh": "垂直条纹领带",
+      "rating": "g",
+      "count": 657,
+      "desc": "带竖条纹的领带。",
+      "kw": "竖条纹领带 / 纵条纹领带 / 直条纹领带 / 领带 / 配饰"
+    },
+    {
+      "en": "white collar",
+      "zh": "白色衣领",
+      "rating": "g",
+      "count": 27430,
+      "desc": "独立的白色衣领，不指衬衫领。",
+      "kw": "白领子 / 白色领子 / 白色假领 / 白色独立领 / 白领 / 衬衫领"
+    },
+    {
+      "en": "white sailor collar",
+      "zh": "白色水手领",
+      "rating": "g",
+      "count": 95474,
+      "desc": "水手服式样的白色翻领，背后多为方形",
+      "kw": "白水手领 / 白色水手服领 / 白色披肩领 / 白色大翻领 / 白色水兵领 / 水手服 / 制服"
+    },
+    {
+      "en": "yellow collar",
+      "zh": "黄色领子",
+      "rating": "g",
+      "count": 841,
+      "desc": "单独佩戴的黄色衣领，非衬衫自带。",
+      "kw": "黄色衣领 / 黄领 / 黄色假领 / 黄色小领 / 黄衣领 / 黄色领饰 / 黄色领圈 / 衣领"
+    },
+    {
+      "en": "yellow sailor collar",
+      "zh": "黄色水手领",
+      "rating": "g",
+      "count": 1475,
+      "desc": "水手服式样的黄色翻领",
+      "kw": "黄水手领 / 黄色水兵领 / 黄色大翻领 / 黄色水手服领 / 水手服 / 校服 / 服装"
+    }
+  ]
+}

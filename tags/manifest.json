@@ -1,0 +1,87 @@
+{
+  "schema": "danbooru-prompt-external-tags-v2",
+  "version": "1.0",
+  "updatedAt": "2026-11-22T13:33:55.000Z",
+  "majors": [
+    {
+      "id": "style_group",
+      "name": "画风",
+      "icon": "🎨",
+      "order": 1,
+      "file": "style_group/style_group.json",
+      "subDir": "style_group",
+      "subCount": 6,
+      "tagCount": 3442
+    },
+    {
+      "id": "character_base",
+      "name": "人物基础",
+      "icon": "👤",
+      "order": 2,
+      "file": "character_base/character_base.json",
+      "subDir": "character_base",
+      "subCount": 23,
+      "tagCount": 2918
+    },
+    {
+      "id": "action_group",
+      "name": "动作",
+      "icon": "🏃",
+      "order": 3,
+      "file": "action_group/action_group.json",
+      "subDir": "action_group",
+      "subCount": 6,
+      "tagCount": 3049
+    },
+    {
+      "id": "outfit_group",
+      "name": "服饰",
+      "icon": "👗",
+      "order": 4,
+      "file": "outfit_group/outfit_group.json",
+      "subDir": "outfit_group",
+      "subCount": 14,
+      "tagCount": 4869
+    },
+    {
+      "id": "props_group",
+      "name": "道具",
+      "icon": "🎒",
+      "order": 5,
+      "file": "props_group/props_group.json",
+      "subDir": "props_group",
+      "subCount": 5,
+      "tagCount": 2835
+    },
+    {
+      "id": "scene_group",
+      "name": "场景",
+      "icon": "🏙️",
+      "order": 6,
+      "file": "scene_group/scene_group.json",
+      "subDir": "scene_group",
+      "subCount": 5,
+      "tagCount": 1050
+    },
+    {
+      "id": "uncategorized_group",
+      "name": "未分类",
+      "icon": "📦",
+      "order": 7,
+      "file": "uncategorized_group/uncategorized_group.json",
+      "subDir": "uncategorized_group",
+      "subCount": 5,
+      "tagCount": 1244
+    },
+    {
+      "id": "negative",
+      "name": "负面提示词",
+      "icon": "⛔",
+      "order": 8,
+      "file": "negative/negative.json",
+      "subDir": "negative",
+      "subCount": 1,
+      "tagCount": 128
+    }
+  ]
+}

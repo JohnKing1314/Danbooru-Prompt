@@ -1,0 +1,9 @@
+{
+  "key": "p12",
+  "id": "p12",
+  "name": "图书馆阅读",
+  "desc": "暖灯与成堆的书",
+  "cat": "场景",
+  "tags": "1girl|一个女孩;library|图书馆;bookshelf|书架;book|书;reading|阅读;glasses|眼镜;sitting|坐着;warm lighting|暖光;indoors|室内;quiet|安静;depth of field|景深",
+  "builtin": true
+}

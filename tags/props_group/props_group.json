@@ -1,0 +1,47 @@
+{
+  "id": "props_group",
+  "name": "道具",
+  "icon": "🎒",
+  "level": 1,
+  "order": 5,
+  "file": "props_group/props_group.json",
+  "subDir": "props_group",
+  "updatedAt": "2026-11-18T05:36:30.197Z",
+  "children": [
+    {
+      "id": "food",
+      "name": "食品",
+      "icon": "🍰",
+      "order": 1,
+      "file": "props_group/props_group_food.json"
+    },
+    {
+      "id": "items",
+      "name": "物品",
+      "icon": "📦",
+      "order": 2,
+      "file": "props_group/props_group_items.json"
+    },
+    {
+      "id": "tools",
+      "name": "工具",
+      "icon": "🔧",
+      "order": 3,
+      "file": "props_group/props_group_tools.json"
+    },
+    {
+      "id": "restraints",
+      "name": "刑具",
+      "icon": "⛓",
+      "order": 4,
+      "file": "props_group/props_group_restraints.json"
+    },
+    {
+      "id": "sex_toys",
+      "name": "性玩具",
+      "icon": "🔞",
+      "order": 5,
+      "file": "props_group/props_group_sex_toys.json"
+    }
+  ]
+}

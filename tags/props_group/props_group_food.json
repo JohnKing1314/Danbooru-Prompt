@@ -1,0 +1,7078 @@
+{
+  "id": "food",
+  "name": "食品",
+  "icon": "🍰",
+  "parentId": "props_group",
+  "level": 2,
+  "order": 1,
+  "file": "props_group/props_group_food.json",
+  "updatedAt": "2026-11-22T12:39:36.688Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "breast milk in container",
+      "zh": "容器装母乳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1248,
+      "desc": "装在容器中的母乳，或用于饮用",
+      "kw": "容器中的母乳 / 母乳装瓶 / 瓶装母乳 / 母乳在容器里 / 杯中的母乳 / 母乳 / 容器"
+    },
+    {
+      "en": "bread",
+      "zh": "面包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21801,
+      "desc": "面粉烘焙的面包",
+      "kw": "吐司 / 面包片 / 烘焙面包 / 面包类 / 食物 / パン"
+    },
+    {
+      "en": "cake",
+      "zh": "蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60059,
+      "desc": "以面粉、糖、蛋等烤制的甜点",
+      "kw": "食物 / 甜点 / 生日蛋糕 / ケーキ"
+    },
+    {
+      "en": "cookie",
+      "zh": "饼干",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15813,
+      "desc": "甜面团烤成的小扁饼曲奇",
+      "kw": "曲奇 / 曲奇饼 / 小甜饼 / 小西饼 / 食物 / cookies / クッキー / ビスケット"
+    },
+    {
+      "en": "candy",
+      "zh": "糖果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 77517,
+      "desc": "以糖为主料的零食，可直接用手拿着吃",
+      "kw": "糖 / 甜食 / 糖果点心 / 糖块 / 硬糖 / 软糖 / 水果糖 / 糖豆 / candies / 饴玉 / 飴 / 飴玉"
+    },
+    {
+      "en": "chocolate",
+      "zh": "巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33895,
+      "desc": "由可可豆制成的巧克力。",
+      "kw": "朱古力 / 巧克力糖 / 可可巧克力 / 甜食 / 食物 / チョコレート / 초콜릿"
+    },
+    {
+      "en": "apple",
+      "zh": "苹果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33310,
+      "desc": "常见水果，红绿黄皮，果肉脆甜",
+      "kw": "红苹果 / 青苹果 / 林檎 / 蛇果 / 苹果果实 / 水果 / 果实 / apples / red apple / りんご / アップル"
+    },
+    {
+      "en": "strawberry",
+      "zh": "草莓",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36744,
+      "desc": "红色的草莓水果。",
+      "kw": "士多啤梨 / 莓 / 红莓 / 草莓果 / 鲜草莓 / 洋莓 / 水果 / strawberries / 苺 / いちご / イチゴ"
+    },
+    {
+      "en": "bento",
+      "zh": "便当",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5166,
+      "desc": "日式盒装午餐，含米饭、菜肴",
+      "kw": "盒饭 / 日式便当 / 便当盒 / 饭盒 / 弁当 / 日式盒饭 / 午餐盒 / 御便当 / obento / bento box / bento-box / bentou"
+    },
+    {
+      "en": "sushi",
+      "zh": "寿司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6621,
+      "desc": "以醋饭搭配鱼类等食材的日本料理。",
+      "kw": "日本寿司 / 寿司饭 / 握寿司 / 卷寿司 / 日式寿司 / 日本料理 / 食物 / 鮨 / すし"
+    },
+    {
+      "en": "ramen",
+      "zh": "拉面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6197,
+      "desc": "源自中式面条的日式汤面",
+      "kw": "日式拉面 / 日本拉面 / 拉麵 / 汤面 / 豚骨拉面 / 拉面面条 / 食物 / 日本料理 / ramen noodles / ramennoodles / 老面 / 老麺"
+    },
+    {
+      "en": "juice",
+      "zh": "果汁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3316,
+      "desc": "从水果蔬菜中榨取的果汁",
+      "kw": "水果汁 / 鲜榨果汁 / 果蔬汁 / 饮料 / ジュース"
+    },
+    {
+      "en": "coffee",
+      "zh": "咖啡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13947,
+      "desc": "用咖啡豆冲泡的热饮咖啡",
+      "kw": "咖啡饮品 / 咖啡饮料 / 热咖啡 / 黑咖啡 / 清咖啡 / 现磨咖啡 / 速溶咖啡 / 饮料 / 珈琲 / コーヒー"
+    },
+    {
+      "en": "drink",
+      "zh": "饮料",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36209,
+      "desc": "各种可饮用的液体。",
+      "kw": "饮品 / 喝的 / 饮 / 饮料水 / 瓶装饮料 / 杯中饮料 / 冷饮 / 热饮 / drinks / beverage / 飲み物"
+    },
+    {
+      "en": "food",
+      "zh": "食物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 640630,
+      "desc": "画面中出现的可食用食物",
+      "kw": "食品 / 吃的 / 料理 / 美食 / 饭菜 / 餐点 / 食材 / 食物类 / 食べ物"
+    },
+    {
+      "en": "watermelon",
+      "zh": "西瓜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13648,
+      "desc": "绿纹硬皮、红瓤多汁的大型夏季瓜果",
+      "kw": "水瓜 / 寒瓜 / 夏瓜 / 西瓜果实 / 大西瓜 / 水果 / watermelons / すいか / スイカ / ウォーターメロン"
+    },
+    {
+      "en": "popsicle",
+      "zh": "冰棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38065,
+      "desc": "插在木棍上的冷冻冰棍/冰棒。",
+      "kw": "棒冰 / 冰棍儿 / 雪条 / 冰条 / 冰糕 / 食物 / icelolly / アイスキャンデー / アイスキャンディー / 棒アイス"
+    },
+    {
+      "en": "kettle",
+      "zh": "水壶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3351,
+      "desc": "烧水用的金属壶，带盖、壶嘴和提手",
+      "kw": "开水壶 / 煮水壶 / 烧水用壶 / 壶 / 厨具 / 薬缶 / ヤカン / ケトル"
+    },
+    {
+      "en": "orange",
+      "zh": "橙子",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "banana",
+      "zh": "香蕉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6520,
+      "desc": "细长弯曲、黄皮的香蕉",
+      "kw": "香蕉果实 / 蕉 / 水果 / 食物 / bananas / バナナ"
+    },
+    {
+      "en": "cherry",
+      "zh": "樱桃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15399,
+      "desc": "小而圆的红色果实樱桃",
+      "kw": "车厘子 / 樱桃果 / 红樱桃 / 樱珠 / 甜樱桃 / 水果 / cherries / さくらんぼ / チェリー"
+    },
+    {
+      "en": "grape",
+      "zh": "葡萄",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lemon",
+      "zh": "柠檬",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8200,
+      "desc": "黄色椭圆形酸味水果",
+      "kw": "柠果 / 黄柠檬 / 柠檬果 / 柑橘 / 水果 / 食物 / lemons / レモン"
+    },
+    {
+      "en": "peach",
+      "zh": "桃子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13246,
+      "desc": "水果桃子，表皮柔软多汁",
+      "kw": "桃 / 鲜桃 / 蜜桃 / 水蜜桃 / 桃果 / 水果 / 食物 / peaches / もも / モモ"
+    },
+    {
+      "en": "onigiri",
+      "zh": "饭团",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9964,
+      "desc": "三角形或椭圆形、常裹海苔的日式饭团",
+      "kw": "日式饭团 / 御饭团 / 饭糰 / 三角饭团 / 海苔饭团 / 日式三角饭团 / 手捏饭团 / 握饭团 / riceball / rice ball / おにぎり / おむすび"
+    },
+    {
+      "en": "dango",
+      "zh": "团子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10809,
+      "desc": "用米粉制作的日式团子，常串成串",
+      "kw": "日式团子 / 糯米团子 / 三色团子 / 花见团子 / 串团子 / 米团子 / 日式甜点 / 食物 / 団子 / だんご / お団子"
+    },
+    {
+      "en": "taiyaki",
+      "zh": "鲷鱼烧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3637,
+      "desc": "鱼形日式点心，通常内馅为红豆沙。",
+      "kw": "雕鱼烧 / 鲷鱼饼 / 鱼形烧 / 红豆鱼饼 / 鱼形点心 / 日本点心 / 食物 / bungeoppang / たいやき / 鯛焼き / たい焼き"
+    },
+    {
+      "en": "soda",
+      "zh": "汽水",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2726,
+      "desc": "调味碳酸饮料，如可乐、汽水等",
+      "kw": "碳酸饮料 / 苏打水 / 苏打饮料 / 软饮料 / 气泡饮料 / 饮料 / 饮品 / soft drink / 炭酸饮料 / 炭酸飲料"
+    },
+    {
+      "en": "jar",
+      "zh": "罐子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8641,
+      "desc": "广口玻璃或陶制容器",
+      "kw": "玻璃罐 / 广口瓶 / 储存罐 / 密封罐 / 糖果罐 / 容器 / 物品"
+    },
+    {
+      "en": "milk",
+      "zh": "牛奶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7354,
+      "desc": "牛等哺乳动物产的奶，不含人乳",
+      "kw": "牛乳 / 鲜奶 / 纯牛奶 / 饮料 / 液体 / ぎゅうにゅう / ミルク"
+    },
+    {
+      "en": "ice cube",
+      "zh": "冰块",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5909,
+      "desc": "方形或长方形的冰块，用来给饮料降温",
+      "kw": "冰块块 / 方冰 / 冰块粒 / 冰粒 / 冰疙瘩 / 冰块子 / 冰 / 冷饮 / ice cubes"
+    },
+    {
+      "en": "fruit",
+      "zh": "水果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 155220,
+      "desc": "植物可食用的果实。",
+      "kw": "果实 / 果物 / 生果 / 鲜果 / 水果类 / 食物 / 植物 / fruits / フルーツ / くだもの"
+    },
+    {
+      "en": "bad food",
+      "zh": "黑暗料理",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1838,
+      "desc": "外观诡异、吃了会出事的可怕料理。",
+      "kw": "难吃的食物 / 可怕料理 / 恶心的食物 / 毒料理 / 食物 / 腐坏食物 / food of doom / disgusting food"
+    },
+    {
+      "en": "akebia fruit",
+      "zh": "木通果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23
+    },
+    {
+      "en": "apple core",
+      "zh": "苹果核",
+      "rating": "g",
+      "nsfw": false,
+      "count": 402,
+      "desc": "吃剩的苹果核。",
+      "kw": "苹果心 / 吃剩的苹果核 / 苹果芯 / 食物 / 水果残渣"
+    },
+    {
+      "en": "apple peel",
+      "zh": "苹果皮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 225,
+      "desc": "被削成一整条不断的长苹果皮",
+      "kw": "削苹果皮 / 苹果皮条 / 完整苹果皮 / 长苹果皮 / 苹果皮圈 / 水果皮 / 苹果"
+    },
+    {
+      "en": "apple rabbit",
+      "zh": "兔形切片苹果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 402,
+      "desc": "苹果削成兔耳形状的切法",
+      "kw": "苹果兔子 / 苹果兔切法 / 兔苹果 / 兔子苹果 / 苹果切片兔 / 食物 / 可爱造型 / apple bunny / うさぎりんご"
+    },
+    {
+      "en": "bitten apple",
+      "zh": "咬过的苹果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 580,
+      "desc": "被咬掉一块的苹果",
+      "kw": "被咬了一口的苹果 / 有咬痕的苹果 / 咬掉一口的苹果 / 水果 / 苹果 / 标志"
+    },
+    {
+      "en": "candy apple",
+      "zh": "糖苹果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6951,
+      "desc": "整颗苹果裹上糖衣的糖果苹果",
+      "kw": "苹果糖葫芦 / 糖果苹果 / 焦糖苹果 / 太妃苹果 / 林檎糖 / 裹糖苹果 / 糖果 / 食物 / candied apple / toffee apple / 林檎饴 / りんご飴"
+    },
+    {
+      "en": "golden apple",
+      "zh": "金苹果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1348,
+      "desc": "呈金色的苹果，也常见于游戏道具。",
+      "kw": "黄金苹果 / 金色苹果 / 金色苹果果实 / 黄金苹果果实 / 水果 / 神话 / gapple / goldenapple / 金のりんご / 黄金のリンゴ"
+    },
+    {
+      "en": "green apple",
+      "zh": "青苹果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 594,
+      "desc": "青绿色的苹果，多偏酸",
+      "kw": "绿苹果 / 酸苹果 / 青苹 / 水果 / 食物 / 青林檎 / 青りんご / 青リンゴ"
+    },
+    {
+      "en": "yellow apple",
+      "zh": "黄苹果",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "apricot (fruit)",
+      "zh": "杏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 53,
+      "desc": "橙黄色带核水果杏子。",
+      "kw": "杏果 / 甜杏 / 杏肉 / 黄杏"
+    },
+    {
+      "en": "avocado",
+      "zh": "牛油果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 257,
+      "desc": "绿皮黄肉、常配咸食的牛油果",
+      "kw": "鳄梨 / 油梨 / 酪梨 / 奶油果 / 水果 / 食物"
+    },
+    {
+      "en": "banana boat",
+      "zh": "香蕉船",
+      "rating": "g",
+      "nsfw": false,
+      "count": 553,
+      "desc": "香蕉形状的充气水上浮艇",
+      "kw": "香蕉船艇 / 香蕉充气艇 / 香蕉橡皮艇 / 充气香蕉船 / 香蕉水上浮艇 / 水上游乐 / 玩具"
+    },
+    {
+      "en": "banana peel",
+      "zh": "香蕉皮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1088,
+      "desc": "香蕉的黄色外皮，常见踩到滑倒的梗。",
+      "kw": "蕉皮 / 香蕉外皮 / 香蕉果皮 / 水果皮 / 道具 / バナナの皮"
+    },
+    {
+      "en": "banana popsicle",
+      "zh": "香蕉冰棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37
+    },
+    {
+      "en": "banana slice",
+      "zh": "香蕉片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 486,
+      "desc": "切成片或段的香蕉",
+      "kw": "切段香蕉 / 香蕉块 / 香蕉切段 / 水果 / 食物"
+    },
+    {
+      "en": "chocolate banana",
+      "zh": "巧克力香蕉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 926,
+      "desc": "外层裹巧克力、撒彩针的冷冻香蕉。",
+      "kw": "巧蕉 / 巧克力香蕉冰棒 / 巧克力香蕉雪糕 / 巧克力香蕉棒 / 巧克力脆皮香蕉 / 巧克力香蕉冰棍 / 巧克力香蕉冰淇淋 / 食物 / chocobanana / choco banana / チョコバナナ"
+    },
+    {
+      "en": "gel banana",
+      "zh": "凝胶香蕉（命运石之门）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35
+    },
+    {
+      "en": "on banana",
+      "zh": "香蕉上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 171,
+      "desc": "角色躺在或坐在巨大香蕉上。",
+      "kw": "躺在香蕉上 / 骑香蕉 / 坐在香蕉上 / 趴在香蕉上 / 巨型香蕉上 / 姿势 / 水果 / girl on banana"
+    },
+    {
+      "en": "berry",
+      "zh": "浆果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3079,
+      "desc": "含义模糊的小型浆果",
+      "kw": "莓果 / 莓子 / 野果 / 小浆果 / 树果 / 水果 / 宝可梦 / berries / ベリー"
+    },
+    {
+      "en": "blackberry (fruit)",
+      "zh": "黑莓（果实）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 286,
+      "desc": "悬钩子属植物的黑色浆果",
+      "kw": "黑莓果 / 黑莓浆果 / 黑莓果子 / 黑色浆果 / 黑莓 (水果) / 水果 / 浆果 / ブラックベリー"
+    },
+    {
+      "en": "blueberry",
+      "zh": "蓝莓",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4429,
+      "desc": "深蓝色的可食用浆果。",
+      "kw": "蓝梅 / 蓝浆果 / 越橘 / 水果 / 浆果 / blueberries / blue berry / ブルーベリー / 藍莓"
+    },
+    {
+      "en": "mulberry",
+      "zh": "桑葚",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "pineberry (fruit)",
+      "zh": "白草莓（菠萝莓）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "raspberry",
+      "zh": "树莓",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1279,
+      "desc": "红色或黑色的树莓/覆盆子浆果。",
+      "kw": "覆盆子 / 红树莓 / 黑树莓 / 山莓 / 悬钩子 / 水果 / 食物 / raspberries / ラズベリー"
+    },
+    {
+      "en": "chocolate strawberry",
+      "zh": "巧克力草莓",
+      "rating": "g",
+      "nsfw": false,
+      "count": 165,
+      "desc": "裹着巧克力外衣的草莓",
+      "kw": "草莓巧克力 / 巧克力裹草莓 / 巧克力脆皮草莓 / 巧克力草莓甜点 / 甜点 / 水果 / 食物"
+    },
+    {
+      "en": "strawberry slice",
+      "zh": "草莓切片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1319,
+      "desc": "切下的一片草莓",
+      "kw": "切开的草莓 / 切片草莓 / 草莓块 / 草莓碎块 / 水果 / 食物 / 切片"
+    },
+    {
+      "en": "white strawberry",
+      "zh": "白草莓",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31
+    },
+    {
+      "en": "breadfruit",
+      "zh": "面包果",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cacao fruit",
+      "zh": "可可果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39
+    },
+    {
+      "en": "chokecherry",
+      "zh": "北美野樱桃",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "custard apple",
+      "zh": "释迦果（番荔枝）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "date (fruit)",
+      "zh": "椰枣",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dragon fruit",
+      "zh": "火龙果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 148,
+      "desc": "仙人掌科植物的火龙果",
+      "kw": "红龙果 / 龙珠果 / 水果 / 番龙果 / dragonfruit / pitaya"
+    },
+    {
+      "en": "fig",
+      "zh": "无花果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 157,
+      "desc": "无花果树的果实",
+      "kw": "无花果果实 / 新鲜无花果 / 无花果树果实 / 水果 / 植物 / 食物"
+    },
+    {
+      "en": "gooseberry",
+      "zh": "醋栗（灯笼果）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "grapefruit",
+      "zh": "西柚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 193,
+      "desc": "酸味较强的柑橘类水果西柚",
+      "kw": "圆柚 / 朱栾 / 水果 / 柑橘 / グレープフルーツ"
+    },
+    {
+      "en": "grapes",
+      "zh": "葡萄",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9324,
+      "desc": "成串生长、紫红或绿色的葡萄。",
+      "kw": "葡萄串 / 葡萄果实 / 葡萄粒 / 紫葡萄 / 绿葡萄 / 水果 / 食物 / grape / ぶどう / ブドウ / グレープ"
+    },
+    {
+      "en": "currant",
+      "zh": "醋栗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24
+    },
+    {
+      "en": "raisin (fruit)",
+      "zh": "葡萄干",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "guava (fruit)",
+      "zh": "番石榴（芭乐）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "jackfruit",
+      "zh": "菠萝蜜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "java apple",
+      "zh": "莲雾",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "kiwi (fruit)",
+      "zh": "猕猴桃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1884,
+      "desc": "外皮褐色、果肉绿色的水果，又称猕猴桃。",
+      "kw": "猕猴桃果实 / 几维果 / 藤梨 / 水果 / 食物 / kiwifruit / キウイ / キウイフルーツ"
+    },
+    {
+      "en": "kiwi slice",
+      "zh": "猕猴桃片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1021,
+      "desc": "切成片的猕猴桃，果肉带一圈黑色小籽",
+      "kw": "奇异果片 / 猕猴桃切片 / 奇异果切片 / 猕猴桃果片 / 水果 / 食物"
+    },
+    {
+      "en": "lemon slice",
+      "zh": "柠檬片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5177,
+      "desc": "切成圆片的柠檬",
+      "kw": "柠檬切片 / 柠檬圆片 / 柠檬薄片 / 柠檬片状 / 柠檬果片 / 水果 / 食物"
+    },
+    {
+      "en": "lemonade",
+      "zh": "柠檬水",
+      "rating": "g",
+      "nsfw": false,
+      "count": 608,
+      "desc": "柠檬加糖调制的清凉饮料",
+      "kw": "柠檬汽水 / 柠檬饮料 / 柠檬汁 / 柠檬糖水 / 柠檬饮 / 饮料 / レモネード / レモン水"
+    },
+    {
+      "en": "lime (fruit)",
+      "zh": "青柠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1588,
+      "desc": "绿色圆形的酸味水果",
+      "kw": "酸橙 / 莱姆 / 青柠檬 / 绿柠檬 / 酸柑 / 水果 / 柠檬 / lime / ライム"
+    },
+    {
+      "en": "lime slice",
+      "zh": "青柠片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1228,
+      "desc": "切成薄楔形片的青柠，常作饮品装饰。",
+      "kw": "青柠切片 / 莱姆片 / 酸橙片 / 青柠角 / 水果 / 食物"
+    },
+    {
+      "en": "longan",
+      "zh": "龙眼（桂圆）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "loquat",
+      "zh": "枇杷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57,
+      "desc": "枇杷树结的黄色多汁果实。",
+      "kw": "枇杷果 / 芦橘 / 金丸 / 枇杷果实"
+    },
+    {
+      "en": "lychee",
+      "zh": "荔枝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 124,
+      "desc": "红皮白肉的热带水果",
+      "kw": "荔枝果 / 丹荔 / 离枝 / 水果 / 食物"
+    },
+    {
+      "en": "mango",
+      "zh": "芒果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 338,
+      "desc": "热带水果，有扁平大核。",
+      "kw": "芒果果肉 / 芒果切片 / 热带水果芒果 / 芒果果实 / 香芒 / 芒果块 / 水果 / マンゴー"
+    },
+    {
+      "en": "mangosteen",
+      "zh": "山竹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32
+    },
+    {
+      "en": "melon",
+      "zh": "甜瓜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1891,
+      "desc": "泛指甜瓜、哈密瓜等葫芦科瓜类水果",
+      "kw": "香瓜 / 哈密瓜 / 瓜果 / 水果 / 瓜类 / メロン"
+    },
+    {
+      "en": "cantaloupe",
+      "zh": "哈密瓜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 291,
+      "desc": "橙肉网纹皮的甜瓜。",
+      "kw": "网纹甜瓜 / 甜瓜 / 洋香瓜 / 蜜瓜 / 香瓜 / 罗马甜瓜 / 水果 / muskmelon / カンタロープ / カンタループ / キャンタロープ"
+    },
+    {
+      "en": "yuubari king melon",
+      "zh": "夕张王蜜瓜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "galia melon",
+      "zh": "加利亚甜瓜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "honeydew (fruit)",
+      "zh": "蜜瓜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46
+    },
+    {
+      "en": "horned melon",
+      "zh": "刺角瓜（火参果）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cectarine",
+      "zh": "油桃",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "olive",
+      "zh": "橄榄",
+      "rating": "g",
+      "nsfw": false,
+      "count": 480,
+      "desc": "橄榄树结出的绿色、黑色或褐色小果实",
+      "kw": "橄榄果 / 青橄榄 / 油橄榄 / 橄榄实 / 水果 / 植物 / 木犀 / もくせい / オリブ / オリーブ"
+    },
+    {
+      "en": "orange (fruit)",
+      "zh": "橙子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10294,
+      "desc": "柑橘类橙色果实，指水果而非颜色。",
+      "kw": "甜橙 / 柳橙 / 橘子 / 桔子 / 橙子果实 / 食物 / 水果 / 柑橘 / oranges / orange (food) / orange / オレンジ"
+    },
+    {
+      "en": "dekopon (fruit)",
+      "zh": "凸顶柑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "mandarin orange",
+      "zh": "蜜柑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7517,
+      "desc": "比橙子小的橘色柑橘类水果，冬季常见",
+      "kw": "蜜橘 / 砂糖橘 / 柑橘 / 瓯柑 / 黄橘 / 水果 / 食物 / mandarin / clementine / mikan / tangerine"
+    },
+    {
+      "en": "orangette",
+      "zh": "糖渍橙皮巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 124,
+      "desc": "蘸巧克力的糖渍橙皮条",
+      "kw": "橙皮巧克力 / 巧克力橙条 / 巧克力橘皮糖 / 橙皮蜜饯巧克力 / 糖渍橙皮 / 巧克力橙片 / 糖果甜点"
+    },
+    {
+      "en": "orange juice",
+      "zh": "橙汁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1108,
+      "desc": "橙子榨成的果汁",
+      "kw": "橘子汁 / 柳橙汁 / 鲜榨橙汁 / 橙子汁 / 饮料 / 果汁 / オレンジジュース"
+    },
+    {
+      "en": "orange slice",
+      "zh": "橙子切片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4052,
+      "desc": "橙子的切片，包括切开的一片或果皮内的瓣。",
+      "kw": "橙子片 / 橙片 / 柳橙片 / 香橙切片 / 橙瓣 / 橙色切片 / 橙子 / 水果"
+    },
+    {
+      "en": "papaya",
+      "zh": "木瓜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 74,
+      "desc": "热带栽培的番木瓜果实，通称木瓜",
+      "kw": "番木瓜 / 木瓜果实 / 青木瓜 / 红心木瓜"
+    },
+    {
+      "en": "passion fruit",
+      "zh": "百香果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "peach slice",
+      "zh": "桃子切片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 87,
+      "desc": "切开的一片桃子果肉",
+      "kw": "桃子片 / 切开的桃子 / 一片桃 / 桃肉片 / 水蜜桃片"
+    },
+    {
+      "en": "pear",
+      "zh": "梨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1025,
+      "desc": "带颗粒感的长圆形水果梨",
+      "kw": "梨子 / 沙梨 / 雪梨 / 鸭梨 / 香梨 / 水果 / なし / ペア"
+    },
+    {
+      "en": "nashi pear",
+      "zh": "梨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 82,
+      "desc": "圆润多汁的亚洲梨，常见于日本。",
+      "kw": "日本梨 / 亚洲梨 / 水梨 / 脆梨 / 日式梨 / 沙梨果 / asian pear"
+    },
+    {
+      "en": "persimmon",
+      "zh": "柿子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 948,
+      "desc": "橙红色、形似番茄的柿子果实",
+      "kw": "柿 / 柿子果 / 甜柿 / 柿子果实 / 食物 / 水果 / かき / カキ / パーシモン"
+    },
+    {
+      "en": "pineapple",
+      "zh": "菠萝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1659,
+      "desc": "外皮多刺、果肉甜黄的食用水果",
+      "kw": "凤梨 / 黄梨 / 菠萝果 / 凤梨果 / 水果 / 热带水果 / パイナップル"
+    },
+    {
+      "en": "pineapple slice",
+      "zh": "菠萝片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 396,
+      "desc": "切下来的一片菠萝。",
+      "kw": "凤梨片 / 菠萝切片 / 凤梨切片 / 菠萝果片 / 菠萝肉片 / 水果"
+    },
+    {
+      "en": "plum",
+      "zh": "李子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 202,
+      "desc": "李子树的果实，与樱桃、桃子同属核果",
+      "kw": "李 / 布林 / 布冧 / 洋李 / 欧洲李 / 梅花 / 花卉 / 植物"
+    },
+    {
+      "en": "pomegranate",
+      "zh": "石榴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 961,
+      "desc": "果皮内长满酸甜种子的红色水果。",
+      "kw": "安石榴 / 若榴 / 红石榴 / 丹若 / 水果 / 柘榴 / ざくろ / ザクロ / せきりゅう"
+    },
+    {
+      "en": "rambutan",
+      "zh": "红毛丹",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "shanzha (fruit)",
+      "zh": "山楂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 58,
+      "desc": "蔷薇科山楂属果实，用于糖葫芦等。",
+      "kw": "山楂果 / 山里红 / 红果 / 酸楂 / 山楂子"
+    },
+    {
+      "en": "snakefruit",
+      "zh": "蛇皮果",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "starfruit",
+      "zh": "杨桃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 93,
+      "desc": "星形热带水果杨桃",
+      "kw": "洋桃 / 星星果 / 星形果 / 五敛子 / carambola"
+    },
+    {
+      "en": "sudachi (fruit)",
+      "zh": "酢橘",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tamarind",
+      "zh": "罗望子（酸角）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "umeboshi",
+      "zh": "梅干",
+      "rating": "g",
+      "nsfw": false,
+      "count": 255,
+      "desc": "日本腌制的梅干，酸咸，常配饭或包进饭团",
+      "kw": "腌梅干 / 咸梅干 / 盐渍梅 / 日式梅干 / 酸梅干 / 紫苏梅干 / 话梅 / 食物 / 梅干し"
+    },
+    {
+      "en": "yuzu (fruit)",
+      "zh": "柚子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 384,
+      "desc": "东亚产的柑橘类水果柚子",
+      "kw": "日本柚子 / 香橙 / 酸柚 / 柚果 / 柚 / 水果 / 柑橘 / 柚子汤 / 柚子湯 / ゆず湯 / ゆず"
+    },
+    {
+      "en": "jujube (fruit)",
+      "zh": "红枣",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dried jujube",
+      "zh": "红枣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28
+    },
+    {
+      "en": "vegetable",
+      "zh": "蔬菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7189,
+      "desc": "可食用的植物根茎叶或果实。",
+      "kw": "青菜 / 菜 / 新鲜蔬菜 / 蔬菜类 / 时蔬 / 绿叶菜 / 食物 / 植物 / vegetables / 野菜 / やさい"
+    },
+    {
+      "en": "asparagus",
+      "zh": "芦笋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 177,
+      "desc": "嫩茎可食用的蔬菜",
+      "kw": "石刁柏 / 绿芦笋 / 青芦笋 / 白芦笋 / 嫩芦笋 / 芦笋茎 / 芦笋菜 / 龙须菜 / 芦芛"
+    },
+    {
+      "en": "bacon-wrapped asparagus",
+      "zh": "培根芦笋卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16
+    },
+    {
+      "en": "bamboo shoot",
+      "zh": "竹笋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 955,
+      "desc": "可食用的竹子嫩芽",
+      "kw": "笋 / 竹芽 / 春笋 / 冬笋 / 笋子 / 植物 / 食材 / bamboo sprout / タケノコ / 竹の子 / 筍"
+    },
+    {
+      "en": "menma",
+      "zh": "笋干",
+      "rating": "g",
+      "nsfw": false,
+      "count": 121,
+      "desc": "用麻竹笋经发酵制成的日式配菜，常放在拉面上",
+      "kw": "面麻 / 日式笋干 / 拉面笋干 / 麻笋 / 腌笋 / 面码 / 角色 / 动漫"
+    },
+    {
+      "en": "beans",
+      "zh": "豆类",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1669,
+      "desc": "豆荚中生长的各种豆类蔬菜。",
+      "kw": "豆 / 豆粒 / 豆仁 / 各种豆 / 大豆 / 豌豆 / 食物 / bean / ビーン / 콩"
+    },
+    {
+      "en": "green bean",
+      "zh": "四季豆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 51,
+      "desc": "未成熟时连荚食用的四季豆",
+      "kw": "豆角 / 青豆 / 菜豆 / 芸豆 / 绿豆角 / 四季豆角"
+    },
+    {
+      "en": "red bean paste",
+      "zh": "红豆沙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 276,
+      "desc": "用红豆制成的豆沙馅，日语称“馅”。",
+      "kw": "红豆馅 / 豆沙馅 / 豆沙 / 红豆泥 / 赤豆沙 / 日式红豆馅 / 馅子 / 食物 / bean paste / anko (food)"
+    },
+    {
+      "en": "nattou",
+      "zh": "纳豆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 384,
+      "desc": "发酵大豆制成的日本食品，常作早餐",
+      "kw": "納豆 / 日本纳豆 / 发酵大豆 / 拉丝纳豆 / 纳豆食品 / 食物 / 日本料理 / natto"
+    },
+    {
+      "en": "bell pepper",
+      "zh": "青椒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 962,
+      "desc": "中空多籽、味甜的灯笼椒",
+      "kw": "甜椒 / 菜椒 / 柿子椒 / 圆椒 / 蔬菜 / 食物 / ピーマン"
+    },
+    {
+      "en": "bell pepper slice",
+      "zh": "青椒切片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 139,
+      "desc": "切成片或条的灯笼椒（甜椒）",
+      "kw": "甜椒片 / 彩椒片 / 灯笼椒条 / 甜椒条 / 彩椒条 / 灯笼椒丝 / 甜椒丝 / 彩椒丝"
+    },
+    {
+      "en": "green bell pepper",
+      "zh": "青椒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 416,
+      "desc": "呈绿色的甜椒，常被画成被嫌弃的食物",
+      "kw": "青甜椒 / 绿甜椒 / 绿色甜椒 / 绿灯笼椒 / 青圆椒 / 蔬菜 / 食物"
+    },
+    {
+      "en": "orange pepper",
+      "zh": "橙色甜椒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29
+    },
+    {
+      "en": "red pepper",
+      "zh": "红甜椒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 164,
+      "desc": "红色的甜椒（灯笼椒）",
+      "kw": "红色灯笼椒 / 红灯笼椒 / 红色菜椒 / 红菜椒 / 红椒 / 红辣椒 / 蔬菜"
+    },
+    {
+      "en": "yellow pepper",
+      "zh": "黄甜椒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 99,
+      "desc": "黄色的甜椒/柿子椒，蔬菜",
+      "kw": "黄色甜椒 / 黄椒 / 黄色的柿子椒 / 黄色灯笼椒 / 黄圆椒"
+    },
+    {
+      "en": "bitter melon",
+      "zh": "苦瓜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 110,
+      "desc": "表面凹凸、味苦的苦瓜",
+      "kw": "凉瓜 / 癞瓜 / 锦荔枝 / 苦瓜果 / 蔬菜 / 瓜类 / 食材"
+    },
+    {
+      "en": "broccoli",
+      "zh": "西兰花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1463,
+      "desc": "绿色花球状的西兰花",
+      "kw": "绿花菜 / 青花菜 / 绿菜花 / 西兰花菜 / 绿花椰菜 / 西兰花菜花 / 蔬菜 / 食物 / 花菜类 / ブロッコリ / ブロッコリー"
+    },
+    {
+      "en": "burdock root",
+      "zh": "牛蒡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 48
+    },
+    {
+      "en": "kinpira gobo",
+      "zh": "金平牛蒡",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cabbage",
+      "zh": "卷心菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1345,
+      "desc": "叶片包卷成球的蔬菜",
+      "kw": "包菜 / 甘蓝 / 圆白菜 / 高丽菜 / 椰菜 / 蔬菜 / 食物 / キャベツ"
+    },
+    {
+      "en": "bok choy",
+      "zh": "青梗菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 64,
+      "desc": "小白菜/青菜，中国常见蔬菜",
+      "kw": "青菜 / 上海青 / 小油菜 / 青江菜 / 汤匙菜 / 瓢儿白 / 油白菜 / 小青菜 / 青梗菜"
+    },
+    {
+      "en": "napa cabbage",
+      "zh": "大白菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 67,
+      "desc": "大白菜，常见蔬菜",
+      "kw": "白菜 / 结球白菜 / 黄芽白 / 绍菜 / 津白 / 包心白菜 / 包头白菜"
+    },
+    {
+      "en": "carrot",
+      "zh": "胡萝卜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19184,
+      "desc": "橙色甜味的根茎蔬菜胡萝卜",
+      "kw": "红萝卜 / 胡萝贝 / 橙色胡萝卜 / 甜胡萝卜 / 蔬菜 / 食物 / 植物 / carrots / 萝卜 / 人参 / にんじん"
+    },
+    {
+      "en": "carrot slice",
+      "zh": "胡萝卜片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 512,
+      "desc": "横向切成的胡萝卜片",
+      "kw": "胡萝卜切片 / 红萝卜片 / 蔬菜 / 食物"
+    },
+    {
+      "en": "carrot sticks",
+      "zh": "胡萝卜条",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31
+    },
+    {
+      "en": "cauliflower",
+      "zh": "花椰菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 68,
+      "desc": "白色球状花球的蔬菜，又称花菜、菜花。",
+      "kw": "菜花 / 花菜 / 白花菜 / 白菜花 / 花菜类"
+    },
+    {
+      "en": "chili pepper",
+      "zh": "辣椒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1221,
+      "desc": "辛辣的辣椒，最知名的是红色品种。",
+      "kw": "红辣椒 / 尖椒 / 小米椒 / 朝天椒 / 番椒 / 海椒 / 蔬菜 / 食物 / chili / 唐辛子 / チリ"
+    },
+    {
+      "en": "habanero pepper",
+      "zh": "哈瓦那辣椒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 127,
+      "desc": "辣度极高的哈瓦那辣椒",
+      "kw": "哈瓦那椒 / 哈巴内罗辣椒 / 哈瓦那辣椒果 / 辣椒 / 蔬菜 / 调味品 / habanero"
+    },
+    {
+      "en": "jalapeno pepper",
+      "zh": "墨西哥辣椒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57,
+      "desc": "墨西哥料理常用的一种辣椒。",
+      "kw": "哈拉皮纽辣椒 / 哈拉佩诺辣椒 / 墨西哥青辣椒 / 辣椒哈拉皮纽 / 墨西哥辣椒（jalapeno） / jalapeno (chili)"
+    },
+    {
+      "en": "coconut",
+      "zh": "椰子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2258,
+      "desc": "椰子树结的硬壳果实椰子",
+      "kw": "椰子果 / 椰实 / 椰子果实 / 水果 / 食物 / coconuts / 椰子の実 / ココナツ"
+    },
+    {
+      "en": "corn",
+      "zh": "玉米",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2005,
+      "desc": "玉米，又称苞谷、苞米、粟米",
+      "kw": "玉蜀黍 / 苞谷 / 苞米 / 棒子 / 珍珠米 / 粟米 / 包谷 / 食物 / maize / トウモロコシ / とうもろこし"
+    },
+    {
+      "en": "cucumber",
+      "zh": "黄瓜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2946,
+      "desc": "绿色长条状蔬菜",
+      "kw": "青瓜 / 胡瓜 / 小黄瓜 / 蔬菜 / 食物 / cucumbers / きゅうり / キュウリ"
+    },
+    {
+      "en": "pickle",
+      "zh": "腌菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 391,
+      "desc": "用盐水或醋腌制的酸黄瓜。",
+      "kw": "腌黄瓜 / 泡黄瓜 / 醋黄瓜 / 酱黄瓜 / 酸渍黄瓜 / 黄瓜酸 / 食物 / ピクルス"
+    },
+    {
+      "en": "eggplant",
+      "zh": "茄子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2172,
+      "desc": "表皮光滑的紫色茄果",
+      "kw": "紫茄子 / 长茄 / 圆茄 / 矮瓜 / 蔬菜 / 食物 / aubergine / ナス / なす"
+    },
+    {
+      "en": "garlic",
+      "zh": "大蒜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 464,
+      "desc": "洋葱家族植物的鳞茎，多用于调味",
+      "kw": "蒜头 / 蒜 / 大蒜头 / 百合蒜 / 独头蒜 / 蔬菜 / 食材 / にんにく / ニンニク / ガーリック"
+    },
+    {
+      "en": "kimchi",
+      "zh": "泡菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 53
+    },
+    {
+      "en": "lettuce",
+      "zh": "生菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3593,
+      "desc": "常生吃的叶用蔬菜。",
+      "kw": "莴苣 / 叶用莴苣 / 生菜叶 / 结球生菜 / 蔬菜 / 食物 / レタス"
+    },
+    {
+      "en": "lotus root",
+      "zh": "莲藕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 320,
+      "desc": "可食用的莲的根茎，切片上有孔",
+      "kw": "藕 / 莲根 / 莲菜 / 藕片 / 莲藕片 / 荷藕 / 食物 / 蔬菜 / 蓮根 / れんこん"
+    },
+    {
+      "en": "artemisia argyi",
+      "zh": "艾草",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23
+    },
+    {
+      "en": "mint",
+      "zh": "薄荷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 824,
+      "desc": "薄荷这种植物及其味道",
+      "kw": "薄荷叶 / 薄荷植物 / 薄荷味 / 食物 / 香料 / 植物"
+    },
+    {
+      "en": "enoki mushroom",
+      "zh": "金针菇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69,
+      "desc": "东亚常见的细长白色可食用蘑菇。",
+      "kw": "金菇 / 毛柄金钱菌 / 金针 / 增智菇 / enoki (mushroom)"
+    },
+    {
+      "en": "shiitake",
+      "zh": "香菇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 515,
+      "desc": "东亚原产的可食用香菇",
+      "kw": "冬菇 / 花菇 / 香蕈 / 食物 / 蘑菇 / シイタケ / しいたけ / 椎茸"
+    },
+    {
+      "en": "truffle (mushroom)",
+      "zh": "松露",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10
+    },
+    {
+      "en": "nagaimo (food)",
+      "zh": "长芋（山药）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "nut (food)",
+      "zh": "坚果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 497,
+      "desc": "长在树上、松鼠爱吃的坚果类食物",
+      "kw": "坚果类食物 / 硬壳果 / 果仁 / 树坚果 / 坚果仁 / 可食坚果 / 干果仁 / 食物 / nuts (food) / ナッツ"
+    },
+    {
+      "en": "almond",
+      "zh": "扁桃仁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 184,
+      "desc": "扁桃树的种子杏仁",
+      "kw": "巴旦木 / 美国杏仁 / 甜杏仁 / 苦杏仁 / 大杏仁 / 巴达木 / 扁桃果仁"
+    },
+    {
+      "en": "cashew",
+      "zh": "腰果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32
+    },
+    {
+      "en": "chestnut",
+      "zh": "栗子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 597,
+      "desc": "可烤食的板栗果实",
+      "kw": "栗 / 板栗子 / 炒栗子 / 食物 / 坚果 / chestnuts"
+    },
+    {
+      "en": "hazelnut",
+      "zh": "榛子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10
+    },
+    {
+      "en": "peanut",
+      "zh": "花生",
+      "rating": "g",
+      "nsfw": false,
+      "count": 411,
+      "desc": "常见坚果，可带壳食用",
+      "kw": "落花生 / 花生米 / 花生仁 / 长生果 / 坚果 / 食物 / 南京豆 / ピーナツ"
+    },
+    {
+      "en": "pecan",
+      "zh": "碧根果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "pistachio",
+      "zh": "开心果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43
+    },
+    {
+      "en": "walnut",
+      "zh": "核桃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 159,
+      "desc": "核桃树的果实，可食用的坚果",
+      "kw": "胡桃 / 核桃仁 / 纸皮核桃 / 山核桃 / 坚果 / 食物 / walnut (food)"
+    },
+    {
+      "en": "okra",
+      "zh": "秋葵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 51,
+      "desc": "可食用绿色荚果，煮熟后带黏液",
+      "kw": "羊角豆 / 咖啡黄葵 / 秋葵荚 / 黏秋葵 / 绿秋葵 / 秋葵蔬菜"
+    },
+    {
+      "en": "onion",
+      "zh": "洋葱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1606,
+      "desc": "常见球形蔬菜，切开会刺激眼睛流泪。",
+      "kw": "圆葱 / 葱头 / 球葱 / 洋葱头 / 蔬菜 / 食物 / 玉葱 / たまねぎ / タマネギ"
+    },
+    {
+      "en": "onion rings",
+      "zh": "洋葱圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 173,
+      "desc": "洋葱切环裹面糊油炸的快餐食品。",
+      "kw": "炸洋葱圈 / 洋葱环 / 炸洋葱环 / 洋葱圈炸物 / 食物 / 快餐 / onion ring"
+    },
+    {
+      "en": "parsley",
+      "zh": "欧芹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 106,
+      "desc": "用于调味和点缀菜肴的绿色香草欧芹",
+      "kw": "荷兰芹 / 巴西利 / 洋芫荽 / 香芹 / 洋香菜 / 法香 / 食物 / 香草"
+    },
+    {
+      "en": "peas",
+      "zh": "豌豆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 182,
+      "desc": "长荚圆形绿色可食用豌豆",
+      "kw": "豌豆粒 / 青豌豆 / 绿豌豆 / 青豆 / 豌豆子 / 蔬菜 / 食物"
+    },
+    {
+      "en": "pea pod",
+      "zh": "豌豆荚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 763,
+      "desc": "包裹豌豆的豆荚",
+      "kw": "豆荚 / 荷兰豆荚 / 豌豆角 / 青豆荚 / 蔬菜 / 植物 / インゲンマメ"
+    },
+    {
+      "en": "potato",
+      "zh": "土豆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2150,
+      "desc": "生长在地下的淀粉质块茎蔬菜土豆。",
+      "kw": "马铃薯 / 洋芋 / 地蛋 / 薯仔 / 山药蛋 / 食物 / 蔬菜 / 薯类 / potatoes / 芋 / いも / イモ"
+    },
+    {
+      "en": "mashed potatoes",
+      "zh": "土豆泥",
+      "rating": "g",
+      "nsfw": false,
+      "count": 82,
+      "desc": "马铃薯煮熟捣碎后加奶与黄油做成的配菜",
+      "kw": "马铃薯泥 / 薯蓉 / 土豆蓉 / 洋芋泥 / 马铃薯蓉"
+    },
+    {
+      "en": "radish",
+      "zh": "萝卜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1533,
+      "desc": "十字花科的食用根菜萝卜",
+      "kw": "小萝卜 / 樱桃萝卜 / 水萝卜 / 红皮萝卜 / 蔬菜 / 根茎类 / 大根"
+    },
+    {
+      "en": "daikon",
+      "zh": "白萝卜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 908,
+      "desc": "日式料理中常用的白色大根萝卜",
+      "kw": "大根 / 日本萝卜 / 白萝卜（日式） / 萝卜 / 蔬菜 / 食物"
+    },
+    {
+      "en": "seaweed",
+      "zh": "海藻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2179,
+      "desc": "大型多细胞海生藻类的统称。",
+      "kw": "海草 / 海带 / 昆布 / 紫菜 / 裙带菜 / 海苔 / 植物"
+    },
+    {
+      "en": "hijiki (seaweed)",
+      "zh": "羊栖菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28
+    },
+    {
+      "en": "nori (seaweed)",
+      "zh": "紫菜（海苔）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 837,
+      "desc": "可食用的海藻，常用于包寿司和饭团",
+      "kw": "紫菜 / 海苔片 / 板海苔 / 烤海苔 / 寿司海苔 / 日本料理 / 海藻 / のり"
+    },
+    {
+      "en": "spring onion",
+      "zh": "大葱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8830,
+      "desc": "白色葱白带两片绿叶的葱类",
+      "kw": "青葱 / 葱 / 日本葱 / 长葱 / 小葱 / 蔬菜 / 葱类 / scallion / negi / leek / 長ネギ"
+    },
+    {
+      "en": "chopped spring onion",
+      "zh": "葱花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 380,
+      "desc": "切碎的葱花，用作调味或点缀",
+      "kw": "葱末 / 葱花碎 / 小葱碎 / 切碎葱花 / 碎葱 / 葱丁 / 调味料 / 蔬菜"
+    },
+    {
+      "en": "squash",
+      "zh": "南瓜类蔬菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 178,
+      "desc": "可食用的南瓜属瓜类，包括南瓜、西葫芦等。",
+      "kw": "西葫芦 / 南瓜属 / 倭瓜 / 美洲南瓜 / 瓜类蔬菜 / 番瓜 / 壁球 / 运动"
+    },
+    {
+      "en": "jack-o'-lantern",
+      "zh": "杰克南瓜灯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23475,
+      "desc": "万圣节雕刻成人脸的南瓜灯",
+      "kw": "杰克灯 / 万圣节南瓜灯 / 南瓜灯笼 / 雕花南瓜灯 / 万圣节 / 灯饰 / jack-o-lantern / jack o' lantern / jack o lantern / ジャック・オ・ランタン"
+    },
+    {
+      "en": "sweet potato",
+      "zh": "红薯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3654,
+      "desc": "甜味块根作物，如红薯、番薯。",
+      "kw": "地瓜 / 番薯 / 甘薯 / 甜薯 / 红苕 / 食物 / yams / yam / 萨摩芋 / 芋"
+    },
+    {
+      "en": "roasted sweet potato",
+      "zh": "烤红薯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1530,
+      "desc": "日本冬季常见的烤红薯",
+      "kw": "烤地瓜 / 烤番薯 / 烤甘薯 / 煨番薯 / 日式烤红薯 / 食物 / 街头小吃 / yakiimo / 焼き芋 / やきいも"
+    },
+    {
+      "en": "taro (food)",
+      "zh": "芋头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "tomato",
+      "zh": "番茄",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8321,
+      "desc": "茄科植物的红色果实番茄",
+      "kw": "西红柿 / 番茄果 / 洋柿子 / 番茄果实 / 食物 / 蔬菜 / tomatoes / 蕃茄 / トマト"
+    },
+    {
+      "en": "cherry tomato",
+      "zh": "圣女果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1095,
+      "desc": "直径2至5厘米的小番茄。",
+      "kw": "小番茄 / 樱桃番茄 / 迷你番茄 / 小西红柿 / 樱桃西红柿 / 迷你西红柿 / 圣女番茄 / 水果 / プチトマト / ミニトマト / チェリートマト"
+    },
+    {
+      "en": "turnip",
+      "zh": "芜菁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 421,
+      "desc": "白色球根蔬菜芜菁",
+      "kw": "大头菜 / 蔓菁 / 圆菜头 / 盘菜 / 蔬菜 / 根菜 / 蕪 / かぶ"
+    },
+    {
+      "en": "warabi",
+      "zh": "蕨菜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10
+    },
+    {
+      "en": "water caltrop",
+      "zh": "菱角",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "meat",
+      "zh": "肉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11305,
+      "desc": "无法分辨具体种类的食用肉块。",
+      "kw": "肉块 / 肉类 / 生肉 / 鲜肉 / 肉食 / 食物"
+    },
+    {
+      "en": "bacon",
+      "zh": "培根",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1364,
+      "desc": "猪腹或背肉腌制熏烤而成的肉片。",
+      "kw": "烟肉 / 熏肉 / 培根肉 / 培根片 / 食物 / 肉类 / ベーコン"
+    },
+    {
+      "en": "boned meat",
+      "zh": "漫画肉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2897,
+      "desc": "漫画或动画中常见的带骨大块肉。",
+      "kw": "带骨肉 / 带骨大块肉 / 漫画带骨肉 / 卡通肉 / 动画肉 / 食物 / manga meat / マンガ肉 / 骨付き肉 / あの肉"
+    },
+    {
+      "en": "chicken (food)",
+      "zh": "鸡肉（食物）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4120,
+      "desc": "作为食材或料理的鸡肉。",
+      "kw": "鸡肉 / 鸡肉料理 / 鸡块 / 烧鸡 / 炸鸡 / 烤鸡 / 鸡肉菜 / 食物 / 鶏肉 / 鸟肉 / チキン / 鳥肉"
+    },
+    {
+      "en": "chicken feet (food)",
+      "zh": "凤爪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "chicken leg",
+      "zh": "鸡腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1039,
+      "desc": "作为食物的鸡腿，也称琵琶腿",
+      "kw": "鸡大腿 / 琵琶腿 / 大鸡腿 / 烤鸡腿 / 炸鸡腿 / 棒腿 / 食物 / 肉类 / chicken drumstick"
+    },
+    {
+      "en": "chicken nuggets",
+      "zh": "炸鸡块",
+      "rating": "g",
+      "nsfw": false,
+      "count": 486,
+      "desc": "裹粉油炸的鸡块",
+      "kw": "上校鸡块 / 麦乐鸡块 / 黄金鸡块 / 鸡米花 / 食物 / チキンナゲット / チキン・ナゲット"
+    },
+    {
+      "en": "chicken wing",
+      "zh": "鸡翅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 162,
+      "desc": "作为食物的鸡翅",
+      "kw": "鸡翼 / 鸡翅膀 / 烤鸡翅 / 炸鸡翅 / 食物"
+    },
+    {
+      "en": "fried chicken",
+      "zh": "炸鸡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1730,
+      "desc": "裹粉油炸的鸡肉料理",
+      "kw": "炸鸡块 / 炸鸡腿 / 脆皮炸鸡 / 唐扬炸鸡 / 日式炸鸡 / 香酥炸鸡 / 食物 / 快餐 / フライドチキン / 唐揚げ / から揚げ / からあげ"
+    },
+    {
+      "en": "roast chicken",
+      "zh": "烤鸡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23
+    },
+    {
+      "en": "yakitori",
+      "zh": "烤鸡肉串",
+      "rating": "g",
+      "nsfw": false,
+      "count": 499,
+      "desc": "串在竹签上烤的鸡肉小块",
+      "kw": "日式烤鸡串 / 鸡肉串 / 烧鸟 / 炭烤鸡肉串 / 鸡串 / 日式烧鸟 / 食物 / 焼き鳥 / 焼き鶏 / 焼鳥"
+    },
+    {
+      "en": "crab",
+      "zh": "螃蟹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9117,
+      "desc": "长有螯和扁平甲壳的甲壳动物螃蟹",
+      "kw": "蟹 / 海蟹 / 河蟹 / 大闸蟹 / 梭子蟹 / 青蟹 / 螃蟹类 / 动物 / crabs / かに / カニ / クラブ"
+    },
+    {
+      "en": "doner kebab",
+      "zh": "土耳其烤肉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 105,
+      "desc": "从旋转烤肉柱上削下的土耳其烤肉",
+      "kw": "旋转烤肉 / 土耳其烤肉卷 / 烤肉卷 / 沙威玛 / 多纳烤肉 / 顿纳烤肉 / 土耳其肉夹馍 / 食物 / shawarma"
+    },
+    {
+      "en": "duck (food)",
+      "zh": "鸭肉（食材）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "peking duck (food)",
+      "zh": "北京烤鸭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "egg (food)",
+      "zh": "蛋（食材）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4259,
+      "desc": "作为食材食用的鸡蛋",
+      "kw": "蛋 / 鸡蛋食物 / 食用鸡蛋 / 蛋类食物 / 鸡蛋料理 / 鸡蛋食材 / 食物 / 食材 / 玉子 / 卵 / たまご / タマゴ"
+    },
+    {
+      "en": "broken egg",
+      "zh": "破裂的蛋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 371,
+      "desc": "裂开露出蛋黄的蛋",
+      "kw": "打碎的鸡蛋 / 裂开的蛋 / 碎鸡蛋 / 鸡蛋破裂 / 破蛋 / 鸡蛋碎壳 / 破掉的蛋 / 蛋类 / fully cracked egg"
+    },
+    {
+      "en": "egg yolk",
+      "zh": "蛋黄",
+      "rating": "g",
+      "nsfw": false,
+      "count": 892,
+      "desc": "蛋中富含脂肪的黄色部分",
+      "kw": "卵黄 / 蛋黄液 / 食物 / yolk"
+    },
+    {
+      "en": "eggshell",
+      "zh": "蛋壳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 926,
+      "desc": "蛋外层不可食用的壳",
+      "kw": "卵壳 / 蛋皮 / 鸡蛋壳 / 蛋壳儿 / 物品"
+    },
+    {
+      "en": "fried egg",
+      "zh": "煎蛋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4656,
+      "desc": "保留完整蛋黄的煎蛋",
+      "kw": "荷包蛋 / 太阳蛋 / 煎鸡蛋 / 单面煎蛋 / 食物 / 早餐 / sunny side up egg / 目玉焼き / サニーサイドアップ"
+    },
+    {
+      "en": "century egg (food)",
+      "zh": "皮蛋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17
+    },
+    {
+      "en": "hardboiled egg",
+      "zh": "水煮蛋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 574,
+      "desc": "带壳煮到蛋白蛋黄凝固的蛋",
+      "kw": "全熟水煮蛋 / 煮鸡蛋 / 白煮蛋 / 硬煮蛋 / 食物 / 鸡蛋 / hard-boiled egg / ゆで卵"
+    },
+    {
+      "en": "softboiled egg",
+      "zh": "溏心蛋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 546,
+      "desc": "蛋黄仍呈流心状态的半熟水煮蛋",
+      "kw": "糖心蛋 / 半熟蛋 / 半熟水煮蛋 / 流心蛋 / 软煮蛋 / 溏心鸡蛋 / 食物 / 鸡蛋 / soft-boiled egg / 半熟 / 半熟卵 / ゆで卵"
+    },
+    {
+      "en": "omelet",
+      "zh": "欧姆蛋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6430,
+      "desc": "打散蛋液后包卷配料煎成的煎蛋卷",
+      "kw": "煎蛋饼 / 奄列 / 食物 / 煎蛋 / omelette / オムレツ"
+    },
+    {
+      "en": "omurice",
+      "zh": "蛋包饭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4487,
+      "desc": "用蛋皮包裹米饭、常淋番茄酱的日式料理。",
+      "kw": "日式蛋包饭 / 欧姆蛋包饭 / 蛋皮饭 / 蛋包饭料理 / 食物 / 西式料理 / rice omelet / オムライス"
+    },
+    {
+      "en": "tamagoyaki",
+      "zh": "玉子烧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1430,
+      "desc": "用方锅卷制后切片食用的日式煎蛋卷",
+      "kw": "日式煎蛋卷 / 鸡蛋卷 / 玉子焼 / 甜蛋卷 / 厚蛋烧 / 鸡蛋烧 / 日式蛋卷 / 食物 / egg roll / 卵焼き / 玉子焼き"
+    },
+    {
+      "en": "oyakodon (food)",
+      "zh": "亲子丼（食物）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 52,
+      "desc": "鸡肉与鸡蛋盖在米饭上的日式亲子丼",
+      "kw": "亲子盖饭 / 鸡肉鸡蛋盖饭 / 亲子饭 / 鸡肉鸡蛋丼"
+    },
+    {
+      "en": "scrambled egg",
+      "zh": "炒蛋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 80,
+      "desc": "打散后炒制的鸡蛋料理",
+      "kw": "滑蛋 / 嫩炒鸡蛋 / 美式炒蛋 / 西式炒蛋 / 炒嫩蛋"
+    },
+    {
+      "en": "sliced egg",
+      "zh": "切片蛋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28
+    },
+    {
+      "en": "raw egg",
+      "zh": "生鸡蛋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 59,
+      "desc": "未经烹煮直接食用的鸡蛋。",
+      "kw": "生蛋 / 生鲜鸡蛋 / 未煮鸡蛋 / 全生鸡蛋"
+    },
+    {
+      "en": "roe",
+      "zh": "鱼卵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 345,
+      "desc": "鱼卵，尤指卵巢膜内成块的部分",
+      "kw": "鱼籽 / 鱼子酱 / 鱼卵块 / 卵巢鱼卵 / 鱼卵囊 / 食物"
+    },
+    {
+      "en": "caviar",
+      "zh": "鱼子酱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62,
+      "desc": "鲟鱼卵制成的鱼子酱",
+      "kw": "鱼子 / 鱼籽酱 / 黑鱼子酱"
+    },
+    {
+      "en": "ikura (food)",
+      "zh": "鲑鱼子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 558,
+      "desc": "用鲑鱼卵制成的红色鱼子",
+      "kw": "红鱼子 / 三文鱼籽 / 三文鱼卵 / 鲑鱼籽 / 红鱼子酱 / 食物 / 海鲜 / salmon roe / イクラ"
+    },
+    {
+      "en": "karashi mentaiko",
+      "zh": "辛子明太子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "tamagokake gohan",
+      "zh": "生蛋拌饭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 154,
+      "desc": "生鸡蛋盖在白米饭上、可加酱油的日式料理",
+      "kw": "生鸡蛋拌饭 / 生蛋饭 / 鸡蛋拌饭 / 日式鸡蛋拌饭 / 生蛋酱油拌饭 / 生鸡蛋盖饭 / 生蛋盖饭 / 日式生蛋拌饭"
+    },
+    {
+      "en": "eel",
+      "zh": "鳗鱼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1327,
+      "desc": "身体细长的鳗鱼类鱼",
+      "kw": "鳗 / 鳗鲡 / 鱼类 / 海鲜 / eels / 鰻 / うなぎ / ウナギ"
+    },
+    {
+      "en": "kabayaki",
+      "zh": "蒲烧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "fish (food)",
+      "zh": "鱼肉（食物）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3877,
+      "desc": "作为食物描绘的鱼",
+      "kw": "鱼料理 / 鱼肉 / 食用鱼 / 烧鱼 / 煮鱼 / 鱼菜肴 / 鱼食品 / 鱼 (食物)"
+    },
+    {
+      "en": "canned fish",
+      "zh": "鱼罐头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 140,
+      "desc": "装在罐头里的鱼",
+      "kw": "罐头鱼 / 罐装鱼肉 / 鱼罐 / 鱼罐头食品 / 鱼类罐头 / 罐头 / 食物"
+    },
+    {
+      "en": "filet-o-fish",
+      "zh": "麦香鱼汉堡",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "fish skeleton",
+      "zh": "鱼骨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2062,
+      "desc": "鱼被剔除肉后的骨架",
+      "kw": "鱼骨头 / 鱼骨架子 / 鱼骨骼 / 鱼刺 / 鱼骨残骸 / 骨骼 / 装饰 / fish bones / fishbone / fishbones / fish bone"
+    },
+    {
+      "en": "fried fish",
+      "zh": "炸鱼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 79,
+      "desc": "裹面衣油炸的鱼肉料理",
+      "kw": "炸鱼排 / 油炸鱼 / 炸鱼块 / 鱼排 / 酥炸鱼 / 炸鱼柳"
+    },
+    {
+      "en": "grilled fish",
+      "zh": "烤鱼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 397,
+      "desc": "烤制的鱼，常带签子或烤痕。",
+      "kw": "烤鱼串 / 烧烤鱼 / 炭烤鱼 / 烤全鱼 / 盐烤鱼 / 碳烤鱼 / 烤制鱼 / 食物"
+    },
+    {
+      "en": "sashimi",
+      "zh": "刺身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 564,
+      "desc": "切成薄片的生鱼等食材",
+      "kw": "鱼生 / 生鱼簿片 / 日式生鱼片 / 生鲜鱼片 / 日本料理 / 食物"
+    },
+    {
+      "en": "katsuo no tataki",
+      "zh": "鲣鱼半敲烧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12
+    },
+    {
+      "en": "goose (food)",
+      "zh": "鹅肉料理",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gyuudon",
+      "zh": "牛丼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 334,
+      "desc": "牛肉洋葱盖饭，浇在米饭上，有时加生鸡蛋。",
+      "kw": "牛肉盖饭 / 日式牛肉盖饭 / 牛肉丼 / 牛丼饭 / 牛肉洋葱盖饭 / 吉野家牛肉饭 / 日式牛肉饭 / 日式料理 / ぎゅうどん"
+    },
+    {
+      "en": "hamburger steak",
+      "zh": "汉堡排",
+      "rating": "g",
+      "nsfw": false,
+      "count": 698,
+      "desc": "日式煎肉饼，常配酱汁",
+      "kw": "汉堡肉 / 汉堡肉饼 / 日式汉堡排 / 煎汉堡排 / 圆形肉饼 / 汉堡牛肉饼 / 汉堡肉排 / ハンバーグ / ハンバーグステーキ"
+    },
+    {
+      "en": "loco moco",
+      "zh": "夏威夷汉堡饭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "kamaboko",
+      "zh": "鱼板",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1620,
+      "desc": "日本用鱼糜蒸制成的板状食品，常切片配拉面。",
+      "kw": "鱼糕 / 日式鱼糕 / 蒲鉾 / 鱼饼 / 日本鱼板 / 板鱼糕 / 食物 / 日本风 / かまぼこ"
+    },
+    {
+      "en": "katsu (food)",
+      "zh": "炸猪排",
+      "rating": "g",
+      "nsfw": false,
+      "count": 352,
+      "desc": "裹面包糠油炸的肉排，常见如炸猪排",
+      "kw": "日式炸肉排 / 吉列肉排 / 面包糠炸肉 / 吉列猪排 / 日式炸猪排 / 炸鸡排 / 吉利肉排 / tonkatsu"
+    },
+    {
+      "en": "katsudon (food)",
+      "zh": "猪排饭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 239,
+      "desc": "铺着炸猪排的盖饭。",
+      "kw": "炸猪排盖饭 / 日式猪排饭 / 炸猪排盖浇饭 / 吉列猪排饭 / 猪排丼 / 猪排盖浇饭 / 日式料理"
+    },
+    {
+      "en": "lobster",
+      "zh": "龙虾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 820,
+      "desc": "带大螯的大型海产甲壳类龙虾。",
+      "kw": "大龙虾 / 海螯虾 / 螯龙虾 / 波士顿龙虾 / 美洲龙虾 / 龙虾肉 / 海鲜 / 甲壳类 / 伊势海老 / 海老 / 蝦 / えび"
+    },
+    {
+      "en": "meat floss",
+      "zh": "肉松",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "meatball",
+      "zh": "肉丸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 454,
+      "desc": "碎肉加调料捏成的肉丸。",
+      "kw": "肉圆 / 肉丸子 / 肉馅球 / 肉圆子 / 肉馅丸子 / 贡丸 / 食物"
+    },
+    {
+      "en": "oyster",
+      "zh": "牡蛎",
+      "rating": "g",
+      "nsfw": false,
+      "count": 377,
+      "desc": "可食用的双壳类动物牡蛎",
+      "kw": "蚝 / 海蛎 / 生蚝 / 蚵仔 / 海鲜 / 贝类 / 食物 / 牡蠣 / カキ / かき"
+    },
+    {
+      "en": "fried oyster",
+      "zh": "炸生蚝",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "pork",
+      "zh": "猪肉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 332,
+      "desc": "取自猪的肉",
+      "kw": "豚肉 / 猪的肉 / 食物 / 肉类 / ポーク"
+    },
+    {
+      "en": "ham",
+      "zh": "火腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 451,
+      "desc": "猪腿腌制或熏制的肉。",
+      "kw": "火腿肉 / 熏火腿 / 腌制火腿 / 火腿片 / 洋火腿 / 食物 / 肉类 / 食材 / ハム"
+    },
+    {
+      "en": "raw meat",
+      "zh": "生肉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 575,
+      "desc": "未经烹调的肉类",
+      "kw": "未烹调的肉 / 未煮熟的肉 / 带血肉 / 生鲜肉 / 食物 / 食材"
+    },
+    {
+      "en": "tartare (food)",
+      "zh": "鞑靼生拌肉",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "yokhoe (food)",
+      "zh": "韩式生拌牛肉",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sausage",
+      "zh": "香肠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2761,
+      "desc": "将绞肉灌入肠衣制成的食品。",
+      "kw": "腊肠 / 火腿肠 / 肉肠 / 灌肠 / 食物 / ソーセージ / 소시지 / 香腸"
+    },
+    {
+      "en": "pepperoni",
+      "zh": "意式辣肠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 470,
+      "desc": "用胡椒调味的牛肉猪肉混合香肠",
+      "kw": "意大利辣香肠 / 意式腊肠 / 意大利辣味香肠 / 辣味香肠 / 披萨肠 / 意式香肠 / 意大利腊肠 / 食物"
+    },
+    {
+      "en": "shish kebab",
+      "zh": "烤肉串",
+      "rating": "g",
+      "nsfw": false,
+      "count": 793,
+      "desc": "腌肉块与蔬菜串在签上烤制",
+      "kw": "烤串 / 肉串 / 羊肉串 / 串烧 / 土耳其烤肉串 / 西亚烤肉串 / 食物"
+    },
+    {
+      "en": "shrimp",
+      "zh": "虾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5043,
+      "desc": "有长触须和分节身体的甲壳类动物。",
+      "kw": "虾子 / 大虾 / 对虾 / 海虾 / 鲜虾 / 明虾 / 海鲜 / 动物 / prawn / 蝦 / 海老 / えび"
+    },
+    {
+      "en": "shrimp tempura",
+      "zh": "炸虾天妇罗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2049,
+      "desc": "裹上轻薄面糊油炸的日式虾料理。",
+      "kw": "天妇罗炸虾 / 日式炸虾 / 面衣炸虾 / 天妇罗海老 / 炸虾 / 日本料理 / 食物 / fried shrimp / 海老天 / エビ天 / 天ぷら"
+    },
+    {
+      "en": "sliced meat",
+      "zh": "切片肉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 184,
+      "desc": "用于三明治或拉面的腌制薄切肉片。",
+      "kw": "肉片 / 薄切肉 / 薄片肉 / 肉切片 / 肉类 / 食物"
+    },
+    {
+      "en": "steak",
+      "zh": "牛排",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1805,
+      "desc": "煎烤而成的肉排，通常指牛排",
+      "kw": "牛扒 / 煎牛排 / 烤牛排 / 牛肉排 / 肉排 / 食物 / 肉类 / ステーキ"
+    },
+    {
+      "en": "tako-san wiener",
+      "zh": "章鱼红香肠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 791,
+      "desc": "切成章鱼形状的香肠，常见于儿童便当",
+      "kw": "章鱼香肠 / 章鱼造型小香肠 / 八爪鱼小香肠 / 章鱼形香肠 / 章鱼维也纳香肠 / 章鱼肠 / 食物 / octopus wiener / タコさんウインナー"
+    },
+    {
+      "en": "kani-san wiener",
+      "zh": "螃蟹造型小香肠",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "turkey (food)",
+      "zh": "火鸡（食物）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 775,
+      "desc": "感恩节等节日食用的烤火鸡肉",
+      "kw": "火鸡肉 / 烤火鸡 / 感恩节火鸡 / 火鸡大餐 / 火鸡 (食物) / 食物 / 肉类 / 七面鸟 / 七面鳥 / しちめんちょう / シチメンチョウ"
+    },
+    {
+      "en": "turkey leg",
+      "zh": "火鸡腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 66,
+      "desc": "烤熟的火鸡腿，常见于节日或小吃场景。",
+      "kw": "烤火鸡腿 / 火鸡大腿 / 火鸡腿肉 / 感恩节火鸡腿 / 火鸡棒腿"
+    },
+    {
+      "en": "bagel",
+      "zh": "贝果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 277,
+      "desc": "环形烤制的贝果面包",
+      "kw": "百吉饼 / 贝果面包 / 圈饼 / 硬面包圈 / 面包 / 食物 / 烘焙 / ベーグル"
+    },
+    {
+      "en": "baguette",
+      "zh": "法棍",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4543,
+      "desc": "法式长棍面包。",
+      "kw": "法国长棍面包 / 长棍面包 / 法式长棍面包 / 棍子面包 / 法国面包 / 面包 / 食物 / french bread / バゲット / フランスパン"
+    },
+    {
+      "en": "biscuit (bread)",
+      "zh": "比斯开饼（美式面包）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 236,
+      "desc": "外皮金黄、内里松软的司康类糕点",
+      "kw": "比司吉面包 / 美式松饼 / 司康饼 / 美式饼干面包 / 松软小面包 / 美式比司吉面包 / 比司吉 / 饼干 / 饼干"
+    },
+    {
+      "en": "bread bun",
+      "zh": "餐包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 591,
+      "desc": "圆形的小面包，可夹馅或做汉堡胚",
+      "kw": "面包胚 / 圆形面包 / 小面包 / 汉堡胚 / 面包 / 发髻 / 食物"
+    },
+    {
+      "en": "bread crust",
+      "zh": "面包边",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31
+    },
+    {
+      "en": "bread slice",
+      "zh": "面包片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5713,
+      "desc": "切下的一片面包，常烤成吐司。",
+      "kw": "切片面包 / 吐司片 / 土司片 / 一片面包 / 面包切片 / 吐司面包片 / 食物 / 面包 / slice of bread"
+    },
+    {
+      "en": "toast",
+      "zh": "吐司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4491,
+      "desc": "烤过的切片面包，常涂黄油或果酱。",
+      "kw": "烤吐司 / 烤面包片 / 多士 / 烤多士 / 土司 / 吐司片 / 烤面包 / 面包 / トースト"
+    },
+    {
+      "en": "french toast",
+      "zh": "法式吐司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 118,
+      "desc": "裹蛋液煎制的法式吐司。",
+      "kw": "法国吐司 / 西多士 / 法兰西吐司 / 蛋液吐司 / 煎吐司 / 法式煎面包 / 食物 / 西式早餐"
+    },
+    {
+      "en": "pizza toast",
+      "zh": "披萨吐司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43
+    },
+    {
+      "en": "croissant",
+      "zh": "牛角面包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1684,
+      "desc": "层酥卷成新月形的面包，又称可颂。",
+      "kw": "可颂 / 羊角包 / 新月面包 / 可颂面包 / 西式面包 / 食物 / クロワッサン"
+    },
+    {
+      "en": "japari bun",
+      "zh": "加帕里馒头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1134,
+      "desc": "《兽娘动物园》中Friends食用的加帕里馒头。",
+      "kw": "加帕里面包 / 兽娘馒头 / 加帕里小馒头 / 加帕里克力架 / 加帕里点心 / 食物 / 兽娘动物园 / ジャパリまん"
+    },
+    {
+      "en": "loaf of bread",
+      "zh": "整条面包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 681,
+      "desc": "整条未切的面包。",
+      "kw": "面包块 / 一块面包 / 长面包 / 未切面包 / 一条面包 / 面包 / 食物"
+    },
+    {
+      "en": "cereal",
+      "zh": "麦片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 308,
+      "desc": "谷物加工、加牛奶食用的早餐麦片。",
+      "kw": "早餐麦片 / 谷物片 / 即食麦片 / 牛奶麦片 / 膨化麦片 / 食物 / 早餐食品 / コーンフレーク / シリアル食品 / 시리얼 / 穀物片"
+    },
+    {
+      "en": "cracker",
+      "zh": "饼干",
+      "rating": "g",
+      "nsfw": false,
+      "count": 463,
+      "desc": "以咸味为主的薄脆饼干",
+      "kw": "苏打饼干 / 咸饼干 / 薄饼 / 小麦饼干 / 食物 / 零食 / crackers / 乾パン"
+    },
+    {
+      "en": "arare (food)",
+      "zh": "米果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "senbei",
+      "zh": "仙贝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 979,
+      "desc": "日本传统米制脆饼，常以海苔或酱油调味",
+      "kw": "日式煎饼 / 米制脆饼 / 酱油仙贝 / 海苔仙贝 / 日本米饼 / 脆米饼 / 日式米饼 / 食物 / senbei (food) / rice cracker / 煎餅 / せんべい"
+    },
+    {
+      "en": "empanada",
+      "zh": "恩潘纳达馅饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "noodles",
+      "zh": "面条",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11275,
+      "desc": "条状面食，包括拉面、挂面等。",
+      "kw": "面 / 拉面 / 面食 / 粉面 / 汤面 / 面线 / 食物 / 美食 / noodle / 麺 / ヌードル"
+    },
+    {
+      "en": "occhahoi",
+      "zh": "奥查霍伊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27
+    },
+    {
+      "en": "pasta",
+      "zh": "意大利面食",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2565,
+      "desc": "用小麦粉加水和鸡蛋制成的意大利面食",
+      "kw": "意面 / 意粉 / 通心粉 / 意式面食 / 义大利面 / 意面料理 / 意大利面条 / パスタ"
+    },
+    {
+      "en": "lasagne",
+      "zh": "千层面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60,
+      "desc": "层叠面皮与肉酱奶酪烤制的意式面食",
+      "kw": "千层意面 / 意大利千层面 / 意式千层面 / 意式肉酱千层面 / 烤千层面 / 千层宽面 / lasagna"
+    },
+    {
+      "en": "spaghetti",
+      "zh": "意大利面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1896,
+      "desc": "细长圆柱形的意大利面条。",
+      "kw": "意面 / 意大利面条 / 意粉 / 意大利长面 / 细长意面 / 食物 / スパゲティ"
+    },
+    {
+      "en": "black spaghetti",
+      "zh": "墨鱼汁意面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 42
+    },
+    {
+      "en": "spaghetti and meatballs",
+      "zh": "意式肉丸面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 184,
+      "desc": "意面配番茄酱和肉丸的菜肴",
+      "kw": "意面肉丸 / 肉丸意大利面 / 番茄肉丸意面 / 意面配肉丸 / 肉圆意面 / 意大利面肉圆 / 意式肉酱面"
+    },
+    {
+      "en": "hiyashi chuuka",
+      "zh": "中华冷面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "instant ramen",
+      "zh": "方便面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 237,
+      "desc": "干燥块状的速食拉面，多为杯装。",
+      "kw": "泡面 / 即食面 / 速食拉面 / 即食拉面 / 方便拉面 / 杯面 / 碗面 / 快熟面 / 即席拉面 / インスタントラーメン / インスタント拉麺 / 即席ラーメン"
+    },
+    {
+      "en": "jirou (ramen)",
+      "zh": "二郎系拉面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 288,
+      "desc": "大量蒜和油脂的拉面二郎系拉面",
+      "kw": "二郎系 / 拉面二郎 / 二郎风拉面 / 拉面 / 食物"
+    },
+    {
+      "en": "soba",
+      "zh": "荞麦面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 829,
+      "desc": "日本荞麦面，可冷食蘸汁或热汤食用",
+      "kw": "日式荞麦面 / 荞麦面条 / 冷荞麦面 / 热荞麦面 / 蘸汁荞麦面 / 日式冷荞麦面 / 面食 / 日式料理 / 荞麦 / 蕎麦 / そば"
+    },
+    {
+      "en": "instant soba",
+      "zh": "速食荞麦面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 424,
+      "desc": "干燥块状的速食荞麦面",
+      "kw": "方便荞麦面 / 即食荞麦面 / 泡面荞麦面 / 即席荞麦面 / 快餐荞麦面 / 方便荞麦 / 即食荞麦 / 食物 / インスタントそば / インスタント蕎麦 / 即席そば / 即席蕎麦"
+    },
+    {
+      "en": "yakisoba",
+      "zh": "日式炒面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 978,
+      "desc": "源自中式炒面的日式炒荞麦面",
+      "kw": "炒面 / 日式炒荞麦面 / 酱炒面 / 铁板炒面 / 食物 / 日式小吃 / 焼きそば / 焼き蕎麦 / 焼そば / やきそば"
+    },
+    {
+      "en": "italian (niigata)",
+      "zh": "新潟风意面炒面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "yakisobapan",
+      "zh": "炒面面包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 344,
+      "desc": "夹着酱汁炒面的热狗面包",
+      "kw": "日式炒面面包 / 酱汁炒面面包 / 炒面热狗面包 / 日式炒面热狗 / 日本风 / 街头小吃 / 食物 / 焼きそばパン"
+    },
+    {
+      "en": "soumen",
+      "zh": "素面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 135,
+      "desc": "日本细面，夏季常冷食。",
+      "kw": "索面 / 日本素面 / 日式细面 / 面条 / 日本料理"
+    },
+    {
+      "en": "udon",
+      "zh": "乌冬面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 970,
+      "desc": "粗的日式小麦面条",
+      "kw": "乌冬 / 乌龙面 / 日式乌冬 / 乌冬面条 / 乌冬汤面 / 乌冬面线 / 日本料理 / 面食 / 饂飩 / うどん"
+    },
+    {
+      "en": "instant udon",
+      "zh": "速食乌冬面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 389,
+      "desc": "干燥块状的速食乌冬面。",
+      "kw": "方便乌冬面 / 即食乌冬 / 方便乌冬 / 泡面乌冬 / 乌冬方便面 / 冲泡乌冬面 / 速食乌冬 / 即席饂饨 / インスタントうどん / インスタント饂飩 / 即席うどん"
+    },
+    {
+      "en": "kitsune udon",
+      "zh": "狐狸乌冬面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 209,
+      "desc": "放有油炸豆腐的乌冬面。",
+      "kw": "狐狸乌冬 / 油豆腐乌冬 / 油炸豆腐乌冬面 / 狐乌冬面 / 狐乌冬 / 乌冬面 / 日本料理 / きつねうどん"
+    },
+    {
+      "en": "rice",
+      "zh": "米饭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12521,
+      "desc": "作为食物的大米或米饭",
+      "kw": "大米 / 白饭 / 白米饭 / 饭 / 食物 / 主食 / gohan / 米 / ご飯 / 御飯"
+    },
+    {
+      "en": "curry rice",
+      "zh": "咖喱饭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2320,
+      "desc": "白饭上浇日式咖喱的料理",
+      "kw": "日式咖喱饭 / 咖喱米饭 / 咖喱盖饭 / 咖喱饭（日式） / 日本料理 / 食物 / カレーライス"
+    },
+    {
+      "en": "fried rice",
+      "zh": "炒饭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1222,
+      "desc": "在锅里翻炒的米饭料理",
+      "kw": "炒米饭 / 食物 / 中餐 / 炒飯 / チャーハン / 焼き飯 / 焼きめし"
+    },
+    {
+      "en": "jumeok-bap",
+      "zh": "韩式拳头饭团",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "kiritanpo (food)",
+      "zh": "烤米棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 491,
+      "desc": "日本秋田的米制烤串",
+      "kw": "米棒 / 切蒲英 / 日式烤米棒 / 捣米棒 / 烤饭棒 / 秋田米棒 / 食物 / 日式料理 / きりたんぽ"
+    },
+    {
+      "en": "rice porridge",
+      "zh": "粥",
+      "rating": "g",
+      "nsfw": false,
+      "count": 82,
+      "desc": "把米煮到失去形状的粥，又称稀饭",
+      "kw": "米粥 / 白粥 / 大米粥 / 稀粥 / 米汤"
+    },
+    {
+      "en": "risotto",
+      "zh": "意大利炖饭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "sticky rice",
+      "zh": "糯米",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12
+    },
+    {
+      "en": "scone",
+      "zh": "司康饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 390,
+      "desc": "用面粉、油脂和牛奶制成的小块微甜糕点",
+      "kw": "司康 / 英式松饼 / 英式司康 / 英国司康 / 司康面包 / 食物 / 糕点 / スコーン"
+    },
+    {
+      "en": "shumai (food)",
+      "zh": "烧卖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 119,
+      "desc": "粤式开口蒸饺烧卖",
+      "kw": "烧麦 / 烧卖点心 / shumai / siu mai / 焼売"
+    },
+    {
+      "en": "steamed bun",
+      "zh": "包子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6691,
+      "desc": "蒸制的带馅面食，如肉包、豆沙包等。",
+      "kw": "蒸包 / 带馅蒸包 / 蒸制包子 / 中式包子 / 食物 / 肉包 / meatbun / meat bun / porkbun / pork bun"
+    },
+    {
+      "en": "butter",
+      "zh": "黄油",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2224,
+      "desc": "由牛奶或奶油搅打制成的乳制品",
+      "kw": "牛油 / 白脱 / 乳脂 / 黄油块 / 食物 / 乳制品 / バター"
+    },
+    {
+      "en": "cheese",
+      "zh": "奶酪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6862,
+      "desc": "牛奶等制成的乳制品",
+      "kw": "芝士 / 起司 / 乳酪 / 干酪 / 起士 / 食物 / チーズ"
+    },
+    {
+      "en": "blue cheese",
+      "zh": "蓝纹奶酪",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cheesestick",
+      "zh": "奶酪棒",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cheese wheel",
+      "zh": "奶酪轮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 142,
+      "desc": "一整个车轮状奶酪",
+      "kw": "车轮奶酪 / 整轮奶酪 / 奶酪圆盘 / 芝士轮 / 圆形奶酪 / 奶酪 / 食物 / 乳制品"
+    },
+    {
+      "en": "cream cheese",
+      "zh": "奶油奶酪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33
+    },
+    {
+      "en": "parmesan cheese",
+      "zh": "帕尔马干酪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29
+    },
+    {
+      "en": "sliced cheese",
+      "zh": "芝士片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 209,
+      "desc": "切成方片或圆片的奶酪",
+      "kw": "奶酪片 / 切片芝士 / 起司片 / 食物 / 奶酪"
+    },
+    {
+      "en": "smoked cheese",
+      "zh": "烟熏奶酪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55,
+      "desc": "经烟熏处理的奶酪",
+      "kw": "烟熏芝士 / 烟熏乳酪 / 熏制奶酪 / 烟熏干酪"
+    },
+    {
+      "en": "swiss cheese",
+      "zh": "瑞士奶酪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 262,
+      "desc": "带许多孔洞的瑞士产奶酪",
+      "kw": "瑞士乳酪 / 埃门塔尔奶酪 / 埃曼塔奶酪 / 多孔奶酪 / 大孔奶酪 / 瑞士硬奶酪 / 食物"
+    },
+    {
+      "en": "cream",
+      "zh": "奶油",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6509,
+      "desc": "从牛奶中提取的乳脂奶油",
+      "kw": "鲜奶油 / 忌廉 / 乳脂 / 奶油脂 / 甜点 / 食物 / クリーム"
+    },
+    {
+      "en": "whipped cream",
+      "zh": "搅打奶油",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4892,
+      "desc": "打发后蓬松的奶油，常用于装饰甜点",
+      "kw": "鲜奶油 / 掼奶油 / 打发奶油 / 奶油泡沫 / 喷射奶油 / 淡奶油 / 奶油 / 甜点材料 / ホイップクリーム"
+    },
+    {
+      "en": "eggnog",
+      "zh": "蛋奶酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "kefir",
+      "zh": "开菲尔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 52,
+      "desc": "高加索地区发酵乳饮品开菲尔。",
+      "kw": "开菲尔酸奶 / 克菲尔 / 开菲尔奶 / 高加索酸奶"
+    },
+    {
+      "en": "condensed milk",
+      "zh": "炼乳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 115,
+      "desc": "除去水分并加糖浓缩的乳制品。",
+      "kw": "炼奶 / 加糖炼乳 / 浓缩牛奶 / 乳制品 / 食物 / 练乳"
+    },
+    {
+      "en": "chocolate milk",
+      "zh": "巧克力牛奶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 180,
+      "desc": "加了可可的巧克力牛奶。",
+      "kw": "巧克力奶 / 朱古力牛奶 / 朱古力奶 / 可可奶 / 巧克力牛乳 / 饮料 / 饮品"
+    },
+    {
+      "en": "milkshake",
+      "zh": "奶昔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 900,
+      "desc": "把牛奶、冰淇淋等搅拌混合而成的奶昔",
+      "kw": "奶昔饮料 / 奶昔饮品 / 饮料 / 饮品 / ミルクセーキ"
+    },
+    {
+      "en": "strawberry milk",
+      "zh": "草莓牛奶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 453,
+      "desc": "加入草莓调味而呈粉红色的牛奶",
+      "kw": "草莓奶 / 草莓味牛奶 / 草莓乳饮料 / 草莓鲜奶 / 饮料 / 饮品"
+    },
+    {
+      "en": "yakult",
+      "zh": "养乐多",
+      "rating": "g",
+      "nsfw": false,
+      "count": 189,
+      "desc": "日本品牌的乳酸菌饮料",
+      "kw": "益力多 / 养乐多饮料 / 养乐多乳酸菌饮料 / 饮料 / 益生菌饮品"
+    },
+    {
+      "en": "yogurt",
+      "zh": "酸奶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 319,
+      "desc": "由牛奶发酵制成的乳制品",
+      "kw": "优格 / 酸乳 / 发酵乳 / 酸牛奶 / 老酸奶 / 乳制品 / 食物 / yoghurt / ヨーグルト / 요구르트"
+    },
+    {
+      "en": "sweets",
+      "zh": "甜食",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4539,
+      "desc": "富含糖分的食品，如糖果、蛋糕等。",
+      "kw": "甜品 / 甜点 / 糖果 / 糕点 / 洋菓子 / 菓子 / 甘味 / 甜味食品 / 甜的 / スイーツ / お菓子"
+    },
+    {
+      "en": "snack",
+      "zh": "零食",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1946,
+      "desc": "正餐之间吃的少量零食。",
+      "kw": "小吃 / 零嘴 / 点心 / 茶点 / 小食 / 休闲食品 / 零嘴儿 / 食物 / snacks / スナック"
+    },
+    {
+      "en": "dessert",
+      "zh": "甜点",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5355,
+      "desc": "餐后食用的甜点",
+      "kw": "点心 / 甜品 / 甜食 / 糕点 / 餐后甜点 / 甜点心 / 食物 / デザート / お菓子"
+    },
+    {
+      "en": "anmitsu (dessert)",
+      "zh": "馅蜜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 149,
+      "desc": "日式甜点，含寒天、红豆、水果和黑糖蜜",
+      "kw": "日式馅蜜 / 红豆蜜冻 / 寒天水果蜜 / 水果蜜豆 / 日式甜点馅蜜 / 甜点 / 和菓子"
+    },
+    {
+      "en": "mitsumame",
+      "zh": "蜜豆寒天",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "anman",
+      "zh": "豆沙包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34
+    },
+    {
+      "en": "longevity peach bun",
+      "zh": "寿桃包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 86,
+      "desc": "寿桃形状、生日食用的蒸包",
+      "kw": "寿桃 / 寿桃馒头 / 生日寿桃 / 寿桃面包"
+    },
+    {
+      "en": "momiji manjuu",
+      "zh": "红叶馒头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39
+    },
+    {
+      "en": "usagi manjuu",
+      "zh": "兔馒头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "batter",
+      "zh": "面糊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 366,
+      "desc": "烹饪用的面糊，如蛋糕糊",
+      "kw": "面浆 / 蛋糊 / 蛋糕糊 / 煎饼糊 / 炸粉糊 / 裹粉 / 击球手 / 棒球"
+    },
+    {
+      "en": "anpan",
+      "zh": "红豆面包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 327,
+      "desc": "包红豆沙的日式甜面包",
+      "kw": "豆沙面包 / 日式红豆面包 / 日式豆沙面包 / 红小豆面包 / 日本甜面包 / 日式点心 / 食物 / あんパン"
+    },
+    {
+      "en": "cinnamon roll",
+      "zh": "肉桂卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 248,
+      "desc": "卷成卷状并涂糖霜的肉桂卷",
+      "kw": "肉桂面包卷 / 肉桂卷饼 / 肉桂卷甜点 / 肉桂卷面包 / 肉桂卷心 / 肉桂卷儿 / 玉桂卷 / 肉桂卷面包卷 / cinnamon bun"
+    },
+    {
+      "en": "hot cross bun",
+      "zh": "十字面包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12
+    },
+    {
+      "en": "melon bread",
+      "zh": "蜜瓜包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1540,
+      "desc": "日式甜面包，表面脆皮，外形似蜜瓜",
+      "kw": "菠萝包 / 蜜瓜面包 / 日式菠萝包 / 脆皮蜜瓜包 / 面包 / 食物 / 日式 / melonpan / meronpan / メロンパン"
+    },
+    {
+      "en": "noppo bread",
+      "zh": "Noppo面包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35
+    },
+    {
+      "en": "brownie (food)",
+      "zh": "布朗尼（食物）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 113,
+      "desc": "含有坚果的方形巧克力蛋糕。",
+      "kw": "巧克力布朗尼 / 布朗尼蛋糕 / 巧克力方块蛋糕 / 巧克力甜点 / 方形蛋糕 / 坚果糕点 / chocolate brownie"
+    },
+    {
+      "en": "cosmic brownies",
+      "zh": "宇宙布朗尼蛋糕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "angel food cake",
+      "zh": "天使蛋糕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "baumkuchen",
+      "zh": "年轮蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 200,
+      "desc": "层层烤制、切面如年轮的德国年轮蛋糕",
+      "kw": "树轮蛋糕 / 年轮饼 / 德国年轮蛋糕 / 巴姆库亨 / 年轮蛋糕卷 / 食物 / 甜点 / 烘焙 / バームクーヘン / バウムクーヘン"
+    },
+    {
+      "en": "birthday cake",
+      "zh": "生日蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7531,
+      "desc": "写有祝福语、常插蜡烛的生日蛋糕",
+      "kw": "庆生蛋糕 / 诞辰蛋糕 / 生日糕 / 蛋糕 / 甜点 / バースデーケーキ"
+    },
+    {
+      "en": "black forest cake",
+      "zh": "黑森林蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50,
+      "desc": "德式黑森林蛋糕",
+      "kw": "黑森林 / 黑森林樱桃蛋糕 / 德国黑森林蛋糕 / 黑森林樱桃奶油蛋糕"
+    },
+    {
+      "en": "bundt cake",
+      "zh": "花环蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "cake batter",
+      "zh": "蛋糕糊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33
+    },
+    {
+      "en": "cake pop",
+      "zh": "蛋糕棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49
+    },
+    {
+      "en": "carrot cake",
+      "zh": "胡萝卜蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 93,
+      "desc": "面糊中混入胡萝卜的蛋糕",
+      "kw": "红萝卜蛋糕 / 胡萝蛋糕 / 萝卜蛋糕 / 胡萝卜糕"
+    },
+    {
+      "en": "castella (food)",
+      "zh": "长崎蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 119,
+      "desc": "源自葡萄牙的日式长崎蛋糕，口感湿润绵密。",
+      "kw": "卡斯特拉蛋糕 / 卡斯提拉蛋糕 / 卡斯特拉 / 卡斯提拉 / 长崎蜂蜜蛋糕 / 日式蜂蜜蛋糕 / 卡斯蒂拉蛋糕 / 长崎卡斯特拉"
+    },
+    {
+      "en": "charlotte cake",
+      "zh": "夏洛特蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "cheesecake",
+      "zh": "芝士蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 707,
+      "desc": "以奶油芝士为原料的蛋糕。",
+      "kw": "乳酪蛋糕 / 奶酪蛋糕 / 起司蛋糕 / 甜点 / 食物 / チーズケーキ"
+    },
+    {
+      "en": "rare cheesecake",
+      "zh": "免烤芝士蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "chocolate cake",
+      "zh": "巧克力蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1877,
+      "desc": "用巧克力制作的蛋糕",
+      "kw": "朱古力蛋糕 / 巧克力味蛋糕 / 可可蛋糕 / 巧克力糕 / 甜点 / 食物 / チョコレートケーキ"
+    },
+    {
+      "en": "chocolate framboise",
+      "zh": "覆盆子巧克力蛋糕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chiffon cake",
+      "zh": "雪纺蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50,
+      "desc": "轻盈的戚风蛋糕",
+      "kw": "戚风 / 威风蛋糕 / 戚風蛋糕"
+    },
+    {
+      "en": "cherry blossom chiffon cake",
+      "zh": "樱花戚风蛋糕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "christmas cake",
+      "zh": "圣诞蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 261,
+      "desc": "圣诞节食用的装饰蛋糕",
+      "kw": "圣诞节的蛋糕 / 圣诞节蛋糕 / 圣诞糕点 / 圣诞甜点 / 甜点 / 节日食物 / クリスマスケーキ"
+    },
+    {
+      "en": "crepe cake",
+      "zh": "千层蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30
+    },
+    {
+      "en": "cupcake",
+      "zh": "杯子蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7324,
+      "desc": "纸杯烘烤的小蛋糕，常带裱花",
+      "kw": "杯蛋糕 / 纸杯小蛋糕 / 杯形蛋糕 / 蛋糕 / 甜点 / 食物 / cupcakes / カップケーキ"
+    },
+    {
+      "en": "fondant au chocolat",
+      "zh": "熔岩巧克力蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36
+    },
+    {
+      "en": "fruitcake",
+      "zh": "水果蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35
+    },
+    {
+      "en": "funfetti cake",
+      "zh": "彩虹糖粒蛋糕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "heart-shaped cake",
+      "zh": "心形蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 237,
+      "desc": "做成心形的蛋糕",
+      "kw": "爱心蛋糕 / 心型蛋糕 / 爱心形状蛋糕 / 红心蛋糕 / 心形糕点 / 蛋糕 / 甜点 / 食物"
+    },
+    {
+      "en": "ice cream cake",
+      "zh": "冰淇淋蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "jar cake",
+      "zh": "罐子蛋糕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lava cake",
+      "zh": "熔岩蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27
+    },
+    {
+      "en": "layer cake",
+      "zh": "夹层蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 361,
+      "desc": "多层蛋糕胚夹奶油叠成的蛋糕。",
+      "kw": "多层蛋糕 / 层蛋糕 / 叠层蛋糕 / 分层蛋糕 / 层叠蛋糕 / 蛋糕 / 甜点 / layered cake / レヤーケーキ"
+    },
+    {
+      "en": "lemon cake",
+      "zh": "柠檬蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33
+    },
+    {
+      "en": "madeleine",
+      "zh": "玛德莲蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 63,
+      "desc": "贝壳形状的法国小蛋糕",
+      "kw": "玛德琳蛋糕 / 贝壳蛋糕 / 法式玛德琳 / 玛德莲 / 玛德琳小蛋糕 / 贝壳小蛋糕"
+    },
+    {
+      "en": "marble cake (food)",
+      "zh": "大理石纹蛋糕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "mille-feuille",
+      "zh": "拿破仑酥",
+      "rating": "g",
+      "nsfw": false,
+      "count": 76,
+      "desc": "三层酥皮夹两层奶油，表面撒糖粉的法式甜点。",
+      "kw": "拿破仑千层酥 / 法式千层酥 / 千层酥 / 法式拿破仑 / 香草千层酥 / 奶油千层酥"
+    },
+    {
+      "en": "mont blanc (food)",
+      "zh": "蒙布朗（食物）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 496,
+      "desc": "以栗子泥和奶油制成的甜点",
+      "kw": "蒙布朗蛋糕 / 蒙布朗甜点 / 栗子蒙布朗 / 法式栗子蛋糕 / 栗子泥蛋糕 / 蒙布朗 (食物) / 甜点 / 蛋糕 / モンブラン"
+    },
+    {
+      "en": "opera cake",
+      "zh": "歌剧院蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "pancake",
+      "zh": "松饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7358,
+      "desc": "平底锅煎制成的甜味薄饼",
+      "kw": "薄煎饼 / 煎饼 / 烤饼 / 美式煎饼 / 日式煎饼 / 班戟 / 热香饼 / 薄烤饼 / pancakes / ホットケーキ / パンケーキ"
+    },
+    {
+      "en": "pancake stack",
+      "zh": "叠叠松饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2986,
+      "desc": "叠成小塔状的一摞煎饼",
+      "kw": "松饼塔 / 煎饼塔 / 叠煎饼 / 一摞煎饼 / 煎饼叠 / 松饼堆 / 一叠薄烤饼 / 食物 / stack of pancakes"
+    },
+    {
+      "en": "souffle pancake",
+      "zh": "舒芙蕾松饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 441,
+      "desc": "打发蛋白制成的厚而蓬松的日式松饼。",
+      "kw": "舒芙蕾厚松饼 / 日式舒芙蕾松饼 / 舒芙蕾煎饼 / 日式厚松饼 / 厚松饼 / 食物 / 甜点 / 松饼 / japanese pancake / スフレパンケーキ"
+    },
+    {
+      "en": "pound cake",
+      "zh": "磅蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57,
+      "desc": "等量黄油鸡蛋面粉糖烤成的磅蛋糕",
+      "kw": "磅饼 / 重奶油蛋糕 / 四分之一蛋糕 / 黄油磅蛋糕 / 等量磅蛋糕 / 重黄油蛋糕"
+    },
+    {
+      "en": "rainbow cake",
+      "zh": "彩虹蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36
+    },
+    {
+      "en": "red velvet cake",
+      "zh": "红丝绒蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43
+    },
+    {
+      "en": "shortcake",
+      "zh": "短蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 198,
+      "desc": "以饼干面团制成、常配水果和奶油的小蛋糕",
+      "kw": "水果酥饼 / 奶油酥饼 / 鲜果酥饼 / 草莓酥饼 / 蛋糕坯酥饼 / 草莓蛋糕 / 甜点 / 食物"
+    },
+    {
+      "en": "sponge cake",
+      "zh": "海绵蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69,
+      "desc": "组织松软有弹性的海绵状蛋糕。",
+      "kw": "海绵糕 / 松软蛋糕 / 鸡蛋糕"
+    },
+    {
+      "en": "stollen",
+      "zh": "史多伦面包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 51,
+      "desc": "德国圣诞节的果干面包史多伦",
+      "kw": "史多伦 / 斯托伦 / 德国圣诞面包 / 德式圣诞蛋糕 / 圣诞史多伦 / 水果面包 / 史多伦蛋糕"
+    },
+    {
+      "en": "strawberry cake",
+      "zh": "草莓蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1755,
+      "desc": "以草莓为主要材料的蛋糕",
+      "kw": "草莓奶油蛋糕 / 鲜草莓蛋糕 / 草莓鲜奶蛋糕 / 草莓糕点 / 甜点 / 食物 / 蛋糕 / イチゴのケーキ"
+    },
+    {
+      "en": "strawberry shortcake",
+      "zh": "草莓奶油蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4999,
+      "desc": "夹奶油和草莓的多层海绵蛋糕",
+      "kw": "草莓蛋糕 / 草莓鲜奶蛋糕 / 草莓海绵蛋糕 / 草莓奶油夹心蛋糕 / 草莓奶油海绵蛋糕 / 鲜奶油草莓蛋糕 / 甜点 / 蛋糕 / ショートケーキ / いちごショートケーキ / ストロベリーショートケーキ"
+    },
+    {
+      "en": "sweet potato cake",
+      "zh": "红薯蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "swiss roll",
+      "zh": "瑞士卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2072,
+      "desc": "把烤好的薄面糊卷起并夹入奶油制成的蛋糕卷",
+      "kw": "瑞士蛋糕卷 / 卷蛋糕 / 奶油卷 / 蛋糕卷 / 卷心蛋糕 / 甜点 / roll cake / ロールケーキ / スイスロール"
+    },
+    {
+      "en": "strawberry swiss roll",
+      "zh": "草莓瑞士卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "tiramisu",
+      "zh": "提拉米苏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 178,
+      "desc": "用咖啡浸泡手指饼与奶酪层叠的意大利甜点",
+      "kw": "提拉米苏蛋糕 / 提拉米苏甜点 / 意式咖啡奶酪甜点 / 堤拉米苏 / 意大利提拉米苏 / 咖啡提拉米苏 / 提拉米苏甜品 / 提拉米苏点心"
+    },
+    {
+      "en": "upside-down cake",
+      "zh": "翻转蛋糕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wedding cake",
+      "zh": "婚礼蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 174,
+      "desc": "婚礼上常为多层的庆祝蛋糕。",
+      "kw": "结婚蛋糕 / 婚庆蛋糕 / 多层婚礼蛋糕 / 蛋糕 / 甜点"
+    },
+    {
+      "en": "yule log (cake)",
+      "zh": "树干蛋糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 142,
+      "desc": "圣诞节食用的树桩形巧克力蛋糕卷",
+      "kw": "树根蛋糕 / 圣诞树干蛋糕 / 木柴蛋糕 / 柴薪蛋糕 / 树干蛋糕卷 / 法国圣诞蛋糕 / 蛋糕 / buche de noel"
+    },
+    {
+      "en": "candy cane",
+      "zh": "拐杖糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5635,
+      "desc": "拐杖形的条纹硬糖。",
+      "kw": "糖果拐杖 / 手杖糖 / 拐杖糖果 / 糖果棒 / 圣诞糖 / 节日糖果 / 糖果 / キャンディーケイン"
+    },
+    {
+      "en": "chitose ame",
+      "zh": "千岁饴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24
+    },
+    {
+      "en": "candy cigarette",
+      "zh": "香烟糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 178,
+      "desc": "香烟形状的糖果",
+      "kw": "烟糖 / 烟仔糖 / 香烟形状糖果 / 烟型糖果 / 香烟棒糖 / 香烟巧克力 / 巧克力香烟糖 / 烟糖棒 / chocolate cigarette"
+    },
+    {
+      "en": "creme egg",
+      "zh": "吉百利奶油彩蛋",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chewing gum",
+      "zh": "口香糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8567,
+      "desc": "用来咀嚼或吹泡泡的口香糖",
+      "kw": "泡泡糖 / 泡泡口香糖 / 吹泡泡糖 / 胶姆糖 / 嚼口香糖 / bubble gum / bubblegum / gum / 風船ガム"
+    },
+    {
+      "en": "gumball",
+      "zh": "泡泡糖球",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "球形口香糖，常见于口香糖机",
+      "kw": "口香糖珠 / 球形口香糖 / 糖球口香糖 / 泡泡糖珠 / gumballs"
+    },
+    {
+      "en": "fruit sandwich",
+      "zh": "水果三明治",
+      "rating": "g",
+      "nsfw": false,
+      "count": 202,
+      "desc": "夹水果和鲜奶油的三明治。",
+      "kw": "奶油水果三明治 / 鲜果三明治 / 水果鲜奶油三明治 / 果物三明治 / 水果夹心三明治 / 食物"
+    },
+    {
+      "en": "jelly bean",
+      "zh": "吉利豆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 553,
+      "desc": "豆形的小糖果，有各种颜色和口味",
+      "kw": "软糖豆 / 糖豆 / 彩色豆 / 杰利豆 / 糖果 / 食物 / 零食 / jelly beans / jellybeans / jellybean / ジェリービーンズ"
+    },
+    {
+      "en": "kitkat",
+      "zh": "奇巧巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 173,
+      "desc": "雀巢出品的巧克力威化奇巧",
+      "kw": "奇巧 / 奇巧威化 / 雀巢奇巧 / 奇巧巧克力威化 / 巧克力 / 零食"
+    },
+    {
+      "en": "konpeitou",
+      "zh": "金平糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 599,
+      "desc": "表面带多个凸起的日式星星状糖果",
+      "kw": "日本金平糖 / 日式星星糖 / 星星糖 / 金米糖 / 凸起糖 / 日式凸起糖 / 星星糖果 / 日本点心 / konpeito / こんぺいとう"
+    },
+    {
+      "en": "lollipop",
+      "zh": "棒棒糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41239,
+      "desc": "插在棍子上的硬糖。",
+      "kw": "棒糖 / 波板糖 / 糖果棒 / 食物 / 糖果 / lolipop / lollipops / 棒饴 / 棒飴"
+    },
+    {
+      "en": "chupa chups",
+      "zh": "珍宝珠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 647,
+      "desc": "西班牙品牌珍宝珠棒棒糖",
+      "kw": "珍宝珠棒棒糖 / 加倍佳 / 加倍佳棒棒糖 / 西班牙珍宝珠 / 珍宝珠糖 / 恰啪斯棒棒糖 / 棒棒糖 / 糖果 / チュッパチャップス / チュッパチャプス"
+    },
+    {
+      "en": "shaped lollipop",
+      "zh": "造型棒棒糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 886,
+      "desc": "被塑成心形等特定形状的棒棒糖",
+      "kw": "形状棒棒糖 / 心形棒棒糖 / 异形棒棒糖 / 花式棒棒糖 / 特定形状棒棒糖 / 棒棒糖 / 糖果 / 食品"
+    },
+    {
+      "en": "swirl lollipop",
+      "zh": "螺旋棒棒糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4999,
+      "desc": "扁圆形带螺旋花纹的棒棒糖",
+      "kw": "螺旋纹棒棒糖 / 旋纹棒棒糖 / 彩色螺旋棒棒糖 / 漩涡纹棒棒糖 / 棒棒糖 / 糖果"
+    },
+    {
+      "en": "m&m's",
+      "zh": "M&M's",
+      "rating": "g",
+      "nsfw": false,
+      "count": 101,
+      "desc": "玛氏公司旗下的巧克力豆品牌，以彩色糖衣与字母印字为特色",
+      "kw": "M&M巧克力豆 / M豆 / MM豆 / 公司 / 品牌 / 食物 / 巧克力豆 / 糖果 / m&m"
+    },
+    {
+      "en": "marble chocolate",
+      "zh": "明治大理石巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "nerunerunerune",
+      "zh": "魔幻跳跳糖/好立克知育菓子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 86,
+      "desc": "加水揉捏后可拉丝的粉末状DIY糖果",
+      "kw": "捏捏糖 / 揉揉乐糖果 / DIY拉丝糖 / 魔法捏捏糖 / 日本捏捏糖 / 神奇捏捏乐"
+    },
+    {
+      "en": "pinata",
+      "zh": "皮纳塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 61,
+      "desc": "装满糖果玩具、供人蒙眼击破的纸糊容器",
+      "kw": "彩罐 / 糖果彩罐 / 派对彩罐 / 纸糊彩罐 / 彩色纸罐 / 砸糖果罐 / 棍打彩罐"
+    },
+    {
+      "en": "tootsweets",
+      "zh": "糖果哨",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cannoli",
+      "zh": "意式奶油甜馅煎饼卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "caramel",
+      "zh": "焦糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 190,
+      "desc": "糖加热熬煮制成的焦糖，常用于甜点或酱料。",
+      "kw": "焦糖酱 / 焦糖色 / 卡拉梅尔 / 奶油焦糖 / 焦糖块 / 焦糖糖果 / 颜色 / 棕色调"
+    },
+    {
+      "en": "apollo chocolate",
+      "zh": "阿波罗巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 134,
+      "desc": "明治出品的伞状巧克力，上下不同口味。",
+      "kw": "明治阿波罗巧克力 / 巧克力 / 食物 / 糖果"
+    },
+    {
+      "en": "chocolate almond",
+      "zh": "杏仁巧克力",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chocolate bar",
+      "zh": "巧克力板",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3395,
+      "desc": "可分掰成小块的平板状巧克力，不是巧克力棒",
+      "kw": "板状巧克力 / 巧克力排 / 巧克力块 / 块状巧克力 / 巧克力排块 / 排块巧克力 / 巧克力棒 / 食物 / 板チョコ"
+    },
+    {
+      "en": "chocolate chip",
+      "zh": "巧克力豆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69,
+      "desc": "用于烘焙的小块巧克力豆",
+      "kw": "巧克力碎 / 巧克力粒 / 巧克力片 / 烘焙巧克力 / 巧克力豆豆 / 巧克力块 / chocolate"
+    },
+    {
+      "en": "chocolate coin",
+      "zh": "金币巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "chocolate curls",
+      "zh": "巧克力卷屑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chocolate egg",
+      "zh": "巧克力蛋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23
+    },
+    {
+      "en": "chocolate fondue",
+      "zh": "巧克力火锅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18
+    },
+    {
+      "en": "chocolate fountain",
+      "zh": "巧克力喷泉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 132,
+      "desc": "供蘸取巧克力的喷泉装置",
+      "kw": "巧克力瀑布 / 巧克力泉 / 巧克力喷泉机 / 巧克力火锅喷泉 / 喷泉 / 食物"
+    },
+    {
+      "en": "chocolate icing",
+      "zh": "巧克力糖霜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 174,
+      "desc": "蛋糕或甜点上的巧克力味糖霜或糖衣。",
+      "kw": "巧克力糖衣 / 巧克力糖浆淋面 / 巧克力淋面 / 巧克力涂层 / 巧克力浇酱 / 巧克力奶油糖霜 / 糖霜 / 食物"
+    },
+    {
+      "en": "chocolate marquise",
+      "zh": "侯爵夫人巧克力慕斯",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chocolate rabbit",
+      "zh": "巧克力兔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15
+    },
+    {
+      "en": "chocolate syrup",
+      "zh": "巧克力糖浆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 999,
+      "desc": "稀薄可淋的巧克力酱",
+      "kw": "朱古力酱 / 朱古力糖浆 / 巧克力淋酱 / 酱料 / 食物"
+    },
+    {
+      "en": "chocolate truffle",
+      "zh": "松露巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55,
+      "desc": "用甘纳许制成球形的巧克力",
+      "kw": "巧克力松露 / 松露形巧克力 / 巧克力球 / 甘纳许巧克力球 / 高级巧克力球 / 松露巧克力球"
+    },
+    {
+      "en": "dark chocolate",
+      "zh": "黑巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "heart-shaped chocolate",
+      "zh": "心形巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9412,
+      "desc": "心形巧克力，常见于情人节",
+      "kw": "心型巧克力 / 爱心巧克力 / 心形朱古力 / 心状巧克力 / 心形巧克力糖 / 食物 / 甜食 / chocolate heart"
+    },
+    {
+      "en": "kinoko no yama",
+      "zh": "蘑菇山（明治）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 203,
+      "desc": "明治出品的蘑菇形状巧克力饼干",
+      "kw": "蘑菇山巧克力 / 明治蘑菇山 / 蘑菇山饼干 / 蘑菇巧克力饼干 / 菌菇山 / 蘑菇之山 / 零食 / 巧克力 / きのこの山"
+    },
+    {
+      "en": "morinaga chocoball",
+      "zh": "森永巧克力球",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "strawberry chocolate",
+      "zh": "草莓巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "takenoko no sato",
+      "zh": "竹笋里",
+      "rating": "g",
+      "nsfw": false,
+      "count": 199,
+      "desc": "明治出品的竹笋形巧克力饼干",
+      "kw": "竹笋之里 / 笋之里 / 明治竹笋乡 / 竹笋巧克力饼干 / 竹笋形状巧克力 / 竹笋里 (零食) / 零食 / たけのこの里 / 蘑古力"
+    },
+    {
+      "en": "white chocolate",
+      "zh": "白巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 377,
+      "desc": "由可可脂、糖、奶粉制成的白巧克力",
+      "kw": "白巧 / 白朱古力 / 白巧克力糖 / 白巧克力块 / 白巧克力酱 / 牛奶白巧克力 / 巧克力 / 甜点 / ホワイトチョコ / ホワイトチョコレート"
+    },
+    {
+      "en": "chocolate bread",
+      "zh": "巧克力面包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18
+    },
+    {
+      "en": "choco pie",
+      "zh": "巧克力派",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "churro",
+      "zh": "吉拿棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 424,
+      "desc": "西班牙油炸面食，长条形甜点。",
+      "kw": "西班牙油条 / 巧罗丝 / 曲乐丝 / 西班牙炸油条 / 甜油条 / 食物 / 甜点 / チュロス"
+    },
+    {
+      "en": "checkerboard cookie",
+      "zh": "棋格饼干",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2976,
+      "desc": "黑白格纹的巧克力黄油曲奇",
+      "kw": "棋盘饼干 / 格子曲奇 / 格纹曲奇 / 黑白格曲奇 / 棋盘格饼干 / 格子饼干 / 饼干 / 甜点"
+    },
+    {
+      "en": "chocolate chip cookie",
+      "zh": "巧克力碎饼干",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1035,
+      "desc": "面团中混入巧克力豆的曲奇",
+      "kw": "巧克力曲奇饼 / 巧克力碎曲奇 / 巧克力豆曲奇 / 朱古力曲奇 / 巧克力饼干 / 美式巧克力豆饼干 / 饼干 / チョコチップクッキー"
+    },
+    {
+      "en": "country ma'am",
+      "zh": "乡村风味曲奇（不二家）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "gingerbread cookie",
+      "zh": "姜饼人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 150,
+      "desc": "用姜和糖蜜烤成的饼干",
+      "kw": "姜饼 / 姜味饼干 / 姜汁饼干 / 姜饼曲奇 / 饼干 / 食物 / 圣诞"
+    },
+    {
+      "en": "gingerbread house",
+      "zh": "姜饼屋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 181,
+      "desc": "用姜饼和糖霜搭成的房子",
+      "kw": "姜饼房子 / 糖霜姜饼屋 / 姜饼小屋 / 姜饼做的房子 / 姜饼屋子 / 姜饼造型屋 / 建筑 / 甜点"
+    },
+    {
+      "en": "gingerbread man",
+      "zh": "姜饼人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1364,
+      "desc": "切成人形的姜饼人饼干",
+      "kw": "姜饼小人 / 人形姜饼 / 姜饼人偶 / 姜饼人形饼干 / 姜糖饼人 / 姜饼人饼干 / 饼干 / 圣诞"
+    },
+    {
+      "en": "pocky",
+      "zh": "百奇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21173,
+      "desc": "日本格力高细长巧克力涂层饼干棒",
+      "kw": "巧克力棒 / 细长巧克力棒 / 巧克力涂层饼干 / 百奇饼干棒 / 百奇棒 / 巧克力饼干棒 / 细巧克力棒 / pepero / ポッキー / 빼빼로"
+    },
+    {
+      "en": "sandwich cookie",
+      "zh": "夹心饼干",
+      "rating": "g",
+      "nsfw": false,
+      "count": 198,
+      "desc": "两片饼干夹果酱或奶油馅的夹心饼干",
+      "kw": "三明治饼干 / 夹心饼 / 奶油夹心饼干 / 果酱夹心饼干 / 夹心曲奇 / 双层夹心饼干 / 甜点 / 饼干"
+    },
+    {
+      "en": "oreo",
+      "zh": "奥利奥",
+      "rating": "g",
+      "nsfw": false,
+      "count": 396,
+      "desc": "两片巧克力饼干夹甜奶油夹心的奥利奥饼干。",
+      "kw": "奥利奥饼干 / 奥利奥夹心饼干 / 奥利奥巧克力饼干 / 奥利奥曲奇 / 奥利奥甜点 / 饼干 / 食品 / 零食 / オレオ"
+    },
+    {
+      "en": "thumbprint cookie",
+      "zh": "指纹饼干",
+      "rating": "g",
+      "nsfw": false,
+      "count": 558,
+      "desc": "中间有凹陷、通常填入果酱的酥饼",
+      "kw": "拇指纹曲奇 / 拇指印曲奇 / 果酱曲奇 / 果酱饼干 / 指印饼干 / 拇指饼干 / 饼干 / jam cookie"
+    },
+    {
+      "en": "toppo",
+      "zh": "Toppo（乐天）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45
+    },
+    {
+      "en": "wafer",
+      "zh": "威化饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 414,
+      "desc": "薄脆的威化饼干，常用于装饰冰淇淋",
+      "kw": "威化饼干 / 薄脆饼 / 威化薄饼 / 夹心威化 / 饼干 / 甜食 / ウエハース / ウェハース"
+    },
+    {
+      "en": "wafer stick",
+      "zh": "威化卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1304,
+      "desc": "卷成筒状的威化饼干，常插在冰淇淋上。",
+      "kw": "威化棒 / 威化蛋卷 / 脆皮威化卷 / 威化饼干棒 / 蛋卷威化 / 冰淇淋威化筒 / 威化卷心酥 / 甜点 / cookie straw"
+    },
+    {
+      "en": "cotton candy",
+      "zh": "棉花糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3050,
+      "desc": "把融糖拉成丝缠成的蓬松棉花糖",
+      "kw": "拉丝棉花糖 / 糖丝棉花糖 / 绵花糖 / 棉花糖球 / 绵花球 / 糖果 / 食物 / candy floss / fairy floss / 绵菓子 / 绵饴"
+    },
+    {
+      "en": "bavarois",
+      "zh": "巴伐利亚奶油布丁",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "icing",
+      "zh": "糖霜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3043,
+      "desc": "涂在糕点表面起装饰作用的糖霜。",
+      "kw": "糖衣 / 糖霜饰 / 糖粉霜 / 蛋白糖霜 / 糖浆涂层 / 糖饰 / 结霜糖 / 炼乳糖霜 / frosting / アイシング"
+    },
+    {
+      "en": "mirror glaze",
+      "zh": "镜面淋面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "crepe",
+      "zh": "可丽饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4336,
+      "desc": "薄煎饼卷起并加水果等馅料的可丽饼",
+      "kw": "法式可丽饼 / 可丽卷 / 薄饼卷 / 可丽饼卷 / 食物 / クレープ"
+    },
+    {
+      "en": "croquembouche",
+      "zh": "泡芙塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "dorayaki",
+      "zh": "铜锣烧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 358,
+      "desc": "夹红豆馅的铜锣烧",
+      "kw": "铜锣饼 / 铜锣夹饼 / 豆沙铜锣烧 / 铜锣蛋糕 / 日本风 / 食物 / どら焼き / どらやき / 銅鑼焼き / ドラ焼き"
+    },
+    {
+      "en": "dough",
+      "zh": "面团",
+      "rating": "g",
+      "nsfw": false,
+      "count": 346,
+      "desc": "面粉加液体揉成的面团。",
+      "kw": "生面团 / 面坯 / 面团子 / 揉好的面 / 面包面团 / 饼坯 / 发面 / 食物 / パン生地"
+    },
+    {
+      "en": "donut",
+      "zh": "甜甜圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17461,
+      "desc": "油炸后涂糖霜的环形甜点",
+      "kw": "多拿滋 / 炸圈饼 / 糖纳子 / 圈饼 / 甜圈 / 食物 / 甜食 / doughnuts / donuts / doughnut"
+    },
+    {
+      "en": "chocolate donut",
+      "zh": "巧克力甜甜圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 469,
+      "desc": "淋巧克力酱或巧克力面团做的甜甜圈",
+      "kw": "巧克力多拿滋 / 朱古力甜甜圈 / 巧克力圈 / 巧克力甜甜圈面包 / 巧味甜甜圈 / 甜点 / 食物 / chocolate doughnut"
+    },
+    {
+      "en": "french cruller",
+      "zh": "法式传统甜甜圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 340,
+      "desc": "表面有螺旋纹路的法式油炸甜甜圈",
+      "kw": "法式糖霜甜甜圈 / 法式油炸圈饼 / 法式奶油圈 / 螺纹甜甜圈 / 法式炸圈 / 法式圈饼 / 法式羊角甜甜圈 / 甜点 / cruller / フレンチクルーラー"
+    },
+    {
+      "en": "sakura french",
+      "zh": "樱花法式甜甜圈",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "glazed donut",
+      "zh": "糖霜甜甜圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 44
+    },
+    {
+      "en": "honey cake donut",
+      "zh": "蜂蜜蛋糕甜甜圈",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "jelly donut (food)",
+      "zh": "果酱甜甜圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17
+    },
+    {
+      "en": "luqaimat",
+      "zh": "阿拉伯炸甜球",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "old-fashioned donut",
+      "zh": "老式甜甜圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 142,
+      "desc": "外皮酥脆带凹槽纹的甜甜圈",
+      "kw": "传统甜甜圈 / 复古甜甜圈 / 老式油炸甜甜圈 / 经典甜甜圈 / 古早味甜甜圈 / 甜点 / 食物 / old-fashioned doughnut"
+    },
+    {
+      "en": "choco fashion",
+      "zh": "巧克力甜甜圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 68,
+      "desc": "Mister Donut的巧克力淋面欧菲香/老式甜甜圈。",
+      "kw": "巧克力老式甜甜圈 / 巧克力时尚甜甜圈 / 巧克力法兰奇 / 巧克力欧菲香甜甜圈 / 巧克力淋面甜甜圈"
+    },
+    {
+      "en": "pon de ring",
+      "zh": "波堤圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 865,
+      "desc": "日本流行的环形波堤甜甜圈",
+      "kw": "波提甜甜圈 / 波提圈 / 日式环形甜甜圈 / 甜甜圈 / 食物 / mochi donut / ポン・デ・リング / ポンデリング"
+    },
+    {
+      "en": "pon de chocolat",
+      "zh": "巧克力波堤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "pon de strawberry",
+      "zh": "草莓波堤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37
+    },
+    {
+      "en": "fudge",
+      "zh": "软糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "gelatin",
+      "zh": "明胶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 789,
+      "desc": "由动物胶原制成的半透明凝固剂",
+      "kw": "吉利丁 / 果冻 / 啫喱 / 凝胶 / 鱼胶 / 动物胶 / 食物 / 甜点 / jello / ジェラチン / ジェリー / ジェリィ"
+    },
+    {
+      "en": "ice cream",
+      "zh": "冰淇淋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37532,
+      "desc": "以乳制品和糖制成的冷冻甜点。",
+      "kw": "冰激凌 / 雪糕 / 霜淇淋 / 软冰淇淋 / 甜筒 / 蛋卷冰淇淋 / 冰淇淋球 / 甜品 / icecream / ice-cream / ice-creams / ice creams"
+    },
+    {
+      "en": "affogato",
+      "zh": "阿芙佳朵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "banana split",
+      "zh": "香蕉船",
+      "rating": "g",
+      "nsfw": false,
+      "count": 54,
+      "desc": "香蕉加冰淇淋等配料的香蕉船甜点",
+      "kw": "香蕉圣代 / 香蕉船甜点 / 香蕉船雪糕"
+    },
+    {
+      "en": "choco monaka jumbo",
+      "zh": "森永巧克力最中冰淇淋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23
+    },
+    {
+      "en": "coolish",
+      "zh": "酷利吸（乐天）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27
+    },
+    {
+      "en": "dondurma (ice cream)",
+      "zh": "土耳其冰淇淋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49
+    },
+    {
+      "en": "gelato",
+      "zh": "意式冰淇淋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36
+    },
+    {
+      "en": "viennetta",
+      "zh": "千层雪冰淇淋蛋糕",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ice cream cone",
+      "zh": "冰淇淋蛋筒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12740,
+      "desc": "可食用的锥形冰淇淋蛋筒",
+      "kw": "冰淇淋筒 / 甜筒 / 蛋筒冰淇淋 / 圆筒冰淇淋 / 雪糕筒 / 脆皮甜筒 / 冰激凌甜筒 / 蛋卷冰淇淋 / ice-cream cone / icecream cone / ice-cream cones / ice cream cones"
+    },
+    {
+      "en": "waffle cone",
+      "zh": "华夫饼甜筒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 468,
+      "desc": "用薄华夫卷成的冰淇淋蛋筒",
+      "kw": "华夫蛋筒 / 华夫冰淇淋筒 / 华夫脆筒 / 蛋筒 / 冰淇淋筒 / 甜点 / 食物 / 华夫饼冰淇淋甜筒"
+    },
+    {
+      "en": "ice cream float",
+      "zh": "冰淇淋苏打",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2166,
+      "desc": "冰淇淋球加汽水的漂浮饮料。",
+      "kw": "冰淇淋汽水 / 雪糕苏打 / 漂浮冰淇淋 / 冰淇淋浮饮 / 饮料 / 甜品 / cream soda (ice cream) / クリームソーダ / ソーダフロート"
+    },
+    {
+      "en": "ice cream sandwich",
+      "zh": "冰淇淋三明治",
+      "rating": "g",
+      "nsfw": false,
+      "count": 111,
+      "desc": "用饼干或威化夹冰淇淋的三明治",
+      "kw": "冰激凌三明治 / 雪糕三明治 / 冰淇淋夹心饼 / 冰淇淋饼干三明治 / 甜点 / 冰激凌夹心 / 食物标签 / 威化冰淇淋"
+    },
+    {
+      "en": "parfait",
+      "zh": "芭菲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7735,
+      "desc": "在芭菲杯中层层叠放冰淇淋与水果的甜点。",
+      "kw": "巴菲 / 帕菲 / 水果冰淇淋杯 / 冰淇淋圣代 / 芭菲杯 / 层层冰淇淋 / 甜品 / 冰激凌 / パフェ / パルフェ / パフェの日"
+    },
+    {
+      "en": "strawberry parfait",
+      "zh": "草莓芭菲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 832,
+      "desc": "以草莓为主的芭菲甜点",
+      "kw": "草莓圣代 / 草莓冻糕 / 草莓冰淇淋芭菲 / 甜点 / 食物"
+    },
+    {
+      "en": "multiple scoops",
+      "zh": "多球冰淇淋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2226,
+      "desc": "蛋筒或碗里有两个以上冰淇淋球。",
+      "kw": "多球甜筒 / 双球冰淇淋 / 三球冰淇淋 / 多球冰激凌 / 多球雪糕 / 多球冰品 / 双球甜筒 / 多个冰淇淋球 / double scoop / triple scoop / quadruple scoop"
+    },
+    {
+      "en": "too many scoops",
+      "zh": "超多球冰淇淋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 299,
+      "desc": "甜筒上冰淇淋球多到不现实（通常超过四个）",
+      "kw": "冰淇淋球过多 / 太多冰淇淋球 / 超多冰淇淋球 / 冰淇淋球堆积 / 甜筒冰淇淋球过多 / 冰淇淋 / 甜品"
+    },
+    {
+      "en": "soft serve",
+      "zh": "软冰淇淋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1561,
+      "desc": "机器挤出、呈螺旋状的软冰淇淋",
+      "kw": "霜淇淋 / 软雪糕 / 软冰激凌 / 螺旋冰淇淋 / 蛋筒冰淇淋 / 甜筒冰淇淋 / 机打冰淇淋 / 软冰淇淋甜筒 / ソフトクリーム"
+    },
+    {
+      "en": "sprinkles",
+      "zh": "糖针",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1944,
+      "desc": "撒在甜品上的彩色小糖粒。",
+      "kw": "糖粒 / 彩糖 / 彩色糖粒 / 糖屑 / 装饰糖粒 / 彩糖粒 / 糖碎"
+    },
+    {
+      "en": "sundae",
+      "zh": "圣代",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2341,
+      "desc": "加有樱桃、糖浆、奶油等配料的冰淇淋甜品",
+      "kw": "冰淇淋圣代 / 水果圣代 / 雪糕圣代 / 冰激凌 / 甜点 / 食物 / サンデー"
+    },
+    {
+      "en": "imagawayaki",
+      "zh": "今川烧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 70,
+      "desc": "在特制模具中烤制、包红豆馅的点心",
+      "kw": "车轮饼 / 红豆饼 / 大判烧 / 日式红豆饼 / 太鼓烧"
+    },
+    {
+      "en": "marshmallow",
+      "zh": "棉花糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1709,
+      "desc": "糖与明胶打成的松软糖果，可烤或加进热可可。",
+      "kw": "软糖 / 果汁软糖 / 蛋白软糖 / 棉花糖球 / 马希马洛糖 / 马什马洛糖 / 食物 / 卷糖 / 绵糖 / ギモーヴ / ギモーブ"
+    },
+    {
+      "en": "meringue",
+      "zh": "蛋白霜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69,
+      "desc": "打发蛋白与糖制成的轻盈甜点。",
+      "kw": "蛋白脆饼 / 蛋白糖霜 / 马林糖 / 蛋白饼 / 蛋霜"
+    },
+    {
+      "en": "mooncake",
+      "zh": "月饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 579,
+      "desc": "中秋节食用的中式糕点月饼",
+      "kw": "中秋月饼 / 广式月饼 / 蛋黄月饼 / 中国风 / 食物 / 糕点 / 月餅"
+    },
+    {
+      "en": "muffin",
+      "zh": "玛芬",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1075,
+      "desc": "一种杯状小蛋糕，常加果干等配料。",
+      "kw": "马芬 / 玛芬蛋糕 / 马芬蛋糕 / 松饼 / 杯状松饼 / 英式马芬 / 玛芬面包 / 食物 / muffins / マッフィン / マフィン"
+    },
+    {
+      "en": "osmanthus cake",
+      "zh": "桂花糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18
+    },
+    {
+      "en": "pastry",
+      "zh": "糕点",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3981,
+      "desc": "泛指各类烘焙糕点",
+      "kw": "油酥糕点 / 酥皮点心 / 甜点 / 西点 / 烘焙点心 / 食物 / 焼菓子 / ペストリー"
+    },
+    {
+      "en": "canele",
+      "zh": "可丽露",
+      "rating": "g",
+      "nsfw": false,
+      "count": 99,
+      "desc": "法国小圆柱形带焦糖的糕点",
+      "kw": "卡纳蕾 / 卡娜蕾 / 可露丽蛋糕 / 波尔多可露丽 / 法国小蛋糕"
+    },
+    {
+      "en": "chocolate cornet",
+      "zh": "巧克力螺旋面包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 661,
+      "desc": "巧克力馅的号角形面包。",
+      "kw": "巧克力牛角包 / 巧克力可颂 / 巧克力海螺面包 / 巧克力螺 / 食物 / 甜点 / choco cornet / チョココロネ"
+    },
+    {
+      "en": "cream cornet",
+      "zh": "奶油螺管面包",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cream puff",
+      "zh": "泡芙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 816,
+      "desc": "内填奶油或卡仕达酱的泡芙糕点。",
+      "kw": "奶油泡芙 / 鲜奶油泡芙 / 忌廉泡芙 / 奶油空心饼 / 夹心泡芙 / 卡仕达泡芙 / 甜点 / 食物 / cream puffs / profiterole / シュークリーム / プロフィトロール"
+    },
+    {
+      "en": "eclair (food)",
+      "zh": "闪电泡芙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 217,
+      "desc": "夹奶油馅、淋巧克力酱的长条泡芙",
+      "kw": "法式奶油泡芙 / 长条泡芙 / 巧克力泡芙 / 意可蕾 / 甜点 / 西点"
+    },
+    {
+      "en": "macaron",
+      "zh": "马卡龙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8417,
+      "desc": "两片蛋白饼夹馅的法式甜点",
+      "kw": "法式马卡龙 / 马卡龙饼 / 马卡龙甜点 / 杏仁小圆饼 / 甜点 / 食物 / マカロン"
+    },
+    {
+      "en": "macaron tower",
+      "zh": "马卡龙塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "maritozzo",
+      "zh": "罗马生乳包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57,
+      "desc": "意大利拉齐奥地区的奶油夹心甜面包。",
+      "kw": "马里托佐 / 意大利奶油面包 / 罗马奶油面包 / 奶油夹心面包（马里托佐） / 意式奶油面包"
+    },
+    {
+      "en": "pie",
+      "zh": "派",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3546,
+      "desc": "用面团包裹水果或肉馅烤成的食品",
+      "kw": "水果派 / 肉馅饼 / 甜馅饼 / 西式馅饼 / 甜点 / 食物 / パイ"
+    },
+    {
+      "en": "apple pie",
+      "zh": "苹果派",
+      "rating": "g",
+      "nsfw": false,
+      "count": 656,
+      "desc": "能看见苹果切片的苹果馅派",
+      "kw": "苹果馅饼 / 苹果塔 / 苹果派点心 / 甜点 / 食物 / アップルパイ"
+    },
+    {
+      "en": "banana cream pie",
+      "zh": "香蕉奶油派",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "banoffee pie",
+      "zh": "香蕉太妃派",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cherry pie",
+      "zh": "樱桃派",
+      "rating": "g",
+      "nsfw": false,
+      "count": 61,
+      "desc": "以樱桃为馅的甜馅饼。",
+      "kw": "樱桃馅饼 / 车厘子派 / 樱桃塔"
+    },
+    {
+      "en": "chocolate pie",
+      "zh": "巧克力派",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "lemon meringue pie",
+      "zh": "柠檬蛋白派",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23
+    },
+    {
+      "en": "pumpkin pie",
+      "zh": "南瓜派",
+      "rating": "g",
+      "nsfw": false,
+      "count": 94,
+      "desc": "以南瓜为主料的派",
+      "kw": "南瓜馅饼 / 南瓜派饼 / 南瓜塔 / 南瓜烘饼 / 南瓜点心"
+    },
+    {
+      "en": "red bean pie",
+      "zh": "红豆派",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "strawberry pie",
+      "zh": "草莓派",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "tupet",
+      "zh": "管装冰棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 612,
+      "desc": "塑料管装可冷冻食用的果汁冰棒",
+      "kw": "碎冰冰 / 吸吸冰 / 冷冻果汁棒 / 袋装碎碎冰 / 棒棒冰 / 假发套 / 假发 / chuupetto / チューペット / ポッキンアイス"
+    },
+    {
+      "en": "watermelon bar",
+      "zh": "西瓜冰棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2126,
+      "desc": "乐天出品的西瓜味冰棒，造型味道像西瓜片。",
+      "kw": "西瓜冰棍 / 西瓜棒冰 / 西瓜雪糕 / 西瓜冰激凌 / 食物 / 冰棍 / 甜品 / suika bar / watermelon popsicle / すいかバー / スイカバー"
+    },
+    {
+      "en": "pudding",
+      "zh": "布丁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6072,
+      "desc": "以牛奶为基底的甜点，日本常见焦糖布丁",
+      "kw": "焦糖布丁 / 奶冻 / 鸡蛋布丁 / 甜点 / 食物 / flan / プリン / プディング"
+    },
+    {
+      "en": "custard",
+      "zh": "卡仕达",
+      "rating": "g",
+      "nsfw": false,
+      "count": 117,
+      "desc": "牛奶与蛋黄煮成的浓稠酱料，常作甜点馅料。",
+      "kw": "卡士达酱 / 吉士酱 / 蛋奶酱 / 蛋奶糊 / 奶油蛋羹 / 奶黄酱 / 卡士达 / 吉士馅"
+    },
+    {
+      "en": "pudding a la mode",
+      "zh": "布丁百汇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 148,
+      "desc": "配冰淇淋和水果的布丁。",
+      "kw": "布丁冰淇淋 / 冰淇淋布丁 / 布丁配冰淇淋 / 水果布丁圣代 / 布丁水果圣代 / 布丁加冰淇淋 / 布丁阿拉模式 / 甜点"
+    },
+    {
+      "en": "souffle (food)",
+      "zh": "舒芙蕾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 44
+    },
+    {
+      "en": "shaved ice",
+      "zh": "刨冰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5055,
+      "desc": "淋糖浆和炼乳的日式刨冰。",
+      "kw": "日式刨冰 / 雪花冰 / 冰沙 / 碎冰 / 刨冰甜品 / 冰品 / 甜品 / kakigori / kakigoori / snow cone / shavedice"
+    },
+    {
+      "en": "slushie",
+      "zh": "思乐冰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 64,
+      "desc": "由碎冰与饮料混合制成的冰沙饮料",
+      "kw": "冰沙 / 沙冰 / 冰泥 / 雪泥 / 冰霜 / 冰沙饮品 / 刨冰"
+    },
+    {
+      "en": "tanghulu",
+      "zh": "糖葫芦",
+      "rating": "g",
+      "nsfw": false,
+      "count": 922,
+      "desc": "中国传统小吃，果子串裹糖衣",
+      "kw": "冰糖葫芦 / 糖葫芦串 / 山楂糖葫芦 / 冰糖葫芦串 / 中国风 / 食物 / 糖葫蘆 / 冰糖葫蘆 / サンザシ飴"
+    },
+    {
+      "en": "tart (food)",
+      "zh": "挞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1164,
+      "desc": "酥皮为底、顶部开口并填入水果或蛋奶馅的烤制点心",
+      "kw": "水果挞 / 蛋挞 / 奶油挞 / 果挞 / 塔 / 塔类点心 / 果馅饼 / タルト"
+    },
+    {
+      "en": "chocolate tart",
+      "zh": "巧克力塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "egg tart",
+      "zh": "蛋挞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62,
+      "desc": "以蛋液布丁为馅的蛋挞",
+      "kw": "蛋塔 / 葡式蛋挞 / 港式蛋挞 / 蛋挞仔 / 酥皮蛋挞"
+    },
+    {
+      "en": "fruit tart",
+      "zh": "水果塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 566,
+      "desc": "表面铺满水果的挞",
+      "kw": "果挞 / 水果馅饼 / 鲜果挞 / 水果派 / 甜点 / 糕点 / 食物 / フルーツタルト"
+    },
+    {
+      "en": "blueberry tart",
+      "zh": "蓝莓塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33
+    },
+    {
+      "en": "strawberry tart",
+      "zh": "草莓塔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 162,
+      "desc": "表面排列草莓的奶油挞",
+      "kw": "草莓派 / 草莓挞派 / 草莓水果塔 / 草莓馅饼 / 甜点 / 食物"
+    },
+    {
+      "en": "waffle",
+      "zh": "华夫饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 929,
+      "desc": "带方格纹理的烤饼华夫饼",
+      "kw": "华夫 / 格子饼 / 华夫格子饼 / 瓦夫饼 / 比利时松饼 / 食物 / 甜点 / waffles / ワッフル"
+    },
+    {
+      "en": "wagashi",
+      "zh": "和菓子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17445,
+      "desc": "配茶食用的日本传统点心",
+      "kw": "日式点心 / 日本点心 / 日式甜点 / 和式点心 / 日本传统点心 / 茶点心 / 日本风 / japanese sweets / わがし"
+    },
+    {
+      "en": "suzu castella (food)",
+      "zh": "铃铛长崎蛋糕（食物）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "mochi",
+      "zh": "麻薯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6239,
+      "desc": "糯米蒸熟捣成糊再塑形的日式点心，新年传统食品",
+      "kw": "麻糬 / 日式年糕 / 糯米饼 / 日式麻薯 / 糯米糍 / 日式甜点 / 食物 / 餅 / もち / お餅"
+    },
+    {
+      "en": "daifuku",
+      "zh": "大福",
+      "rating": "g",
+      "nsfw": false,
+      "count": 394,
+      "desc": "内含甜馅的日式麻薯大福。",
+      "kw": "大福饼 / 日式大福 / 草莓大福 / 豆大福 / 和果子大福 / 麻糬大福 / 大福麻糬 / 日式麻糬大福 / 大福餅 / だいふく"
+    },
+    {
+      "en": "ichigo daifuku",
+      "zh": "草莓大福",
+      "rating": "g",
+      "nsfw": false,
+      "count": 198,
+      "desc": "包着整颗草莓的日式大福。",
+      "kw": "草莓大福饼 / 草莓糯米团 / 草莓夹心大福 / 草莓红豆大福 / 和菓子 / 日本甜点 / ichigodaifuku"
+    },
+    {
+      "en": "kashiwa mochi (food)",
+      "zh": "柏饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 270,
+      "desc": "用橡树叶包裹的红豆馅年糕",
+      "kw": "橡叶饼 / 日本柏饼 / 柏叶饼 / 食物 / 和菓子 / 日式点心 / 柏餅 / かしわ餅 / かしわもち"
+    },
+    {
+      "en": "namagashi",
+      "zh": "生菓子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "raindrop cake",
+      "zh": "水信玄饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24
+    },
+    {
+      "en": "sakura mochi",
+      "zh": "樱饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 696,
+      "desc": "粉色糯米糕包红豆馅、外裹盐渍樱叶的日式点心",
+      "kw": "樱花饼 / 樱花麻糬 / 樱花年糕 / 樱花糕 / 樱叶饼 / 樱花糯米糕 / 盐渍樱叶饼 / 日式樱花饼 / sakuramochi / 桜餅"
+    },
+    {
+      "en": "songpyeon",
+      "zh": "松片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "suama (food)",
+      "zh": "素甘（日式和菓子）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "uirou (food)",
+      "zh": "外郎糕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "warabimochi",
+      "zh": "蕨饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38
+    },
+    {
+      "en": "youkan (food)",
+      "zh": "羊羹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 230,
+      "desc": "用糖、琼脂和豆类制成的日式羊羹",
+      "kw": "日式羊羹 / 和风羊羹 / 羊羹冻 / 羊羹 (食物) / 和菓子 / 日本甜点 / ようかん"
+    },
+    {
+      "en": "cheese puffs",
+      "zh": "芝士泡芙球",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cheese curls",
+      "zh": "芝士卷条零食",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cheetos",
+      "zh": "奇多",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57,
+      "desc": "百事旗下菲多利生产的奶酪膨化零食品牌",
+      "kw": "奇多粟米条"
+    },
+    {
+      "en": "chikuwa",
+      "zh": "竹轮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 422,
+      "desc": "将鱼糜裹在竹棒上蒸烤制成的食品。",
+      "kw": "竹轮鱼糕 / 鱼竹轮 / 竹筒鱼糕 / 竹轮（食品） / 食物 / 日式小吃 / 竹輪 / ちくわ"
+    },
+    {
+      "en": "chips (food)",
+      "zh": "薯片/脆片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6526,
+      "desc": "切薄油炸的薯片等脆片零食",
+      "kw": "炸薯片 / 脆片 / 土豆片 / 洋芋片 / 蔬菜脆片 / 食物 / 零食 / crisps / chips / 野菜チップス"
+    },
+    {
+      "en": "bugles (food)",
+      "zh": "妙脆角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 148,
+      "desc": "锥形的妙脆角玉米零食",
+      "kw": "玉米角 / 玉米脆角 / 尖角玉米脆 / 锥形玉米脆 / 妙脆角零食 / 零食 / 玉米片 / tongari corn / とんがりコーン"
+    },
+    {
+      "en": "doritos",
+      "zh": "多力多滋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 431,
+      "desc": "美国菲多利公司生产的玉米片",
+      "kw": "多力多滋玉米片 / 多力多滋薯片 / 多力多滋脆片 / 薯片 / 零食 / ドリトス / 도리토스"
+    },
+    {
+      "en": "potato chips",
+      "zh": "薯片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4527,
+      "desc": "马铃薯切薄片油炸制成的零食。",
+      "kw": "马铃薯片 / 洋芋片 / 土豆片 / 炸薯片 / 薯脆 / 零食 / 食品 / potato chip / 薯条 / ポテトチップス / ポテチ"
+    },
+    {
+      "en": "pringles",
+      "zh": "品客",
+      "rating": "g",
+      "nsfw": false,
+      "count": 288,
+      "desc": "宝洁1967年推出的美国薯片品牌，以筒装与弧形薯片为特征",
+      "kw": "品客薯片 / 品客叔叔 / 公司 / 品牌 / 食物 / 薯片 / プリングルズ"
+    },
+    {
+      "en": "tortilla chips",
+      "zh": "玉米片",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "french fries",
+      "zh": "炸薯条",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6727,
+      "desc": "油炸土豆条，常见快餐。",
+      "kw": "薯条 / 炸土豆条 / 马铃薯条 / 油炸薯条 / 法式薯条 / 土豆条 / 食品 / ポテト / フライドポテト"
+    },
+    {
+      "en": "cheese fries",
+      "zh": "芝士薯条",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "popcorn",
+      "zh": "爆米花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2970,
+      "desc": "玉米粒加热膨化零食",
+      "kw": "爆谷 / 玉米花 / 爆玉米花 / 奶油爆米花 / 零食 / 食物 / ポップコーン"
+    },
+    {
+      "en": "pretzel",
+      "zh": "椒盐卷饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 638,
+      "desc": "扭成结状或棒状、常撒盐的烤制点心",
+      "kw": "德国结 / 蝴蝶脆饼 / 布雷结 / 食物 / 零食 / プレッツェル / ブレーツェル"
+    },
+    {
+      "en": "tohato caramel corn",
+      "zh": "东鸠焦糖玉米脆",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "umaibou",
+      "zh": "美味棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 239,
+      "desc": "日本屋钦公司出售的圆柱形廉价玉米零食",
+      "kw": "好吃棒 / 玉米棒 / 日本玉米棒 / 粟米棒 / 脆玉米棒 / 零食 / 食物 / うまい棒"
+    },
+    {
+      "en": "anise (spice)",
+      "zh": "八角/茴香",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "basil leaf",
+      "zh": "罗勒叶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 110,
+      "desc": "罗勒的叶子，常用作香料和装饰",
+      "kw": "九层塔叶 / 金不换叶 / 甜罗勒叶 / 香草罗勒叶 / 罗勒叶子 / 食物 / 香草 / 调味料"
+    },
+    {
+      "en": "cinnamon stick",
+      "zh": "肉桂棒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 331,
+      "desc": "卷起的肉桂树皮肉桂棒",
+      "kw": "肉桂条 / 桂皮棒 / 桂皮条 / 肉桂卷棒 / 肉桂棍 / 香料 / 食物"
+    },
+    {
+      "en": "clove",
+      "zh": "丁香（香料）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "furikake (food)",
+      "zh": "拌饭香松",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "ginger root",
+      "zh": "生姜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 83,
+      "desc": "常用作香料或寿司配菜的姜",
+      "kw": "姜 / 姜块 / 老姜 / 姜根茎"
+    },
+    {
+      "en": "honey",
+      "zh": "蜂蜜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2155,
+      "desc": "蜜蜂用花蜜酿成的甜味物质。",
+      "kw": "蜜 / 蜜糖 / 蜂糖 / 食物 / 甜食 / ハニー / はちみつ"
+    },
+    {
+      "en": "jam",
+      "zh": "果酱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1364,
+      "desc": "水果加糖熬煮而成的果酱",
+      "kw": "果酱制品 / 水果酱 / 甜酱 / 涂抹果酱 / 果子酱 / 果酱膏 / 食物 / ジャム"
+    },
+    {
+      "en": "marmalade",
+      "zh": "橘子果酱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 44
+    },
+    {
+      "en": "ketchup",
+      "zh": "番茄酱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3343,
+      "desc": "以番茄制成的浓稠调味酱",
+      "kw": "茄汁 / 西红柿酱 / 番茄沙司 / 酱料 / 食物 / ケチャップ"
+    },
+    {
+      "en": "mayonnaise",
+      "zh": "蛋黄酱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 680,
+      "desc": "用油和蛋制成的乳化调味酱",
+      "kw": "美乃滋 / 蛋酱 / 沙拉酱 / 美乃滋酱 / 蛋黄沙拉酱 / 调味料 / 食物 / マヨネーズ"
+    },
+    {
+      "en": "mustard",
+      "zh": "芥末酱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 560,
+      "desc": "用芥末籽调成的黄色酱料，常配汉堡热狗",
+      "kw": "芥末 / 黄芥末酱 / 黄色芥末 / 美式芥末 / 西洋芥末 / 食物 / 调味品 / マスタード"
+    },
+    {
+      "en": "peanut butter",
+      "zh": "花生酱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 91,
+      "desc": "把花生研磨加油制成的酱",
+      "kw": "花生膏 / 花生抹酱 / 花生酱料 / 花生奶油酱"
+    },
+    {
+      "en": "pepper (spice)",
+      "zh": "胡椒（香料）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 207,
+      "desc": "胡椒果实磨成的香辛料",
+      "kw": "胡椒粉 / 胡椒粒 / 黑胡椒 / 白胡椒 / 胡椒末 / 胡椒面 / 胡椒 / 香料"
+    },
+    {
+      "en": "rosemary (herb)",
+      "zh": "迷迭香",
+      "rating": "g",
+      "nsfw": false,
+      "count": 59,
+      "desc": "唇形科常绿香草，用于烹饪和提取精油。",
+      "kw": "迷迭香草 / 迷迭香叶 / 迷迭香香料 / 迷迭香植物 / 迷迭香调料"
+    },
+    {
+      "en": "salsa",
+      "zh": "莎莎酱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "salt",
+      "zh": "盐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 511,
+      "desc": "氯化钠结晶，常用于调味",
+      "kw": "食盐 / 盐巴 / 食用盐 / 粗盐 / 细盐 / 盐粒 / 盐粉 / 盐晶体 / 塩"
+    },
+    {
+      "en": "sauce",
+      "zh": "酱汁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1376,
+      "desc": "浇在或拌入食物中的液态或膏状调味品",
+      "kw": "调味汁 / 酱料 / 酱 / 蘸酱 / 浇汁 / 沙司 / 调味品 / 食物"
+    },
+    {
+      "en": "bagna cauda",
+      "zh": "意式鳀鱼蒜香酱",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hot sauce",
+      "zh": "辣酱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 260,
+      "desc": "用辣椒制成的辛辣调味酱",
+      "kw": "辣椒酱 / 辣味酱 / 香辣酱 / 辣椒汁 / 辣酱汁 / 调味品 / 食物"
+    },
+    {
+      "en": "soy sauce",
+      "zh": "酱油",
+      "rating": "g",
+      "nsfw": false,
+      "count": 957,
+      "desc": "大豆发酵制成的咸味调味品。",
+      "kw": "豉油 / 生抽 / 淡色酱油 / 浓口酱油 / 酱油膏 / 调味品 / 食物 / 醤油 / しょうゆ / ソイソース"
+    },
+    {
+      "en": "tomato sauce",
+      "zh": "番茄沙司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 116,
+      "desc": "用番茄制成的调味酱，常用于意面等料理。",
+      "kw": "番茄汁酱 / 番茄调味酱 / 意式番茄酱 / 红酱 / 番茄酱 / 意面酱 / 披萨酱"
+    },
+    {
+      "en": "sesame seeds",
+      "zh": "芝麻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 470,
+      "desc": "芝麻植物的种子，常见调味料",
+      "kw": "芝麻籽 / 芝麻粒 / 白芝麻 / 黑芝麻 / 胡麻 / 种子 / 调味品 / 食物"
+    },
+    {
+      "en": "granulated sugar",
+      "zh": "砂糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 161,
+      "desc": "颗粒状的白砂糖",
+      "kw": "白砂糖 / 细砂糖 / 颗粒糖 / 白糖 / 食物 / 糖 / sugar (food) / white sugar"
+    },
+    {
+      "en": "sugar cube",
+      "zh": "方糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1744,
+      "desc": "用于给咖啡等热饮加甜的小方块糖",
+      "kw": "方糖块 / 糖块 / 方块糖 / 方砂糖 / 咖啡方糖 / 角砂糖 / 食物 / 甜食 / sugar cubes / sugar cube (object) / 角砂糖"
+    },
+    {
+      "en": "syrup",
+      "zh": "糖浆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3161,
+      "desc": "浓稠甜味液体，常用作食物浇料或甜味剂。",
+      "kw": "糖水 / 蜜糖浆 / 甜浆 / 糖蜜 / 液体 / 食物 / シロップ"
+    },
+    {
+      "en": "maple syrup",
+      "zh": "枫糖浆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 469,
+      "desc": "用枫树汁液熬制的糖浆，常淋在松饼上",
+      "kw": "枫糖 / 枫蜜 / 枫树糖浆 / 糖浆 / 食物 / メイプルシロップ"
+    },
+    {
+      "en": "strawberry syrup",
+      "zh": "草莓糖浆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 199,
+      "desc": "用草莓熬制的糖浆，多浇在冰淇淋和甜点上。",
+      "kw": "草莓酱汁 / 草莓淋酱 / 草莓果露 / 草莓糖稀 / 草莓糖水 / 糖浆 / 食物"
+    },
+    {
+      "en": "wasabi",
+      "zh": "山葵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 330,
+      "desc": "味道极冲的绿色调味料，常配寿司",
+      "kw": "日本芥末 / 绿芥末 / 青芥辣 / 哇沙米 / 芥末 / 日本料理 / 调味品 / わさび"
+    },
+    {
+      "en": "zha cai (food)",
+      "zh": "榨菜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "canned food",
+      "zh": "罐头食品",
+      "rating": "g",
+      "nsfw": false,
+      "count": 690,
+      "desc": "马口铁罐装的食品",
+      "kw": "罐头 / 罐装食品 / 罐頭 / 罐頭食品 / 罐头食物 / 罐装食物 / 食物 / 缶诘 / 缶詰 / 缶詰め"
+    },
+    {
+      "en": "chinese food",
+      "zh": "中餐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 180,
+      "desc": "源自中国的各类菜肴。",
+      "kw": "中华料理 / 中国料理 / 中式菜肴 / 中华美食 / 中国美食 / 中式料理 / 食物"
+    },
+    {
+      "en": "cooking oil",
+      "zh": "食用油",
+      "rating": "g",
+      "nsfw": false,
+      "count": 168,
+      "desc": "烹调或油炸用的食用油",
+      "kw": "烹调油 / 炒菜油 / 色拉油 / 煎炸油 / 厨房用品 / 调味品"
+    },
+    {
+      "en": "crumbs",
+      "zh": "碎屑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2517,
+      "desc": "面包、饼干等掉落的碎屑",
+      "kw": "食物碎屑 / 面包屑 / 饼干屑 / 渣渣 / 残渣 / 食物残渣 / 细节"
+    },
+    {
+      "en": "curry",
+      "zh": "咖喱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4089,
+      "desc": "源自印度、后传遍各地的咖喱料理。",
+      "kw": "咖哩 / 咖喱料理 / 咖喱饭 / 咖喱酱 / 咖喱菜 / 食物 / 料理 / カレー"
+    },
+    {
+      "en": "currywurst",
+      "zh": "德式咖喱香肠",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dumpling",
+      "zh": "饺子类食物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2435,
+      "desc": "泛指包馅面食，如饺子、汤圆",
+      "kw": "水饺 / 蒸饺 / 煎饺 / 锅贴 / 馄饨 / 云吞 / 抄手 / 汤圆 / dumplings"
+    },
+    {
+      "en": "croquette",
+      "zh": "可乐饼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 487,
+      "desc": "裹面包糠油炸的日式食品",
+      "kw": "日式可乐饼 / 炸可乐饼 / 土豆可乐饼 / 日式炸肉饼 / 可乐饼（日式） / 食物 / 炸物 / 日式 / コロッケ"
+    },
+    {
+      "en": "har gow",
+      "zh": "虾饺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "jiaozi",
+      "zh": "饺子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 977,
+      "desc": "中国及东亚常见的面皮包馅食物",
+      "kw": "水饺 / 煎饺 / 锅贴 / 蒸饺 / 饺饵 / 饺子（中文） / 中式食物 / 中国风 / gyouza / gyoza / potstickers / 餃子"
+    },
+    {
+      "en": "pierogi",
+      "zh": "波兰饺子",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tangyuan",
+      "zh": "汤圆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 112,
+      "desc": "糯米粉制成、带馅的圆形汤煮点心",
+      "kw": "元宵 / 汤团 / 圆子 / 糯米圆子 / 汤圆点心 / 甜汤圆 / 咸汤圆 / 煮汤圆"
+    },
+    {
+      "en": "wonton",
+      "zh": "馄饨/云吞",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "zongzi",
+      "zh": "粽子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 270,
+      "desc": "用竹叶包裹糯米做成的端午传统食物",
+      "kw": "肉粽 / 碱水粽 / 粽 / 中国风 / 食品 / 端午 / chimaki"
+    },
+    {
+      "en": "english breakfast",
+      "zh": "英式早餐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10
+    },
+    {
+      "en": "fish and chips",
+      "zh": "炸鱼薯条",
+      "rating": "g",
+      "nsfw": false,
+      "count": 68,
+      "desc": "英国传统快餐，炸鱼配炸薯条。",
+      "kw": "炸鱼配薯条 / 英式炸鱼薯条 / 鱼和薯条 / 炸鱼薯条餐"
+    },
+    {
+      "en": "flour",
+      "zh": "面粉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 419,
+      "desc": "磨碎谷物或种子得到的粉状食材",
+      "kw": "小麦粉 / 白面 / 面粉粉 / 食材 / 粉末"
+    },
+    {
+      "en": "fondue",
+      "zh": "火锅（蘸酱）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 102,
+      "desc": "蘸面包水果吃的融化奶酪或巧克力",
+      "kw": "芝士火锅 / 乳酪火锅 / 起司火锅 / 巧克力火锅 / 蘸酱"
+    },
+    {
+      "en": "burger",
+      "zh": "汉堡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16282,
+      "desc": "两片面包夹肉饼等的快餐食物",
+      "kw": "汉堡包 / 牛肉汉堡 / 芝士汉堡 / 吉士汉堡 / 汉堡排 / 汉堡肉饼 / 食物 / cheeseburger / hamburger / ハンバーガー"
+    },
+    {
+      "en": "megamac",
+      "zh": "超级麦当劳汉堡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15
+    },
+    {
+      "en": "tsukimi burger",
+      "zh": "月见汉堡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 134,
+      "desc": "秋季推出、夹有煎蛋的汉堡",
+      "kw": "月见堡 / 月见汉堡包 / 赏月汉堡 / 食物 / 麦当劳 / 季节性汉堡"
+    },
+    {
+      "en": "hot dog",
+      "zh": "热狗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2377,
+      "desc": "夹在长面包里的香肠热狗",
+      "kw": "热狗肠 / 美式热狗 / 热狗面包 / 法兰克福香肠热狗 / 食物 / 快餐 / 西式食物 / hotdog / ホットドッグ / フランクフルト / ホットドック"
+    },
+    {
+      "en": "chili dog",
+      "zh": "辣肉酱热狗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 109,
+      "desc": "浇上辣酱肉豆的热狗",
+      "kw": "辣味热狗 / 辣椒热狗 / 辣酱热狗 / 食物 / 热狗 / 快餐"
+    },
+    {
+      "en": "corn dog",
+      "zh": "美式热狗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 688,
+      "desc": "玉米面糊包裹热狗油炸而成",
+      "kw": "玉米狗 / 炸热狗 / 面糊热狗 / 美国热狗 / 棒状热狗 / 玉米热狗棒 / 裹粉热狗 / corndog / アメリカンドッグ"
+    },
+    {
+      "en": "konnyaku (food)",
+      "zh": "蒟蒻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 238,
+      "desc": "用蒟蒻芋制成的凝胶状食品，口感Q弹，常做成魔芋丝或魔芋块",
+      "kw": "菎蒻 / 魔芋食品 / 蒟蒻食品 / 魔芋糕 / 食物 / konjac (food) / konnyaku / こんにゃく / こんにゃく芋"
+    },
+    {
+      "en": "breakfast",
+      "zh": "早餐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 548,
+      "desc": "一天中的第一餐早餐。",
+      "kw": "早饭 / 早点 / 早膳 / 晨餐 / 早晨用餐 / 食物 / 餐点 / 朝御饭 / 朝饭 / 朝飯 / 朝御飯"
+    },
+    {
+      "en": "dim sum",
+      "zh": "点心",
+      "rating": "g",
+      "nsfw": false,
+      "count": 291,
+      "desc": "盛在小蒸笼中供应的中式点心",
+      "kw": "港式点心 / 粤式点心 / 茶点 / 蒸笼点心 / 广式茶点 / 食物 / 中国风 / 廣式點心 / 點心 / 딤섬"
+    },
+    {
+      "en": "dinner",
+      "zh": "晚餐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 355,
+      "desc": "一天中的第三顿正餐",
+      "kw": "晚饭 / 晚膳 / 晚餐饭 / 夜饭 / 正餐 / 食物 / 餐饮 / 餐点 / 夕饭 / 晩御饭 / 夕飯 / 晩御飯"
+    },
+    {
+      "en": "feast",
+      "zh": "盛宴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 166,
+      "desc": "画面中呈现的大量食物或甜点组成的宴席",
+      "kw": "宴席 / 宴会 / 大餐 / 饕餮大餐 / 丰盛大餐 / 节日宴席 / 场景 / 聚会"
+    },
+    {
+      "en": "lunch",
+      "zh": "午餐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 132,
+      "desc": "中午十一时到二时吃的正餐。",
+      "kw": "午饭 / 中餐 / 中午饭 / 午膳 / 食物 / 餐食 / 昼御饭 / 昼饭"
+    },
+    {
+      "en": "okosama lunch",
+      "zh": "儿童餐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120,
+      "desc": "插着小旗、适合儿童的日式儿童套餐",
+      "kw": "日式儿童套餐 / 儿童午餐 / 小朋友套餐 / 儿童便当 / 儿童定食 / 带旗儿童餐 / 食物"
+    },
+    {
+      "en": "osechi",
+      "zh": "御节料理",
+      "rating": "g",
+      "nsfw": false,
+      "count": 407,
+      "desc": "日本新年食用的传统料理",
+      "kw": "御节菜 / 日式年菜 / 日本新年料理 / 年节菜 / 御节盒 / 正月料理 / 日本风 / 料理 / おせち"
+    },
+    {
+      "en": "nabe",
+      "zh": "火锅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 504,
+      "desc": "在餐桌上用陶锅或铁锅共享的日式火锅",
+      "kw": "锅物 / 日式锅 / 日式火锅料理 / 锅料理 / 日式暖锅 / 涮锅 / 食物 / 鍋"
+    },
+    {
+      "en": "oden",
+      "zh": "关东煮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 627,
+      "desc": "多种食材用酱油高汤炖煮的日本冬季料理",
+      "kw": "御田 / 日式炖杂烩 / 关东炖 / 熬点 / 好炖 / 日本料理 / 食物 / おでん"
+    },
+    {
+      "en": "sukiyaki",
+      "zh": "寿喜烧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 137,
+      "desc": "以酱油、糖、味醂调味的牛肉蔬菜锅物。",
+      "kw": "寿喜锅 / 锄烧 / 日式牛肉火锅 / 牛肉寿喜烧 / 寿喜烧锅 / 食物 / 日本料理"
+    },
+    {
+      "en": "narutomaki",
+      "zh": "鸣门卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1166,
+      "desc": "带红色螺旋纹的鱼板，常用于拉面配菜",
+      "kw": "鸣门鱼板 / 鸣门卷鱼板 / 漩涡鱼板 / 红白鱼板 / 拉面鱼板 / 鸣门鱼糕 / 花纹鱼板 / 食物 / naruto (food) / 鳴門巻き / なると"
+    },
+    {
+      "en": "nimono",
+      "zh": "日式煮物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 152,
+      "desc": "用高汤炖煮的日式煮物",
+      "kw": "炖菜 / 煮物料理 / 炖煮菜 / 日本炖菜 / 日本菜 / 和风 / 食物"
+    },
+    {
+      "en": "ochazuke (food)",
+      "zh": "茶泡饭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 58,
+      "desc": "在米饭上浇绿茶、高汤或热水的日式料理",
+      "kw": "茶渍饭 / 泡饭 / 茶汤泡饭 / 日式茶泡饭 / 茶泡饭（日式） / 玄米茶泡饭"
+    },
+    {
+      "en": "okonomiyaki",
+      "zh": "御好烧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 349,
+      "desc": "加入多种配料的日式咸味煎饼，常称大阪烧",
+      "kw": "日式煎饼 / 什锦烧 / 日式蔬菜煎饼 / 大阪煎饼 / 喜好烧 / 日本料理 / 煎饼 / お好み焼き"
+    },
+    {
+      "en": "pizza",
+      "zh": "披萨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7850,
+      "desc": "涂番茄酱和奶酪并加配料烤制的圆形面饼。",
+      "kw": "比萨 / 匹萨 / 披萨饼 / 比萨饼 / 意大利披萨 / 圆形烤饼 / 披萨食物 / 食物 / ピザ / 披薩 / 피자"
+    },
+    {
+      "en": "pizza slice",
+      "zh": "披萨切片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2797,
+      "desc": "从整张披萨上切下的单块披萨。",
+      "kw": "披萨片 / 比萨片 / 一块披萨 / 披萨角 / 比萨角 / 单片披萨 / 食物 / slice of pizza"
+    },
+    {
+      "en": "margherita pizza",
+      "zh": "玛格丽特披萨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 348,
+      "desc": "用番茄、马苏里拉与罗勒做成的玛格丽特披萨。",
+      "kw": "玛格丽塔披萨 / 玛格丽特比萨 / 玛格丽塔比萨 / 玛格丽特批萨 / 玛格丽塔批萨 / 马格列特披萨 / 比萨 / 食物 / マルゲリータピザ / マルゲリータ"
+    },
+    {
+      "en": "ribs (food)",
+      "zh": "排骨（食物）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 74,
+      "desc": "带骨烹调的猪牛肋排，非解剖学肋骨",
+      "kw": "肋排 / 猪肋排 / 牛肋排 / 烤排骨 / 肋骨排 / 带骨肋排"
+    },
+    {
+      "en": "salad",
+      "zh": "沙拉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1622,
+      "desc": "混合蔬菜等食材并淋酱汁的菜肴",
+      "kw": "色拉 / 沙律 / 蔬菜沙拉 / 生菜沙拉 / 食物 / 蔬菜 / サラダ"
+    },
+    {
+      "en": "sandwich",
+      "zh": "三明治",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7491,
+      "desc": "两片面包夹入馅料制成的食物",
+      "kw": "三文治 / 三文治面包 / 三明治食品 / 三明治面包 / 食物 / 快餐 / sandwiches / サンドイッチ / タマゴサンド / カツサンド"
+    },
+    {
+      "en": "shakshuka",
+      "zh": "北非蛋（沙克舒卡）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "soup",
+      "zh": "汤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2747,
+      "desc": "以肉、蔬菜等煮成的温热液状食物",
+      "kw": "汤品 / 汤类 / 羹汤 / 汤水 / 浓汤 / 清汤 / 例汤 / 食物 / スープ / 汁物 / 吸い物 / お吸い物"
+    },
+    {
+      "en": "miso soup",
+      "zh": "味噌汤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 645,
+      "desc": "以味噌调味的日式汤，常放豆腐与裙带菜",
+      "kw": "味噌汁 / 日式味噌汤 / 味增汤 / 日式酱汤 / 酱汤 / 豆腐味噌汤 / 裙带菜味噌汤 / 食物"
+    },
+    {
+      "en": "zouni soup",
+      "zh": "杂煮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 731,
+      "desc": "含拉丝年糕的日本新年杂煮汤",
+      "kw": "年糕汤 / 日本年糕汤 / 日式杂煮 / 新年杂煮 / zoni soup / ozoni soup / 雑煮 / お雑煮"
+    },
+    {
+      "en": "conveyor belt sushi",
+      "zh": "回转寿司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 198,
+      "desc": "寿司放在传送带上循环供取用",
+      "kw": "传送带寿司 / 旋转寿司 / 回旋寿司 / 寿司传送带 / 回转寿司店 / 转盘寿司 / 寿司 / 日本料理 / 回転寿司"
+    },
+    {
+      "en": "gunkanmaki",
+      "zh": "军舰卷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 254,
+      "desc": "用海苔围成船形的握寿司",
+      "kw": "军舰寿司 / 军舰卷寿司 / 军舰型寿司 / 军舰卷饭团 / 寿司 / 日本料理 / 軍艦巻"
+    },
+    {
+      "en": "inarizushi",
+      "zh": "稻荷寿司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 265,
+      "desc": "用油炸豆腐皮包裹醋饭的寿司",
+      "kw": "豆皮寿司 / 油炸豆腐寿司 / 油豆腐寿司 / 腐皮寿司 / 稻荷寿司（豆皮寿司） / 食物 / 稻荷 / 稲荷寿司"
+    },
+    {
+      "en": "makizushi",
+      "zh": "卷寿司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2204,
+      "desc": "用海苔卷成的长筒状寿司，分粗卷与细卷",
+      "kw": "海苔卷寿司 / 寿司卷 / 日式寿司卷 / 粗卷 / 细卷 / 卷物 / 海苔寿司卷 / 寿司 / sushi roll / 巻き寿司 / 海苔巻き"
+    },
+    {
+      "en": "nigirizushi",
+      "zh": "握寿司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 813,
+      "desc": "在醋饭上放一片生鱼的握寿司",
+      "kw": "手握寿司 / 日式握寿司 / 生鱼片寿司 / 寿司 / 日本料理 / 握り寿司"
+    },
+    {
+      "en": "taco",
+      "zh": "塔可",
+      "rating": "g",
+      "nsfw": false,
+      "count": 518,
+      "desc": "墨西哥传统食物，玉米薄饼卷入馅料。",
+      "kw": "塔可饼 / 墨西哥塔可 / 塔可夹饼 / 墨西哥塔可饼 / 墨西哥玉米饼卷 / 塔克饼 / 食物 / 墨西哥风 / タコス"
+    },
+    {
+      "en": "takoyaki",
+      "zh": "章鱼烧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2925,
+      "desc": "日式小吃，面糊包章鱼块烤成球状",
+      "kw": "章鱼小丸子 / 章鱼丸 / 章鱼球 / 日式章鱼烧 / 食物 / 日式小吃 / octopus balls / 蛸焼 / たこ焼き / たこやき"
+    },
+    {
+      "en": "takuan",
+      "zh": "泽庵渍",
+      "rating": "g",
+      "nsfw": false,
+      "count": 198,
+      "desc": "用白萝卜腌制的日本传统酱菜",
+      "kw": "泽庵腌萝卜 / 日式腌萝卜 / 黄腌萝卜 / 黄萝卜 / 泽庵 / 泽庵萝卜 / 食物 / 日本风"
+    },
+    {
+      "en": "tempura",
+      "zh": "天妇罗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2830,
+      "desc": "将海鲜、蔬菜等裹面糊油炸的日本料理。",
+      "kw": "天麸罗 / 面糊炸物 / 日式炸虾 / 天妇罗拼盘 / 炸天妇罗 / 蔬菜天妇罗 / 海鲜天妇罗 / 天妇罗料理 / 天ぷら / 天麩羅 / 天婦羅"
+    },
+    {
+      "en": "terrine (food)",
+      "zh": "法式肉冻",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tofu",
+      "zh": "豆腐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 951,
+      "desc": "凝固豆浆压制而成的白色软块食品。",
+      "kw": "豆腐块 / 水豆腐 / 嫩豆腐 / 老豆腐 / 食物 / 豆制品"
+    },
+    {
+      "en": "aburaage",
+      "zh": "油炸豆腐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 702,
+      "desc": "油炸豆腐薄片，常用于狐乌冬",
+      "kw": "日式油豆腐 / 油豆腐皮 / 炸豆腐 / 豆腐泡 / 狐狸乌冬油豆腐 / 油扬 / 食物 / aburage / 油揚げ / あぶらあげ"
+    },
+    {
+      "en": "hiyayakko (food)",
+      "zh": "冷奴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36
+    },
+    {
+      "en": "mapo tofu",
+      "zh": "麻婆豆腐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 365,
+      "desc": "四川名菜麻婆豆腐，用豆瓣与花椒烧制。",
+      "kw": "中国风 / 菜肴 / 食物 / maabou doufu / mapotofu / mapo doufu"
+    },
+    {
+      "en": "stinky tofu",
+      "zh": "臭豆腐",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "uncongealed tofu",
+      "zh": "豆腐脑/豆花",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "blood tofu",
+      "zh": "血豆腐",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "twice cooked pork",
+      "zh": "回锅肉",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "unadon (food)",
+      "zh": "鳗鱼饭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45
+    },
+    {
+      "en": "alcohol",
+      "zh": "酒精饮料",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50108,
+      "desc": "含乙醇的酒精饮料",
+      "kw": "酒类 / 酒水 / 含酒精饮料 / 美酒 / 酒液 / 饮品 / お酒 / アルコール"
+    },
+    {
+      "en": "beer",
+      "zh": "啤酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12531,
+      "desc": "用谷物酿造、带啤酒花风味的酒精饮料",
+      "kw": "麦酒 / 生啤酒 / 生啤 / 饮料 / 酒类 / 饮品 / ビール"
+    },
+    {
+      "en": "non-alcoholic beer",
+      "zh": "无酒精啤酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "guinness (beer)",
+      "zh": "健力士（啤酒）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38
+    },
+    {
+      "en": "champagne",
+      "zh": "香槟",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2433,
+      "desc": "法国香槟地区产的气泡酒",
+      "kw": "香槟酒 / 起泡酒 / 气泡酒 / 法国香槟 / 香槟气泡酒 / 酒类 / 饮料"
+    },
+    {
+      "en": "cocktail",
+      "zh": "鸡尾酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2271,
+      "desc": "混合酒与果汁等调制的鸡尾酒",
+      "kw": "调酒 / 混合酒 / 鸡尾调酒 / 调配酒 / 花式鸡尾酒 / 饮料 / 酒类"
+    },
+    {
+      "en": "blue hawaii",
+      "zh": "蓝色夏威夷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 400,
+      "desc": "蓝色夏威夷鸡尾酒或同色风味甜品饮料",
+      "kw": "蓝色夏威夷鸡尾酒 / 蓝色夏威夷刨冰 / 蓝色夏威夷饮料 / 蓝夏威夷 / 鸡尾酒 / 饮料 / 夏威夷风 / ブルーハワイ"
+    },
+    {
+      "en": "caesar (drink)",
+      "zh": "凯撒鸡尾酒",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "margarita",
+      "zh": "玛格丽特（鸡尾酒）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 56,
+      "desc": "以龙舌兰为基酒、杯口沾盐的经典鸡尾酒。",
+      "kw": "玛格丽特 / 玛格丽塔 / 玛格丽塔鸡尾酒 / 玛格丽特酒"
+    },
+    {
+      "en": "martini",
+      "zh": "马提尼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 253,
+      "desc": "以金酒与苦艾酒调成的马提尼鸡尾酒",
+      "kw": "马丁尼 / 马天尼 / 马提尼酒 / 干马提尼 / 鸡尾酒 / 酒类 / マティーニ"
+    },
+    {
+      "en": "mojito",
+      "zh": "莫吉托",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32
+    },
+    {
+      "en": "pina colada",
+      "zh": "椰林飘香",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23
+    },
+    {
+      "en": "white russian (drink)",
+      "zh": "白俄罗斯鸡尾酒",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gluhwein",
+      "zh": "热红酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "liquor",
+      "zh": "烈酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1061,
+      "desc": "经蒸馏制成的烈性酒",
+      "kw": "蒸馏酒 / 烈性酒 / 高度酒 / 洋酒 / 酒类 / 饮品"
+    },
+    {
+      "en": "sake",
+      "zh": "清酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8828,
+      "desc": "用米发酵酿成的酒精饮料",
+      "kw": "日本清酒 / 米酒 / 日式清酒 / 酒类 / 日本风格 / 酒"
+    },
+    {
+      "en": "soju",
+      "zh": "烧酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 123,
+      "desc": "韩国烧酒，常见于绿色瓶装",
+      "kw": "韩式烧酒 / 韩国蒸馏酒 / 真露烧酒 / 韩国白酒 / 韩国酒 / 绿瓶酒 / 米烧酒"
+    },
+    {
+      "en": "tequila",
+      "zh": "龙舌兰酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 97,
+      "desc": "以蓝色龙舌兰发酵蒸馏而成的墨西哥烈酒",
+      "kw": "特基拉 / 特其拉 / 龙舌兰 / 墨西哥龙舌兰酒 / 蓝色龙舌兰酒"
+    },
+    {
+      "en": "vodka",
+      "zh": "伏特加",
+      "rating": "g",
+      "nsfw": false,
+      "count": 924,
+      "desc": "东欧起源的烈性蒸馏酒。",
+      "kw": "伏特加酒 / 伏特加烈酒 / 俄国伏特加 / 俄得克 / 伏特加饮品 / 伏特加酒液 / 伏特加洋酒 / 酒类 / ウォッカ"
+    },
+    {
+      "en": "whiskey",
+      "zh": "威士忌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1610,
+      "desc": "以发酵谷物蒸馏并在木桶陈酿的酒",
+      "kw": "威士忌饮料 / 威士忌酒液 / 酒类 / 饮料 / whisky / ウイスキー"
+    },
+    {
+      "en": "wine",
+      "zh": "葡萄酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12394,
+      "desc": "用葡萄发酵酿成的酒精饮料",
+      "kw": "红酒 / 白葡萄酒 / 红葡萄酒 / 葡萄美酒 / 饮品"
+    },
+    {
+      "en": "cafe au lait",
+      "zh": "欧蕾咖啡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "canned coffee",
+      "zh": "罐装咖啡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1300,
+      "desc": "日本常见的罐装咖啡饮料。",
+      "kw": "罐咖啡 / 咖啡罐 / 罐装黑咖啡 / 罐装拿铁 / 听装咖啡 / 易拉罐咖啡 / 饮料 / 咖啡 / 缶コーヒー"
+    },
+    {
+      "en": "cappuccino",
+      "zh": "卡布奇诺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 141,
+      "desc": "浓缩咖啡加蒸汽牛奶与奶泡的饮品",
+      "kw": "卡布奇诺咖啡 / 卡布基诺 / 卡布 / 卡布奇诺饮品 / 卡布奇诺 (三丽鸥) / 三丽鸥 / 卡通角色"
+    },
+    {
+      "en": "coffee beans",
+      "zh": "咖啡豆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 668,
+      "desc": "烘焙过的咖啡豆",
+      "kw": "咖啡生豆 / 烘焙咖啡豆 / 咖啡果实种子 / 食物 / 原料 / コーヒー豆"
+    },
+    {
+      "en": "dandelion coffee",
+      "zh": "蒲公英咖啡",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "georgia max coffee",
+      "zh": "乔治亚MAX咖啡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 88,
+      "desc": "日本可口可乐公司推出的罐装咖啡品牌。",
+      "kw": "乔治亚马克斯咖啡 / 乔治亚麦克斯咖啡 / 乔治亚罐装咖啡 / 乔治亚咖啡 / 日本乔治亚咖啡 / Max咖啡（乔治亚）"
+    },
+    {
+      "en": "latte art",
+      "zh": "拉花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 622,
+      "desc": "在拿铁奶泡上拉出图案的技法",
+      "kw": "咖啡拉花 / 拿铁拉花 / 奶泡拉花 / 咖啡艺术 / 拉花艺术 / 饮品 / coffee art / ラテアート"
+    },
+    {
+      "en": "fruit punch (drink)",
+      "zh": "水果宾治",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "amazake (drink)",
+      "zh": "甘酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 141,
+      "desc": "由发酵米制成的日本传统甜饮料",
+      "kw": "甜酒 / 米酒 / 甘酒酿 / 日本甜酒 / 醪糟 / 饮料 / 日本饮品 / 甘酒"
+    },
+    {
+      "en": "strawberry juice",
+      "zh": "草莓汁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "sports drink",
+      "zh": "运动饮料",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69,
+      "desc": "供运动员补充水分与体力的饮料",
+      "kw": "功能饮料 / 能量饮料 / 电解质饮料 / 运动饮品 / 运动补水饮料 / 等渗饮料 / 体能饮料"
+    },
+    {
+      "en": "gatorade",
+      "zh": "佳得乐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35
+    },
+    {
+      "en": "pocari sweat",
+      "zh": "宝矿力水特",
+      "rating": "g",
+      "nsfw": false,
+      "count": 936,
+      "desc": "日本大冢制药出品的宝矿力水特运动饮料",
+      "kw": "寶礦力水得 / 宝矿力 / 宝矿力饮料 / 饮料 / 品牌 / ポカリスエット"
+    },
+    {
+      "en": "aquarius (drink)",
+      "zh": "宝矿力水特竞品（Aquarius）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15
+    },
+    {
+      "en": "7up",
+      "zh": "七喜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45
+    },
+    {
+      "en": "calpis",
+      "zh": "可尔必思",
+      "rating": "g",
+      "nsfw": false,
+      "count": 107,
+      "desc": "日本的乳酸菌发酵饮料，味道近似酸奶",
+      "kw": "卡尔必思 / 卡爾必思 / 可尔必斯 / 公司 / 品牌 / 食物 / 乳酸饮料 / 日本饮料"
+    },
+    {
+      "en": "coca-cola",
+      "zh": "可口可乐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2546,
+      "desc": "可口可乐公司的碳酸饮料品牌",
+      "kw": "可乐 / 可口 / 饮料 / 品牌 / coca cola / コカ・コーラ / コカコーラ"
+    },
+    {
+      "en": "dr pepper",
+      "zh": "胡椒博士",
+      "rating": "g",
+      "nsfw": false,
+      "count": 595,
+      "desc": "美国产胡椒博士碳酸饮料",
+      "kw": "博士胡椒 / 澎泉 / 胡椒博士碳酸饮料 / 饮料品牌 / 食品 / 碳酸饮料 / 软饮 / dr. pepper / ドクターペッパー / ドクペ"
+    },
+    {
+      "en": "fanta",
+      "zh": "芬达",
+      "rating": "g",
+      "nsfw": false,
+      "count": 351,
+      "desc": "可口可乐公司旗下的果味碳酸饮料品牌",
+      "kw": "芬达汽水 / 芬达饮料 / 橙味芬达 / 橘子芬达 / 芬达橙味汽水 / 饮料 / 碳酸饮料 / ファンタ / 환타"
+    },
+    {
+      "en": "melon soda",
+      "zh": "哈密瓜苏打",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1030,
+      "desc": "日本流行的绿色蜜瓜味碳酸饮料",
+      "kw": "蜜瓜苏打 / 蜜瓜味汽水 / 绿色汽水 / 哈密瓜汽水 / 蜜瓜苏打水 / 绿苏打 / 饮料 / 瓜味苏打 / メロンソーダ"
+    },
+    {
+      "en": "mountain dew",
+      "zh": "激浪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 223,
+      "desc": "百事公司旗下的碳酸饮料品牌，1940年在美国诞生",
+      "kw": "山露 / 饮料 / 饮品"
+    },
+    {
+      "en": "pepsi",
+      "zh": "百事可乐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 817,
+      "desc": "百事公司出品的可乐味碳酸饮料",
+      "kw": "百事 / 公司 / 品牌 / 食物 / 饮料 / pepsi-cola / ペプシ"
+    },
+    {
+      "en": "pepsi ice cucumber",
+      "zh": "百事冰爽黄瓜味（百事可乐）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27
+    },
+    {
+      "en": "ramune",
+      "zh": "弹珠汽水",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2845,
+      "desc": "用玻璃弹珠封口的日式碳酸汽水",
+      "kw": "日式弹珠汽水 / 玻璃弹珠汽水 / 波子汽水饮料 / 日式碳酸汽水 / 饮料 / 日本风 / ラムネ"
+    },
+    {
+      "en": "root beer",
+      "zh": "根汁汽水",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37
+    },
+    {
+      "en": "tea",
+      "zh": "茶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16695,
+      "desc": "用茶树叶或草本植物冲泡的饮品。",
+      "kw": "茶水 / 茶饮 / 茶汤 / 绿茶 / 红茶 / 花茶 / 草本茶 / 茶叶水 / お茶 / ティータイム"
+    },
+    {
+      "en": "barley tea",
+      "zh": "麦茶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 74,
+      "desc": "用炒过的大麦煮成的茶饮",
+      "kw": "炒麦茶 / 大麦茶饮料 / 焙煎大麦茶"
+    },
+    {
+      "en": "black tea",
+      "zh": "红茶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 602,
+      "desc": "全发酵茶，茶汤红褐色",
+      "kw": "红茶水 / 英式红茶 / 红茶饮料 / 锡兰红茶 / 阿萨姆红茶 / 红茶（饮料） / 饮料 / 紅茶"
+    },
+    {
+      "en": "bubble tea",
+      "zh": "珍珠奶茶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6339,
+      "desc": "加入珍珠的台湾奶茶",
+      "kw": "波霸奶茶 / 珍奶 / 奶茶 / 珍珠茶 / 波霸茶 / 泡泡茶 / 粉圆奶茶 / 饮料 / boba tea / タピオカティー / タピオカ"
+    },
+    {
+      "en": "chamomile tea",
+      "zh": "洋甘菊茶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17
+    },
+    {
+      "en": "darjeeling tea",
+      "zh": "大吉岭红茶",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "earl grey tea",
+      "zh": "伯爵红茶",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "green tea",
+      "zh": "绿茶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1661,
+      "desc": "用绿茶冲泡的茶饮，未发酵。",
+      "kw": "绿茶饮料 / 绿茶水 / 绿茶叶 / 绿茶汤 / 绿茶饮品 / 饮料 / 茶 / 緑茶"
+    },
+    {
+      "en": "herbal tea",
+      "zh": "花草茶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "iced tea",
+      "zh": "冰茶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 301,
+      "desc": "加冰饮用的冷茶",
+      "kw": "冰镇茶 / 加冰茶 / 冷茶 / 冰饮茶 / 饮料 / アイスティー"
+    },
+    {
+      "en": "milk tea",
+      "zh": "奶茶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 235,
+      "desc": "红茶加牛奶调制的饮品，常含珍珠等配料",
+      "kw": "珍珠奶茶 / 波霸奶茶 / 红茶加奶 / 奶精茶 / 奶茶饮品 / 台式奶茶 / 饮料 / ミルクティー"
+    },
+    {
+      "en": "rose hip tea",
+      "zh": "玫瑰果茶",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "spear mint tea",
+      "zh": "留兰香薄荷茶",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tropical drink",
+      "zh": "热带鸡尾酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2170,
+      "desc": "用花果装饰杯子的热带风味饮品",
+      "kw": "热带风味饮品 / 热带果汁 / 夏日特饮 / 饮料"
+    },
+    {
+      "en": "fast food",
+      "zh": "快餐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2716,
+      "desc": "汉堡、薯条等快速供应的食物",
+      "kw": "速食 / 快餐食品 / 垃圾食品 / 快餐店食物 / 食物标签 / 外卖食品 / イートイン"
+    },
+    {
+      "en": "yakiniku",
+      "zh": "日式烤肉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 434,
+      "desc": "桌内嵌烤炉、顾客自己烤肉的自助烤肉店",
+      "kw": "烧肉 / 日式烧肉 / 炭火烤肉 / 日式BBQ / 日本料理 / 食物 / 焼肉"
+    },
+    {
+      "en": "groceries",
+      "zh": "食品杂货",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1067,
+      "desc": "从超市买回的食品和日用品。",
+      "kw": "杂货 / 日用品 / 食材 / 食品 / 超市购物 / 购物袋 / 副食品 / 生活杂货 / 食料品 / しょくりょうひん"
+    },
+    {
+      "en": "boukun habanero",
+      "zh": "暴君哈瓦那",
+      "rating": "g",
+      "nsfw": false,
+      "count": 136,
+      "desc": "东鸠推出的哈瓦那辣椒味零食，包装上有暴君角色",
+      "kw": "暴君辣椒 / 暴君哈巴内罗 / 公司 / 品牌 / 食物 / 零食 / 暴君ハバネロ"
+    },
+    {
+      "en": "budweiser",
+      "zh": "百威",
+      "rating": "g",
+      "nsfw": false,
+      "count": 110,
+      "desc": "美国啤酒品牌百威",
+      "kw": "百威啤酒 / 百威英博 / 美国百威 / 百威啤酒品牌 / 啤酒 / 品牌"
+    },
+    {
+      "en": "evian",
+      "zh": "依云",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17
+    },
+    {
+      "en": "lay's (potato chips)",
+      "zh": "乐事薯片",
+      "rating": "g",
+      "nsfw": false,
+      "count": 154,
+      "desc": "乐事品牌的薯片",
+      "kw": "乐事洋芋片 / 乐事土豆片 / 乐事品牌薯片 / 乐事（薯片） / 乐事薯片袋 / 薯片 / 零食"
+    },
+    {
+      "en": "monster energy",
+      "zh": "魔爪饮料",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3263,
+      "desc": "Monster Energy能量饮料，黑罐绿色爪痕标志",
+      "kw": "魔爪能量 / 怪兽能量 / 怪物能量 / 怪兽能量饮料 / 怪物能量饮料 / 魔爪罐 / 怪兽饮料 / monsterenergy / モンスターエナジー"
+    },
+    {
+      "en": "red bull",
+      "zh": "红牛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 833,
+      "desc": "知名能量饮料品牌红牛",
+      "kw": "红牛能量饮料 / 红牛饮料 / 红牛维他命饮料 / 奥地利红牛 / 饮料 / 能量饮料 / redbull / レッドブル"
+    },
+    {
+      "en": "smirnoff (vodka)",
+      "zh": "斯米诺（伏特加）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 48
+    },
+    {
+      "en": "snickers (brand)",
+      "zh": "士力架（品牌）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 119,
+      "desc": "玛氏公司出品的士力架花生焦糖巧克力棒",
+      "kw": "士力架巧克力 / 士力架品牌 / 士力架巧克力棒 / 士力架花生焦糖巧克力 / 士力架 / 巧克力 / 零食 / 品牌"
+    },
+    {
+      "en": "c.c. lemon",
+      "zh": "C.C. Lemon",
+      "rating": "g",
+      "nsfw": false,
+      "count": 356,
+      "desc": "三得利推出的柠檬味碳酸饮料",
+      "kw": "CC柠檬 / 饮料 / 汽水 / c.c.レモン"
+    },
+    {
+      "en": "orangina",
+      "zh": "欧兰吉娜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 199,
+      "desc": "源于法国的橙汁碳酸饮料品牌，常出现在插画背景中",
+      "kw": "法奇那 / 橘子汽水 / 橘汁汽水 / 橙汁汽水 / 橙宝 / 角色 / 人物 / オランジーナ擬人化イラコン"
+    },
+    {
+      "en": "tabasco",
+      "zh": "塔巴斯科辣酱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 142,
+      "desc": "以墨西哥塔巴斯科州命名的国际知名辣酱品牌",
+      "kw": "塔巴斯科辣椒酱 / 塔巴斯哥辣酱 / 塔巴斯科酱 / 塔巴斯科辣椒汁 / 辣酱 / 调味品"
+    },
+    {
+      "en": "tecate",
+      "zh": "特卡特啤酒",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "toblerone",
+      "zh": "三角巧克力",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "yebisu",
+      "zh": "惠比寿啤酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 188,
+      "desc": "札幌啤酒生产的惠比寿啤酒",
+      "kw": "惠比寿 / 札幌惠比寿 / 惠比寿生啤 / 日本风格 / 神话"
+    },
+    {
+      "en": "lao gan ma",
+      "zh": "老干妈",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "vita (vitasoy)",
+      "zh": "维他（维他奶）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "white rabbit candy",
+      "zh": "大白兔奶糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 109,
+      "desc": "中国知名的牛奶糖品牌",
+      "kw": "大白兔 / 大白兔糖 / 食物 / 糖果 / 奶糖 / 零食"
+    },
+    {
+      "en": "japanese food",
+      "zh": "日本料理",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "korean food",
+      "zh": "韩国料理",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "character-themed food",
+      "zh": "角色主题食物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1653,
+      "desc": "做成角色形状或印有角色图案的食物",
+      "kw": "角色造型食物 / 角色形状食物 / 角色食物 / 角色主题食品 / 人物主题食物 / 食物 / 周边 / character food / character-shaped food"
+    },
+    {
+      "en": "creature as food",
+      "zh": "非人生物食用",
+      "rating": "g",
+      "nsfw": false,
+      "count": 274,
+      "desc": "宝可梦等非人生物被当作食物",
+      "kw": "生物做成食物 / 宝可梦食物 / 动物作为食物 / 非人生物食物 / 宝可梦作为食物 / 生物作为食物 / 食物 / 料理 / pokemon as food"
+    },
+    {
+      "en": "oversized food",
+      "zh": "超大食物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3506,
+      "desc": "比正常大一个数量级以上的食物",
+      "kw": "巨大食物 / 巨型食物 / 超大份食物 / 大号食物 / 巨无霸食物 / 超大型食品 / 食物 / 巨型 / giant food / 大きな食べ物"
+    },
+    {
+      "en": "cum on food",
+      "zh": "食物精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 413,
+      "desc": "精液落在或射在食物上的情景",
+      "kw": "精液在食物上 / 射食物 / 食物上有精液 / 精液沾食物 / 食物 / 体液"
+    },
+    {
+      "en": "hanging food",
+      "zh": "悬挂食物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 249,
+      "desc": "用绳串起悬挂晾晒的食物",
+      "kw": "吊挂食物 / 晾晒食物 / 挂起食物 / 悬挂的食材 / 挂晒食物 / 晾挂食物 / 悬挂的食物 / 食物"
+    },
+    {
+      "en": "in food",
+      "zh": "在食物中",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2924,
+      "desc": "角色置身于食物之中",
+      "kw": "食物中 / 泡在食物里 / 躺在食物里 / 食物里的角色 / 被食物包围 / 食物 / 场景 / girl in food"
+    },
+    {
+      "en": "spill",
+      "zh": "溢出物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5489,
+      "desc": "液体从容器溢出的结果状态",
+      "kw": "溅出 / 洒出 / 泼洒 / 泼出 / 漫出 / 漏出 / 倾洒 / 洒落 / spilled"
+    },
+    {
+      "en": "cadbury",
+      "zh": "吉百利",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "heinz",
+      "zh": "亨氏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 61,
+      "desc": "美国的食品公司，以番茄酱与芥末酱等调味品闻名",
+      "kw": "亨氏公司 / 亨氏番茄酱"
+    },
+    {
+      "en": "krispy kreme",
+      "zh": "卡瑞比甜甜圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "lipton",
+      "zh": "立顿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46
+    },
+    {
+      "en": "meiji (brand)",
+      "zh": "明治（品牌）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 183,
+      "desc": "日本的乳制品与糕点食品企业",
+      "kw": "明治乳业 / 明治制果 / 公司 / 品牌 / 食物 / 明治製菓 / 明治乳業 / meiji"
+    },
+    {
+      "en": "mister donut",
+      "zh": "美仕唐纳滋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 405,
+      "desc": "源自美国的甜甜圈连锁品牌，现主要在日本等亚洲市场经营",
+      "kw": "甜甜圈先生 / Mister Donut / 蜜斯多 / 甜甜圈店 / 品牌 / 连锁店 / ミスタードーナツ / ミスド / ミスタードーナッツ"
+    },
+    {
+      "en": "morinaga (brand)",
+      "zh": "森永（品牌）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 139,
+      "desc": "1899年创立的日本糖果食品企业，生产牛奶焦糖等产品",
+      "kw": "森永乳业 / 森永制菓 / 森永製菓 / 品牌 / 食品 / morinaga"
+    },
+    {
+      "en": "nestle",
+      "zh": "雀巢",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "suntory",
+      "zh": "三得利",
+      "rating": "g",
+      "nsfw": false,
+      "count": 237,
+      "desc": "日本的饮料与酒类制造企业集团，1899年创立",
+      "kw": "三得利集团 / 品牌 / 饮料 / 桑特利 / サントリー"
+    },
+    {
+      "en": "ucc coffee",
+      "zh": "UCC咖啡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60,
+      "desc": "日本上岛咖啡公司出品的UCC品牌咖啡",
+      "kw": "上岛咖啡 / UCC罐装咖啡 / UCC品牌咖啡 / 上岛UCC咖啡 / UCC黑咖啡 / UCC即饮咖啡 / ucc"
+    },
+    {
+      "en": "want want",
+      "zh": "旺旺",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "xi zhi lang",
+      "zh": "喜之郎",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "pumpkin",
+      "zh": "南瓜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17572,
+      "desc": "葫芦科南瓜属植物，果实常与万圣节相关。",
+      "kw": "番瓜 / 金瓜 / 倭瓜 / 南瓜果实 / 南瓜瓜 / 万圣节南瓜 / 蔬果 / 万圣节 / pumpkins / カボチャ / かぼちゃ"
+    },
+    {
+      "en": "gourd",
+      "zh": "葫芦",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7612,
+      "desc": "葫芦科植物，干燥后可做容器",
+      "kw": "瓢箪 / 葫芦瓜 / 宝葫芦 / 葫芦果 / 葫芦容器 / 中国风 / 道具 / ひょうたん / ヒョウタン / 瓢簞"
+    },
+    {
+      "en": "ketchup bottle",
+      "zh": "番茄酱瓶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1835,
+      "desc": "盛装番茄酱的瓶子",
+      "kw": "番茄酱瓶装 / 番茄酱罐 / 番茄酱瓶罐 / 瓶子 / 厨房用品"
+    },
+    {
+      "en": "mayonnaise bottle",
+      "zh": "蛋黄酱瓶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 264,
+      "desc": "用于挤出蛋黄酱的塑料瓶。",
+      "kw": "蛋黄酱瓶子 / 蛋黄酱挤瓶 / 美乃滋瓶 / 蛋黄酱塑料瓶 / 挤蛋黄酱的瓶子 / 蛋黄酱容器 / 瓶子 / 厨房用品"
+    },
+    {
+      "en": "mustard bottle",
+      "zh": "芥末瓶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 252,
+      "desc": "盛装并挤出芥末酱的瓶子",
+      "kw": "芥末酱瓶 / 黄芥末瓶 / 芥末酱挤瓶 / 挤芥末的瓶子 / 调味品 / 瓶子"
+    },
+    {
+      "en": "soy sauce bottle",
+      "zh": "酱油瓶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 429,
+      "desc": "斜口细嘴、便于少量倒出酱油的瓶子",
+      "kw": "酱油壶 / 酱油玻璃瓶 / 豉油瓶 / 酱料瓶 / 酱油容器 / 细嘴酱油瓶 / 调味品 / 厨房用品"
+    },
+    {
+      "en": "condiment packet",
+      "zh": "调味酱包",
+      "rating": "g",
+      "nsfw": false,
+      "count": 75,
+      "desc": "装番茄酱、酱油等的小包调料",
+      "kw": "调味料包 / 酱料包 / 小包调料 / 佐料包 / 调料袋 / 酱包 / 番茄酱包 / 酱油包"
+    },
+    {
+      "en": "alcohol carton",
+      "zh": "盒装酒",
+      "rating": "g",
+      "count": 1090,
+      "desc": "用纸盒包装的清酒、葡萄酒等酒类。",
+      "kw": "纸盒酒 / 盒装清酒 / 纸盒装酒 / 盒装啤酒 / 利乐包酒 / 盒装酒精饮料 / 酒盒 / 容器 / sake carton / wine carton / beer carton / パック酒"
+    },
+    {
+      "en": "animal-themed food",
+      "zh": "动物造型食物",
+      "rating": "g",
+      "count": 1416,
+      "desc": "做成动物样子或印有动物图案的食物。",
+      "kw": "动物主题食物 / 动物形状食物 / 动物造型食品 / 动物样子的食物 / 动物外形食物 / 可爱动物食物 / 动物图案食物 / 食物"
+    },
+    {
+      "en": "apple slice",
+      "zh": "苹果切片",
+      "rating": "g",
+      "count": 996,
+      "desc": "切下的一块苹果",
+      "kw": "苹果片 / 苹果块 / 一片苹果 / 苹果切块 / 苹果瓣 / 苹果薄片 / 苹果果肉 / 苹果"
+    },
+    {
+      "en": "asahi breweries",
+      "zh": "朝日啤酒",
+      "rating": "g",
+      "count": 1092,
+      "desc": "日本四大啤酒品牌之一的朝日啤酒。",
+      "kw": "朝日啤酒公司 / 朝日 / 阿萨希啤酒 / 朝日酒 / 朝日啤酒品牌 / 朝日集团 / 啤酒 / 饮料 / asahi (beer) / アサヒビール / スーパードライ / アサヒスーパードライ"
+    },
+    {
+      "en": "bag of chips",
+      "zh": "薯片袋",
+      "rating": "g",
+      "count": 2287,
+      "desc": "一袋薯片等膨化零食",
+      "kw": "薯片包装袋 / 袋装薯片 / 一袋薯片 / 薯片袋子 / 洋芋片袋 / 薯片包装 / 零食 / 袋装食品"
+    },
+    {
+      "en": "beer can",
+      "zh": "啤酒罐",
+      "rating": "g",
+      "count": 7591,
+      "desc": "装啤酒的铝制易拉罐",
+      "kw": "罐装啤酒 / 听装啤酒 / 啤酒易拉罐 / 铝罐啤酒 / 啤酒铝罐 / 饮料容器 / 易拉罐 / 缶ビール"
+    },
+    {
+      "en": "berry (pokemon)",
+      "zh": "宝可梦树果",
+      "rating": "g",
+      "count": 2582,
+      "desc": "《宝可梦》中可恢复状态或用于料理的树果",
+      "kw": "树果 / 宝可梦浆果 / 精灵宝可梦树果 / 神奇宝贝树果 / 口袋妖怪树果 / 宝可梦果实 / 树果 (宝可梦) / 水果 / berries / berry / きのみ / 木の実"
+    },
+    {
+      "en": "boss coffee",
+      "zh": "BOSS咖啡",
+      "rating": "g",
+      "count": 116,
+      "desc": "三得利的BOSS罐装咖啡",
+      "kw": "老板咖啡 / BOSS罐装咖啡 / 三得利BOSS咖啡 / 老板牌咖啡 / 三得利咖啡 / 罐装咖啡 / boss"
+    },
+    {
+      "en": "box of chocolates",
+      "zh": "盒装巧克力",
+      "rating": "g",
+      "count": 3013,
+      "desc": "可见内容物的盒装巧克力。",
+      "kw": "巧克力盒 / 一盒巧克力 / 盒装朱古力 / 巧克力礼盒 / 盒装巧克力糖 / 巧克力盒装 / 盒装糖果 / 礼物 / chocolate box"
+    },
+    {
+      "en": "cake slice",
+      "zh": "一块蛋糕",
+      "rating": "g",
+      "count": 14896,
+      "desc": "切下供食用的一块蛋糕",
+      "kw": "蛋糕块 / 蛋糕片 / 单块蛋糕 / 切块蛋糕 / 蛋糕角 / 三角蛋糕 / 蛋糕切片 / 甜点 / slice of cake"
+    },
+    {
+      "en": "caloriemate",
+      "zh": "卡路里伴侣",
+      "rating": "g",
+      "count": 118,
+      "desc": "日本大塚制药的CalorieMate能量食品",
+      "kw": "卡路里伙伴 / 卡路里美特 / 大塚能量食品 / 高热量营养食品 / 大塚卡路里伴侣 / 热量密码 / 能量棒 / 食品"
+    },
+    {
+      "en": "canteen",
+      "zh": "军用水壶",
+      "rating": "g",
+      "count": 1041,
+      "desc": "士兵或露营者携带的水壶",
+      "kw": "水壶 / 行军水壶 / 野外水壶 / 金属水壶 / 军用水瓶 / 容器 / 户外用品 / 饮水工具 / 军用水筒 / 水筒 / 軍用水筒"
+    },
+    {
+      "en": "chalice",
+      "zh": "圣杯",
+      "rating": "g",
+      "count": 2064,
+      "desc": "带高足和杯座的精美酒杯，常用于宗教或仪式场合。",
+      "kw": "高脚杯 / 圣餐杯 / 金杯 / 银杯 / 仪式杯 / 带座酒杯 / 圣爵 / 杯子 / goblet / grail"
+    },
+    {
+      "en": "champagne bottle",
+      "zh": "香槟酒瓶",
+      "rating": "g",
+      "count": 1000,
+      "desc": "装着香槟酒的酒瓶",
+      "kw": "香槟瓶 / 香槟酒樽 / 起泡酒瓶 / 大香槟瓶 / 酒瓶 / 饮料"
+    },
+    {
+      "en": "cheese trail",
+      "zh": "奶酪拉丝",
+      "rating": "g",
+      "count": 907,
+      "desc": "披萨等拉出的奶酪丝",
+      "kw": "芝士拉丝 / 奶酪丝 / 拉丝奶酪 / 芝士丝 / 芝士痕迹 / 食物效果"
+    },
+    {
+      "en": "chocolate-covered food",
+      "zh": "巧克力涂层食物",
+      "rating": "g",
+      "count": 1341,
+      "desc": "食物部分或整体裹上巧克力。",
+      "kw": "巧克力涂层食品 / 裹巧克力食物 / 巧克力脆皮食物 / 巧克力外衣食物 / 巧克力包裹食物 / 巧克力涂覆食物 / 巧克力淋面食物 / 甜食"
+    },
+    {
+      "en": "cocktail shaker",
+      "zh": "摇酒壶",
+      "rating": "g",
+      "count": 969,
+      "desc": "摇匀并冷却鸡尾酒的摇酒壶",
+      "kw": "调酒壶 / 雪克杯 / 鸡尾酒摇壶 / 雪克壶 / 摇壶 / 调酒器 / 鸡尾酒调酒壶 / 摇酒器 / シェイカー"
+    },
+    {
+      "en": "coconut cup",
+      "zh": "椰子杯",
+      "rating": "g",
+      "count": 594,
+      "desc": "用椰子壳当杯子或碗。",
+      "kw": "椰壳杯 / 椰子壳杯 / 椰子碗 / 椰壳碗 / 椰子容器 / 饮具 / 杯子"
+    },
+    {
+      "en": "coffee maker",
+      "zh": "咖啡机",
+      "rating": "g",
+      "count": 808,
+      "desc": "用于冲泡咖啡的机器",
+      "kw": "咖啡壶 / 咖啡冲煮器 / 煮咖啡机 / 滴滤咖啡机 / 咖啡泡制器 / 家电 / 厨房用品 / coffee maker (object) / コーヒーメーカー / コーヒーサイフォン / パーコレータ"
+    },
+    {
+      "en": "cooler",
+      "zh": "冷藏箱",
+      "rating": "g",
+      "count": 2731,
+      "desc": "用于保冷饮料食物的便携冷藏箱",
+      "kw": "保温箱 / 保冷箱 / 冰桶 / 冷箱 / 手提冷藏箱 / 容器 / 野餐用品 / cool box / ice box / クーラーボックス"
+    },
+    {
+      "en": "drink can",
+      "zh": "饮料罐",
+      "rating": "g",
+      "count": 19732,
+      "desc": "装饮料的金属易拉罐",
+      "kw": "易拉罐 / 罐装饮料 / 铝罐 / 汽水罐 / 啤酒罐 / 果汁罐 / 金属罐 / 饮料易拉罐 / 缶饮料 / 缶ジュース / 缶コーヒー"
+    },
+    {
+      "en": "drink carton",
+      "zh": "纸盒饮料",
+      "rating": "g",
+      "count": 11187,
+      "desc": "可插吸管喝的小纸盒饮料",
+      "kw": "饮料盒 / 纸盒装饮料 / 利乐包饮料 / 盒装饮料 / 纸盒饮品 / 吸管饮料盒 / 饮料 / 饮品"
+    },
+    {
+      "en": "egg",
+      "zh": "蛋",
+      "rating": "g",
+      "count": 12829,
+      "desc": "鸟类等产下的硬壳蛋",
+      "kw": "鸡蛋 / 鸟蛋 / 卵 / 蛋类 / 蛋蛋 / 食物 / eggs / たまご / タマゴ"
+    },
+    {
+      "en": "energy drink",
+      "zh": "能量饮料",
+      "rating": "g",
+      "count": 2536,
+      "desc": "主打提神的高糖高咖啡因饮料",
+      "kw": "功能饮料 / 能量饮品 / 提神饮料 / 高咖啡因饮料 / 能量水 / 饮料 / 物品"
+    },
+    {
+      "en": "food art",
+      "zh": "食品艺术",
+      "rating": "g",
+      "count": 1811,
+      "desc": "把食物摆盘做成艺术造型",
+      "kw": "食物艺术 / 摆盘艺术 / 食物造型 / 食品造型 / 食品装饰 / 仿形食品"
+    },
+    {
+      "en": "food bite",
+      "zh": "咬了一口的食物",
+      "rating": "g",
+      "count": 2147,
+      "desc": "食物或其他物体上有被咬掉一口的痕迹",
+      "kw": "食物咬痕 / 咬过的食物 / 被咬一口的食物 / 食物有咬痕 / 被咬掉一口的食物 / 咬一口食物 / 进食 / 食物"
+    },
+    {
+      "en": "food on clothes",
+      "zh": "衣服上的食物",
+      "rating": "g",
+      "count": 691,
+      "desc": "食物洒落或沾在衣服上",
+      "kw": "衣服沾上食物 / 衣服上的食物残渣 / 洒在衣服上的食物 / 衣服上有食物 / 衣服弄脏食物 / 食物掉在衣服上 / 食物 / 服装"
+    },
+    {
+      "en": "food on face",
+      "zh": "脸上食物",
+      "rating": "g",
+      "count": 29518,
+      "desc": "食物沾在脸上的状态。",
+      "kw": "脸上沾食物 / 食物沾在脸上 / 脸上有食物 / 脸上粘着食物 / 食物 / 脸部 / food on cheek"
+    },
+    {
+      "en": "food on hand",
+      "zh": "手上的食物",
+      "rating": "g",
+      "count": 1101,
+      "desc": "沾在手或手指上的食物",
+      "kw": "手指上的食物 / 手上沾食物 / 手指沾食物 / 食物残留 / 手上有吃的 / 沾在手上的食物 / 手里的食物 / 食物 / food on finger"
+    },
+    {
+      "en": "fried egg on toast",
+      "zh": "烤面包上的鸡蛋",
+      "rating": "g",
+      "count": 579,
+      "desc": "吐司上放一个太阳蛋的早餐。",
+      "kw": "吐司煎蛋 / 煎蛋吐司 / 太阳蛋吐司 / 吐司配煎蛋 / 鸡蛋吐司 / 天空之城煎蛋吐司 / 食物 / 早餐 / ラピュタパン"
+    },
+    {
+      "en": "garnish",
+      "zh": "食物点缀",
+      "rating": "g",
+      "count": 763,
+      "desc": "菜肴或饮品上点缀用的香草、果皮等",
+      "kw": "装饰物 / 盘饰 / 摆盘装饰 / 菜肴点缀 / 配菜装饰 / 装饰 / 配饰"
+    },
+    {
+      "en": "haagen-dazs",
+      "zh": "哈根达斯",
+      "rating": "g",
+      "count": 241,
+      "desc": "以杯装冰淇淋闻名的品牌",
+      "kw": "哈根达斯冰淇淋 / 哈根达斯雪糕 / 哈根达斯冰激凌 / 哈根达斯杯装冰淇淋 / 冰淇淋 / 品牌 / ハーゲンダッツ"
+    },
+    {
+      "en": "heart-shaped food",
+      "zh": "心形食物",
+      "rating": "g",
+      "count": 11094,
+      "desc": "做成心形的各种食物。",
+      "kw": "心形食品 / 爱心食物 / 爱心形状食物 / 心型食物 / 食物"
+    },
+    {
+      "en": "heart-shaped lollipop",
+      "zh": "心形棒棒糖",
+      "rating": "g",
+      "count": 739,
+      "desc": "心形的棒棒糖",
+      "kw": "心型棒棒糖 / 爱心棒棒糖 / 心形糖果 / 心形棒糖 / 糖果 / 棒棒糖 / heart lollipop"
+    },
+    {
+      "en": "heineken",
+      "zh": "喜力",
+      "rating": "g",
+      "count": 141,
+      "desc": "源自荷兰的啤酒品牌，绿色瓶装。",
+      "kw": "喜力啤酒 / 海尼根 / 海尼根啤酒 / 荷兰喜力 / 啤酒 / 饮料"
+    },
+    {
+      "en": "hishimochi",
+      "zh": "菱饼",
+      "rating": "g",
+      "count": 317,
+      "desc": "日本女儿节的粉白绿三层菱形年糕",
+      "kw": "菱形饼 / 女儿节菱饼 / 三色菱饼 / 桃花饼 / 和菓子 / 日本风 / 菱餅"
+    },
+    {
+      "en": "hot chocolate",
+      "zh": "热巧克力",
+      "rating": "g",
+      "count": 785,
+      "desc": "热巧克力饮品，常配棉花糖",
+      "kw": "热可可 / 热朱古力 / 热巧克力饮料 / 热饮可可 / 热巧克力奶 / 热可可饮 / 饮料 / 饮品 / hot cocoa / ココア"
+    },
+    {
+      "en": "hotpot",
+      "zh": "火锅",
+      "rating": "g",
+      "count": 1147,
+      "desc": "在餐桌上涮煮食材的锅料理",
+      "kw": "涮锅 / 打边炉 / 围炉 / 锅物 / 中餐 / 食物 / 烹饪 / 火鍋 / 훠궈"
+    },
+    {
+      "en": "ikayaki",
+      "zh": "鱿鱼烧",
+      "rating": "g",
+      "count": 778,
+      "desc": "串在竹签上烤的鱿鱼，常见于夏日祭",
+      "kw": "烤鱿鱼 / 日式烤鱿鱼 / 烧鱿鱼 / 鱿鱼串 / 酱汁烤鱿鱼 / 整只烤鱿鱼 / 食物 / 日本料理 / grilled squid / イカ焼き / 焼きイカ"
+    },
+    {
+      "en": "instant cup noodles",
+      "zh": "杯面",
+      "rating": "g",
+      "count": 3196,
+      "desc": "装在杯中即食的方便面。",
+      "kw": "泡面 / 杯装泡面 / 方便面 / 即食杯面 / 速食面 / 杯拉面 / 杯仔面 / 碗面 / cup ramen / cup soba / cup udon / cup yakisoba"
+    },
+    {
+      "en": "instant noodles",
+      "zh": "方便面",
+      "rating": "g",
+      "count": 4743,
+      "desc": "干燥速食面，开水冲泡或煮食，如泡面、杯面。",
+      "kw": "即食面 / 泡面 / 快熟面 / 速食面 / 杯面 / 袋装面 / 公仔面 / 即席面"
+    },
+    {
+      "en": "jack daniel's",
+      "zh": "杰克丹尼",
+      "rating": "g",
+      "count": 449,
+      "desc": "美国田纳西威士忌品牌杰克丹尼。",
+      "kw": "杰克丹尼威士忌 / 杰克丹尼尔 / 杰克丹尼尔斯 / JD威士忌 / 杰克丹尼酒 / 威士忌 / 品牌 / ジャックダニエル"
+    },
+    {
+      "en": "jagarico",
+      "zh": "Jagarico薯条",
+      "rating": "g",
+      "count": 131,
+      "desc": "Calbee出品的杯装薯条零食",
+      "kw": "卡乐比杯装薯条 / 薯条杯 / 卡乐比薯条杯 / 卡乐比薯条 / 零食 / 薯条 / jagariko"
+    },
+    {
+      "en": "kagami mochi",
+      "zh": "镜饼",
+      "rating": "g",
+      "count": 1340,
+      "desc": "日本新年供奉的两层圆形年糕。",
+      "kw": "镜饼年糕 / 供奉镜饼 / 日本镜饼 / 日本传统 / 新年食物 / 鏡餅"
+    },
+    {
+      "en": "masu",
+      "zh": "日本方木杯",
+      "rating": "g",
+      "count": 1115,
+      "desc": "日本方木盒，原用于量米，现多用来喝清酒",
+      "kw": "方木盒 / 枡 / 升 / 清酒杯 / 木杯 / 方木酒器 / 升 (木制量杯) / 日本酒器 / 桝"
+    },
+    {
+      "en": "matcha (food)",
+      "zh": "抹茶（食物）",
+      "rating": "g",
+      "count": 664,
+      "desc": "抹茶粉及其相关食品",
+      "kw": "抹茶 / 抹茶粉 / 抹茶食品 / 抹茶点心 / 抹茶味 / 宇治抹茶 / 抹茶 (食物) / 茶 / 抹茶蛋糕"
+    },
+    {
+      "en": "melting popsicle",
+      "zh": "融化的冰棍",
+      "rating": "g",
+      "count": 4347,
+      "desc": "明显在融化的冰棍，边缘滴水或流到身上",
+      "kw": "融化的冰棒 / 融化的雪糕 / 化了的冰棍 / 滴水冰棍 / 冰棍 / 食物"
+    },
+    {
+      "en": "mint chocolate",
+      "zh": "薄荷巧克力",
+      "rating": "g",
+      "count": 853,
+      "desc": "薄荷口味的巧克力，常见为蓝色薄荷巧克力冰淇淋",
+      "kw": "薄荷朱古力 / 薄荷巧克力冰淇淋 / 薄荷巧克力片 / 食物 / 甜品 / chocolate mint ice cream / chocolate mint / mint chocolate chip / チョコミントアイス"
+    },
+    {
+      "en": "mitarashi dango",
+      "zh": "御手洗团子",
+      "rating": "g",
+      "count": 595,
+      "desc": "淋上甜酱油烤制的团子，通常一串四颗",
+      "kw": "酱油团子 / 甜酱油团子 / 日式酱油团子 / 烤团子 / 日式甜点 / 和菓子 / 食物 / みたらし団子"
+    },
+    {
+      "en": "mochi trail",
+      "zh": "麻糬拉丝",
+      "rating": "g",
+      "count": 2045,
+      "desc": "麻糬被拉扯时形成的黏丝，多在吃的时候出现",
+      "kw": "麻薯拉丝 / 年糕拉丝 / 麻糬拔丝 / 糯米糍拉丝 / 麻糬丝 / 粘性拉丝 / 食物效果"
+    },
+    {
+      "en": "nissin cup noodle",
+      "zh": "日清杯面",
+      "rating": "g",
+      "count": 1606,
+      "desc": "日清食品公司推出的杯装方便面品牌。",
+      "kw": "合味道 / 日清合味道 / 日清方便面 / 日清泡面 / 杯面 / 日清杯装泡面 / 方便面 / 食品 / nissin cup noodles / cup noodle / cupnoodle / cupnoodles"
+    },
+    {
+      "en": "oran berry",
+      "zh": "橙橙果",
+      "rating": "g",
+      "count": 1056,
+      "desc": "《宝可梦》中能恢复体力的树果",
+      "kw": "蓝橘果 / 欧兰果 / 道具 / 宝可梦 / オレンのみ"
+    },
+    {
+      "en": "pecha berry",
+      "zh": "桃桃果",
+      "rating": "g",
+      "count": 743,
+      "desc": "《宝可梦》中能解除中毒状态的树果",
+      "kw": "桃果 / 解毒果 / 粉桃果 / 宝可梦解毒果 / 甜桃果 / 解毒桃果 / 桃实 / 桃桃果 (宝可梦) / モモンのみ"
+    },
+    {
+      "en": "pie slice",
+      "zh": "馅饼切片",
+      "rating": "g",
+      "count": 736,
+      "desc": "切下的一块馅饼",
+      "kw": "派片 / 派块 / 一片派 / 一片馅饼 / 馅饼块 / 切块派 / 派切块 / 一块派 / slice of pie"
+    },
+    {
+      "en": "pitcher (container)",
+      "zh": "水罐",
+      "rating": "g",
+      "count": 1364,
+      "desc": "带把手和大开口、用于倒出饮品的水罐",
+      "kw": "水壶 / 大水罐 / 带柄水罐 / 饮料罐 / 倒水罐 / 水差 / 容器 / 厨具 / pitcher / 水差し"
+    },
+    {
+      "en": "print mug",
+      "zh": "印花马克杯",
+      "rating": "g",
+      "count": 881,
+      "desc": "印有图案的马克杯",
+      "kw": "图案马克杯 / 印刷马克杯 / 马克杯 / 印花杯 / 家居"
+    },
+    {
+      "en": "red wine",
+      "zh": "红酒",
+      "rating": "g",
+      "count": 2167,
+      "desc": "用深色葡萄酿造的红葡萄酒。",
+      "kw": "红葡萄酒 / 干红 / 饮料 / 酒类"
+    },
+    {
+      "en": "salmon",
+      "zh": "三文鱼",
+      "rating": "g",
+      "count": 678,
+      "desc": "溯河产卵的鲑鱼，其卵可制成鲑鱼子",
+      "kw": "鲑鱼 / 大马哈鱼 / 三文鱼肉 / 鲑鱼肉 / 生三文鱼 / 秋鲑 / 红鲑 / 三文鱼片 / サーモン / 鮭 / さけ / しゃけ"
+    },
+    {
+      "en": "sanshoku dango",
+      "zh": "三色团子",
+      "rating": "g",
+      "count": 3946,
+      "desc": "粉绿白三色的团子串，又称花见团子",
+      "kw": "花见团子 / 三花团子 / 粉绿白团子 / 三色糯米团 / 花见丸子 / 三色丸子 / 三色花见团子 / 日本风 / hanami dango / tricolor dango / 三色団子 / 花见団子"
+    },
+    {
+      "en": "sapporo beer",
+      "zh": "札幌啤酒",
+      "rating": "g",
+      "count": 213,
+      "desc": "日本札幌啤酒公司生产的啤酒品牌",
+      "kw": "三宝乐啤酒 / 三寶樂啤酒 / 札幌麦酒 / 啤酒 / 饮料 / サッポロビール"
+    },
+    {
+      "en": "saury",
+      "zh": "秋刀鱼",
+      "rating": "g",
+      "count": 842,
+      "desc": "细长的银色海鱼，秋季盐烤食用",
+      "kw": "鱼类 / 海鲜 / サンマ / 秋刀魚"
+    },
+    {
+      "en": "sitrus berry",
+      "zh": "文柚果",
+      "rating": "g",
+      "count": 718,
+      "desc": "宝可梦中回复体力的树果",
+      "kw": "文柚果实 / 蓝橘果 / 西特鲁斯果 / 蜜橘果 / 宝可梦文柚果 / 果实 / 道具 / 宝可梦 / オボンのみ"
+    },
+    {
+      "en": "steaming food",
+      "zh": "冒热气的食物",
+      "rating": "g",
+      "count": 707,
+      "desc": "冒着热气的食物。",
+      "kw": "热气腾腾的食物 / 热腾腾的食物 / 冒烟的热食 / 热食冒蒸汽 / 蒸汽食物 / 冒热气的饭菜 / 热食 / 美食"
+    },
+    {
+      "en": "stew",
+      "zh": "炖菜",
+      "rating": "g",
+      "count": 555,
+      "desc": "食材在汤汁中炖煮的炖菜",
+      "kw": "炖汤 / 炖煮料理 / 烩菜 / 浓汤 / 炖肉 / 食物 / 菜肴 / シチュー / 煮込み / 煮込み料理 / 스튜"
+    },
+    {
+      "en": "tankard",
+      "zh": "大啤酒杯",
+      "rating": "g",
+      "count": 1096,
+      "desc": "带把手、可能带铰链盖的大杯子，多用于喝啤酒。",
+      "kw": "啤酒杯 / 带把啤酒杯 / 大号啤酒杯 / 带盖啤酒杯 / 扎啤杯 / 大酒杯 / 酒具"
+    },
+    {
+      "en": "teabag",
+      "zh": "茶包",
+      "rating": "g",
+      "count": 534,
+      "desc": "装有茶叶用于冲泡的小型密封袋",
+      "kw": "茶袋 / 袋泡茶 / 茶叶包 / 泡茶袋 / 蛋蛋入口 / 性行为 / tea bag"
+    },
+    {
+      "en": "tokkuri",
+      "zh": "清酒壶",
+      "rating": "g",
+      "count": 4140,
+      "desc": "倒清酒用的陶瓷酒瓶，日式传统酒器。",
+      "kw": "德利 / 日本酒瓶 / 陶瓷酒瓶 / 清酒瓶 / 酒壶 / 德利酒瓶 / 日本风格 / 酒器 / sake pottery bottle / 徳利"
+    },
+    {
+      "en": "tomato slice",
+      "zh": "番茄片",
+      "rating": "g",
+      "count": 1190,
+      "desc": "横切成圆片的番茄",
+      "kw": "西红柿片 / 番茄切片 / 西红柿切片 / 一片番茄 / 食物 / 蔬菜"
+    },
+    {
+      "en": "tsukimi dango",
+      "zh": "月见团子",
+      "rating": "g",
+      "count": 497,
+      "desc": "日本赏月时供奉的团子",
+      "kw": "赏月团子 / 月见丸子 / 日本赏月团子 / 赏月米团 / 团子 / 日本食品 / 传统 / 月見団子"
+    },
+    {
+      "en": "watermelon slice",
+      "zh": "西瓜片",
+      "rating": "g",
+      "count": 3172,
+      "desc": "切成片状、常带绿皮的西瓜。",
+      "kw": "西瓜切片 / 切开的西瓜 / 一片西瓜 / 西瓜块 / 西瓜瓣 / 西瓜角 / 西瓜 / 水果"
+    },
+    {
+      "en": "wrapped bento",
+      "zh": "包裹的便当",
+      "rating": "g",
+      "count": 527,
+      "desc": "用风吕敷布巾包起来的便当",
+      "kw": "包起来的便当 / 风吕敷便当 / 裹便当 / 布袋便当 / 包裹便当 / 布包便当 / 包好的便当 / 日本风 / wrapped obentou"
+    },
+    {
+      "en": "wrapped candy",
+      "zh": "带包装的糖果",
+      "rating": "g",
+      "count": 2269,
+      "desc": "带包装纸的糖果。",
+      "kw": "包装糖果 / 裹糖纸的糖果 / 糖纸包裹的糖果 / 糖果 / 零食"
+    }
+  ]
+}

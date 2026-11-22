@@ -1,0 +1,1371 @@
+{
+  "id": "occupation",
+  "name": "职业",
+  "icon": "💼",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 2,
+  "file": "character_base/character_base_occupation.json",
+  "updatedAt": "2026-11-18T05:36:30.154Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "bard",
+      "zh": "吟游诗人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 330,
+      "desc": "中世纪奇幻设定中吟唱史诗的诗人",
+      "kw": "游吟诗人 / 弹唱诗人 / 诗人 / 中世纪诗人 / 职业 / 歌者"
+    },
+    {
+      "en": "waiter",
+      "zh": "服务生",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1855,
+      "desc": "在餐厅为客人点单上菜的男性服务生",
+      "kw": "服务员 / 男服务生 / 侍应生 / 餐厅服务生 / 侍者 / 餐厅服务员 / 男侍者 / 服务员（男） / 给仕 / ギャルソン / 給仕"
+    },
+    {
+      "en": "princess",
+      "zh": "公主",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6281,
+      "desc": "国王的女儿，常穿华丽礼服并戴头冠",
+      "kw": "王女 / 皇女 / 公主殿下 / 大小姐 / 贵女 / 姬 / 角色 / 王族 / 姫 / プリンセス / お姫様"
+    },
+    {
+      "en": "schoolgirl",
+      "zh": "女学生",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "detective",
+      "zh": "侦探",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2784,
+      "desc": "调查案件的警察或私家侦探",
+      "kw": "刑事 / 警探 / 私家侦探 / 探侦 / 职业 / 角色扮演 / 服装 / 探偵"
+    },
+    {
+      "en": "artist",
+      "zh": "画家",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "musician",
+      "zh": "音乐家",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "athlete",
+      "zh": "运动员",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "nun",
+      "zh": "修女",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35545,
+      "desc": "立誓过修道生活的女性，常穿修道服。",
+      "kw": "修女服 / 修女装 / 修道女 / 修女姐姐 / 修女嬷嬷 / 修女角色 / 宗教服饰 / 西方宗教 / 修道服 / シスター / バトルシスター"
+    },
+    {
+      "en": "maid",
+      "zh": "女仆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 217129,
+      "desc": "穿着女仆装的人",
+      "kw": "女仆装 / 女仆服 / 女佣 / 侍女 / 女仆小姐 / 女仆装扮 / 女仆制服 / 女仆裙 / maid uniform / maids / maid costume / maid outfit"
+    },
+    {
+      "en": "knight",
+      "zh": "骑士",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11853,
+      "desc": "中世纪欧洲的骑士，常见于奇幻和骑士题材。",
+      "kw": "女骑士 / 姬骑士 / 男骑士 / 骑士装束 / 中世纪骑士 / 骑士铠甲 / 中世纪 / 盔甲 / 姫骑士 / 騎士 / 女騎士"
+    },
+    {
+      "en": "witch",
+      "zh": "魔女",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25761,
+      "desc": "使用魔法的女性，常配尖帽、扫帚与黑猫",
+      "kw": "女巫 / 巫婆 / 魔法使 / 女魔法师 / 女术士 / 女法师 / 巫师 / 幻想角色 / witch costume / sorceress / 魔女っ子 / 魔女っこ"
+    },
+    {
+      "en": "idol",
+      "zh": "偶像",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19862,
+      "desc": "以歌舞表演为主的年轻艺人偶像",
+      "kw": "爱豆 / 偶像艺人 / 偶像歌手 / 少女偶像 / 偶像团体 / 偶像明星 / 日系偶像 / 唱跳偶像 / アイドル"
+    },
+    {
+      "en": "nurse",
+      "zh": "护士",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23609,
+      "desc": "穿着护士服装的角色，协助医生护理病患。",
+      "kw": "护士装 / 护士服 / 看护师 / 看护妇 / 护理师 / 白衣天使 / 护士制服 / 制服 / nurse outfit / nurse uniform / 东方白衣天使 / ナース"
+    },
+    {
+      "en": "soldier",
+      "zh": "士兵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6904,
+      "desc": "受训并武装、参加战争的军人",
+      "kw": "军人 / 战士 / 步兵 / 兵 / 兵士 / 军事 / soldiers / infantry / 兵队 / 歩兵"
+    },
+    {
+      "en": "pirate",
+      "zh": "海盗",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ninja",
+      "zh": "忍者",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22185,
+      "desc": "从事谍报、暗杀的日本忍者，包括女忍",
+      "kw": "日本忍者 / 忍 / 女忍 / 女忍者 / 忍术使 / 忍者氏 / 日本风格 / 忍者服 / kunoichi / くのいち / くノ一 / シノビ"
+    },
+    {
+      "en": "samurai",
+      "zh": "武士",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3963,
+      "desc": "穿传统日式盔甲、持刀枪弓的日本封建武士",
+      "kw": "日本武士 / 武侍 / 侍 / 女武士 / 武士盔甲 / 女武者 / 职业 / 女侍 / 女武者"
+    },
+    {
+      "en": "scientist",
+      "zh": "科学家",
+      "rating": "g",
+      "nsfw": false,
+      "count": 690,
+      "desc": "从事科学研究与实验的人，常穿白大褂。",
+      "kw": "科研人员 / 研究员 / 科学工作者 / 实验人员 / 科技工作者 / 职业 / 科学者"
+    },
+    {
+      "en": "chef",
+      "zh": "厨师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3153,
+      "desc": "角色穿着厨师服装。",
+      "kw": "厨师装 / 厨师制服 / 主厨服 / 厨衣 / 厨师装扮 / 职业 / chef uniform / 料理人 / りょうりにん / シェフ"
+    },
+    {
+      "en": "student",
+      "zh": "学生",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "teacher",
+      "zh": "教师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6699,
+      "desc": "在学校教学生的人，也用于角色打扮成教师。",
+      "kw": "老师 / 教员 / 先生 / 女教师 / 男教师 / 教师职业 / 教师扮装 / 职业 / sensei / 教師 / 女教師"
+    },
+    {
+      "en": "magical girl",
+      "zh": "魔法少女",
+      "rating": "g",
+      "nsfw": false,
+      "count": 131843,
+      "desc": "拥有魔法能力、被选中战斗的少女",
+      "kw": "马猴烧酒 / 魔法女孩 / 变身少女 / 魔法美少女 / 变身系少女 / 魔女 / magic girl / mahou shoujo / magical girls / henshin heroine"
+    },
+    {
+      "en": "cheerleader",
+      "zh": "啦啦队员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25523,
+      "desc": "穿制服持彩球的啦啦队员",
+      "kw": "拉拉队员 / 啦啦队成员 / 啦啦队女孩 / 拉拉队 / 应援女郎 / 啦啦队 / 制服 / cheergirl / チアリーダー / チアガール"
+    },
+    {
+      "en": "priest",
+      "zh": "祭司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3679,
+      "desc": "有权主持宗教仪式的神职人员",
+      "kw": "神父 / 司祭 / 教士 / 圣职者 / 服装 / 职业 / 宗教人士 / 性职者"
+    },
+    {
+      "en": "sailor",
+      "zh": "水手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6798,
+      "desc": "穿水手制服的人，勿与校服水手服混淆",
+      "kw": "海员 / 船员 / 水兵 / 航海者 / 水手装 / 水手服 / 职业 / sailor suit / sailor uniform / セーラー / 水兵服"
+    },
+    {
+      "en": "waitress",
+      "zh": "女服务生",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17762,
+      "desc": "穿女服务生制服、负责点单上菜的人。",
+      "kw": "餐厅服务员 / 女招待 / 女侍应 / 服务员小姐 / 侍应生 / 女侍者 / 服务员 / 服务员（女） / 给仕 / ウェイトレス / 給仕"
+    },
+    {
+      "en": "wizard",
+      "zh": "巫师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1649,
+      "desc": "使用超自然魔法的男性，常戴大帽持法杖",
+      "kw": "男巫 / 魔法师 / 术士 / 法师 / 男魔法师 / 魔法使 / 大法师 / 巫师男 / sorcerer / 魔术师 / 魔法使い"
+    },
+    {
+      "en": "oracle (ancient greece)",
+      "zh": "古希腊神谕祭司",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "pythia",
+      "zh": "皮提亚（德尔斐女祭司）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "actor",
+      "zh": "演员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 161,
+      "desc": "演员或扮演演员的角色",
+      "kw": "艺人 / 表演者 / 演戏的人 / 演员角色 / 职业 / 人物"
+    },
+    {
+      "en": "actress",
+      "zh": "女演员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 94,
+      "desc": "在舞台或影视中表演的女性",
+      "kw": "女优 / 女艺人 / 女明星 / 女表演者"
+    },
+    {
+      "en": "artist painter",
+      "zh": "画家",
+      "rating": "g",
+      "nsfw": false,
+      "count": 260,
+      "desc": "从事绘画创作的画家。",
+      "kw": "艺术家 / 绘画家 / 画师 / 画匠 / 美术家 / 画工 / 画画的人 / 创作者 / 芸术家"
+    },
+    {
+      "en": "astronaut",
+      "zh": "宇航员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2412,
+      "desc": "受训在航天器上执行任务的人员",
+      "kw": "航天员 / 太空人 / 宇宙飞行员 / 科幻 / cosmonaut / 宇宙飞行士 / 宇宙飛行士"
+    },
+    {
+      "en": "barber",
+      "zh": "理发师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120,
+      "desc": "以理发为职业的人。",
+      "kw": "发型师 / 剃头匠 / 美发师 / 剪发师 / barber / 职业服装 / 床屋"
+    },
+    {
+      "en": "bartender",
+      "zh": "调酒师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2139,
+      "desc": "在酒吧调制并供应酒类的酒保",
+      "kw": "酒吧招待 / 酒保员 / 吧台员 / 吧师 / 调酒员 / 酒吧服务员 / 酒吧员工 / バーテンダー / バーテン"
+    },
+    {
+      "en": "bodyguard",
+      "zh": "保镖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 213,
+      "desc": "受雇保护要人的保镖",
+      "kw": "护卫 / 贴身保镖 / 保镳 / 警卫 / 保镖人员 / 职业"
+    },
+    {
+      "en": "butler",
+      "zh": "执事",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4550,
+      "desc": "服侍富裕家庭的男性管家。",
+      "kw": "男管家 / 家仆 / 仆役长 / 总管 / 管事 / 男仆 / 服装 / 家令 / 家従 / 执事服 / かじゅう"
+    },
+    {
+      "en": "cashier",
+      "zh": "收银员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 644,
+      "desc": "在商店收银台结账的员工",
+      "kw": "出纳员 / 店员 / 收款员 / 柜台人员 / 结账员 / 收银台员工 / 出纳 / 收银 / 出纳系 / 出納係 / すいとうがかり / レジ係"
+    },
+    {
+      "en": "chauffeur",
+      "zh": "专职司机",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chemist",
+      "zh": "化学家/药剂师",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "conductor",
+      "zh": "指挥家",
+      "rating": "g",
+      "nsfw": false,
+      "count": 530,
+      "desc": "指挥乐团的乐队指挥",
+      "kw": "乐队指挥 / 乐团指挥 / 指揮者 / 乘务员 / 职业 / 指挥者"
+    },
+    {
+      "en": "construction worker",
+      "zh": "建筑工人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 244,
+      "desc": "戴安全帽穿反光衣的建筑工人。",
+      "kw": "建筑工 / 工地工人 / 施工人员 / 建筑工人装 / 工人 / 职业服"
+    },
+    {
+      "en": "cyclist",
+      "zh": "骑行者",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "dentist",
+      "zh": "牙医",
+      "rating": "g",
+      "nsfw": false,
+      "count": 223,
+      "desc": "诊治牙齿及口腔疾病的医生。",
+      "kw": "牙科医生 / 口腔医生 / 齿科医生 / 牙科医师 / 看牙的医生 / 职业 / 医疗 / 歯医者 / 歯科医"
+    },
+    {
+      "en": "dj",
+      "zh": "DJ",
+      "rating": "g",
+      "nsfw": false,
+      "count": 814,
+      "desc": "在夜店打碟播放音乐的DJ。",
+      "kw": "唱片骑师 / 打碟者 / 打碟员 / 夜店混音师 / 迪斯科骑师 / 音乐人 / 职业"
+    },
+    {
+      "en": "doctor",
+      "zh": "医生",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2817,
+      "desc": "在医院诊疗病人的医师。",
+      "kw": "医师 / 大夫 / 医疗师 / 医生职业 / 医务工作者 / 诊医师 / 医者 / 博士 / 女医 / 医師"
+    },
+    {
+      "en": "engineer",
+      "zh": "工程师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 139,
+      "desc": "精通电子机械与开发的工程师",
+      "kw": "技师 / 工程人员 / 职业"
+    },
+    {
+      "en": "farmer",
+      "zh": "农民",
+      "rating": "g",
+      "nsfw": false,
+      "count": 431,
+      "desc": "从事农业劳作的人",
+      "kw": "农夫 / 农人 / 农家 / 庄稼人 / 务农者 / 农民伯伯 / 乡民 / 职业"
+    },
+    {
+      "en": "firefighter",
+      "zh": "消防员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 705,
+      "desc": "受过训练、主要职责为灭火的人员",
+      "kw": "消防战士 / 救火员 / 灭火员 / 消防人员 / 消防士 / 救火队员 / 职业 / fireman"
+    },
+    {
+      "en": "fisherman",
+      "zh": "渔夫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 72,
+      "desc": "以捕鱼为业的人",
+      "kw": "渔民 / 渔翁 / 打鱼人 / 捕鱼人 / 钓鱼者 / 垂钓者"
+    },
+    {
+      "en": "flight attendant",
+      "zh": "空中乘务员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 689,
+      "desc": "在飞机上为乘客提供服务的空乘人员。",
+      "kw": "空姐 / 空少 / 客舱乘务员 / 乘务员 / 航空服务员 / 飞机乘务员 / 空乘 / air hostess / 客室乘务员 / 空乘员 / 客室乗務員"
+    },
+    {
+      "en": "florist",
+      "zh": "花店店员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 213,
+      "desc": "在花店工作、贩卖花卉的人",
+      "kw": "卖花人 / 花贩 / 花商 / 花卉店员 / 花店老板 / 花店工作者 / 花店职员 / 花屋"
+    },
+    {
+      "en": "geisha",
+      "zh": "艺伎",
+      "rating": "g",
+      "nsfw": false,
+      "count": 293,
+      "desc": "穿着和服、以歌舞技艺待客的日本女性。",
+      "kw": "艺妓 / 芸者 / 艺者 / 日本艺伎 / 舞妓 / 日本风格 / 和风 / 传统文化"
+    },
+    {
+      "en": "guard",
+      "zh": "卫兵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 195,
+      "desc": "穿制服守卫某地的卫兵，常持长柄武器。",
+      "kw": "守卫 / 哨兵 / 警卫 / 门卫 / 看守 / 护卫 / 士兵"
+    },
+    {
+      "en": "gym teacher",
+      "zh": "体育老师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 244,
+      "desc": "教体育课并常穿运动服挂哨子的老师",
+      "kw": "体育教师 / 体育教员 / 体育科教师 / 体育科老师 / 职业 / 教师"
+    },
+    {
+      "en": "hikikomori",
+      "zh": "家里蹲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 154,
+      "desc": "长期闭门不出的蛰居者",
+      "kw": "蛰居 / 隐蔽青年 / 闭门族 / 宅居族 / 蛰居者 / 宅文化 / 隐居者"
+    },
+    {
+      "en": "host",
+      "zh": "男公关",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62,
+      "desc": "男公关俱乐部中陪女客聊天饮酒的男性",
+      "kw": "男陪侍 / 夜店牛郎"
+    },
+    {
+      "en": "hostess",
+      "zh": "陪酒女",
+      "rating": "g",
+      "nsfw": false,
+      "count": 288,
+      "desc": "在女公关俱乐部陪男客饮酒的年轻女性。",
+      "kw": "夜总会女公关 / 酒店公关 / 公关小姐 / 陪酒女郎 / 夜店小姐 / 坐台小姐 / 女服务员 / キャバ嬢"
+    },
+    {
+      "en": "janitor",
+      "zh": "管理员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 113,
+      "desc": "负责清扫并兼管维护的楼宇管理员。",
+      "kw": "勤杂工 / 楼管 / 物业管理员 / 楼宇管理员 / 看门人 / 保洁员 / 杂工 / 用务员 / 管理人"
+    },
+    {
+      "en": "judge",
+      "zh": "法官",
+      "rating": "g",
+      "nsfw": false,
+      "count": 324,
+      "desc": "法庭上主持审判、持法槌的法官",
+      "kw": "审判员 / 审判官 / 裁判官 / 裁判长 / 大法官 / 审判者 / 职业 / さいばんかん / ほうかん"
+    },
+    {
+      "en": "librarian",
+      "zh": "图书管理员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 111,
+      "desc": "在图书馆工作的人员",
+      "kw": "图书馆员 / 司书 / 图书馆工作人员 / 职业女性 / 知性眼镜娘 / 図书馆员"
+    },
+    {
+      "en": "lifeguard",
+      "zh": "救生员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1603,
+      "desc": "在泳池或海滩负责安全的人员",
+      "kw": "救生人员 / 海滩救生员 / 泳池救生员 / 水上安全员 / 救生队 / 制服 / 职业 / ライフガード"
+    },
+    {
+      "en": "lumberjack",
+      "zh": "伐木工",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34
+    },
+    {
+      "en": "mechanic",
+      "zh": "机械师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1078,
+      "desc": "制造、维护或修理机器车辆装备的人。",
+      "kw": "修理工 / 技师 / 机修工 / 整备士 / 机械工 / 维修员 / 修理师 / 职业 / 整備士"
+    },
+    {
+      "en": "merchant",
+      "zh": "商人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 149,
+      "desc": "从事批发或商品买卖的商人。",
+      "kw": "商贩 / 店主 / 店家 / 买卖人 / 生意人 / 行商 / 坐商 / 老板 / shopkeeper"
+    },
+    {
+      "en": "miner",
+      "zh": "矿工",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "school nurse",
+      "zh": "校医",
+      "rating": "g",
+      "nsfw": false,
+      "count": 454,
+      "desc": "在学校医务室工作的护士，多穿白大褂",
+      "kw": "校护 / 保健室护士 / 保健老师 / 保健医 / 学校医务室护士 / 保健室医生 / 护士 / 养护教谕 / 養護教諭 / 保健室の先生 / 保健の先生"
+    },
+    {
+      "en": "office lady",
+      "zh": "OL",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23288,
+      "desc": "女性办公室职员，包括秘书、文员等。",
+      "kw": "女白领 / 办公室女性 / 女上班族 / 女职员 / 女性上班族 / 办公室女郎 / 办公室女士 / officelady / ol / secretary / 秘书"
+    },
+    {
+      "en": "patissier",
+      "zh": "糕点师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 279,
+      "desc": "专门制作烘焙甜点的糕点师",
+      "kw": "甜点师 / 西点师 / 烘焙师 / 蛋糕师 / 甜点师傅 / 职业 / 厨师"
+    },
+    {
+      "en": "pilot",
+      "zh": "驾驶员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1615,
+      "desc": "操纵飞机、航天器或机甲的人",
+      "kw": "飞行员 / 机师 / 操控者 / 操作员 / 驾驶者 / 领航员 / 舵手 / 职业"
+    },
+    {
+      "en": "salaryman",
+      "zh": "上班族",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2303,
+      "desc": "日本的男性公司职员，常被描绘成忠于公司或过劳的形象",
+      "kw": "公司职员 / 白领 / 工薪阶层 / 社畜 / 打工族 / 受薪族 / 薪资族 / businessman / office man / salary man / male secretary"
+    },
+    {
+      "en": "shepherd",
+      "zh": "牧羊人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 145,
+      "desc": "放牧并照看羊群的人。",
+      "kw": "牧羊者 / 羊倌 / 放羊人 / 牧人 / 牧羊的 / 职业 / 人物"
+    },
+    {
+      "en": "spy",
+      "zh": "间谍",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98,
+      "desc": "从事谍报活动窃取机密的人",
+      "kw": "特务 / 密探 / 卧底 / 特工 / 情报员 / 暗探 / 谍报人员 / 细作"
+    },
+    {
+      "en": "store clerk",
+      "zh": "店员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 766,
+      "desc": "商店或便利店的店员",
+      "kw": "售货员 / 营业员 / 便利店店员 / 商店店员 / 收银员 / 职业 / 服务员 / 店員 / コンビニ店員"
+    },
+    {
+      "en": "trucker",
+      "zh": "卡车司机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27
+    },
+    {
+      "en": "train attendant",
+      "zh": "列车乘务员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 139,
+      "desc": "长途列车上服务乘客、保障安全舒适的服务员",
+      "kw": "火车服务员 / 铁路乘务员 / 车掌 / 制服 / 职业"
+    },
+    {
+      "en": "train conductor",
+      "zh": "列车长",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1475,
+      "desc": "负责列车运行管理的乘务人员。",
+      "kw": "车长 / 列车员 / 火车列车长 / 乘务长 / 铁路车长 / 列车乘务员 / 车掌 / 铁路职员 / 車掌"
+    },
+    {
+      "en": "tutor",
+      "zh": "家庭教师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 107,
+      "desc": "上门到学生家中授课的私人教师",
+      "kw": "家教 / 私人教师 / 私人家教 / 辅导老师 / 家庭老师 / 上门家教 / 教师 / 私人辅导"
+    },
+    {
+      "en": "voice actor",
+      "zh": "声优",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3469,
+      "desc": "为动画或游戏角色配音的真人配音演员。",
+      "kw": "配音演员 / 配音员 / CV / 声優 / 职业 / 人物 / voice actress / seiyuu"
+    },
+    {
+      "en": "alchemist",
+      "zh": "炼金术士",
+      "rating": "g",
+      "nsfw": false,
+      "count": 92,
+      "desc": "从事炼金术的人，常见于奇幻作品。",
+      "kw": "炼金术师 / 炼金师 / 炼金士 / 炼金术者 / 炼金术士（奇幻） / 錬金术师"
+    },
+    {
+      "en": "blacksmith",
+      "zh": "铁匠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 432,
+      "desc": "锻造金属工具与武器的工匠。",
+      "kw": "锻造师 / 锻冶师 / 铁匠铺 / 打铁匠 / 铁匠师傅 / 工匠 / 职业"
+    },
+    {
+      "en": "druid (celtic)",
+      "zh": "凯尔特德鲁伊",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cowgirl (western)",
+      "zh": "西部牛仔女郎",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1392,
+      "desc": "打扮成西部牛仔的女孩",
+      "kw": "女牛仔 / 牛仔女孩 / 西部牛仔女 / 女牛仔打扮 / 西部女牛仔装束 / 西部风格 / 牛仔 / カウガール"
+    },
+    {
+      "en": "knights templar",
+      "zh": "圣殿骑士团",
+      "rating": "g",
+      "nsfw": false,
+      "count": 71,
+      "desc": "中世纪基督教军事修会圣殿骑士团。",
+      "kw": "圣殿骑士 / 神庙骑士团 / 神殿骑士团 / 圣殿骑士修会"
+    },
+    {
+      "en": "paladin",
+      "zh": "圣骑士",
+      "rating": "g",
+      "nsfw": false,
+      "count": 224,
+      "desc": "欧洲中世纪传说中的圣骑士",
+      "kw": "帕拉丁 / 圣武士 / 神圣骑士 / 职业 / 幻想 / パラディン"
+    },
+    {
+      "en": "sheriff (western)",
+      "zh": "治安官（西部）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 225,
+      "desc": "西部题材中的警长角色",
+      "kw": "警长（西部） / 西部治安官 / 西部小镇警长 / 西部警官 / 警长 (西部) / 西部风格 / 牛仔"
+    },
+    {
+      "en": "warrior",
+      "zh": "战士",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1239,
+      "desc": "擅长战斗、常披甲持近战武器的战士类角色",
+      "kw": "勇者 / 武士 / 斗士 / 战斗员 / 士兵 / 剑士 / 女战士 / 战姬 / 女戦士 / 戦乙女 / 戦士 / 劍士"
+    },
+    {
+      "en": "gladiator",
+      "zh": "角斗士",
+      "rating": "s",
+      "nsfw": false,
+      "count": 489,
+      "desc": "在竞技场中为娱乐观众而战斗的斗士",
+      "kw": "剑斗士 / 格斗士 / 竞技场斗士 / 罗马角斗士 / 斗士 / 战士 / 古罗马 / gladiatrix / 剣闘士"
+    },
+    {
+      "en": "park ranger",
+      "zh": "公园巡护员",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "police",
+      "zh": "警察",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17837,
+      "desc": "维持治安、侦查犯罪的部门及人员。",
+      "kw": "警官 / 警员 / 公安 / 警察官 / 警务人员 / 民警 / 职业 / cop / police officer / おまわりさんの日"
+    },
+    {
+      "en": "policeman",
+      "zh": "男警察",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1728,
+      "desc": "穿制服执勤的男性警察",
+      "kw": "男警官 / 男警 / 男警员 / 警官 / 男性警察 / 警察 / 职业 / 执法者 / police man / police-man"
+    },
+    {
+      "en": "policewoman",
+      "zh": "女警",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10613,
+      "desc": "穿女式警察制服的人，不限性别",
+      "kw": "女警察 / 女警官 / 女性警察 / 女警员 / 警花 / 警察 / 制服 / 职业 / police woman / police-woman / 女性警察官 / 妇人警官"
+    },
+    {
+      "en": "security guard",
+      "zh": "保安",
+      "rating": "g",
+      "nsfw": false,
+      "count": 268,
+      "desc": "在公共场所执勤的保安人员",
+      "kw": "保安人员 / 警卫 / 保卫 / 安保人员 / 门卫 / 守卫 / 警备员 / 安保 / 警備員"
+    },
+    {
+      "en": "sheriff (contemporary)",
+      "zh": "警长（现代）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41
+    },
+    {
+      "en": "drill instructor",
+      "zh": "新兵教官",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "frogman",
+      "zh": "蛙人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 82,
+      "desc": "使用水肺装备执行任务的战斗潜水员",
+      "kw": "战斗蛙人 / 蛙人部队 / 战斗潜水员 / 蛙人潜水员 / 水鬼"
+    },
+    {
+      "en": "mercenary",
+      "zh": "佣兵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38
+    },
+    {
+      "en": "military medic",
+      "zh": "军医",
+      "rating": "g",
+      "nsfw": false,
+      "count": 239,
+      "desc": "战场上负责急救的军事医务人员",
+      "kw": "战地医护兵 / 战斗医疗兵 / 卫生员 / 战场急救员 / 军中医务兵 / 战地卫生员 / 卫生兵 / combat medic"
+    },
+    {
+      "en": "military operator",
+      "zh": "军事干员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 949,
+      "desc": "特种部队等精锐军事单位的成员",
+      "kw": "特种兵 / 特战队员 / 特种部队成员 / 特勤人员 / 军事行动人员 / 军事 / 干员角色 / operator / specialoperations / 特殊部队 / 特殊部隊"
+    },
+    {
+      "en": "military police",
+      "zh": "宪兵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 134,
+      "desc": "负责维持军纪、可逮捕违纪军人的军人",
+      "kw": "军事警察 / 军警 / 宪兵队 / 军人 / 警察"
+    },
+    {
+      "en": "sniper team",
+      "zh": "狙击小组",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36
+    },
+    {
+      "en": "paratrooper",
+      "zh": "空降兵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 127,
+      "desc": "受过跳伞训练、执行空降作战的士兵。",
+      "kw": "跳伞兵 / 降落伞兵 / 空降部队 / 军人 / 军事"
+    },
+    {
+      "en": "standard bearer",
+      "zh": "旗手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1013,
+      "desc": "举着旗帜或军旗的人",
+      "kw": "举旗者 / 扛旗人 / 掌旗手 / 执旗手 / 持旗者 / 人物"
+    },
+    {
+      "en": "bandit",
+      "zh": "强盗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "burglar",
+      "zh": "窃贼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40
+    },
+    {
+      "en": "dealer (gambling)",
+      "zh": "荷官（博彩）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 260,
+      "desc": "赌场中发牌并收付赌注的荷官",
+      "kw": "发牌员 / 庄家 / 赌场发牌员 / 赌场工作人员 / 发牌荷官 / 台面荷官 / 赌场荷官"
+    },
+    {
+      "en": "gangster",
+      "zh": "黑帮成员",
+      "rating": "g",
+      "nsfw": false,
+      "count": 271,
+      "desc": "黑帮等犯罪组织的成员",
+      "kw": "流氓 / 歹徒 / 匪徒 / 帮派分子 / 黑社会成员 / 古惑仔 / 服装 / 黑帮 / ギャングスター"
+    },
+    {
+      "en": "hacker",
+      "zh": "黑客",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "mafia",
+      "zh": "黑手党",
+      "rating": "g",
+      "nsfw": false,
+      "count": 496,
+      "desc": "意大利黑手党等有组织犯罪集团",
+      "kw": "黑帮 / 黑道 / 黑社会 / 有组织犯罪 / 黑手党组织 / 意大利黑手党 / 犯罪集团 / 帮派 / マフィア"
+    },
+    {
+      "en": "yakuza",
+      "zh": "极道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 549,
+      "desc": "日本传统有组织犯罪集团，成员常有全身纹身",
+      "kw": "日本黑帮 / 日本黑道 / 黑道 / 黑社会 / 暴力团 / 雅库扎 / 极道组织 / 任侠 / ヤクザ / やくざ"
+    },
+    {
+      "en": "prisoner",
+      "zh": "囚犯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 652,
+      "desc": "被关押在监狱中的人",
+      "kw": "犯人 / 囚徒 / 在押人员 / 监犯 / 阶下囚 / 囚人 / 服刑人员 / 囚服 / 刑务所 / 刑務所"
+    },
+    {
+      "en": "terrorist",
+      "zh": "恐怖分子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 65,
+      "desc": "从事恐怖活动或属于恐怖组织的角色",
+      "kw": "恐怖份子 / 恐怖主义者 / 恐怖组织成员 / 恐怖分子角色"
+    },
+    {
+      "en": "cleric",
+      "zh": "牧师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 222,
+      "desc": "奇幻游戏中的牧师职业角色",
+      "kw": "圣职者 / 神官 / 祭司 / 僧侣 / 传教士 / 神父 / 司祭 / 聖職者 / 性职者"
+    },
+    {
+      "en": "monk",
+      "zh": "僧侣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1282,
+      "desc": "男性宗教修行者，通常独身，生活在修道院。",
+      "kw": "和尚 / 修行者 / 出家人 / 修士 / 人物 / 宗教 / 僧侶 / そうりょ / 坊さん / ぼうさん"
+    },
+    {
+      "en": "pope",
+      "zh": "教皇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 107,
+      "desc": "天主教会的最高领袖、罗马主教。",
+      "kw": "教宗 / 罗马教皇 / 天主教教皇 / 职业 / 宗教领袖"
+    },
+    {
+      "en": "stripper",
+      "zh": "脱衣舞者",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1337,
+      "desc": "以脱衣表演为职业的人。",
+      "kw": "脱衣舞女 / 脱衣舞女郎 / 艳舞女郎 / 脱衣舞表演者 / 职业 / 表演 / ストリッパー"
+    },
+    {
+      "en": "barista",
+      "zh": "咖啡师",
+      "rating": "g",
+      "nsfw": false,
+      "count": 614,
+      "desc": "在咖啡馆柜台后制作咖啡的人",
+      "kw": "咖啡店员 / 咖啡调配师 / 咖啡师傅 / 咖啡吧台员 / 咖啡吧员 / 职业 / 服务员 / バリスタ"
+    },
+    {
+      "en": "dominator (bdsm)",
+      "zh": "支配者（BDSM）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 547,
+      "desc": "BDSM中扮演支配方的男性",
+      "kw": "主人 / 调教师 / S方 / 支配方 / 支配者 (BDSM) / 性行为 / 职业 / 男性主导"
+    },
+    {
+      "en": "shosei",
+      "zh": "书生",
+      "rating": "g",
+      "nsfw": false,
+      "count": 350,
+      "desc": "以帮做家务换取食宿的学生，多穿和服配袴",
+      "kw": "书童 / 书生装 / 明治书生 / 大正书生 / 寄宿学生 / 中国风 / 古装 / 人物"
+    },
+    {
+      "en": "alter servant",
+      "zh": "黑化从者",
+      "rating": "g",
+      "count": 587,
+      "desc": "被圣杯黑泥污染的从者黑化形态",
+      "kw": "黑化英灵 / Alter从者 / 黑化Servant / Fate系列 / 英灵 / fate黒化"
+    },
+    {
+      "en": "amazon warrior",
+      "zh": "亚马逊女战士",
+      "rating": "g",
+      "count": 1068,
+      "desc": "希腊神话中尚武的女性战士。",
+      "kw": "亚马逊战士 / 亚马逊女 / 亚马逊族 / 阿玛宗 / 亚马逊女武士 / 亚马逊娘子军 / 亚马逊女族 / 战士 / amazons / amazon / アマゾン / アマゾーン"
+    },
+    {
+      "en": "ballerina",
+      "zh": "芭蕾舞女演员",
+      "rating": "g",
+      "count": 3590,
+      "desc": "穿芭蕾舞裙与足尖鞋的女芭蕾舞者",
+      "kw": "芭蕾舞者 / 芭蕾舞女 / 芭蕾演员 / 芭蕾少女 / 跳芭蕾的女孩 / 芭蕾舞演员 / バレリーナ / バレエダンサー"
+    },
+    {
+      "en": "bride",
+      "zh": "新娘",
+      "rating": "g",
+      "count": 12000,
+      "desc": "婚礼中身着婚纱或婚服的新娘。",
+      "kw": "新娘子 / 花嫁 / 新婚妻子 / 嫁娘 / 新娘装扮 / 穿婚纱的新娘 / 婚礼 / 婚纱 / 精液婚纱 / はなよめ / ブライド"
+    },
+    {
+      "en": "buddhist nun",
+      "zh": "尼姑",
+      "rating": "g",
+      "count": 613,
+      "desc": "佛教中的女性出家人",
+      "kw": "比丘尼 / 尼僧 / 女尼 / 佛门尼姑 / 僧尼 / 佛教 / 宗教"
+    },
+    {
+      "en": "carhop",
+      "zh": "汽车餐厅服务生",
+      "rating": "g",
+      "count": 549,
+      "desc": "把快餐送到车边的汽车餐厅服务生",
+      "kw": "汽车餐厅服务员 / 车载餐厅服务生 / 汽车快餐服务员 / 车边服务生 / 汽车送餐员 / 服务员 / 制服 / カーホップ"
+    },
+    {
+      "en": "cowboy",
+      "zh": "牛仔",
+      "rating": "g",
+      "count": 1305,
+      "desc": "打扮成西部牛仔的角色。",
+      "kw": "西部牛仔 / 牛仔打扮 / 牛仔装 / 牛仔风格 / 服装 / 西方风格 / cowboys / カウボーイ / 카우보이"
+    },
+    {
+      "en": "dancer",
+      "zh": "舞者",
+      "rating": "g",
+      "count": 7938,
+      "desc": "衣着华丽、在人群前表演舞蹈的人。",
+      "kw": "舞蹈演员 / 跳舞的人 / 舞女 / 舞娘 / 舞姬 / 舞蹈者 / 表演舞蹈者 / 舞台舞者 / 踊り子 / ベリーダンス / ダンサー"
+    },
+    {
+      "en": "delinquent",
+      "zh": "不良少年",
+      "rating": "g",
+      "count": 3254,
+      "desc": "穿着与言行叛逆的学生不良少年",
+      "kw": "不良 / 不良少女 / 不良学生 / 小混混 / 太妹 / 古惑仔 / 痞子 / 流氓 / yankee / ヤンキー"
+    },
+    {
+      "en": "female butler",
+      "zh": "女执事",
+      "rating": "g",
+      "count": 1275,
+      "desc": "穿男式执事制服的女性角色",
+      "kw": "女管家 / 女执事装 / 执事服女性 / 女仆执事 / 女性管家 / 执事服 / 制服"
+    },
+    {
+      "en": "gold saint",
+      "zh": "黄金圣斗士",
+      "rating": "g",
+      "count": 515,
+      "desc": "《圣斗士星矢》中身穿黄金圣衣的圣斗士",
+      "kw": "黄金圣闘士 / 黃金聖鬥士 / 黄金圣斗士们 / 圣斗士星矢 / 黄金圣衣 / 黄金聖闘士"
+    },
+    {
+      "en": "groom",
+      "zh": "新郎",
+      "rating": "g",
+      "count": 2004,
+      "desc": "婚礼中的男性主角",
+      "kw": "新郎官 / 新郎倌 / 新郎哥 / 花婿 / 新人 / 夫婿 / 婚礼 / 男性"
+    },
+    {
+      "en": "gyaruo",
+      "zh": "辣妹男",
+      "rating": "g",
+      "count": 2136,
+      "desc": "辣妹风格的男性版本",
+      "kw": "男辣妹 / 辣仔 / 辣妹系男子 / 涩谷系男 / 黑辣男 / 男版辣妹 / 辣男 / 辣妹风格 / male gyaru / charao / gyaru-oh / ギャル男"
+    },
+    {
+      "en": "hime gyaru",
+      "zh": "姬系辣妹",
+      "rating": "g",
+      "count": 216,
+      "desc": "以柔和粉白色系为主的姬系辣妹",
+      "kw": "姬辣妹 / 姬系 / 公主辣妹 / 公主风辣妹 / 千金辣妹 / 公主系辣妹 / 日本风格 / 辣妹时尚"
+    },
+    {
+      "en": "hippie",
+      "zh": "嬉皮士",
+      "rating": "g",
+      "count": 101,
+      "desc": "1960-70年代西方反文化运动成员",
+      "kw": "嬉皮 / 花童 / 反文化青年 / 时尚风格 / 嬉皮风格 / 波西米亚风格"
+    },
+    {
+      "en": "hipster",
+      "zh": "潮人",
+      "rating": "g",
+      "count": 134,
+      "desc": "2010年代流行的文青潮人风格",
+      "kw": "文艺青年 / 文青 / 时髦青年 / 复古潮流客 / 小众潮流爱好者 / 复古潮人 / 都市潮人 / 时尚风格"
+    },
+    {
+      "en": "housewife",
+      "zh": "家庭主妇",
+      "rating": "g",
+      "count": 878,
+      "desc": "主要在家操持家务的女性",
+      "kw": "主妇 / 全职主妇 / 家庭妇女 / 太太 / 职业 / 女性 / house wife / 主婦"
+    },
+    {
+      "en": "japan national police",
+      "zh": "日本警察",
+      "rating": "g",
+      "count": 1479,
+      "desc": "日本的国家警察机关及其制服",
+      "kw": "日本国家警察 / 日本警官 / 日本警服 / 日本警察制服 / 日本警察厅 / 警察 / 日本风格 / 警察庁 / 都道府県警察"
+    },
+    {
+      "en": "king",
+      "zh": "国王",
+      "rating": "g",
+      "count": 604,
+      "desc": "国王，通常指男性君主",
+      "kw": "王 / 君主 / 国王陛下 / 君王 / 帝王 / 男性国王 / 王者 / 왕"
+    },
+    {
+      "en": "magical boy",
+      "zh": "魔法少年",
+      "rating": "g",
+      "count": 1474,
+      "desc": "相当于魔法少女的男性魔法战士",
+      "kw": "魔法男孩 / 魔少 / 魔法正太 / 魔法男子 / 魔法 / 变身"
+    },
+    {
+      "en": "magician",
+      "zh": "魔术师",
+      "rating": "g",
+      "count": 1226,
+      "desc": "戴高帽穿燕尾服的舞台魔术师造型角色。",
+      "kw": "舞台魔术师 / 变魔术的 / 魔术表演者 / 奇术师 / 手品师 / 魔法师 / 法师 / 职业 / マジシャン / 奇術師"
+    },
+    {
+      "en": "male maid",
+      "zh": "男性女仆",
+      "rating": "g",
+      "count": 9218,
+      "desc": "穿着女仆装的男性角色",
+      "kw": "男仆 / 女装男仆 / 伪娘女仆 / 男娘女仆 / 女仆装男子 / 女仆装男生 / 男佣 / 穿女仆装的男性 / メイド男子"
+    },
+    {
+      "en": "mechanical magical girl",
+      "zh": "机械魔法少女",
+      "rating": "g",
+      "count": 21698,
+      "desc": "具有机械或改造元素的魔法少女",
+      "kw": "机甲魔法少女 / 改造魔法少女 / 机械娘魔法少女 / 魔法少女机械 / 科幻魔法少女 / 机甲少女 / 变身女主角"
+    },
+    {
+      "en": "oiran",
+      "zh": "花魁",
+      "rating": "g",
+      "count": 635,
+      "desc": "江户吉原最高等级、多才多艺的花魁",
+      "kw": "吉原花魁 / 江户花魁 / 花魁女郎 / 花魁娘 / 艺伎 / 日本风"
+    },
+    {
+      "en": "onee gyaru",
+      "zh": "御姐辣妹",
+      "rating": "g",
+      "count": 969,
+      "desc": "成熟稳重、收敛夸张元素的辣妹风格",
+      "kw": "姐姐系辣妹 / 成熟辣妹 / 轻熟辣妹 / OL辣妹 / 办公室辣妹 / 知性辣妹 / 御姐系辣妹 / 温和辣妹"
+    },
+    {
+      "en": "pact holder",
+      "zh": "契约持有者",
+      "rating": "g",
+      "count": 520,
+      "desc": "与恶魔等缔结契约并持有契约的人",
+      "kw": "契约者 / 契约持有人 / 持有契约者 / 契约签订者 / 契约缔结者 / 签约者 / 角色身份"
+    },
+    {
+      "en": "phantom thief",
+      "zh": "怪盗",
+      "rating": "g",
+      "count": 739,
+      "desc": "为刺激或行侠而偷盗的怪盗型角色",
+      "kw": "怪盗绅士 / 神秘盗贼 / 幻影盗贼 / 侠盗 / 义贼 / 怪盗风格 / 盗贼 / 角色"
+    },
+    {
+      "en": "priestess",
+      "zh": "女祭司",
+      "rating": "g",
+      "count": 1458,
+      "desc": "女性神职人员或女祭司。",
+      "kw": "女神官 / 女教士 / 女司祭 / 女性神官 / 女牧师 / 祭司女 / 祭司 / 宗教角色"
+    },
+    {
+      "en": "primarch",
+      "zh": "原体",
+      "rating": "g",
+      "count": 989,
+      "desc": "《战锤40K》中帝皇创造的二十位基因原体",
+      "kw": "基因原体 / 战锤原体 / 原体（战锤40K） / 大原体 / 战锤40K / 领袖 / プライマーク / 総主長(ウォーハンマー40k)"
+    },
+    {
+      "en": "prince",
+      "zh": "王子",
+      "rating": "g",
+      "count": 1207,
+      "desc": "国王或女王的儿子",
+      "kw": "王子殿下 / 皇子 / 王储 / 男性角色 / 皇室"
+    },
+    {
+      "en": "queen",
+      "zh": "女王",
+      "rating": "g",
+      "count": 972,
+      "desc": "女性君主或王后",
+      "kw": "王后 / 皇后 / 女王陛下 / 女君主 / 皇室"
+    },
+    {
+      "en": "race queen",
+      "zh": "赛车女郎",
+      "rating": "s",
+      "count": 13072,
+      "desc": "赛车场上穿赞助商服装的赛车女郎",
+      "kw": "赛车皇后 / 车模 / 赛车模特 / 赛车队女郎 / 赛车美女 / 竞速女郎 / 制服 / 职业装 / racequeen / レースクイーン / 賽車女郎 / 레이싱모델"
+    },
+    {
+      "en": "raver",
+      "zh": "锐舞客",
+      "rating": "g",
+      "count": 387,
+      "desc": "参加锐舞派对的锐舞客，常穿色彩鲜艳的合成纤维服装",
+      "kw": "锐舞者 / 锐舞派对参与者 / 派对动物 / 狂欢客 / 电子音乐迷 / 锐舞爱好者 / 派对狂 / rave / rave"
+    },
+    {
+      "en": "sailor senshi",
+      "zh": "水手战士",
+      "rating": "g",
+      "count": 1406,
+      "desc": "《美少女战士》系列中的水手服战士群体。",
+      "kw": "美少女战士 / 水手服战士 / 水手战士团 / 美少女战士成员 / 水手月亮战士 / 水手战士们 / 战士 / セーラー戦士"
+    },
+    {
+      "en": "spartan (halo)",
+      "zh": "斯巴达战士（光环）",
+      "rating": "g",
+      "count": 524,
+      "desc": "《光环》系列中的强化超级士兵",
+      "kw": "斯巴达 / 光环斯巴达 / 斯巴达士兵 / 超级战士斯巴达 / 斯巴达战士 (光环) / 科幻 / 游戏角色 / スパルタン"
+    },
+    {
+      "en": "travel attendant",
+      "zh": "乘务员",
+      "rating": "g",
+      "count": 1190,
+      "desc": "在飞机、轮船或列车上为乘客服务的工作人员。",
+      "kw": "空乘 / 客舱乘务员 / 空中服务员 / 列车乘务员 / 列车员 / 客舱服务员 / 旅行服务员 / 乘务人员 / stewardess / 客室乘务员 / 客室乗務員 / アテンダント"
+    },
+    {
+      "en": "unconventional maid",
+      "zh": "非传统女仆",
+      "rating": "s",
+      "count": 14238,
+      "desc": "穿比基尼女仆装或战术女仆装等另类女仆装",
+      "kw": "另类女仆 / 非典型女仆 / 特殊女仆装 / 创意女仆 / 非正统女仆 / 改良女仆 / 非主流女仆 / 创新女仆"
+    },
+    {
+      "en": "victorian maid",
+      "zh": "维多利亚女仆",
+      "rating": "g",
+      "count": 1046,
+      "desc": "维多利亚时代风格女仆装，配长围裙与软帽",
+      "kw": "维多利亚时代女仆 / 维多利亚风女仆 / 古典女仆 / 经典女仆 / 维多利亚女仆装 / 女仆装 / 制服 / 维多利亚风 / ビクトリアンメイド / クラシックメイド"
+    },
+    {
+      "en": "viking",
+      "zh": "维京人",
+      "rating": "g",
+      "count": 607,
+      "desc": "8至11世纪劫掠欧洲的北欧战士",
+      "kw": "维京 / 北欧海盗 / 维京战士 / 维京海盗 / 斯堪的纳维亚海盗 / 北欧 / 战士"
+    },
+    {
+      "en": "virtual youtuber",
+      "zh": "虚拟主播",
+      "rating": "g",
+      "count": 671382,
+      "desc": "使用虚拟形象进行直播的创作者",
+      "kw": "虚拟YouTuber / Vtuber / 虚拟UP主 / VUP / 虚拟偶像 / VTuber / vtuber / envtuber / giftuber / hkvtuber"
+    },
+    {
+      "en": "wa maid",
+      "zh": "和风女仆",
+      "rating": "g",
+      "count": 7408,
+      "desc": "穿和服或浴衣配女仆围裙的日式女仆",
+      "kw": "日式女仆 / 和服女仆 / 浴衣女仆 / 和装女仆 / 大正女仆 / 和风女佣 / 女仆和服 / japanese maid / 女仆（和风） / 和風メイド / 和メイド"
+    },
+    {
+      "en": "wrestler",
+      "zh": "摔跤手",
+      "rating": "g",
+      "count": 646,
+      "desc": "从事摔跤运动或职业摔角的人",
+      "kw": "摔角手 / 职业摔跤手 / 职业摔角手 / 摔跤选手 / 角力手 / 摔角选手 / 美式摔角手 / 摔角运动员 / プロレスラー"
+    }
+  ]
+}

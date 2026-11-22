@@ -1,0 +1,55 @@
+{
+  "id": "haruhi_suzumiya",
+  "name": "凉宫春日的忧郁",
+  "parentId": "anime",
+  "order": 25,
+  "file": "anime/haruhi_suzumiya.json",
+  "characters": [
+    {
+      "game": "凉宫春日的忧郁",
+      "gameTag": "the melancholy of haruhi suzumiya",
+      "name": "凉宫春日",
+      "tag": "suzumiya haruhi",
+      "charZh": "凉宫春日（凉宫春日的忧郁）",
+      "auto": "brown hair|棕发;hair ribbon|发带",
+      "subName": ""
+    },
+    {
+      "game": "凉宫春日的忧郁",
+      "gameTag": "the melancholy of haruhi suzumiya",
+      "name": "长门有希",
+      "tag": "nagato yuki",
+      "charZh": "长门有希（凉宫春日的忧郁）",
+      "auto": "purple hair|紫发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "凉宫春日的忧郁",
+      "gameTag": "the melancholy of haruhi suzumiya",
+      "name": "朝比奈实玖琉",
+      "tag": "asahina mikuru",
+      "charZh": "朝比奈实玖琉（凉宫春日的忧郁）",
+      "auto": "brown hair|棕发;long hair|长发;maid outfit|女仆装",
+      "subName": ""
+    },
+    {
+      "game": "凉宫春日的忧郁",
+      "gameTag": "the melancholy of haruhi suzumiya",
+      "name": "古泉一树",
+      "tag": "koizumi itsuki",
+      "charZh": "古泉一树（凉宫春日的忧郁）",
+      "auto": "brown hair|棕发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "凉宫春日的忧郁",
+      "gameTag": "the melancholy of haruhi suzumiya",
+      "name": "鹤屋",
+      "tag": "tsuruya (haruhi)",
+      "charZh": "鹤屋（凉宫春日的忧郁）",
+      "auto": "green hair|绿发;long hair|长发",
+      "subName": ""
+    }
+  ],
+  "count": 5
+}

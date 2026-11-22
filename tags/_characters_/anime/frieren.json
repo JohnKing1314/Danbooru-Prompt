@@ -1,0 +1,91 @@
+{
+  "id": "frieren",
+  "name": "葬送的芙莉莲",
+  "parentId": "anime",
+  "order": 7,
+  "file": "anime/frieren.json",
+  "characters": [
+    {
+      "game": "葬送的芙莉莲",
+      "gameTag": "anime",
+      "name": "芙莉莲",
+      "tag": "frieren",
+      "charZh": "芙莉莲（葬送的芙莉莲）",
+      "auto": "silver hair|银发;twintails|双马尾;green eyes|绿瞳;pointy ears|尖耳;staff|法杖;small breasts|小胸;black pantyhose|黑色连裤袜;scarf|围巾",
+      "subName": ""
+    },
+    {
+      "game": "葬送的芙莉莲",
+      "gameTag": "anime",
+      "name": "菲伦",
+      "tag": "fern (sousou no frieren)",
+      "charZh": "菲伦（葬送的芙莉莲）",
+      "auto": "purple hair|紫发;purple eyes|紫瞳;staff|法杖;blunt bangs|齐刘海;dress|连衣裙;cape|披风;boots|靴子;small breasts|小胸;student|学生",
+      "subName": ""
+    },
+    {
+      "game": "葬送的芙莉莲",
+      "gameTag": "anime",
+      "name": "修塔尔克",
+      "tag": "stark (sousou no frieren)",
+      "charZh": "修塔尔克（葬送的芙莉莲）",
+      "auto": "red hair|红发;orange eyes|橙瞳;axe|斧头;tsurime|吊眼;scar|伤疤;gloves|手套;boots|靴子",
+      "subName": ""
+    },
+    {
+      "game": "葬送的芙莉莲",
+      "gameTag": "anime",
+      "name": "辛美尔",
+      "tag": "himmel (sousou no frieren)",
+      "charZh": "辛美尔（葬送的芙莉莲）",
+      "auto": "blue hair|蓝发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "葬送的芙莉莲",
+      "gameTag": "anime",
+      "name": "阿乌拉",
+      "tag": "aura (sousou no frieren)",
+      "charZh": "阿乌拉（葬送的芙莉莲）",
+      "auto": "purple hair|紫发;twintails|双马尾;braid|麻花辫;purple eyes|紫瞳;bangs|刘海;gloves|手套;thigh boots|过膝靴",
+      "subName": ""
+    },
+    {
+      "game": "葬送的芙莉莲",
+      "gameTag": "anime",
+      "name": "赛莉艾",
+      "tag": "serie (sousou no frieren)",
+      "charZh": "赛莉艾（葬送的芙莉莲）",
+      "auto": "blonde hair|金发;long hair|长发;pointy ears|尖耳;tsurime|吊眼;bangs|刘海;small breasts|小胸;necklace|项链;earrings|耳环;belt|腰带;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "葬送的芙莉莲",
+      "gameTag": "anime",
+      "name": "尤贝尔",
+      "tag": "ubel (sousou no frieren)",
+      "charZh": "尤贝尔（葬送的芙莉莲）",
+      "auto": "green hair|绿发;long hair|长发;ponytail|马尾;purple eyes|紫瞳;staff|法杖;bangs|刘海;tsurime|吊眼;pleated skirt|百褶裙;dress|连衣裙;belt|腰带",
+      "subName": ""
+    },
+    {
+      "game": "葬送的芙莉莲",
+      "gameTag": "anime",
+      "name": "艾泽",
+      "tag": "eisen (sousou no frieren)",
+      "charZh": "艾泽（葬送的芙莉莲）",
+      "auto": "brown hair|棕发;black eyes|黑瞳;beard|胡须;axe|斧头;cape|披风;helmet|头盔",
+      "subName": ""
+    },
+    {
+      "game": "葬送的芙莉莲",
+      "gameTag": "anime",
+      "name": "兰泽",
+      "tag": "land (sousou no frieren)",
+      "charZh": "兰泽（葬送的芙莉莲）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;coat|大衣",
+      "subName": ""
+    }
+  ],
+  "count": 9
+}

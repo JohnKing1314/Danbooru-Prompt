@@ -1,0 +1,1855 @@
+{
+  "id": "mouth_action",
+  "name": "嘴部动作",
+  "icon": "👄",
+  "parentId": "action_group",
+  "level": 2,
+  "order": 3,
+  "file": "action_group/action_group_mouth_action.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "tongue out",
+      "zh": "吐舌",
+      "rating": "s",
+      "nsfw": false,
+      "count": 433755,
+      "desc": "舌头伸出口外的动作或表情",
+      "kw": "吐舌头 / 伸舌头 / 伸出舌头 / 伸舌 / 舔舌 / 舌头 / 表情 / 舌出し"
+    },
+    {
+      "en": "drooling",
+      "zh": "流口水",
+      "rating": "q",
+      "nsfw": true,
+      "count": 82767,
+      "desc": "唾液从嘴角流出",
+      "kw": "流涎 / 流唾沫 / 嘴角流口水 / 滴口水 / 淌口水 / 流哈喇子 / 垂涎 / 表情 / saliva drip / よだれ"
+    },
+    {
+      "en": "sighing",
+      "zh": "叹气",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gasping",
+      "zh": "倒吸一口气",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "shouting",
+      "zh": "大喊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13339,
+      "desc": "角色大声喊叫的状态，常与争吵等场景连用",
+      "kw": "大叫 / 呼喊 / 吼叫 / 呐喊 / 叫喊 / 高喊 / 表情 / shout / yelling"
+    },
+    {
+      "en": "whispering",
+      "zh": "低语",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3458,
+      "desc": "压低声音说话以免被旁人听到。",
+      "kw": "悄悄话 / 讲悄悄话 / 低声私语 / 窃窃私语 / 咬耳朵 / 动作 / 表情 / whisper"
+    },
+    {
+      "en": "singing",
+      "zh": "唱歌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16917,
+      "desc": "用嗓音演唱歌曲的动作，角色通常张嘴，有音符飘出。",
+      "kw": "歌唱 / 演唱 / 引吭高歌 / 高歌 / K歌 / 唱歌中 / 唱曲 / 歌声 / sing / 歌う"
+    },
+    {
+      "en": "humming",
+      "zh": "哼歌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 443,
+      "desc": "闭口低声哼唱旋律。",
+      "kw": "哼调 / 哼鸣 / 低唱 / 闭口哼唱 / 轻哼 / 喃喃哼唱 / 表情 / ハミング"
+    },
+    {
+      "en": "sigh",
+      "zh": "叹气",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4660,
+      "desc": "脸旁画出一小团气流表示叹气",
+      "kw": "叹息 / 唉声叹气 / 长叹 / 唏嘘 / 表情 / sighing"
+    },
+    {
+      "en": "ass-to-mouth",
+      "zh": "毒龙",
+      "rating": "q",
+      "nsfw": true,
+      "count": 116,
+      "desc": "把阴茎或物体从肛门抽出后直接放入口中",
+      "kw": "菊花到嘴 / 肛门到嘴 / 后门到嘴 / 肛门到口腔 / ATM / 肛交 / 口交 / 性行为"
+    },
+    {
+      "en": "condom in mouth",
+      "zh": "口含避孕套",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7381,
+      "desc": "用嘴叼着避孕套",
+      "kw": "嘴含避孕套 / 口含安全套 / 叼套 / 嘴里叼套 / 咬避孕套 / 叼着避孕套 / 含套 / 面部 / 含套 / 嘴里含避孕套 / 咥えゴム / くわえゴム"
+    },
+    {
+      "en": "oral invitation",
+      "zh": "口交邀请",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2749,
+      "desc": "张大嘴伸出舌头、暗示想要口爆的姿势",
+      "kw": "口射邀请 / 张嘴求射 / 伸舌求射 / 张口接精 / 等待口爆 / 舌诱口交 / 口内射精邀请 / 等待射在嘴里 / 顔射待ち / 舌射待ち / 舌は性器"
+    },
+    {
+      "en": "pussy juice in mouth",
+      "zh": "口内爱液",
+      "rating": "q",
+      "nsfw": true,
+      "count": 196,
+      "desc": "口中含着的爱液。",
+      "kw": "嘴里爱液 / 含爱液 / 口含淫水 / 爱液入口 / 嘴里含着爱液 / 爱液 / 液体"
+    },
+    {
+      "en": "screaming",
+      "zh": "尖叫",
+      "rating": "s",
+      "nsfw": false,
+      "count": 5886,
+      "desc": "因恐惧、兴奋或性高潮而大声尖叫",
+      "kw": "惊叫 / 大叫 / 喊叫 / 放声尖叫 / 尖叫声 / 表情 / scream"
+    },
+    {
+      "en": ":p",
+      "zh": "闭嘴吐舌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 65180,
+      "desc": "闭嘴向下吐舌的表情",
+      "kw": "吐舌 / 吐舌头 / 伸舌头 / 闭口伸舌 / 吐舌表情 / 卖萌吐舌 / 俏皮吐舌 / :b"
+    },
+    {
+      "en": ":q",
+      "zh": "舔唇",
+      "rating": "s",
+      "nsfw": false,
+      "count": 50830,
+      "desc": "舌尖沿上唇舔动，表示期待美食或俏皮挑逗",
+      "kw": "舔上唇 / 舔嘴唇表情 / 期待美食表情 / 俏皮舔唇 / 舌尖舔上唇 / 向上吐舌 / 面部 / :9 / ペコ舌"
+    },
+    {
+      "en": "q",
+      "zh": ";q（表情）",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "mutual breast sucking",
+      "zh": "互相吸乳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 107,
+      "desc": "两人同时互相吸吮对方乳房",
+      "kw": "相互吮吸乳房 / 相互吸乳 / 互相吸奶 / 互相吃奶 / 同时吸吮对方乳房 / 相互授乳 / 乳房标签"
+    },
+    {
+      "en": "biting nipple",
+      "zh": "咬乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 397,
+      "desc": "用牙齿咬住他人乳头，有别于吸吮乳房",
+      "kw": "啃乳头 / 轻咬乳头 / 咬奶头 / 啃奶头 / 咬乳首 / 乳头咬合 / 咬住乳头 / 咬胸 / nipple bite / nipple biting"
+    },
+    {
+      "en": "wing biting",
+      "zh": "咬翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "kissing foot",
+      "zh": "吻足",
+      "rating": "q",
+      "nsfw": true,
+      "count": 208,
+      "desc": "亲吻对方脚部，常见于臣服或恋足",
+      "kw": "亲脚 / 吻脚 / 亲吻脚 / 亲足 / 恋足 / 脚部崇拜 / 亲密行为 / foot kiss"
+    },
+    {
+      "en": "panting",
+      "zh": "喘息",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "biting neck",
+      "zh": "咬脖子",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1285,
+      "desc": "用牙齿咬住对方脖子，常见于吸血鬼场景",
+      "kw": "咬颈 / 啃脖子 / 咬颈部 / 咬住脖子 / 咬脖 / 吸血鬼咬脖 / 姿势 / 亲密 / neck bite / neck biting"
+    },
+    {
+      "en": "yawning",
+      "zh": "打哈欠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14812,
+      "desc": "张大嘴、眼睛半闭的打哈欠动作，常伴随伸懒腰",
+      "kw": "打呵欠 / 哈欠 / 呵欠 / 困倦哈欠 / 打哈气 / 表情 / 动作 / yawn / 欠伸 / あくび / アクビ"
+    },
+    {
+      "en": "drinking",
+      "zh": "喝水",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27384,
+      "desc": "喝下饮料或其他液体的动作。",
+      "kw": "喝饮料 / 喝东西 / 啜饮 / 喝液体 / 喝 / 动作 / sipping / 飲む"
+    },
+    {
+      "en": "eating",
+      "zh": "吃东西",
+      "rating": "g",
+      "nsfw": false,
+      "count": 118535,
+      "desc": "正在吃、准备吃或刚吃完",
+      "kw": "用餐 / 吃 / 嚼食 / 吃饭 / 饮食 / 动作 / 食事 / もぐもぐ"
+    },
+    {
+      "en": "biting lower lip with a shy expression",
+      "zh": "咬着下唇露出害羞的神情",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "kneeling blowjob",
+      "zh": "跪姿口交",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "kiss",
+      "zh": "亲吻",
+      "rating": "q",
+      "nsfw": true,
+      "count": 99889,
+      "desc": "用嘴唇接触对方表达爱意的亲吻。",
+      "kw": "接吻 / 亲嘴 / 亲亲 / 吻 / 香吻 / 嘴对嘴 / 亲嘴唇 / 动作姿势 / kissing / キス / 口づけ / キスハメ"
+    },
+    {
+      "en": "whispering into the other person ear",
+      "zh": "在对方耳边低语",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "french kiss",
+      "zh": "法式接吻",
+      "rating": "q",
+      "nsfw": true,
+      "count": 24536,
+      "desc": "舌头接触或进入对方口腔的接吻。",
+      "kw": "法式湿吻 / 深吻 / 湿吻 / 舌头纠缠 / 法式热吻 / 亲吻 / tongue kiss / べろちゅー / ディープキス / フレンチキス"
+    },
+    {
+      "en": "neck kiss",
+      "zh": "吻颈",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "oral",
+      "zh": "口部刺激",
+      "rating": "q",
+      "nsfw": true,
+      "count": 124034,
+      "desc": "用舌头或嘴刺激生殖器",
+      "kw": "口活 / 口淫 / 用嘴 / 口技 / 嘴炮 / 口部 / 口腔 / 性行为"
+    },
+    {
+      "en": "cunnilingus",
+      "zh": "口交（女）",
+      "rating": "e",
+      "nsfw": true,
+      "count": 16989,
+      "desc": "用口部刺激女性生殖器的口交行为。",
+      "kw": "口交女 / 舔穴 / 舔逼 / 舔下面 / 口淫 / 舐阴 / 女性口交 / 舔阴部 / pussy lick / cunilingus / cunillingus / cunnillingus"
+    },
+    {
+      "en": "autocunnilingus",
+      "zh": "自舔阴",
+      "rating": "e",
+      "nsfw": true,
+      "count": 121,
+      "desc": "靠身体柔韧或超能力舔到自己阴部的行为",
+      "kw": "自舔阴部 / 自舔小穴 / 自舔下体 / 自舔私处 / 自我口交 / 自慰 / 性行为 / licking own pussy / auto cunnilingus"
+    },
+    {
+      "en": "implied cunnilingus",
+      "zh": "暗示舔阴",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1131,
+      "desc": "低头贴近女性下体、暗示正在舔阴",
+      "kw": "暗示口交 / 隐晦舔阴 / 疑似舔阴 / 舔阴暗示 / 口交暗示 / 低头舔阴 / 性暗示 / 成人"
+    },
+    {
+      "en": "fellatio",
+      "zh": "口交（男）",
+      "rating": "e",
+      "nsfw": true,
+      "count": 101375,
+      "desc": "用嘴刺激阴茎的口交行为。",
+      "kw": "口淫 / 吹箫 / 口活 / 吸阴茎 / 吃阴茎 / 含阴茎 / 吮吸鸡巴 / 口含阴茎 / blowjob / blow job / sucking dick / sucking penis"
+    },
+    {
+      "en": "assisted fellatio",
+      "zh": "辅助口交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 293,
+      "desc": "一人协助另一人进行口交。",
+      "kw": "帮助口交 / 协助式口交 / 助力口交 / 帮口 / assisted blowjob"
+    },
+    {
+      "en": "autofellatio",
+      "zh": "自慰口交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 355,
+      "desc": "自己给自己口交",
+      "kw": "自口 / 自己口交 / 自口交 / 自己舔阴茎 / 自吮 / 自我口淫 / 性行为 / licking own penis / sucking own penis / auto fellatio / セルフフェラ"
+    },
+    {
+      "en": "deepthroat",
+      "zh": "深喉",
+      "rating": "e",
+      "nsfw": true,
+      "count": 8343,
+      "desc": "把整根阴茎吞入喉咙的口交方式",
+      "kw": "深喉口交 / 深喉插入 / 深喉咙 / 深喉吞入 / 喉咙口交 / 口交 / 性行为 / イラマチオ / ディープスロート"
+    },
+    {
+      "en": "implied fellatio",
+      "zh": "暗示口交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2038,
+      "desc": "画面外或遮挡中暗示正在口交",
+      "kw": "暗示口活 / 口交暗示 / 隐晦口交 / 遮蔽口交 / 未露出口交 / 成人 / 暗示"
+    },
+    {
+      "en": "cooperative fellatio",
+      "zh": "多人口交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 6680,
+      "desc": "两人以上同时为同一根阴茎口交。",
+      "kw": "多人同时口交 / 双人口交 / 三人口交 / 共同口交 / 多人口交一根 / 口交 / multiple fellatio / wフェラ / ダブルフェラ / トリプルフェラ"
+    },
+    {
+      "en": "multiple penis fellatio",
+      "zh": "多根阴茎口交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 174,
+      "desc": "一人同时为两根以上阴茎口交",
+      "kw": "多根口交 / 同时口交多根 / 多屌口交 / 一次含多根 / 多鸡巴口交 / 同时含多根 / 口交 / 群交 / double fellatio"
+    },
+    {
+      "en": "hug and suck",
+      "zh": "腰抱式口交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 276,
+      "desc": "抱住对方腰或腿进行口交",
+      "kw": "抱腰口交 / 抱腿口交 / 拥抱吸吮 / 抱着口交 / 搂腰口交 / 抱身口交 / 拥抱并吮吸 / 性行为 / 腰抱きフェラ"
+    },
+    {
+      "en": "testicle sucking",
+      "zh": "吮吸睾丸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1973,
+      "desc": "用嘴吮吸睾丸的行为。",
+      "kw": "吸蛋 / 舔蛋 / 含蛋 / 吃蛋 / 吮蛋 / 嘬蛋 / 吸睾丸 / ball sucking / sucking testicles / 吮吸蛋蛋 / 玉吸い"
+    },
+    {
+      "en": "oral sandwich",
+      "zh": "口交夹心",
+      "rating": "e",
+      "nsfw": true,
+      "count": 449,
+      "desc": "一人同时接受两种口交服务，如口交+舔肛或舔阴+舔肛。",
+      "kw": "双重口交 / 前后口交 / 口交+舔肛 / 舔阴+舔肛 / 三人口交 / 口交 / 三明治 / blue plate special (sex)"
+    },
+    {
+      "en": "after fellatio",
+      "zh": "口交后",
+      "rating": "e",
+      "nsfw": true,
+      "count": 8746,
+      "desc": "口交刚结束后的场景",
+      "kw": "口交之后 / 刚口交完 / 口活后 / 性行为 / 口腔 / after blowjob"
+    },
+    {
+      "en": "after oral",
+      "zh": "口交后",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "cum in mouth",
+      "zh": "口内射精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 41947,
+      "desc": "精液留在口中或射入口内。",
+      "kw": "口射 / 射入口中 / 精液在口中 / 口爆 / 饮精 / 吞精 / 口内射 / semen in mouth / cumshot in mouth / oral cumshot / 咥内射精"
+    },
+    {
+      "en": "cum on tongue",
+      "zh": "舌上精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 10570,
+      "desc": "精液沾在舌头上",
+      "kw": "舌头上有精液 / 精液在舌头上 / 舌射 / 射在舌面 / 精液沾舌 / 舌尖上的精液 / 体液 / 溜め精液"
+    },
+    {
+      "en": "simulated fellatio",
+      "zh": "模拟口交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1651,
+      "desc": "对冰棒、香蕉等棒状物做出暗示性口交动作",
+      "kw": "暗示口交 / 模拟吹箫 / 假口交 / 口交暗示 / 口交模拟 / 模拟口活 / 舔舐棒状物 / 口交 / oral object insertion / 擬似フェラ"
+    },
+    {
+      "en": "simulated cunnilingus",
+      "zh": "模拟口交（女性）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 37
+    },
+    {
+      "en": "biting hair",
+      "zh": "咬发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 246,
+      "desc": "用嘴咬住头发但不吞下",
+      "kw": "唇咬发丝 / 轻咬头发 / 口含头发 / 叼头发 / 咬住发梢 / 含发 / 动作"
+    },
+    {
+      "en": "eating hair",
+      "zh": "吃头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 415,
+      "desc": "咀嚼自己或他人的头发，与咬头发区别。",
+      "kw": "咀嚼头发 / 啃头发 / 含头发 / 嚼头发 / 咬发"
+    },
+    {
+      "en": "licking another's hair",
+      "zh": "舔舐他人头发",
+      "rating": "s",
+      "nsfw": false,
+      "count": 71,
+      "desc": "用舌头舔另一个人头发的动作",
+      "kw": "舔他人头发 / 舔对方头发 / 舔别人头发 / 舔人头发 / 舔他人发丝 / 舔别人秀发"
+    },
+    {
+      "en": "kissing hair",
+      "zh": "亲吻头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 555,
+      "desc": "嘴唇接触对方头发的亲吻",
+      "kw": "亲头发 / 吻头发 / 亲吻发丝 / 亲吻秀发 / 亲吻 / 头发 / hair kiss"
+    },
+    {
+      "en": "hair in own mouth",
+      "zh": "口含发丝",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2958,
+      "desc": "自己嘴里咬着自己的头发",
+      "kw": "嘴含头发 / 咬自己头发 / 嘴里含头发 / 自己头发在嘴里 / 咬住自己的头发 / 口含头发 / 含着头发 / 咬头发 / hair in mouth"
+    },
+    {
+      "en": "tiptoe kiss",
+      "zh": "踮脚吻",
+      "rating": "s",
+      "nsfw": false,
+      "count": 332,
+      "desc": "较矮一方踮起脚亲吻较高一方的动作",
+      "kw": "踮脚亲吻 / 踮脚尖亲吻 / 踮脚亲亲 / 亲吻姿势 / 亲密"
+    },
+    {
+      "en": "blowjob",
+      "zh": "口交",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "rimming",
+      "zh": "舔肛",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "pussy eating",
+      "zh": "舔阴",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "cum swallowing",
+      "zh": "吞精",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "sitting blowjob",
+      "zh": "坐姿口交",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "standing blowjob",
+      "zh": "站立口交",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "oral sex",
+      "zh": "口交",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "making out",
+      "zh": "亲热",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "ear bite",
+      "zh": "咬耳",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "hickey",
+      "zh": "吻痕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6662,
+      "desc": "吸吮皮肤留下的吻痕",
+      "kw": "草莓 / 种草莓 / 吸痕 / 吻印 / 痕迹 / 身体标记 / キスマーク / 키스마크"
+    },
+    {
+      "en": "kissing neck",
+      "zh": "亲吻脖子",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2128,
+      "desc": "亲吻对方脖颈，常带暧昧或亲密意味",
+      "kw": "亲脖子 / 吻颈 / 亲吻颈部 / 吻脖子 / 亲颈部 / 颈部 / 颈饰 / 亲吻 / neck kiss"
+    },
+    {
+      "en": "anilingus",
+      "zh": "舔肛",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3600,
+      "desc": "口舌刺激肛门的行为",
+      "kw": "舔肛门 / 舔菊 / 舔菊花 / 毒龙 / 毒龙钻 / 肛吻 / 吻肛 / 舔后庭 / rimjob / annilingus / analingus / アナル舐め"
+    },
+    {
+      "en": "rusty trombone",
+      "zh": "锈长号（性行为）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 548,
+      "desc": "一边舔舐对方肛门一边进行手交的性行为。",
+      "kw": "舔肛打飞机 / 舔菊花手交 / 舔后门手交 / 舔肛并手交 / 肛舔手活 / 生锈长号 / 性行为 / 姿势 / trombone (sex act) / アナル舐め手コキ"
+    },
+    {
+      "en": "cum swap",
+      "zh": "口内精液交换",
+      "rating": "e",
+      "nsfw": true,
+      "count": 274,
+      "desc": "两人口对口交换精液的性行为",
+      "kw": "精液传递 / 口渡精液 / 精液互换 / 精液接力 / 口对口传精 / 渡精 / 成人 / 液体 / snowballing / cumswap"
+    },
+    {
+      "en": "irrumatio",
+      "zh": "强制口交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 8374,
+      "desc": "主动将阴茎在对方口中抽插的口交方式",
+      "kw": "深喉口交 / 口交抽插 / 口内抽插 / 口腔抽插 / 口爆 / 口交(插入方主动) / 性行为 / face fucking / forced fellatio / forced blowjob / facefuck"
+    },
+    {
+      "en": "breastfeeding",
+      "zh": "哺乳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2205,
+      "desc": "从乳房吮吸母乳的行为。",
+      "kw": "喂奶 / 授乳 / 母乳喂养 / 吃奶 / 吮乳 / 母乳 / suckle / breast feed / breast feeding"
+    },
+    {
+      "en": "cum in throat",
+      "zh": "喉内射精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 430,
+      "desc": "精液留在喉咙内，多通过剖面可见",
+      "kw": "喉咙射精 / 喉射 / 深喉射精 / 射喉 / 咽喉射精 / 深喉内射 / 喉咙内射 / 精液在喉咙 / throatpie"
+    },
+    {
+      "en": "felching",
+      "zh": "吸精吞精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 125,
+      "desc": "从肛门或阴道吸吮、舔食精液。",
+      "kw": "吸精 / 舔精 / 食精 / 舔食精液 / 从体内吸精 / 体内吸精 / 精液吸食 / 性行为 / creampie eating"
+    },
+    {
+      "en": "gokkun",
+      "zh": "吞精",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1625,
+      "desc": "角色吞咽精液的情节，源自日语拟声词“ごっくん”。",
+      "kw": "饮精 / 吃精 / 吞食精液 / 喝精 / 精饮 / 吞咽精液 / 精液吞咽 / 成人行为 / cum drinking / ごっくん / ゴムから精飲 / 精飲"
+    },
+    {
+      "en": "dirty talk",
+      "zh": "下流话",
+      "rating": "q",
+      "nsfw": true,
+      "count": 469,
+      "desc": "为挑起性欲而说的下流言语",
+      "kw": "淫语 / 骚话 / 污言秽语 / 下流言语 / 调情脏话 / 床上骚话 / 情色对话 / 脏话"
+    },
+    {
+      "en": "requesting internal cumshot",
+      "zh": "请求内射",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1357,
+      "desc": "角色明确要求对方射在自己体内",
+      "kw": "要求中出 / 乞求中出 / 求中出 / 恳求内射 / 要求体内射精 / 请求体内射精 / 求内射 / 要求射在里面"
+    },
+    {
+      "en": "requesting impregnation",
+      "zh": "要求受孕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 520,
+      "desc": "角色主动请求让自己怀孕。",
+      "kw": "求受孕 / 求怀孕 / 请求怀孕 / 求内射受孕 / 求授精 / 求孕 / 主动求受孕 / impregnation request"
+    },
+    {
+      "en": "drinking pee",
+      "zh": "饮尿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 360,
+      "desc": "饮用自己或他人尿液的性癖行为",
+      "kw": "喝尿癖 / 尿饮 / 饮用尿液 / 喝小便 / 饮尿癖 / 尿液 / 饮用 / urophagia / pee drink / 飲尿 / アバ茶"
+    },
+    {
+      "en": "force-feeding",
+      "zh": "强行喂食",
+      "rating": "q",
+      "nsfw": true,
+      "count": 645,
+      "desc": "违背对方意愿强行喂食",
+      "kw": "逼迫喂食 / 强迫喂食 / 逼吃 / 喂食 / 强制 / forcefeeding / force feeding / 强制饮食 / 強制飲食"
+    },
+    {
+      "en": "eyewear in mouth",
+      "zh": "嘴叼眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 353,
+      "desc": "用嘴叼着眼镜或墨镜",
+      "kw": "用嘴叼眼镜 / 眼镜叼在嘴里 / 嘴里含着眼镜 / 咬眼镜 / 叼墨镜 / 嘴里叼墨镜 / 眼镜 / glasses in mouth"
+    },
+    {
+      "en": "glove in mouth",
+      "zh": "口含手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 849,
+      "desc": "把脱下的手套叼在嘴里的动作",
+      "kw": "口中手套 / 叼手套 / 嘴里叼着手套 / 手部穿戴 / 叼物 / 手套含在嘴里"
+    },
+    {
+      "en": "clothes in mouth",
+      "zh": "嘴里叼衣物",
+      "rating": "s",
+      "nsfw": false,
+      "count": 6474,
+      "desc": "用嘴叼住衣物的样子",
+      "kw": "嘴里含着衣服 / 叼衣服 / 咬住衣服 / 用嘴叼住衣物 / 嘴叼衣服 / 动作 / 服装 / 口含"
+    },
+    {
+      "en": "panties in mouth",
+      "zh": "嘴里叼内裤",
+      "rating": "q",
+      "nsfw": true,
+      "count": 333,
+      "desc": "内裤叼在嘴里垂下来",
+      "kw": "嘴里含着内裤 / 叼内裤 / 口含内裤 / 口中叼内裤 / 内裤叼在嘴里 / 嘴叼内裤 / 内裤 / 姿势"
+    },
+    {
+      "en": "bra in mouth",
+      "zh": "嘴叼胸罩",
+      "rating": "q",
+      "nsfw": true,
+      "count": 71,
+      "desc": "角色用嘴叼着胸罩的表现",
+      "kw": "叼着胸罩 / 口含胸罩 / 咬胸罩 / 胸罩塞嘴 / 含胸罩"
+    },
+    {
+      "en": "eating during class",
+      "zh": "课堂偷吃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27
+    },
+    {
+      "en": "feeding viewer",
+      "zh": "喂食视角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3931,
+      "desc": "角色把食物喂给或递给观者",
+      "kw": "喂给观众 / 投喂观众 / 喂饭给观者 / 递食物给观者 / 给观者递食 / 喂食给读者 / 喂食观众 / incoming food"
+    },
+    {
+      "en": "full mouth",
+      "zh": "塞满嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 818,
+      "desc": "嘴里塞满食物导致腮帮鼓起",
+      "kw": "嘴巴塞满 / 嘴塞满 / 满口食物 / 腮帮鼓起 / 满嘴 / 口腔填充 / mouth full"
+    },
+    {
+      "en": "licking",
+      "zh": "舔",
+      "rating": "s",
+      "nsfw": false,
+      "count": 61627,
+      "desc": "用舌头舔物体或身体部位",
+      "kw": "舔舐 / 舔弄 / 舌舔 / 舔吸 / 舔食 / 用舌头舔 / 口部动作 / lick / licks / ペロペロ / 舌責め"
+    },
+    {
+      "en": "tasting",
+      "zh": "品尝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 643,
+      "desc": "只吃少量食物以试味道",
+      "kw": "试吃 / 试味 / 尝味 / 尝一口 / 品鉴 / 品味 / 试食 / 尝味道"
+    },
+    {
+      "en": "toast in mouth",
+      "zh": "嘴里叼着吐司",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1870,
+      "desc": "嘴里叼着吐司，常见于上学迟到场景",
+      "kw": "叼吐司 / 咬着吐司 / 吐司在嘴里 / 口衔吐司 / 食物 / 日常 / パンを咥える"
+    },
+    {
+      "en": "eating non-food",
+      "zh": "异食",
+      "rating": "g",
+      "nsfw": false,
+      "count": 353,
+      "desc": "吃不能食用的非食物物品",
+      "kw": "吃非食品 / 吃不能吃的东西 / 吃异物 / 乱吃非食用物品 / 食物 / 非正常进食"
+    },
+    {
+      "en": "biting",
+      "zh": "咬",
+      "rating": "s",
+      "nsfw": false,
+      "count": 18320,
+      "desc": "用牙齿咬住或刺入某物",
+      "kw": "咬住 / 啃咬 / 咬合 / 用牙咬 / 咬东西 / 撕咬 / 轻咬 / 叮咬 / bite / 噛む / 噛み付き"
+    },
+    {
+      "en": "biting ass",
+      "zh": "咬屁股",
+      "rating": "q",
+      "nsfw": true,
+      "count": 100,
+      "desc": "用牙齿咬他人臀部的行为",
+      "kw": "咬臀部 / 咬臀 / 啃屁股 / 咬屁股蛋 / 啃臀部 / 屁股被咬 / 咬臀肉 / 咬后面 / assbiting / ass bite / ass biting"
+    },
+    {
+      "en": "biting another's tail",
+      "zh": "咬他人尾巴",
+      "rating": "s",
+      "nsfw": false,
+      "count": 380,
+      "desc": "咬住他人或动物的尾巴",
+      "kw": "咬尾巴 / 咬对方尾巴 / 咬住别人尾巴 / 咬别人的尾巴 / 啃咬尾巴 / 咬尾 / 动物行为"
+    },
+    {
+      "en": "mutual tail biting",
+      "zh": "互相咬尾巴",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "biting own tail",
+      "zh": "咬自己的尾巴",
+      "rating": "s",
+      "nsfw": false,
+      "count": 277,
+      "desc": "角色咬住或叼着自己的尾巴。",
+      "kw": "咬尾巴 / 叼着自己的尾巴 / 咬住自己尾巴 / 用嘴叼尾巴 / 咬尾 / 动作 / 尾巴"
+    },
+    {
+      "en": "biting breast",
+      "zh": "咬乳房",
+      "rating": "q",
+      "nsfw": true,
+      "count": 236,
+      "desc": "用牙齿咬住他人乳房的举动",
+      "kw": "咬胸脯 / 用嘴咬胸 / 轻咬乳房 / 咬胸肉 / 咬乳 / 胸部 / 动词 / breast biting"
+    },
+    {
+      "en": "biting cheek",
+      "zh": "咬脸颊",
+      "rating": "s",
+      "nsfw": false,
+      "count": 752,
+      "desc": "用牙齿轻咬他人脸颊",
+      "kw": "咬脸蛋 / 轻咬脸颊 / 啃脸颊 / 咬脸 / 咬脸腮 / 表情 / 动作 / cheek bite / cheek biting"
+    },
+    {
+      "en": "biting ear",
+      "zh": "咬耳朵",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1896,
+      "desc": "轻咬他人耳朵，常为亲昵或玩闹。",
+      "kw": "咬耳 / 轻咬耳朵 / 耳咬 / 啃耳朵 / 亲密互动 / 耳部接触 / ear bite / ear biting"
+    },
+    {
+      "en": "biting another's finger",
+      "zh": "咬对方手指",
+      "rating": "s",
+      "nsfw": false,
+      "count": 646,
+      "desc": "用牙齿咬住他人手指，与咬自己手指相对",
+      "kw": "咬别人手指 / 啃他人手指 / 咬手指（他人） / 咬对方的手指 / 咬手指 / 互动"
+    },
+    {
+      "en": "biting own finger",
+      "zh": "咬手指",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1416,
+      "desc": "咬住自己的手指，常表示沉思或压抑声音。",
+      "kw": "咬着自己的手指 / 啃手指 / 轻咬手指 / 含手指 / 咬指头 / 咬自己指头 / 咬自己的手指"
+    },
+    {
+      "en": "biting foreskin",
+      "zh": "咬包皮",
+      "rating": "q",
+      "nsfw": true,
+      "count": 80,
+      "desc": "用牙齿咬住男性阴茎的包皮",
+      "kw": "咬住包皮 / 口咬包皮 / 咬阴茎包皮 / 包皮咬 / foreskin biting"
+    },
+    {
+      "en": "biting glove",
+      "zh": "咬手套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1697,
+      "desc": "用嘴咬住手套穿戴或脱下",
+      "kw": "咬住手套 / 用嘴脱手套 / 用嘴戴手套 / 嘴咬手套 / 动作 / glove bite / glove biting / 咥え手袋"
+    },
+    {
+      "en": "biting another's hand",
+      "zh": "咬他人手部",
+      "rating": "s",
+      "nsfw": false,
+      "count": 315,
+      "desc": "用牙齿咬住他人手部的动作。",
+      "kw": "咬他人手 / 咬对方的手 / 咬住别人的手 / 咬对方手 / 咬住他人的手 / 咬他人的手 / 咬 / 手部互动 / hand bite"
+    },
+    {
+      "en": "biting head",
+      "zh": "咬头",
+      "rating": "s",
+      "nsfw": false,
+      "count": 511,
+      "desc": "啃咬他人头部，并非要将其吃掉",
+      "kw": "啃头 / 咬脑袋 / 咬着头部 / 啃咬头部 / 咬头皮 / 咬住脑袋 / 轻咬头部 / head bite / head biting / biting another's head"
+    },
+    {
+      "en": "biting own lip",
+      "zh": "咬唇",
+      "rating": "s",
+      "nsfw": false,
+      "count": 7535,
+      "desc": "咬住自己的嘴唇",
+      "kw": "咬嘴唇 / 咬自己嘴唇 / 轻咬嘴唇 / 咬下唇 / 咬着嘴唇 / 表情 / lip bite / lip biting / 唇を噛む"
+    },
+    {
+      "en": "nail biting",
+      "zh": "咬指甲",
+      "rating": "s",
+      "nsfw": false,
+      "count": 249,
+      "desc": "咬自己的指甲，常表紧张或焦虑",
+      "kw": "咬手指甲 / 啃指甲 / 咬甲 / 咬指头 / 紧张 / 习惯动作 / nail bite"
+    },
+    {
+      "en": "biting penis",
+      "zh": "咬阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 240,
+      "desc": "咬住阴茎的行为",
+      "kw": "咬鸡巴 / 咬屌 / 咬阳具 / 咬下体 / 阴茎咬 / 咬肉棒 / 性行为 / 口交 / penis bite / penis biting"
+    },
+    {
+      "en": "biting own thumb",
+      "zh": "咬大拇指",
+      "rating": "s",
+      "nsfw": false,
+      "count": 374,
+      "desc": "紧张或嫉妒时咬自己的拇指",
+      "kw": "咬拇指 / 自咬拇指 / 咬手指（拇指） / 紧张咬拇指 / 咬手拇指 / 咬手指 / thumb bite / thumb biting"
+    },
+    {
+      "en": "breathing (animated)",
+      "zh": "呼吸（动画）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 436,
+      "desc": "动画中角色可见的呼吸起伏动作。",
+      "kw": "呼吸动画 / 可见呼吸 / 呼吸起伏 / 呼吸运动 / 呼气动画 / 呼吸 (动画) / 动态效果 / 动画"
+    },
+    {
+      "en": "heavy breathing",
+      "zh": "呼吸沉重",
+      "rating": "s",
+      "nsfw": false,
+      "count": 53453,
+      "desc": "剧烈活动或兴奋时粗重的喘息。",
+      "kw": "粗喘 / 喘气 / 喘息 / 呼吸急促 / 大口喘气 / 气喘吁吁 / 上气不接下气 / 剧烈喘息 / panting / 呼吸沉重"
+    },
+    {
+      "en": "blowing bubbles",
+      "zh": "吹泡泡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2190,
+      "desc": "用工具或水下呼气吹出泡泡",
+      "kw": "吹肥皂泡 / 吹气泡 / 水下吹泡泡 / 吹泡 / 动作 / 泡泡 / bubble blowing / 吹泡泡糖"
+    },
+    {
+      "en": "blowing bubble gum",
+      "zh": "吹泡泡糖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8107,
+      "desc": "用口香糖吹出泡泡",
+      "kw": "吹口香糖 / 吹泡泡口香糖 / 嚼口香糖吹泡 / 口香糖泡泡 / 吹泡泡 / 动作 / 糖果"
+    },
+    {
+      "en": "coughing",
+      "zh": "咳嗽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 819,
+      "desc": "因呼吸道刺激而咳嗽",
+      "kw": "咳 / 干咳 / 咳嗽不止 / 动作 / 表情 / cough"
+    },
+    {
+      "en": "chewing",
+      "zh": "咀嚼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3799,
+      "desc": "用牙齿咀嚼食物的动作",
+      "kw": "嚼 / 嚼食 / 嚼东西 / 嘴巴嚼动 / 动作 / もぐもぐ"
+    },
+    {
+      "en": "swallowing",
+      "zh": "吞咽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 939,
+      "desc": "把咀嚼后的食物咽下喉咙的动作",
+      "kw": "咽下 / 吞下 / 吞食 / 下咽"
+    },
+    {
+      "en": "fan speaking",
+      "zh": "对着电风扇说话",
+      "rating": "g",
+      "nsfw": false,
+      "count": 260,
+      "desc": "对着风扇说话使声音/文字被拉长",
+      "kw": "对着电扇说话 / 电风扇说话 / 对电扇讲话 / 风扇讲话 / 电扇讲话 / 电扇前说话 / 风扇前说话 / ワレワレハウチュウジンダ / ワレワレハウチュージンダ / ワレワレハ宇宙人ダ / ワレワレハウチュウジンデアル"
+    },
+    {
+      "en": "fed by viewer",
+      "zh": "被观众喂食",
+      "rating": "g",
+      "nsfw": false,
+      "count": 152,
+      "desc": "观者正在给画面中的角色喂食",
+      "kw": "观众喂食 / 观众喂养 / 被投喂 / 被画面外喂食 / 被喂食 / 观者喂食 / 被围观者喂食"
+    },
+    {
+      "en": "licking armpit",
+      "zh": "舔腋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1981,
+      "desc": "用舌头舔他人腋窝的动作。",
+      "kw": "舔腋下 / 腋窝舔 / 舔舐腋下 / 腋舐 / 舔脇 / 舔舐 / 性行为 / armpit licking / 腋舐め"
+    },
+    {
+      "en": "licking breast",
+      "zh": "舔胸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1113,
+      "desc": "用舌头舔女性乳房的性行为",
+      "kw": "舔奶 / 舔奶子 / 舔舐胸部 / 舔舐乳房 / 舌舔胸部 / 舔乳 / 性行为 / breast lick / breast licking / 乳舐め"
+    },
+    {
+      "en": "licking another's cheek",
+      "zh": "舔舐他人脸颊",
+      "rating": "s",
+      "nsfw": false,
+      "count": 936,
+      "desc": "舔他人脸颊的行为",
+      "kw": "舔脸颊 / 舔别人的脸 / 舔对方脸颊 / 舔脸 / 舔他人脸部 / 舔别人的脸颊 / 动作 / cheek lick / cheek licking / licking cheek"
+    },
+    {
+      "en": "licking cum",
+      "zh": "舔精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 360,
+      "desc": "用舌头舔食精液的动作",
+      "kw": "舔精 / 舔舐精液 / 舔食精液 / 舔掉精液 / 舌头舔精 / 口舔精液 / 性行为 / 口交 / cum lick / cum licking"
+    },
+    {
+      "en": "licking ear",
+      "zh": "舔耳朵",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1648,
+      "desc": "用舌头舔对方耳朵",
+      "kw": "耳舔 / 互动 / 耳部 / ear lick / ear licking / 耳舐め"
+    },
+    {
+      "en": "licking eye",
+      "zh": "舔眼球",
+      "rating": "q",
+      "nsfw": true,
+      "count": 63,
+      "desc": "用舌头舔对方眼睛或眼球。",
+      "kw": "舔眼睛 / 眼睛舔舐 / 舐眼 / 舔舐眼睛 / eye licking"
+    },
+    {
+      "en": "licking another's face",
+      "zh": "舔舐他人面部",
+      "rating": "s",
+      "nsfw": false,
+      "count": 3457,
+      "desc": "用舌头舔他人面部五官的动作。",
+      "kw": "舔脸 / 舔别人的脸 / 舔面部 / 舔对方的脸 / 舔舐脸部 / 舔他人面颊 / 舔脸动作 / 舔他人的脸 / face lick / face licking / licking face / 舔舐别人的脸"
+    },
+    {
+      "en": "licking finger",
+      "zh": "舔手指",
+      "rating": "s",
+      "nsfw": false,
+      "count": 5063,
+      "desc": "舔自己手指，常带挑逗意味。",
+      "kw": "舔手指头 / 舔舐手指 / 舔自己的手指 / 吸吮手指 / 舔指 / 手指舔舐 / 舔舐动作 / licking fingers / finger licking"
+    },
+    {
+      "en": "licking floor",
+      "zh": "舔地",
+      "rating": "s",
+      "nsfw": false,
+      "count": 25
+    },
+    {
+      "en": "licking foot",
+      "zh": "舔脚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1880,
+      "desc": "舔对方脚部，恋足题材常见",
+      "kw": "舔足 / 舔脚板 / 舔脚趾 / 舔舐脚部 / 恋足舔脚 / 舔jio / 足部 / 舔舐 / foot lick / foot licking / 足舐め"
+    },
+    {
+      "en": "licking blade",
+      "zh": "舔舐刀刃",
+      "rating": "s",
+      "nsfw": false,
+      "count": 290,
+      "desc": "用舌头舔刀刃的动作。",
+      "kw": "舔刀刃 / 舔刀 / 用舌头舔刀 / 舔武器刀刃 / 舔剑刃 / licking knife / blade licking"
+    },
+    {
+      "en": "licking leg",
+      "zh": "舔腿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 220,
+      "desc": "用舌头舔对方腿部",
+      "kw": "舔腿部 / 舔脚 / 舔大腿 / 舔腿动作 / 舔舐 / 动作 / leg lick / leg licking"
+    },
+    {
+      "en": "licking navel",
+      "zh": "舔肚脐",
+      "rating": "q",
+      "nsfw": true,
+      "count": 299,
+      "desc": "用舌头舔他人肚脐的动作",
+      "kw": "舔肚脐眼 / 肚脐舔弄 / 舔舐肚脐 / 舐肚脐 / 舔脐 / 舔舐 / 互动 / 身体 / navel licking / へそ舐め"
+    },
+    {
+      "en": "licking nipple",
+      "zh": "舔乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4759,
+      "desc": "用舌头舔弄他人乳头的性行为。",
+      "kw": "舔奶头 / 舔乳首 / 乳舔 / 口舔乳头 / 舔吮乳头 / 乳头舔弄 / 口交 / 乳头 / licking nipples / nipple lick / nipple licking / 乳舐め"
+    },
+    {
+      "en": "licking panties",
+      "zh": "舔内裤",
+      "rating": "q",
+      "nsfw": true,
+      "count": 68,
+      "desc": "用舌头舔内裤的行为。",
+      "kw": "舔胖次 / 舔底裤 / 舔女生内裤 / panty licking"
+    },
+    {
+      "en": "licking testicle",
+      "zh": "舔舐睾丸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1197,
+      "desc": "用舌头舔舐对方睾丸的行为",
+      "kw": "舔蛋 / 舔蛋蛋 / 舔玉 / 舔球 / 口舔蛋蛋 / 舔阴囊 / 性行为 / lick balls / ball licking / licking testicles / testicle licking"
+    },
+    {
+      "en": "licking thigh",
+      "zh": "舔大腿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 165,
+      "desc": "用舌头舔舐对方大腿的动作",
+      "kw": "舔腿 / 舔舐大腿 / 舔大腿根部 / 舔对方大腿 / 舔腿部 / 舔舐 / 色情动作 / thigh licking"
+    },
+    {
+      "en": "moaning",
+      "zh": "呻吟",
+      "rating": "q",
+      "nsfw": true,
+      "count": 19398,
+      "desc": "角色发出低沉绵长的呻吟，多因痛苦或快感",
+      "kw": "娇喘 / 喘息声 / 呻吟声 / 浪叫 / 叫床声 / 低声呻吟 / 喘息 / 表情 / moan / オホ声 / 汚喘ぎ / 濁点喘ぎ"
+    },
+    {
+      "en": "roaring",
+      "zh": "咆哮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 584,
+      "desc": "角色或动物张大嘴发出威慑性吼叫",
+      "kw": "吼叫 / 怒吼 / 叫声 / 咆哮声 / 吼 / 表情 / 动作 / roar"
+    },
+    {
+      "en": "smoking",
+      "zh": "吸烟",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36328,
+      "desc": "正在吸烟，包括香烟、雪茄、烟斗等。",
+      "kw": "抽烟 / 吸烟中 / 抽烟中 / 吞云吐雾 / 吸烟行为 / 叼烟 / 抽雪茄 / 吸烟草 / 吃烟 / 烟草 / くわえタバコ / 煙草"
+    },
+    {
+      "en": "spitting",
+      "zh": "吐唾沫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3121,
+      "desc": "从嘴里吐出唾液或痰的动作",
+      "kw": "吐唾液 / 吐痰 / 啐 / 吐水 / 喷水动作"
+    },
+    {
+      "en": "choking on object",
+      "zh": "异物哽噎",
+      "rating": "g",
+      "nsfw": false,
+      "count": 105,
+      "desc": "被食物等异物卡住气管而窒息",
+      "kw": "噎住 / 误咽 / 卡住喉咙 / 呛到 / 被噎到 / 喉咙卡住 / 被物体噎住 / 窒息 / choke / choking"
+    },
+    {
+      "en": "blood sucking",
+      "zh": "吸血",
+      "rating": "s",
+      "nsfw": false,
+      "count": 197,
+      "desc": "吸吮血液的行为",
+      "kw": "吸食血液 / 吮血 / 饮血 / 吸血行为 / 血腥"
+    },
+    {
+      "en": "breast sucking",
+      "zh": "吮吸乳房",
+      "rating": "q",
+      "nsfw": true,
+      "count": 18278,
+      "desc": "吸吮自己或他人的胸部/乳头",
+      "kw": "吸胸 / 吸奶 / 吸乳头 / 胸部吸吮 / 吸吮胸部 / 吮乳 / 吸乳房 / breast suck / nipple suck / nipple sucking / sucking breasts"
+    },
+    {
+      "en": "sucking own breasts",
+      "zh": "自吮乳房",
+      "rating": "q",
+      "nsfw": true,
+      "count": 623,
+      "desc": "角色吸吮自己的乳房",
+      "kw": "自吸乳房 / 吸自己奶 / 舔自己乳房 / 吸自己的奶子 / 自己吸奶 / 自吸奶 / 自乳 / self breast sucking"
+    },
+    {
+      "en": "finger sucking",
+      "zh": "吮吸手指",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1071,
+      "desc": "吮吸自己或他人的手指。",
+      "kw": "吸手指 / 嘬手指 / 含手指 / 吸吮手指 / 口含手指 / 吃手指 / 姿势 / 动作 / finger suck / sucking finger"
+    },
+    {
+      "en": "thumb sucking",
+      "zh": "吮吸拇指",
+      "rating": "s",
+      "nsfw": false,
+      "count": 629,
+      "desc": "把拇指放进嘴里吮吸的习惯动作",
+      "kw": "吸拇指 / 嘬拇指 / 含拇指 / 吃手 / 吮手指 / 嘬手指 / 吸吮拇指 / 姿势 / thumbsucking / sucking thumb"
+    },
+    {
+      "en": "toe sucking",
+      "zh": "吮吸脚趾",
+      "rating": "q",
+      "nsfw": true,
+      "count": 292,
+      "desc": "吸吮自己或他人脚趾的行为。",
+      "kw": "吸脚趾 / 吮脚趾 / 舔脚趾 / 吸吮脚趾 / 含脚趾 / 足趾吮吸 / 趾吸 / 脚趾舔吸"
+    },
+    {
+      "en": "talking",
+      "zh": "说话",
+      "rating": "g",
+      "nsfw": false,
+      "count": 30586,
+      "desc": "用语言交谈，常以对话气泡或对话框表示",
+      "kw": "交谈 / 对话 / 讲话 / 聊天 / 谈话 / 表情 / 会话 / 話す / 会話"
+    },
+    {
+      "en": "sleep talking",
+      "zh": "说梦话",
+      "rating": "g",
+      "nsfw": false,
+      "count": 226,
+      "desc": "在睡眠中说话，多发生在做梦时",
+      "kw": "梦话 / 梦中呓语 / 呓语 / 梦呓 / 睡眠说话 / 睡觉说话 / 睡眠 / 行为"
+    },
+    {
+      "en": "unzipping with mouth",
+      "zh": "口解拉链",
+      "rating": "q",
+      "nsfw": true,
+      "count": 32
+    },
+    {
+      "en": "vomiting",
+      "zh": "呕吐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 983,
+      "desc": "角色正在呕吐的画面",
+      "kw": "吐 / 呕吐物 / 作呕 / 反胃 / 干呕 / 吐出 / 喷吐 / 呕吐中 / puking"
+    },
+    {
+      "en": "whistling",
+      "zh": "吹口哨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 778,
+      "desc": "噘起嘴唇吹气发声，非使用哨子",
+      "kw": "口哨 / 吹哨 / 打口哨 / 噘嘴吹气 / 吹口哨动作 / 吹气发声 / 动作 / 口笛"
+    },
+    {
+      "en": "blowing",
+      "zh": "吹气",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1701,
+      "desc": "用力从嘴里呼气吹气的动作。",
+      "kw": "吹 / 吹气动作 / 呼气 / 吹风 / 用嘴吹 / 吹吹 / 动作"
+    },
+    {
+      "en": "after kiss",
+      "zh": "接吻后",
+      "rating": "s",
+      "count": 7410,
+      "desc": "接吻刚结束的瞬间",
+      "kw": "吻后 / 刚接完吻 / 亲吻之后 / 接吻结束 / 亲吻后 / 亲吻痕迹 / 状态"
+    },
+    {
+      "en": "bikini in mouth",
+      "zh": "嘴叼比基尼",
+      "rating": "q",
+      "nsfw": true,
+      "count": 957,
+      "desc": "用嘴叼着比基尼",
+      "kw": "嘴里叼着比基尼 / 嘴含比基尼 / 叼比基尼 / 咬比基尼 / 口衔比基尼 / 比基尼 / 嘴里 / 嘴里含着比基尼 / くちブラ"
+    },
+    {
+      "en": "biting clothes",
+      "zh": "咬衣服",
+      "rating": "s",
+      "count": 629,
+      "desc": "用牙齿咬住衣物边缘或衣角",
+      "kw": "咬衣角 / 咬衣物 / 用嘴咬住衣服 / 咬衣领 / 叼衣服 / 咬着衣服 / 动作 / 表情"
+    },
+    {
+      "en": "blowing kiss",
+      "zh": "飞吻",
+      "rating": "g",
+      "count": 5579,
+      "desc": "把手贴在唇边送出飞吻",
+      "kw": "投吻 / 抛吻 / 送飞吻 / 隔空亲吻 / 空中飞吻 / 挥手飞吻 / 送吻 / 飞吻动作 / flying kiss / air kiss / thrown kiss / blown kiss"
+    },
+    {
+      "en": "blowing whistle",
+      "zh": "吹哨子",
+      "rating": "g",
+      "count": 683,
+      "desc": "吹响哨子（如裁判哨、玩具哨）。",
+      "kw": "吹口哨（哨子） / 吹响哨子 / 吹哨 / 吹口哨 / 动作"
+    },
+    {
+      "en": "breath weapon",
+      "zh": "吐息攻击",
+      "rating": "g",
+      "count": 3701,
+      "desc": "龙或怪兽从口中喷出的吐息攻击",
+      "kw": "吐息 / 喷射攻击 / 龙息 / 喷吐攻击 / 气息攻击 / 吐息炮 / 喷息 / 龙息攻击"
+    },
+    {
+      "en": "breathing fire",
+      "zh": "喷火",
+      "rating": "g",
+      "count": 3370,
+      "desc": "从口中喷出火焰",
+      "kw": "喷吐火焰 / 吐火 / 喷射火焰 / 口喷烈焰 / 喷火球 / 从口中喷火 / 火焰 / 火吐息 / spitting fire / fire spit"
+    },
+    {
+      "en": "bubble blowing",
+      "zh": "吹泡泡",
+      "rating": "g"
+    },
+    {
+      "en": "card in mouth",
+      "zh": "嘴含卡片",
+      "rating": "g",
+      "count": 407,
+      "desc": "用嘴含着或叼着一张卡片。",
+      "kw": "嘴叼卡片 / 口含卡片 / 用嘴叼卡 / 嘴里含卡 / 咬着卡片 / 口衔卡片 / 叼着卡片 / 叼卡"
+    },
+    {
+      "en": "condoms in mouth",
+      "zh": "嘴含避孕套",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "drinking straw in mouth",
+      "zh": "嘴里含着吸管",
+      "rating": "g",
+      "count": 5074,
+      "desc": "嘴里含着吸管喝饮料",
+      "kw": "含吸管 / 叼吸管 / 嘴含吸管 / 口中含吸管 / 嘴里叼着吸管 / 嘴衔吸管 / 吸管 / straw in mouth (drinking)"
+    },
+    {
+      "en": "ear biting",
+      "zh": "咬耳朵",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "exhaling smoke",
+      "zh": "吐烟",
+      "rating": "g",
+      "count": 1175,
+      "desc": "角色呼出烟雾，通常刚吸完烟",
+      "kw": "呼烟 / 喷烟 / 吐烟雾 / 呼出烟雾 / 吞云吐雾 / 吸烟动作 / blowing cigarette smoke"
+    },
+    {
+      "en": "finger biting",
+      "zh": "咬手指",
+      "rating": "s"
+    },
+    {
+      "en": "finger in mouth",
+      "zh": "手指伸进嘴里",
+      "rating": "s"
+    },
+    {
+      "en": "finger in own mouth",
+      "zh": "手指含在自己嘴里",
+      "rating": "s",
+      "count": 3936,
+      "desc": "手指放进自己嘴里",
+      "kw": "含手指 / 手指放自己嘴里 / 吮指 / 吸手指 / 啃手指 / 咬手指 / 手指在嘴里 / 自含手指 / fingers in mouth / finger inside mouth / fingers inside mouth / finger in mouth"
+    },
+    {
+      "en": "fish in mouth",
+      "zh": "嘴里叼鱼",
+      "rating": "g",
+      "count": 727,
+      "desc": "角色嘴里叼着一条鱼",
+      "kw": "叼着鱼 / 口衔鱼 / 嘴里有鱼 / 叼鱼 / 衔鱼 / 嘴里叼着鱼 / 动作 / 表情"
+    },
+    {
+      "en": "flower in mouth",
+      "zh": "嘴里叼花",
+      "rating": "g",
+      "count": 1902,
+      "desc": "用嘴叼着一朵花。",
+      "kw": "口中衔花 / 嘴里含着花 / 叼花 / 嘴衔花 / 花在嘴里 / 口含花 / 衔花 / 姿势"
+    },
+    {
+      "en": "food in mouth",
+      "zh": "食物含在嘴里",
+      "rating": "g",
+      "count": 37606,
+      "desc": "含在嘴里或叼在嘴上的食物",
+      "kw": "嘴里含食物 / 叼着食物 / 含食 / 口中含物 / 咬食物 / 嘴里含着食物 / 口含"
+    },
+    {
+      "en": "gnaw",
+      "zh": "啃",
+      "rating": "g"
+    },
+    {
+      "en": "hair in mouth",
+      "zh": "嘴里有头发",
+      "rating": "g"
+    },
+    {
+      "en": "hair tie in mouth",
+      "zh": "将发圈叼在嘴里",
+      "rating": "g",
+      "count": 7340,
+      "desc": "嘴里叼着发绳或发带，准备扎发",
+      "kw": "叼着发带 / 咬着发绳 / 嘴里含着发带 / 叼着橡皮筋 / 嘴叼发带 / 发带 / 发饰 / 姿势 / scrunchie in mouth"
+    },
+    {
+      "en": "hissing",
+      "zh": "发出嘶声",
+      "rating": "g",
+      "count": 204,
+      "desc": "猫等动物受威胁时发出的嘶声",
+      "kw": "嘶嘶声 / 嘶叫 / 发嘶声 / 哈气声 / 威胁嘶声 / 嘶吼 / 表情 / 动作"
+    },
+    {
+      "en": "holding breath",
+      "zh": "憋气",
+      "rating": "g",
+      "count": 1282,
+      "desc": "屏住呼吸，常表现为鼓腮抿嘴。",
+      "kw": "屏住呼吸 / 屏息 / 屏气 / 闭气 / 忍气 / 鼓腮憋气 / 动作 / 表情"
+    },
+    {
+      "en": "imminent kiss",
+      "zh": "即将接吻",
+      "rating": "g",
+      "count": 19205,
+      "desc": "两人嘴唇靠近、即将接吻的瞬间",
+      "kw": "即将亲吻 / 快要接吻 / 接吻前一刻 / 欲吻 / 要接吻 / 嘴唇接近 / 亲吻 / 互动 / almost kiss / incipient kiss"
+    },
+    {
+      "en": "implied kiss",
+      "zh": "暗示接吻",
+      "rating": "g",
+      "count": 1976,
+      "desc": "未直接画出但强烈暗示正在接吻。",
+      "kw": "暗示亲吻 / 间接接吻 / 未画出接吻 / 即将接吻 / 隐晦接吻 / 暗示亲嘴 / 亲吻 / 隐含"
+    },
+    {
+      "en": "incoming kiss",
+      "zh": "即将接吻",
+      "rating": "g",
+      "count": 991,
+      "desc": "角色似乎要向观看者献吻，或吻即将发生。",
+      "kw": "即将吻上 / 亲吻 / 动作"
+    },
+    {
+      "en": "karaoke",
+      "zh": "卡拉OK",
+      "rating": "g",
+      "count": 1683,
+      "desc": "跟着伴奏和字幕唱歌的卡拉OK。",
+      "kw": "KTV / 卡啦OK / K歌 / 卡拉OK包厢 / 娱乐 / 活动 / カラオケ"
+    },
+    {
+      "en": "kissing cheek",
+      "zh": "亲吻脸颊",
+      "rating": "g",
+      "count": 11279,
+      "desc": "亲吻对方脸颊，表达亲昵或问候。",
+      "kw": "亲脸颊 / 吻脸颊 / 亲脸蛋 / 亲面颊 / 吻脸 / 脸颊吻 / 亲吻 / 互动 / kiss on cheek / cheek kiss / ほっぺちゅー / ほっぺチュー"
+    },
+    {
+      "en": "kissing forehead",
+      "zh": "亲吻额头",
+      "rating": "g",
+      "count": 3263,
+      "desc": "亲吻额头，多表示疼爱",
+      "kw": "亲额头 / 吻额头 / 亲吻前额 / 额头吻 / 亲脑门 / 吻额 / 亲吻额部 / 额吻 / kiss on forehead / forehead kiss"
+    },
+    {
+      "en": "kissing hand",
+      "zh": "亲吻手",
+      "rating": "g",
+      "count": 2830,
+      "desc": "亲吻对方手背或手指，常表示敬意。",
+      "kw": "吻手 / 亲亲手背 / 吻手背 / 吻手礼 / 亲吻手背 / 亲对方手 / 亲吻手部 / 亲吻 / hand kiss"
+    },
+    {
+      "en": "kissing head",
+      "zh": "亲吻头顶",
+      "rating": "g",
+      "count": 541,
+      "desc": "亲吻对方头顶，多表示宠溺",
+      "kw": "亲吻头部 / 亲头顶 / 吻头顶 / 亲头 / 亲吻 / 动作 / head kiss"
+    },
+    {
+      "en": "kissing penis",
+      "zh": "亲吻阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2124,
+      "desc": "亲吻阴茎的动作，常伴随啾声或心形符号",
+      "kw": "亲阴茎 / 吻鸡巴 / 亲丁丁 / 亲肉棒 / 阴茎接吻 / 口交 / 性行为 / penis kiss / 亲吻龟头 / ペニスにキス / 先っぽちゅーちゅー"
+    },
+    {
+      "en": "kissing viewer",
+      "zh": "亲吻观众",
+      "rating": "g",
+      "count": 1072,
+      "desc": "角色朝观看者送吻或即将亲吻。",
+      "kw": "亲吻观看者 / 向观众亲吻 / 朝屏幕亲吻 / 第一人称亲吻 / 向镜头亲吻 / 亲吻镜头 / 送吻给观众 / 第一人称即将亲吻 / incoming kiss / 第一人称即将亲吻"
+    },
+    {
+      "en": "licking another's neck",
+      "zh": "舔他人脖子",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1600,
+      "desc": "用舌头舔他人的脖子",
+      "kw": "舔别人脖子 / 舔颈 / 舔对方的脖子 / 舔脖子 / 舔他人的脖子 / 亲密 / licking neck"
+    },
+    {
+      "en": "licking blood",
+      "zh": "舔血",
+      "rating": "s",
+      "count": 508,
+      "desc": "舔手上的血或武器上的血",
+      "kw": "舔食血液 / 舔掉血 / 舔舐血迹 / 舔血渍 / 舔血痕 / 舔舐血液 / 用舌头舔血 / 动作"
+    },
+    {
+      "en": "licking hand",
+      "zh": "舔手",
+      "rating": "s",
+      "count": 638,
+      "desc": "舔手部而非手指的部位",
+      "kw": "舔手掌 / 舔手背 / 舔手部 / 舔手非手指 / 舔舐 / 动作 / hand licking / 舔舐手部"
+    },
+    {
+      "en": "licking lips",
+      "zh": "舔嘴唇",
+      "rating": "s",
+      "count": 31997,
+      "desc": "用舌头舔嘴唇，常表达期待或诱惑",
+      "kw": "舔舐嘴唇 / 舔唇 / 舔嘴角 / 舌舔嘴唇 / 唇部动作 / 表情 / lip licking / 舌なめずり / 舌舐めずり"
+    },
+    {
+      "en": "licking own finger",
+      "zh": "舔自己手指",
+      "rating": "s",
+      "count": 1011,
+      "desc": "用舌头舔自己手指的动作",
+      "kw": "舔手指 / 舔手 / 舔指头 / 舔手指尖 / 自舔手指 / 舔自己的手指 / 动作 / 舔舐"
+    },
+    {
+      "en": "licking penis",
+      "zh": "舔阴茎",
+      "rating": "e",
+      "nsfw": true,
+      "count": 18805,
+      "desc": "不整根含入地舔弄阴茎",
+      "kw": "舔舐阴茎 / 舔鸡巴 / 舔屌 / 舔阳具 / 舔肉棒 / 舔下体 / 口交 / 性行为 / penis licking"
+    },
+    {
+      "en": "lip biting",
+      "zh": "咬嘴唇",
+      "rating": "s"
+    },
+    {
+      "en": "lollipop in mouth",
+      "zh": "嘴含棒棒糖",
+      "rating": "g",
+      "count": 2657,
+      "desc": "嘴里含着棒棒糖",
+      "kw": "口中棒棒糖 / 嘴里含着棒棒糖 / 含棒棒糖 / 叼棒棒糖 / 嘴叼棒棒糖 / 棒棒糖 / 嘴里含物 / 糖果"
+    },
+    {
+      "en": "mouth hold",
+      "zh": "用嘴叼着",
+      "rating": "g",
+      "count": 103630,
+      "desc": "用嘴叼着某物的动作。",
+      "kw": "嘴里叼着 / 叼着 / 衔着 / 口衔 / 咬在嘴里 / 用嘴衔着 / 嘴叼 / 口中含着 / 咥える / 咥え髪留め / くわえたくしあげ"
+    },
+    {
+      "en": "necktie in mouth",
+      "zh": "嘴里叼着领带",
+      "rating": "s",
+      "count": 609,
+      "desc": "用嘴叼起自己或他人的领带",
+      "kw": "口含领带 / 叼领带 / 咬着领带 / 嘴里含领带 / 用嘴叼领带 / 领带含在嘴里 / 领带 / 动作"
+    },
+    {
+      "en": "playing flute",
+      "zh": "吹笛子",
+      "rating": "g",
+      "count": 972,
+      "desc": "正在吹奏长笛一类的管乐器",
+      "kw": "吹长笛 / 吹奏长笛 / 吹笛 / 演奏长笛 / 吹横笛 / 演奏 / 乐器"
+    },
+    {
+      "en": "pocky in mouth",
+      "zh": "嘴含百奇",
+      "rating": "g",
+      "count": 7396,
+      "desc": "嘴里叼着一根百奇饼干棒",
+      "kw": "叼百奇 / 口含百奇 / 嘴叼百奇 / 叼着百奇棒 / 吃百奇 / 衔着Pocky / 零食 / 日本风"
+    },
+    {
+      "en": "popsicle in mouth",
+      "zh": "嘴里含冰棍",
+      "rating": "g",
+      "count": 6908,
+      "desc": "人物嘴里含着冰棍",
+      "kw": "口含冰棍 / 嘴里叼着冰棍 / 含着冰棍 / 口中冰棍 / 咬冰棍 / 嘴里有冰棍 / 嘴含冰棒 / 食物"
+    },
+    {
+      "en": "purring",
+      "zh": "呼噜声",
+      "rating": "g",
+      "count": 186,
+      "desc": "猫等动物发出的低沉连续振动声。",
+      "kw": "咕噜声 / 猫咪咕噜声 / 打呼噜 / 咕噜咕噜 / 猫呼噜声 / 猫叫 / 拟声"
+    },
+    {
+      "en": "reverse fellatio",
+      "zh": "倒挂式口交",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1743,
+      "desc": "施予者仰躺、头部倒转的倒挂式口交",
+      "kw": "倒挂口交 / 反向口交 / 逆口交 / 头下脚上口交 / 口交 / 性行为 / 逆さフェラ"
+    },
+    {
+      "en": "ribbon in mouth",
+      "zh": "嘴里叼丝带",
+      "rating": "g",
+      "count": 2718,
+      "desc": "角色嘴里叼着缎带或丝带",
+      "kw": "嘴里含着丝带 / 叼丝带 / 口含丝带 / 嘴叼缎带 / 缎带 / 动作"
+    },
+    {
+      "en": "shared food",
+      "zh": "共享食物",
+      "rating": "g",
+      "count": 2367,
+      "desc": "两人同时咬住同一份食物，如 pocky 游戏。",
+      "kw": "同吃食物 / 一起吃东西 / 共吃一份 / 分食 / 咬同一食物 / 嘴对嘴喂食 / 分享食物 / mouth to mouth feeding / mouth-to-mouth feeding"
+    },
+    {
+      "en": "shirt in mouth",
+      "zh": "嘴里的衬衫",
+      "rating": "s",
+      "count": 2747,
+      "desc": "用嘴叼着衬衫下摆",
+      "kw": "嘴里含着衬衫 / 咬衬衫下摆 / 叼衬衫 / 衬衫含在嘴里 / 咬住衬衫 / 叼着衬衫下摆 / 嘴叼衣服 / 姿势"
+    },
+    {
+      "en": "sing",
+      "zh": "唱歌",
+      "rating": "g"
+    },
+    {
+      "en": "smoking pipe in mouth",
+      "zh": "嘴叼烟斗",
+      "rating": "g",
+      "count": 754,
+      "desc": "角色嘴里叼着烟斗，不一定在吸烟。",
+      "kw": "叼烟斗 / 嘴含烟斗 / 咬着烟斗 / 口叼烟斗 / 烟斗叼在嘴里 / 叼着烟斗 / 烟斗 / 道具"
+    },
+    {
+      "en": "spoon in mouth",
+      "zh": "嘴里含着勺子",
+      "rating": "g"
+    },
+    {
+      "en": "stalk in mouth",
+      "zh": "嘴里叼着草秆",
+      "rating": "g",
+      "count": 2430,
+      "desc": "嘴里叼着麦秆等植物茎",
+      "kw": "叼草 / 嘴里叼草 / 嘴里叼麦秆 / 嘴里叼着茎 / 叼着麦秆 / 嘴里叼着稻草 / 叼着植物茎 / 叼着草茎 / grass in mouth / twig in mouth / wheat in mouth / straw in mouth"
+    },
+    {
+      "en": "steam from mouth",
+      "zh": "口吐白气",
+      "rating": "g",
+      "count": 779,
+      "desc": "寒冷天气下从口中呼出的白汽",
+      "kw": "口冒蒸汽 / 口中白气 / 哈气 / 呼出白雾 / 口中雾气 / 呼气白气 / 冷天哈气 / 呼吸白雾"
+    },
+    {
+      "en": "sucking male nipple",
+      "zh": "吮吸男性乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 942,
+      "desc": "用嘴含住并吮吸男性乳头。",
+      "kw": "吸男性乳头 / 舔男性乳头 / 含男性乳头 / 男性乳头吮吸 / 性行为 / 亲密接触 / sucking nipples (male)"
+    },
+    {
+      "en": "surprise kiss",
+      "zh": "突袭吻",
+      "rating": "g",
+      "count": 3640,
+      "desc": "趁对方不备亲吻。",
+      "kw": "偷袭吻 / 惊喜之吻 / 突然吻 / 冷不防接吻 / 突吻 / 突然之吻 / 亲吻 / 惊讶"
+    },
+    {
+      "en": "teeth hold",
+      "zh": "牙齿咬住",
+      "rating": "g",
+      "count": 1748,
+      "desc": "用牙齿而非嘴唇咬住物体的口部持物方式",
+      "kw": "用牙咬住 / 咬住 / 牙叼 / 牙齿叼着 / 牙齿咬物 / 用牙齿咬 / 动作"
+    },
+    {
+      "en": "tentacle in mouth",
+      "zh": "嘴含触手",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2373,
+      "desc": "触手插入或含在口中的画面。",
+      "kw": "口含触手 / 触手入口 / 嘴插触手 / 触手塞嘴 / 触手口交 / 触手伸入嘴 / 触手在嘴里 / 口中有触手"
+    },
+    {
+      "en": "toothbrush in mouth",
+      "zh": "嘴里含牙刷",
+      "rating": "g",
+      "count": 1039,
+      "desc": "嘴里含着牙刷，多出现在刷牙时",
+      "kw": "嘴里的牙刷 / 含牙刷 / 牙刷在嘴里 / 口中含牙刷 / 嘴里叼着牙刷 / 牙刷 / 日常"
+    },
+    {
+      "en": "utensil in mouth",
+      "zh": "嘴里含餐具",
+      "rating": "g",
+      "count": 2701,
+      "desc": "嘴里含着叉子或勺子等餐具",
+      "kw": "口中含叉子 / 嘴里咬着勺子 / 嘴含餐具 / 口含叉勺 / 姿势 / 动作 / fork in mouth / spoon in mouth"
+    },
+    {
+      "en": "whispering in ear",
+      "zh": "耳边低语",
+      "rating": "g",
+      "count": 1345,
+      "desc": "凑到别人耳边低声说话。",
+      "kw": "耳语 / 咬耳朵 / 说悄悄话 / 低声耳语 / 耳边私语 / 耳畔低语 / 附耳低语 / 凑到耳边说话"
+    },
+    {
+      "en": "open mouth",
+      "zh": "张嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3616066,
+      "desc": "嘴巴张开到可见内部",
+      "kw": "开口 / 张口 / 嘴巴张开 / 张着嘴 / 嘴张开 / 嘴微张 / 微张 / 张嘴表情 / mouth open / 開口 / 開いた口 / 口を開ける"
+    },
+    {
+      "en": "closed mouth",
+      "zh": "闭嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2041461,
+      "desc": "双唇闭合不露口腔内部",
+      "kw": "嘴闭合 / 双唇紧闭 / 闭口 / 嘴巴闭上 / 不张嘴 / 闭嘴表情 / 合嘴 / 嘴唇闭合 / 闭上的嘴巴 / 閉口 / 口を閉じる"
+    },
+    {
+      "en": "slightly open mouth",
+      "zh": "嘴巴微微张开",
+      "rating": "g"
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "id": "hair_color",
+  "name": "发色",
+  "icon": "🌈",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 4,
+  "file": "character_base/character_base_hair_color.json",
+  "updatedAt": "2026-11-18T05:36:30.157Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "blonde hair",
+      "zh": "金发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2232903,
+      "desc": "头发颜色为金黄或淡黄",
+      "kw": "金髮 / 金色头发 / 黄发 / 淡黄发 / 金色长发 / 金发女 / 金毛 / 金发角色 / blonde / blond / yellow hair / blond hair"
+    },
+    {
+      "en": "platinum blonde hair",
+      "zh": "白金发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "white hair",
+      "zh": "白发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1076649,
+      "desc": "头发颜色为白色",
+      "kw": "白色头发 / 白毛 / 白色发色 / 白发色 / 白头发 / 雪白头发 / 纯白头发 / 银发 / whitehair / 白髪"
+    },
+    {
+      "en": "silver hair",
+      "zh": "银发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "grey hair",
+      "zh": "灰发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1057838,
+      "desc": "头发颜色为灰色",
+      "kw": "灰色头发 / 灰毛 / 银发 / 银灰色头发 / 银白发 / 灰白色头发 / 浅灰发 / 发色 / gray hair / 白髪 / 银髪 / 銀髪"
+    },
+    {
+      "en": "black hair",
+      "zh": "黑发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2261483,
+      "desc": "头发颜色为纯黑",
+      "kw": "黑髮 / 黑色头发 / 黑头发 / 乌发 / 黑毛 / 黑发女 / 黑发角色 / 黑发娘 / black-hair / blackhair / dark hair / 黑髪"
+    },
+    {
+      "en": "brown hair",
+      "zh": "棕发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2141111,
+      "desc": "头发颜色为棕色",
+      "kw": "棕色头发 / 褐发 / 咖啡色头发 / 茶发 / 茶色头发 / 棕毛 / 褐色头发 / 栗色头发 / brunette / brown-hair / brownhair / chocolate hair"
+    },
+    {
+      "en": "dark brown hair",
+      "zh": "深棕发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "light brown hair",
+      "zh": "浅棕发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "red hair",
+      "zh": "红发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 755670,
+      "desc": "红色头发，含橘红、枣红",
+      "kw": "红毛 / 赤发 / 红头发 / 红色头发 / 发色 / redhead / redhair / red head / 红髪"
+    },
+    {
+      "en": "orange hair",
+      "zh": "橙发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 361554,
+      "desc": "头发呈橙色的角色，与金发、棕发、红发可能有重叠",
+      "kw": "橙色头发 / 橘色头发 / 橙毛 / 橘发 / 橙色发 / 发色 / オレンジ髪"
+    },
+    {
+      "en": "pink hair",
+      "zh": "粉发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1093950,
+      "desc": "头发颜色为粉色",
+      "kw": "粉色头发 / 粉毛 / 桃色头发 / 粉红色头发 / 粉发色 / 浅粉头发 / 粉红发 / 发色 / magenta hair / pinkhair / 桃髪 / ピンク髪"
+    },
+    {
+      "en": "hot pink hair",
+      "zh": "艳粉发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "purple hair",
+      "zh": "紫发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 939246,
+      "desc": "头发颜色为紫色",
+      "kw": "紫色头发 / 紫毛 / 紫发色 / 紫色发色 / 紫罗兰发 / 发色 / lavender hair / purple-hair / purplehair / violet hair"
+    },
+    {
+      "en": "blue hair",
+      "zh": "蓝发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1232773,
+      "desc": "头发颜色为蓝色",
+      "kw": "蓝色头发 / 蓝毛 / 蓝发色 / 天蓝色头发 / 蓝色发色 / 发色 / bluehair / 青髪 / 青い髪 / 水色髪"
+    },
+    {
+      "en": "light blue hair",
+      "zh": "浅蓝发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "navy blue hair",
+      "zh": "藏蓝发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "green hair",
+      "zh": "绿发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 610573,
+      "desc": "绿色头发，与水色发可能有重叠",
+      "kw": "绿色头发 / 绿毛 / 青发 / 翠发 / 绿色系头发 / 绿色发色 / 绿颜色头发 / 头发 / greenhair / 绿髪 / 緑髪"
+    },
+    {
+      "en": "mint green hair",
+      "zh": "薄荷发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "multicolored hair",
+      "zh": "多色发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1232199,
+      "desc": "头发具有两种以上颜色",
+      "kw": "多色头发 / 彩色头发 / 混色头发 / 双色发 / 三色发 / 彩色发 / 多种颜色头发 / multicolor hair / three-tone hair / 多色髪"
+    },
+    {
+      "en": "two-tone hair",
+      "zh": "双色发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 414943,
+      "desc": "头发由两种明显不同颜色构成，分界可渐变或突变",
+      "kw": "两色头发 / 双色毛发 / 二色发 / 异色发 / 发型 / two-tone-hair / two tone hair / ツートン / ツートーン"
+    },
+    {
+      "en": "gradient hair",
+      "zh": "渐变发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 232257,
+      "desc": "发色由一种平滑过渡到另一种",
+      "kw": "渐变色头发 / 渐层发色 / 渐层发 / 渐变染色 / 渐变头发 / 发色渐变 / 渐层染发 / グラデ髪 / グラデヘアー"
+    },
+    {
+      "en": "ash blonde hair",
+      "zh": "灰金发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "strawberry blonde hair",
+      "zh": "草莓金发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "jet black hair",
+      "zh": "乌黑发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dark blue hair",
+      "zh": "深蓝发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "aqua hair",
+      "zh": "水色头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 184575,
+      "desc": "蓝绿色的头发，涵盖青色与绿松石色",
+      "kw": "水蓝色头发 / 蓝绿色头发 / 青色头发 / 湖蓝色头发 / 水色发 / 蓝绿发 / 青绿头发 / 发色 / cyan hair / teal hair / turquoise hair / 青发"
+    },
+    {
+      "en": "colored inner hair",
+      "zh": "挂耳染",
+      "rating": "g",
+      "nsfw": false,
+      "count": 168496,
+      "desc": "头发内侧与外侧颜色不同",
+      "kw": "内层挑染 / 内挑染 / 头发内层染色 / 内层发色 / 内侧彩色头发 / 隐藏发色 / 内层染发 / inner color / インナーカラー"
+    },
+    {
+      "en": "colored tips",
+      "zh": "发梢染色",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27939,
+      "desc": "发梢突然染成另一种颜色的发型，区别于渐变色。",
+      "kw": "发尾挑染 / 彩色发尾 / 挑染发尾 / 发尾染色 / 发尖染色 / 发梢挑染 / 染发 / dip-dyed hair / frosted tips"
+    },
+    {
+      "en": "patterned hair",
+      "zh": "花纹发色",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3509,
+      "desc": "头发上有现实中无法复制的图案",
+      "kw": "花纹头发 / 图案发色 / 印花头发 / 纹理头发 / 带图案的头发 / 花色头发 / 图案发型 / 有图案的头发 / print hair / textured hair"
+    },
+    {
+      "en": "rainbow hair",
+      "zh": "彩虹发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2557,
+      "desc": "呈彩虹光谱色的头发",
+      "kw": "彩虹色头发 / 彩虹发色 / 七彩头发 / 七彩发 / 彩虹渐变色头发 / 头发 / 多色 / 虹髪"
+    },
+    {
+      "en": "roots (hair)",
+      "zh": "发根布丁头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7831,
+      "desc": "头顶发根与其余头发颜色不同的双色发",
+      "kw": "发根异色 / 发根双色 / 发根染色 / 头顶发根颜色不同 / 发根色差 / 发根挑染 / 染发 / 发型 / 发根 / プリン頭"
+    },
+    {
+      "en": "split-color hair",
+      "zh": "阴阳发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32658,
+      "desc": "头顶左右分开两种不同发色",
+      "kw": "双色发 / 阴阳头 / 分色发 / 双色头发 / 左右异色发 / 半半发色 / 异色发 / split hair colors"
+    },
+    {
+      "en": "spotted hair",
+      "zh": "斑点发色",
+      "rating": "g",
+      "nsfw": false,
+      "count": 526,
+      "desc": "头发带有圆形或其他斑点状花纹",
+      "kw": "斑点图案头发 / 圆点头发 / 波点头发 / 花斑头发 / 头发 / 斑点"
+    },
+    {
+      "en": "streaked hair",
+      "zh": "挑染",
+      "rating": "g",
+      "nsfw": false,
+      "count": 455581,
+      "desc": "大部分为一色，少数发丝为其他颜色",
+      "kw": "挑染头发 / 发丝挑染 / 高光发 / 渐变挑染 / 混色发丝 / 发缕染色 / 发色 / highlights / メッシュ"
+    },
+    {
+      "en": "striped hair",
+      "zh": "条纹头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1987,
+      "desc": "头发呈条纹状配色，类似挑染效果。",
+      "kw": "挑染条纹发 / 条纹发型 / 斑马纹发 / 条状挑染发 / 条纹发色 / 发型"
+    },
+    {
+      "en": "alternate hair color",
+      "zh": "异色发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17985,
+      "desc": "角色头发颜色与平时不同。",
+      "kw": "发色改变 / 发色变化 / 不同发色 / 换色发型 / 另类发色 / 特殊发色 / 头发变色 / alternate haircolor / alternative hair color / 髪色チェンジ"
+    },
+    {
+      "en": "golden hair",
+      "zh": "金色头发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "crimson hair",
+      "zh": "深红发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "auburn hair",
+      "zh": "赤褐发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lavender hair",
+      "zh": "薰衣草发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "teal hair",
+      "zh": "青绿发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "pastel hair",
+      "zh": "粉彩发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "salt and pepper hair",
+      "zh": "花白发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dyed hair",
+      "zh": "染发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ombre hair",
+      "zh": "渐层发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chocolate hair",
+      "zh": "巧克力色头发",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "colored bangs",
+      "zh": "异色刘海",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6483,
+      "desc": "整片刘海颜色与其余头发不同",
+      "kw": "染色刘海 / 彩色刘海 / 双色刘海 / 发型 / dyed bangs"
+    },
+    {
+      "en": "aqua streaks",
+      "zh": "水色挑染",
+      "rating": "g",
+      "count": 2862,
+      "desc": "头发中挑染出的水色发束",
+      "kw": "水色发束 / 水蓝色挑染 / 蓝色挑染 / 浅蓝色发丝 / 水色头发挑染 / 水色发丝 / 发型 / 染发"
+    },
+    {
+      "en": "black streaks",
+      "zh": "黑色挑染",
+      "rating": "g",
+      "count": 17679,
+      "desc": "头发中黑色的挑染条纹",
+      "kw": "黑条纹 / 黑色发缕 / 黑发挑染 / 黑挑染 / 条纹 / 挑染"
+    },
+    {
+      "en": "blonde streaks",
+      "zh": "挑染金发",
+      "rating": "g",
+      "count": 5656,
+      "desc": "头发中金色的挑染条纹",
+      "kw": "金色挑染 / 金发挑染 / 金色发丝 / 金色条纹发 / 黄色挑染 / 金色发缕 / 金发条纹 / 挑染金色 / yellow streaks"
+    },
+    {
+      "en": "blue streaks",
+      "zh": "蓝色挑染",
+      "rating": "g",
+      "count": 25525,
+      "desc": "头发中蓝色的挑染发丝。",
+      "kw": "蓝挑染 / 蓝色发缕 / 蓝色发丝 / 蓝色发束 / 蓝发挑染 / 蓝色挑发 / 挑染 / 发型"
+    },
+    {
+      "en": "dyed ahoge",
+      "zh": "染色呆毛",
+      "rating": "g",
+      "count": 1102,
+      "desc": "呆毛染成与其余头发不同的颜色",
+      "kw": "染色的呆毛 / 呆毛染色 / 彩色呆毛 / 异色呆毛 / 挑染呆毛 / 染过色的呆毛 / 呆毛 / 发型"
+    },
+    {
+      "en": "green streaks",
+      "zh": "绿色挑染",
+      "rating": "g",
+      "count": 3257,
+      "desc": "头发中的绿色条纹挑染。",
+      "kw": "挑染绿发 / 绿色发丝 / 绿色条纹发 / 绿色头发挑染 / 绿发挑染 / 绿色发缕 / 绿色发片 / 染发"
+    },
+    {
+      "en": "grey streaks",
+      "zh": "灰色挑染",
+      "rating": "g",
+      "count": 2641,
+      "desc": "头发中有灰色挑染发丝",
+      "kw": "灰发挑染 / 灰挑染 / 银灰挑染 / 灰发条 / 灰发丝 / 灰白发挑染 / 头发染色 / 发型"
+    },
+    {
+      "en": "orange streaks",
+      "zh": "橙色挑染",
+      "rating": "g",
+      "count": 1923,
+      "desc": "头发中挑染出橙色条纹",
+      "kw": "橙色条纹挑染 / 橙发挑染 / 橙色调染 / 橙色发丝 / 头发橙色挑染 / 头发 / 染发"
+    },
+    {
+      "en": "pink streaks",
+      "zh": "粉色挑染",
+      "rating": "g",
+      "count": 15161,
+      "desc": "头发中挑染的粉色发束",
+      "kw": "挑染粉发 / 粉发挑染 / 粉红挑染 / 粉色发束 / 粉色发丝 / 粉毛挑染 / 粉色挑染发 / 染发"
+    },
+    {
+      "en": "purple streaks",
+      "zh": "紫色挑染",
+      "rating": "g",
+      "count": 9732,
+      "desc": "紫色挑染的发丝",
+      "kw": "紫挑染 / 紫色挑染发 / 紫发挑染 / 紫色发束 / 紫色挑染色 / 染发 / 发型"
+    },
+    {
+      "en": "red streaks",
+      "zh": "红色挑染",
+      "rating": "g",
+      "count": 28398,
+      "desc": "头发中挑染成红色的发缕。",
+      "kw": "红色挑染发 / 红发挑染 / 红色发缕 / 红色挑染发丝 / 红挑染 / 发型 / 染发"
+    },
+    {
+      "en": "single hair streak",
+      "zh": "单缕挑染",
+      "rating": "g",
+      "count": 10312,
+      "desc": "只有一缕头发带有挑染颜色",
+      "kw": "一缕挑染 / 单条挑染 / 单撮挑染 / 单束挑染 / 一撮挑染 / 单发挑染 / 单根挑染 / 挑染"
+    },
+    {
+      "en": "white streaks",
+      "zh": "白色挑染",
+      "rating": "g",
+      "count": 31654,
+      "desc": "头发中夹杂的白色挑染发丝",
+      "kw": "白发挑染 / 白色发束 / 白色发丝 / 白发丝 / 白色头发挑染 / 发型 / 染发"
+    },
+    {
+      "en": "official alternate hair color",
+      "zh": "官方异色发",
+      "rating": "g",
+      "count": 6730,
+      "desc": "官方设定的角色发色变化，非同人。",
+      "kw": "官方发色变化 / 官方异色发型 / 官方不同发色 / 官方换发色 / 官方设定发色变更 / 发型 / 变体"
+    }
+  ]
+}

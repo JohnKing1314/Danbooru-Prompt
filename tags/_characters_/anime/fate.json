@@ -1,0 +1,635 @@
+{
+  "id": "fate",
+  "name": "Fate",
+  "parentId": "games",
+  "order": 11,
+  "file": "games/fate.json",
+  "characters": [
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "阿尔托莉雅·潘德拉贡",
+      "tag": "artoria pendragon (fate)",
+      "charZh": "阿尔托莉雅·潘德拉贡（Fate）",
+      "auto": "blonde hair|金发;hair bun|发髻;blue eyes|蓝瞳;ahoge|呆毛;armor|盔甲;1girl|一个女孩;sidelocks|鬓发;green eyes|绿瞳;hair between eyes|眼间发;long hair|长发;yellow eyes|黄瞳;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "玛修·基列莱特",
+      "tag": "mash kyrielight",
+      "charZh": "玛修·基列莱特（Fate）",
+      "auto": "pink hair|粉发;short hair|短发;purple eyes|紫瞳;shield|盾牌",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "尼禄·克劳狄乌斯",
+      "tag": "nero claudius (fate)",
+      "charZh": "尼禄·克劳狄乌斯（Fate）",
+      "auto": "blonde hair|金发;long hair|长发;green eyes|绿瞳;dress|连衣裙;1girl|一个女孩;hair intakes|内卷发;ahoge|呆毛;large breasts|大胸;red eyes|红瞳;hair ribbon|发带;navel|肚脐;french braid|法式辫",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "贞德",
+      "tag": "jeanne d'arc (fate)",
+      "charZh": "贞德（Fate）",
+      "auto": "blonde hair|金发;long hair|长发;braid|麻花辫;blue eyes|蓝瞳;1girl|一个女孩;large breasts|大胸;very long hair|超长发;headpiece|头饰;chain|锁链;gauntlets|护手;armored dress|铠甲裙;braided ponytail|麻花辫马尾;single braid|单麻花辫",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "冲田总司",
+      "tag": "okita souji (fate)",
+      "charZh": "冲田总司（Fate）",
+      "auto": "blonde hair|金发;ponytail|马尾;red eyes|红瞳;katana|武士刀;1girl|一个女孩;ahoge|呆毛;hair bow|蝴蝶结发饰;black bow|黑色蝴蝶结;short hair|短发;yellow eyes|黄瞳;haori|羽织;black scarf|黑色围巾;white kimono|白色和服;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "斯卡哈",
+      "tag": "scathach (fate)",
+      "charZh": "斯卡哈（Fate）",
+      "auto": "purple hair|紫发;long hair|长发;red eyes|红瞳;bodysuit|连体衣",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "伊什塔尔",
+      "tag": "ishtar (fate)",
+      "charZh": "伊什塔尔（Fate）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;halo|光环",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "艾蕾什基伽尔",
+      "tag": "ereshkigal (fate)",
+      "charZh": "艾蕾什基伽尔（Fate）",
+      "auto": "blonde hair|金发;long hair|长发;red eyes|红瞳;crown|王冠",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "吉尔伽美什",
+      "tag": "gilgamesh (fate)",
+      "charZh": "吉尔伽美什（Fate）",
+      "auto": "blonde hair|金发;short hair|短发;red eyes|红瞳;armor|盔甲;1boy|一个男孩;earrings|耳环;hair between eyes|眼间发;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "卫宫",
+      "tag": "emiya (fate)",
+      "charZh": "卫宫（Fate）",
+      "auto": "white hair|白发;short hair|短发;grey eyes|灰瞳",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "库·丘林",
+      "tag": "cu chulainn (fate)",
+      "charZh": "库·丘林（Fate）",
+      "auto": "blue hair|蓝发;short hair|短发;red eyes|红瞳;bodysuit|连体衣;1boy|一个男孩;long hair|长发;earrings|耳环;fur-trimmed hood|毛皮镶边兜帽;hooded capelet|连帽短披肩;spiked hair|刺猬头;hood up|戴上兜帽;bracelet|手链;twitter username|推特用户名;ponytail|马尾;signature|签名;grin|露齿笑",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "美杜莎",
+      "tag": "medusa (fate)",
+      "charZh": "美杜莎（Fate）",
+      "auto": "purple hair|紫发;very long hair|超长发;purple eyes|紫瞳;mole under mouth|嘴角痣;1girl|一个女孩;large breasts|大胸;sidelocks|鬓发;parted bangs|中分刘海;long sleeves|长袖;forehead|额头;black dress|黑色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "玉藻前",
+      "tag": "tamamo no mae (fate)",
+      "charZh": "玉藻前（Fate）",
+      "auto": "pink hair|粉发;long hair|长发;yellow eyes|黄瞳;fox ears|狐耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "宫本武藏",
+      "tag": "miyamoto musashi (fate)",
+      "charZh": "宫本武藏（Fate）",
+      "auto": "pink hair|粉发;ponytail|马尾;blue eyes|蓝瞳;katana|武士刀",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "莫德雷德",
+      "tag": "mordred (fate)",
+      "charZh": "莫德雷德（Fate）",
+      "auto": "blonde hair|金发;short hair|短发;green eyes|绿瞳;1girl|一个女孩;ponytail|马尾;long hair|长发;navel|肚脐;small breasts|小胸;sidelocks|鬓发;parted bangs|中分刘海;half up braid|半扎编发;hair scrunchie|发圈;red scrunchie|红色大肠发圈",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "开膛手杰克",
+      "tag": "jack the ripper (fate)",
+      "charZh": "开膛手杰克（Fate）",
+      "auto": "white hair|白发;long hair|长发;green eyes|绿瞳;cloak|斗篷",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "酒吞童子",
+      "tag": "shuten douji (fate)",
+      "charZh": "酒吞童子（Fate）",
+      "auto": "purple hair|紫发;short hair|短发;purple eyes|紫瞳;horns|角",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "源赖光",
+      "tag": "minamoto no raikou (fate)",
+      "charZh": "源赖光（Fate）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "伊丽莎白·巴托里",
+      "tag": "elizabeth bathory (fate)",
+      "charZh": "伊丽莎白·巴托里（Fate）",
+      "auto": "pink hair|粉发;long hair|长发;red eyes|红瞳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "尼托克丽丝",
+      "tag": "nitocris (fate)",
+      "charZh": "尼托克丽丝（Fate）",
+      "auto": "dark skin|深色皮肤;brown hair|棕发;yellow eyes|黄瞳",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "葛饰北斋",
+      "tag": "katsushika hokusai (fate)",
+      "charZh": "葛饰北斋（Fate）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "阿周那",
+      "tag": "arjuna (fate)",
+      "charZh": "阿周那（Fate）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "迦尔纳",
+      "tag": "karna (fate)",
+      "charZh": "迦尔纳（Fate）",
+      "auto": "white hair|白发;long hair|长发;golden eyes|金瞳;armor|盔甲",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "布狄卡",
+      "tag": "boudica (fate)",
+      "charZh": "布狄卡（Fate）",
+      "auto": "red hair|红发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "玛塔·哈丽",
+      "tag": "mata hari (fate)",
+      "charZh": "玛塔·哈丽（Fate）",
+      "auto": "brown hair|棕发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "卡米拉",
+      "tag": "carmilla (fate)",
+      "charZh": "卡米拉（Fate）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "荆轲",
+      "tag": "jing ke (fate)",
+      "charZh": "荆轲（Fate）",
+      "auto": "black hair|黑发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "安徒生",
+      "tag": "hans christian andersen (fate)",
+      "charZh": "安徒生（Fate）",
+      "auto": "blue hair|蓝发;short hair|短发;1boy|一个男孩;blue eyes|蓝瞳;glasses|眼镜;bowtie|领结;long sleeves|长袖;vest|马甲;bad id|失效来源;book|书本",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "莎士比亚",
+      "tag": "shakespeare (fate)",
+      "charZh": "莎士比亚（Fate）",
+      "auto": "brown hair|棕发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "阿塔兰忒",
+      "tag": "atalante (fate)",
+      "charZh": "阿塔兰忒（Fate）",
+      "auto": "green hair|绿发;long hair|长发;animal ears|兽耳",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "喀耳刻",
+      "tag": "circe (fate)",
+      "charZh": "喀耳刻（Fate）",
+      "auto": "blonde hair|金发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "阿蒂拉",
+      "tag": "attila (fate)",
+      "charZh": "阿蒂拉（Fate）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "阿拉什",
+      "tag": "arash (fate)",
+      "charZh": "阿拉什（Fate）",
+      "auto": "black hair|黑发;short hair|短发;tan|晒黑",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "大卫",
+      "tag": "david (fate)",
+      "charZh": "大卫（Fate）",
+      "auto": "brown hair|棕发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "Fate",
+      "gameTag": "fate",
+      "name": "乔尔乔斯",
+      "tag": "georgios (fate)",
+      "charZh": "乔尔乔斯（Fate）",
+      "auto": "black hair|黑发;short hair|短发;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "Fate/Grand Order",
+      "gameTag": "fate",
+      "name": "黑贞德",
+      "tag": "jeanne d'arc alter (fate)",
+      "charZh": "黑贞德（Fate）",
+      "auto": "white hair|白发;short hair|短发;ahoge|呆毛;yellow eyes|黄眼;armor|盔甲;cape|披风;1girl|一个女孩;large breasts|大胸;grey hair|灰发;headpiece|头饰;chain|锁链;armored dress|铠甲裙;gauntlets|护手;very long hair|超长发",
+      "subName": ""
+    },
+    {
+      "game": "Fate/Grand Order",
+      "gameTag": "fate",
+      "name": "阿比盖尔",
+      "tag": "abigail williams (fate)",
+      "charZh": "阿比盖尔（Fate）",
+      "auto": "blonde hair|金发;twintails|双马尾;blue eyes|蓝眼;hair ribbon|发带;black dress|黑连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "Fate/Grand Order",
+      "gameTag": "fate",
+      "name": "摩根",
+      "tag": "morgan le fay (fate)",
+      "charZh": "摩根·勒·菲（Fate）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝眼;veil|面纱;crown|皇冠;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "Fate/Grand Order",
+      "gameTag": "fate",
+      "name": "芭万·希",
+      "tag": "baobhan sith (fate)",
+      "charZh": "妖精骑士崔斯坦（Fate）",
+      "auto": "pink hair|粉发;long hair|长发;red eyes|红眼;crown|皇冠;dress|连衣裙;high heels|高跟鞋",
+      "subName": ""
+    },
+    {
+      "game": "Fate/Grand Order",
+      "gameTag": "fate",
+      "name": "阿斯托尔福",
+      "tag": "astolfo (fate)",
+      "charZh": "阿斯托尔福（Fate）",
+      "auto": "pink hair|粉发;braid|辫子;purple eyes|紫眼;hair ribbon|发带;capelet|小披肩",
+      "subName": ""
+    },
+    {
+      "game": "Fate/Grand Order",
+      "gameTag": "fate",
+      "name": "BB",
+      "tag": "bb (fate)",
+      "charZh": "BB（Fate）",
+      "auto": "purple hair|紫发;very long hair|超长发;purple eyes|紫眼;hair ribbon|发带;cape|披风;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "Fate/Grand Order",
+      "gameTag": "fate",
+      "name": "溶解莉莉丝",
+      "tag": "meltryllis (fate)",
+      "charZh": "溶解莉莉丝（Fate）",
+      "auto": "purple hair|紫发;very long hair|超长发;blue eyes|蓝眼;headband|发箍;flat chest|平胸",
+      "subName": ""
+    },
+    {
+      "name": "远坂凛",
+      "tag": "tohsaka rin",
+      "charZh": "远坂凛",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;long hair|长发;black hair|黑发;brown hair|棕发;two side up|半扎双马尾;hair ribbon|发带;medium breasts|中等胸;black thighhighs|黑色过膝袜"
+    },
+    {
+      "name": "伊莉雅丝菲尔",
+      "tag": "illyasviel von einzbern",
+      "charZh": "伊莉雅丝菲尔",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;red eyes|红瞳;hair between eyes|眼间发;long hair|长发;white hair|白发;blonde hair|金发;small breasts|小胸"
+    },
+    {
+      "name": "贞德〔Alter〕",
+      "tag": "jeanne d'arc alter (avenger) (fate)",
+      "charZh": "贞德〔Alter〕",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;yellow eyes|黄瞳;short hair|短发;white hair|白发;grey hair|灰发;very long hair|超长发;blonde hair|金发;ahoge|呆毛;small breasts|小胸;cleavage|乳沟;headpiece|头饰;large breasts|大胸;armored dress|铠甲裙;gauntlets|护手;school uniform|校服;chain|锁链"
+    },
+    {
+      "name": "间桐樱",
+      "tag": "matou sakura",
+      "charZh": "间桐樱",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;purple eyes|紫瞳;purple hair|紫发;long hair|长发;hair ribbon|发带;small breasts|小胸;red ribbon|红色缎带"
+    },
+    {
+      "name": "卫宫士郎",
+      "tag": "emiya shirou",
+      "charZh": "卫宫士郎",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1boy|一个男孩;yellow eyes|黄瞳;orange hair|橙发;red hair|红发;short hair|短发"
+    },
+    {
+      "name": "卫宫（Archer）",
+      "tag": "archer (fate)",
+      "charZh": "卫宫（Archer）",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1boy|一个男孩;dark-skinned male|深色皮肤男性;white hair|白发;short hair|短发;muscular male|肌肉男;grey eyes|灰瞳;large pectorals|大胸肌;spiked hair|刺猬头;brown eyes|棕瞳;nipples|乳头"
+    },
+    {
+      "name": "阿尔托莉雅〔Alter〕",
+      "tag": "saber alter",
+      "charZh": "阿尔托莉雅〔Alter〕",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;yellow eyes|黄瞳;blonde hair|金发;short hair|短发;long hair|长发;sidelocks|鬓发;medium breasts|中等胸;excalibur morgan (fate)|誓约胜利之剑·摩根"
+    },
+    {
+      "name": "美杜莎（Rider）",
+      "tag": "medusa (rider) (fate)",
+      "charZh": "美杜莎（Rider）",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;purple eyes|紫瞳;glasses|眼镜;purple hair|紫发;very long hair|超长发;small breasts|小胸;forehead mark|额头印记;large breasts|大胸;forehead|额头;long hair|长发"
+    },
+    {
+      "name": "克洛伊",
+      "tag": "chloe von einzbern",
+      "charZh": "克洛伊",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;dark-skinned female|深肤色女性;loli|萝莉;orange eyes|橙瞳;hair between eyes|眼间发;yellow eyes|黄瞳;long hair|长发;pink hair|粉发;small breasts|小胸;thighs|大腿;navel|肚脐;stomach tattoo|腹部纹身;one side up|单侧扎发"
+    },
+    {
+      "name": "迦摩",
+      "tag": "kama (fate)",
+      "charZh": "迦摩",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;red eyes|红瞳;white hair|白发;long hair|长发;grey hair|灰发;short hair|短发;hair ribbon|发带;small breasts|小胸;thighs|大腿;navel|肚脐;bare shoulders|露肩;earrings|耳环"
+    },
+    {
+      "name": "南丁格尔",
+      "tag": "florence nightingale (fate)",
+      "charZh": "南丁格尔",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;red eyes|红瞳;pink hair|粉发;long hair|长发;braid|单辫;small breasts|小胸;navel|肚脐"
+    },
+    {
+      "name": "织田信长",
+      "tag": "oda nobunaga (fate)",
+      "charZh": "织田信长",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;red eyes|红瞳;hair between eyes|眼间发;black hair|黑发;long hair|长发;very long hair|超长发;peaked cap|大檐帽;red cape|红色斗篷;family crest|家徽"
+    },
+    {
+      "name": "伊斯坎达尔",
+      "tag": "iskandar (fate)",
+      "charZh": "伊斯坎达尔",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1boy|一个男孩;mature male|成熟男性;dark-skinned male|深色皮肤男性;beard|胡须;red eyes|红瞳;red hair|红发;short hair|短发;thick thighs|粗腿;muscular male|肌肉男;bara|蔷薇向;large pectorals|大胸肌;abs|腹肌"
+    },
+    {
+      "name": "言峰绮礼",
+      "tag": "kotomine kirei",
+      "charZh": "言峰绮礼",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1boy|一个男孩;brown eyes|棕瞳;brown hair|棕发;cross necklace|十字架项链"
+    },
+    {
+      "name": "阿尔托莉雅（Lancer）",
+      "tag": "artoria pendragon (lancer) (fate)",
+      "charZh": "阿尔托莉雅（Lancer）",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;hair between eyes|眼间发;blonde hair|金发;long hair|长发;sidelocks|鬓发;ahoge|呆毛;french braid|法式辫;braided bun|编发髻;small breasts|小胸;cleavage|乳沟;thighs|大腿;highleg leotard|高开衩连体衣;heattech leotard|Heattech紧身衣;crown|皇冠;large breasts|大胸;elbow gloves|长筒手套"
+    },
+    {
+      "name": "韦伯·维尔维特",
+      "tag": "waver velvet",
+      "charZh": "韦伯·维尔维特",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1boy|一个男孩;green eyes|绿瞳;black hair|黑发;green hair|绿发;bob cut|波波头;parted bangs|中分刘海;necktie|领带"
+    },
+    {
+      "name": "清姬",
+      "tag": "kiyohime (fate)",
+      "charZh": "清姬",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;dragon horns|龙角;horns|犄角;yellow eyes|黄瞳;hair between eyes|眼间发;long hair|长发;green hair|绿发;aqua hair|水色头发;very long hair|超长发;small breasts|小胸;medium breasts|中等胸;dragon girl|龙娘"
+    },
+    {
+      "name": "阿尔托莉雅·Caster",
+      "tag": "artoria caster (fate)",
+      "charZh": "阿尔托莉雅·Caster",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;hair between eyes|眼间发;blonde hair|金发;long hair|长发;twintails|双马尾;ahoge|呆毛;small breasts|小胸;black gloves|黑色手套;long sleeves|长袖"
+    },
+    {
+      "name": "巴御前",
+      "tag": "tomoe gozen (fate)",
+      "charZh": "巴御前",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;oni horns|鬼角;red eyes|红瞳;hair between eyes|眼间发;grey hair|灰发;white hair|白发;long hair|长发;very long hair|超长发;ponytail|马尾;small breasts|小胸;thighs|大腿;bare shoulders|露肩"
+    },
+    {
+      "name": "美游·艾德费尔特",
+      "tag": "miyu edelfelt",
+      "charZh": "美游·艾德费尔特",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1girl|一个女孩;brown eyes|棕瞳;black hair|黑发;long hair|长发;twintails|双马尾;hairclip|发夹;small breasts|小胸;bare shoulders|露肩;magical girl|魔法少女"
+    },
+    {
+      "name": "卫宫切嗣",
+      "tag": "emiya kiritsugu",
+      "charZh": "卫宫切嗣",
+      "game": "Fate",
+      "gameTag": "fate",
+      "auto": "1boy|一个男孩;black eyes|黑瞳;black hair|黑发;stubble|胡茬"
+    },
+    {
+      "name": "贝狄威尔",
+      "tag": "bedivere (fate)",
+      "auto": "1boy|一个男孩;long hair|长发;green eyes|绿瞳;blonde hair|金发;hair between eyes|眼间发;armor|盔甲;cape|披风;hair tubes|发筒;white hair|白发;gauntlets|护手;white cape|白色斗篷"
+    },
+    {
+      "name": "恩奇都",
+      "tag": "enkidu (fate)",
+      "auto": "androgynous|中性;1other|一个其他角色;green hair|绿发;white robe|白色长袍;green eyes|绿瞳;very long hair|超长发;long sleeves|长袖;long hair|长发;hair between eyes|眼间发;1boy|一个男孩"
+    },
+    {
+      "name": "尤瑞艾莉",
+      "tag": "euryale (fate)",
+      "auto": "1girl|一个女孩;purple hair|紫发;twintails|双马尾;very long hair|超长发;purple eyes|紫瞳;white dress|白色连衣裙;frilled hairband|荷叶边发箍;small breasts|小胸;armlet|臂环;lolita hairband|洛丽塔发箍"
+    },
+    {
+      "name": "芙芙",
+      "tag": "fou (fate)",
+      "auto": "1girl|一个女孩;purple eyes|紫瞳;short hair|短发;mash kyrielight|玛修·基列莱特;hair over one eye|遮单眼发;long sleeves|长袖;pink hair|粉发;hair between eyes|眼间发;1boy|一个男孩;purple hair|紫发"
+    },
+    {
+      "name": "弗朗西斯·德雷克",
+      "tag": "francis drake (fate)",
+      "auto": "1girl|一个女孩;pink hair|粉发;blue eyes|蓝瞳;large breasts|大胸;long hair|长发;scar on face|面部伤疤;ahoge|呆毛;scar|伤疤;eyepatch|眼罩;pirate hat|海盗帽;white pants|白色裤子"
+    },
+    {
+      "name": "高文",
+      "tag": "gawain (fate)",
+      "auto": "1boy|一个男孩;blonde hair|金发;blue eyes|蓝瞳;gauntlets|护手;armor|盔甲;short hair|短发;blue cape|蓝色斗篷;knight|骑士;fur collar|毛领;collared cape|有领披风"
+    },
+    {
+      "name": "吉尔·德·雷（Caster）",
+      "tag": "gilles de rais (caster) (fate)",
+      "auto": "1boy|一个男孩;1girl|一个女孩;black hair|黑发;bad id|失效来源;character doll|角色玩偶;yellow eyes|黄瞳;bad pixiv id|Pixiv来源失效;grey hair|灰发;black eyes|黑瞳;headpiece|头饰;ahoge|呆毛"
+    },
+    {
+      "name": "赫拉克勒斯",
+      "tag": "heracles (fate)",
+      "auto": "1girl|一个女孩;long hair|长发;red eyes|红瞳;1boy|一个男孩;illyasviel von einzbern|伊莉雅丝菲尔·冯·爱因兹贝伦;black hair|黑发;white hair|白发;sword|长剑;navel|肚脐"
+    },
+    {
+      "name": "莱昂纳多·达·芬奇",
+      "tag": "leonardo da vinci (fate)",
+      "auto": "1girl|一个女孩;brown hair|棕发;long hair|长发;blue eyes|蓝瞳;parted bangs|中分刘海;forehead|额头;small breasts|小胸;puffy short sleeves|泡泡短袖;blue gloves|蓝色手套;large breasts|大胸;elbow gloves|长筒手套"
+    },
+    {
+      "name": "李书文",
+      "tag": "li shuwen (fate)",
+      "auto": "1boy|一个男孩;chinese clothes|中式服装;red hair|红发;ponytail|马尾;long sleeves|长袖;bad id|失效来源;bad pixiv id|Pixiv来源失效;sunglasses|墨镜;long hair|长发;red eyes|红瞳;changpao|长衫;grey hair|灰发"
+    },
+    {
+      "name": "美狄亚",
+      "tag": "medea (fate)",
+      "auto": "1girl|一个女孩;pointy ears|尖耳;long hair|长发;blue eyes|蓝瞳;blue hair|蓝发;side braid|侧编发;purple hair|紫发;medium breasts|中等胸;purple eyes|紫瞳;purple dress|紫色连衣裙;parted bangs|中分刘海"
+    },
+    {
+      "name": "梅林",
+      "tag": "merlin (fate)",
+      "auto": "1boy|一个男孩;white hair|白发;purple eyes|紫瞳;hair between eyes|眼间发;very long hair|超长发;long sleeves|长袖;white robe|白色长袍;ahoge|呆毛;black shirt|黑衬衫;long hair|长发;hooded robe|连帽长袍"
+    },
+    {
+      "name": "谜之女主角X",
+      "tag": "mysterious heroine x (fate)",
+      "auto": "1girl|一个女孩;blonde hair|金发;ahoge|呆毛;baseball cap|棒球帽;ponytail|马尾;blue jacket|蓝色夹克;black hat|黑帽;hair between eyes|眼间发;long hair|长发;blue scarf|蓝色围巾;blue eyes|蓝瞳;black shorts|黑色短裤"
+    },
+    {
+      "name": "奥斯曼狄斯",
+      "tag": "ozymandias (fate)",
+      "auto": "1boy|一个男孩;yellow eyes|黄瞳;brown hair|棕发;dark-skinned male|深色皮肤男性;ahoge|呆毛;hair between eyes|眼间发;egyptian clothes|埃及风服饰;white cape|白色斗篷;earrings|耳环;black gloves|黑色手套;gauntlets|护手;necklace|项链"
+    },
+    {
+      "name": "佐佐木小次郎",
+      "tag": "sasaki kojirou (fate)",
+      "auto": "1boy|一个男孩;blue hair|蓝发;bishounen|美少年;long hair|长发;ponytail|马尾;blue eyes|蓝瞳;japanese clothes|日式传统服装;katana|武士刀;sword|长剑;long sleeves|长袖;very long hair|超长发;purple eyes|紫瞳"
+    },
+    {
+      "name": "齐格飞",
+      "tag": "siegfried (fate)",
+      "auto": "1boy|一个男孩;long hair|长发;white hair|白发;dark-skinned male|深色皮肤男性;armor|盔甲;green eyes|绿瞳;sword|长剑;bad id|失效来源;blue eyes|蓝瞳;bad pixiv id|Pixiv来源失效;dragon horns|龙角;platinum blonde hair|白金发"
+    }
+  ]
+}

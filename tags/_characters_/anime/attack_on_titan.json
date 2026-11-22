@@ -1,0 +1,91 @@
+{
+  "id": "attack_on_titan",
+  "name": "进击的巨人",
+  "parentId": "anime",
+  "order": 8,
+  "file": "anime/attack_on_titan.json",
+  "characters": [
+    {
+      "game": "进击的巨人",
+      "gameTag": "anime",
+      "name": "三笠·阿克曼",
+      "tag": "mikasa ackerman",
+      "charZh": "三笠·阿克曼（进击的巨人）",
+      "auto": "black hair|黑发;short hair|短发;black eyes|黑瞳;abs|腹肌;yandere|病娇;scarf|围巾;thigh boots|过膝靴;uniform|制服;scar|伤疤",
+      "subName": ""
+    },
+    {
+      "game": "进击的巨人",
+      "gameTag": "anime",
+      "name": "阿尔敏·阿诺德",
+      "tag": "armin arlert",
+      "charZh": "阿尔敏·阿诺德（进击的巨人）",
+      "auto": "blonde hair|金发;blue eyes|蓝瞳;angel|天使",
+      "subName": ""
+    },
+    {
+      "game": "进击的巨人",
+      "gameTag": "anime",
+      "name": "利威尔",
+      "tag": "levi (shingeki no kyojin)",
+      "charZh": "利威尔（进击的巨人）",
+      "auto": "black hair|黑发;grey eyes|灰瞳;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "进击的巨人",
+      "gameTag": "anime",
+      "name": "艾伦·耶格尔",
+      "tag": "eren yeager",
+      "charZh": "艾伦·耶格尔（进击的巨人）",
+      "auto": "brown hair|棕发;long hair|长发;green eyes|绿瞳;angel|天使;bangs|刘海;uniform|制服",
+      "subName": ""
+    },
+    {
+      "game": "进击的巨人",
+      "gameTag": "anime",
+      "name": "埃尔文·史密斯",
+      "tag": "erwin smith (shingeki no kyojin)",
+      "charZh": "埃尔文·史密斯（进击的巨人）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "进击的巨人",
+      "gameTag": "anime",
+      "name": "韩吉·佐耶",
+      "tag": "hange zoe (shingeki no kyojin)",
+      "charZh": "韩吉·佐耶（进击的巨人）",
+      "auto": "brown hair|棕发;short hair|短发;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "进击的巨人",
+      "gameTag": "anime",
+      "name": "希斯特利亚·雷斯",
+      "tag": "historia reiss (shingeki no kyojin)",
+      "charZh": "希斯特利亚·雷斯（进击的巨人）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "进击的巨人",
+      "gameTag": "anime",
+      "name": "阿妮·雷恩哈特",
+      "tag": "annie leonhart (shingeki no kyojin)",
+      "charZh": "阿妮·雷恩哈特（进击的巨人）",
+      "auto": "blonde hair|金发;hair bun|发髻;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "进击的巨人",
+      "gameTag": "anime",
+      "name": "莱纳·布朗",
+      "tag": "reiner braun (shingeki no kyojin)",
+      "charZh": "莱纳·布朗（进击的巨人）",
+      "auto": "blonde hair|金发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    }
+  ],
+  "count": 9
+}

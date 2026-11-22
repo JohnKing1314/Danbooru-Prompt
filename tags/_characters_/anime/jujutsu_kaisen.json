@@ -1,0 +1,109 @@
+{
+  "id": "jujutsu_kaisen",
+  "name": "咒术回战",
+  "parentId": "anime",
+  "order": 6,
+  "file": "anime/jujutsu_kaisen.json",
+  "characters": [
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "五条悟",
+      "tag": "gojo satoru",
+      "charZh": "五条悟（咒术回战）",
+      "auto": "white hair|白发;spiked hair|刺猬头;blue eyes|蓝瞳;teacher|教师;eyepatch|眼罩;sunglasses|墨镜",
+      "subName": ""
+    },
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "虎杖悠仁",
+      "tag": "itadori yuji",
+      "charZh": "虎杖悠仁（咒术回战）",
+      "auto": "pink hair|粉发;spiked hair|刺猬头;brown eyes|棕瞳;bangs|刘海;angel|天使;scar|伤疤;student|学生",
+      "subName": ""
+    },
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "伏黑惠",
+      "tag": "fushiguro megumi",
+      "charZh": "伏黑惠（咒术回战）",
+      "auto": "black hair|黑发;spiked hair|刺猬头;green eyes|绿瞳;shadow|影子",
+      "subName": ""
+    },
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "钉崎野蔷薇",
+      "tag": "kugisaki nobara",
+      "charZh": "钉崎野蔷薇（咒术回战）",
+      "auto": "brown hair|棕发;dyed hair|染发;short hair|短发;brown eyes|棕瞳;black pantyhose|黑色连裤袜;small breasts|小胸;bangs|刘海;belt|腰带",
+      "subName": ""
+    },
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "伏黑甚尔",
+      "tag": "fushiguro toji",
+      "charZh": "伏黑甚尔（咒术回战）",
+      "auto": "black hair|黑发;green eyes|绿瞳;scar|伤疤",
+      "subName": ""
+    },
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "两面宿傩",
+      "tag": "ryoumen sukuna (jujutsu kaisen)",
+      "charZh": "两面宿傩（咒术回战）",
+      "auto": "pink hair|粉发;red eyes|红瞳;tattoo|纹身",
+      "subName": ""
+    },
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "禅院真希",
+      "tag": "zenin maki",
+      "charZh": "禅院真希（咒术回战）",
+      "auto": "black hair|黑发;short hair|短发;green eyes|绿瞳;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "夏油杰",
+      "tag": "getou suguru (jujutsu kaisen)",
+      "charZh": "夏油杰（咒术回战）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "七海建人",
+      "tag": "nanami kento (jujutsu kaisen)",
+      "charZh": "七海建人（咒术回战）",
+      "auto": "blonde hair|金发;short hair|短发;glasses|眼镜;business suit|西装",
+      "subName": ""
+    },
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "家入硝子",
+      "tag": "ieiri shouko (jujutsu kaisen)",
+      "charZh": "家入硝子（咒术回战）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "咒术回战",
+      "gameTag": "anime",
+      "name": "狗卷棘",
+      "tag": "inumaki toge (jujutsu kaisen)",
+      "charZh": "狗卷棘（咒术回战）",
+      "auto": "brown hair|棕发;short hair|短发;purple eyes|紫瞳",
+      "subName": ""
+    }
+  ],
+  "count": 11
+}

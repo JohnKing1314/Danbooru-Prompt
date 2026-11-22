@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Danbooru Prompt V1.0</title>
+<link id="pageFavicon" rel="icon" href="logo_chibi.ico">
+<link rel="stylesheet" href="js/app-styles.css">
+</head>
+<body>
+<div id="appRoot"></div>
+<script>
+if (!window.__ACTIVE_SERVER_BASE__) {
+  window.__ACTIVE_SERVER_BASE__ = (typeof location !== 'undefined' && /^https?:$/.test(location.protocol)) ? location.origin : "http://127.0.0.1:8177";
+}
+</script>
+<script src="js/ico-assets.js"></script>
+<script src="js/app-layout.js"></script>
+<script>
+(function(){
+  var root = document.getElementById('appRoot');
+  if (root && !document.getElementById('catNav') && window.__APP_LAYOUT_HTML__) {
+    root.outerHTML = window.__APP_LAYOUT_HTML__;
+  }
+})();
+</script>
+<script src="tags/aux-loader.js"></script>
+<script src="tags/tags-loader.js"></script>
+<script src="tags/_characters_/chars-loader.js"></script>
+<script src="img/img-loader.js"></script>
+<script src="tags/_offline_db_/alias-loader.js"></script>
+<script src="tags/_offline_db_/cooc-loader.js"></script>
+<script src="tags/_offline_db_/artist-loader.js"></script>
+<script src="tags/_offline_db_/full-dict-loader.js"></script>
+<script src="js/help-loader.js"></script>
+<script src="js/changelog-loader.js"></script>
+<script src="materials/materials-loader.js"></script>
+<script src="libraries/libraries-loader.js"></script>
+<script src="js/user-data-loader.js"></script>
+<script src="js/tag-fs-data.js"></script>
+<script src="js/external-fs-engine.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

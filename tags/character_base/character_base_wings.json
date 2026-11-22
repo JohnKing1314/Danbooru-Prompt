@@ -1,0 +1,730 @@
+{
+  "id": "wings",
+  "name": "翅膀",
+  "icon": "🪽",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 16,
+  "file": "character_base/character_base_wings.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "feathers",
+      "zh": "羽毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 109346,
+      "desc": "鸟类特征的羽毛",
+      "kw": "羽 / 鸟羽 / 翎毛 / 羽毛片 / 绒羽 / 正羽 / 羽根 / 装饰 / feather / 绵羽 / 綿羽"
+    },
+    {
+      "en": "black wings",
+      "zh": "黑翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 72534,
+      "desc": "羽翼整体呈黑色的翅膀。",
+      "kw": "黑翅膀 / 墨黑翅膀 / 乌黑翅膀 / 翅膀 / 魔翼 / dark wings / black wing"
+    },
+    {
+      "en": "white wings",
+      "zh": "白翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 73004,
+      "desc": "长在背部的白色翅膀。",
+      "kw": "白翅膀 / 银白翅膀 / 洁白翅膀 / 翅膀 / 天使"
+    },
+    {
+      "en": "angel wings",
+      "zh": "天使翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 59630,
+      "desc": "白色羽翼状的天使翅膀",
+      "kw": "白色羽翼 / 天使之翼 / 白翅膀 / 羽翼 / 天使双翼 / 奇幻 / 翅膀 / 天使"
+    },
+    {
+      "en": "demon wings",
+      "zh": "恶魔翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 71093,
+      "desc": "恶魔角色或扮演者的翅膀，常与蝙蝠翅膀重叠。",
+      "kw": "魔翼 / 魔鬼翅膀 / 恶魔之翼 / 魔女翅膀 / 翅膀 / 魔幻 / devil wings / 悪魔羽"
+    },
+    {
+      "en": "butterfly wings",
+      "zh": "蝴蝶翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8474,
+      "desc": "像蝴蝶一样的翅膀",
+      "kw": "蝶翼 / 蝴蝶翅 / 蝶翅 / 翅膀 / 幻想 / 蝶羽根"
+    },
+    {
+      "en": "dragon wings",
+      "zh": "龙翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12899,
+      "desc": "龙背部长出的翅膀。",
+      "kw": "龙翅膀 / 龙之翼 / 龙的翅膀 / 龙族翅膀 / 飞龙翅膀 / 龙翼膜 / 龙 / 翅膀"
+    },
+    {
+      "en": "mechanical wings",
+      "zh": "机械翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9099,
+      "desc": "由金属制成的翅膀，常带液压件和齿轮",
+      "kw": "机械翅膀 / 金属翅膀 / 机器翼 / 机械羽翼 / 机甲翼 / 机械 / 科幻 / robot wings"
+    },
+    {
+      "en": "wings",
+      "zh": "翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 647204,
+      "desc": "角色身上用于飞行的翅膀，多在背部或头部",
+      "kw": "羽翼 / 翼 / 翅 / 双翼 / 背翅 / 翅翼 / 飞翼 / 翅膀装 / wing / 有翼 / 有翼人 / 羽"
+    },
+    {
+      "en": "alternate wings",
+      "zh": "异色翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1101,
+      "desc": "角色翅膀呈现不同或非常规样貌",
+      "kw": "替代翅膀 / 异形翅膀 / 翅膀变体 / 替换翅膀 / 非常规翅膀 / 另类翅膀 / 翅膀 / alternative wings"
+    },
+    {
+      "en": "alternate wing color",
+      "zh": "异色翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 141,
+      "desc": "角色翅膀颜色与平时不同",
+      "kw": "翅膀变色 / 替代翅膀颜色 / 不同颜色的翅膀 / 翅膀颜色不同 / 异色翼 / 翅膀异色 / 非原色翅膀 / 翅膀"
+    },
+    {
+      "en": "missing wings",
+      "zh": "无翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3414,
+      "desc": "有翅膀的角色被画成没有翅膀。",
+      "kw": "无翅膀 / 没有翅膀 / 缺少翅膀 / 失去翅膀 / 翅膀未画出 / 翼缺失 / 缺翅 / no wings"
+    },
+    {
+      "en": "multiple wings",
+      "zh": "多对翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13106,
+      "desc": "角色拥有超过一对翅膀。",
+      "kw": "多翼 / 复数翅膀 / 多对翼 / 额外翅膀 / 多双翅膀 / 多个翅膀 / 翅膀多于一对 / 翅膀 / extra wings / 4 wings / 6 wings"
+    },
+    {
+      "en": "single wing",
+      "zh": "单翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14191,
+      "desc": "角色只有一只翅膀，另一只缺失或被切除",
+      "kw": "单只翅膀 / 片翼 / 独翼 / 一只翅膀 / 单边翅膀 / 残翼 / 半边翅膀 / 单羽翼 / one wing"
+    },
+    {
+      "en": "single head wing",
+      "zh": "单侧头翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1833,
+      "desc": "头侧只有一只翅膀",
+      "kw": "头翼 / 头部单翼 / 单翅膀头饰 / 一侧头翼 / 单侧头羽 / 翅膀 / 头饰"
+    },
+    {
+      "en": "oversized wings",
+      "zh": "巨大翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3125,
+      "desc": "翅膀大小达到或超过角色身高，或展开面积极大。",
+      "kw": "大型翅膀 / 巨型翅膀 / 超大型翅膀 / 大翅膀 / 翅膀 / 幻想 / large wings"
+    },
+    {
+      "en": "large head wings",
+      "zh": "头部大翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 94,
+      "desc": "长在头部且尺寸很大的翅膀",
+      "kw": "大头翅膀 / 头部巨翅 / 大头部翅膀 / 头部大型翅膀 / 头部两侧大翅膀"
+    },
+    {
+      "en": "mini wings",
+      "zh": "小翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9710,
+      "desc": "背部比普通尺寸更小的翅膀",
+      "kw": "小型翅膀 / 微小翅膀 / 翅膀 / 装饰 / tiny wings / small wings"
+    },
+    {
+      "en": "feathered wings",
+      "zh": "羽毛翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 112937,
+      "desc": "覆盖羽毛的翅膀",
+      "kw": "羽翅 / 羽毛翼 / 带羽毛翅膀 / 羽翼翅膀 / 翅膀 / 羽毛 / feather wings"
+    },
+    {
+      "en": "bird wings",
+      "zh": "鸟翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23285,
+      "desc": "形似鸟类翅膀的羽翼，通常用于鸟人角色，非真实鸟类。",
+      "kw": "鸟翅膀 / 羽翼 / 羽毛翅膀 / 鸟类羽翼 / 鸟人翅膀 / 翅膀 / 鸟类特征"
+    },
+    {
+      "en": "fairy wings",
+      "zh": "妖精翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26613,
+      "desc": "妖精的翅膀，多为昆虫般的透明翅",
+      "kw": "精灵翅膀 / 仙子翅膀 / 妖精之翼 / 精灵之翼 / 翅膀 / 幻想生物"
+    },
+    {
+      "en": "bat wings",
+      "zh": "蝙蝠翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 77806,
+      "desc": "蝙蝠状翅膀，常与恶魔或吸血鬼形象搭配",
+      "kw": "蝠翼 / 恶魔翅膀 / 蝙蝠翼 / 恶魔之翼 / 蝙蝠翅 / 翅膀 / 魔幻 / batwing"
+    },
+    {
+      "en": "drawn wings",
+      "zh": "手绘翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1052,
+      "desc": "画在角色身后的翅膀图案",
+      "kw": "绘制翅膀 / 涂鸦翅膀 / 画出来的翅膀 / 翅膀 / 假翅膀"
+    },
+    {
+      "en": "skeletal wings",
+      "zh": "骨翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1365,
+      "desc": "由骨头构成的翅膀",
+      "kw": "骷髅翅膀 / 骸骨翅膀 / 骨头翅膀 / 骨架翅膀 / 骸翼 / 翅膀 / 幻想 / bone wings"
+    },
+    {
+      "en": "insect wings",
+      "zh": "昆虫翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15201,
+      "desc": "蜜蜂、蝴蝶、蜻蜓等昆虫的翅膀。",
+      "kw": "虫翼 / 昆虫翅 / 虫翅膀 / 透明虫翼 / 薄纱翅膀 / 薄翅 / 幻想翅膀"
+    },
+    {
+      "en": "dragonfly wings",
+      "zh": "蜻蜓翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 558,
+      "desc": "背部长着蜻蜓翅膀的角色",
+      "kw": "蜻蜓翼 / 蜻蜓翅 / 蜻蜓薄翼 / 蜻蜓翅膀状 / 翅膀 / 昆虫"
+    },
+    {
+      "en": "ladybug wings",
+      "zh": "瓢虫翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34
+    },
+    {
+      "en": "moth wings",
+      "zh": "蛾翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1072,
+      "desc": "角色长有飞蛾般的翅膀",
+      "kw": "飞蛾翅膀 / 蛾翅膀 / 飞蛾翼 / 蛾类翅膀 / 翅膀 / 昆虫翅膀"
+    },
+    {
+      "en": "crystal wings",
+      "zh": "水晶之翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11254,
+      "desc": "由水晶构成或缀有水晶的翅膀",
+      "kw": "晶体翅膀 / 晶翼 / 水晶羽翼 / 宝石翅膀 / 晶石翅膀 / 翅膀 / 幻想"
+    },
+    {
+      "en": "energy wings",
+      "zh": "能量之翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6428,
+      "desc": "由能量构成的翅膀",
+      "kw": "能量翼 / 光之翼 / 魔力翅膀 / 科幻 / 翅膀"
+    },
+    {
+      "en": "fiery wings",
+      "zh": "火焰之翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1559,
+      "desc": "由火焰构成或看似燃烧的翅膀",
+      "kw": "火焰翅膀 / 烈焰翅膀 / 火翼 / 燃焰翅膀 / 翅膀 / 火焰 / 幻想 / fire wings"
+    },
+    {
+      "en": "ice wings",
+      "zh": "冰之翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18774,
+      "desc": "由冰构成、有细腻冰质感的翅膀",
+      "kw": "冰晶翅膀 / 冰翼 / 冰凝翅膀 / 冰霜翅膀 / 冰结翅膀 / 翅膀"
+    },
+    {
+      "en": "liquid wings",
+      "zh": "液体之翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 134,
+      "desc": "由水或其他液体构成的翅膀",
+      "kw": "水翅膀 / 水流翅膀 / 液态翅膀 / 液体双翼 / 水系翅膀 / 水构成的翅膀 / 液体羽翼 / 水之翅膀 / water wings"
+    },
+    {
+      "en": "plant wings",
+      "zh": "植物翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 217,
+      "desc": "由叶片等植物材料构成的翅膀",
+      "kw": "植物之翼 / 叶翼 / 叶片翅膀 / 植物羽翼 / 花叶翅膀 / 绿叶翅膀 / 植物翼 / 奇幻翅膀"
+    },
+    {
+      "en": "fake wings",
+      "zh": "假翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5399,
+      "desc": "并非身体一部分的装饰性翅膀。",
+      "kw": "装饰翅膀 / 人造翅膀 / 道具翅膀 / 仿真翅膀 / 假翼 / 翅膀 / 装饰 / faux wings"
+    },
+    {
+      "en": "ankle wings",
+      "zh": "踝部羽翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 878,
+      "desc": "长在脚踝或脚上的翅膀",
+      "kw": "脚部翅膀 / 脚踝翼 / 脚上翅膀 / 足部翅膀 / 脚部羽翼 / 羽翼 / 幻想元素 / foot wings"
+    },
+    {
+      "en": "detached wings",
+      "zh": "分离翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17407,
+      "desc": "漂浮在身体之外的翅膀",
+      "kw": "浮游翅膀 / 离体翅膀 / 漂浮翅膀 / 脱离的翅膀 / 翅膀 / 幻想 / floating wings"
+    },
+    {
+      "en": "hair wings",
+      "zh": "发翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1401,
+      "desc": "头发形成的假翅膀，常替代双马尾。",
+      "kw": "发翅 / 头发做成的翅膀 / 发之翼 / 头发形成翅膀 / 翼状头发 / 头发羽翼 / 翅膀 / 发型 / wing-shaped hair"
+    },
+    {
+      "en": "wing ears",
+      "zh": "翼耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1151,
+      "desc": "长在耳朵位置的翅膀，代替或附着于耳部",
+      "kw": "羽耳 / 翅膀耳朵 / 羽翼耳 / 羽毛耳 / 耳朵 / 幻想特征"
+    },
+    {
+      "en": "low wings",
+      "zh": "腰羽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47964,
+      "desc": "长在比肩部更低处、接近腰部的翅膀",
+      "kw": "腰翼 / 低翼 / 腰部翅膀 / 低位翅膀 / 腰际翅膀 / 翅膀 / lower back wings / hip wings / waist wings"
+    },
+    {
+      "en": "leg wings",
+      "zh": "腿部羽翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 291,
+      "desc": "长在腿上的翅膀（脚踝除外）",
+      "kw": "腿翅膀 / 腿上翅膀 / 腿翼 / 小腿翅膀 / 大腿翅膀 / 脚部翅膀 / 翅膀"
+    },
+    {
+      "en": "wrist wings",
+      "zh": "腕翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 208,
+      "desc": "装饰在手腕上的小翅膀。",
+      "kw": "腕部翅膀 / 手腕上的小翅膀 / 手腕羽翼 / 手翅膀 / 腕羽 / 羽翼 / 幻想饰品"
+    },
+    {
+      "en": "winged arms",
+      "zh": "翼状手臂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7807,
+      "desc": "以翅膀代替手臂的形态。",
+      "kw": "翅膀手臂 / 羽翼手臂 / 翅膀代替手臂 / 翼手 / 羽翼臂 / 有翼手臂 / 翅臂 / arm wings / 翼腕"
+    },
+    {
+      "en": "wings through clothes",
+      "zh": "穿衣露翅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 149,
+      "desc": "翅膀从衣服的开口或破洞中穿出，常见于天使或恶魔角色。",
+      "kw": "翅膀穿过衣服 / 衣服开口露翅膀 / 翅膀伸出衣服 / 衣服破洞出翅膀 / 翅膀从衣服中伸出 / 幻想 / 翅膀效果"
+    },
+    {
+      "en": "bowed wings",
+      "zh": "弓形翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 63,
+      "desc": "收拢下垂呈弧形的巨大翅膀",
+      "kw": "下垂的翅膀 / 收拢的翅膀 / 弧形翅膀 / 拱形翅膀 / 垂下的翅膀"
+    },
+    {
+      "en": "expressive wings",
+      "zh": "情绪化翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 68,
+      "desc": "表达角色情绪或想法的翅膀",
+      "kw": "情绪翅膀 / 表达情感的翅膀 / 心情翅膀 / 会说话的翅膀"
+    },
+    {
+      "en": "heart wings",
+      "zh": "心形翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 109,
+      "desc": "折成心形的翅膀",
+      "kw": "心形羽翼 / 爱心翅膀 / 心型翅膀 / 心形翼 / 翅膀 / 幻想"
+    },
+    {
+      "en": "wing censor",
+      "zh": "翅膀遮挡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 266,
+      "desc": "用翅膀遮挡画面敏感部位的审查方式",
+      "kw": "翅膀打码 / 翅膀遮点 / 用翅膀遮挡 / 羽翼遮挡 / 审查 / 马赛克 / censor wings"
+    },
+    {
+      "en": "asymmetrical wings",
+      "zh": "不对称翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14946,
+      "desc": "大小、形状或颜色不同的翅膀",
+      "kw": "不对称翼 / 翅膀不对称 / 左右翅膀不同 / 异形翅膀 / 翅膀左右不对称 / 不对称双翼 / 翅膀 / 幻想"
+    },
+    {
+      "en": "bloody wings",
+      "zh": "染血之翼",
+      "rating": "s",
+      "nsfw": false,
+      "count": 347,
+      "desc": "翅膀沾满鲜血的样子。",
+      "kw": "血翅膀 / 带血翅膀 / 染血翅膀 / 血羽翼 / 沾血羽翼 / 鲜血翅膀 / 染血的翅膀 / 翅膀 / blood on wings"
+    },
+    {
+      "en": "eyes on wings",
+      "zh": "翅膀上的眼睛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 477,
+      "desc": "角色翅膀上长有眼睛",
+      "kw": "翅膀上眼睛 / 翼上眼睛 / 翅膀生眼 / 翼眼 / 翅膀眼 / 奇幻 / 翅膀装饰 / 眼睛 / eyes in wings"
+    },
+    {
+      "en": "glowing wings",
+      "zh": "发光的翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1866,
+      "desc": "翅膀散发光芒",
+      "kw": "光翼 / 光芒翅膀 / 翅膀发光 / 闪耀翅膀 / 发光翼 / 翅膀 / 光效"
+    },
+    {
+      "en": "torn wings",
+      "zh": "破损的翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1645,
+      "desc": "翅膀被撕裂或损坏",
+      "kw": "残破的翅膀 / 裂开的翅膀 / 翅膀撕裂 / 翅膀破损 / 翅膀 / 损伤 / 撕裂 / broken wing / injured wings"
+    },
+    {
+      "en": "light hawk wings",
+      "zh": "光鹰翼",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gradient wings",
+      "zh": "渐变色翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1989,
+      "desc": "翅膀颜色呈渐变效果",
+      "kw": "渐变羽翼 / 渐变翼 / 色彩渐变翅膀 / 渐层翅膀 / 渐变羽翅 / 翅膀 / 幻想"
+    },
+    {
+      "en": "multicolored wings",
+      "zh": "多色翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11770,
+      "desc": "至少有两种颜色（含渐变）的翅膀",
+      "kw": "彩色翅膀 / 多彩翅膀 / 颜色多样的翅膀 / 彩色羽翼 / 多色羽翼 / 渐变翅膀 / 彩虹翅膀 / 幻想"
+    },
+    {
+      "en": "rainbow wings",
+      "zh": "彩虹翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 214,
+      "desc": "彩虹色翅膀，羽翼呈多彩渐变",
+      "kw": "彩虹色翅膀 / 七彩翅膀 / 虹色翅膀 / 多彩翅膀 / 彩虹羽翼 / 翅膀 / 幻想"
+    },
+    {
+      "en": "transparent wings",
+      "zh": "透明翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3049,
+      "desc": "部分或完全透明的翅膀",
+      "kw": "透明羽翼 / 透明翼 / 半透明翅膀 / 通透翅膀 / 透明的翅膀 / 翅膀 / see-through wings / 透明な翼"
+    },
+    {
+      "en": "red wings",
+      "zh": "红色翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12765,
+      "desc": "红色的翅膀，可为羽翼、蝙蝠翼等",
+      "kw": "红翅膀 / 红色羽翼 / 红翼 / 翅膀 / 标志"
+    },
+    {
+      "en": "blue wings",
+      "zh": "蓝翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10845,
+      "desc": "背后长出的蓝色翅膀",
+      "kw": "蓝翅膀 / 蓝色翼 / 蓝色羽翼 / 蓝色鸟翼 / 翅膀 / 幻想"
+    },
+    {
+      "en": "green wings",
+      "zh": "绿色翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3138,
+      "desc": "颜色为绿色的翅膀",
+      "kw": "绿色的翅膀 / 绿翼 / 翠绿翅膀 / 翅膀 / 幻想"
+    },
+    {
+      "en": "brown wings",
+      "zh": "棕色翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3707,
+      "desc": "棕色的翅膀，长在背上或头侧",
+      "kw": "褐色翅膀 / 棕翼 / 棕羽翼 / 咖啡色翅膀 / 翅膀 / 动物特征"
+    },
+    {
+      "en": "yellow wings",
+      "zh": "黄色翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4284,
+      "desc": "长在背部的黄色翅膀",
+      "kw": "黄翅膀 / 黄色翼 / 黄色羽翼 / 黄色双翼 / 黄翼 / 翅膀 / 幻想元素"
+    },
+    {
+      "en": "pink wings",
+      "zh": "粉色翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4760,
+      "desc": "粉色的翅膀，常为装饰或天使、恶魔等角色特征。",
+      "kw": "粉红翅膀 / 粉翼 / 粉红色翅膀 / 淡粉翅膀 / 翅膀 / 天使翼"
+    },
+    {
+      "en": "grey wings",
+      "zh": "灰色翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3100,
+      "desc": "灰色的翅膀",
+      "kw": "灰翅膀 / 灰翼 / 灰色羽翼 / 灰色翼 / 灰羽翼 / 翅膀 / gray wings"
+    },
+    {
+      "en": "head wings",
+      "zh": "头部羽翼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 96829,
+      "desc": "长在头上的翅膀",
+      "kw": "头翼 / 头翅膀 / 头部长翅膀 / 恶魔头翼 / 鸟人头翼 / 翅膀 / 奇幻 / headwings / 头羽 / 頭羽"
+    },
+    {
+      "en": "aqua wings",
+      "zh": "水色翅膀",
+      "rating": "g",
+      "count": 956,
+      "desc": "水色（蓝绿色）的翅膀",
+      "kw": "浅蓝绿色翅膀 / 蓝绿色翅膀 / 水蓝色翅膀 / 碧色翅膀 / 青色翅膀 / 翅膀 / 幻想"
+    },
+    {
+      "en": "black feathers",
+      "zh": "黑色羽毛",
+      "rating": "g",
+      "count": 7215,
+      "desc": "散落的黑色羽毛，非翅膀上的羽毛",
+      "kw": "黑羽毛 / 黑羽 / 黑色鸟羽 / 黑色散羽 / 羽毛"
+    },
+    {
+      "en": "blue feathers",
+      "zh": "蓝色的羽毛",
+      "rating": "g",
+      "count": 3714,
+      "desc": "蓝色的羽毛，不用于翅膀上的",
+      "kw": "蓝色羽毛 / 蓝羽 / 蓝色鸟羽 / 蓝色羽毛装饰 / 蓝色羽片 / 装饰 / 鸟类特征"
+    },
+    {
+      "en": "brown feathers",
+      "zh": "棕色羽毛",
+      "rating": "g",
+      "count": 1413,
+      "desc": "散落或装饰用的棕色羽毛，不含翅膀上的。",
+      "kw": "棕色羽 / 褐色羽毛 / 咖啡色羽毛 / 棕羽毛 / 棕色鸟羽 / 羽毛 / 鸟类特征"
+    },
+    {
+      "en": "green feathers",
+      "zh": "绿色羽毛",
+      "rating": "g",
+      "count": 1966,
+      "desc": "绿色的羽毛，不含翅膀上的。",
+      "kw": "绿羽毛 / 绿色羽 / 翠绿羽毛 / 青绿羽毛 / 绿色鸟羽 / 羽毛 / 装饰"
+    },
+    {
+      "en": "grey feathers",
+      "zh": "灰色羽毛",
+      "rating": "g",
+      "count": 743,
+      "desc": "灰色的羽毛，不用于翅膀上的羽毛",
+      "kw": "灰羽毛 / 灰色羽 / 灰羽 / 灰色绒羽 / 灰色鸟羽 / 银灰色羽毛 / 羽毛 / 装饰"
+    },
+    {
+      "en": "metal wings",
+      "zh": "金属翅膀",
+      "rating": "g",
+      "count": 736,
+      "desc": "由金属构成的翅膀",
+      "kw": "金属羽翼 / 金属翼 / 钢翼 / 铁翼 / 金属机翼 / 机械翅膀 / 科幻"
+    },
+    {
+      "en": "mismatched wings",
+      "zh": "不对称翅膀",
+      "rating": "g",
+      "count": 1060,
+      "desc": "同一角色两侧翅膀形状或大小不同",
+      "kw": "翅膀不对称 / 左右翅膀不同 / 异形翅膀 / 不匹配翅膀 / 翅膀不一致 / 翅膀 / 幻想"
+    },
+    {
+      "en": "no wings",
+      "zh": "无翅膀",
+      "rating": "g",
+      "count": 2680,
+      "desc": "有翅膀的角色被描绘为没有翅膀的状态。",
+      "kw": "无翼"
+    },
+    {
+      "en": "orange wings",
+      "zh": "橙色翅膀",
+      "rating": "g",
+      "count": 1055,
+      "desc": "角色背后或身上的橙色翅膀",
+      "kw": "橙翅膀 / 橘色翅膀 / 橙色羽翼 / 橙色翼 / 翅膀 / 橙色"
+    },
+    {
+      "en": "purple feathers",
+      "zh": "紫色的羽毛",
+      "rating": "g",
+      "count": 980,
+      "desc": "紫色的羽毛（不含翅膀上的）",
+      "kw": "紫色羽毛 / 紫羽毛 / 紫羽 / 紫色羽毛装饰 / 羽毛 / 装饰"
+    },
+    {
+      "en": "purple wings",
+      "zh": "紫色翅膀",
+      "rating": "g",
+      "count": 9301,
+      "desc": "紫色的一对翅膀，长在背后",
+      "kw": "紫色翼 / 紫翅膀 / 紫翼 / 紫色羽翼 / 翅膀 / 幻想"
+    },
+    {
+      "en": "red feathers",
+      "zh": "红色羽毛",
+      "rating": "g",
+      "count": 2456,
+      "desc": "红色的羽毛，通常指羽毛配饰而非翅膀上长出的",
+      "kw": "红羽毛 / 赤羽 / 红色羽毛饰品 / 红色鸟羽 / 红羽 / 红色羽翼 / 羽毛 / 饰品 / 赤い羽根"
+    },
+    {
+      "en": "spread wings",
+      "zh": "张开翅膀",
+      "rating": "g",
+      "count": 3516,
+      "desc": "完全展开的翅膀",
+      "kw": "展开翅膀 / 展翅 / 翅膀张开 / 张翼 / 翅膀"
+    },
+    {
+      "en": "two-tone wings",
+      "zh": "两色调翅膀",
+      "rating": "g",
+      "count": 1801,
+      "desc": "呈现两种颜色的翅膀。",
+      "kw": "双色翅膀 / 两色翅膀 / 双色翼 / 拼色翅膀 / 二色翅膀 / 翅膀 / 幻想元素"
+    },
+    {
+      "en": "falling feathers",
+      "zh": "飘落的羽毛",
+      "rating": "g",
+      "count": 6886,
+      "desc": "空中飘落的羽毛",
+      "kw": "羽毛飘落 / 落羽 / 羽毛散落 / 飘羽 / 羽毛飘下 / 羽毛纷飞 / 羽毛 / 动态效果"
+    }
+  ]
+}

@@ -1,0 +1,991 @@
+{
+  "id": "honkai_star_rail",
+  "name": "崩坏：星穹铁道",
+  "parentId": "games",
+  "order": 3,
+  "file": "games/honkai_star_rail.json",
+  "characters": [
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "三月七",
+      "tag": "march 7th (honkai: star rail)",
+      "charZh": "三月七（崩坏：星穹铁道）",
+      "auto": "pink hair|粉发;pink eyes|粉瞳;camera|相机;longbow|长弓;gloves|手套;ankle boots|短靴;hair clip|发夹;hanfu|汉服;thighhighs|过膝袜;high heels|高跟鞋;black choker|黑色颈圈;blue eyes|蓝瞳;blue jacket|蓝色夹克;medium hair|中长发;miniskirt|迷你裙;multicolored eyes|多色瞳;pink jacket|粉夹克;tied jacket|系腰夹克;flower ornament|花卉饰品;gradient jacket|渐变夹克;off-shoulder jacket|露肩夹克;single earring|单侧耳环;black gloves|黑色手套;partially fingerless gloves|半露指手套;pink pupils|粉色瞳孔;footwear flower|鞋饰花;hair intakes|内卷发;hair between eyes|眼间刘海;two-tone eyes|双色瞳;purple eyes|紫瞳;long sleeves|长袖;black dress|黑连衣裙;white shirt|白衬衫;shuangyaji|双丫髻;fingerless gloves|露指手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "丹恒",
+      "tag": "dan heng (honkai: star rail)",
+      "charZh": "丹恒（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;fingerless gloves|露指手套;gloves|手套;ankle boots|短靴;armlet|臂环;spear|长枪;black shirt|黑衬衫;pointy ears|尖耳;short hair|短发;long sleeves|长袖;long hair|长发;earrings|耳环;eastern dragon horns|东方龙角;black gloves|黑色手套;zipper|拉链;red eyeliner|红色眼线;very long hair|超长发;aqua eyes|水蓝瞳;wide sleeves|宽袖;blue eyes|蓝瞳;maple leaf|枫叶;white coat|白色外套;white jacket|白色夹克;dragon boy|龙族少年;hair between eyes|眼间刘海;aqua horns|水蓝龙角;white shirt|白衬衫;chinese clothes|中式服饰",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "姬子",
+      "tag": "himeko (honkai: star rail)",
+      "charZh": "姬子（崩坏：星穹铁道）",
+      "auto": "red hair|红发;long hair|长发;scientist|科学家;gloves|手套;small breasts|小胸;long legs|长腿;high heels|高跟鞋;white dress|白色连衣裙;yellow eyes|黄瞳;black gloves|黑色手套;earrings|耳环;single glove|单边手套;very long hair|超长发;black coat|黑色大衣;black choker|黑色颈圈;sleeveless dress|无袖连衣裙;black jacket|黑色夹克;hair flower|发花;hair ornament|发饰;open coat|敞开大衣;coat on shoulders|披挂大衣;hair between eyes|眼间刘海;bare shoulders|露肩;golden rose|金玫瑰",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "瓦尔特",
+      "tag": "welt yang",
+      "charZh": "瓦尔特（崩坏：星穹铁道）",
+      "auto": "brown hair|棕发;brown eyes|棕瞳;glasses|眼镜;trench coat|风衣;scarf|围巾;black-framed eyewear|黑框眼镜;black jacket|黑色夹克;black pants|黑裤;black suit|黑色西装;coattails|燕尾衣摆;over-rim eyewear|下半框眼镜;rectangular eyewear|方形眼镜;suit jacket|西装外套;traditional bowtie|传统领结;waistcoat|马甲;white bowtie|白色领结;short hair|短发;streaked hair|挑染发;white hair|白发;hair between eyes|眼间刘海;yellow eyes|黄瞳;v-shaped eyebrows|V形眉;long sleeves|长袖;black shirt|黑衬衫;black scarf|黑围巾;black gloves|黑手套;grey jacket|灰夹克;single glove|单手套;belt|腰带",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "卡芙卡",
+      "tag": "kafka (honkai: star rail)",
+      "charZh": "卡芙卡（崩坏：星穹铁道）",
+      "auto": "purple hair|紫发;pink eyes|粉瞳;small breasts|小胸;sunglasses|墨镜;gloves|手套;pantyhose|连裤袜;boots|靴子;shawl|披肩;eyewear on head|头戴眼镜;long hair|长发;purple eyes|紫瞳;white shirt|白衬衫;round eyewear|圆框眼镜;pince-nez|夹鼻眼镜;black jacket|黑色夹克;purple gloves|紫色手套;collared shirt|翻领衬衫;earrings|耳环;jacket on shoulders|披挂夹克;black gloves|黑色手套;open jacket|敞开夹克;hair between eyes|眼间刘海;long sleeves|长袖;high-waist shorts|高腰短裤;bare shoulders|露肩;black shorts|黑短裤",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "布洛妮娅",
+      "tag": "bronya rand",
+      "charZh": "布洛妮娅（崩坏：星穹铁道）",
+      "auto": "silver hair|银发;silver eyes|银瞳;rifle|步枪;gloves|手套;thigh boots|过膝靴;bangs|刘海;black pantyhose|黑色连裤袜;detached sleeves|分离袖;bare shoulders|裸肩;princess|公主;grey hair|灰发;long hair|长发;hair between eyes|眼间发;hair ornament|发饰;grey eyes|灰瞳;earrings|耳环;white dress|白色连衣裙;turtleneck|高领;crossed bangs|交叉刘海;very long hair|超长发;drill hair|螺旋卷发;black footwear|黑鞋;elbow gloves|过肘手套;black gloves|黑手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "希儿",
+      "tag": "seele (honkai: star rail)",
+      "charZh": "希儿（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;long hair|长发;ahoge|呆毛;blue eyes|蓝瞳;sidelocks|鬓发;purple hair|紫发;purple eyes|紫瞳;very long hair|超长发;black shorts|黑色短裤;colored inner hair|内层挑染;purple scarf|紫色围巾;scarf choker|围巾领圈;short shorts|超短裤;black gloves|黑色手套;butterfly|蝴蝶;white leotard|白色紧身衣;hair between eyes|眼间刘海;blue hair|蓝发;bare shoulders|露肩;covered navel|遮脐",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "克拉拉",
+      "tag": "clara (honkai: star rail)",
+      "charZh": "克拉拉（崩坏：星穹铁道）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;small breasts|小胸;angel|天使;mechanical parts|机械部件;long sleeves|长袖;red jacket|红夹克;thigh strap|腿环;red coat|红大衣;hair intakes|内卷发;pink eyes|粉瞳;grey hair|灰发;petite|娇小身材;very long hair|超长发;hair between eyes|眼间刘海;barefoot|赤足;detached collar|分离领",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "杰帕德",
+      "tag": "gepard landau",
+      "charZh": "杰帕德（崩坏：星穹铁道）",
+      "auto": "blonde hair|金发;blue eyes|蓝瞳;boots|靴子;short hair|短发;hair between eyes|眼间刘海;v-shaped eyebrows|V形眉;black shirt|黑衬衫;white pants|白长裤;long sleeves|长袖;white shirt|白衬衫;white gloves|白手套;white jacket|白夹克;armor|铠甲;breastplate|胸甲",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "佩拉",
+      "tag": "pela (honkai: star rail)",
+      "charZh": "佩拉（崩坏：星穹铁道）",
+      "auto": "blue hair|蓝发;blue eyes|蓝瞳;glasses|眼镜;small breasts|小胸;ankle boots|短靴;black pantyhose|黑色连裤袜;gloves|手套;beret|贝雷帽;hime cut|姬发式;long hair|长发;black gloves|黑色手套;black hat|黑帽;purple hair|紫发;round eyewear|圆框眼镜;elbow gloves|长筒手套;black skirt|黑色短裙;blunt bangs|齐刘海;brown pantyhose|棕连裤袜;hairclip|发夹;black headwear|黑色头饰;blue neckerchief|蓝领巾",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "虎克",
+      "tag": "hook (honkai: star rail)",
+      "charZh": "虎克（崩坏：星穹铁道）",
+      "auto": "red hair|红发;short hair|短发;twintails|双马尾;green eyes|绿瞳;knee pads|护膝;boots|靴子;blonde hair|金发;yellow eyes|黄瞳;white hat|白帽子;brown boots|棕靴;fur-trimmed coat|毛皮镶边外套;long hair|长发;brown coat|棕大衣;brown footwear|棕鞋;hat|帽子;fur-trimmed sleeves|毛边袖;orange bow|橙蝴蝶结;open coat|敞开大衣;brown gloves|棕手套;black gloves|黑手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "白露",
+      "tag": "bailu (honkai: star rail)",
+      "charZh": "白露（崩坏：星穹铁道）",
+      "auto": "purple hair|紫发;braid|麻花辫;ahoge|呆毛;blue eyes|蓝瞳;small breasts|小胸;ankle boots|短靴;eastern dragon horns|东方龙角;eastern dragon tail|东方龙尾;pointy ears|尖耳;detached sleeves|分离袖;twin braids|双辫;long sleeves|长袖;gourd|葫芦;long hair|长发;very long hair|超长发;wide sleeves|宽袖;aqua eyes|水蓝瞳;green eyes|绿瞳;dragon girl|龙娘;hair between eyes|眼间刘海;crossed bangs|交叉刘海;hair tubes|发管;bare shoulders|露肩;fang|虎牙",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "景元",
+      "tag": "jing yuan",
+      "charZh": "景元（崩坏：星穹铁道）",
+      "auto": "white hair|白发;ponytail|马尾;yellow eyes|黄瞳;armor|盔甲;boots|靴子;hair over one eye|遮单眼发;red ribbon|红丝带;high ponytail|高马尾;sidelocks|鬓发;long sleeves|长袖;crossed bangs|交叉刘海;one eye covered|遮单眼;parted bangs|分叉刘海;tassel|流苏;long hair|长发;hair ribbon|发带;grey hair|灰发;hair intakes|发进气口;mole under eye|泪痣;chinese clothes|中式服饰;white shirt|白衬衫;mandarin collar|立领",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "停云",
+      "tag": "tingyun (honkai: star rail)",
+      "charZh": "停云（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;multicolored hair|多色发;green eyes|绿瞳;animal ears|兽耳;fox girl|狐娘;bangs|刘海;tareme|垂眼;detached sleeves|分离袖;bare shoulders|裸肩;sandals|凉鞋;fox ears|狐耳;brown hair|棕发;fox tail|狐尾;long hair|长发;animal ear fluff|兽耳绒毛;bracelet|手链;ponytail|马尾;hair between eyes|眼间刘海;gradient hair|渐变发;brown dress|棕连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "罗刹",
+      "tag": "luocha (honkai: star rail)",
+      "charZh": "罗刹（崩坏：星穹铁道）",
+      "auto": "blonde hair|金发;long hair|长发;green eyes|绿瞳;boots|靴子;gloves|手套;black gloves|黑色手套;black shirt|黑衬衫;long sleeves|长袖;white coat|白色外套;white pants|白色裤子;white flower|白花;low-tied long hair|低束长发;very long hair|超长发;iris (flower)|鸢尾花;hair intakes|内卷发;hair between eyes|眼间刘海;aqua vest|水蓝马甲;turtleneck|高领;brooch|胸针",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "刃",
+      "tag": "blade (honkai: star rail)",
+      "charZh": "刃（崩坏：星穹铁道）",
+      "auto": "white hair|白发;blue eyes|蓝瞳;hair over one eye|遮单眼发;scar|伤疤;red eyes|红瞳;long hair|长发;black hair|黑发;bandaged hand|绷带手;black gloves|黑色手套;bandaged arm|缠着绷带的手臂;grey pants|灰裤;black jacket|黑色夹克;black coat|黑色大衣;single earring|单侧耳环;earrings|耳环;black pants|黑裤;curtained hair|中分刘海;ear piercing|耳钉;gradient hair|渐变发;very long hair|超长发;parted bangs|中分刘海;chinese clothes|中式服饰;long sleeves|长袖;bandaged chest|绷带胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "符玄",
+      "tag": "fu xuan (honkai: star rail)",
+      "charZh": "符玄（崩坏：星穹铁道）",
+      "auto": "pink hair|粉发;long hair|长发;twintails|双马尾;braid|麻花辫;tsurime|吊眼;pantyhose|连裤袜;hanfu|汉服;small breasts|小胸;hairpin|发簪;sidelocks|鬓发;forehead jewel|额头宝石;white pantyhose|白色连裤袜;parted bangs|分叉刘海;very long hair|超长发;bow-shaped hair|蝴蝶结发型;yellow eyes|黄瞳;detached sleeves|分离袖;short sleeves|短袖;pink eyes|粉瞳;low twintails|低双马尾;hair stick|发簪;hair rings|发环;feixianji (hairstyle)|飞仙髻;bare shoulders|露肩;constellation print|星象印花",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "镜流",
+      "tag": "jingliu (honkai: star rail)",
+      "charZh": "镜流（崩坏：星穹铁道）",
+      "auto": "white hair|白发;multicolored hair|多色发;long hair|长发;red eyes|红瞳;eyepatch|眼罩;boots|靴子;blue hair|蓝发;very long hair|超长发;hair bow|蝴蝶结发饰;blue dress|蓝色连衣裙;bare shoulders|露肩;blue bow|蓝蝴蝶结;blue skirt|蓝裙;detached blue sleeves|蓝色分离袖;black gloves|黑色手套;black boots|黑靴;hair between eyes|眼间刘海;high ponytail|高马尾;detached sleeves|分离袖;blue sleeves|蓝袖",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "托帕",
+      "tag": "topaz (honkai: star rail)",
+      "charZh": "托帕（崩坏：星穹铁道）",
+      "auto": "silver hair|银发;short hair|短发;blue eyes|蓝瞳;hair clip|发夹;tsurime|吊眼;small breasts|小胸;pistol|手枪;detached sleeves|分离袖;gloves|手套;shorts|短裤;grey eyes|灰瞳;hair between eyes|眼间发;medium hair|中长发;streaked hair|挑染;white hair|白发;double-parted bangs|双分刘海;thigh strap|腿环;black belt|黑色腰带;shoulder cutout|肩部镂空;hairpin|发簪;colored inner hair|内层挑染;grey hair|灰发;two-tone hair|双色发;purple eyes|紫瞳;white shirt|白衬衫;black gloves|黑手套;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "藿藿",
+      "tag": "huohuo (honkai: star rail)",
+      "charZh": "藿藿（崩坏：星穹铁道）",
+      "auto": "green hair|绿发;ahoge|呆毛;green eyes|绿瞳;fox ears|狐耳;tail|尾巴;small breasts|小胸;sleeveless|无袖;long hair|长发;paw-shaped pupils|肉球瞳孔;symbol-shaped pupils|符号瞳孔;yin yang hair ornament|阴阳发饰;long sleeves|长袖;blue eyes|蓝瞳;fiery tail|火焰尾;white socks|白袜;zhuang hat|壮族帽/官帽;fox tail|狐尾;detached sleeves|分离袖;hair intakes|内卷发;fox girl|狐娘;tail (honkai: star rail)|尾巴大爷;blue hat|蓝帽;bare shoulders|露肩;talisman|符咒",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "花火",
+      "tag": "sparkle (honkai: star rail)",
+      "charZh": "花火（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;multicolored hair|多色发;twintails|双马尾;pink eyes|粉瞳;small breasts|小胸;mask|口罩;kimono|和服;geta|木屐;detached sleeves|分离袖;tongue out|吐舌;fox mask|狐面具;mask on head|头上的面具;red dress|红色连衣裙;brown hair|棕发;neck bell|颈铃;mark under both eyes|双眼下印记;red eyes|红瞳;very long hair|超长发;black choker|黑色颈圈;long hair|长发;black gloves|黑色手套;flower tattoo|花卉纹身;butterfly-shaped pupils|蝶形瞳孔;symbol-shaped pupils|符号瞳孔;red ribbon|红丝带;bare shoulders|露肩;criss-cross halter|交叉挂脖",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "黑天鹅",
+      "tag": "black swan (honkai: star rail)",
+      "charZh": "黑天鹅（崩坏：星穹铁道）",
+      "auto": "purple hair|紫发;purple eyes|紫瞳;gloves|手套;black pantyhose|黑色连裤袜;thigh boots|过膝靴;hood|兜帽;small breasts|小胸;crystal ball|水晶球;black gloves|黑色手套;elbow gloves|长筒手套;purple dress|紫色连衣裙;purple veil|紫面纱;veil|面纱;very long hair|超长发;yellow eyes|黄瞳;sleeveless dress|无袖连衣裙;detached sleeves|分离袖;long hair|长发;floating hair|飘浮长发;orange eyes|橙瞳;hair spread out|散开长发;purple gloves|紫色手套;hair between eyes|眼间刘海;purple sleeves|紫袖;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "黄泉",
+      "tag": "acheron (honkai: star rail)",
+      "charZh": "黄泉（崩坏：星穹铁道）",
+      "auto": "purple hair|紫发;multicolored hair|多色发;long hair|长发;purple eyes|紫瞳;hair over one eye|遮单眼发;small breasts|小胸;gloves|手套;boots|靴子;thigh boots|过膝靴;high heels|高跟鞋;very long hair|超长发;black gloves|黑色手套;streaked hair|挑染;black choker|黑色颈圈;black shorts|黑色短裤;hair ornament|发饰;leg tattoo|腿部纹身;white coat|白色外套;scabbard|剑鞘;short shorts|超短裤;elbow gloves|长筒手套;single elbow glove|单边过肘手套;black shirt|黑衬衫;single bare shoulder|单露肩;shoulder armor|肩甲;criss-cross halter|交叉挂脖",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "流萤",
+      "tag": "firefly (honkai: star rail)",
+      "charZh": "流萤（崩坏：星穹铁道）",
+      "auto": "silver hair|银发;twintails|双马尾;blue eyes|蓝瞳;mechanical parts|机械部件;hair ribbon|发带;cravat|领巾;bangs|刘海;small breasts|小胸;green hair|绿发;grey hair|灰发;gradient hair|渐变发;long hair|长发;hair between eyes|眼间发;pink eyes|粉瞳;hair ornament|发饰;orange neckerchief|橙色领巾;green dress|绿色连衣裙;long sleeves|长袖;bridal gauntlets|新娘手套;black hairband|黑发箍;very long hair|超长发;hair intakes|发进气口;white hair|白发;purple eyes|紫瞳;two-tone eyes|双色瞳;white shirt|白衬衫;black jacket|黑夹克;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "知更鸟",
+      "tag": "robin (honkai: star rail)",
+      "charZh": "知更鸟（崩坏：星穹铁道）",
+      "auto": "silver hair|银发;curly hair|卷发;green eyes|绿瞳;halo|光环;wings|翅膀;idol|偶像;detached sleeves|分离袖;dress|连衣裙;bare shoulders|裸肩;high heels|高跟鞋;blue hair|蓝发;head wings|头部羽翼;white dress|白色连衣裙;white gloves|白色手套;very long hair|超长发;jewel under eye|眼下宝石;earrings|耳环;aqua eyes|水蓝瞳;long hair|长发;white wings|白翼;purple hair|紫发;feathered wings|羽毛翅膀;purple dress|紫色连衣裙;two-tone dress|双色连衣裙;hair intakes|内卷发;hair between eyes|眼间刘海",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "砂金",
+      "tag": "aventurine (honkai: star rail)",
+      "charZh": "砂金（崩坏：星穹铁道）",
+      "auto": "blonde hair|金发;purple eyes|紫瞳;tsurime|吊眼;gloves|手套;watch|手表;fedora|礼帽;sunglasses|墨镜;short hair|短发;black gloves|黑色手套;collared shirt|翻领衬衫;multicolored eyes|多色瞳;long sleeves|长袖;neck tattoo|颈部纹身;blue eyes|蓝瞳;black jacket|黑色夹克;single earring|单侧耳环;aqua shirt|水蓝衬衫;white pants|白色裤子;fur-trimmed jacket|毛边夹克;parted bangs|分叉刘海;earrings|耳环;half gloves|短手套;open jacket|敞开夹克;hair between eyes|眼间刘海;crossed bangs|交叉刘海",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "黑塔",
+      "tag": "herta (honkai: star rail)",
+      "charZh": "黑塔（崩坏：星穹铁道）",
+      "auto": "brown hair|棕发;long hair|长发;purple eyes|紫瞳;doll joints|人偶关节;scientist|科学家;hair flower|头花;beret|贝雷帽;ankle boots|短靴;blunt bangs|齐刘海;small breasts|小胸;black hat|黑帽;purple flower|紫色花朵;white dress|白色连衣裙;very long hair|超长发;black jacket|黑色夹克;grey hair|灰发;purple choker|紫色颈链;hair intakes|发进气口;long sleeves|长袖;hat flower|帽花;shoulder cutout|露肩剪裁;chain|锁链;purple nails|紫指甲;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "大黑塔",
+      "tag": "the herta (honkai: star rail)",
+      "charZh": "大黑塔（崩坏：星穹铁道）",
+      "auto": "brown hair|棕发;multicolored hair|多色发;purple eyes|紫瞳;hat|帽子;black pantyhose|黑色连裤袜;boots|靴子;high heels|高跟鞋;detached sleeves|分离袖;backless|露背;witch hat|女巫帽;very long hair|超长发;black dress|黑色连衣裙;purple flower|紫色花朵;long hair|长发;purple ribbon|紫丝带;black hat|黑帽;hair ribbon|发带;key necklace|钥匙项链;purple hair|紫发;strapless dress|抹胸裙",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "星期日",
+      "tag": "sunday (honkai: star rail)",
+      "charZh": "星期日（崩坏：星穹铁道）",
+      "auto": "light blue hair|浅蓝发;long hair|长发;halo|光环;wings|翅膀;gloves|手套;boots|靴子;ring|戒指;ear piercing|耳钉;hood|兜帽;head wings|头部羽翼;yellow eyes|黄瞳;grey hair|灰发;halo behind head|脑后光环;feathered wings|羽毛翅膀;medium hair|中长发;white wings|白翼;black gloves|黑色手套;black pants|黑裤;white coat|白色外套;gold earrings|金色耳环;short hair|短发;white jacket|白色夹克;blue coat|蓝色大衣;multicolored coat|多色大衣;white gloves|白色手套;blue hair|蓝发;blue jacket|蓝色夹克;two-tone jacket|双色夹克;hair between eyes|眼间刘海;earrings|耳环;long sleeves|长袖;spiked halo|尖刺光环;black shirt|黑衬衫;wing piercing|翼饰耳环",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "阮·梅",
+      "tag": "ruan mei (honkai: star rail)",
+      "charZh": "阮·梅（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;green eyes|绿瞳;scientist|科学家;necklace|项链;gloves|手套;high heels|高跟鞋;updo|盘发;brown hair|棕发;long hair|长发;shoulder cutout|肩部镂空;bead necklace|串珠项链;thigh strap|腿环;detached collar|假领;blue eyes|蓝瞳;pearl necklace|珍珠项链;blue gloves|蓝色手套;streaked hair|挑染;elbow gloves|长筒手套;aqua eyes|水蓝瞳;green gloves|绿手套;black gloves|黑色手套;earrings|耳环;very long hair|超长发;aqua gloves|水蓝手套;hair between eyes|眼间刘海;hair intakes|发进气口;aqua dress|水蓝连衣裙;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "真理医生",
+      "tag": "dr. ratio (honkai: star rail)",
+      "charZh": "真理医生（崩坏：星穹铁道）",
+      "auto": "blue hair|蓝发;red eyes|红瞳;sandals|凉鞋;gloves|手套;hair flower|头花;chalk|粉笔;short hair|短发;black shirt|黑衬衫;fingerless gloves|露指手套;black gloves|黑色手套;purple hair|紫发;collared shirt|翻领衬衫;hair ornament|发饰;clothing cutout|服装镂空;sleeveless shirt|无袖衬衫;yellow eyes|黄瞳;red eyeliner|红色眼线;hair between eyes|眼间刘海;parted bangs|中分刘海;long sleeves|长袖;greco-roman clothes|古希腊罗马服饰",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "阿格莱雅",
+      "tag": "aglaea (honkai: star rail)",
+      "charZh": "阿格莱雅（崩坏：星穹铁道）",
+      "auto": "blonde hair|金发;short hair|短发;dress|连衣裙;pinafore|背带裙;slip dress|吊带裙;bow|蝴蝶结;high heels|高跟鞋;sandals|凉鞋;hair flower|头花;small breasts|小胸;green eyes|绿瞳;laurel crown|月桂冠;white dress|白色连衣裙;breast tattoo|胸部纹身;greco-roman clothes|古希腊罗马服饰;medium hair|中长发;sleeveless dress|无袖连衣裙;ancient greek clothes|古希腊服饰;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "飞霄",
+      "tag": "feixiao (honkai: star rail)",
+      "charZh": "飞霄（崩坏：星穹铁道）",
+      "auto": "silver hair|银发;multicolored hair|多色发;long hair|长发;high ponytail|高马尾;green eyes|绿瞳;fox ears|狐耳;trench coat|风衣;boots|靴子;gloves|手套;necklace|项链;fox girl|狐娘;blue hair|蓝发;white hair|白发;gradient hair|渐变发;very long hair|超长发;parted bangs|分叉刘海;sidelocks|鬓发;animal ear fluff|兽耳绒毛;blue eyes|蓝瞳;red eyeliner|红色眼线;forehead jewel|额头宝石;black gloves|黑色手套;blue shirt|蓝衬衫;white coat|白色外套;clothes around waist|腰间系衣;white belt|白色腰带;black shorts|黑色短裤;thigh strap|腿环;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "波提欧",
+      "tag": "boothill (honkai: star rail)",
+      "charZh": "波提欧（崩坏：星穹铁道）",
+      "auto": "silver hair|银发;long hair|长发;red eyes|红瞳;hair over one eye|遮单眼发;pistol|手枪;white hair|白发;black hair|黑发;black hat|黑帽;two-tone hair|双色发;black pants|黑裤;cowboy hat|牛仔帽;sharp teeth|尖牙;black jacket|黑色夹克;cropped jacket|短款夹克;split-color hair|半边双色发;crosshair pupils|准星瞳孔;black eyes|黑瞳;bullet earrings|子弹耳环;red pupils|红色瞳孔;mole under eye|泪痣;ear piercing|耳洞;hat feather|帽羽;cyborg|机械改造人;zipper|拉链",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "迷迷",
+      "tag": "mem (honkai: star rail)",
+      "charZh": "迷迷（崩坏：星穹铁道）",
+      "auto": "pink hair|粉发;blue eyes|蓝瞳;wings|翅膀;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "云璃",
+      "tag": "yunli (honkai: star rail)",
+      "charZh": "云璃（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;twintails|双马尾;small breasts|小胸;hair ornament|发饰;anklet|脚链;chinese clothes|中式服装;detached sleeves|分离袖;headpiece|头饰;long hair|长发;yellow eyes|黄瞳;short sleeves|短袖;grey hair|灰发;blue hair|蓝发;orange eyes|橙瞳;choker|颈圈;single earring|单侧耳环;very long hair|超长发;brown eyes|棕瞳;hair between eyes|眼间刘海;low twintails|低双马尾;hairclip|发夹;bare shoulders|露肩;barefoot|赤足;tanghulu|糖葫芦;detached collar|分离领;red nails|红指甲;pendant|吊坠",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "缇宝",
+      "tag": "tribbie (honkai: star rail)",
+      "charZh": "缇宝（崩坏：星穹铁道）",
+      "auto": "red hair|红发;short hair|短发;braid|麻花辫;purple eyes|紫瞳;pointy ears|尖耳;wings|翅膀;small breasts|小胸;armlet|臂环;bare shoulders|裸肩;hair flower|头花;blue eyes|蓝瞳;angel wings|天使翼;cross-shaped pupils|十字瞳孔;black gloves|黑色手套;flower-shaped pupils|花形瞳孔;white dress|白色连衣裙;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "萨姆",
+      "tag": "sam (honkai: star rail)",
+      "charZh": "萨姆（崩坏：星穹铁道）",
+      "auto": "knight|骑士;black hairband|黑发箍;long hair|长发;grey hair|灰发;hair between eyes|眼间刘海;hair intakes|发进气口;white hair|白发;floating hair|飘逸长发;blue eyes|蓝瞳;two-tone eyes|双色瞳;purple eyes|紫瞳;white shirt|白衬衫;green skirt|绿裙;black jacket|黑夹克",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "瑶光",
+      "tag": "yao guang (honkai: star rail)",
+      "charZh": "瑶光（崩坏：星穹铁道）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;dress|连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "灵砂",
+      "tag": "lingsha (honkai: star rail)",
+      "charZh": "灵砂（崩坏：星穹铁道）",
+      "auto": "brown hair|棕发;long hair|长发;ahoge|呆毛;red eyes|红瞳;pointy ears|尖耳;high heels|高跟鞋;blunt bangs|齐刘海;hairpin|发簪;chinese clothes|中式服装;colored extremities|肢端染色;orange eyes|橙瞳;red hands|红色双手;very long hair|超长发;detached sleeves|分离袖;diamond-shaped pupils|菱形瞳孔;black hair|黑发;multicolored skin|多色肌肤;gradient skin|渐变肤色;brown eyes|棕瞳;bare shoulders|露肩;fuyuan (honkai: star rail)|浮元;criss-cross halter|交叉挂脖",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "翡翠",
+      "tag": "jade (honkai: star rail)",
+      "charZh": "翡翠（崩坏：星穹铁道）",
+      "auto": "purple hair|紫发;long hair|长发;blue eyes|蓝瞳;fedora|礼帽;small breasts|小胸;gloves|手套;necklace|项链;high heels|高跟鞋;slit pupils|竖瞳;backless|露背;black gloves|黑色手套;black hat|黑帽;single glove|单边手套;hat bow|帽饰蝴蝶结;very long hair|超长发;large hat|宽檐大帽;earrings|耳环;pink hair|粉发;parted bangs|分叉刘海;black bow|黑蝴蝶结;chain necklace|链条项链;white dress|白连衣裙;bracelet|手链;purple nails|紫指甲",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "青雀",
+      "tag": "qingque (honkai: star rail)",
+      "charZh": "青雀（崩坏：星穹铁道）",
+      "auto": "brown hair|棕发;twintails|双马尾;braid|麻花辫;green eyes|绿瞳;hanfu|汉服;hair ornament|发饰;small breasts|小胸;ankle socks|短袜;ankle boots|短靴;tsurime|吊眼;long hair|长发;hairclip|发夹;chinese clothes|中式服装;low twintails|低双马尾;hair between eyes|眼间刘海;light brown hair|浅棕发;black footwear|黑鞋;long sleeves|长袖;green dress|绿连衣裙;layered clothes|叠穿服饰;black shirt|黑衬衫;bare shoulders|露肩;shoulder cutout|露肩剪裁;mahjong tile|麻将牌",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "椒丘",
+      "tag": "jiaoqiu (honkai: star rail)",
+      "charZh": "椒丘（崩坏：星穹铁道）",
+      "auto": "pink hair|粉发;long hair|长发;braid|麻花辫;fox ears|狐耳;tail|尾巴;chef|厨师;squinting|眯眼;slit pupils|竖瞳;boots|靴子;gloves|手套;animal ear fluff|兽耳绒毛;fox tail|狐尾;white shirt|白衬衫;chinese clothes|中式服装;black gloves|黑色手套;blue pants|蓝裤;parted bangs|分叉刘海;yellow eyes|黄瞳;feather fan|羽扇;hair stick|发簪;red jacket|红夹克;red coat|红大衣;orange eyes|橙瞳;fox boy|狐族少年;hair between eyes|眼间刘海;closed eyes|闭眼;long sleeves|长袖;red cape|红披风;mandarin collar|立领;bead bracelet|念珠手链",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "乱破",
+      "tag": "rappa (honkai: star rail)",
+      "charZh": "乱破（崩坏：星穹铁道）",
+      "auto": "pink hair|粉发;ponytail|马尾;green eyes|绿瞳;small breasts|小胸;ninja|忍者;fingerless gloves|露指手套;jacket|夹克;sun hat|遮阳帽;skateboarding|滑板;baseball cap|棒球帽;black hat|黑帽;horned hat|带角帽子;red jacket|红夹克;very long hair|超长发;white shirt|白衬衫;tied shirt|系结衬衫;open jacket|敞开夹克;long hair|长发;red horns|红角;streaked hair|挑染;cropped jacket|短款夹克;hat horns|帽角;black shorts|黑短裤;crop top|露脐上衣;white belt|白腰带",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "忘归人",
+      "tag": "fugue (honkai: star rail)",
+      "charZh": "忘归人（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;multicolored hair|多色发;green eyes|绿瞳;hanfu|汉服;high heels|高跟鞋;fan|扇子;bare shoulders|裸肩;fox girl|狐娘;brown hair|棕发;very long hair|超长发;long bangs|长刘海;fox ears|狐耳;animal ear fluff|兽耳绒毛;brown kimono|棕色和服;off shoulder|露肩;barefoot|赤脚;red nails|红色美甲;hair between eyes|眼间刘海;gradient hair|渐变发;long hair|长发;fox tail|狐尾;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "账账",
+      "tag": "numby (honkai: star rail)",
+      "charZh": "账账（崩坏：星穹铁道）",
+      "auto": "animal ears|兽耳;tail|尾巴;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "彦卿",
+      "tag": "yanqing (honkai: star rail)",
+      "charZh": "彦卿（崩坏：星穹铁道）",
+      "auto": "blonde hair|金发;short hair|短发;ponytail|马尾;ahoge|呆毛;yellow eyes|黄瞳;hanfu|汉服;ankle boots|短靴;soldier|士兵;long hair|长发;sidelocks|鬓发;chinese clothes|中式服装;white boots|白靴;white pants|白色裤子;parted bangs|分叉刘海;black gloves|黑色手套;fingerless gloves|露指手套;orange eyes|橙瞳;hair between eyes|眼间刘海;curtained hair|八字刘海;white footwear|白鞋;long sleeves|长袖;white shirt|白衬衫;short sleeves|短袖",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "缇安",
+      "tag": "trianne (honkai: star rail)",
+      "charZh": "缇安（崩坏：星穹铁道）",
+      "auto": "red hair|红发;purple eyes|紫瞳;hair over one eye|遮单眼发",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "缇宁",
+      "tag": "trinnon (honkai: star rail)",
+      "charZh": "缇宁（崩坏：星穹铁道）",
+      "auto": "red hair|红发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "艾丝妲",
+      "tag": "asta (honkai: star rail)",
+      "charZh": "艾丝妲（崩坏：星穹铁道）",
+      "auto": "pink hair|粉发;short hair|短发;ponytail|马尾;braid|麻花辫;blue eyes|蓝瞳;hair clip|发夹;sidelocks|鬓发;scientist|科学家;high heels|高跟鞋;black bowtie|黑色领结;bracelet|手链;id card|工作证;medium hair|中长发;white shirt|白衬衫;long hair|长发;hairclip|发夹;hair between eyes|眼间刘海;sleeveless shirt|无袖衬衫;detached sleeves|分离袖;black skirt|黑裙;collared shirt|有领衬衫;bare shoulders|露肩;center frills|胸前荷叶边;thigh strap|大腿绑带",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "素裳",
+      "tag": "sushang (honkai: star rail)",
+      "charZh": "素裳（崩坏：星穹铁道）",
+      "auto": "brown hair|棕发;twintails|双马尾;boots|靴子;brown eyes|棕瞳;very long hair|超长发;chinese clothes|中式服装;long sleeves|长袖;long hair|长发;hair ribbon|发带;yellow eyes|黄瞳;jingle bell|球形铃铛;yellow ribbon|黄丝带;detached sleeves|分离袖;hair bell|发铃;yellow sleeves|黄袖;bare shoulders|露肩;thigh strap|大腿绑带",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "银枝",
+      "tag": "argenti (honkai: star rail)",
+      "charZh": "银枝（崩坏：星穹铁道）",
+      "auto": "red hair|红发;long hair|长发;ahoge|呆毛;green eyes|绿瞳;knight|骑士;armor|盔甲;spear|长枪;gauntlets|护手;red rose|红玫瑰;pauldrons|肩甲;breastplate|胸甲;thorns|荆棘;floating hair|飘浮长发;curtained hair|中分刘海;wavy hair|波浪发;hair between eyes|眼间刘海;parted bangs|中分刘海;streaked hair|挑染发;white armor|白铠甲;vines|藤蔓",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "桂乃芬",
+      "tag": "guinaifen (honkai: star rail)",
+      "charZh": "桂乃芬（崩坏：星穹铁道）",
+      "auto": "orange hair|橙发;ponytail|马尾;tsurime|吊眼;hair flower|头花;black pantyhose|黑色连裤袜;detached sleeves|分离袖;gloves|手套;ankle boots|短靴;sidelocks|鬓发;yellow eyes|黄瞳;black gloves|黑色手套;long hair|长发;red dress|红色连衣裙;side ponytail|侧马尾;black choker|黑色颈圈;short sleeves|短袖;very long hair|超长发;partially fingerless gloves|半露指手套;hair between eyes|眼间刘海;orange eyes|橙瞳;bare shoulders|露肩;thigh strap|大腿绑带",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "加拉赫",
+      "tag": "gallagher (honkai: star rail)",
+      "charZh": "加拉赫（崩坏：星穹铁道）",
+      "auto": "brown hair|棕发;red eyes|红瞳;gloves|手套;beard|胡须;necktie|领带;fingerless gloves|露指手套;black gloves|黑色手套;black shirt|黑衬衫;collared shirt|翻领衬衫;mismatched gloves|异色手套;red pants|红裤;thigh strap|腿环;white gloves|白色手套;beard stubble|胡茬;black choker|黑色颈圈;medium hair|中长发;o-ring choker|圆环颈圈;orange eyes|橙瞳;parted bangs|分叉刘海;hair between eyes|眼间刘海;long hair|长发;white vest|白马甲;long sleeves|长袖;red necktie|红领带",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "貊泽",
+      "tag": "moze (honkai: star rail)",
+      "charZh": "貊泽（崩坏：星穹铁道）",
+      "auto": "silver hair|银发;purple eyes|紫瞳;hood|兜帽;cape|披风;ankle boots|短靴;dagger|匕首;bangs|刘海;scar|伤疤;hood up|戴上兜帽;purple jacket|紫色夹克;grey hair|灰发;black gloves|黑色手套;short hair|短发;cropped jacket|短款夹克;purple tank top|紫色背心;belt collar|皮带领口;multicolored eyes|多色瞳;open jacket|敞开夹克;purple hair|紫发;black collar|黑色衣领;hair between eyes|眼间刘海;purple shirt|紫衬衫;compression shirt|紧身运动衣;purple hood|紫兜帽;scar on arm|手臂伤疤;sleeveless|无袖;hooded jacket|连帽夹克",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "应星",
+      "tag": "yingxing (honkai: star rail)",
+      "charZh": "应星（崩坏：星穹铁道）",
+      "auto": "white hair|白发;blue eyes|蓝瞳;long hair|长发;parted bangs|中分刘海;curtained hair|八字刘海;hair over one eye|单眼遮刘海;red eyes|红瞳;purple eyes|紫瞳;earrings|耳环;chinese clothes|中式服饰;long sleeves|长袖;black jacket|黑夹克;red flower|红花;ahoge|呆毛;black gloves|黑手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "驭空",
+      "tag": "yukong (honkai: star rail)",
+      "charZh": "驭空（崩坏：星穹铁道）",
+      "auto": "teal hair|青绿发;purple eyes|紫瞳;animal ears|兽耳;fox girl|狐娘;bangs|刘海;longbow|长弓;detached sleeves|分离袖;bare shoulders|裸肩;high heels|高跟鞋;slit pupils|竖瞳;fox ears|狐耳;animal ear fluff|兽耳绒毛;fox tail|狐尾;hair ornament|发饰;long hair|长发;very long hair|超长发;blue hair|蓝发;green hair|绿发;hair between eyes|眼间刘海;aqua hair|水蓝发",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "寒鸦",
+      "tag": "hanya (honkai: star rail)",
+      "charZh": "寒鸦（崩坏：星穹铁道）",
+      "auto": "white hair|白发;long hair|长发;grey eyes|灰瞳;small breasts|小胸;detached sleeves|分离袖;hair ornament|发饰;grey hair|灰发;black gloves|黑色手套;chinese clothes|中式服装;blue dress|蓝色连衣裙;very long hair|超长发;gloves|手套;blue pupils|蓝色瞳孔;feather hair ornament|羽毛发饰;sleeveless dress|无袖连衣裙;hair between eyes|眼间刘海;bare shoulders|露肩;chain|锁链",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "米沙",
+      "tag": "misha (honkai: star rail)",
+      "charZh": "米沙（崩坏：星穹铁道）",
+      "auto": "blue hair|蓝发;curly hair|卷发;low ponytail|低马尾;purple eyes|紫瞳;hair over one eye|遮单眼发;gloves|手套;shorts|短裤;ankle socks|短袜;ankle boots|短靴;angel|天使;white gloves|白色手套;long sleeves|长袖;black hat|黑帽;colored eyelashes|彩色睫毛;collared shirt|翻领衬衫;medium hair|中长发;white shirt|白衬衫;light blue hair|浅蓝发;hair bow|发带蝴蝶结;long hair|长发;ponytail|马尾;black footwear|黑鞋;blue vest|蓝马甲;black bow|黑蝴蝶结;black shorts|黑短裤",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "雪衣",
+      "tag": "xueyi (honkai: star rail)",
+      "charZh": "雪衣（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳;mechanical parts|机械部件;pantyhose|连裤袜;chain|锁链;white shirt|白衬衫;black shorts|黑色短裤;colored inner hair|内层挑染;white pantyhose|白色连裤袜;brown hair|棕发;white pupils|白色瞳孔;oni mask|鬼面具;medium hair|中长发;bead necklace|串珠项链;black gloves|黑色手套;hair between eyes|眼间刘海;blue hair|蓝发;chinese clothes|中式服饰;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "螺丝咕姆",
+      "tag": "screwllum (honkai: star rail)",
+      "charZh": "螺丝咕姆（崩坏：星穹铁道）",
+      "auto": "blue eyes|蓝瞳;mechanical parts|机械部件;fedora|礼帽;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "钟表小子",
+      "tag": "clockie (honkai: star rail)",
+      "charZh": "钟表小子（崩坏：星穹铁道）",
+      "auto": "black eyes|黑瞳;bowtie|领结",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "丹枫",
+      "tag": "dan feng (honkai: star rail)",
+      "charZh": "丹枫（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;long hair|长发;pointy ears|尖耳;dragon boy|龙族少年;hair between eyes|眼间刘海;very long hair|超长发;red eyeliner|红眼线;aqua eyes|水蓝瞳;green eyes|绿瞳;eastern dragon horns|东方龙角;earrings|耳环;green horns|绿龙角;chinese clothes|中式服饰;long sleeves|长袖;black gloves|黑手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "卡卡瓦夏",
+      "tag": "kakavasha (honkai: star rail)",
+      "charZh": "卡卡瓦夏（崩坏：星穹铁道）",
+      "auto": "blonde hair|金发;purple eyes|紫瞳;tsurime|吊眼;gloves|手套;watch|手表;fedora|礼帽;sunglasses|墨镜",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "尾巴",
+      "tag": "tail (honkai: star rail)",
+      "charZh": "尾巴（崩坏：星穹铁道）",
+      "auto": "black eyes|黑瞳;fox ears|狐耳;tsurime|吊眼",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "白厄",
+      "tag": "phainon (honkai: star rail)",
+      "charZh": "白厄（崩坏：星穹铁道）",
+      "auto": "silver hair|银发;ahoge|呆毛;blue eyes|蓝瞳;fingerless gloves|露指手套;sidelocks|鬓发;bangs|刘海;cape|披风;boots|靴子;short hair|短发;antenna hair|天线呆毛;parted bangs|分叉刘海;yellow pupils|黄色瞳孔;grey hair|灰发;open coat|敞开大衣;blue coat|蓝色大衣;open shirt|敞开衬衫;turtleneck sweater|高领毛衣;white shirt|白衬衫;necklace|项链;white hair|白发;black choker|黑色颈圈;black gloves|黑色手套;black shirt|黑衬衫;neck tattoo|颈部纹身",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "昔涟",
+      "tag": "cyrene (honkai: star rail)",
+      "charZh": "昔涟（崩坏：星穹铁道）",
+      "auto": "pink hair|粉发;short hair|短发;blue eyes|蓝瞳;pinafore|背带裙;slip dress|吊带裙;sandals|凉鞋;purple coat|紫大衣;white dress|白色连衣裙;long sleeves|长袖;necklace|项链;detached sleeves|分离袖",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "万敌",
+      "tag": "mydei (honkai: star rail)",
+      "charZh": "万敌（崩坏：星穹铁道）",
+      "auto": "blonde hair|金发;multicolored hair|多色发;long hair|长发;braid|麻花辫;ahoge|呆毛;armlet|臂环;armor|盔甲;necklace|项链",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "娜塔莎",
+      "tag": "natasha (honkai: star rail)",
+      "charZh": "娜塔莎（崩坏：星穹铁道）",
+      "auto": "teal hair|青绿发;long hair|长发;ponytail|马尾;pink eyes|粉瞳;gloves|手套;small breasts|小胸;bangs|刘海;blue hair|蓝发;red eyes|红瞳;red armband|红色臂章;black gloves|黑色手套;grey hair|灰发;purple eyes|紫瞳;white coat|白色外套;white dress|白色连衣裙;hair between eyes|眼间刘海;long bangs|长刘海;medium hair|中长发;bare shoulders|露肩;black leotard|黑紧身衣;open jacket|敞开夹克;pendant|吊坠;white jacket|白夹克",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "史瓦罗",
+      "tag": "svarog (honkai: star rail)",
+      "charZh": "史瓦罗（崩坏：星穹铁道）",
+      "auto": "red eyes|红瞳;robot|机器人",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "卢卡",
+      "tag": "luka (honkai: star rail)",
+      "charZh": "卢卡（崩坏：星穹铁道）",
+      "auto": "red hair|红发;ahoge|呆毛;blue eyes|蓝瞳;necklace|项链;armband|臂章;belt|腰带;short hair|短发;single mechanical arm|单边机械臂;toned male|精壮男性;hair between eyes|眼间刘海;v-shaped eyebrows|V形眉;earrings|耳环;white shirt|白衬衫;black gloves|黑手套;fingerless gloves|露指手套;dog tags|军牌;single glove|单手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "阿兰",
+      "tag": "arlan (honkai: star rail)",
+      "charZh": "阿兰（崩坏：星穹铁道）",
+      "auto": "white hair|白发;purple eyes|紫瞳;scar|伤疤;hair over one eye|遮单眼发;bandage|绷带;bandaid|创可贴;short hair|短发;dark-skinned male|深色皮肤男性;grey hair|灰发;blue pants|蓝裤",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "白珩",
+      "tag": "baiheng (honkai: star rail)",
+      "charZh": "白珩（崩坏：星穹铁道）",
+      "auto": "purple hair|紫发;blue eyes|蓝瞳;animal ears|兽耳;flying|飞行;fox girl|狐娘;longbow|长弓",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "药师",
+      "tag": "yaoshi (honkai: star rail)",
+      "charZh": "药师（崩坏：星穹铁道）",
+      "auto": "blonde hair|金发",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "纳努克",
+      "tag": "nanook (honkai: star rail)",
+      "charZh": "纳努克（崩坏：星穹铁道）",
+      "auto": "white hair|白发;braid|麻花辫",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "阿哈",
+      "tag": "aha (honkai: star rail)",
+      "charZh": "阿哈（崩坏：星穹铁道）",
+      "auto": "mask|口罩;jester|小丑服;black hair|黑发",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "谛听",
+      "tag": "diting (honkai: star rail)",
+      "charZh": "谛听（崩坏：星穹铁道）",
+      "auto": "tongue out|吐舌",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "呼雷",
+      "tag": "hoolay (honkai: star rail)",
+      "charZh": "呼雷（崩坏：星穹铁道）",
+      "auto": "white hair|白发",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "芮克先生",
+      "tag": "mr. reca (honkai: star rail)",
+      "charZh": "芮克先生（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;red eyes|红瞳;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "呜呜伯",
+      "tag": "wubbaboo (honkai: star rail)",
+      "charZh": "呜呜伯（崩坏：星穹铁道）",
+      "auto": "blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "骄傲的垃圾桶",
+      "tag": "lordly trashcan (honkai: star rail)",
+      "charZh": "骄傲的垃圾桶（崩坏：星穹铁道）",
+      "auto": "hat|帽子;metal|金属;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "佩佩",
+      "tag": "peppy (honkai: star rail)",
+      "charZh": "佩佩（崩坏：星穹铁道）",
+      "auto": "black eyes|黑瞳",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "斯科特",
+      "tag": "skott (honkai: star rail)",
+      "charZh": "斯科特（崩坏：星穹铁道）",
+      "auto": "brown hair|棕发;black eyes|黑瞳;sunglasses|墨镜",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "莱古斯",
+      "tag": "lygus (honkai: star rail)",
+      "charZh": "莱古斯（崩坏：星穹铁道）",
+      "auto": "white hair|白发;short hair|短发;purple eyes|紫瞳;mechanical parts|机械部件;eyepatch|眼罩;teacher|教师",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "阿奎拉",
+      "tag": "aquila (honkai: star rail)",
+      "charZh": "阿奎拉（崩坏：星穹铁道）",
+      "auto": "white hair|白发;wings|翅膀;halo|光环",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "星",
+      "tag": "stelle (honkai: star rail)",
+      "charZh": "星（崩坏：星穹铁道）",
+      "auto": "grey hair|灰发;long hair|长发;mischievous|调皮;trench coat|风衣;baseball bat|棒球棒;fedora|礼帽;gloves|手套;ankle boots|短靴;high heels|高跟鞋;small breasts|小胸;yellow eyes|黄瞳;thigh strap|腿环;white shirt|白衬衫;black jacket|黑色夹克;black gloves|黑色手套;black skirt|黑色短裙;open jacket|敞开夹克;medium hair|中长发;hair between eyes|眼间刘海;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "穹",
+      "tag": "caelus (honkai: star rail)",
+      "charZh": "穹（崩坏：星穹铁道）",
+      "auto": "grey hair|灰发;ahoge|呆毛;mischievous|调皮;trench coat|风衣;baseball bat|棒球棒;fedora|礼帽;fingerless gloves|露指手套;pants|长裤;sneakers|运动鞋;black gloves|黑色手套;fingernails|指甲;long sleeves|长袖;short hair|短发;t-shirt|T恤;white shirt|白衬衫;yellow eyes|黄瞳;black coat|黑色大衣;hooded coat|连帽大衣;open coat|敞开大衣;two-sided coat|双色大衣;yellow coat|黄大衣;black jacket|黑色夹克;open jacket|敞开夹克;two-sided jacket|双色夹克;v-shaped eyebrows|V形眉;hair between eyes|眼间刘海;black pants|黑长裤;hooded jacket|连帽夹克",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "开拓者",
+      "tag": "trailblazer (honkai: star rail)",
+      "charZh": "开拓者（崩坏：星穹铁道）",
+      "auto": "grey hair|灰发;mischievous|调皮;trench coat|风衣;baseball bat|棒球棒;fedora|礼帽",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "风堇",
+      "tag": "hyacine (honkai: star rail)",
+      "charZh": "风堇（崩坏：星穹铁道）",
+      "auto": "pink hair|粉发;multicolored hair|多色发;hair bun|发髻;green eyes|绿瞳;small breasts|小胸;teacher|教师;beret|贝雷帽;pantyhose|连裤袜;bow|蝴蝶结;loafers|乐福鞋;aqua eyes|水蓝瞳;aqua hair|水蓝发;gradient hair|渐变发;long hair|长发;white pantyhose|白色连裤袜;memosprite|忆灵;two-tone hair|双色发;red hat|红帽子;long sleeves|长袖;aqua bowtie|水蓝领结;blue bowtie|蓝色领结",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "赛飞儿",
+      "tag": "cipher (honkai: star rail)",
+      "charZh": "赛飞儿（崩坏：星穹铁道）",
+      "auto": "silver hair|银发;braid|麻花辫;blue eyes|蓝瞳;cat ears|猫耳;cat tail|猫尾;catgirl|猫娘;tsurime|吊眼;backless|露背;hood|兜帽;small breasts|小胸;cat girl|猫娘;white hair|白发;black leotard|黑色紧身衣;detached sleeves|分离袖;thighhighs|过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "遐蝶",
+      "tag": "castorice (honkai: star rail)",
+      "charZh": "遐蝶（崩坏：星穹铁道）",
+      "auto": "purple hair|紫发;twintails|双马尾;purple eyes|紫瞳;pointy ears|尖耳;hair flower|头花;boots|靴子;gloves|手套;bow|蝴蝶结;high heels|高跟鞋;backless|露背;black tiara|黑色冠冕;purple gloves|紫色手套;very long hair|超长发;long hair|长发;white pupils|白色瞳孔;single elbow glove|单边过肘手套;elbow gloves|长筒手套;uneven gloves|不对称手套;purple flower|紫色花朵;purple bow|紫蝴蝶结;white bow|白蝴蝶结;tiara|冠冕头饰;flower ornament|花卉饰品;grey hair|灰发;legwear cutout|裤袜镂空",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "长夜月",
+      "tag": "evernight (honkai: star rail)",
+      "charZh": "长夜月（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;dress|连衣裙;black dress|黑色连衣裙;black gloves|黑色手套;hair flower|发花;pink hair|粉发;black flower|黑花;very long hair|超长发;long sleeves|长袖;parallel hairclips|平行发夹;black umbrella|黑伞;single earring|单侧耳环;earrings|耳环;purple flower|紫色花朵",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "海瑟音",
+      "tag": "hysilens (honkai: star rail)",
+      "charZh": "海瑟音（崩坏：星穹铁道）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳;tsurime|吊眼;blunt bangs|齐刘海;hair clip|发夹;thighhighs|过膝袜;knight|骑士;gloves|手套;black thighhighs|黑色过膝袜;long sleeves|长袖;red gloves|红手套;black gloves|黑色手套;mismatched gloves|异色手套;blue dress|蓝色连衣裙;earrings|耳环;torn thighhighs|破损过膝袜",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "那刻夏",
+      "tag": "anaxa (honkai: star rail)",
+      "charZh": "那刻夏（崩坏：星穹铁道）",
+      "auto": "green hair|绿发;low ponytail|低马尾;red eyes|红瞳;gloves|手套;eyepatch|眼罩;bangs|刘海;shawl|披肩;detached sleeves|分离袖;teacher|教师;scientist|科学家;hair intakes|内卷发;medium hair|中长发;aqua hair|水蓝发;black coat|黑色大衣;black pants|黑裤;blue eyes|蓝瞳;blue jacket|蓝色夹克;multicolored eyes|多色瞳;pink pupils|粉色瞳孔;side ponytail|侧马尾",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "三月七（巡猎）",
+      "tag": "march 7th (hunt) (honkai: star rail)",
+      "charZh": "三月七（巡猎）（崩坏：星穹铁道）",
+      "auto": "pink hair|粉发;pink eyes|粉瞳;camera|相机;hair clip|发夹;hanfu|汉服;thighhighs|过膝袜;high heels|高跟鞋",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "丹恒·饮月",
+      "tag": "dan heng (imbibitor lunae) (honkai: star rail)",
+      "charZh": "丹恒·饮月（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;multicolored hair|多色发;long hair|长发;pointy ears|尖耳;detached sleeves|分离袖;gloves|手套;boots|靴子;dragon boy|龙族少年;hair between eyes|眼间刘海;red eyeliner|红眼线;aqua eyes|水蓝瞳;dragon horns|龙角;earrings|耳环;eastern dragon horns|东方龙角;aqua horns|水蓝龙角;long sleeves|长袖;chinese clothes|中式服饰;white shirt|白衬衫;fingerless gloves|露指手套;black gloves|黑手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "黑塔（人偶）",
+      "tag": "herta (puppet) (honkai: star rail)",
+      "charZh": "黑塔（人偶）（崩坏：星穹铁道）",
+      "auto": "brown hair|棕发;long hair|长发;purple eyes|紫瞳;doll|人偶;scientist|科学家;hair flower|头花;beret|贝雷帽;ankle boots|短靴;blunt bangs|齐刘海;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "银狼",
+      "tag": "silver wolf (honkai: star rail)",
+      "charZh": "银狼（崩坏：星穹铁道）",
+      "auto": "silver hair|银发;short hair|短发;purple eyes|紫瞳;cap|鸭舌帽;jacket|夹克;grey eyes|灰瞳;grey hair|灰发;long hair|长发;drill hair|螺旋卷发;black jacket|黑色夹克;black shorts|黑色短裤;fingerless gloves|露指手套;eyewear on head|头戴眼镜;white shirt|白衬衫;black gloves|黑色手套;drill ponytail|螺旋马尾;short shorts|超短裤;fur-trimmed jacket|毛边夹克;black choker|黑色颈圈;ponytail|马尾;single-shoulder shirt|单肩衬衫;cropped jacket|短款夹克;open jacket|敞开夹克;purple-tinted eyewear|紫片眼镜;crossed bangs|交叉刘海;hair between eyes|眼间刘海;hair ribbon|发带;crop top|露脐上衣;goggles on head|头上护目镜",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "姬子（少女）",
+      "tag": "himeko (young) (honkai: star rail)",
+      "charZh": "姬子（少女）（崩坏：星穹铁道）",
+      "auto": "red hair|红发;long hair|长发;scientist|科学家;gloves|手套;small breasts|小胸;long legs|长腿;high heels|高跟鞋",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "帕姆",
+      "tag": "pom-pom (honkai: star rail)",
+      "charZh": "帕姆（崩坏：星穹铁道）",
+      "auto": "grey hair|灰发;blue eyes|蓝瞳;tail|尾巴;chef|厨师",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "桑博",
+      "tag": "sampo koski",
+      "charZh": "桑博（崩坏：星穹铁道）",
+      "auto": "blue hair|蓝发;short hair|短发;blue eyes|蓝瞳;black belt|黑色腰带;black gloves|黑色手套;hair over one eye|单眼遮刘海;hair between eyes|眼间刘海;multicolored hair|多色发;white hair|白发;parted bangs|中分刘海;grey hair|灰发;green eyes|绿瞳;earrings|耳环;black shirt|黑衬衫;collared shirt|有领衬衫;red jacket|红夹克;open jacket|敞开夹克",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "希露瓦",
+      "tag": "serval landau",
+      "charZh": "希露瓦（崩坏：星穹铁道）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;bare shoulders|露肩;crop top|露脐短衫;stomach tattoo|腹部纹身;streaked hair|挑染发;blue hair|蓝发;hair between eyes|眼间刘海;very long hair|超长发;earrings|耳环;detached sleeves|分离袖;long sleeves|长袖;white sleeves|白袖;black choker|黑颈环;black nails|黑指甲;nail polish|指甲油",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "玲可",
+      "tag": "lynx landau",
+      "charZh": "玲可（崩坏：星穹铁道）",
+      "auto": "white hair|白发;long hair|长发;purple eyes|紫瞳;blonde hair|金发;short hair|短发;blue pantyhose|蓝连裤袜;hair between eyes|眼间刘海;blue eyes|蓝瞳;black footwear|黑鞋;blue scarf|蓝围巾;elbow gloves|过肘手套;blue capelet|蓝斗篷;fur-trimmed capelet|毛边斗篷;pom pom (clothes)|毛球装饰;winter clothes|冬装;white hat|白帽;ahoge|呆毛;black gloves|黑手套;snowflake print|雪花印花;whistle|哨子",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "刻律德菈",
+      "tag": "cerydra (honkai: star rail)",
+      "charZh": "刻律德菈（崩坏：星穹铁道）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝眼;crown|皇冠;dress|连衣裙;detached sleeves|分离袖;blue dress|蓝色连衣裙;hair intakes|内卷发;mini crown|迷你皇冠;long sleeves|长袖;wide sleeves|宽袖;wings|翅膀",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "火花",
+      "tag": "sparxie (honkai: star rail)",
+      "charZh": "火花（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;twintails|双马尾;red eyes|红眼;fox mask|狐狸面具;hair ribbon|发带",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "大丽花",
+      "tag": "the dahlia (honkai: star rail)",
+      "charZh": "大丽花（崩坏：星穹铁道）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;horns|角;white hat|白帽;white dress|白裙;black lace|黑色蕾丝;very long hair|超长发;hair between eyes|眼间刘海;colored inner hair|内层挑染;mole under eye|泪痣;white headwear|白色头饰;hat flower|帽花;white gloves|白手套;black gloves|黑手套;mismatched gloves|异色手套",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "昔涟（德谬歌）",
+      "tag": "cyrene (demiurge) (honkai: star rail)",
+      "charZh": "昔涟·往昔涟漪（崩坏：星穹铁道）",
+      "auto": "pink hair|粉发;white hair|白发;two-tone hair|双色发;very long hair|超长发;hair flower|发花;pointy ears|尖耳;purple eyes|紫瞳;diamond-shaped pupils|菱形瞳孔;white dress|白色连衣裙;bare shoulders|露肩;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "流萤（春日手信）",
+      "tag": "firefly (spring missive) (honkai: star rail)",
+      "charZh": "流萤·春日手信（崩坏：星穹铁道）",
+      "auto": "grey hair|灰发;gradient hair|渐变发;hair intakes|内卷发;hair bow|蝴蝶结发饰;purple eyes|紫瞳;blue pupils|蓝色瞳孔;white shirt|白衬衫;long sleeves|长袖;double-breasted|双排扣;grey sailor collar|灰色水手领;black bow|黑蝴蝶结;green bowtie|绿色领结;plaid grey skirt|灰色格纹裙;white thighhighs|白色过膝袜;zettai ryouiki|绝对领域;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "崩坏：星穹铁道",
+      "gameTag": "honkai: star rail",
+      "name": "Saber（联动）",
+      "tag": "saber (honkai: star rail) (fate)",
+      "charZh": "Saber / 阿尔托莉雅（崩坏：星穹铁道联动）",
+      "auto": "green eyes|绿瞳;blonde hair|金发;ahoge|呆毛;braided bun|麻花盘发;hair ribbon|发带;sidelocks|鬓发;blue dress|蓝色连衣裙;pantyhose|连裤袜;long sleeves|长袖;small breasts|小胸",
+      "subName": ""
+    }
+  ],
+  "count": 109
+}

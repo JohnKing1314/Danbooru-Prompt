@@ -1,0 +1,123 @@
+{
+  "id": "games",
+  "name": "🎮 游戏",
+  "icon": "🎮",
+  "order": 1,
+  "file": "games.json",
+  "subDir": "games",
+  "children": [
+    {
+      "id": "arknights",
+      "name": "明日方舟",
+      "order": 1,
+      "count": 153,
+      "file": "games/arknights.json"
+    },
+    {
+      "id": "genshin_impact",
+      "name": "原神",
+      "order": 2,
+      "count": 132,
+      "file": "games/genshin_impact.json"
+    },
+    {
+      "id": "honkai_star_rail",
+      "name": "崩坏：星穹铁道",
+      "order": 3,
+      "count": 109,
+      "file": "games/honkai_star_rail.json"
+    },
+    {
+      "id": "wuthering_waves",
+      "name": "鸣潮",
+      "order": 4,
+      "count": 73,
+      "file": "games/wuthering_waves.json"
+    },
+    {
+      "id": "blue_archive",
+      "name": "蔚蓝档案",
+      "order": 5,
+      "count": 160,
+      "file": "games/blue_archive.json"
+    },
+    {
+      "id": "honor_of_kings",
+      "name": "王者荣耀",
+      "order": 6,
+      "count": 45,
+      "file": "games/honor_of_kings.json"
+    },
+    {
+      "id": "touhou_project",
+      "name": "东方Project",
+      "order": 7,
+      "count": 95,
+      "file": "games/touhou_project.json"
+    },
+    {
+      "id": "honkai_impact_3rd",
+      "name": "崩坏3",
+      "order": 8,
+      "count": 37,
+      "file": "games/honkai_impact_3rd.json"
+    },
+    {
+      "id": "azur_lane",
+      "name": "碧蓝航线",
+      "order": 9,
+      "count": 73,
+      "file": "games/azur_lane.json"
+    },
+    {
+      "id": "nikke",
+      "name": "妮姬",
+      "order": 10,
+      "count": 22,
+      "file": "games/nikke.json"
+    },
+    {
+      "id": "fire_emblem",
+      "name": "火焰纹章",
+      "order": 11,
+      "count": 97,
+      "file": "games/fire_emblem.json"
+    },
+    {
+      "id": "zenless_zone_zero",
+      "name": "绝区零",
+      "order": 12,
+      "count": 41,
+      "file": "games/zenless_zone_zero.json"
+    },
+    {
+      "id": "girls_frontline",
+      "name": "少女前线",
+      "order": 13,
+      "count": 19,
+      "file": "games/girls_frontline.json"
+    },
+    {
+      "id": "princess_connect",
+      "name": "公主连结",
+      "order": 14,
+      "count": 48,
+      "file": "games/princess_connect.json"
+    },
+    {
+      "id": "punishing_gray_raven",
+      "name": "战双帕弥什",
+      "order": 15,
+      "count": 5,
+      "file": "games/punishing_gray_raven.json"
+    },
+    {
+      "id": "kantai_collection",
+      "name": "舰队Collection",
+      "order": 16,
+      "count": 343,
+      "file": "games/kantai_collection.json"
+    }
+  ],
+  "count": 1452
+}

@@ -1,0 +1,19 @@
+{
+  "id": "negative",
+  "name": "负面提示词",
+  "icon": "⛔",
+  "level": 1,
+  "order": 8,
+  "file": "negative/negative.json",
+  "subDir": "negative",
+  "updatedAt": "2026-11-18T05:36:30.216Z",
+  "children": [
+    {
+      "id": "negative",
+      "name": "负面提示词",
+      "icon": "⛔",
+      "order": 1,
+      "file": "negative/negative_negative.json"
+    }
+  ]
+}

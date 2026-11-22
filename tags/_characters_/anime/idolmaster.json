@@ -1,0 +1,2317 @@
+{
+  "id": "idolmaster",
+  "name": "偶像大师",
+  "parentId": "games",
+  "order": 10,
+  "file": "games/idolmaster.json",
+  "characters": [
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "天海春香",
+      "tag": "amami haruka",
+      "charZh": "天海春香（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳;idol|偶像;hair ribbon|发带;short hair|短发;hair bow|发带蝴蝶结;blunt bangs|齐刘海;medium hair|中长发;green eyes|绿瞳;red ribbon|红丝带;long sleeves|长袖;white shirt|白衬衫;bare shoulders|露肩;medium breasts|中等胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "如月千早",
+      "tag": "kisaragi chihaya",
+      "charZh": "如月千早（偶像大师）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;idol|偶像;very long hair|超长发;straight hair|直发;hair between eyes|眼间刘海;brown eyes|棕瞳;earrings|耳环;long sleeves|长袖;white shirt|白衬衫;small breasts|小胸;flat chest|平胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "高槻弥生",
+      "tag": "takatsuki yayoi",
+      "charZh": "高槻弥生（偶像大师）",
+      "auto": "orange hair|橙发;twintails|双马尾;blue eyes|蓝瞳;idol|偶像;brown hair|棕发;long hair|长发;medium hair|中长发;blunt bangs|齐刘海;green eyes|绿瞳;aqua eyes|水蓝瞳;hair scrunchie|发圈;long sleeves|长袖;short sleeves|短袖;orange hoodie|橙连帽衫;small breasts|小胸;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "水濑伊织",
+      "tag": "minase iori",
+      "charZh": "水濑伊织（偶像大师）",
+      "auto": "brown hair|棕发;twintails|双马尾;brown eyes|棕瞳;idol|偶像;long hair|长发;very long hair|超长发;asymmetrical bangs|不对称刘海;forehead|露额;red eyes|红瞳;black hairband|黑发箍;hairband|发箍;long sleeves|长袖;stuffed rabbit|兔子玩偶;one eye closed|单眼闭合;small breasts|小胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "三浦梓",
+      "tag": "miura azusa",
+      "charZh": "三浦梓（偶像大师）",
+      "auto": "short hair|短发;blue hair|蓝发;dark blue hair|深蓝发;parted bangs|中分刘海;long hair|长发;ahoge|呆毛;forehead|露额;red eyes|红瞳;purple eyes|紫瞳;necklace|项链;idol|偶像;closed eyes|闭眼;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;collarbone|锁骨;navel|肚脐;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "菊地真",
+      "tag": "kikuchi makoto",
+      "charZh": "菊地真（偶像大师）",
+      "auto": "black hair|黑发;short hair|短发;green eyes|绿瞳;antenna hair|天线呆毛;hair between eyes|眼间刘海;black eyes|黑瞳;purple eyes|紫瞳;white shirt|白衬衫;long sleeves|长袖;tomboy|假小子;small breasts|小胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "星井美希",
+      "tag": "hoshii miki",
+      "charZh": "星井美希（偶像大师）",
+      "auto": "blonde hair|金发;long hair|长发;green eyes|绿瞳;idol|偶像;very long hair|超长发;hair between eyes|眼间刘海;wavy hair|波浪发;long sleeves|长袖;white shirt|白衬衫;ahoge|呆毛;bare shoulders|露肩;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "我那霸响",
+      "tag": "ganaha hibiki",
+      "charZh": "我那霸响（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;brown eyes|棕瞳;antenna hair|天线呆毛;hair ribbon|发带;hair bow|发带蝴蝶结;very long hair|超长发;hair between eyes|眼间刘海;blue eyes|蓝瞳;ponytail|马尾;high ponytail|高马尾;white shirt|白衬衫;fang|虎牙;bare shoulders|露肩;medium breasts|中等胸;cleavage|乳沟;navel|肚脐;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "四条贵音",
+      "tag": "shijou takane",
+      "charZh": "四条贵音（偶像大师）",
+      "auto": "silver hair|银发;long hair|长发;blue eyes|蓝瞳;idol|偶像;grey hair|灰发;white hair|白发;very long hair|超长发;blunt bangs|齐刘海;wavy hair|波浪发;purple eyes|紫瞳;red eyes|红瞳;hairband|发箍;black hairband|黑发箍;long sleeves|长袖;white shirt|白衬衫;large breasts|大胸;cleavage|乳沟;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "岛村卯月",
+      "tag": "shimamura uzuki",
+      "charZh": "岛村卯月（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;very long hair|超长发;brown eyes|棕瞳;hair ribbon|发带;hair bow|发带蝴蝶结;white shirt|白衬衫;short sleeves|短袖;school uniform|校服;idol|偶像;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;fake animal ears|假兽耳;navel|肚脐;collarbone|锁骨;bare shoulders|露肩;hands up|双手举起",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "涩谷凛",
+      "tag": "shibuya rin",
+      "charZh": "涩谷凛（偶像大师）",
+      "auto": "long hair|长发;brown hair|棕发;black hair|黑发;straight hair|直发;green eyes|绿瞳;earrings|耳环;white shirt|白衬衫;long sleeves|长袖;necklace|项链;school uniform|校服;black cardigan|黑开衫;idol|偶像;medium breasts|中等胸;cleavage|乳沟;small breasts|小胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "本田未央",
+      "tag": "honda mio",
+      "charZh": "本田未央（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳;yellow eyes|黄瞳;white shirt|白衬衫;long sleeves|长袖;collared shirt|有领衬衫;bare shoulders|露肩;star (symbol)|星星标志;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "神崎兰子",
+      "tag": "kanzaki ranko",
+      "charZh": "神崎兰子（偶像大师）",
+      "auto": "grey hair|灰发;silver hair|银发;twintails|双马尾;long hair|长发;hair between eyes|眼间刘海;twin drills|双螺旋卷;red eyes|红瞳;hair ribbon|发带;hair bow|发带蝴蝶结;black dress|黑连衣裙;black ribbon|黑丝带;frilled dress|荷叶边连衣裙;black choker|黑颈环;gothic lolita|哥特萝莉;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;bare shoulders|露肩;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "樱木真乃",
+      "tag": "sakuragi mano (idolmaster shiny colors)",
+      "charZh": "樱木真乃（偶像大师）",
+      "auto": "pink hair|粉发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "秋月律子",
+      "tag": "akizuki ritsuko",
+      "charZh": "秋月律子（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;glasses|眼镜;antenna hair|天线呆毛;long hair|长发;brown eyes|棕瞳;black-framed eyewear|黑框眼镜;under-rim eyewear|下半框眼镜;folded ponytail|折马尾;long sleeves|长袖;white shirt|白衬衫;bare shoulders|露肩;large breasts|大胸;medium breasts|中等胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "双海亚美",
+      "tag": "futami ami",
+      "charZh": "双海亚美（偶像大师）",
+      "auto": "orange hair|橙发;twintails|双马尾;blue eyes|蓝瞳;brown hair|棕发;short hair|短发;hair bobbles|球形发圈;flipped hair|外翘发;brown eyes|棕瞳;one eye closed|单眼闭合;small breasts|小胸;medium breasts|中等胸;thighhighs|大腿袜;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "双海真美",
+      "tag": "futami mami",
+      "charZh": "双海真美（偶像大师）",
+      "auto": "orange hair|橙发;twintails|双马尾;blue eyes|蓝瞳;brown hair|棕发;long hair|长发;short hair|短发;hair ribbon|发带;brown eyes|棕瞳;striped clothes|条纹服饰;bare shoulders|露肩;one eye closed|单眼闭合;small breasts|小胸;cleavage|乳沟;medium breasts|中等胸;navel|肚脐;collarbone|锁骨;grin|露齿笑;photoshop (medium)|Photoshop",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "萩原雪步",
+      "tag": "hagiwara yukiho",
+      "charZh": "萩原雪步（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳;hair between eyes|眼间刘海;long sleeves|长袖;white shirt|白衬衫;short sleeves|短袖;bob cut|波波头;bare shoulders|露肩;medium breasts|中等胸;cleavage|乳沟;small breasts|小胸;collarbone|锁骨;navel|肚脐;looking back|回眸",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "前川未来",
+      "tag": "maekawa miku",
+      "charZh": "前川未来（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;green eyes|绿瞳;cat ears|猫耳;cat tail|猫尾;fake animal ears|装饰兽耳;fake tail|装饰尾巴;long sleeves|长袖;white shirt|白衬衫;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "高垣枫",
+      "tag": "takagaki kaede",
+      "charZh": "高垣枫（偶像大师）",
+      "auto": "green hair|绿发;short hair|短发;brown hair|棕发;bob cut|波波头;blue eyes|蓝瞳;green eyes|绿瞳;heterochromia|异色瞳;mole under eye|泪痣;necklace|项链;idol|偶像;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;bare shoulders|露肩;collarbone|锁骨;navel|肚脐;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "白坂小梅",
+      "tag": "shirasaka koume",
+      "charZh": "白坂小梅（偶像大师）",
+      "auto": "hair over one eye|单眼遮刘海;blonde hair|金发;short hair|短发;red eyes|红瞳;brown eyes|棕瞳;ear piercing|耳洞;earrings|耳环;long sleeves|长袖;sleeves past fingers|过指袖;white dress|白连衣裙;red skirt|红裙;black hoodie|黑连帽衫;hood down|放下的兜帽;bare shoulders|露肩;flat chest|平胸;collarbone|锁骨;happy birthday|生日快乐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "花海咲季",
+      "tag": "hanami saki (gakuen idolmaster)",
+      "charZh": "花海咲季（学园偶像大师）",
+      "auto": "red hair|红发;long hair|长发;blue eyes|蓝瞳;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "月村手毬",
+      "tag": "tsukimura temari (gakuen idolmaster)",
+      "charZh": "月村手毬（学园偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;purple eyes|紫瞳;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "藤田ことね",
+      "tag": "fujita kotone (gakuen idolmaster)",
+      "charZh": "藤田ことね（学园偶像大师）",
+      "auto": "blonde hair|金发;short hair|短发;green eyes|绿瞳;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "有村麻央",
+      "tag": "arimura mao (gakuen idolmaster)",
+      "charZh": "有村麻央（学园偶像大师）",
+      "auto": "orange hair|橙发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "葛城リーリヤ",
+      "tag": "katsuragi lily (gakuen idolmaster)",
+      "charZh": "葛城リーリヤ（学园偶像大师）",
+      "auto": "silver hair|银发;long hair|长发;blue eyes|蓝瞳;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "仓本千奈",
+      "tag": "kuramoto china (gakuen idolmaster)",
+      "charZh": "仓本千奈（学园偶像大师）",
+      "auto": "pink hair|粉发;twintails|双马尾;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "紫云清夏",
+      "tag": "shiumo seika (gakuen idolmaster)",
+      "charZh": "紫云清夏（学园偶像大师）",
+      "auto": "purple hair|紫发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "筱泽广",
+      "tag": "shinosawa hiro (gakuen idolmaster)",
+      "charZh": "筱泽广（学园偶像大师）",
+      "auto": "white hair|白发;short hair|短发;blue eyes|蓝瞳;idol|偶像;sleepy|困倦",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "春日未来",
+      "tag": "kasuga mirai (idolmaster million live)",
+      "charZh": "春日未来（偶像大师 百万现场）",
+      "auto": "brown hair|棕发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "最上静香",
+      "tag": "mogami shizuka (idolmaster million live)",
+      "charZh": "最上静香（偶像大师 百万现场）",
+      "auto": "blue hair|蓝发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "伊吹翼",
+      "tag": "ibuki tsubasa (idolmaster million live)",
+      "charZh": "伊吹翼（偶像大师 百万现场）",
+      "auto": "orange hair|橙发;twintails|双马尾;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "箱崎星梨花",
+      "tag": "hakozaki serika (idolmaster million live)",
+      "charZh": "箱崎星梨花（偶像大师 百万现场）",
+      "auto": "blonde hair|金发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "望月杏奈",
+      "tag": "mochizuki anna (idolmaster million live)",
+      "charZh": "望月杏奈（偶像大师 百万现场）",
+      "auto": "purple hair|紫发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "德川茉莉",
+      "tag": "tokugawa matsuri (idolmaster million live)",
+      "charZh": "德川茉莉（偶像大师 百万现场）",
+      "auto": "pink hair|粉发;twintails|双马尾;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "风野灯织",
+      "tag": "kazano hiori (idolmaster shiny colors)",
+      "charZh": "风野灯织（偶像大师 闪耀色彩）",
+      "auto": "blue hair|蓝发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "八宫巡",
+      "tag": "yamiya meguru (idolmaster shiny colors)",
+      "charZh": "八宫巡（偶像大师 闪耀色彩）",
+      "auto": "blonde hair|金发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "月冈恋钟",
+      "tag": "tsukioka kogane (idolmaster shiny colors)",
+      "charZh": "月冈恋钟（偶像大师 闪耀色彩）",
+      "auto": "pink hair|粉发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "白濑咲耶",
+      "tag": "shirase sakuya (idolmaster shiny colors)",
+      "charZh": "白濑咲耶（偶像大师 闪耀色彩）",
+      "auto": "black hair|黑发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "三峰结华",
+      "tag": "mitsumine yuika (idolmaster shiny colors)",
+      "charZh": "三峰结华（偶像大师 闪耀色彩）",
+      "auto": "brown hair|棕发;long hair|长发;glasses|眼镜;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "杜野凛世",
+      "tag": "morino rinze (idolmaster shiny colors)",
+      "charZh": "杜野凛世（偶像大师 闪耀色彩）",
+      "auto": "black hair|黑发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "大崎甘奈",
+      "tag": "osaki amana (idolmaster shiny colors)",
+      "charZh": "大崎甘奈（偶像大师 闪耀色彩）",
+      "auto": "blonde hair|金发;twintails|双马尾;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "大崎甜花",
+      "tag": "osaki tenka (idolmaster shiny colors)",
+      "charZh": "大崎甜花（偶像大师 闪耀色彩）",
+      "auto": "pink hair|粉发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "双叶杏",
+      "tag": "futaba anzu",
+      "charZh": "双叶杏（偶像大师）",
+      "auto": "blonde hair|金发;low twintails|低双马尾;long hair|长发;very long hair|超长发;hair bow|发带蝴蝶结;twintails|双马尾;brown eyes|棕瞳;t-shirt|T恤;blue dress|蓝连衣裙;long sleeves|长袖;white shirt|白衬衫;stuffed rabbit|兔子玩偶;ahoge|呆毛;shorts|短裤;flat chest|平胸;expressionless|无表情;sketch|草图",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "诸星琪拉莉",
+      "tag": "moroboshi kirari",
+      "charZh": "诸星琪拉莉（偶像大师）",
+      "auto": "long hair|长发;brown hair|棕发;orange hair|橙发;wavy hair|波浪发;twintails|双马尾;brown eyes|棕瞳;hair bow|发带蝴蝶结;long sleeves|长袖;bracelet|手链;idol|偶像;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;:3|猫嘴;collarbone|锁骨;navel|肚脐;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "赤城米莉亚",
+      "tag": "akagi miria",
+      "charZh": "赤城米莉亚（偶像大师）",
+      "auto": "short hair|短发;black hair|黑发;brown hair|棕发;hair between eyes|眼间刘海;hair bow|发带蝴蝶结;brown eyes|棕瞳;white shirt|白衬衫;short sleeves|短袖;long sleeves|长袖;pleated skirt|百褶裙;bare shoulders|露肩;idol|偶像;one eye closed|单眼闭合;small breasts|小胸;collarbone|锁骨;navel|肚脐;arm up|举手;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "安娜斯塔西娅",
+      "tag": "anastasia (idolmaster)",
+      "charZh": "安娜斯塔西娅（偶像大师）",
+      "auto": "short hair|短发;grey hair|灰发;silver hair|银发;white hair|白发;hair between eyes|眼间刘海;blue eyes|蓝瞳;aqua eyes|水蓝瞳;eyelashes|长睫毛;earrings|耳环;long sleeves|长袖;white shirt|白衬衫;blue dress|蓝连衣裙;bare shoulders|露肩;medium breasts|中等胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "新田美波",
+      "tag": "nitta minami",
+      "charZh": "新田美波（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;idol|偶像;straight hair|直发;very long hair|超长发;brown eyes|棕瞳;long sleeves|长袖;white shirt|白衬衫;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;collarbone|锁骨;navel|肚脐;groin|腹股沟;bare shoulders|露肩;competition swimsuit|竞速泳衣;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "绪方智绘里",
+      "tag": "ogata chieri",
+      "charZh": "绪方智绘里（偶像大师）",
+      "auto": "brown hair|棕发;twintails|双马尾;idol|偶像;long hair|长发;medium hair|中长发;blunt bangs|齐刘海;brown eyes|棕瞳;hair ribbon|发带;hair bow|发带蝴蝶结;long sleeves|长袖;puffy short sleeves|泡泡短袖",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "北条加莲",
+      "tag": "hojo karen",
+      "charZh": "北条加莲（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;orange hair|橙发;swept bangs|斜刘海;brown eyes|棕瞳;yellow eyes|黄瞳;long sleeves|长袖;necklace|项链;bare shoulders|露肩;nail polish|指甲油;idol|偶像;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "鹭泽文香",
+      "tag": "sagisawa fumika",
+      "charZh": "鹭泽文香（偶像大师）",
+      "auto": "black hair|黑发;brown hair|棕发;long hair|长发;hair between eyes|眼间刘海;blue eyes|蓝瞳;hairband|发箍;white hairband|白发箍;long sleeves|长袖;blue shirt|蓝衬衫;idol|偶像;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;collarbone|锁骨;navel|肚脐;bare shoulders|露肩;thighs|大腿;stomach|腹部",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "一之濑志希",
+      "tag": "ichinose shiki",
+      "charZh": "一之濑志希（偶像大师）",
+      "auto": "brown hair|棕发;purple hair|紫发;long hair|长发;wavy hair|波浪发;hair between eyes|眼间刘海;very long hair|超长发;ahoge|呆毛;blue eyes|蓝瞳;white shirt|白衬衫;long sleeves|长袖;earrings|耳环;idol|偶像;medium breasts|中等胸;cleavage|乳沟;bare shoulders|露肩;collarbone|锁骨;:3|猫嘴;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "宫本芙蕾德莉卡",
+      "tag": "miyamoto frederica",
+      "charZh": "宫本芙蕾德莉卡（偶像大师）",
+      "auto": "blonde hair|金发;short hair|短发;idol|偶像;asymmetrical hair|不对称发型;green eyes|绿瞳;earrings|耳环;long sleeves|长袖;nail polish|指甲油;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐;:3|猫嘴;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "佐久间麻由",
+      "tag": "sakuma mayu",
+      "charZh": "佐久间麻由（偶像大师）",
+      "auto": "brown hair|棕发;medium hair|中长发;short hair|短发;blue eyes|蓝瞳;green eyes|绿瞳;hairband|发箍;hair bow|发带蝴蝶结;hair ribbon|发带;earrings|耳环;red ribbon|红丝带;pink dress|粉连衣裙;long sleeves|长袖;medium breasts|中等胸;cleavage|乳沟;bare shoulders|露肩;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "速水奏",
+      "tag": "hayami kanade",
+      "charZh": "速水奏（偶像大师）",
+      "auto": "short hair|短发;parted bangs|中分刘海;dark blue hair|深蓝发;black hair|黑发;blue hair|蓝发;yellow eyes|黄瞳;earrings|耳环;white shirt|白衬衫;bare shoulders|露肩;nail polish|指甲油;idol|偶像;cleavage|乳沟;large breasts|大胸;medium breasts|中等胸;collarbone|锁骨;navel|肚脐;parted lips|微张嘴;signature|签名",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "橘爱丽丝",
+      "tag": "tachibana arisu",
+      "charZh": "橘爱丽丝（偶像大师）",
+      "auto": "brown hair|棕发;black hair|黑发;long hair|长发;parted bangs|中分刘海;brown eyes|棕瞳;hair bow|发带蝴蝶结;hair ribbon|发带;blue bow|蓝蝴蝶结;blue dress|蓝连衣裙;long sleeves|长袖;white shirt|白衬衫;short sleeves|短袖;puffy short sleeves|泡泡短袖;small breasts|小胸;flat chest|平胸;parted lips|微张嘴;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "二宫飞鸟",
+      "tag": "ninomiya asuka",
+      "charZh": "二宫飞鸟（偶像大师）",
+      "auto": "long hair|长发;two-tone hair|双色发;hair between eyes|眼间刘海;orange hair|橙发;light brown hair|浅棕发;pink hair|粉发;brown hair|棕发;blonde hair|金发;ahoge|呆毛;purple eyes|紫瞳;long sleeves|长袖;idol|偶像;small breasts|小胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐;parted lips|微张嘴;bare shoulders|露肩;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "神谷奈绪",
+      "tag": "kamiya nao",
+      "charZh": "神谷奈绪（偶像大师）",
+      "auto": "brown hair|棕发;blunt bangs|齐刘海;long hair|长发;single hair bun|单发髻;very long hair|超长发;red eyes|红瞳;white shirt|白衬衫;long sleeves|长袖;pleated skirt|百褶裙;open jacket|敞开夹克;idol|偶像;alternate hairstyle|非常态发型;thick eyebrows|浓眉;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "五十岚响子",
+      "tag": "igarashi kyoko",
+      "charZh": "五十岚响子（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;idol|偶像;swept bangs|斜刘海;lone nape hair|颈后发束;blunt bangs|齐刘海;brown eyes|棕瞳;yellow eyes|黄瞳;hair bow|发带蝴蝶结;hair scrunchie|发圈;white shirt|白衬衫;short sleeves|短袖;long sleeves|长袖;pleated skirt|百褶裙;medium breasts|中等胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "多田李衣菜",
+      "tag": "tada riina",
+      "charZh": "多田李衣菜（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;hair between eyes|眼间刘海;green eyes|绿瞳;long sleeves|长袖;necklace|项链;miniskirt|迷你裙;pleated skirt|百褶裙;headphones|头戴耳机;headphones around neck|颈挂耳机;idol|偶像;one eye closed|单眼闭合;cleavage|乳沟;medium breasts|中等胸;collarbone|锁骨;navel|肚脐;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "星辉子",
+      "tag": "hoshi shouko (idolmaster cinderella girls)",
+      "charZh": "星辉子（偶像大师）",
+      "auto": "pink hair|粉发;short hair|短发;idol|偶像;grey hair|灰发;hair between eyes|眼间发;very long hair|超长发;long hair|长发;hair bow|蝴蝶结发饰;hair ribbon|发带;grey eyes|灰瞳;small breasts|小胸;long sleeves|长袖;green shirt|绿色衬衫",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "北泽志保",
+      "tag": "kitazawa shiho (idolmaster million live)",
+      "charZh": "北泽志保（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "田中琴叶",
+      "tag": "tanaka kotoha (idolmaster million live)",
+      "charZh": "田中琴叶（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "所惠美",
+      "tag": "tokoro megumi (idolmaster million live)",
+      "charZh": "所惠美（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "矢吹可奈",
+      "tag": "yabuki kana (idolmaster million live)",
+      "charZh": "矢吹可奈（偶像大师）",
+      "auto": "brown hair|棕发;twintails|双马尾;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "白石䌷",
+      "tag": "shiraishi tsumugi (idolmaster million live)",
+      "charZh": "白石䌷（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "小宫果穗",
+      "tag": "komiya kaho (idolmaster shiny colors)",
+      "charZh": "小宫果穗（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "园田智代子",
+      "tag": "sonoda chiyoko (idolmaster shiny colors)",
+      "charZh": "园田智代子（偶像大师）",
+      "auto": "pink hair|粉发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "西城树里",
+      "tag": "saijou juri (idolmaster shiny colors)",
+      "charZh": "西城树里（偶像大师）",
+      "auto": "blonde hair|金发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "有栖川夏叶",
+      "tag": "arisugawa natsuha (idolmaster shiny colors)",
+      "charZh": "有栖川夏叶（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "芹泽朝日",
+      "tag": "serizawa asahi (idolmaster shiny colors)",
+      "charZh": "芹泽朝日（偶像大师）",
+      "auto": "white hair|白发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "黛冬优子",
+      "tag": "mayuzumi fuyuko (idolmaster shiny colors)",
+      "charZh": "黛冬优子（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "和泉爱依",
+      "tag": "izumi mei (idolmaster shiny colors)",
+      "charZh": "和泉爱依（偶像大师）",
+      "auto": "blonde hair|金发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "浅仓透",
+      "tag": "asakura toru (idolmaster shiny colors)",
+      "charZh": "浅仓透（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "樋口圆香",
+      "tag": "higuchi madoka (idolmaster shiny colors)",
+      "charZh": "樋口圆香（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "市川雏菜",
+      "tag": "ichikawa hinana (idolmaster shiny colors)",
+      "charZh": "市川雏菜（偶像大师）",
+      "auto": "pink hair|粉发;twintails|双马尾;idol|偶像",
+      "subName": ""
+    },
+    {
+      "name": "梦见璃亚梦",
+      "tag": "yumemi riamu",
+      "charZh": "梦见璃亚梦",
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "auto": "1girl|一个女孩;fang|虎牙;pink eyes|粉瞳;pink hair|粉发;two-tone hair|双色发;blue hair|蓝发;short hair|短发;ahoge|呆毛;hair intakes|内卷发;small breasts|小胸;collarbone|锁骨;short sleeves|短袖;medium hair|中长发;aqua hair|水蓝发;nurse cap|护士帽;heart print|心形印花;pill earrings|药丸耳环;white apron|白围裙;pink choker|粉颈环;pink collar|粉领;large breasts|大胸;cleavage|乳沟"
+    },
+    {
+      "name": "城崎美嘉",
+      "tag": "jougasaki mika",
+      "charZh": "城崎美嘉",
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "auto": "1girl|一个女孩;yellow eyes|黄瞳;hair between eyes|眼间发;pink hair|粉发;long hair|长发;ponytail|马尾;twintails|双马尾;hair bow|蝴蝶结发饰;medium breasts|中等胸;small breasts|小胸;cleavage|乳沟;nail polish|指甲油;large breasts|大胸;collarbone|锁骨;navel|肚脐;bare shoulders|露肩;stomach|腹部;thighs|大腿"
+    },
+    {
+      "name": "舆水幸子",
+      "tag": "koshimizu sachiko",
+      "charZh": "舆水幸子",
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "auto": "1girl|一个女孩;brown eyes|棕瞳;short hair|短发;purple hair|紫发;hair flaps|发片;hair intakes|内卷发;hairclip|发夹;grey hair|灰发;collared shirt|有领衬衫;long sleeves|长袖;white shirt|白衬衫;pleated skirt|百褶裙;small breasts|小胸;collarbone|锁骨;bare shoulders|露肩;hands up|双手举起;:3|猫嘴"
+    },
+    {
+      "name": "城崎莉嘉",
+      "tag": "jougasaki rika",
+      "charZh": "城崎莉嘉",
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;blonde hair|金发;long hair|长发;two side up|半扎双马尾;small breasts|小胸;white shirt|白衬衫;short sleeves|短袖;red ribbon|红丝带;pleated skirt|百褶裙;neck ribbon|领结丝带;school uniform|校服;one eye closed|单眼闭合;collarbone|锁骨;fang|虎牙;navel|肚脐;bare shoulders|露肩;fangs|獠牙"
+    },
+    {
+      "name": "樱井桃华",
+      "tag": "sakurai momoka",
+      "charZh": "樱井桃华",
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "auto": "1girl|一个女孩;loli|萝莉;green eyes|绿瞳;hair between eyes|眼间发;blonde hair|金发;short hair|短发;wavy hair|波浪发;small breasts|小胸;medium hair|中长发;hair bow|发带蝴蝶结;red hairband|红发箍;long sleeves|长袖;red dress|红连衣裙;white shirt|白衬衫;flat chest|平胸;thighs|大腿;collarbone|锁骨;navel|肚脐"
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "大槻唯",
+      "tag": "ohtsuki yui",
+      "charZh": "大槻唯（偶像大师）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;ponytail|马尾;blue eyes|蓝瞳;white shirt|白衬衫;striped clothes|条纹服饰;blue skirt|蓝裙;necklace|项链;nail polish|指甲油;idol|偶像;one eye closed|单眼闭合;cleavage|乳沟;large breasts|大胸;medium breasts|中等胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐;upper teeth only|只露上排牙",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "森久保乃乃",
+      "tag": "morikubo nono",
+      "charZh": "森久保乃乃（偶像大师）",
+      "auto": "long hair|长发;light brown hair|浅棕发;brown hair|棕发;drill hair|螺旋卷发;blonde hair|金发;ringlets|卷发绺;brown eyes|棕瞳;long sleeves|长袖;white shirt|白衬衫;blue dress|蓝连衣裙;idol|偶像;small breasts|小胸;revision|修订版;collarbone|锁骨;sweat|流汗;parted lips|微张嘴;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "佐佐木千枝",
+      "tag": "sasaki chie",
+      "charZh": "佐佐木千枝（偶像大师）",
+      "auto": "short hair|短发;black hair|黑发;black eyes|黑瞳;brown eyes|棕瞳;hairclip|发夹;long sleeves|长袖;white shirt|白衬衫;short sleeves|短袖;blue skirt|蓝裙;blue shirt|蓝衬衫;idol|偶像;small breasts|小胸;collarbone|锁骨;flat chest|平胸;hands up|双手举起;thighs|大腿;child|儿童",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "砂冢明",
+      "tag": "sunazuka akira",
+      "charZh": "砂冢明（偶像大师）",
+      "auto": "twintails|双马尾;hair between eyes|眼间刘海;long hair|长发;black hair|黑发;brown hair|棕发;crossed bangs|交叉刘海;brown eyes|棕瞳;mole under eye|泪痣;sharp teeth|鲨鱼齿;long sleeves|长袖;white shirt|白衬衫;black jacket|黑夹克;green necktie|绿领带;idol|偶像;medium breasts|中等胸;small breasts|小胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "盐见周子",
+      "tag": "shiomi syuko",
+      "charZh": "盐见周子（偶像大师）",
+      "auto": "short hair|短发;grey hair|灰发;hair between eyes|眼间刘海;black eyes|黑瞳;hair flower|发花;fox ears|狐耳;earrings|耳环;long sleeves|长袖;nail polish|指甲油;idol|偶像;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "市原仁奈",
+      "tag": "ichihara nina",
+      "charZh": "市原仁奈（偶像大师）",
+      "auto": "brown hair|棕发;orange hair|橙发;long hair|长发;blunt bangs|齐刘海;very long hair|超长发;brown eyes|棕瞳;yellow eyes|黄瞳;hair bow|发带蝴蝶结;long sleeves|长袖;striped clothes|条纹服饰;white shirt|白衬衫;short sleeves|短袖;animal hood|动物兜帽;idol|偶像;child|儿童",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "安部菜菜",
+      "tag": "abe nana",
+      "charZh": "安部菜菜（偶像大师）",
+      "auto": "orange hair|橙发;brown hair|棕发;short hair|短发;hair bow|发带蝴蝶结;hair ribbon|发带;brown eyes|棕瞳;red eyes|红瞳;ponytail|马尾;rabbit ears|兔耳;fake animal ears|装饰兽耳;long sleeves|长袖;white thighhighs|白过膝袜;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;large breasts|大胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "佐藤心",
+      "tag": "sato shin",
+      "charZh": "佐藤心（偶像大师）",
+      "auto": "twintails|双马尾;long hair|长发;blonde hair|金发;brown hair|棕发;light brown hair|浅棕发;medium hair|中长发;ahoge|呆毛;green eyes|绿瞳;hair ribbon|发带;hair bow|发带蝴蝶结;long sleeves|长袖;idol|偶像;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;bare shoulders|露肩;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "早坂美玲",
+      "tag": "hayasaka mirei",
+      "charZh": "早坂美玲（偶像大师）",
+      "auto": "purple hair|紫发;streaked hair|挑染发;hair between eyes|眼间刘海;short hair|短发;two-tone hair|双色发;medium hair|中长发;eyepatch|眼罩;brown eyes|棕瞳;heart eyepatch|心形眼罩;yellow eyes|黄瞳;long sleeves|长袖;pleated skirt|百褶裙;fang|虎牙;idol|偶像;small breasts|小胸;navel|肚脐;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "久川飒",
+      "tag": "hisakawa hayate",
+      "charZh": "久川飒（偶像大师）",
+      "auto": "grey hair|灰发;long hair|长发;very long hair|超长发;asymmetrical bangs|不对称刘海;blue eyes|蓝瞳;earrings|耳环;white shirt|白衬衫;long sleeves|长袖;pleated skirt|百褶裙;bare shoulders|露肩;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "久川凪",
+      "tag": "hisakawa nagi",
+      "charZh": "久川凪（偶像大师）",
+      "auto": "grey hair|灰发;low twintails|低双马尾;long hair|长发;hair ribbon|发带;very long hair|超长发;asymmetrical bangs|不对称刘海;twintails|双马尾;hair bow|发带蝴蝶结;brown eyes|棕瞳;long sleeves|长袖;black ribbon|黑丝带;black thighhighs|黑过膝袜;idol|偶像;small breasts|小胸;collarbone|锁骨;parted lips|微张嘴;:o|O字嘴;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "十时爱梨",
+      "tag": "totoki airi",
+      "charZh": "十时爱梨（偶像大师）",
+      "auto": "brown hair|棕发;twintails|双马尾;long hair|长发;short hair|短发;brown eyes|棕瞳;hair scrunchie|发圈;hair ribbon|发带;heart necklace|心形项链;long sleeves|长袖;striped clothes|条纹服饰;white shirt|白衬衫;idol|偶像;large breasts|大胸;cleavage|乳沟;collarbone|锁骨;bare shoulders|露肩;navel|肚脐;sweat|流汗",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "依田芳乃",
+      "tag": "yorita yoshino",
+      "charZh": "依田芳乃（偶像大师）",
+      "auto": "brown hair|棕发;very long hair|超长发;long hair|长发;blunt bangs|齐刘海;ponytail|马尾;brown eyes|棕瞳;hair bow|发带蝴蝶结;hair ribbon|发带;long sleeves|长袖;white shirt|白衬衫;pleated skirt|百褶裙;floral print|碎花印花;idol|偶像;small breasts|小胸;bare shoulders|露肩;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "高森蓝子",
+      "tag": "takamori aiko",
+      "charZh": "高森蓝子（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;single hair bun|单发髻;ponytail|马尾;brown eyes|棕瞳;yellow eyes|黄瞳;hair flower|发花;long sleeves|长袖;white shirt|白衬衫;white dress|白连衣裙;idol|偶像;small breasts|小胸;collarbone|锁骨;navel|肚脐;bare shoulders|露肩;sweat|流汗",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "小早川纱枝",
+      "tag": "kobayakawa sae",
+      "charZh": "小早川纱枝（偶像大师）",
+      "auto": "long hair|长发;black hair|黑发;blunt bangs|齐刘海;very long hair|超长发;brown hair|棕发;black eyes|黑瞳;grey eyes|灰瞳;brown eyes|棕瞳;hair flower|发花;long sleeves|长袖;pleated skirt|百褶裙;white shirt|白衬衫;floral print|碎花印花;idol|偶像;small breasts|小胸;medium breasts|中等胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "小日向美穗",
+      "tag": "kohinata miho",
+      "charZh": "小日向美穗（偶像大师）",
+      "auto": "short hair|短发;black hair|黑发;hair between eyes|眼间刘海;brown hair|棕发;hair intakes|发进气口;ahoge|呆毛;brown eyes|棕瞳;yellow eyes|黄瞳;long sleeves|长袖;white shirt|白衬衫;school uniform|校服;idol|偶像;medium breasts|中等胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "辻野朱里",
+      "tag": "tsujino akari",
+      "charZh": "辻野朱里（偶像大师）",
+      "auto": "brown hair|棕发;antenna hair|天线呆毛;long hair|长发;very long hair|超长发;red eyes|红瞳;hair bow|发带蝴蝶结;puffy short sleeves|泡泡短袖;frilled dress|荷叶边连衣裙;red dress|红连衣裙;apple|苹果;wrist cuffs|袖口饰;school uniform|校服;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "浅利七海",
+      "tag": "asari nanami",
+      "charZh": "浅利七海（偶像大师）",
+      "auto": "blue hair|蓝发;long hair|长发;hair rings|发环;very long hair|超长发;wavy hair|波浪发;blunt bangs|齐刘海;blue eyes|蓝瞳;white shirt|白衬衫;long sleeves|长袖;bare shoulders|露肩;stuffed animal|毛绒玩偶;stuffed fish|鱼形玩偶;idol|偶像;medium breasts|中等胸;small breasts|小胸;upper teeth only|只露上排牙;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "滨川爱结奈",
+      "tag": "hamakawa ayuna",
+      "charZh": "滨川爱结奈（偶像大师）",
+      "auto": "long hair|长发;pink hair|粉发;wavy hair|波浪卷发;brown eyes|棕瞳;earrings|耳环;necklace|项链;belt|腰带;bracelet|手镯;idol|偶像;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;collarbone|锁骨;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "井村雪菜",
+      "tag": "imura setsuna",
+      "charZh": "井村雪菜（偶像大师）",
+      "auto": "long hair|长发;brown hair|棕发;hairclip|发夹;aqua eyes|水色瞳;green eyes|绿瞳;blue eyes|蓝眼;necklace|项链;frilled shirt|荷叶边衬衫;long sleeves|长袖;nail polish|指甲油;bracelet|手镯;idol|偶像;large breasts|大胸;parted lips|微张嘴;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "齐藤洋子",
+      "tag": "saito yoko",
+      "charZh": "齐藤洋子（偶像大师）",
+      "auto": "short hair|短发;brown hair|棕发;red eyes|红眼;brown eyes|棕瞳;ahoge|呆毛;crop top|露脐上衣;halterneck|挂脖领;idol|偶像;one eye closed|单眼闭合;cleavage|乳沟;large breasts|大胸;medium breasts|中等胸;fishnet thighhighs|渔网过膝袜;navel|肚脐;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "相原雪乃",
+      "tag": "aihara yukino",
+      "charZh": "相原雪乃（偶像大师）",
+      "auto": "brown hair|棕发;very long hair|超长发;hair ribbon|发带;hair flower|发饰花朵;brown eyes|棕瞳;thick eyebrows|浓眉;hat|帽子;thighhighs|过膝袜;choker|项圈;bracelet|手镯;idol|偶像;large breasts|大胸;cleavage|乳沟;fringe trim|流苏饰边",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "江上椿",
+      "tag": "egami tsubaki",
+      "charZh": "江上椿（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;hair flower|发饰花朵;wavy hair|波浪卷发;parted bangs|中分刘海;black eyes|黑瞳;purple eyes|紫瞳;ponytail|马尾;floral print|花卉印花;obi|和服腰带;idol|偶像;one eye closed|单眼闭合;large breasts|大胸;collarbone|锁骨;forehead|额头",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "篠原礼",
+      "tag": "shinohara rei",
+      "charZh": "篠原礼（偶像大师）",
+      "auto": "green eyes|绿瞳;short hair|短发;brown hair|棕发;hair flower|发饰花朵;earrings|耳环;necklace|项链;purple dress|紫色连衣裙;bracelet|手镯;belt|腰带;idol|偶像;large breasts|大胸;cleavage|乳沟;collarbone|锁骨;bare shoulders|露肩;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "凉宫星花",
+      "tag": "suzumiya seika",
+      "charZh": "凉宫星花（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;hair intakes|发流进气口;purple eyes|紫瞳;gloves|手套;musical note print|音符印花;idol|偶像;closed eyes|闭眼;medium breasts|中等胸;cleavage|乳沟;navel|肚脐;violin|小提琴;microphone|麦克风",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "氏家睦",
+      "tag": "ujiie mutsumi",
+      "charZh": "氏家睦（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;blunt bangs|齐刘海;hair over shoulder|头发搭在肩上;grey eyes|灰瞳;blue eyes|蓝眼;earrings|耳环;thighhighs|过膝袜;long sleeves|长袖;frilled sleeves|荷叶边袖子;idol|偶像;one eye closed|单眼闭合",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "小室千奈美",
+      "tag": "komuro chinami",
+      "charZh": "小室千奈美（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳;eyelashes|睫毛;red eyes|红眼;ponytail|马尾;necklace|项链;bracelet|手镯;idol|偶像;medium breasts|中等胸;cleavage|乳沟;navel|肚脐;parted lips|微张嘴;crossed legs|翘腿;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "松原早耶",
+      "tag": "matsubara saya",
+      "charZh": "松原早耶（偶像大师）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红眼;eyelashes|睫毛;earrings|耳环;hat|帽子;frilled dress|荷叶边连衣裙;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;parted lips|微张嘴;lips|嘴唇;:o|O字嘴",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "太田优",
+      "tag": "ohta yuu",
+      "charZh": "太田优（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳;earrings|耳环;necklace|项链;detached sleeves|分离袖;bracelet|手镯;corset|束腰;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;mole on breast|乳痣;dog|狗;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "青木明",
+      "tag": "aoki mei",
+      "charZh": "青木明（偶像大师）",
+      "auto": "long hair|长发;black hair|黑发;brown eyes|棕瞳;grey eyes|灰瞳;necklace|项链;skirt|裙子;raglan sleeves|插肩袖;t-shirt|T恤;belt|腰带;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;star (symbol)|星形符号;photoshop (medium)|Photoshop;hand on own hip|单手叉腰",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "大西由里子",
+      "tag": "ohnishi yuriko",
+      "charZh": "大西由里子（偶像大师）",
+      "auto": "brown hair|棕发;curly hair|卷发;long hair|长发;hair flower|发饰花朵;hair scrunchie|大肠发圈;brown eyes|棕瞳;earrings|耳环;skirt|裙子;striped clothes|条纹衣;bracelet|手镯;idol|偶像;eyebrows|眉毛;one eye closed|单眼闭合;cleavage|乳沟;medium breasts|中等胸;building|建筑物",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "青木圣",
+      "tag": "aoki sei",
+      "charZh": "青木圣（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;black eyes|黑瞳;brown eyes|棕瞳;crop top|露脐上衣;idol|偶像;large breasts|大胸;cleavage|乳沟;navel|肚脐;photoshop (medium)|Photoshop;hand on own hip|单手叉腰;star (symbol)|星形符号;contrapposto|对立式平衡;looking away|视线偏移;imageboard desourced|图站去源;non-web source|非网页来源",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "凯西·格拉汉姆",
+      "tag": "cathy graham",
+      "charZh": "凯西·格拉汉姆（偶像大师）",
+      "auto": "short hair|短发;brown hair|棕发;orange hair|橙发;aqua eyes|水色瞳;blue eyes|蓝眼;thick eyebrows|浓眉;earrings|耳环;thighhighs|过膝袜;ahoge|呆毛;idol|偶像;eyebrows|眉毛;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;zettai ryouiki|绝对领域;star (symbol)|星形符号",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "桐野彩",
+      "tag": "kirino aya",
+      "charZh": "桐野彩（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;very long hair|超长发;single hair bun|单发髻;green hair|绿发;brown eyes|棕瞳;earrings|耳环;dress|连衣裙;bracelet|手镯;black gloves|黑手套;hoodie|连帽衫;idol|偶像;one eye closed|单眼闭合;sleeves pushed up|挽起袖子;star (symbol)|星形符号",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "间中美里",
+      "tag": "manaka misato",
+      "charZh": "间中美里（偶像大师）",
+      "auto": "short hair|短发;brown hair|棕发;hairband|发箍;blue eyes|蓝眼;green eyes|绿瞳;necklace|项链;thighhighs|过膝袜;jacket|夹克;shorts|短裤;belt|腰带;handbag|手提包;idol|偶像;one eye closed|单眼闭合;star (symbol)|星形符号",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "相叶夕美",
+      "tag": "aiba yumi",
+      "charZh": "相叶夕美（偶像大师）",
+      "auto": "short hair|短发;blonde hair|金发;brown hair|棕发;hair flower|发饰花朵;brown eyes|棕瞳;necklace|项链;long sleeves|长袖;floral print|花卉印花;idol|偶像;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐;barefoot|赤脚",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "秋月凉",
+      "tag": "akizuki ryo",
+      "charZh": "秋月凉（偶像大师）",
+      "auto": "short hair|短发;brown hair|棕发;antenna hair|触角状呆毛;green hair|绿发;brown eyes|棕瞳;thighhighs|过膝袜;necklace|项链;wrist cuffs|袖口腕套;ahoge|呆毛;idol|偶像;crossdressing|变装;bare shoulders|露肩;photoshop (medium)|Photoshop;bulge|裆部鼓起;navel|肚脐;greyscale|灰度;sweatdrop|汗滴",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "滨口菖蒲",
+      "tag": "hamaguchi ayame",
+      "charZh": "滨口菖蒲（偶像大师）",
+      "auto": "single hair bun|单发髻;black hair|黑发;blunt bangs|齐刘海;long hair|长发;brown hair|棕发;green eyes|绿瞳;scarf|围巾;ninja|忍者;fingerless gloves|无指手套;kunai|苦无;idol|偶像;short hair|短发;medium breasts|中等胸;cleavage|乳沟;bare shoulders|露肩;navel|肚脐;collarbone|锁骨;kuji-in|九字印;armpits|腋窝",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "姬川友纪",
+      "tag": "himekawa yuki",
+      "charZh": "姬川友纪（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;hairclip|发夹;hair between eyes|眉心垂发;very long hair|超长发;green eyes|绿瞳;short sleeves|短袖;fang|虎牙;crop top|露脐上衣;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;navel|肚脐;collarbone|锁骨;bare shoulders|露肩;sweat|流汗",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "日野茜",
+      "tag": "hino akane (idolmaster)",
+      "charZh": "日野茜（偶像大师）",
+      "auto": "long hair|长发;brown hair|棕发;hair bow|蝴蝶结发饰;orange hair|橙发;hair intakes|发流进气口;wavy hair|波浪卷发;green eyes|绿瞳;aqua eyes|水色瞳;high ponytail|高马尾;pleated skirt|百褶裙;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;ponytail|马尾;large breasts|大胸;navel|肚脐;collarbone|锁骨;:3|猫嘴",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "片桐早苗",
+      "tag": "katagiri sanae",
+      "charZh": "片桐早苗（偶像大师）",
+      "auto": "brown hair|棕发;low twintails|低双马尾;long hair|长发;twintails|双马尾;brown eyes|棕瞳;earrings|耳环;short sleeves|短袖;pencil skirt|铅笔裙;policewoman|女警;idol|偶像;short twintails|短双马尾;short hair|短发;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;navel|肚脐;collarbone|锁骨;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "黑埼千岁",
+      "tag": "kurosaki chitose",
+      "charZh": "黑埼千岁（偶像大师）",
+      "auto": "blonde hair|金发;long hair|长发;very long hair|超长发;hair between eyes|眉心垂发;hair intakes|发流进气口;red eyes|红眼;black hairband|黑色发箍;long sleeves|长袖;nail polish|指甲油;idol|偶像;hairband|发箍;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐;fangs|獠牙",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "莱拉",
+      "tag": "layla (idolmaster)",
+      "charZh": "莱拉（偶像大师）",
+      "auto": "blonde hair|金发;long hair|长发;straight hair|直发;parted bangs|中分刘海;swept bangs|侧分刘海;aqua eyes|水色瞳;blue eyes|蓝眼;dark-skinned female|深肤色女性;long sleeves|长袖;white shirt|白衬衫;idol|偶像",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "的场梨沙",
+      "tag": "matoba risa",
+      "charZh": "的场梨沙（偶像大师）",
+      "auto": "black hair|黑发;twintails|双马尾;long hair|长发;hair between eyes|眉心垂发;very long hair|超长发;yellow eyes|黄瞳;hair ribbon|发带;hair bow|蝴蝶结发饰;heart necklace|心形项链;miniskirt|迷你裙;leopard print|豹纹;idol|偶像;one eye closed|单眼闭合;small breasts|小胸;print ribbon|印花缎带;navel|肚脐;collarbone|锁骨;bare shoulders|露肩;crop top|露脐短衫",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "三船美优",
+      "tag": "mifune miyu",
+      "charZh": "三船美优（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;red hair|红发;ponytail|马尾;brown eyes|棕瞳;red eyes|红眼;white shirt|白衬衫;long sleeves|长袖;idol|偶像;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;collarbone|锁骨;navel|肚脐;bare shoulders|露肩;thighs|大腿;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "三村加奈子",
+      "tag": "mimura kanako",
+      "charZh": "三村加奈子（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳;hair flower|发饰花朵;long sleeves|长袖;idol|偶像;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;plump|微胖;navel|肚脐;sweat|流汗;bare shoulders|露肩;collarbone|锁骨;tareme|下垂眼",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "水本紫",
+      "tag": "mizumoto yukari",
+      "charZh": "水本紫（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;blunt bangs|齐刘海;brown eyes|棕瞳;white shirt|白衬衫;long sleeves|长袖;pleated skirt|百褶裙;blue skirt|蓝裙;idol|偶像;medium breasts|中等胸;cleavage|乳沟;small breasts|小胸;short sleeves|短袖;collarbone|锁骨;bare shoulders|露肩;navel|肚脐;photoshop (medium)|Photoshop",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "向井拓海",
+      "tag": "mukai takumi",
+      "charZh": "向井拓海（偶像大师）",
+      "auto": "long hair|长发;black hair|黑发;brown hair|棕发;parted bangs|中分刘海;green eyes|绿瞳;brown eyes|棕瞳;yellow eyes|黄瞳;idol|偶像;large breasts|大胸;cleavage|乳沟;huge breasts|巨乳;navel|肚脐;collarbone|锁骨;bare shoulders|露肩;thighs|大腿;sweat|流汗;grin|露齿笑;stomach|腹部",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "中野有香",
+      "tag": "nakano yuka",
+      "charZh": "中野有香（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;twintails|双马尾;low twintails|低双马尾;brown eyes|棕瞳;long sleeves|长袖;white shirt|白衬衫;cheerleader|啦啦队员;idol|偶像;medium breasts|中等胸;cleavage|乳沟;small breasts|小胸;navel|肚脐;collarbone|锁骨;bare shoulders|露肩;photoshop (medium)|Photoshop;pom pom (cheerleading)|啦啦队绒球",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "娜塔莉亚",
+      "tag": "natalia (idolmaster)",
+      "charZh": "娜塔莉亚（偶像大师）",
+      "auto": "short hair|短发;black hair|黑发;green hair|绿发;hair between eyes|眉心垂发;medium hair|中长发;purple eyes|紫瞳;dark-skinned female|深肤色女性;necklace|项链;white dress|白色连衣裙;bracelet|手镯;idol|偶像;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;bare shoulders|露肩;navel|肚脐;collarbone|锁骨;armpits|腋窝",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "及川雫",
+      "tag": "oikawa shizuku",
+      "charZh": "及川雫（偶像大师）",
+      "auto": "short hair|短发;brown hair|棕发;brown eyes|棕瞳;cow horns|牛角;cow ears|牛耳;fake animal ears|假兽耳;headset|耳麦;neck bell|颈铃;elbow gloves|过肘手套;cow tail|牛尾;idol|偶像;large breasts|大胸;cleavage|乳沟;huge breasts|巨乳;collarbone|锁骨;navel|肚脐;bare shoulders|露肩;cow print gloves|奶牛纹手套",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "乙仓悠贵",
+      "tag": "otokura yuuki",
+      "charZh": "乙仓悠贵（偶像大师）",
+      "auto": "short hair|短发;grey hair|灰发;hair between eyes|眉心垂发;grey eyes|灰瞳;black eyes|黑瞳;white shirt|白衬衫;long sleeves|长袖;pleated skirt|百褶裙;school uniform|校服;idol|偶像;small breasts|小胸;navel|肚脐;collarbone|锁骨;bare shoulders|露肩;flat chest|平胸",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "龙崎薰",
+      "tag": "ryuzaki kaoru",
+      "charZh": "龙崎薰（偶像大师）",
+      "auto": "short hair|短发;orange hair|橙发;brown hair|棕发;parted bangs|中分刘海;yellow eyes|黄瞳;brown eyes|棕瞳;hairclip|发夹;thick eyebrows|浓眉;long sleeves|长袖;sunflower|向日葵;idol|偶像;short sleeves|短袖;upper teeth only|只露上排牙;forehead|额头;collarbone|锁骨;flat chest|平胸;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "佐城雪美",
+      "tag": "sajo yukimi",
+      "charZh": "佐城雪美（偶像大师）",
+      "auto": "blue hair|蓝发;black hair|黑发;long hair|长发;very long hair|超长发;blunt bangs|齐刘海;red eyes|红眼;cat ears|猫耳;white shirt|白衬衫;black skirt|黑裙;black thighhighs|黑色过膝袜;red ribbon|红色缎带;cat tail|猫尾;idol|偶像;small breasts|小胸;frilled skirt|荷叶边裙;long sleeves|长袖;juliet sleeves|朱丽叶袖;neck ribbon|领口丝带",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "千川千寻",
+      "tag": "senkawa chihiro",
+      "charZh": "千川千寻（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;hair over shoulder|头发搭在肩上;brown eyes|棕瞳;red scrunchie|红色大肠发圈;black pantyhose|黑色连裤袜;white shirt|白衬衫;pencil skirt|铅笔裙;green jacket|绿色夹克;yellow necktie|黄色领带;idol|偶像;hair scrunchie|发圈;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;black skirt|黑色短裙;long sleeves|长袖;office lady|OL",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "白雪千夜",
+      "tag": "shirayuki chiyo",
+      "charZh": "白雪千夜（偶像大师）",
+      "auto": "black hair|黑发;short hair|短发;blunt bangs|齐刘海;bob cut|波波头;purple eyes|紫瞳;black pantyhose|黑色连裤袜;long sleeves|长袖;black shirt|黑色衬衫;pleated skirt|百褶裙;black gloves|黑手套;red neckerchief|红色领巾;black serafuku|黑色水手服;idol|偶像;small breasts|小胸;white sailor collar|白色水手领;collarbone|锁骨;serafuku|水手服;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "鹰富士茄子",
+      "tag": "takafuji kako",
+      "charZh": "鹰富士茄子（偶像大师）",
+      "auto": "black hair|黑发;short hair|短发;yellow eyes|黄瞳;brown eyes|棕瞳;hair bow|蝴蝶结发饰;long sleeves|长袖;necklace|项链;floral print|花卉印花;idol|偶像;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;collarbone|锁骨;navel|肚脐;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "游佐梢",
+      "tag": "yusa kozue",
+      "charZh": "游佐梢（偶像大师）",
+      "auto": "blonde hair|金发;low twintails|低双马尾;long hair|长发;twintails|双马尾;messy hair|凌乱头发;ahoge|呆毛;green eyes|绿瞳;hair bow|蝴蝶结发饰;cat ears|猫耳;cat tail|猫尾;white shirt|白衬衫;idol|偶像;medium hair|中长发;long sleeves|长袖;short sleeves|短袖;thighs|大腿;:o|O字嘴;collarbone|锁骨;flat chest|平胸",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "结城晴",
+      "tag": "yuuki haru",
+      "charZh": "结城晴（偶像大师）",
+      "auto": "orange hair|橙发;long hair|长发;hair between eyes|眉心垂发;medium hair|中长发;brown eyes|棕瞳;purple eyes|紫瞳;hair ribbon|发带;short sleeves|短袖;white shirt|白衬衫;black shorts|黑色短裤;idol|偶像;small breasts|小胸;long sleeves|长袖;navel|肚脐;collarbone|锁骨;bare shoulders|露肩;sweat|流汗;cheerleader|啦啦队员",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "大石泉",
+      "tag": "ohishi izumi",
+      "charZh": "大石泉（偶像大师）",
+      "auto": "long hair|长发;black hair|黑发;green hair|绿发;hair between eyes|眉心垂发;ponytail|马尾;brown eyes|棕瞳;white shirt|白衬衫;blue skirt|蓝裙;pleated skirt|百褶裙;school uniform|校服;idol|偶像;medium breasts|中等胸;cleavage|乳沟;short sleeves|短袖;miniskirt|迷你裙;collarbone|锁骨;navel|肚脐;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "西园寺琴歌",
+      "tag": "saionji kotoka",
+      "charZh": "西园寺琴歌（偶像大师）",
+      "auto": "pink hair|粉发;long hair|长发;twintails|双马尾;very long hair|超长发;hair between eyes|眉心垂发;brown eyes|棕瞳;yellow eyes|黄瞳;hair ribbon|发带;thick eyebrows|浓眉;necklace|项链;idol|偶像;cleavage|乳沟;large breasts|大胸;medium breasts|中等胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "关裕美",
+      "tag": "seki hiromi",
+      "charZh": "关裕美（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;wavy hair|波浪卷发;curly hair|卷发;red eyes|红眼;brown eyes|棕瞳;hair bow|蝴蝶结发饰;long sleeves|长袖;necklace|项链;wrist cuffs|袖口腕套;idol|偶像;small breasts|小胸;medium breasts|中等胸;forehead|额头;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "椎名法子",
+      "tag": "shiina noriko",
+      "charZh": "椎名法子（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;ponytail|马尾;brown eyes|棕瞳;purple eyes|紫瞳;hair scrunchie|大肠发圈;cat ears|猫耳;necklace|项链;skirt|裙子;doughnut|doughnut;idol|偶像;one eye closed|单眼闭合;pink eyes|粉瞳;small breasts|小胸;navel|肚脐;collarbone|锁骨;eating|吃东西;wrist cuffs|腕带",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "白菊萤",
+      "tag": "shiragiku hotaru",
+      "charZh": "白菊萤（偶像大师）",
+      "auto": "short hair|短发;black hair|黑发;purple hair|紫发;brown eyes|棕瞳;purple eyes|紫瞳;earrings|耳环;long sleeves|长袖;white shirt|白衬衫;black gloves|黑手套;idol|偶像;small breasts|小胸;medium breasts|中等胸;short sleeves|短袖;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "高峰诺亚",
+      "tag": "takamine noa",
+      "charZh": "高峰诺亚（偶像大师）",
+      "auto": "grey hair|灰发;long hair|长发;brown eyes|棕瞳;fake animal ears|假兽耳;rabbit ears|兔耳;earrings|耳环;detached sleeves|分离袖;idol|偶像;playboy bunny|兔女郎;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;bare shoulders|露肩;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "若林智香",
+      "tag": "wakabayashi tomoka",
+      "charZh": "若林智香（偶像大师）",
+      "auto": "brown hair|棕发;very long hair|超长发;long hair|长发;orange hair|橙发;ponytail|马尾;brown eyes|棕瞳;hair bow|蝴蝶结发饰;cheerleader|啦啦队员;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;navel|肚脐;armpits|腋窝;sweat|流汗;bare shoulders|露肩;collarbone|锁骨;pom pom (cheerleading)|啦啦队绒球",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "八神牧野",
+      "tag": "yagami makino",
+      "charZh": "八神牧野（偶像大师）",
+      "auto": "long hair|长发;purple hair|紫发;brown hair|棕发;purple eyes|紫瞳;blue eyes|蓝眼;under-rim eyewear|下框眼镜;white shirt|白衬衫;short sleeves|短袖;school uniform|校服;idol|偶像;grey-framed eyewear|灰框眼镜;semi-rimless eyewear|半框眼镜;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "大和亚季",
+      "tag": "yamato aki",
+      "charZh": "大和亚季（偶像大师）",
+      "auto": "long hair|长发;black hair|黑发;swept bangs|侧分刘海;brown hair|棕发;ponytail|马尾;low ponytail|低马尾;green eyes|绿瞳;fingerless gloves|无指手套;dog tags|狗牌;idol|偶像;purple hair|紫发;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;navel|肚脐;collarbone|锁骨;bare shoulders|露肩;grin|露齿笑",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "财前时子",
+      "tag": "zaizen tokiko",
+      "charZh": "财前时子（偶像大师）",
+      "auto": "long hair|长发;brown hair|棕发;red hair|红发;orange hair|橙发;hair between eyes|眉心垂发;brown eyes|棕瞳;earrings|耳环;necklace|项链;elbow gloves|过肘手套;black gloves|黑手套;high heels|高跟鞋;idol|偶像;medium breasts|中等胸;cleavage|乳沟;parted lips|微张嘴;bare shoulders|露肩;navel|肚脐;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "大沼胡桃",
+      "tag": "ohnuma kurumi",
+      "charZh": "大沼胡桃（偶像大师）",
+      "auto": "long hair|长发;black hair|黑发;short bangs|短刘海;brown eyes|棕瞳;hair bow|蝴蝶结发饰;white shirt|白衬衫;long sleeves|长袖;idol|偶像;crying with eyes open|睁着眼落泪;large breasts|大胸;cleavage|乳沟;tears|眼泪;tearing up|含泪;oppai loli|巨乳萝莉;navel|肚脐;hands up|双手举起;thighs|大腿;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "奥山沙织",
+      "tag": "okuyama saori",
+      "charZh": "奥山沙织（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;twintails|双马尾;ahoge|呆毛;brown eyes|棕瞳;hairclip|发夹;hair bow|蝴蝶结发饰;freckles|雀斑;brown-framed eyewear|棕色镜框眼镜;sweater|毛衣;idol|偶像;medium breasts|中等胸;cleavage|乳沟;long sleeves|长袖;bare shoulders|露肩;collarbone|锁骨;photoshop (medium)|Photoshop",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "横山千佳",
+      "tag": "yokoyama chika",
+      "charZh": "横山千佳（偶像大师）",
+      "auto": "twintails|双马尾;long hair|长发;brown hair|棕发;very long hair|超长发;blonde hair|金发;brown eyes|棕瞳;green eyes|绿瞳;hair bow|蝴蝶结发饰;hair bobbles|圆球发圈;magical girl|魔法少女;idol|偶像;light brown hair|浅棕发;one eye closed|单眼闭合;long sleeves|长袖;collarbone|锁骨;flat chest|平胸",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "冈崎泰叶",
+      "tag": "okazaki yasuha",
+      "charZh": "冈崎泰叶（偶像大师）",
+      "auto": "short hair|短发;blue hair|蓝发;blunt bangs|齐刘海;black hair|黑发;purple eyes|紫瞳;brown eyes|棕瞳;white shirt|白衬衫;elbow gloves|过肘手套;idol|偶像;black eyes|黑瞳;medium breasts|中等胸;small breasts|小胸;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "榊原里美",
+      "tag": "sakakibara satomi",
+      "charZh": "榊原里美（偶像大师）",
+      "auto": "grey hair|灰发;long hair|长发;twintails|双马尾;drill hair|钻头卷发;twin drills|双钻头卷发;hair between eyes|眉心垂发;purple eyes|紫瞳;brown eyes|棕瞳;hair bow|蝴蝶结发饰;hairband|发箍;necklace|项链;dress|连衣裙;idol|偶像;large breasts|大胸;cleavage|乳沟;collarbone|锁骨;barefoot|赤脚",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "仙崎惠磨",
+      "tag": "senzaki ema",
+      "charZh": "仙崎惠磨（偶像大师）",
+      "auto": "blonde hair|金发;very short hair|超短发;short hair|短发;pixie cut|精灵短发;red eyes|红眼;brown eyes|棕瞳;earrings|耳环;necklace|项链;bracelet|手镯;nail polish|指甲油;idol|偶像;one eye closed|单眼闭合;ear piercing|耳钉;cleavage|乳沟;medium breasts|中等胸;collarbone|锁骨;grin|露齿笑;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "铃木彩音",
+      "tag": "suzuki ayane",
+      "charZh": "铃木彩音（偶像大师）",
+      "auto": "blonde hair|金发;twintails|双马尾;short hair|短发;red eyes|红眼;brown eyes|棕瞳;hair ribbon|发带;freckles|雀斑;dress|连衣裙;black thighhighs|黑色过膝袜;choker|项圈;idol|偶像;short twintails|短双马尾;one eye closed|单眼闭合;medium breasts|中等胸;large breasts|大胸;thighhighs|大腿袜;photoshop (medium)|Photoshop;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "梅木音叶",
+      "tag": "umeki otoha",
+      "charZh": "梅木音叶（偶像大师）",
+      "auto": "blonde hair|金发;short hair|短发;green eyes|绿瞳;blue eyes|蓝眼;long sleeves|长袖;choker|项圈;idol|偶像;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;collarbone|锁骨;bare shoulders|露肩;navel|肚脐;day|白天",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "胁山珠美",
+      "tag": "wakiyama tamami",
+      "charZh": "胁山珠美（偶像大师）",
+      "auto": "short hair|短发;brown hair|棕发;ahoge|呆毛;brown eyes|棕瞳;yellow eyes|黄瞳;long sleeves|长袖;pleated skirt|百褶裙;detached sleeves|分离袖;hakama skirt|袴裙;shinai|竹刀;idol|偶像;flat chest|平胸;navel|肚脐;sweat|流汗;umbrella|雨伞",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "大原满",
+      "tag": "ohara michiru",
+      "charZh": "大原满（偶像大师）",
+      "auto": "brown hair|棕发;drill hair|钻头卷发;long hair|长发;pink eyes|粉瞳;hair scrunchie|大肠发圈;fang|虎牙;long sleeves|长袖;bread|面包;idol|偶像;small breasts|小胸;:3|猫嘴;eating|吃东西;baguette|法棍",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "冴岛清美",
+      "tag": "saejima kiyomi",
+      "charZh": "冴岛清美（偶像大师）",
+      "auto": "black hair|黑发;short hair|短发;parted bangs|中分刘海;brown hair|棕发;black eyes|黑瞳;brown eyes|棕瞳;v-shaped eyebrows|V形眉;long sleeves|长袖;white shirt|白衬衫;armband|臂章;idol|偶像;short twintails|短双马尾;grey eyes|灰瞳;small breasts|小胸;blue sky|蓝天;day|白天",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "高桥礼子",
+      "tag": "takahashi reiko",
+      "charZh": "高桥礼子（偶像大师）",
+      "auto": "long hair|长发;black hair|黑发;brown hair|棕发;very long hair|超长发;purple eyes|紫瞳;hair flower|发饰花朵;earrings|耳环;necklace|项链;nail polish|指甲油;idol|偶像;large breasts|大胸;cleavage|乳沟;collarbone|锁骨;bare shoulders|露肩;parted lips|微张嘴;star (symbol)|星形符号",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "上田铃帆",
+      "tag": "ueda suzuho",
+      "charZh": "上田铃帆（偶像大师）",
+      "auto": "short hair|短发;brown hair|棕发;red hair|红发;ahoge|呆毛;brown eyes|棕瞳;thighhighs|过膝袜;animal costume|动物装（动物戏服）;idol|偶像;one eye closed|单眼闭合;small breasts|小胸;costume|服装;grin|露齿笑;microphone|麦克风;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "和久井留美",
+      "tag": "wakui rumi",
+      "charZh": "和久井留美（偶像大师）",
+      "auto": "short hair|短发;blue hair|蓝发;black hair|黑发;black eyes|黑瞳;hair flower|发饰花朵;earrings|耳环;necklace|项链;long sleeves|长袖;dress|连衣裙;elbow gloves|过肘手套;white gloves|白手套;idol|偶像;medium breasts|中等胸;bare shoulders|露肩;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "柳清良",
+      "tag": "yanagi kiyora",
+      "charZh": "柳清良（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;long hair|长发;green eyes|绿瞳;brown eyes|棕瞳;nurse cap|护士帽;earrings|耳环;short sleeves|短袖;detached collar|假领;idol|偶像;medium hair|中长发;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;cleavage cutout|乳沟镂空;collarbone|锁骨;navel|肚脐;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "柳濑美由纪",
+      "tag": "yanase miyuki",
+      "charZh": "柳濑美由纪（偶像大师）",
+      "auto": "short hair|短发;brown hair|棕发;black hair|黑发;yellow eyes|黄瞳;brown eyes|棕瞳;hair bobbles|圆球发圈;hair flower|发饰花朵;short sleeves|短袖;long sleeves|长袖;idol|偶像;one eye closed|单眼闭合;small breasts|小胸;forehead|额头;navel|肚脐;double v|双手比V",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "樱井梦子",
+      "tag": "sakurai yumeko",
+      "charZh": "樱井梦子（偶像大师）",
+      "auto": "long hair|长发;brown hair|棕发;green eyes|绿瞳;detached sleeves|分离袖;skirt|裙子;necklace|项链;pleated skirt|百褶裙;candy|糖果;idol|偶像;medium breasts|中等胸;large breasts|大胸;bare shoulders|露肩;striped|条纹;navel|肚脐;star (symbol)|星形符号;photoshop (medium)|Photoshop;parody|恶搞模仿;hand on own hip|单手叉腰;grin|露齿笑",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "杉坂海",
+      "tag": "sugisaka umi",
+      "charZh": "杉坂海（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;very long hair|超长发;ponytail|马尾;blue eyes|蓝眼;hair flower|发饰花朵;earrings|耳环;necklace|项链;bracelet|手镯;idol|偶像;medium breasts|中等胸;large breasts|大胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "东乡爱",
+      "tag": "togo ai",
+      "charZh": "东乡爱（偶像大师）",
+      "auto": "short hair|短发;black hair|黑发;brown eyes|棕瞳;dress|连衣裙;elbow gloves|过肘手套;bracelet|手镯;necktie|领带;belt|腰带;microphone|麦克风;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;star (symbol)|星形符号;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "杨菲菲",
+      "tag": "yao fueifuei",
+      "charZh": "杨菲菲（偶像大师）",
+      "auto": "double bun|双丸子头;black hair|黑发;short hair|短发;purple hair|紫发;green eyes|绿瞳;bun cover|发髻罩;thick eyebrows|浓眉;detached sleeves|分离袖;necklace|项链;bracelet|手镯;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "首藤葵",
+      "tag": "shuto aoi",
+      "charZh": "首藤葵（偶像大师）",
+      "auto": "black hair|黑发;green hair|绿发;long hair|长发;swept bangs|侧分刘海;brown eyes|棕瞳;hairclip|发夹;hair flower|发饰花朵;long sleeves|长袖;apron|围裙;idol|偶像;small breasts|小胸;hands up|双手举起;standing on one leg|单脚站立",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "月宫雅",
+      "tag": "tsukimiya miyabi",
+      "charZh": "月宫雅（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;wavy hair|波浪卷发;brown eyes|棕瞳;hair flower|发饰花朵;hair ribbon|发带;long sleeves|长袖;pink flower|粉色花朵;idol|偶像;one eye closed|单眼闭合;large breasts|大胸;medium breasts|中等胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "矢口美羽",
+      "tag": "yaguchi miu",
+      "charZh": "矢口美羽（偶像大师）",
+      "auto": "black hair|黑发;single hair bun|单发髻;short hair|短发;brown hair|棕发;ponytail|马尾;brown eyes|棕瞳;hair ribbon|发带;hair bow|蝴蝶结发饰;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;bare shoulders|露肩;navel|肚脐;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "吉冈沙纪",
+      "tag": "yoshioka saki",
+      "charZh": "吉冈沙纪（偶像大师）",
+      "auto": "short hair|短发;brown hair|棕发;orange hair|橙发;hair between eyes|眉心垂发;green eyes|绿瞳;white shirt|白衬衫;long sleeves|长袖;fingerless gloves|无指手套;belt|腰带;idol|偶像;medium breasts|中等胸;cleavage|乳沟;collarbone|锁骨;navel|肚脐;grin|露齿笑;skeb commission|Skeb约稿",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "濑名诗织",
+      "tag": "sena shiori (idolmaster)",
+      "charZh": "濑名诗织（偶像大师）",
+      "auto": "long hair|长发;black hair|黑发;brown eyes|棕瞳;hat|帽子;sun hat|遮阳帽;dress|连衣裙;sleeveless dress|无袖连衣裙;necklace|项链;choker|项圈;bracelet|手镯;idol|偶像;cleavage|乳沟;medium breasts|中等胸;collarbone|锁骨;bare shoulders|露肩;ocean|海洋",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "相马夏美",
+      "tag": "soma natsumi",
+      "charZh": "相马夏美（偶像大师）",
+      "auto": "black hair|黑发;long hair|长发;brown hair|棕发;green eyes|绿瞳;hat|帽子;short sleeves|短袖;long sleeves|长袖;necklace|项链;white gloves|白手套;idol|偶像;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;collarbone|锁骨;airplane|飞机;forehead|额头",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "土屋亚子",
+      "tag": "tsuchiya ako",
+      "charZh": "土屋亚子（偶像大师）",
+      "auto": "brown hair|棕发;short hair|短发;ahoge|呆毛;green eyes|绿瞳;hairclip|发夹;mole|痣;red-framed eyewear|红框眼镜;school uniform|校服;bracelet|手镯;idol|偶像;brown-framed eyewear|棕色框眼镜;over-rim eyewear|上半框眼镜;large breasts|大胸;cleavage|乳沟",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "泽田麻理菜",
+      "tag": "sawada marina",
+      "charZh": "泽田麻理菜（偶像大师）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳;necklace|项链;bracelet|手镯;crop top|露脐上衣;surfboard|冲浪板;idol|偶像;large breasts|大胸;cleavage|乳沟;navel|肚脐;day|白天;wet|湿;armpits|腋窝",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "日高舞",
+      "tag": "hidaka mai",
+      "charZh": "日高舞（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;antenna hair|触角呆毛;red eyes|红瞳;brown eyes|棕瞳;ponytail|马尾;large breasts|大胸;cleavage|乳沟;parody|恶搞模仿;photoshop (medium)|Photoshop;bare shoulders|露肩;grin|露齿笑;day|白天;sword|长剑",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "伊集院惠",
+      "tag": "ijuin megumi",
+      "charZh": "伊集院惠（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;very long hair|超长发;brown eyes|棕瞳;cleavage|乳沟;medium breasts|中等胸;necklace|项链;fringe trim|流苏饰边;belt|腰带;bracelet|手链;cloudy sky|多云天空;bag|包;crossed legs|翘腿;night sky|夜空",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "岸部彩华",
+      "tag": "kishibe ayaka",
+      "charZh": "岸部彩华（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;hair flower|发花;blue eyes|蓝瞳;one eye closed|单眼闭合;mole under eye|眼下泪痣;cleavage|乳沟;medium breasts|中等胸;earrings|耳环;large breasts|大胸;necklace|项链;detached sleeves|分离袖;;o|眨眼张嘴表情;confetti|彩纸",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "青木丽",
+      "tag": "aoki rei",
+      "charZh": "青木丽（偶像大师）",
+      "auto": "1girl|单人女性;hairclip|发夹;black hair|黑发;short hair|短发;black eyes|黑瞳;brown eyes|棕瞳;ponytail|马尾;medium breasts|中等胸;necklace|项链;water bottle|水瓶;whistle|哨子;hand on own hip|单手叉腰;shinai|竹刀;photoshop (medium)|Photoshop;bracelet|手链",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "荒木比奈",
+      "tag": "araki hina",
+      "charZh": "荒木比奈（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;messy hair|凌乱发;short hair|短发;brown eyes|棕瞳;under-rim eyewear|下框眼镜;black-framed eyewear|黑框眼镜;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;long sleeves|长袖;ahoge|呆毛;track jacket|运动外套;collarbone|锁骨;green jacket|绿色夹克",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "绫濑穗乃香",
+      "tag": "ayase honoka",
+      "charZh": "绫濑穗乃香（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;parted bangs|中分刘海;black pantyhose|黑色连裤袜;brown eyes|棕瞳;yellow eyes|黄瞳;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;ponytail|马尾;long sleeves|长袖;blue shirt|蓝衬衫;short sleeves|短袖;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "藤原肇",
+      "tag": "fujiwara hajime",
+      "charZh": "藤原肇（偶像大师）",
+      "auto": "1girl|单人女性;long hair|长发;black hair|黑发;hair between eyes|眼间发;brown hair|棕发;hair flower|发花;brown eyes|棕瞳;purple eyes|紫瞳;red eyes|红瞳;medium breasts|中等胸;cleavage|乳沟;earrings|耳环;long sleeves|长袖;collarbone|锁骨;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "福山舞",
+      "tag": "fukuyama mai",
+      "charZh": "福山舞（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;long hair|长发;hair bow|蝴蝶结发饰;hair scrunchie|发圈;black eyes|黑瞳;ponytail|马尾;high ponytail|高马尾;long sleeves|长袖;blue dress|蓝色连衣裙;flat chest|平胸;collarbone|锁骨;navel|肚脐;child|儿童;greyscale|灰度",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "日高爱",
+      "tag": "hidaka ai",
+      "charZh": "日高爱（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;antenna hair|触角呆毛;brown eyes|棕瞳;red eyes|红瞳;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;small breasts|小胸;skirt|半身裙;ahoge|呆毛;photoshop (medium)|Photoshop;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "堀裕子",
+      "tag": "hori yuko",
+      "charZh": "堀裕子（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;hair bow|蝴蝶结发饰;long hair|长发;hair between eyes|眼间发;hair scrunchie|发圈;red eyes|红瞳;brown eyes|棕瞳;ponytail|马尾;medium breasts|中等胸;high ponytail|高马尾;cleavage|乳沟;short ponytail|短马尾;long sleeves|长袖;necklace|项链",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "池袋晶叶",
+      "tag": "ikebukuro akiha",
+      "charZh": "池袋晶叶（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;twintails|双马尾;long hair|长发;blunt bangs|齐刘海;hair ribbon|发带;hair bow|蝴蝶结发饰;brown eyes|棕瞳;pink-framed eyewear|粉框眼镜;under-rim eyewear|下框眼镜;red-framed eyewear|红框眼镜;small breasts|小胸;long sleeves|长袖;blue skirt|蓝裙;red ribbon|红色缎带",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "今井加奈",
+      "tag": "imai kana",
+      "charZh": "今井加奈（偶像大师）",
+      "auto": "1girl|单人女性;twintails|双马尾;brown hair|棕发;hair bow|蝴蝶结发饰;hair ribbon|发带;long hair|长发;brown eyes|棕瞳;medium breasts|中等胸;short sleeves|短袖;white shirt|白衬衫;pleated skirt|百褶裙;skirt|半身裙;blue skirt|蓝裙;serafuku|水手服;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "川岛瑞树",
+      "tag": "kawashima mizuki",
+      "charZh": "川岛瑞树（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;brown eyes|棕瞳;one eye closed|单眼闭合;cleavage|乳沟;ponytail|马尾;medium breasts|中等胸;large breasts|大胸;earrings|耳环;necklace|项链;hat|帽子;photoshop (medium)|Photoshop;navel|肚脐;bracelet|手链",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "木村夏树",
+      "tag": "kimura natsuki",
+      "charZh": "木村夏树（偶像大师）",
+      "auto": "1girl|单人女性;short hair|短发;brown hair|棕发;hair between eyes|眼间发;green eyes|绿瞳;one eye closed|单眼闭合;earrings|耳环;medium breasts|中等胸;cleavage|乳沟;ear piercing|耳钉;necklace|项链;collarbone|锁骨;navel|肚脐;fingerless gloves|露指手套;nail polish|指甲油",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "桐生司",
+      "tag": "kiryu tsukasa (idolmaster)",
+      "charZh": "桐生司（偶像大师）",
+      "auto": "1girl|单人女性;blonde hair|金发;long hair|长发;wavy hair|波浪发;hair intakes|内卷发;parted bangs|中分刘海;hair ribbon|发带;hair bow|蝴蝶结发饰;purple eyes|紫瞳;earrings|耳环;medium breasts|中等胸;cleavage|乳沟;ponytail|马尾;large breasts|大胸;necklace|项链",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "喜多见柚",
+      "tag": "kitami yuzu",
+      "charZh": "喜多见柚（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;blunt bangs|齐刘海;brown eyes|棕瞳;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;long sleeves|长袖;pleated skirt|百褶裙;white shirt|白衬衫;collarbone|锁骨;tongue out|吐舌;navel|肚脐;school uniform|校服",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "日下部若叶",
+      "tag": "kusakabe wakaba",
+      "charZh": "日下部若叶（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;wavy hair|波浪发;hair bow|蝴蝶结发饰;very long hair|超长发;parted bangs|中分刘海;twintails|双马尾;hair flower|发花;green eyes|绿瞳;thick eyebrows|浓眉;one eye closed|单眼闭合;small breasts|小胸;long sleeves|长袖;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "水木圣来",
+      "tag": "mizuki seira",
+      "charZh": "水木圣来（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;asymmetrical bangs|不对称刘海;brown eyes|棕瞳;one eye closed|单眼闭合;medium breasts|中等胸;earrings|耳环;cleavage|乳沟;large breasts|大胸;rabbit ears|兔耳;long sleeves|长袖;navel|肚脐;collarbone|锁骨;crop top|露脐短衫",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "水谷绘理",
+      "tag": "mizutani eri",
+      "charZh": "水谷绘理（偶像大师）",
+      "auto": "1girl|单人女性;blue hair|蓝发;short hair|短发;hairclip|发夹;black hair|黑发;blue eyes|蓝瞳;medium breasts|中等胸;cleavage|乳沟;cat ears|猫耳;skirt|半身裙;thighhighs|大腿袜;photoshop (medium)|Photoshop;school uniform|校服;bare shoulders|露肩;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "望月圣",
+      "tag": "mochizuki hijiri",
+      "charZh": "望月圣（偶像大师）",
+      "auto": "1girl|单人女性;blonde hair|金发;long hair|长发;parted bangs|中分刘海;very long hair|超长发;red eyes|红瞳;medium breasts|中等胸;cleavage|乳沟;long sleeves|长袖;white shirt|白衬衫;navel|肚脐;collarbone|锁骨;bare shoulders|露肩;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "栋方爱海",
+      "tag": "munakata atsumi",
+      "charZh": "栋方爱海（偶像大师）",
+      "auto": "1girl|单人女性;double bun|双丸子头;brown hair|棕发;short hair|短发;long hair|长发;purple eyes|紫瞳;one eye closed|单眼闭合;brown eyes|棕瞳;pink eyes|粉瞳;small breasts|小胸;bow|蝴蝶结;dress|连衣裙;navel|肚脐;collarbone|锁骨;choker|颈圈",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "村上巴",
+      "tag": "murakami tomoe",
+      "charZh": "村上巴（偶像大师）",
+      "auto": "1girl|单人女性;red hair|红发;short hair|短发;hair between eyes|眼间发;hair flower|发花;brown eyes|棕瞳;red eyes|红瞳;v-shaped eyebrows|V型眉;small breasts|小胸;collarbone|锁骨;open jacket|敞开的夹克;floral print|花卉印花;obi|和服腰带;navel|肚脐;letterman jacket|棒球外套",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "成宫由爱",
+      "tag": "narumiya yume",
+      "charZh": "成宫由爱（偶像大师）",
+      "auto": "1girl|单人女性;grey hair|灰发;short hair|短发;antenna hair|触角呆毛;hairband|发箍;hair between eyes|眼间发;hair flower|发花;wavy hair|波浪发;mole under eye|眼下泪痣;brown eyes|棕瞳;red eyes|红瞳;long sleeves|长袖;blue dress|蓝色连衣裙;white shirt|白衬衫;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "克拉丽丝",
+      "tag": "clarice (idolmaster)",
+      "charZh": "克拉丽丝（偶像大师）",
+      "auto": "1girl|单人女性;blonde hair|金发;long hair|长发;hair ribbon|发带;hair between eyes|眼间发;hair bow|蝴蝶结发饰;closed eyes|闭眼;medium breasts|中等胸;large breasts|大胸;cleavage|乳沟;long sleeves|长袖;white shirt|白衬衫;brooch|胸针;habit|修女服;^ ^|闭眼笑",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "道明寺歌铃",
+      "tag": "domyoji karin",
+      "charZh": "道明寺歌铃（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;messy hair|凌乱发;antenna hair|触角呆毛;hair bow|蝴蝶结发饰;red eyes|红瞳;brown eyes|棕瞳;medium breasts|中等胸;ponytail|马尾;hakama skirt|袴裙;detached sleeves|分离袖;miko|巫女服;red hakama|绯袴;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "海老原菜帆",
+      "tag": "ebihara naho",
+      "charZh": "海老原菜帆（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;long hair|长发;single hair bun|单发髻;hair scrunchie|发圈;green eyes|绿瞳;thick eyebrows|浓眉;large breasts|大胸;cleavage|乳沟;ponytail|马尾;necklace|项链;collarbone|锁骨;navel|肚脐;sweat|流汗;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "伊芙·桑塔克劳斯",
+      "tag": "eve santaclaus",
+      "charZh": "伊芙·桑塔克劳斯（偶像大师）",
+      "auto": "1girl|单人女性;long hair|长发;white hair|白发;yellow eyes|黄瞳;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;santa hat|圣诞帽;red hat|红帽子;navel|肚脐;collarbone|锁骨;reindeer|驯鹿;bare shoulders|露肩;christmas|圣诞节;santa costume|圣诞装",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "藤居朋",
+      "tag": "fujii tomo",
+      "charZh": "藤居朋（偶像大师）",
+      "auto": "1girl|单人女性;long hair|长发;green hair|绿发;hair bow|蝴蝶结发饰;wavy hair|波浪发;blunt bangs|齐刘海;black hair|黑发;twintails|双马尾;brown eyes|棕瞳;yellow eyes|黄瞳;ponytail|马尾;cleavage|乳沟;small breasts|小胸;high ponytail|高马尾;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "藤本里奈",
+      "tag": "fujimoto rina",
+      "charZh": "藤本里奈（偶像大师）",
+      "auto": "1girl|单人女性;blonde hair|金发;long hair|长发;very long hair|超长发;hairband|发箍;grey eyes|灰瞳;one eye closed|单眼闭合;earrings|耳环;medium breasts|中等胸;cleavage|乳沟;ear piercing|耳钉;necklace|项链;nail polish|指甲油;navel|肚脐;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "原田美世",
+      "tag": "harada miyo",
+      "charZh": "原田美世（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;short hair|短发;brown hair|棕发;long hair|长发;green eyes|绿瞳;ponytail|马尾;cleavage|乳沟;large breasts|大胸;medium breasts|中等胸;striped clothes|条纹衣;necklace|项链;navel|肚脐;striped bikini|条纹比基尼;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "上条春菜",
+      "tag": "kamijo haruna",
+      "charZh": "上条春菜（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;short hair|短发;brown hair|棕发;long hair|长发;brown eyes|棕瞳;pink-framed eyewear|粉框眼镜;yellow eyes|黄瞳;adjusting eyewear|推眼镜;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;hat|帽子;long sleeves|长袖;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "喜多日菜子",
+      "tag": "kita hinako",
+      "charZh": "喜多日菜子（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;hair between eyes|眼间发;brown eyes|棕瞳;medium breasts|中等胸;long sleeves|长袖;hat|帽子;white shirt|白衬衫;necklace|项链;pleated skirt|百褶裙;short sleeves|短袖;collarbone|锁骨;furrowed brow|皱眉;beret|贝雷帽",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "古贺小春",
+      "tag": "koga koharu",
+      "charZh": "古贺小春（偶像大师）",
+      "auto": "1girl|单人女性;short hair|短发;brown hair|棕发;hair bow|蝴蝶结发饰;hair between eyes|眼间发;blonde hair|金发;light brown hair|浅棕发;brown eyes|棕瞳;frilled dress|荷叶边裙;short sleeves|短袖;collarbone|锁骨;flat chest|平胸;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "小松伊吹",
+      "tag": "komatsu ibuki",
+      "charZh": "小松伊吹（偶像大师）",
+      "auto": "1girl|单人女性;orange hair|橙发;brown hair|棕发;twintails|双马尾;short hair|短发;hair scrunchie|发圈;low twintails|低双马尾;brown eyes|棕瞳;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;earrings|耳环;ponytail|马尾;necklace|项链",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "小关丽奈",
+      "tag": "koseki reina",
+      "charZh": "小关丽奈（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;purple eyes|紫瞳;small breasts|小胸;striped clothes|条纹衣;striped thighhighs|条纹过膝袜;skirt|半身裙;long sleeves|长袖;navel|肚脐;grin|露齿笑;collarbone|锁骨;belt|腰带;fang|虎牙;forehead|额头",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "黑川千秋",
+      "tag": "kurokawa chiaki",
+      "charZh": "黑川千秋（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;long hair|长发;blunt bangs|齐刘海;brown eyes|棕瞳;cleavage|乳沟;medium breasts|中等胸;large breasts|大胸;necklace|项链;dress|连衣裙;collarbone|锁骨;bare shoulders|露肩;navel|肚脐;armpits|腋窝;bracelet|手链",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "松永凉",
+      "tag": "matsunaga ryo",
+      "charZh": "松永凉（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;very long hair|超长发;brown eyes|棕瞳;earrings|耳环;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;ponytail|马尾;necklace|项链;white shirt|白衬衫;navel|肚脐;collarbone|锁骨;forehead|额头",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "松尾千鹤",
+      "tag": "matsuo chizuru",
+      "charZh": "松尾千鹤（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;short hair|短发;hairclip|发夹;swept bangs|侧分刘海;black pantyhose|黑色连裤袜;thick eyebrows|浓眉;purple eyes|紫瞳;black eyes|黑瞳;eyebrows|眉毛;small breasts|小胸;long sleeves|长袖;white shirt|白衬衫;collared shirt|翻领衬衫;pleated skirt|百褶裙",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "三好纱南",
+      "tag": "miyoshi sana",
+      "charZh": "三好纱南（偶像大师）",
+      "auto": "1girl|单人女性;long hair|长发;black hair|黑发;hairclip|发夹;twintails|双马尾;purple hair|紫发;very long hair|超长发;brown eyes|棕瞳;black eyes|黑瞳;one eye closed|单眼闭合;small breasts|小胸;navel|肚脐;bare shoulders|露肩;hoodie|连帽卫衣;game controller|游戏手柄",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "南条光",
+      "tag": "nanjo hikaru",
+      "charZh": "南条光（偶像大师）",
+      "auto": "1girl|单人女性;long hair|长发;black hair|黑发;green hair|绿发;blue eyes|蓝瞳;small breasts|小胸;scarf|围巾;long sleeves|长袖;ahoge|呆毛;belt|腰带;collarbone|锁骨;fingerless gloves|露指手套;bare shoulders|露肩;grin|露齿笑;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "美城常务",
+      "tag": "executive mishiro",
+      "charZh": "美城常务（偶像大师）",
+      "auto": "1girl|单人女性;long hair|长发;black hair|黑发;hair pulled back|后梳发型;pantyhose|连裤袜;green eyes|绿瞳;earrings|耳环;ponytail|马尾;large breasts|大胸;cleavage|乳沟;high ponytail|高马尾;necklace|项链;skirt suit|西服裙套装;photoshop (medium)|Photoshop;mature female|成熟女性",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "兵藤丽奈",
+      "tag": "hyodo rena",
+      "charZh": "兵藤丽奈（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;brown eyes|棕瞳;yellow eyes|黄瞳;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;ponytail|马尾;earrings|耳环;rabbit ears|兔耳;miniskirt|迷你裙;navel|肚脐;collarbone|锁骨;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "玛丽·科克兰",
+      "tag": "mary cochran",
+      "charZh": "玛丽·科克兰（偶像大师）",
+      "auto": "1girl|单人女性;blonde hair|金发;twintails|双马尾;long hair|长发;hair bow|蝴蝶结发饰;blunt bangs|齐刘海;hair ribbon|发带;aqua eyes|青绿色眼睛;green eyes|绿瞳;one eye closed|单眼闭合;blue eyes|蓝瞳;skirt|半身裙;navel|肚脐;collarbone|锁骨;wrist cuffs|腕带",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "松本沙理奈",
+      "tag": "matsumoto sarina",
+      "charZh": "松本沙理奈（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;parted bangs|中分刘海;very long hair|超长发;blue eyes|蓝瞳;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;long sleeves|长袖;necklace|项链;bare shoulders|露肩;collarbone|锁骨;navel|肚脐;blue bikini|蓝色比基尼",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "持田亚里沙",
+      "tag": "mochida arisa",
+      "charZh": "持田亚里沙（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;hair scrunchie|发圈;swept bangs|侧分刘海;hair over shoulder|披肩发;brown eyes|棕瞳;low ponytail|低马尾;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;long sleeves|长袖;hand puppet|手偶;collarbone|锁骨;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "长富莲实",
+      "tag": "nagatomi hasumi",
+      "charZh": "长富莲实（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;hairband|发箍;hair bow|蝴蝶结发饰;medium hair|中长发;brown eyes|棕瞳;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;earrings|耳环;puffy short sleeves|泡泡短袖;dress|连衣裙;collarbone|锁骨;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "羽田梨沙",
+      "tag": "haneda risa",
+      "charZh": "羽田梨沙（偶像大师）",
+      "auto": "1girl|单人女性;brown eyes|棕瞳;brown hair|棕发;long hair|长发;large breasts|大胸;cleavage|乳沟;dress shirt|正装衬衫;open shirt|敞开的衬衫;undressing|正在脱衣;school bag|书包;red bra|红色胸罩;arm support|手臂支撑;bare legs|裸腿;barefoot|赤脚;bent over|弯腰",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "林裕真",
+      "tag": "im yujin",
+      "charZh": "林裕真（偶像大师）",
+      "auto": "1girl|单人女性;ahoge|呆毛;brown hair|棕发;short hair|短发;brown eyes|棕瞳;one eye closed|单眼闭合;bowtie|领结;skirt|半身裙;korean clothes|韩式传统服装;winter clothes|冬装;school uniform|校服;blouse|雪纺衫;photoshop (medium)|Photoshop;boots|靴子",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "青木庆",
+      "tag": "aoki kei",
+      "charZh": "青木庆（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;hairclip|发夹;long hair|长发;hair over shoulder|披肩发;brown eyes|棕瞳;black eyes|黑瞳;ponytail|马尾;medium breasts|中等胸;small breasts|小胸;shirt lift|掀起上衣;wristband|腕带;navel|肚脐;stopwatch|秒表;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "浅野风香",
+      "tag": "asano fuka",
+      "charZh": "浅野风香（偶像大师）",
+      "auto": "1girl|单人女性;short hair|短发;black hair|黑发;low twintails|低双马尾;hair bow|蝴蝶结发饰;brown hair|棕发;hair ribbon|发带;brown eyes|棕瞳;large breasts|大胸;cleavage|乳沟;huge breasts|巨乳;long sleeves|长袖;white shirt|白衬衫;pleated skirt|百褶裙;jimiko|地味女",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "柊志乃",
+      "tag": "hiiragi shino",
+      "charZh": "柊志乃（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;long hair|长发;parted bangs|中分刘海;straight hair|直发;very long hair|超长发;brown hair|棕发;brown eyes|棕瞳;cleavage|乳沟;large breasts|大胸;earrings|耳环;medium breasts|中等胸;necklace|项链;long sleeves|长袖;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "木场真奈美",
+      "tag": "kiba manami",
+      "charZh": "木场真奈美（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;hair between eyes|眼间发;green eyes|绿瞳;cleavage|乳沟;large breasts|大胸;earrings|耳环;necklace|项链;collarbone|锁骨;belt|腰带;navel|肚脐;bare shoulders|露肩;star (symbol)|星形符号",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "槙原志保",
+      "tag": "makihara shiho",
+      "charZh": "槙原志保（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;hair ribbon|发带;green eyes|绿瞳;one eye closed|单眼闭合;large breasts|大胸;ponytail|马尾;cleavage|乳沟;long sleeves|长袖;short sleeves|短袖;collarbone|锁骨;bare shoulders|露肩;from behind|背面视角",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "桃井小豆",
+      "tag": "momoi azuki",
+      "charZh": "桃井小豆（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;long hair|长发;single hair bun|单发髻;hair flower|发花;brown hair|棕发;brown eyes|棕瞳;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;large breasts|大胸;long sleeves|长袖;kimono|和服;navel|肚脐;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "朱妮",
+      "tag": "juney",
+      "charZh": "朱妮（偶像大师）",
+      "auto": "1girl|单人女性;blue hair|蓝发;long hair|长发;green eyes|绿瞳;adjusting clothes|整理衣物;necklace|项链;bad link|错误链接;navel|肚脐;adjusting shoe|调整鞋子;jeans|牛仔裤;gloves|手套;headset|耳麦;armpits|腋窝;arms up|举手",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "安斋都",
+      "tag": "anzai miyako",
+      "charZh": "安斋都（偶像大师）",
+      "auto": "1girl|单人女性;red hair|红发;short hair|短发;hairclip|发夹;blue eyes|蓝瞳;thick eyebrows|浓眉;v-shaped eyebrows|V型眉;one eye closed|单眼闭合;eyebrows|眉毛;small breasts|小胸;brown footwear|棕色鞋靴;long sleeves|长袖;white shirt|白衬衫;collared shirt|翻领衬衫;neck ribbon|领口丝带",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "工藤忍",
+      "tag": "kudo shinobu",
+      "charZh": "工藤忍（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;hairband|发箍;blue eyes|蓝瞳;one eye closed|单眼闭合;medium breasts|中等胸;long sleeves|长袖;striped clothes|条纹衣;skirt|半身裙;hat|帽子;bob cut|波波头;collarbone|锁骨;non-web source|非网页来源;mirror|镜子",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "栗原宁宁",
+      "tag": "kurihara nene",
+      "charZh": "栗原宁宁（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;long hair|长发;swept bangs|侧分刘海;asymmetrical bangs|不对称刘海;brown hair|棕发;blue eyes|蓝瞳;black eyes|黑瞳;medium breasts|中等胸;earrings|耳环;necklace|项链;detached sleeves|分离袖;bare shoulders|露肩;bracelet|手链;photoshop (medium)|Photoshop",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "村松樱",
+      "tag": "muramatsu sakura",
+      "charZh": "村松樱（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short twintails|短双马尾;hairband|发箍;low twintails|低双马尾;short hair|短发;hair bow|蝴蝶结发饰;parted bangs|中分刘海;pink hairband|粉色发箍;eyebrows|眉毛;pink eyes|粉瞳;one eye closed|单眼闭合;brown eyes|棕瞳;ribbon|丝带;skirt|半身裙",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "丹羽仁美",
+      "tag": "niwa hitomi",
+      "charZh": "丹羽仁美（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;short hair|短发;hair flower|发花;green hair|绿发;blunt bangs|齐刘海;black eyes|黑瞳;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;long sleeves|长袖;necklace|项链;navel|肚脐;camellia|山茶花;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "卫藤美纱希",
+      "tag": "etou misaki (idolmaster)",
+      "charZh": "卫藤美纱希（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;hair flower|发花;green eyes|绿瞳;earrings|耳环;medium breasts|中等胸;cleavage|乳沟;necklace|项链;bare shoulders|露肩;collarbone|锁骨;bracelet|手链;nail polish|指甲油;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "海伦",
+      "tag": "helen (idolmaster)",
+      "charZh": "海伦（偶像大师）",
+      "auto": "1girl|单人女性;long hair|长发;black hair|黑发;green eyes|绿瞳;one eye closed|单眼闭合;cleavage|乳沟;large breasts|大胸;earrings|耳环;medium breasts|中等胸;necklace|项链;navel|肚脐;crop top|露脐短衫;bracelet|手链;hand on own hip|单手叉腰;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "松山久美子",
+      "tag": "matsuyama kumiko",
+      "charZh": "松山久美子（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;parted bangs|中分刘海;very long hair|超长发;green eyes|绿瞳;blue eyes|蓝瞳;medium breasts|中等胸;cleavage|乳沟;ponytail|马尾;large breasts|大胸;navel|肚脐;collarbone|锁骨;microphone|麦克风;armpits|腋窝",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "水野翠",
+      "tag": "mizuno midori",
+      "charZh": "水野翠（偶像大师）",
+      "auto": "1girl|单人女性;black hair|黑发;long hair|长发;parted bangs|中分刘海;hair ribbon|发带;pink eyes|粉瞳;brown eyes|棕瞳;ponytail|马尾;medium breasts|中等胸;cleavage|乳沟;necklace|项链;pleated skirt|百褶裙;serafuku|水手服;crop top|露脐短衫;muneate|弓道护胸",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "难波笑美",
+      "tag": "namba emi",
+      "charZh": "难波笑美（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;hairclip|发夹;wavy hair|波浪发;green eyes|绿瞳;one eye closed|单眼闭合;medium breasts|中等胸;cleavage|乳沟;long sleeves|长袖;skirt|半身裙;collarbone|锁骨;grin|露齿笑;star (symbol)|星形符号;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "并木芽衣子",
+      "tag": "namiki meiko",
+      "charZh": "并木芽衣子（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;wavy hair|波浪发;brown eyes|棕瞳;one eye closed|单眼闭合;cleavage|乳沟;medium breasts|中等胸;large breasts|大胸;rabbit ears|兔耳;hat|帽子;necklace|项链;bare shoulders|露肩;bracelet|手链;wrist cuffs|腕带",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "西岛櫂",
+      "tag": "nishijima kai",
+      "charZh": "西岛櫂（偶像大师）",
+      "auto": "1girl|单人女性;short hair|短发;brown hair|棕发;flipped hair|外翘发;brown eyes|棕瞳;eyelashes|睫毛;large breasts|大胸;cleavage|乳沟;medium breasts|中等胸;ahoge|呆毛;navel|肚脐;collarbone|锁骨;crop top|露脐短衫;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "野野村空",
+      "tag": "nonomura sora",
+      "charZh": "野野村空（偶像大师）",
+      "auto": "1girl|单人女性;twintails|双马尾;long hair|长发;brown hair|棕发;drill hair|钻头卷;black hair|黑发;green eyes|绿瞳;one eye closed|单眼闭合;cleavage|乳沟;large breasts|大胸;medium breasts|中等胸;;d|眨眼吐舌(;d);navel|肚脐;belt|腰带",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "武内P",
+      "tag": "producer (idolmaster cinderella girls anime)",
+      "charZh": "武内P（偶像大师）",
+      "auto": "1boy|单人男性;black hair|黑发;brown hair|棕发;long hair|长发;short hair|短发;black eyes|黑瞳;green eyes|绿瞳;medium breasts|中等胸;cleavage|乳沟;long sleeves|长袖;white shirt|白衬衫;necktie|领带;suit|西装;character doll|角色玩偶;shibuya rin|涩谷凛",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "爱野渚",
+      "tag": "aino nagisa",
+      "charZh": "爱野渚（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;hair bow|蝴蝶结发饰;hair ribbon|发带;very long hair|超长发;brown eyes|棕瞳;ponytail|马尾;medium breasts|中等胸;cleavage|乳沟;navel|肚脐;collarbone|锁骨;crop top|露脐短衫;bare shoulders|露肩;basketball (object)|篮球",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "古泽赖子",
+      "tag": "furusawa yoriko",
+      "charZh": "古泽赖子（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;hairband|发箍;hair flower|发花;hair between eyes|眼间发;blue eyes|蓝瞳;mole under eye|眼下泪痣;red-framed eyewear|红框眼镜;cleavage|乳沟;skirt|半身裙;elbow gloves|长筒手套;collarbone|锁骨;white gloves|白色手套;mole|痣",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "服部瞳子",
+      "tag": "hattori toko",
+      "charZh": "服部瞳子（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;very long hair|超长发;hair flower|发花;brown eyes|棕瞳;cleavage|乳沟;medium breasts|中等胸;earrings|耳环;large breasts|大胸;necklace|项链;collarbone|锁骨;dated|日期标注;tree|树;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "北川真寻",
+      "tag": "kitagawa mahiro",
+      "charZh": "北川真寻（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;brown eyes|棕瞳;one eye closed|单眼闭合;orange-framed eyewear|橙框眼镜;red-framed eyewear|红框眼镜;small breasts|小胸;navel|肚脐;collarbone|锁骨;fingerless gloves|露指手套;grin|露齿笑;black shorts|黑色短裤;tree|树;bike shorts|骑行裤",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "真锅伊月",
+      "tag": "manabe itsuki",
+      "charZh": "真锅伊月（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;blonde hair|金发;brown eyes|棕瞳;pink eyes|粉瞳;ponytail|马尾;medium breasts|中等胸;large breasts|大胸;white shirt|白衬衫;crop top|露脐短衫;navel|肚脐;bike shorts|骑行裤;collarbone|锁骨;forehead|额头;star (symbol)|星形符号",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "西川保奈美",
+      "tag": "nishikawa honami",
+      "charZh": "西川保奈美（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;black hair|黑发;hair flower|发花;swept bangs|侧分刘海;green eyes|绿瞳;earrings|耳环;large breasts|大胸;medium breasts|中等胸;cleavage|乳沟;blue dress|蓝色连衣裙;elbow gloves|长筒手套;bare shoulders|露肩;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "相川千夏",
+      "tag": "aikawa chinatsu",
+      "charZh": "相川千夏（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;red-framed eyewear|红框眼镜;brown eyes|棕瞳;green eyes|绿瞳;black-framed eyewear|黑框眼镜;medium breasts|中等胸;cleavage|乳沟;earrings|耳环;necklace|项链;dress|连衣裙;long sleeves|长袖;belt|腰带;star (symbol)|星形符号",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "赤西瑛梨华",
+      "tag": "akanishi erika",
+      "charZh": "赤西瑛梨华（偶像大师）",
+      "auto": "1girl|单人女性;long hair|长发;brown hair|棕发;hair flower|发花;green eyes|绿瞳;one eye closed|单眼闭合;large breasts|大胸;cleavage|乳沟;skirt|半身裙;sweat|流汗;navel|肚脐;collarbone|锁骨;;d|眨眼吐舌(;d);star (symbol)|星形符号",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "有浦柑奈",
+      "tag": "ariura kanna",
+      "charZh": "有浦柑奈（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;long hair|长发;hair flower|发花;parted bangs|中分刘海;curtained hair|窗帘式刘海;brown eyes|棕瞳;one eye closed|单眼闭合;ponytail|马尾;necklace|项链;long sleeves|长袖;bracelet|手链;pendant|吊坠;navel|肚脐;day|白天",
+      "subName": ""
+    },
+    {
+      "game": "偶像大师",
+      "gameTag": "idolmaster",
+      "name": "凯特",
+      "tag": "kate (idolmaster)",
+      "charZh": "凯特（偶像大师）",
+      "auto": "1girl|单人女性;brown hair|棕发;short hair|短发;aqua eyes|青绿色眼睛;one eye closed|单眼闭合;thick eyebrows|浓眉;blue eyes|蓝瞳;medium breasts|中等胸;cleavage|乳沟;earrings|耳环;freckles|雀斑;collarbone|锁骨;bracelet|手链;navel|肚脐;bare shoulders|露肩",
+      "subName": ""
+    }
+  ]
+}

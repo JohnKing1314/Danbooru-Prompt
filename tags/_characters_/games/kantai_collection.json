@@ -1,0 +1,3093 @@
+{
+  "id": "kantai_collection",
+  "name": "舰队Collection",
+  "characters": [
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "岛风",
+      "tag": "shimakaze (kancolle)",
+      "charZh": "岛风（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;hairband|发箍;rabbit ear headwear|兔耳发饰;striped thighhighs|条纹过膝袜;elbow gloves|过肘手套;white gloves|白手套;skirt|裙子;rensouhou-chan|连装炮酱;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "金刚",
+      "tag": "kongou (kancolle)",
+      "charZh": "金刚（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;hairband|发箍;headgear|头饰装备;japanese clothes|日式传统服装;detached sleeves|分离袖;ribbon-trimmed sleeves|丝带边袖;nontraditional miko|改良巫女服;bare shoulders|露肩;ahoge|呆毛;thigh boots|过膝长靴;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "响",
+      "tag": "hibiki (kancolle)",
+      "charZh": "响（舰队Collection）",
+      "auto": "grey hair|灰发;long hair|长发;blue eyes|蓝瞳;hat|帽子;school uniform|校服;serafuku|水手服;pleated skirt|百褶裙;black thighhighs|黑过膝袜;star (symbol)|星星标志;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "赤城",
+      "tag": "akagi (kancolle)",
+      "charZh": "赤城（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;brown eyes|棕瞳;japanese clothes|日式传统服装;white thighhighs|白过膝袜;skirt|裙子;bow (weapon)|弓;muneate|胸挡;yugake|弓道手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "加贺",
+      "tag": "kaga (kancolle)",
+      "charZh": "加贺（舰队Collection）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳;japanese clothes|日式传统服装;black thighhighs|黑过膝袜;skirt|裙子;bow (weapon)|弓;muneate|胸挡;gloves|手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "鹿岛",
+      "tag": "kashima (kancolle)",
+      "charZh": "鹿岛（舰队Collection）",
+      "auto": "grey hair|灰发;twintails|双马尾;wavy hair|波浪发;long hair|长发;blue eyes|蓝瞳;hat|帽子;military uniform|军装;epaulettes|肩章;pleated skirt|百褶裙;gloves|手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "时雨",
+      "tag": "shigure (kancolle)",
+      "charZh": "时雨（舰队Collection）",
+      "auto": "brown hair|棕发;black hair|黑发;long hair|长发;hair over shoulder|搭肩长发;hairclip|发夹;blue eyes|蓝瞳;school uniform|校服;serafuku|水手服;pleated skirt|百褶裙;ahoge|呆毛;fingerless gloves|露指手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "夕立",
+      "tag": "yuudachi (kancolle)",
+      "charZh": "夕立（舰队Collection）",
+      "auto": "blonde hair|金发;light brown hair|浅棕发;long hair|长发;twintails|双马尾;green eyes|绿瞳;hair ribbon|发带;school uniform|校服;serafuku|水手服;red neckerchief|红领巾;pleated skirt|百褶裙;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "吹雪",
+      "tag": "fubuki (kancolle)",
+      "charZh": "吹雪（舰队Collection）",
+      "auto": "black hair|黑发;brown hair|棕发;short hair|短发;green eyes|绿瞳;school uniform|校服;serafuku|水手服;short sleeves|短袖;pleated skirt|百褶裙;socks|袜子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "大和",
+      "tag": "yamato (kancolle)",
+      "charZh": "大和（舰队Collection）",
+      "auto": "brown hair|棕发;very long hair|超长发;ponytail|马尾;hair flower|发花;brown eyes|棕瞳;detached sleeves|分离袖;skirt|裙子;single thighhigh|单过膝袜;oil-paper umbrella|油纸伞;cherry blossoms|樱花;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "榛名",
+      "tag": "haruna (kancolle)",
+      "charZh": "榛名（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;hairband|发箍;brown eyes|棕瞳;japanese clothes|日式传统服装;detached sleeves|分离袖;ribbon-trimmed sleeves|丝带边袖;nontraditional miko|改良巫女服;bare shoulders|露肩;black thighhighs|黑过膝袜;thigh boots|过膝长靴;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "瑞鹤",
+      "tag": "zuikaku (kancolle)",
+      "charZh": "瑞鹤（舰队Collection）",
+      "auto": "brown hair|棕发;green hair|绿发;twintails|双马尾;long hair|长发;hair ribbon|发带;yellow eyes|黄瞳;japanese clothes|日式传统服装;skirt|裙子;bow (weapon)|弓;muneate|胸挡;gloves|手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "翔鹤",
+      "tag": "shoukaku (kancolle)",
+      "charZh": "翔鹤（舰队Collection）",
+      "auto": "white hair|白发;grey hair|灰发;long hair|长发;hairband|发箍;brown eyes|棕瞳;yellow eyes|黄瞳;japanese clothes|日式传统服装;skirt|裙子;bow (weapon)|弓;muneate|胸挡;thigh boots|过膝长靴;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "欧根亲王",
+      "tag": "prinz eugen (kancolle)",
+      "charZh": "欧根亲王（舰队Collection）",
+      "auto": "blonde hair|金发;twintails|双马尾;long hair|长发;peaked cap|大檐帽;military uniform|军装;long sleeves|长袖;pleated skirt|百褶裙;white gloves|白手套;iron cross|铁十字勋章;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "俾斯麦",
+      "tag": "bismarck (kancolle)",
+      "charZh": "俾斯麦（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;peaked cap|大檐帽;military hat|军帽;military uniform|军装;detached sleeves|分离袖;grey thighhighs|灰过膝袜;gloves|手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "爱宕",
+      "tag": "atago (kancolle)",
+      "charZh": "爱宕（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;green eyes|绿瞳;blue eyes|蓝瞳;blue headwear|蓝色头饰;hat|帽子;military uniform|军装;gloves|手套;pantyhose|连裤袜;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "天津风",
+      "tag": "amatsukaze (kancolle)",
+      "charZh": "天津风（舰队Collection）",
+      "auto": "grey hair|灰发;white hair|白发;long hair|长发;brown eyes|棕瞳;sailor dress|水手连衣裙;striped thighhighs|条纹过膝袜;red thighhighs|红过膝袜;garter straps|吊袜带;rensouhou-kun|连装炮君;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "衣阿华",
+      "tag": "iowa (kancolle)",
+      "charZh": "衣阿华（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;star-shaped pupils|星形瞳孔;headgear|头饰装备;miniskirt|迷你裙;gloves|手套;garter straps|吊袜带;star (symbol)|星星标志;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "雷",
+      "tag": "ikazuchi (kancolle)",
+      "charZh": "雷（舰队Collection）",
+      "auto": "brown hair|棕发;hairclip|发夹;short hair|短发;brown eyes|棕瞳;school uniform|校服;serafuku|水手服;pleated skirt|百褶裙;long sleeves|长袖;red neckerchief|红色领巾;thighhighs|过膝袜;fang|虎牙;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "电",
+      "tag": "inazuma (kancolle)",
+      "charZh": "电（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;folded ponytail|折叠马尾;brown eyes|棕瞳;school uniform|校服;serafuku|水手服;pleated skirt|百褶裙;long sleeves|长袖;socks|袜子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "滨风",
+      "tag": "hamakaze (kancolle)",
+      "charZh": "滨风（舰队Collection）",
+      "auto": "grey hair|灰发;short hair|短发;hairclip|发夹;hair over one eye|头发遮单眼;blue eyes|蓝眼;school uniform|校服;serafuku|水手服;short sleeves|短袖;skirt|裙子;white gloves|白手套;pantyhose|连裤袜;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "天龙",
+      "tag": "tenryuu (kancolle)",
+      "charZh": "天龙（舰队Collection）",
+      "auto": "short hair|短发;purple hair|紫发;black hair|黑发;eyepatch|眼罩;yellow eyes|黄瞳;headgear|头部装备;thighhighs|过膝袜;skirt|裙子;necktie|领带;fingerless gloves|无指手套;sword|剑;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "龙田",
+      "tag": "tatsuta (kancolle)",
+      "charZh": "龙田（舰队Collection）",
+      "auto": "purple hair|紫发;short hair|短发;purple eyes|紫瞳;mechanical halo|机械光环;dress|连衣裙;ribbon|缎带;skirt|裙子;gloves|手套;polearm|长柄武器;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "高雄",
+      "tag": "takao (kancolle)",
+      "charZh": "高雄（舰队Collection）",
+      "auto": "short hair|短发;black hair|黑发;red eyes|红眼;beret|贝雷帽;black thighhighs|黑色过膝袜;garter straps|吊袜带吊带;black gloves|黑手套;military uniform|军装;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "比叡",
+      "tag": "hiei (kancolle)",
+      "charZh": "比叡（舰队Collection）",
+      "auto": "short hair|短发;brown hair|棕发;hairband|发箍;blue eyes|蓝眼;headgear|头部装备;detached sleeves|分离袖;japanese clothes|日本传统服装;nontraditional miko|非传统巫女服;ribbon-trimmed sleeves|缎带镶边袖子;thigh boots|过膝靴;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "雾岛",
+      "tag": "kirishima (kancolle)",
+      "charZh": "雾岛（舰队Collection）",
+      "auto": "short hair|短发;black hair|黑发;hairband|发箍;blue eyes|蓝眼;glasses|眼镜;headgear|头部装备;detached sleeves|分离袖;japanese clothes|日本传统服装;nontraditional miko|非传统巫女服;thigh boots|过膝靴;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "厌战",
+      "tag": "warspite (kancolle)",
+      "charZh": "厌战（舰队Collection）",
+      "auto": "long hair|长发;blonde hair|金发;hairband|发箍;hair between eyes|眉心垂发;blue eyes|蓝眼;mini crown|迷你皇冠;dress|连衣裙;long sleeves|长袖;necklace|项链;thighhighs|过膝袜;garter straps|吊袜带吊带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "大凤",
+      "tag": "taihou (kancolle)",
+      "charZh": "大凤（舰队Collection）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳;headband|头带;headgear|头部装备;pleated skirt|百褶裙;thighhighs|过膝袜;crossbow|弩;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "齐柏林伯爵",
+      "tag": "graf zeppelin (kancolle)",
+      "charZh": "齐柏林伯爵（舰队Collection）",
+      "auto": "twintails|双马尾;long hair|长发;blonde hair|金发;hair between eyes|眉心垂发;blue eyes|蓝眼;peaked cap|大檐帽;capelet|短斗篷;military uniform|军装;miniskirt|迷你裙;pantyhose|连裤袜;gloves|手套;necktie|领带;iron cross|铁十字;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "萨拉托加",
+      "tag": "saratoga (kancolle)",
+      "charZh": "萨拉托加（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;hair between eyes|眉心垂发;blue eyes|蓝眼;ponytail|马尾;white dress|白色连衣裙;red neckerchief|红色领巾;red thighhighs|红色过膝袜;belt|腰带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "晓",
+      "tag": "akatsuki (kancolle)",
+      "charZh": "晓（舰队Collection）",
+      "auto": "blue hair|蓝发;long hair|长发;brown eyes|棕瞳;anchor hair ornament|船锚发饰;serafuku|水手服;school uniform|校服;red neckerchief|红领巾;black gloves|黑手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "长门",
+      "tag": "nagato (kancolle)",
+      "charZh": "长门（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;brown eyes|棕瞳;headgear|头饰装备;military uniform|军装;red necktie|红领带;gold trim|金边装饰;epaulettes|肩章;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "铃谷",
+      "tag": "suzuya (kancolle)",
+      "charZh": "铃谷（舰队Collection）",
+      "auto": "blonde hair|金发;medium hair|中长发;side braid|侧辫;hair ribbon|发带;green eyes|绿瞳;serafuku|水手服;beige cardigan|米色开衫;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "龙骧",
+      "tag": "ryuujou (kancolle)",
+      "charZh": "龙骧（舰队Collection）",
+      "auto": "brown hair|棕发;short hair|短发;ahoge|呆毛;amber eyes|琥珀瞳;hair ribbon|发带;japanese clothes|日式传统服装;miko|巫女;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "凤翔",
+      "tag": "houshou (kancolle)",
+      "charZh": "凤翔（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;low ponytail|低马尾;white ribbon|白丝带;brown eyes|棕瞳;japanese clothes|日式传统服装;white kimono|白和服;red obi|红腰带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "丛云",
+      "tag": "murakumo (kancolle)",
+      "charZh": "丛云（舰队Collection）",
+      "auto": "grey hair|灰发;twintails|双马尾;long hair|长发;black ribbon|黑丝带;red eyes|红瞳;serafuku|水手服;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "雪风",
+      "tag": "yukikaze (kancolle)",
+      "charZh": "雪风（舰队Collection）",
+      "auto": "light brown hair|浅棕发;short hair|短发;hairband|发箍;green eyes|绿瞳;binoculars|望远镜;serafuku|水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "潮",
+      "tag": "ushio (kancolle)",
+      "charZh": "潮（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;hairclip|发夹;brown eyes|棕瞳;serafuku|水手服;school uniform|校服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "曙",
+      "tag": "akebono (kancolle)",
+      "charZh": "曙（舰队Collection）",
+      "auto": "brown hair|棕发;short hair|短发;side ponytail|侧马尾;red ribbon|红丝带;brown eyes|棕瞳;serafuku|水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "大淀",
+      "tag": "ooyodo (kancolle)",
+      "charZh": "大淀（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;red-framed eyewear|红框眼镜;glasses|眼镜;headgear|头饰装备;military uniform|军装;red necktie|红领带;epaulettes|肩章;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "北上",
+      "tag": "kitakami (kancolle)",
+      "charZh": "北上（舰队Collection）",
+      "auto": "brown hair|棕发;short hair|短发;bob cut|波波头;brown eyes|棕瞳;half-closed eyes|半闭眼;green serafuku|绿色水手服;school uniform|校服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "朝潮",
+      "tag": "asashio (kancolle)",
+      "charZh": "朝潮（舰队Collection）",
+      "auto": "black hair|黑发;short hair|短发;bob cut|波波头;red hairband|红发箍;brown eyes|棕瞳;serafuku|水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "陆奥",
+      "tag": "mutsu (kancolle)",
+      "charZh": "陆奥（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;side ponytail|侧马尾;headgear|头饰装备;brown eyes|棕瞳;military uniform|军装;red necktie|红领带;gold trim|金边装饰;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "大井",
+      "tag": "ooi (kancolle)",
+      "charZh": "大井（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;blunt bangs|齐刘海;brown eyes|棕瞳;green serafuku|绿色水手服;school uniform|校服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "川内",
+      "tag": "sendai (kancolle)",
+      "charZh": "川内（舰队Collection）",
+      "auto": "brown hair|棕发;short hair|短发;amber eyes|琥珀瞳;red scarf|红围巾;serafuku|水手服;black neckerchief|黑领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "武藏",
+      "tag": "musashi (kancolle)",
+      "charZh": "武藏（舰队Collection）",
+      "auto": "dark-skinned female|深肤色女性;white hair|白发;very long hair|超长发;high ponytail|高马尾;black ribbon|黑丝带;red-framed eyewear|红框眼镜;yellow eyes|黄瞳;headgear|头饰装备;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "明石",
+      "tag": "akashi (kancolle)",
+      "charZh": "明石（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;green eyes|绿瞳;white hat|白帽;goggles on headwear|帽上护目镜;serafuku|水手服;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "不知火",
+      "tag": "shiranui (kancolle)",
+      "charZh": "不知火（舰队Collection）",
+      "auto": "grey hair|灰发;short hair|短发;bob cut|波波头;red ribbon|红丝带;red eyes|红瞳;serafuku|水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "涟",
+      "tag": "sazanami (kancolle)",
+      "charZh": "涟（舰队Collection）",
+      "auto": "pink hair|粉发;twintails|双马尾;long hair|长发;hairclip|发夹;pink eyes|粉瞳;serafuku|水手服;school uniform|校服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "苍龙",
+      "tag": "souryuu (kancolle)",
+      "charZh": "苍龙（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;side ponytail|侧马尾;yellow ribbon|黄丝带;green eyes|绿瞳;japanese clothes|日式传统服装;green kimono|绿和服;muneate|胸挡;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "霞",
+      "tag": "kasumi (kancolle)",
+      "charZh": "霞（舰队Collection）",
+      "auto": "brown hair|棕发;short hair|短发;bob cut|波波头;hairclip|发夹;brown eyes|棕瞳;serafuku|水手服;school uniform|校服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "五月雨",
+      "tag": "samidare (kancolle)",
+      "charZh": "五月雨（舰队Collection）",
+      "auto": "blue hair|蓝发;long hair|长发;white hairband|白发箍;white bow|白蝴蝶结;blue eyes|蓝瞳;serafuku|水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "山城",
+      "tag": "yamashiro (kancolle)",
+      "charZh": "山城（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;blunt bangs|齐刘海;headgear|头饰装备;brown eyes|棕瞳;japanese clothes|日式传统服装;nontraditional miko|改良巫女服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "吕500",
+      "tag": "ro-500 (kancolle)",
+      "charZh": "吕500（舰队Collection）",
+      "auto": "dark-skinned female|深肤色女性;blonde hair|金发;short hair|短发;blue eyes|蓝瞳;hat|帽子;iron cross|铁十字勋章;track jacket|运动夹克;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "维尔努伊",
+      "tag": "verniy (kancolle)",
+      "charZh": "维尔努伊（舰队Collection）",
+      "auto": "white hair|白发;silver hair|银发;long hair|长发;blue eyes|蓝瞳;white hat|白帽;red star|红星标志;red scarf|红围巾;white coat|白大衣;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "夕张",
+      "tag": "yuubari (kancolle)",
+      "charZh": "夕张（舰队Collection）",
+      "auto": "brown hair|棕发;short hair|短发;ahoge|呆毛;hairclip|发夹;brown eyes|棕瞳;serafuku|水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "飞龙",
+      "tag": "hiryuu (kancolle)",
+      "charZh": "飞龙（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;high ponytail|高马尾;hachimaki|头巾;amber eyes|琥珀瞳;japanese clothes|日式传统服装;muneate|胸挡;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "长波",
+      "tag": "naganami (kancolle)",
+      "charZh": "长波（舰队Collection）",
+      "auto": "brown hair|棕发;blonde hair|金发;long hair|长发;ahoge|呆毛;black bow|黑蝴蝶结;brown eyes|棕瞳;serafuku|水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "木曾",
+      "tag": "kiso (kancolle)",
+      "charZh": "木曾（舰队Collection）",
+      "auto": "grey hair|灰发;short hair|短发;eyepatch|眼罩;red eyes|红瞳;military uniform|军装;capelet|斗篷;black coat|黑大衣;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "瑞凤",
+      "tag": "zuihou (kancolle)",
+      "charZh": "瑞凤（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;side ponytail|侧马尾;red ribbon|红丝带;green eyes|绿瞳;japanese clothes|日式传统服装;muneate|胸挡;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "村雨",
+      "tag": "murasame (kancolle)",
+      "charZh": "村雨（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;red ribbon|红丝带;brown eyes|棕瞳;serafuku|水手服;school uniform|校服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "那珂",
+      "tag": "naka (kancolle)",
+      "charZh": "那珂（舰队Collection）",
+      "auto": "brown hair|棕发;long hair|长发;wavy hair|波浪发;star hair ornament|星星发饰;headset|头戴耳机;amber eyes|琥珀瞳;serafuku|水手服;idol|偶像;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "山风",
+      "tag": "yamakaze (kancolle)",
+      "charZh": "山风（舰队Collection）",
+      "auto": "green hair|绿发;short hair|短发;blunt bangs|齐刘海;blue eyes|蓝瞳;serafuku|水手服;school uniform|校服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊19",
+      "tag": "i-19 (kancolle)",
+      "charZh": "伊19（舰队Collection）",
+      "auto": "orange hair|橙发;blonde hair|金发;twintails|双马尾;long hair|长发;hairclip|发夹;amber eyes|琥珀瞳;track jacket|运动夹克;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "秋云",
+      "tag": "akigumo (kancolle)",
+      "charZh": "秋云（舰队Collection）",
+      "auto": "brown hair|棕发;red hair|红发;short hair|短发;ahoge|呆毛;hairclip|发夹;brown eyes|棕瞳;serafuku|水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "摩耶",
+      "tag": "maya (kancolle)",
+      "charZh": "摩耶（舰队Collection）",
+      "auto": "grey hair|灰发;blonde hair|金发;short hair|短发;side braid|侧辫;black hairband|黑发箍;red eyes|红瞳;black serafuku|黑色水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "胧",
+      "tag": "oboro (kancolle)",
+      "charZh": "胧（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;bangs|刘海;hair ornament|发饰;brown eyes|棕色眼睛;blue sailor collar|蓝色水手领;white sailor shirt|白色水手服上衣;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊58",
+      "tag": "i-58 (kancolle)",
+      "charZh": "伊58（舰队Collection）",
+      "auto": "blonde hair|金发;twintails|双马尾;hair ribbon|发带;blue eyes|蓝色眼睛;sailor collar|水手领;navy blue jacket|藏青色外套;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "Z1莱伯雷希特·马斯",
+      "tag": "z1 leberecht maass (kancolle)",
+      "charZh": "Z1莱伯雷希特·马斯（舰队Collection）",
+      "auto": "grey hair|灰发;short hair|短发;blue eyes|蓝色眼睛;garrison cap|船形帽;hat|帽子;military uniform|军装;grey jacket|灰色外套;necktie|领带;collared shirt|有领衬衫;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "亚特兰大",
+      "tag": "atlanta (kancolle)",
+      "charZh": "亚特兰大（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;blue eyes|蓝色眼睛;naval cap|海军帽;white hat|白帽子;military uniform|军装;navy blue jacket|藏青色外套;white shirt|白衬衫;necktie|领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "时津风",
+      "tag": "tokitsukaze (kancolle)",
+      "charZh": "时津风（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;ahoge|呆毛;hair ornament|发饰;brown eyes|棕色眼睛;sailor collar|水手领;dark blue serafuku|深蓝水手服;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "Z3",
+      "tag": "z3 max schultz (kancolle)",
+      "charZh": "Z3（舰队Collection）",
+      "auto": "silver hair|银发;short hair|短发;blue eyes|蓝色眼睛;garrison cap|船形帽;hat|帽子;military uniform|军装;dark blue jacket|深蓝外套;collared shirt|有领衬衫;necktie|领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "熊野",
+      "tag": "kumano (kancolle)",
+      "charZh": "熊野（舰队Collection）",
+      "auto": "light brown hair|浅棕发;long hair|长发;wavy hair|波浪发;hair ribbon|发带;black ribbon|黑色丝带;amber eyes|琥珀色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "青叶",
+      "tag": "aoba (kancolle)",
+      "charZh": "青叶（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;brown eyes|棕色眼睛;headphones|头戴式耳机;camera|相机;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊401",
+      "tag": "i-401 (kancolle)",
+      "charZh": "伊401（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;twintails|双马尾;white ribbon|白色丝带;tanned|小麦色皮肤;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "扶桑",
+      "tag": "fusou (kancolle)",
+      "charZh": "扶桑（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;straight hair|直发;hair ribbon|发带;hair ornament|发饰;brown eyes|棕色眼睛;japanese clothes|和服;miko|巫女服;white kimono|白色和服;red ribbon|红色丝带;wide sleeves|宽袖;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "球磨",
+      "tag": "kuma (kancolle)",
+      "charZh": "球磨（舰队Collection）",
+      "auto": "light brown hair|浅棕发;short hair|短发;wavy hair|波浪发;ahoge|呆毛;hairclip|发夹;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "足柄",
+      "tag": "ashigara (kancolle)",
+      "charZh": "足柄（舰队Collection）",
+      "auto": "reddish brown hair|红棕色头发;long hair|长发;side braid|侧编发;hairclip|发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "白露",
+      "tag": "shiratsuyu (kancolle)",
+      "charZh": "白露（舰队Collection）",
+      "auto": "light brown hair|浅棕发;short hair|短发;red hairclip|红色发夹;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "阳炎",
+      "tag": "kagerou (kancolle)",
+      "charZh": "阳炎（舰队Collection）",
+      "auto": "orange brown hair|橘棕色头发;medium hair|中长发;side ponytail|侧马尾;ahoge|呆毛;red ribbon|红色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "卯月",
+      "tag": "uzuki (kancolle)",
+      "charZh": "卯月（舰队Collection）",
+      "auto": "pink hair|粉发;short hair|短发;white headband|白色发带;ribbon headband|丝带发箍;red eyes|红眼;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "皋月",
+      "tag": "satsuki (kancolle)",
+      "charZh": "皋月（舰队Collection）",
+      "auto": "green hair|绿发;short hair|短发;messy hair|凌乱发;green eyes|绿眼;armband|臂章;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "最上",
+      "tag": "mogami (kancolle)",
+      "charZh": "最上（舰队Collection）",
+      "auto": "reddish brown hair|红棕色头发;short hair|短发;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "浦风",
+      "tag": "urakaze (kancolle)",
+      "charZh": "浦风（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;twin braids|双麻花辫;red ribbon|红色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "初雪",
+      "tag": "hatsuyuki (kancolle)",
+      "charZh": "初雪（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;medium hair|中长发;messy hair|凌乱发;bangs|刘海;blue eyes|蓝色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "清霜",
+      "tag": "kiyoshimo (kancolle)",
+      "charZh": "清霜（舰队Collection）",
+      "auto": "silver hair|银发;short hair|短发;hair ornament|发饰;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "神通",
+      "tag": "jintsuu (kancolle)",
+      "charZh": "神通（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;red ribbon|红色丝带;hair ribbon|发带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "日向",
+      "tag": "hyuuga (kancolle)",
+      "charZh": "日向（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;half updo|半扎发;brown eyes|棕色眼睛;japanese clothes|和服;white kimono|白色和服;red ribbon|红色丝带;dark sleeves|深色袖子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "初月",
+      "tag": "hatsuzuki (kancolle)",
+      "charZh": "初月（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;straight hair|直发;blunt bangs|齐刘海;hair ornament|发饰;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "矢矧",
+      "tag": "yahagi (kancolle)",
+      "charZh": "矢矧（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;hime cut|姬发式;red hairband|红色发箍;ribbon headband|丝带发箍;red eyes|红眼;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "满潮",
+      "tag": "michishio (kancolle)",
+      "charZh": "满潮（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;low twintails|低双马尾;red ribbon|红色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "矶风",
+      "tag": "isokaze (kancolle)",
+      "charZh": "矶风（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;high ponytail|高马尾;red ribbon|红色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "春雨",
+      "tag": "harusame (kancolle)",
+      "charZh": "春雨（舰队Collection）",
+      "auto": "pink hair|粉发;long hair|长发;hairband|发箍;black ribbon|黑色丝带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "云龙",
+      "tag": "unryuu (kancolle)",
+      "charZh": "云龙（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;wavy hair|波浪发;white hairband|白色发箍;green eyes|绿眼;red necktie|红领带;white shirt|白衬衫;green uniform|绿色制服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "秋津丸",
+      "tag": "akitsu maru (kancolle)",
+      "charZh": "秋津丸（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;military hat|军帽;peaked cap|大檐帽;brown eyes|棕色眼睛;military uniform|军装;green jacket|绿色外套;collared shirt|有领衬衫;black necktie|黑领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "敷波",
+      "tag": "shikinami (kancolle)",
+      "charZh": "敷波（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;short hair|短发;bob cut|波波头;ahoge|呆毛;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "由良",
+      "tag": "yura (kancolle)",
+      "charZh": "由良（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;ponytail|马尾;red ribbon|红色丝带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "大鲸",
+      "tag": "taigei (kancolle)",
+      "charZh": "大鲸（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;hime cut|姬发式;hair flower|花朵发饰;blue eyes|蓝色眼睛;japanese clothes|和服;pink kimono|粉色和服;apron|围裙;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "秋月",
+      "tag": "akizuki (kancolle)",
+      "charZh": "秋月（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;high ponytail|高马尾;red ribbon|红色丝带;hairband|发箍;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "睦月",
+      "tag": "mutsuki (kancolle)",
+      "charZh": "睦月（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;red ribbon|红色丝带;hairclip|发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "羽黑",
+      "tag": "haguro (kancolle)",
+      "charZh": "羽黑（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;hairclip|发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "波拉",
+      "tag": "pola (kancolle)",
+      "charZh": "波拉（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;purple eyes|紫眼;white jacket|白色外套;red neckerchief|红领巾;military uniform|军装;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "衣笠",
+      "tag": "kinugasa (kancolle)",
+      "charZh": "衣笠（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;wavy hair|波浪发;red ribbon|红色丝带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "哥特兰",
+      "tag": "gotland (kancolle)",
+      "charZh": "哥特兰（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;side braid|侧编发;blue ribbon|蓝色丝带;blue eyes|蓝色眼睛;white jacket|白色外套;blue collar|蓝色衣领;ribbon|丝带;military uniform|军装;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "深雪",
+      "tag": "miyuki (kancolle)",
+      "charZh": "深雪（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;spiky hair|刺猬头;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "神风",
+      "tag": "kamikaze (kancolle)",
+      "charZh": "神风（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;blunt bangs|齐刘海;red ribbon|红色丝带;hair ribbon|发带;brown eyes|棕色眼睛;japanese clothes|和服;white kimono|白色和服;dark sleeves|深色袖子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "U-511",
+      "tag": "u-511 (kancolle)",
+      "charZh": "U-511（舰队Collection）",
+      "auto": "silver hair|银发;short hair|短发;bob cut|波波头;garrison cap|船形帽;hat|帽子;blue eyes|蓝色眼睛;grey sailor shirt|灰色水手服;white sailor collar|白色水手领;black neckerchief|黑领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "利根",
+      "tag": "tone (kancolle)",
+      "charZh": "利根（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;twintails|双马尾;white ribbon|白色丝带;amber eyes|琥珀色眼睛;green sailor shirt|绿色水手服;orange neckerchief|橙色领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊168",
+      "tag": "i-168 (kancolle)",
+      "charZh": "伊168（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;hair ribbon|发带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "甘比尔湾",
+      "tag": "gambier bay (kancolle)",
+      "charZh": "甘比尔湾（舰队Collection）",
+      "auto": "white hair|白发;long hair|长发;twintails|双马尾;hairband|发箍;hairclip|发夹;blue eyes|蓝色眼睛;camouflage|迷彩;blue shirt|蓝色衬衫;red neckerchief|红领巾;fingerless gloves|露指手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "如月",
+      "tag": "kisaragi (kancolle)",
+      "charZh": "如月（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;wavy hair|波浪发;red hairclip|红色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "阿武隈",
+      "tag": "abukuma (kancolle)",
+      "charZh": "阿武隈（舰队Collection）",
+      "auto": "pink hair|粉发;long hair|长发;low twintails|低双马尾;black ribbon|黑色丝带;ahoge|呆毛;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "卷云",
+      "tag": "makigumo (kancolle)",
+      "charZh": "卷云（舰队Collection）",
+      "auto": "light brown hair|浅棕发;short hair|短发;red ribbon|红色丝带;glasses|眼镜;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊8",
+      "tag": "i-8 (kancolle)",
+      "charZh": "伊8（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;straight hair|直发;glasses|眼镜;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;holding book|拿着书;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "凉月",
+      "tag": "suzutsuki (kancolle)",
+      "charZh": "凉月（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;wavy hair|波浪发;white ribbon|白色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "夕云",
+      "tag": "yuugumo (kancolle)",
+      "charZh": "夕云（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;straight hair|直发;red hairclip|红色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊势",
+      "tag": "ise (kancolle)",
+      "charZh": "伊势（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;high ponytail|高马尾;red ribbon|红色丝带;brown eyes|棕色眼睛;japanese clothes|和服;white kimono|白色和服;dark sleeves|深色袖子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "那智",
+      "tag": "nachi (kancolle)",
+      "charZh": "那智（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;straight hair|直发;hair bun|发髻;hairpin|发簪;dark eyes|深色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "照月",
+      "tag": "teruzuki (kancolle)",
+      "charZh": "照月（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;ahoge|呆毛;red hairband|红色发箍;ribbon headband|丝带发箍;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "能代",
+      "tag": "noshiro (kancolle)",
+      "charZh": "能代（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;straight hair|直发;red hairband|红色发箍;black eyes|黑眼;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "隼鹰",
+      "tag": "jun'you (kancolle)",
+      "charZh": "隼鹰（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;messy hair|凌乱发;ahoge|呆毛;amber eyes|琥珀色眼睛;japanese clothes|和服;green uniform|绿色制服;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "弗莱彻",
+      "tag": "fletcher (kancolle)",
+      "charZh": "弗莱彻（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;side braid|侧编发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white jacket|白色外套;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "黑潮",
+      "tag": "kuroshio (kancolle)",
+      "charZh": "黑潮（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;red hairclip|红色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "鸟海",
+      "tag": "choukai (kancolle)",
+      "charZh": "鸟海（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;straight hair|直发;glasses|眼镜;brown eyes|棕色眼睛;military uniform|军装;dark blue jacket|深蓝外套;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "长月",
+      "tag": "nagatsuki (kancolle)",
+      "charZh": "长月（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;short hair|短发;bob cut|波波头;hair ornament|发饰;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "甘古特",
+      "tag": "gangut (kancolle)",
+      "charZh": "甘古特（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;red eyes|红眼;military uniform|军装;dark blue coat|深蓝大衣;black scarf|黑围巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "白雪",
+      "tag": "shirayuki (kancolle)",
+      "charZh": "白雪（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;blunt bangs|齐刘海;white ribbon|白色丝带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "丸优",
+      "tag": "maru-yu (kancolle)",
+      "charZh": "丸优（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;hairpin|发夹;brown eyes|棕色眼睛;green sailor shirt|绿色水手服;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "绫波",
+      "tag": "ayanami (kancolle)",
+      "charZh": "绫波（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;red ribbon|红色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "朝霜",
+      "tag": "asashimo (kancolle)",
+      "charZh": "朝霜（舰队Collection）",
+      "auto": "silver hair|银发;short hair|短发;spiky hair|刺猬头;ahoge|呆毛;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "荒潮",
+      "tag": "arashio (kancolle)",
+      "charZh": "荒潮（舰队Collection）",
+      "auto": "light brown hair|浅棕发;long hair|长发;wavy hair|波浪发;red ribbon|红色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "弥生",
+      "tag": "yayoi (kancolle)",
+      "charZh": "弥生（舰队Collection）",
+      "auto": "silver hair|银发;long hair|长发;two side up|双侧扎发;blunt bangs|齐刘海;grey eyes|灰眼;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "葛城",
+      "tag": "katsuragi (kancolle)",
+      "charZh": "葛城（舰队Collection）",
+      "auto": "green hair|绿发;short hair|短发;white headband|白色发带;ribbon headband|丝带发箍;green eyes|绿眼;green uniform|绿色制服;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "多摩",
+      "tag": "tama (kancolle)",
+      "charZh": "多摩（舰队Collection）",
+      "auto": "white hair|白发;short hair|短发;cat ears|猫耳;amber eyes|琥珀色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "杰维斯",
+      "tag": "jervis (kancolle)",
+      "charZh": "杰维斯（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;green eyes|绿眼;dark blue jacket|深蓝外套;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "妙高",
+      "tag": "myoukou (kancolle)",
+      "charZh": "妙高（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;straight hair|直发;hairclip|发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "凉风",
+      "tag": "suzukaze (kancolle)",
+      "charZh": "凉风（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;red hairband|红色发箍;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "塔什干",
+      "tag": "tashkent (kancolle)",
+      "charZh": "塔什干（舰队Collection）",
+      "auto": "light blue hair|浅蓝发;long hair|长发;straight hair|直发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;light blue coat|浅蓝外套;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "阿贺野",
+      "tag": "agano (kancolle)",
+      "charZh": "阿贺野（舰队Collection）",
+      "auto": "red hair|红发;long hair|长发;wavy hair|波浪发;red ribbon|红色丝带;red eyes|红眼;white gloves|白手套;sleeveless sailor shirt|无袖水手服;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "古鹰",
+      "tag": "furutaka (kancolle)",
+      "charZh": "古鹰（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;straight hair|直发;hairclip|发夹;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "间宫",
+      "tag": "mamiya (kancolle)",
+      "charZh": "间宫（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;kerchief|头巾;white headwear|白色头饰;brown eyes|棕色眼睛;japanese clothes|和服;pink kimono|粉色和服;white apron|白色围裙;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "西南风",
+      "tag": "libeccio (kancolle)",
+      "charZh": "西南风（舰队Collection）",
+      "auto": "brown hair|棕色头发;twintails|双马尾;tanned|小麦色皮肤;naval cap|海军帽;white hat|白帽子;brown eyes|棕色眼睛;sleeveless sailor shirt|无袖水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "五十铃",
+      "tag": "isuzu (kancolle)",
+      "charZh": "五十铃（舰队Collection）",
+      "auto": "reddish brown hair|红棕色头发;short hair|短发;wavy hair|波浪发;black ribbon|黑色丝带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "矶波",
+      "tag": "isonami (kancolle)",
+      "charZh": "矶波（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;white hairclip|白色发夹;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "择捉",
+      "tag": "etorofu (kancolle)",
+      "charZh": "择捉（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;bob cut|波波头;ahoge|呆毛;naval cap|海军帽;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "江风",
+      "tag": "kawakaze (kancolle)",
+      "charZh": "江风（舰队Collection）",
+      "auto": "silver hair|银发;short hair|短发;spiky hair|刺猬头;ahoge|呆毛;hairclip|发夹;green eyes|绿眼;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "香取",
+      "tag": "katori (kancolle)",
+      "charZh": "香取（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;straight hair|直发;glasses|眼镜;brown eyes|棕色眼睛;white jacket|白色外套;red ribbon|红色丝带;military uniform|军装;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "早霜",
+      "tag": "hayashimo (kancolle)",
+      "charZh": "早霜（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;straight hair|直发;hair ornament|发饰;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "祥凤",
+      "tag": "shouhou (kancolle)",
+      "charZh": "祥凤（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;high ponytail|高马尾;white ribbon|白色丝带;brown eyes|棕色眼睛;japanese clothes|和服;white kimono|白色和服;gloves|手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "约翰斯顿",
+      "tag": "johnston (kancolle)",
+      "charZh": "约翰斯顿（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue ribbon|蓝色丝带;blue eyes|蓝色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "科罗拉多",
+      "tag": "colorado (kancolle)",
+      "charZh": "科罗拉多（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;amber eyes|琥珀色眼睛;military uniform|军装;dark blue coat|深蓝大衣;white shirt|白衬衫;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "萩风",
+      "tag": "hagikaze (kancolle)",
+      "charZh": "萩风（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;side ponytail|侧马尾;ahoge|呆毛;white ribbon|白色丝带;amber eyes|琥珀色眼睛;white shirt|白衬衫;red ribbon|红色丝带;dark blue vest|深蓝马甲;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "亲潮",
+      "tag": "oyashio (kancolle)",
+      "charZh": "亲潮（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;red hairclip|红色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "神威",
+      "tag": "kamoi (kancolle)",
+      "charZh": "神威（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;headband|头带;brown eyes|棕色眼睛;japanese clothes|和服;blue kimono|蓝色和服;white kimono|白色和服;red ribbon|红色丝带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "风云",
+      "tag": "kazagumo (kancolle)",
+      "charZh": "风云（舰队Collection）",
+      "auto": "light brown hair|浅棕发;long hair|长发;side ponytail|侧马尾;red ribbon|红色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "海风",
+      "tag": "umikaze (kancolle)",
+      "charZh": "海风（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;black hairband|黑色发箍;ribbon headband|丝带发箍;blue eyes|蓝色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "黎塞留",
+      "tag": "richelieu (kancolle)",
+      "charZh": "黎塞留（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white jacket|白色外套;blue jacket|蓝色外套;military uniform|军装;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "敌航空机",
+      "tag": "enemy aircraft (kancolle)",
+      "charZh": "敌航空机（舰队Collection）",
+      "auto": "abyssal ship|深海栖舰;enemy aircraft|敌航空机;glowing eyes|发光眼睛;wings|翅膀;tentacles|触手;no humans|无人类",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "皇家方舟",
+      "tag": "ark royal (kancolle)",
+      "charZh": "皇家方舟（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;green eyes|绿眼;military uniform|军装;dark blue coat|深蓝大衣;white shirt|白衬衫;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "岚",
+      "tag": "arashi (kancolle)",
+      "charZh": "岚（舰队Collection）",
+      "auto": "orange hair|橘发;short hair|短发;ahoge|呆毛;hair ribbon|发带;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;black gloves|黑手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "朝云",
+      "tag": "asagumo (kancolle)",
+      "charZh": "朝云（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;wavy hair|波浪发;hair ornament|发饰;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "敌方救生圈",
+      "tag": "enemy lifebuoy (kancolle)",
+      "charZh": "敌方救生圈（舰队Collection）",
+      "auto": "abyssal ship|深海栖舰;lifebuoy|救生圈;glowing eyes|发光眼睛;yellow eyes|黄眼;no humans|无人类",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "舞风",
+      "tag": "maikaze (kancolle)",
+      "charZh": "舞风（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;twintails|双马尾;ahoge|呆毛;red ribbon|红色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "大黄蜂",
+      "tag": "hornet (kancolle)",
+      "charZh": "大黄蜂（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;white hat|白帽子;blue eyes|蓝色眼睛;military uniform|军装;dark blue jacket|深蓝外套;white shirt|白衬衫;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "大潮",
+      "tag": "ooshio (kancolle)",
+      "charZh": "大潮（舰队Collection）",
+      "auto": "light brown hair|浅棕发;short hair|短发;side ponytail|侧马尾;red ribbon|红色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "对马",
+      "tag": "tsushima (kancolle)",
+      "charZh": "对马（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;hairpin|发夹;naval cap|海军帽;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "扎拉",
+      "tag": "zara (kancolle)",
+      "charZh": "扎拉（舰队Collection）",
+      "auto": "red hair|红发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;amber eyes|琥珀色眼睛;military uniform|军装;dark blue jacket|深蓝外套;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "三隈",
+      "tag": "mikuma (kancolle)",
+      "charZh": "三隈（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;straight hair|直发;hair ribbon|发带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "迅鲸",
+      "tag": "jingei (kancolle)",
+      "charZh": "迅鲸（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;wavy hair|波浪发;hair flower|花朵发饰;pink ribbon|粉色丝带;blue eyes|蓝色眼睛;japanese clothes|和服;pink kimono|粉色和服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "初风",
+      "tag": "hatsukaze (kancolle)",
+      "charZh": "初风（舰队Collection）",
+      "auto": "silver hair|银发;short hair|短发;bob cut|波波头;hairclip|发夹;grey eyes|灰眼;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "无畏",
+      "tag": "intrepid (kancolle)",
+      "charZh": "无畏（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;brown eyes|棕色眼睛;dark blue jacket|深蓝外套;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "野分",
+      "tag": "nowaki (kancolle)",
+      "charZh": "野分（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;white ribbon|白色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "千岁",
+      "tag": "chitose (kancolle)",
+      "charZh": "千岁（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;straight hair|直发;hair ornament|发饰;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;green sailor collar|绿色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "初霜",
+      "tag": "hatsushimo (kancolle)",
+      "charZh": "初霜（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;blunt bangs|齐刘海;white ribbon|白色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "速吸",
+      "tag": "hayasui (kancolle)",
+      "charZh": "速吸（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;high ponytail|高马尾;white ribbon|白色丝带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "文月",
+      "tag": "fumizuki (kancolle)",
+      "charZh": "文月（舰队Collection）",
+      "auto": "light brown hair|浅棕发;short hair|短发;red ribbon|红色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊26",
+      "tag": "i-26 (kancolle)",
+      "charZh": "伊26（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;twintails|双马尾;white ribbon|白色丝带;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "筑摩",
+      "tag": "chikuma (kancolle)",
+      "charZh": "筑摩（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;wavy hair|波浪发;white ribbon|白色丝带;amber eyes|琥珀色眼睛;green sailor shirt|绿色水手服;orange neckerchief|橙色领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "高波",
+      "tag": "takanami (kancolle)",
+      "charZh": "高波（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;red hairclip|红色发夹;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;green ribbon|绿色丝带;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "加古",
+      "tag": "kako (kancolle)",
+      "charZh": "加古（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;spiky hair|刺猬头;ahoge|呆毛;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "利托里奥",
+      "tag": "littorio (kancolle)",
+      "charZh": "利托里奥（舰队Collection）",
+      "auto": "green hair|绿发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;amber eyes|琥珀色眼睛;military uniform|军装;white jacket|白色外套;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "望月",
+      "tag": "mochizuki (kancolle)",
+      "charZh": "望月（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;short hair|短发;messy hair|凌乱发;glasses|眼镜;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "狭雾",
+      "tag": "sagiri (kancolle)",
+      "charZh": "狭雾（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;wavy hair|波浪发;white hairclip|白色发夹;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;serafuku|水手服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "山云",
+      "tag": "yamagumo (kancolle)",
+      "charZh": "山云（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;wavy hair|波浪发;red hairband|红色发箍;ribbon headband|丝带发箍;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "佐渡",
+      "tag": "sado (kancolle)",
+      "charZh": "佐渡（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;low twintails|低双马尾;naval cap|海军帽;amber eyes|琥珀色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "罗马",
+      "tag": "roma (kancolle)",
+      "charZh": "罗马（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;red eyes|红眼;military uniform|军装;white jacket|白色外套;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "塞缪尔·B·罗伯茨",
+      "tag": "samuel b. roberts (kancolle)",
+      "charZh": "塞缪尔·B·罗伯茨（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "格雷卡莱",
+      "tag": "grecale (kancolle)",
+      "charZh": "格雷卡莱（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "秋津洲",
+      "tag": "akitsushima (kancolle)",
+      "charZh": "秋津洲（舰队Collection）",
+      "auto": "light blue hair|浅蓝发;long hair|长发;wavy hair|波浪发;white headband|白色发带;ribbon headband|丝带发箍;blue eyes|蓝色眼睛;white sailor shirt|白色水手服上衣;light blue sailor collar|浅蓝水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "深海忌雷",
+      "tag": "enemy naval mine (kancolle)",
+      "charZh": "深海忌雷（舰队Collection）",
+      "auto": "abyssal ship|深海栖舰;naval mine|水雷;glowing eyes|发光眼睛;red eyes|红眼;no humans|无人类",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "冬月",
+      "tag": "fuyutsuki (kancolle)",
+      "charZh": "冬月（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;straight hair|直发;blunt bangs|齐刘海;crescent hair ornament|弯月发饰;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "初春",
+      "tag": "hatsuharu (kancolle)",
+      "charZh": "初春（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;wavy hair|波浪发;red ribbon|红色丝带;hair ornament|发饰;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;black fingerless gloves|黑色露指手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "天城",
+      "tag": "amagi (kancolle)",
+      "charZh": "天城（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;wavy hair|波浪发;white headband|白色发带;brown eyes|棕色眼睛;green uniform|绿色制服;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "司令特斯特",
+      "tag": "commandant teste (kancolle)",
+      "charZh": "司令特斯特（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white jacket|白色外套;blue jacket|蓝色外套;military uniform|军装;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "松轮",
+      "tag": "matsuwa (kancolle)",
+      "charZh": "松轮（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;naval cap|海军帽;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "珀斯",
+      "tag": "perth (kancolle)",
+      "charZh": "珀斯（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;wavy hair|波浪发;side braid|侧编发;green ribbon|绿色丝带;naval cap|海军帽;white hat|白帽子;green eyes|绿眼;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "三日月",
+      "tag": "mikazuki (kancolle)",
+      "charZh": "三日月（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;crescent hair ornament|弯月发饰;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "鬼怒",
+      "tag": "kinu (kancolle)",
+      "charZh": "鬼怒（舰队Collection）",
+      "auto": "orange hair|橘发;short hair|短发;spiky hair|刺猬头;black ribbon|黑色丝带;amber eyes|琥珀色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "千代田",
+      "tag": "chiyoda (kancolle)",
+      "charZh": "千代田（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;wavy hair|波浪发;hair ribbon|发带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;green sailor collar|绿色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "加富尔伯爵",
+      "tag": "conte di cavour (kancolle)",
+      "charZh": "加富尔伯爵（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;amber eyes|琥珀色眼睛;white gloves|白手套;military uniform|军装;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "朝风",
+      "tag": "asakaze (kancolle)",
+      "charZh": "朝风（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;twintails|双马尾;red ribbon|红色丝带;brown eyes|棕色眼睛;japanese clothes|和服;white kimono|白色和服;dark sleeves|深色袖子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "岸波",
+      "tag": "kishinami (kancolle)",
+      "charZh": "岸波（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;wavy hair|波浪发;ahoge|呆毛;red hairclip|红色发夹;brown eyes|棕色眼睛;white shirt|白衬衫;purple vest|紫色马甲;teal ribbon|青色蝴蝶结;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "雅努斯",
+      "tag": "janus (kancolle)",
+      "charZh": "雅努斯（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;dark blue jacket|深蓝外套;red ribbon|红色丝带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "神州丸",
+      "tag": "shinshuu maru (kancolle)",
+      "charZh": "神州丸（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;straight hair|直发;military hat|军帽;peaked cap|大檐帽;black eyes|黑眼;military uniform|军装;green jacket|绿色外套;black necktie|黑领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "谷风",
+      "tag": "tanikaze (kancolle)",
+      "charZh": "谷风（舰队Collection）",
+      "auto": "light brown hair|浅棕发;short hair|短发;twintails|双马尾;red ribbon|红色丝带;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "酒匂",
+      "tag": "sakawa (kancolle)",
+      "charZh": "酒匂（舰队Collection）",
+      "auto": "pink hair|粉发;short hair|短发;wavy hair|波浪发;ahoge|呆毛;red ribbon|红色丝带;red eyes|红眼;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;detached sleeves|分离式袖子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "天鹰",
+      "tag": "aquila (kancolle)",
+      "charZh": "天鹰（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;green eyes|绿眼;military uniform|军装;white jacket|白色外套;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "飞鹰",
+      "tag": "hiyou (kancolle)",
+      "charZh": "飞鹰（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;high ponytail|高马尾;white ribbon|白色丝带;brown eyes|棕色眼睛;green uniform|绿色制服;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "春风",
+      "tag": "harukaze (kancolle)",
+      "charZh": "春风（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;twin drills|双螺旋卷发;red ribbon|红色丝带;brown eyes|棕色眼睛;japanese clothes|和服;white kimono|白色和服;dark sleeves|深色袖子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "子日",
+      "tag": "nenohi (kancolle)",
+      "charZh": "子日（舰队Collection）",
+      "auto": "pink hair|粉发;short hair|短发;side braid|侧编发;ahoge|呆毛;red ribbon|红色丝带;yellow eyes|黄眼;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "纳尔逊",
+      "tag": "nelson (kancolle)",
+      "charZh": "纳尔逊（舰队Collection）",
+      "auto": "red hair|红发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;yellow eyes|黄眼;military uniform|军装;dark blue coat|深蓝大衣;cravat|领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "霰",
+      "tag": "arare (kancolle)",
+      "charZh": "霰（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;glasses|眼镜;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊13",
+      "tag": "i-13 (kancolle)",
+      "charZh": "伊13（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;wavy hair|波浪发;white ribbon|白色丝带;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "冲波",
+      "tag": "okinami (kancolle)",
+      "charZh": "冲波（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;straight hair|直发;glasses|眼镜;red hairclip|红色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "春日丸",
+      "tag": "kasuga maru (kancolle)",
+      "charZh": "春日丸（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;hime cut|姬发式;hair flower|花朵发饰;brown eyes|棕色眼睛;red necktie|红领带;white uniform|白色制服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "名取",
+      "tag": "natori (kancolle)",
+      "charZh": "名取（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;wavy hair|波浪发;white hairband|白色发箍;red ribbon|红色丝带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "莫加多尔",
+      "tag": "mogador (kancolle)",
+      "charZh": "莫加多尔（舰队Collection）",
+      "auto": "white hair|白发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;blue jacket|蓝色外套;white sailor collar|白色水手领;ribbon|丝带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊良湖",
+      "tag": "irako (kancolle)",
+      "charZh": "伊良湖（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;wavy hair|波浪发;white hairband|白色发箍;white ribbon|白色丝带;amber eyes|琥珀色眼睛;japanese clothes|和服;yellow kimono|黄色和服;white apron|白色围裙;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "长良",
+      "tag": "nagara (kancolle)",
+      "charZh": "长良（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;hairclip|发夹;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;armband|臂章;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "峰云",
+      "tag": "minegumo (kancolle)",
+      "charZh": "峰云（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;wavy hair|波浪发;red hairband|红色发箍;ribbon headband|丝带发箍;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "菊月",
+      "tag": "kikuzuki (kancolle)",
+      "charZh": "菊月（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;short hair|短发;bob cut|波波头;blunt bangs|齐刘海;grey eyes|灰眼;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "南达科他",
+      "tag": "south dakota (kancolle)",
+      "charZh": "南达科他（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;wavy hair|波浪发;tanned|小麦色皮肤;military hat|军帽;peaked cap|大檐帽;amber eyes|琥珀色眼睛;military uniform|军装;dark blue coat|深蓝大衣;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "藤波",
+      "tag": "fujinami (kancolle)",
+      "charZh": "藤波（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;wavy hair|波浪发;red hairclip|红色发夹;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "滨波",
+      "tag": "hamanami (kancolle)",
+      "charZh": "滨波（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;wavy hair|波浪发;red hairclip|红色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊14",
+      "tag": "i-14 (kancolle)",
+      "charZh": "伊14（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;wavy hair|波浪发;goggles on head|头戴护目镜;red ribbon|红色丝带;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "水无月",
+      "tag": "minazuki (kancolle)",
+      "charZh": "水无月（舰队Collection）",
+      "auto": "light blue hair|浅蓝发;short hair|短发;white ribbon|白色丝带;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "斯坎普",
+      "tag": "scamp (kancolle)",
+      "charZh": "斯坎普（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;wavy hair|波浪发;ahoge|呆毛;naval cap|海军帽;white hat|白帽子;green eyes|绿眼;black gloves|黑手套;white sailor shirt|白色水手服上衣;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "若叶",
+      "tag": "wakaba (kancolle)",
+      "charZh": "若叶（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;green hairclip|绿色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "长鲸",
+      "tag": "chougei (kancolle)",
+      "charZh": "长鲸（舰队Collection）",
+      "auto": "purple hair|紫发;long hair|长发;wavy hair|波浪发;hair flower|花朵发饰;purple eyes|紫眼;japanese clothes|和服;light blue kimono|浅蓝和服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "旗风",
+      "tag": "hatakaze (kancolle)",
+      "charZh": "旗风（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;straight hair|直发;red ribbon|红色丝带;hair ribbon|发带;brown eyes|棕色眼睛;japanese clothes|和服;dark blue kimono|深蓝和服;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "大东",
+      "tag": "daitou (kancolle)",
+      "charZh": "大东（舰队Collection）",
+      "auto": "light brown hair|浅棕发;short hair|短发;bob cut|波波头;naval cap|海军帽;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "日振",
+      "tag": "hiburi (kancolle)",
+      "charZh": "日振（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;bob cut|波波头;naval cap|海军帽;white hat|白帽子;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "瑞穗",
+      "tag": "mizuho (kancolle)",
+      "charZh": "瑞穗（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;hime cut|姬发式;white headband|白色发带;brown eyes|棕色眼睛;japanese clothes|和服;white kimono|白色和服;red bowtie|红蝴蝶结;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "浦波",
+      "tag": "uranami (kancolle)",
+      "charZh": "浦波（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;white ribbon|白色丝带;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "龙凤",
+      "tag": "ryuuhou (kancolle)",
+      "charZh": "龙凤（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;hime cut|姬发式;hair flower|花朵发饰;blue eyes|蓝色眼睛;japanese clothes|和服;pink kimono|粉色和服;dark sleeves|深色袖子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "松风",
+      "tag": "matsukaze (kancolle)",
+      "charZh": "松风（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;red ribbon|红色丝带;amber eyes|琥珀色眼睛;japanese clothes|和服;white kimono|白色和服;dark sleeves|深色袖子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "华盛顿",
+      "tag": "washington (kancolle)",
+      "charZh": "华盛顿（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;blue eyes|蓝色眼睛;military uniform|军装;dark blue coat|深蓝大衣;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "西北风",
+      "tag": "maestrale (kancolle)",
+      "charZh": "西北风（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;ahoge|呆毛;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "占守",
+      "tag": "shimushu (kancolle)",
+      "charZh": "占守（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;naval cap|海军帽;green eyes|绿眼;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "游骑兵",
+      "tag": "ranger (kancolle)",
+      "charZh": "游骑兵（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;white hat|白帽子;green eyes|绿眼;military uniform|军装;dark blue jacket|深蓝外套;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "薄云",
+      "tag": "usugumo (kancolle)",
+      "charZh": "薄云（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;glasses|眼镜;white hairclip|白色发夹;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "神鹰",
+      "tag": "shin'you (kancolle)",
+      "charZh": "神鹰（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;white hairband|白色发箍;white ribbon|白色丝带;blue eyes|蓝色眼睛;white jacket|白色外套;red bowtie|红蝴蝶结;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "御藏",
+      "tag": "mikura (kancolle)",
+      "charZh": "御藏（舰队Collection）",
+      "auto": "light brown hair|浅棕发;long hair|长发;low twintails|低双马尾;naval cap|海军帽;white hat|白帽子;grey eyes|灰眼;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "等离子酱",
+      "tag": "plasma-chan (kancolle)",
+      "charZh": "等离子酱（舰队Collection）",
+      "auto": "light brown hair|浅棕发;short hair|短发;twintails|双马尾;ahoge|呆毛;red ribbon|红色丝带;aqua eyes|水蓝色眼睛;black fingerless gloves|黑色露指手套;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "早潮",
+      "tag": "hayashio (kancolle)",
+      "charZh": "早潮（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;wavy hair|波浪发;red ribbon|红色丝带;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "平户",
+      "tag": "hirato (kancolle)",
+      "charZh": "平户（舰队Collection）",
+      "auto": "silver hair|银发;short hair|短发;wavy hair|波浪发;glasses|眼镜;naval cap|海军帽;white hat|白帽子;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;light blue neckerchief|浅蓝领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "鹈来",
+      "tag": "ukuru (kancolle)",
+      "charZh": "鹈来（舰队Collection）",
+      "auto": "light brown hair|浅棕发;short hair|短发;yellow ribbon|黄色丝带;naval cap|海军帽;white hat|白帽子;brown eyes|棕色眼睛;white shirt|白衬衫;dark blue jumper dress|深蓝背带裙;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊47",
+      "tag": "i-47 (kancolle)",
+      "charZh": "伊47（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;straight hair|直发;headphones|头戴式耳机;red ribbon|红色丝带;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "海伦娜",
+      "tag": "helena (kancolle)",
+      "charZh": "海伦娜（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "日进",
+      "tag": "nisshin (kancolle)",
+      "charZh": "日进（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;high ponytail|高马尾;white ribbon|白色丝带;hair ornament|发饰;amber eyes|琥珀色眼睛;japanese clothes|和服;white kimono|白色和服;red ribbon|红色丝带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "檀香山",
+      "tag": "honolulu (kancolle)",
+      "charZh": "檀香山（舰队Collection）",
+      "auto": "red hair|红发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;amber eyes|琥珀色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "德·鲁伊特",
+      "tag": "de ruyter (kancolle)",
+      "charZh": "德·鲁伊特（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white jacket|白色外套;red necktie|红领带;military uniform|军装;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "甘古特改二",
+      "tag": "gangut dva (kancolle)",
+      "charZh": "甘古特改二（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;red eyes|红眼;military uniform|军装;dark blue coat|深蓝大衣;fur-trimmed collar|毛领;red scarf|红围巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "福江",
+      "tag": "fukae (kancolle)",
+      "charZh": "福江（舰队Collection）",
+      "auto": "dark green hair|深绿发;short hair|短发;hairpin|发夹;naval cap|海军帽;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "宗谷",
+      "tag": "souya (kancolle)",
+      "charZh": "宗谷（舰队Collection）",
+      "auto": "white hair|白发;long hair|长发;wavy hair|波浪发;peaked cap|大檐帽;white hat|白帽子;blue eyes|蓝色眼睛;white jacket|白色外套;orange trim|橙色饰边;red ribbon|红色丝带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "第四号海防舰",
+      "tag": "kaiboukan no. 4 (kancolle)",
+      "charZh": "第四号海防舰（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;ahoge|呆毛;naval cap|海军帽;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "初代",
+      "tag": "girl holding a cat (kancolle)",
+      "charZh": "初代（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;bob cut|波波头;hairclip|发夹;brown eyes|棕色眼睛;beige cardigan|米色开衫;serafuku|水手服;holding cat|抱着猫;calico cat|三花猫;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "马里兰",
+      "tag": "maryland (kancolle)",
+      "charZh": "马里兰（舰队Collection）",
+      "auto": "reddish brown hair|红棕色头发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;amber eyes|琥珀色眼睛;military uniform|军装;dark blue coat|深蓝大衣;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "国后",
+      "tag": "kunashiri (kancolle)",
+      "charZh": "国后（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;naval cap|海军帽;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "早波",
+      "tag": "hayanami (kancolle)",
+      "charZh": "早波（舰队Collection）",
+      "auto": "dark brown hair|深棕发;medium hair|中长发;ahoge|呆毛;red hairclip|红色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;teal neckerchief|青色领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "大鹰",
+      "tag": "taiyou (kancolle)",
+      "charZh": "大鹰（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;hime cut|姬发式;white headband|白色发带;brown eyes|棕色眼睛;japanese clothes|和服;white kimono|白色和服;black sleeves|黑色袖子;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "丹阳",
+      "tag": "tan yang (kancolle)",
+      "charZh": "丹阳（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;bob cut|波波头;naval cap|海军帽;white hat|白帽子;amber eyes|琥珀色眼睛;white jacket|白色外套;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "路易吉·托雷利",
+      "tag": "luigi torelli (kancolle)",
+      "charZh": "路易吉·托雷利（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;brown eyes|棕色眼睛;dark blue jacket|深蓝外套;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "海伍德·L·爱德华兹",
+      "tag": "heywood l. edwards (kancolle)",
+      "charZh": "海伍德·L·爱德华兹（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "天雾",
+      "tag": "amagiri (kancolle)",
+      "charZh": "天雾（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;spiky hair|刺猬头;red hairband|红色发箍;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "谢菲尔德",
+      "tag": "sheffield (kancolle)",
+      "charZh": "谢菲尔德（舰队Collection）",
+      "auto": "silver hair|银发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;white hat|白帽子;grey eyes|灰眼;military uniform|军装;dark blue jacket|深蓝外套;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "塔斯卡卢萨",
+      "tag": "tuscaloosa (kancolle)",
+      "charZh": "塔斯卡卢萨（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;black gloves|黑手套;dark blue jacket|深蓝外套;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "德拉姆",
+      "tag": "drum (kancolle)",
+      "charZh": "德拉姆（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;wavy hair|波浪发;ahoge|呆毛;naval cap|海军帽;white hat|白帽子;amber eyes|琥珀色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊400",
+      "tag": "i-400 (kancolle)",
+      "charZh": "伊400（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;high ponytail|高马尾;ahoge|呆毛;white ribbon|白色丝带;tanned|小麦色皮肤;blue eyes|蓝色眼睛;dark blue serafuku|深蓝水手服;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "八丈",
+      "tag": "hachijou (kancolle)",
+      "charZh": "八丈（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;naval cap|海军帽;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊203",
+      "tag": "i-203 (kancolle)",
+      "charZh": "伊203（舰队Collection）",
+      "auto": "silver hair|银发;short hair|短发;wavy hair|波浪发;hairclip|发夹;aqua eyes|水蓝色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "休斯顿",
+      "tag": "houston (kancolle)",
+      "charZh": "休斯顿（舰队Collection）",
+      "auto": "light brown hair|浅棕发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;amber eyes|琥珀色眼睛;white jacket|白色外套;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "秋霜",
+      "tag": "akishimo (kancolle)",
+      "charZh": "秋霜（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;red hairclip|红色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "阿布鲁齐公爵",
+      "tag": "luigi di savoia duca degli abruzzi (kancolle)",
+      "charZh": "阿布鲁齐公爵（舰队Collection）",
+      "auto": "white hair|白发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white jacket|白色外套;red neckerchief|红领巾;military uniform|军装;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "东南风",
+      "tag": "scirocco (kancolle)",
+      "charZh": "东南风（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;amber eyes|琥珀色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "刺鲅",
+      "tag": "wahoo (kancolle)",
+      "charZh": "刺鲅（舰队Collection）",
+      "auto": "orange hair|橘发;short hair|短发;spiky hair|刺猬头;naval cap|海军帽;white hat|白帽子;green eyes|绿眼;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "小蓝鲸",
+      "tag": "little blue whale (kancolle)",
+      "charZh": "小蓝鲸（舰队Collection）",
+      "auto": "whale|鲸鱼;mascot|吉祥物;naval cap|海军帽;blue skin|蓝色皮肤;chibi|Q版;no humans|无人类",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "弗莱彻 Mk.II",
+      "tag": "fletcher mk ii (kancolle)",
+      "charZh": "弗莱彻 Mk.II（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;white hat|白帽子;star hair ornament|星星发饰;headphones around neck|颈挂耳机;blue eyes|蓝色眼睛;dark blue jacket|深蓝外套;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "萨拉托加 Mk II",
+      "tag": "saratoga mk ii (kancolle)",
+      "charZh": "萨拉托加 Mk II（舰队Collection）",
+      "auto": "black hair|黑发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;white hat|白帽子;blue eyes|蓝色眼睛;military uniform|军装;dark blue jacket|深蓝外套;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "明尼阿波利斯",
+      "tag": "minneapolis (kancolle)",
+      "charZh": "明尼阿波利斯（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;twintails|双马尾;naval cap|海军帽;white hat|白帽子;blue ribbon|蓝色丝带;amber eyes|琥珀色眼睛;dark blue jacket|深蓝外套;epaulettes|肩章;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "扎拉改",
+      "tag": "zara due (kancolle)",
+      "charZh": "扎拉改（舰队Collection）",
+      "auto": "red hair|红发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;white hat|白帽子;amber eyes|琥珀色眼睛;military uniform|军装;coat on shoulders|披外套;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "玉波",
+      "tag": "tamanami (kancolle)",
+      "charZh": "玉波（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;red hairclip|红色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "胜利",
+      "tag": "victorious (kancolle)",
+      "charZh": "胜利（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;white hat|白帽子;blue eyes|蓝色眼睛;military uniform|军装;dark blue coat|深蓝大衣;red ribbon|红色丝带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "朱塞佩·加里波第",
+      "tag": "giuseppe garibaldi (kancolle)",
+      "charZh": "朱塞佩·加里波第（舰队Collection）",
+      "auto": "white hair|白发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white jacket|白色外套;red neckerchief|红领巾;military uniform|军装;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "有明",
+      "tag": "ariake (kancolle)",
+      "charZh": "有明（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;white ribbon|白色丝带;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "朝日",
+      "tag": "asahi (kancolle)",
+      "charZh": "朝日（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;straight hair|直发;hair ornament|发饰;brown eyes|棕色眼睛;white jacket|白色外套;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "卷波",
+      "tag": "makinami (kancolle)",
+      "charZh": "卷波（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;wavy hair|波浪发;red hairclip|红色发夹;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "内华达",
+      "tag": "nevada (kancolle)",
+      "charZh": "内华达（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;blue eyes|蓝色眼睛;military uniform|军装;dark blue coat|深蓝大衣;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "浮游要塞",
+      "tag": "floating fortress (kancolle)",
+      "charZh": "浮游要塞（舰队Collection）",
+      "auto": "abyssal ship|深海栖舰;floating fortress|浮游要塞;glowing eyes|发光眼睛;aqua eyes|水蓝色眼睛;no humans|无人类",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "兰利",
+      "tag": "langley (kancolle)",
+      "charZh": "兰利（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;wavy hair|波浪发;glasses|眼镜;military hat|军帽;peaked cap|大檐帽;white hat|白帽子;blue eyes|蓝色眼睛;military uniform|军装;dark blue jacket|深蓝外套;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "八幡丸",
+      "tag": "yawata maru (kancolle)",
+      "charZh": "八幡丸（舰队Collection）",
+      "auto": "dark brown hair|深棕发;long hair|长发;hime cut|姬发式;hair flower|花朵发饰;brown eyes|棕色眼睛;japanese clothes|和服;red necktie|红领带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "石垣",
+      "tag": "ishigaki (kancolle)",
+      "charZh": "石垣（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;naval cap|海军帽;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊201",
+      "tag": "i-201 (kancolle)",
+      "charZh": "伊201（舰队Collection）",
+      "auto": "light blue hair|浅蓝发;short hair|短发;wavy hair|波浪发;hairclip|发夹;aqua eyes|水蓝色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "加富尔伯爵改",
+      "tag": "conte di cavour nuovo (kancolle)",
+      "charZh": "加富尔伯爵改（舰队Collection）",
+      "auto": "dark blue hair|深蓝发;long hair|长发;wavy hair|波浪发;military hat|军帽;peaked cap|大檐帽;white hat|白帽子;amber eyes|琥珀色眼睛;military uniform|军装;dark blue coat|深蓝大衣;red scarf|红围巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "哥特兰Andra",
+      "tag": "gotland andra (kancolle)",
+      "charZh": "哥特兰Andra（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;side braid|侧编发;hair ribbon|发带;blue eyes|蓝色眼睛;blue jacket|蓝色外套;military uniform|军装;mouse on shoulder|肩上小老鼠;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "屋代",
+      "tag": "yashiro (kancolle)",
+      "charZh": "屋代（舰队Collection）",
+      "auto": "brown hair|棕色头发;short hair|短发;wavy hair|波浪发;naval cap|海军帽;hair flower|花朵发饰;brown eyes|棕色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "格洛瓦",
+      "tag": "gloire (kancolle)",
+      "charZh": "格洛瓦（舰队Collection）",
+      "auto": "blonde hair|金发;short hair|短发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;blue eyes|蓝色眼睛;white jacket|白色外套;neckerchief|领巾;military uniform|军装;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "标枪",
+      "tag": "javelin (kancolle)",
+      "charZh": "标枪（舰队Collection）",
+      "auto": "blonde hair|金发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;green eyes|绿眼;dark blue jacket|深蓝外套;red ribbon|红色丝带;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "理查德·P·利里",
+      "tag": "richard p. leary (kancolle)",
+      "charZh": "理查德·P·利里（舰队Collection）",
+      "auto": "brown hair|棕色头发;long hair|长发;wavy hair|波浪发;naval cap|海军帽;white hat|白帽子;amber eyes|琥珀色眼睛;white sailor shirt|白色水手服上衣;blue sailor collar|蓝色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "昭南",
+      "tag": "shounan (kancolle)",
+      "charZh": "昭南（舰队Collection）",
+      "auto": "dark brown hair|深棕发;short hair|短发;bob cut|波波头;naval cap|海军帽;brown eyes|棕色眼睛;dark blue serafuku|深蓝水手服;white sailor collar|白色水手领;red neckerchief|红领巾;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "山汐丸",
+      "tag": "yamashio maru (kancolle)",
+      "charZh": "山汐丸（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;short hair|短发;brown eyes|棕眼;military uniform|军装;cap|帽子;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "北安普敦",
+      "tag": "northampton (kancolle)",
+      "charZh": "北安普敦（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;long hair|长发;blue eyes|蓝眼;naval uniform|海军制服;jacket|外套;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "凉波",
+      "tag": "suzunami (kancolle)",
+      "charZh": "凉波（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;short hair|短发;brown eyes|棕眼;serafuku|水手服;neckerchief|领巾;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "白云",
+      "tag": "shirakumo (kancolle)",
+      "charZh": "白云（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;medium hair|中长发;brown eyes|棕眼;serafuku|水手服;ribbon|丝带;gentle smile|温柔微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "夏云",
+      "tag": "natsugumo (kancolle)",
+      "charZh": "夏云（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;short hair|短发;brown eyes|棕眼;serafuku|水手服;neckerchief|领巾;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "松",
+      "tag": "matsu (kancolle)",
+      "charZh": "松（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;black hair|黑发;short hair|短发;dark eyes|深色眼睛;serafuku|水手服;sailor collar|水手领;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "第三十号海防舰",
+      "tag": "kaiboukan no. 30 (kancolle)",
+      "charZh": "第三十号海防舰（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;short hair|短发;brown eyes|棕眼;sailor uniform|水手服;beret|贝雷帽;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "稻木",
+      "tag": "inagi (kancolle)",
+      "charZh": "稻木（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;medium hair|中长发;brown eyes|棕眼;sailor uniform|水手服;hat|帽子;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "布鲁克林",
+      "tag": "brooklyn (kancolle)",
+      "charZh": "布鲁克林（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;long hair|长发;blue eyes|蓝眼;naval uniform|海军制服;hat|帽子;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "让·巴尔",
+      "tag": "jean bart (kancolle)",
+      "charZh": "让·巴尔（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;long hair|长发;blue eyes|蓝眼;military uniform|军装;jacket|外套;confident|自信",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "罗德尼",
+      "tag": "rodney (kancolle)",
+      "charZh": "罗德尼（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;long hair|长发;blue eyes|蓝眼;naval uniform|海军制服;beret|贝雷帽;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "卡佩里尼指挥官",
+      "tag": "comandante cappellini (kancolle)",
+      "charZh": "卡佩里尼指挥官（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;medium hair|中长发;green eyes|绿眼;naval uniform|海军制服;jacket|外套;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "桃",
+      "tag": "momo (kancolle)",
+      "charZh": "桃（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;pink hair|粉发;short hair|短发;brown eyes|棕眼;serafuku|水手服;neckerchief|领巾;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "意大利",
+      "tag": "italia (kancolle)",
+      "charZh": "意大利（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;green hair|绿发;long hair|长发;brown eyes|棕眼;military uniform|军装;capelet|披肩;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊36",
+      "tag": "i-36 (kancolle)",
+      "charZh": "伊36（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;black hair|黑发;medium hair|中长发;brown eyes|棕眼;naval uniform|海军制服;jacket|外套;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "梅",
+      "tag": "ume (kancolle)",
+      "charZh": "梅（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;short hair|短发;brown eyes|棕眼;serafuku|水手服;ribbon|丝带;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "列克星敦",
+      "tag": "lexington (kancolle)",
+      "charZh": "列克星敦（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;long hair|长发;blue eyes|蓝眼;naval uniform|海军制服;jacket|外套;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "熊野丸",
+      "tag": "kumano maru (kancolle)",
+      "charZh": "熊野丸（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;long hair|长发;brown eyes|棕眼;military uniform|军装;cap|帽子;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "马萨诸塞",
+      "tag": "massachusetts (kancolle)",
+      "charZh": "马萨诸塞（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;long hair|长发;blue eyes|蓝眼;naval uniform|海军制服;jacket|外套;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "能美",
+      "tag": "noumi (kancolle)",
+      "charZh": "能美（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;short hair|短发;brown eyes|棕眼;serafuku|水手服;beret|贝雷帽;yellow neckerchief|黄色领巾;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "吞武里",
+      "tag": "thonburi (kancolle)",
+      "charZh": "吞武里（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;long hair|长发;brown eyes|棕眼;white jacket|白色外套;naval uniform|海军制服;epaulettes|肩章;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "伊504",
+      "tag": "i-504 (kancolle)",
+      "charZh": "伊504（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;medium hair|中长发;green eyes|绿眼;naval uniform|海军制服;red neckerchief|红色领巾;hairband|发带;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "英勇",
+      "tag": "valiant (kancolle)",
+      "charZh": "英勇（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;long hair|长发;blue eyes|蓝眼;military uniform|军装;capelet|披肩;crown|皇冠;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "俾斯麦（Drei）",
+      "tag": "bismarck drei (kancolle)",
+      "charZh": "俾斯麦（Drei）（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;long hair|长发;blue eyes|蓝眼;military uniform|军装;peaked cap|大檐帽;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "凤凰城",
+      "tag": "phoenix (kancolle)",
+      "charZh": "凤凰城（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;red hair|红发;long hair|长发;blue eyes|蓝眼;naval uniform|海军制服;red necktie|红色领带;garrison cap|船形帽;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "鲦鱼",
+      "tag": "dace (kancolle)",
+      "charZh": "鲦鱼（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;medium hair|中长发;blue eyes|蓝眼;serafuku|水手服;sailor hat|水手帽;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "萨蒙",
+      "tag": "salmon (kancolle)",
+      "charZh": "萨蒙（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;pink hair|粉发;medium hair|中长发;aqua eyes|青眼;serafuku|水手服;red neckerchief|红色领巾;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "烈风",
+      "tag": "reppuu (kancolle)",
+      "charZh": "烈风（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;green hair|绿发;medium hair|中长发;yellow eyes|黄眼;goggles on head|护目镜;white scarf|白色围巾;jacket|外套;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "南海",
+      "tag": "nankai (kancolle)",
+      "charZh": "南海（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;ponytail|马尾;brown eyes|棕眼;serafuku|水手服;blue neckerchief|蓝色领巾;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "竹",
+      "tag": "take (kancolle)",
+      "charZh": "竹（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;green hair|绿发;short hair|短发;amber eyes|琥珀眼;serafuku|水手服;hair ornament|发饰;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "云鹰",
+      "tag": "un'you (kancolle)",
+      "charZh": "云鹰（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;black hair|黑发;long hair|长发;brown eyes|棕眼;hair ribbon|发带;japanese clothes|和风服饰;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "平安丸",
+      "tag": "heian maru (kancolle)",
+      "charZh": "平安丸（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;wavy hair|波浪发;brown eyes|棕眼;white jacket|白色外套;naval uniform|海军制服;hat|帽子;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "夕暮",
+      "tag": "yuugure (kancolle)",
+      "charZh": "夕暮（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;medium hair|中长发;brown eyes|棕眼;serafuku|水手服;red ribbon|红丝带;red neckerchief|红色领巾;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "塞缪尔·B·罗伯茨（Mk.II）",
+      "tag": "samuel b. roberts mk ii (kancolle)",
+      "charZh": "塞缪尔·B·罗伯茨（Mk.II）（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;side ponytail|侧马尾;blue eyes|蓝眼;serafuku|水手服;hat|帽子;red neckerchief|红色领巾;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "基洛夫",
+      "tag": "kirov (kancolle)",
+      "charZh": "基洛夫（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;white hair|白发;long hair|长发;blue eyes|蓝眼;military uniform|军装;peaked cap|大檐帽;fur trim|毛领;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "榧",
+      "tag": "kaya (kancolle)",
+      "charZh": "榧（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;medium hair|中长发;hazel eyes|淡褐眼;serafuku|水手服;hair ornament|发饰;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "维修娘",
+      "tag": "maintenance musume (kancolle)",
+      "charZh": "维修娘（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;short hair|短发;brown eyes|棕眼;overalls|背带裤;headband|发带;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "杉",
+      "tag": "sugi (kancolle)",
+      "charZh": "杉（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;medium hair|中长发;green eyes|绿眼;serafuku|水手服;hair ornament|发饰;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "黄蜂",
+      "tag": "wasp (kancolle)",
+      "charZh": "黄蜂（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;blonde hair|金发;long hair|长发;blue eyes|蓝眼;naval uniform|海军制服;black necktie|黑色领带;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "甘比尔湾Mk.II",
+      "tag": "gambier bay mk ii (kancolle)",
+      "charZh": "甘比尔湾Mk.II（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;white hair|白发;wavy hair|波浪发;blue eyes|蓝眼;serafuku|水手服;garrison cap|船形帽;red neckerchief|红色领巾;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "仓桥",
+      "tag": "kurahashi (kancolle)",
+      "charZh": "仓桥（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;medium hair|中长发;brown eyes|棕眼;serafuku|水手服;beret|贝雷帽;yellow neckerchief|黄色领巾;hairpin|发夹;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "第二十二号海防舰",
+      "tag": "kaiboukan no. 22 (kancolle)",
+      "charZh": "第二十二号海防舰（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;brown hair|棕发;short hair|短发;brown eyes|棕眼;serafuku|水手服;sailor hat|水手帽;red neckerchief|红色领巾;hairpin|发夹;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "舰队Collection",
+      "gameTag": "kantai collection",
+      "name": "花月（舰C）",
+      "tag": "hanazuki (kancolle)",
+      "charZh": "花月（舰C）（舰队Collection）",
+      "auto": "small breasts|小胸;1girl|单人女性;pink hair|粉发;long hair|长发;amber eyes|琥珀眼;serafuku|水手服;flower hair ornament|花朵发饰;red neckerchief|红色领巾;smile|微笑",
+      "subName": ""
+    }
+  ]
+}

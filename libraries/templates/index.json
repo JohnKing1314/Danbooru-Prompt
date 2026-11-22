@@ -1,0 +1,67 @@
+{
+  "version": "1.0",
+  "kind": "templates",
+  "count": 12,
+  "items": [
+    {
+      "id": "album",
+      "name": "专辑封面",
+      "file": "album.json"
+    },
+    {
+      "id": "film",
+      "name": "电影剧照",
+      "file": "film.json"
+    },
+    {
+      "id": "info",
+      "name": "信息图",
+      "file": "info.json"
+    },
+    {
+      "id": "keyvisual",
+      "name": "游戏主视觉",
+      "file": "keyvisual.json"
+    },
+    {
+      "id": "magazine",
+      "name": "杂志封面",
+      "file": "magazine.json"
+    },
+    {
+      "id": "picturebook",
+      "name": "绘本跨页",
+      "file": "picturebook.json"
+    },
+    {
+      "id": "poster",
+      "name": "活动海报（中文）",
+      "file": "poster.json"
+    },
+    {
+      "id": "product",
+      "name": "商品广告图",
+      "file": "product.json"
+    },
+    {
+      "id": "quad",
+      "name": "四格漫画页",
+      "file": "quad.json"
+    },
+    {
+      "id": "sheet",
+      "name": "角色设定卡",
+      "file": "sheet.json"
+    },
+    {
+      "id": "strip",
+      "name": "竖排四格",
+      "file": "strip.json"
+    },
+    {
+      "id": "turnaround",
+      "name": "角色三视图",
+      "file": "turnaround.json"
+    }
+  ]
+}

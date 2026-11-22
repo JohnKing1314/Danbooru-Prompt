@@ -1,0 +1,1432 @@
+{
+  "id": "lighting",
+  "name": "光影和氛围",
+  "icon": "💡",
+  "parentId": "style_group",
+  "level": 2,
+  "order": 5,
+  "file": "style_group/style_group_lighting.json",
+  "updatedAt": "2026-11-18T05:36:30.150Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "softbox lighting",
+      "zh": "柔光箱布光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "soft shadow gradient",
+      "zh": "柔和阴影渐变",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cinematic lighting",
+      "zh": "电影感光效",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rim light",
+      "zh": "轮廓光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "backlighting",
+      "zh": "逆光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46517,
+      "desc": "光源在主体背后、边缘发亮的逆光",
+      "kw": "背光 / 背光照射 / 逆光效果 / 轮廓光 / 边缘发光 / 光效 / backlit / bright background"
+    },
+    {
+      "en": "god rays",
+      "zh": "神圣光柱",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "volumetric lighting",
+      "zh": "体积光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "soft lighting",
+      "zh": "柔和光线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17
+    },
+    {
+      "en": "hard light",
+      "zh": "硬光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "golden hour",
+      "zh": "黄金时刻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 396,
+      "desc": "日出后或日落前色调偏暖的时段",
+      "kw": "黄金时间 / 金色时刻 / 魔法时刻 / 黄金光线 / 日出日落暖光 / 暖调时刻 / 日落暖光 / 日出金辉"
+    },
+    {
+      "en": "blue hour",
+      "zh": "蓝调时刻",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "neon lights",
+      "zh": "霓虹灯光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3628,
+      "desc": "充入氖气等气体发光的管状灯具。",
+      "kw": "霓虹 / 氖灯 / 霓虹灯牌 / 霓虹招牌 / 霓虹灯管 / 灯光 / 赛博朋克 / ネオン / ネオンサイン"
+    },
+    {
+      "en": "chiaroscuro",
+      "zh": "明暗对照",
+      "rating": "g",
+      "nsfw": false,
+      "count": 464,
+      "desc": "以强烈明暗对比塑造体积的画法。",
+      "kw": "明暗对比 / 明暗对照法 / 暗部亮部对比 / 强烈明暗 / 光影对比 / 明暗法 / 光影效果 / 艺术技法 / キアロスクーロ"
+    },
+    {
+      "en": "bloom",
+      "zh": "泛光效果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5528,
+      "desc": "亮部向外晕开的泛光效果",
+      "kw": "辉光 / 光晕 / 柔光 / 高光溢出 / 眩光 / 光渗 / 光扩散"
+    },
+    {
+      "en": "lens flare",
+      "zh": "镜头光晕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 51333,
+      "desc": "强光进入镜头产生的光斑",
+      "kw": "镜头耀斑 / 镜头光斑 / 镜头眩光 / 光晕 / 耀光 / 眩光 / 漏光 / 镜头反射光 / lensflare"
+    },
+    {
+      "en": "studio lighting",
+      "zh": "影棚灯光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "natural lighting",
+      "zh": "自然光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ambient light",
+      "zh": "环境光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "directional light",
+      "zh": "定向光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "split lighting",
+      "zh": "分割布光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "butterfly lighting",
+      "zh": "蝴蝶光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rembrandt lighting",
+      "zh": "伦勃朗光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "loop lighting",
+      "zh": "环形布光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "three point lighting",
+      "zh": "三点布光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "key light",
+      "zh": "主光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "fill light",
+      "zh": "补光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "practical light",
+      "zh": "实景光源",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "candlelight",
+      "zh": "烛光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1401,
+      "desc": "以烛光为主要光源的昏暗场景",
+      "kw": "蜡烛光 / 烛火照明 / 蜡烛照明 / 烛光氛围 / 烛光效果 / 光源 / 照明"
+    },
+    {
+      "en": "moonlight",
+      "zh": "月光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4915,
+      "desc": "夜晚月亮洒下的淡白偏蓝的光",
+      "kw": "月色 / 月明 / 明月光 / 月亮光 / 月光光 / 光线 / 夜晚 / 月明かり"
+    },
+    {
+      "en": "sunlight",
+      "zh": "日光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 104088,
+      "desc": "被强调呈现的太阳光线。",
+      "kw": "太阳光 / 太阳光线 / 日照 / 阳光照射 / 光线 / 光照 / sunshine"
+    },
+    {
+      "en": "dawn light",
+      "zh": "黎明光线",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dusk light",
+      "zh": "黄昏光线",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "twilight",
+      "zh": "暮色光线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9143,
+      "desc": "日出前或日落后天空微亮的时刻。",
+      "kw": "薄暮 / 暮色 / 黄昏时刻 / 微明 / 晨昏蒙影 / 场景 / 夕暗 / 暮光 / 夕暮れ / 夕闇"
+    },
+    {
+      "en": "sunset glow",
+      "zh": "落日余晖",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sunrise light",
+      "zh": "日出光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "overcast lighting",
+      "zh": "阴天光线",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "foggy light",
+      "zh": "雾气光线",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "misty atmosphere",
+      "zh": "薄雾氛围",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "haze",
+      "zh": "朦胧光雾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 277,
+      "desc": "因尘埃烟雾导致空气浑浊的景色",
+      "kw": "霾 / 雾霾 / 大气阴霾 / 烟雾弥漫 / 空气浑浊 / 天气 / 大气"
+    },
+    {
+      "en": "dust motes",
+      "zh": "浮尘光点",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "spotlight",
+      "zh": "聚光灯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9823,
+      "desc": "从上方照在某人身上的聚光灯光束",
+      "kw": "追光灯 / 舞台灯 / 射灯 / 聚光灯光束 / 灯光 / 舞台 / スポットライト"
+    },
+    {
+      "en": "floodlight",
+      "zh": "泛光灯",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "strobe light",
+      "zh": "闪光灯",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bioluminescence",
+      "zh": "生物荧光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 459,
+      "desc": "生物体内化学反应产生的发光现象",
+      "kw": "生物光 / 发光生物现象 / 发光 / 特效 / 生物発光"
+    },
+    {
+      "en": "glowing",
+      "zh": "发光效果",
+      "rating": "g",
+      "nsfw": false,
+      "count": 141816,
+      "desc": "物体或角色辐射出光芒。",
+      "kw": "散发光芒 / 闪闪发光 / 放出光芒 / 光芒四射 / 光亮 / 光辉 / 荧荧发光 / glow / 発光"
+    },
+    {
+      "en": "luminous",
+      "zh": "明亮通透",
+      "rating": "g",
+      "nsfw": false,
+      "count": 197,
+      "kw": "lumining / lumining / luminousart / luminous art"
+    },
+    {
+      "en": "iridescent",
+      "zh": "虹彩光泽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1163,
+      "desc": "随观察角度变化颜色的表面",
+      "kw": "虹色 / 珠光色 / 幻彩 / 变色效果 / 五彩斑斓 / 镭射效果 / 全息色 / 偏光色 / 玉虫色 / 镭射"
+    },
+    {
+      "en": "phosphorescent",
+      "zh": "磷光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "firelight",
+      "zh": "火光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "warm lighting",
+      "zh": "暖色调光线",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cool lighting",
+      "zh": "冷色调光线",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "high key lighting",
+      "zh": "高调布光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "low key lighting",
+      "zh": "低调布光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "moody lighting",
+      "zh": "情绪化光线",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dramatic lighting",
+      "zh": "戏剧性光线",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ethereal lighting",
+      "zh": "空灵光效",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dreamy lighting",
+      "zh": "梦幻光线",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "harsh shadows",
+      "zh": "强烈阴影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "soft shadows",
+      "zh": "柔和阴影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cast shadows",
+      "zh": "投影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "reflected light",
+      "zh": "反射光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "caustics",
+      "zh": "焦散光斑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3975,
+      "desc": "光线经折射反射形成的焦散光斑",
+      "kw": "焦散光 / 焦散效果 / 光斑 / 水下光纹 / 水波纹光 / 折射光斑 / 反射斑 / 光效 / caustic lighting / コースティクス"
+    },
+    {
+      "en": "subsurface glow",
+      "zh": "透光发光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "glowing edges",
+      "zh": "边缘发光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "underlighting",
+      "zh": "底光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1358,
+      "desc": "光源从被摄对象下方照来",
+      "kw": "底部打光 / 下方照明 / 底部照明 / 照明效果"
+    },
+    {
+      "en": "top lighting",
+      "zh": "顶光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "side lighting",
+      "zh": "侧光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "frontal lighting",
+      "zh": "正面光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "silhouette lighting",
+      "zh": "剪影打光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "aurora",
+      "zh": "极光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2145,
+      "desc": "高纬度夜空出现的极光",
+      "kw": "北极光 / 南极光 / 极地光 / 夜空光 / 欧若拉 / 极地光辉 / 夜空极光 / 自然现象 / aurora borealis / northern lights / オーロラ"
+    },
+    {
+      "en": "lightning",
+      "zh": "闪电光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9580,
+      "desc": "雷雨时天空中自然产生的闪电",
+      "kw": "雷电 / 落雷 / 打雷 / 雷 / 雷光 / 天气 / 特效 / 稲妻"
+    },
+    {
+      "en": "firework lights",
+      "zh": "烟花光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "city lights",
+      "zh": "城市灯火",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7086,
+      "desc": "照亮城市的灯光，尤指夜景",
+      "kw": "都市灯光 / 城市夜景灯 / 夜景灯光 / 背景 / 夜景"
+    },
+    {
+      "en": "window light",
+      "zh": "窗边光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 667,
+      "desc": "光线从窗户照入场景",
+      "kw": "窗户光线 / 窗光效果 / 窗口光 / 从窗户照入的光 / 光效"
+    },
+    {
+      "en": "lamp light",
+      "zh": "台灯光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "neon glow",
+      "zh": "霓虹辉光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rainbow light",
+      "zh": "彩虹光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "color splash",
+      "zh": "彩色光斑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "blue lighting",
+      "zh": "蓝光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bright",
+      "zh": "明亮",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dark",
+      "zh": "黑暗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20170,
+      "desc": "光线不足、细节被遮住的场景。",
+      "kw": "暗 / 光线不足 / 阴暗 / 幽暗 / 暗色调 / 颜色 / 光照 / 闇"
+    },
+    {
+      "en": "glowing screen lighting the face from below",
+      "zh": "屏幕的光从下方照亮脸庞",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "light leak",
+      "zh": "漏光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29
+    },
+    {
+      "en": "light trails",
+      "zh": "光轨",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "long shadows",
+      "zh": "长影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "orange lighting",
+      "zh": "橙光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cinematic lighting with strong rim light",
+      "zh": "电影感打光强烈的轮廓光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "soft diffused light filtering through curtains",
+      "zh": "柔和漫射的光透过窗帘",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cool blue moonlight washing over the scene",
+      "zh": "冷蓝月光洒满整个画面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "neon signs reflecting on wet pavement",
+      "zh": "霓虹灯牌倒映在湿漉漉的地面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dust motes floating in a shaft of sunlight",
+      "zh": "光束里浮着细小的尘埃",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "harsh shadows cast by window blinds",
+      "zh": "百叶窗投下生硬的影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "backlit silhouette against a bright sky",
+      "zh": "明亮的天空前形成逆光剪影",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "light spilling from a doorway into darkness",
+      "zh": "门缝里的光溢进黑暗",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "warm golden hour glow on the skin",
+      "zh": "皮肤上落着温暖的金色时刻光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "overlighting",
+      "zh": "顶光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 576,
+      "desc": "光源从正上方照射、下方出现明显阴影的顶光",
+      "kw": "顶部打光 / 顶光照明 / 从上方打光 / 上方光源 / 头顶光 / 构图 / 光照 / 顶部照明"
+    },
+    {
+      "en": "sidelighting",
+      "zh": "侧光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13787,
+      "desc": "光源从画面侧面照来的打光",
+      "kw": "侧面打光 / 侧面光 / 侧光照明 / 侧光源 / 侧向光 / 光影 / 照明"
+    },
+    {
+      "en": "light rays",
+      "zh": "光束",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33811,
+      "desc": "从光源或云隙射出的可见光束，常见体积光效果",
+      "kw": "光线 / 光柱 / 光芒 / 圣光 / 射光 / 光射线 / 可见光束 / 光束效果 / 可见光"
+    },
+    {
+      "en": "moonbeam",
+      "zh": "月光束",
+      "rating": "g",
+      "nsfw": false,
+      "count": 77,
+      "desc": "月光穿过缝隙形成的一道清晰光柱",
+      "kw": "月光光柱 / 月光柱 / 月光光线 / 月之光束"
+    },
+    {
+      "en": "dim lighting",
+      "zh": "昏暗光线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1417,
+      "desc": "光线昏暗但并非全黑的场景",
+      "kw": "昏暗灯光 / 暗光 / 低光照 / 微光照明 / 光线昏暗 / 晦暗光线 / 黯淡照明 / 昏暗的灯光"
+    },
+    {
+      "en": "crack of light",
+      "zh": "缝隙光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1234,
+      "desc": "黑暗场景中透进的一道光线",
+      "kw": "门缝光 / 一线光 / 漏光 / 光束 / 裂缝光 / 光效"
+    },
+    {
+      "en": "dappled sunlight",
+      "zh": "斑驳阳光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15472,
+      "desc": "阳光穿过树叶形成的光斑光影",
+      "kw": "林间光斑 / 树影阳光 / 树下光 / 树荫光斑 / 阳光穿过树叶 / 斑驳光影 / 叶影光斑 / 阳光滤过树叶 / sunlight through trees / komorebi / 树荫 / 木漏れ日"
+    },
+    {
+      "en": "dappled moonlight",
+      "zh": "斑驳月光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 134,
+      "desc": "月光被遮挡后洒落的斑驳光影",
+      "kw": "斑驳的月光 / 斑驳月色 / 月光斑驳 / 树影月光 / 疏落月光 / 碎月光 / 月影斑驳 / 洒落月光"
+    },
+    {
+      "en": "window shadow",
+      "zh": "窗影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4289,
+      "desc": "窗框或百叶窗投下的影子",
+      "kw": "窗户影子 / 窗框阴影 / 窗子投影 / 百叶窗影子 / 窗户阴影 / 阴影 / 光影 / window shade"
+    },
+    {
+      "en": "dispersion (optics)",
+      "zh": "色散（光学）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 131,
+      "desc": "光穿过物体后被分成各色。",
+      "kw": "光的色散 / 分光 / 色散现象 / 光学 / 效果"
+    },
+    {
+      "en": "prism",
+      "zh": "棱镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 107,
+      "desc": "用于分光或反射光线的透明棱镜。",
+      "kw": "三棱镜 / 三角棱镜 / 光学棱镜 / 分光棱镜 / 光照 / 符号 / 象征 / 色散"
+    },
+    {
+      "en": "refraction",
+      "zh": "折射",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1194,
+      "desc": "光线穿过水、玻璃等透明介质时发生弯曲的现象。",
+      "kw": "光的折射 / 光线折射 / 屈折 / 折射现象 / 光折射效果 / 水中折射 / 透明介质折射 / 光学效果"
+    },
+    {
+      "en": "embers",
+      "zh": "余烬",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6862,
+      "desc": "从火中飘起的炽热余烬",
+      "kw": "火烬 / 火星 / 炭火 / 燃屑 / 火苗 / 余火 / 火花 / 火效 / ember / cinders"
+    },
+    {
+      "en": "stage lights",
+      "zh": "舞台灯光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7024,
+      "desc": "演出时照向舞台和观众的强光",
+      "kw": "舞台灯 / 舞台照明 / 舞台聚光灯 / 演出灯光 / 舞台光 / 灯光 / 舞台"
+    },
+    {
+      "en": "muzzle flash",
+      "zh": "枪口焰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1629,
+      "desc": "开枪时枪口可见的火光。",
+      "kw": "枪口火光 / 枪口闪光 / 枪焰 / 枪火 / 枪口喷焰 / 枪口火花 / 枪械 / 特效 / マズルフラッシュ"
+    },
+    {
+      "en": "headlight",
+      "zh": "前照灯",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "floodlights",
+      "zh": "泛光灯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 207,
+      "desc": "用于照亮运动场、舞台或建筑外墙的大功率灯具。",
+      "kw": "泛光照明灯 / 大型泛光灯 / 球场泛光灯 / 舞台泛光灯 / 泛光灯组 / 灯光 / 照明"
+    },
+    {
+      "en": "flare",
+      "zh": "信号弹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 206,
+      "desc": "燃放强光而不爆炸的信号用烟火",
+      "kw": "照明弹 / 彩光弹 / 星弹 / 发光弹 / 信号焰火 / 信号火炬 / 火焰信号 / 光斑 / 信号弾 / 彩光弾 / 星弾 / 照明弾"
+    },
+    {
+      "en": "ultraviolet light",
+      "zh": "紫外线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 261,
+      "desc": "能让黑光海报发光、也会晒黑皮肤的紫外线",
+      "kw": "紫外光 / 紫外辐射 / 黑光 / UV光 / 紫外线光 / 紫外灯 / 光线 / uv light / blacklight"
+    },
+    {
+      "en": "overexposure",
+      "zh": "过曝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 795,
+      "desc": "明亮部分过亮失去细节、甚至全白的过曝",
+      "kw": "曝光过度 / 过曝效果 / 高光溢出 / 过曝处理 / 亮部过曝 / 摄影效果"
+    },
+    {
+      "en": "colored shadow",
+      "zh": "彩色阴影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4215,
+      "desc": "非黑色的彩色阴影，黑色阴影不用此标签",
+      "kw": "彩色影子 / 彩色投影 / 非黑色阴影 / 彩色阴影效果 / 彩色光影 / 阴影效果 / 特效"
+    },
+    {
+      "en": "see-through silhouette",
+      "zh": "透视剪影",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7831,
+      "desc": "透过半透明衣物或窗帘看到的人体轮廓。",
+      "kw": "透光剪影 / 透出轮廓 / 轮廓透出 / 身体轮廓 / 若隐若现轮廓 / 透出身体线条 / 半透明轮廓 / 剪影"
+    },
+    {
+      "en": "glitter",
+      "zh": "闪粉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1653,
+      "desc": "装饰用的细小反光颗粒，制造闪烁效果",
+      "kw": "亮粉 / 闪光粉 / 金粉 / 银粉 / 闪片 / 亮片 / 反光粉 / 珠光粉"
+    },
+    {
+      "en": "marquee lights",
+      "zh": "灯泡装饰带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 133,
+      "desc": "成排或成阵、依次闪烁的灯泡装饰",
+      "kw": "跑马灯 / 追逐灯 / 闪烁灯泡串 / 霓虹跑马灯 / 灯光 / 装饰"
+    },
+    {
+      "en": "green",
+      "zh": "绿色",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "alternate color",
+      "zh": "异色版",
+      "rating": "g",
+      "count": 35167,
+      "desc": "角色服装或外观换成其他配色。",
+      "kw": "异色 / 换色 / 配色变更 / 替换配色 / 异色服装 / 不同配色 / 异色角色 / 颜色互换 / alternative color / alternate colors / 色違い / 東方色違娘"
+    },
+    {
+      "en": "analogous colors",
+      "zh": "类似色",
+      "rating": "g",
+      "count": 1898,
+      "desc": "画面主要使用色轮上相邻的颜色。",
+      "kw": "邻近色 / 相邻色 / 近似色 / 相似色 / 同类色 / 颜色 / 類似色 / るいじしょく"
+    },
+    {
+      "en": "aqua theme",
+      "zh": "水色主题",
+      "rating": "g",
+      "count": 2911,
+      "desc": "整图以水色（蓝绿色）为主色调。",
+      "kw": "水蓝色主题 / 青绿色主题 / 浅蓝绿色主题 / 蓝绿色主题 / 水色系 / 水蓝主题 / 湖蓝色主题 / 水主题 / aqua / 青绿色 / 青緑色 / アクア色"
+    },
+    {
+      "en": "ben-day dots",
+      "zh": "本戴网点",
+      "rating": "g",
+      "count": 2271,
+      "desc": "大小一致、等距排列的本戴网点",
+      "kw": "本戴点 / 等距网点 / 班戴网点 / 印刷网点 / 漫画风格 / 点阵 / 印刷 / ベンデイドット"
+    },
+    {
+      "en": "black theme",
+      "zh": "黑色主题",
+      "rating": "g",
+      "count": 2392,
+      "desc": "以黑色为主色调的画面，不包括黑白灰阶",
+      "kw": "黑色调 / 黑色系 / 黑色为主 / 黑主题 / 黑色主色调 / 暗黑风 / 色调 / 黑色 / 黒 / 黒い / 黒色"
+    },
+    {
+      "en": "blue light",
+      "zh": "蓝色的光",
+      "rating": "g",
+      "count": 539,
+      "desc": "画面中呈蓝色的光线",
+      "kw": "蓝光 / 蓝色光线 / 蓝色光芒 / 蓝光效果 / 蓝色光效 / 光效"
+    },
+    {
+      "en": "blue theme",
+      "zh": "蓝色主题",
+      "rating": "g",
+      "count": 40500,
+      "desc": "以蓝色为主的整体色调。",
+      "kw": "蓝色系 / 蓝色调 / 蓝主题 / 以蓝色为主 / 蓝调 / 青色 / 青 / 青い / 青の衝撃"
+    },
+    {
+      "en": "brown theme",
+      "zh": "棕色主题",
+      "rating": "g",
+      "count": 5023,
+      "desc": "以棕色为主的整体色调",
+      "kw": "棕色系 / 棕色色调 / 棕色调 / 棕色主题配色 / 棕色主调 / 棕色氛围 / 棕色配色 / 以棕色为主 / ブラウン"
+    },
+    {
+      "en": "camera flash",
+      "zh": "相机闪光灯",
+      "rating": "g",
+      "count": 1182,
+      "desc": "拍照时相机发出的闪光",
+      "kw": "闪光灯 / 相机闪光 / 闪光效果 / 拍照闪光 / 闪光灯效果 / 闪光 / 摄影效果"
+    },
+    {
+      "en": "color connection",
+      "zh": "色彩关联",
+      "rating": "g",
+      "count": 4281,
+      "desc": "角色或物品按主题色被归为一组",
+      "kw": "颜色关联 / 同色系联动 / 主题色组合 / 色彩搭配 / 同色角色 / 颜色对应 / 色彩呼应 / 颜色连接 / 颜色相仿"
+    },
+    {
+      "en": "color coordination",
+      "zh": "颜色协调",
+      "rating": "g",
+      "count": 579,
+      "desc": "多组颜色彼此呼应形成协调感。",
+      "kw": "色彩协调 / 配色协调 / 颜色呼应 / 色彩呼应 / 颜色搭配协调 / 配色一致 / 色彩搭配 / 颜色"
+    },
+    {
+      "en": "color halftone",
+      "zh": "彩色半色调",
+      "rating": "g",
+      "count": 266,
+      "desc": "高分辨率扫描印刷品出现的彩色网点纹理",
+      "kw": "半色调 / 网点纹理 / 印刷网点 / 网点效果 / 网屏纹理 / 印刷网纹 / screening"
+    },
+    {
+      "en": "color-coded",
+      "zh": "颜色编码",
+      "rating": "g",
+      "count": 334,
+      "desc": "用固定主题色区分角色或阵营",
+      "kw": "色彩编码 / 以颜色区分 / 颜色标记 / 主题色区分 / 配色设计"
+    },
+    {
+      "en": "colorful",
+      "zh": "色彩丰富",
+      "rating": "g",
+      "count": 8351,
+      "desc": "饱和度高、色彩鲜艳的画面",
+      "kw": "色彩缤纷 / 五彩斑斓 / 五颜六色 / 色彩鲜艳 / 彩色 / 绚丽多彩 / 色彩 / 颜色 / colourful / 色彩 / 蛍光色 / カラフル"
+    },
+    {
+      "en": "complementary colors",
+      "zh": "互补色",
+      "rating": "g",
+      "count": 1898,
+      "desc": "冷暖对比强烈的色彩搭配。",
+      "kw": "补色 / 对比色 / 互补色搭配 / 撞色 / 颜色 / 冷暖对比 / color contrast"
+    },
+    {
+      "en": "cool colored",
+      "zh": "冷色调",
+      "rating": "g",
+      "count": 1443,
+      "desc": "整体使用冷色调（如蓝紫绿）着色。",
+      "kw": "色彩 / 冷色系"
+    },
+    {
+      "en": "diffraction spikes",
+      "zh": "星芒",
+      "rating": "g",
+      "count": 8135,
+      "desc": "光源向外放射出的多条细长光芒",
+      "kw": "衍射光芒 / 十字光芒 / 光条 / 放射光芒 / 镜头星芒 / 光线衍射 / 衍射十字星 / 衍射星芒 / 回折スパイク"
+    },
+    {
+      "en": "drop shadow",
+      "zh": "投影阴影",
+      "rating": "g",
+      "count": 17980,
+      "desc": "与角色形状相同、错位放置的阴影。",
+      "kw": "投影 / 角色阴影 / 剪影阴影 / 偏移阴影 / 阴影投影 / 立体阴影 / 阴影 / 掉影"
+    },
+    {
+      "en": "face in shadow",
+      "zh": "面部在阴影中",
+      "rating": "g",
+      "count": 713,
+      "desc": "角色脸部完全陷入阴影",
+      "kw": "脸在阴影里 / 面部阴影 / 脸部隐藏在阴影中 / 阴影遮面 / 脸隐没在黑暗中 / 面部黑暗 / 看不见脸 / 脸部黑化"
+    },
+    {
+      "en": "gleam",
+      "zh": "微光闪烁",
+      "rating": "g",
+      "count": 835,
+      "desc": "画面中出现闪光或光芒效果。",
+      "kw": "闪光 / 光芒 / 光效"
+    },
+    {
+      "en": "glint",
+      "zh": "眼中闪光",
+      "rating": "g",
+      "count": 39285,
+      "desc": "珠宝、刀剑等硬物表面反射出的一点亮光。",
+      "kw": "反光点 / 高光点 / 亮点 / 闪烁 / 闪光点 / 剑光 / 珠宝反光 / 光效"
+    },
+    {
+      "en": "gradient",
+      "zh": "渐变",
+      "rating": "g",
+      "count": 858,
+      "desc": "颜色平滑、逐渐从一种过渡到另一种的效果。",
+      "kw": "颜色渐变"
+    },
+    {
+      "en": "gradient filter",
+      "zh": "渐变滤镜",
+      "rating": "g",
+      "count": 747,
+      "desc": "覆盖在图片上的渐变色滤镜效果。",
+      "kw": "渐变遮罩 / 渐变色滤镜 / 渐变覆盖 / 渐变层 / 色彩渐变滤镜 / 颜色 / 渐变 / 滤镜"
+    },
+    {
+      "en": "green theme",
+      "zh": "绿色主题",
+      "rating": "g",
+      "count": 11615,
+      "desc": "以绿色为主色调的画面",
+      "kw": "绿色系 / 绿色色调 / 绿主题 / 以绿色为主 / 绿色主调 / 绿色调 / 绿色氛围 / 绿色 / 绿色 / 緑 / 緑色"
+    },
+    {
+      "en": "grey theme",
+      "zh": "灰色主题",
+      "rating": "g",
+      "count": 2320,
+      "desc": "以灰色为主的图像，但不包括黑白灰度图像",
+      "kw": "灰色调 / 灰主题 / 灰色系 / 以灰色为主 / 灰 / 灰色主色调 / 颜色主题 / gray theme / 灰色"
+    },
+    {
+      "en": "halftone",
+      "zh": "半色调网点",
+      "rating": "g",
+      "count": 21788,
+      "desc": "用大小不同的网点表现明暗",
+      "kw": "半色调 / 网点 / 网目 / 半色调纹理 / 印刷网点 / 漫画网点 / 印刷风格 / 艺术效果 / halftone texture / ハーフトーン / 網点 / 망점"
+    },
+    {
+      "en": "heavy chromatic aberration",
+      "zh": "重度色差",
+      "rating": "g",
+      "count": 1044,
+      "desc": "色差效果特别强烈的图像",
+      "kw": "强色差 / 严重色差 / 色差过重 / 高色差 / 重度色散 / 色差 / 摄影效果 / 镜头畸变 / chromatic aberration abuse"
+    },
+    {
+      "en": "heavy lens flare",
+      "zh": "重度镜头光晕",
+      "rating": "g",
+      "count": 536,
+      "desc": "大量使用镜头光晕效果",
+      "kw": "大量镜头光晕 / 高强度光晕 / 镜头光晕滥用 / 炫光过重 / 光晕特效过强 / 滥用镜头光晕 / 强镜头光晕 / 光晕 / lens flare abuse"
+    },
+    {
+      "en": "hue shifting",
+      "zh": "色相偏移",
+      "rating": "g",
+      "count": 421,
+      "desc": "以改变色相而非明暗为主的配色上色技法。",
+      "kw": "色相转移 / 色相变化 / 色相偏移上色 / 彩虹色偏移 / 色调偏移 / 构图 / 颜色 / 色彩过渡"
+    },
+    {
+      "en": "inverted colors",
+      "zh": "反色",
+      "rating": "g",
+      "count": 498,
+      "desc": "整幅图色彩经过反相处理",
+      "kw": "反相 / 颜色反转 / 倒色 / 负片效果 / 补色反转 / 反色调 / 色彩反转 / 颜色 / 补色 / 补色残像 / 负片色 / 補色"
+    },
+    {
+      "en": "light",
+      "zh": "光",
+      "rating": "g",
+      "count": 14873,
+      "desc": "歧义标签。请改用特定类型的光或光源。对于通常不发光的物体，请参见glowing。",
+      "kw": "光线 / 光源 / 照明 / 发光"
+    },
+    {
+      "en": "lights",
+      "zh": "灯光",
+      "rating": "g",
+      "count": 2800,
+      "desc": "泛指各种光源，如阳光、月光、火焰、灯笼、手电筒等",
+      "kw": "光效 / 环境"
+    },
+    {
+      "en": "multiple theme colors",
+      "zh": "多主题色",
+      "rating": "g",
+      "count": 504,
+      "desc": "多个角色的主题色在同一张图中有均衡体现",
+      "kw": "多角色主题色 / 多个主题色 / 多主题颜色 / 复合主题色 / 群像主题色 / 主题色融合 / 多色主题 / 颜色"
+    },
+    {
+      "en": "muted color",
+      "zh": "低饱和度色彩",
+      "rating": "g",
+      "count": 8632,
+      "desc": "图像颜色几乎褪去，因为颜色被冲淡，通常是通过混入灰色。柔和颜色的饱和度极低。如果图像颜色主要混入白色，请使用 pale color。如果混入黑色，请改用 dark。",
+      "kw": "低饱和色 / 颜色 / 柔和色调"
+    },
+    {
+      "en": "neapolitan palette",
+      "zh": "那不勒斯配色",
+      "rating": "g",
+      "count": 161,
+      "desc": "粉、棕、白三色构成的配色，类似三色冰淇淋",
+      "kw": "那不勒斯冰淇淋配色 / 三色冰淇淋配色 / 三色冰淇淋色调 / 那不勒斯三色配色 / 三色配色 / 那不勒斯 / 冰淇淋色 / 彩色 / neapolitan"
+    },
+    {
+      "en": "negative",
+      "zh": "反色",
+      "rating": "g",
+      "count": 201,
+      "desc": "类似底片反色的配色效果",
+      "kw": "负片 / 反相 / 底片效果 / 负片效果 / 颜色反转 / 反色效果 / 影像反转 / 颜色"
+    },
+    {
+      "en": "neon palette",
+      "zh": "霓虹配色",
+      "rating": "g",
+      "count": 1137,
+      "desc": "以明亮饱和的粉紫蓝等冷色调为主的配色",
+      "kw": "霓虹色 / 荧光配色 / 全息配色 / 镭射配色 / 霓虹色系 / 荧光色系 / 霓虹色调 / 发光色彩 / 全息色 / 荧光色 / 蛍光色 / 镭射色"
+    },
+    {
+      "en": "non-circular lens flare",
+      "zh": "非圆形镜头光斑",
+      "rating": "g",
+      "count": 1047,
+      "desc": "呈多边形、直线等非圆形的镜头光斑/耀斑。",
+      "kw": "非圆形镜头耀斑 / 非圆形光斑 / 非圆形耀斑 / 多边形镜头光斑 / 异形镜头光斑 / 非圆形镜头光晕 / 光晕 / 特效"
+    },
+    {
+      "en": "nose shade",
+      "zh": "鼻子阴影",
+      "rating": "g",
+      "count": 674,
+      "desc": "在鼻子上添加的阴影",
+      "kw": "鼻影 / 鼻部阴影 / 鼻梁阴影 / 鼻子上的阴影 / 鼻影效果 / 鼻阴影 / 鼻梁影 / 脸部"
+    },
+    {
+      "en": "orange theme",
+      "zh": "橙色主题",
+      "rating": "g",
+      "count": 5383,
+      "desc": "以橙色为主色调的图像",
+      "kw": "橙色系 / 橙色为主 / 橙色调 / 橘色主题 / 橘色系 / 橙色基调 / 橘色基调 / 颜色主题 / 橙色 / だいだい色 / オレンジ色 / オレンジ"
+    },
+    {
+      "en": "outer glow",
+      "zh": "外发光",
+      "rating": "g",
+      "count": 830,
+      "desc": "角色轮廓外缘渐隐的发光效果",
+      "kw": "外光晕 / 轮廓光 / 边缘发光 / 外侧发光 / 光效 / 特效"
+    },
+    {
+      "en": "pale colors",
+      "zh": "浅淡色彩",
+      "rating": "g",
+      "count": 4010,
+      "desc": "整体颜色被掺白、对比度很低的浅淡配色",
+      "kw": "淡彩 / 苍白配色 / 低对比度配色 / 浅色系 / 柔和色彩 / 褪色感 / 灰白色调 / 淡色 / pale color"
+    },
+    {
+      "en": "partially shaded face",
+      "zh": "半阴影脸",
+      "rating": "g",
+      "count": 6366,
+      "desc": "脸部只有一侧被阴影覆盖",
+      "kw": "半边脸阴影 / 脸部半明半暗 / 部分遮阴脸 / 一面阴影的脸 / 半脸阴影 / 阴影脸 / 脸部 / 光影"
+    },
+    {
+      "en": "pink theme",
+      "zh": "粉色主题",
+      "rating": "g",
+      "count": 20470,
+      "desc": "以粉色为画面主导色调。",
+      "kw": "粉色系 / 粉色主色调 / 粉色调 / 粉色背景 / 粉红主题 / 粉色单色 / 粉色 / pink / pink art / pinkart / pinkcore"
+    },
+    {
+      "en": "purple theme",
+      "zh": "紫色主题",
+      "rating": "g",
+      "count": 13952,
+      "desc": "紫色为主色调的画面",
+      "kw": "紫色调 / 紫色系 / 全紫画面 / 紫色为主 / 紫色氛围 / 紫色主调 / 紫色基调 / 紫色色彩 / purple / 紫色 / 紫"
+    },
+    {
+      "en": "rainbow gradient",
+      "zh": "彩虹渐变",
+      "rating": "g",
+      "count": 3003,
+      "desc": "按彩虹颜色顺序过渡的渐变效果",
+      "kw": "彩虹渐变色 / 彩虹色渐变 / 彩虹色调 / 虹色渐变 / 彩虹色过渡 / 光谱渐变 / 渐变色 / 彩虹"
+    },
+    {
+      "en": "rainbow theme",
+      "zh": "彩虹主题",
+      "rating": "g",
+      "count": 774,
+      "desc": "画面以彩虹色彩或元素为主题",
+      "kw": "彩虹色主题 / 七彩主题 / 虹色主题 / 彩虹系 / 彩虹风格 / 颜色 / 彩虹色 / 七彩"
+    },
+    {
+      "en": "red light",
+      "zh": "红光",
+      "rating": "g",
+      "count": 941,
+      "desc": "画面中有明显的红色光源并投下红光",
+      "kw": "红色光线 / 红色光照 / 红色灯光 / 红光照明 / 红色灯效 / 光效 / 红色光芒"
+    },
+    {
+      "en": "red theme",
+      "zh": "红色主题",
+      "rating": "g",
+      "count": 15230,
+      "desc": "红色为画面主导色调，整体呈红色。",
+      "kw": "红色调 / 红色系 / 红色主色调 / 以红色为主 / 红色氛围 / 红主题 / 红色画面 / 红色基调 / 赤色 / 赤"
+    },
+    {
+      "en": "reflective surface",
+      "zh": "反光表面",
+      "rating": "g",
+      "count": 802,
+      "desc": "镜子以外能映出倒影的表面，如窗户",
+      "kw": "反射表面 / 反光面 / 反射面 / 镜面表面 / 光滑反射面 / 倒影表面 / 效果"
+    },
+    {
+      "en": "reverse palettes",
+      "zh": "反转配色",
+      "rating": "g",
+      "count": 118,
+      "desc": "两人服装使用互为反转的配色",
+      "kw": "配色反转 / 颜色反转 / 色板反转 / 反转调色板 / 反色 / 艺术风格 / 调色板"
+    },
+    {
+      "en": "ring light reflection",
+      "zh": "环形灯反光",
+      "rating": "g",
+      "count": 6274,
+      "desc": "环形补光灯在皮肤等表面形成的环状反光",
+      "kw": "环形光反射 / 光圈反射 / 环状反光 / 环形补光灯反光 / 环形灯眼反光 / 眼神光环 / 环形灯倒影 / 摄影光效 / 光圈"
+    },
+    {
+      "en": "scanlines",
+      "zh": "扫描线",
+      "rating": "g",
+      "count": 1137,
+      "desc": "模仿CRT显示器光栅扫描的横线效果。",
+      "kw": "扫描线效果 / 扫描纹 / CRT扫描线 / 电视扫描线 / 隔行扫描线 / 水平扫描线 / 特效 / 复古 / 走查线 / 走査線"
+    },
+    {
+      "en": "screen light",
+      "zh": "屏幕光",
+      "rating": "g",
+      "count": 1177,
+      "desc": "同时作为光源照亮前方人或物的显示器",
+      "kw": "屏幕灯 / 显示器光 / 屏幕照明 / 显示器照明 / 屏幕光源 / 光效 / 荧光 / monitor light"
+    },
+    {
+      "en": "screentones",
+      "zh": "网点纸",
+      "rating": "g",
+      "count": 6209,
+      "desc": "用规则排列的圆点表现阴影与纹理的漫画技法",
+      "kw": "网点 / 网点背景 / 漫画网点 / 灰网 / 网纸 / 网点纹理 / 网点阴影 / 网点图案 / スクリーントーン"
+    },
+    {
+      "en": "spot color",
+      "zh": "局部彩色",
+      "rating": "g",
+      "count": 65145,
+      "desc": "以单色为主、仅局部用彩色突出的图",
+      "kw": "局部上色 / 点缀色 / 单色点缀 / 黑白中一点彩 / 彩色突出重点 / 单色基调 / 专色 / 局部色彩 / spot colors"
+    },
+    {
+      "en": "sun glare",
+      "zh": "阳光眩光",
+      "rating": "g",
+      "count": 621,
+      "desc": "阳光直射造成的耀眼光斑",
+      "kw": "阳光炫光 / 太阳眩光 / 太阳光晕 / 日光眩光 / 阳光光晕 / 日光照耀 / 眩光 / 光效"
+    },
+    {
+      "en": "sun in eye",
+      "zh": "阳光刺眼",
+      "rating": "g",
+      "count": 1413,
+      "desc": "描绘太阳光线直射眼睛，导致角色眯眼或遮挡的视觉效果。",
+      "kw": "刺眼阳光 / 眼睛反光 / 强光照射"
+    },
+    {
+      "en": "sunburst",
+      "zh": "放射状日纹",
+      "rating": "g",
+      "count": 5293,
+      "desc": "从中心点向外放射的光线纹样",
+      "kw": "光芒纹 / 太阳光线纹 / 放射状图案 / 旭日纹 / 日纹 / 放射纹 / 图案 / 光效"
+    },
+    {
+      "en": "warm colored",
+      "zh": "暖色调",
+      "rating": "g",
+      "count": 1638,
+      "desc": "画面整体采用温暖色调，以橙、黄、红为主。",
+      "kw": "色彩"
+    },
+    {
+      "en": "warm colors",
+      "zh": "暖色调",
+      "rating": "g",
+      "count": 2002,
+      "desc": "整体配色以红橙黄等暖色为主。",
+      "kw": "暖色 / 暖色系 / 温暖色调 / 暖调 / 红橙色调 / 暖色配色 / 颜色 / 红色橙色黄色 / warm colored"
+    },
+    {
+      "en": "white theme",
+      "zh": "白色主题",
+      "rating": "g",
+      "count": 4593,
+      "desc": "以白色为画面主色调，不含黑白灰图",
+      "kw": "白色系 / 白色调 / 白色基调 / 以白色为主 / 白色主调 / 白主题 / 全白主题 / 白色 / 白 / 白い"
+    },
+    {
+      "en": "yellow theme",
+      "zh": "黄色主题",
+      "rating": "g",
+      "count": 8234,
+      "desc": "以黄色为主色调的画面",
+      "kw": "黄色调 / 黄色系 / 黄色为主 / 黄色背景 / 全黄主题 / 黄色单色 / 颜色主题 / 黄色 / 黄"
+    },
+    {
+      "en": "bishie sparkle",
+      "zh": "美型闪光",
+      "rating": "g",
+      "count": 832,
+      "desc": "美型角色周围闪耀的光点特效",
+      "kw": "美型角色闪光 / 美少年闪光 / 少女漫闪光 / 闪亮光点 / 星光特效 / 美男闪光 / 效果 / 美型 / shoujo bubble"
+    },
+    {
+      "en": "light particles",
+      "zh": "光粒子",
+      "rating": "g",
+      "count": 82582,
+      "desc": "空气中漂浮的细小光点",
+      "kw": "光点 / 光尘 / 光斑 / 浮游光点 / 尘埃光点 / 发光粒子 / 光之粒子 / 细碎光屑 / dust particles / 光中尘埃"
+    },
+    {
+      "en": "light trail",
+      "zh": "光轨",
+      "rating": "g",
+      "count": 6669,
+      "desc": "移动光源留下的光带或轨迹。",
+      "kw": "光迹 / 光痕 / 光线拖尾 / 移动光带 / 光路轨迹 / 光效"
+    },
+    {
+      "en": "newtype flash",
+      "zh": "新人类闪光",
+      "rating": "g",
+      "count": 694,
+      "desc": "高达系列中新人类感知他人时头部出现的闪光或电流特效。",
+      "kw": "NT闪光 / 灵光一闪 / 灵感闪光 / 意识闪光 / 精神感应闪光 / 新人类特效 / 踩电门 / Newtype闪光 / realization flash"
+    },
+    {
+      "en": "fire",
+      "zh": "火焰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 111547,
+      "desc": "燃烧产生的火焰和光热",
+      "kw": "火 / 焰 / 火苗 / 火光 / 烈焰 / 燃烧火焰 / 火炎 / 特效 / flames / flame / 炎"
+    },
+    {
+      "en": "smoke",
+      "zh": "烟",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60355,
+      "desc": "燃烧或化学反应产生的悬浮颗粒与气体",
+      "kw": "烟气 / 烟幕 / 白烟 / 黑烟 / 灰烟 / 硝烟 / 特效 / 煙"
+    },
+    {
+      "en": "volumetric smoke",
+      "zh": "体积烟雾",
+      "rating": "g",
+      "nsfw": false
+    }
+  ]
+}

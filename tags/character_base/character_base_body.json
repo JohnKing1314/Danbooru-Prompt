@@ -1,0 +1,694 @@
+{
+  "id": "body",
+  "name": "体型",
+  "icon": "📏",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 12,
+  "file": "character_base/character_base_body.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "tall",
+      "zh": "高挑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "short",
+      "zh": "娇小",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "petite",
+      "zh": "娇小身材",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33355,
+      "desc": "身材娇小但仍有女性曲线",
+      "kw": "小巧 / 娇小体型 / 小只 / 小个子 / 苗条娇小 / 体型"
+    },
+    {
+      "en": "slender",
+      "zh": "纤细",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chubby",
+      "zh": "微胖",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "abs",
+      "zh": "腹肌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 139462,
+      "desc": "发达的腹部肌肉，俗称六块腹肌。",
+      "kw": "腹直肌 / 六块腹肌 / 腹筋 / 腹部肌肉 / 腹肌线条 / 搓衣板腹肌 / 六块肌 / 八块腹肌 / six pack / 腹直筋"
+    },
+    {
+      "en": "toned",
+      "zh": "紧致身材",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62737,
+      "desc": "体脂低、有肌肉线条但不夸张的体型",
+      "kw": "健壮 / 结实 / 精干 / 精瘦 / 肌肉线条 / 低体脂 / 紧实 / 匀称健壮 / 结实体型"
+    },
+    {
+      "en": "athletic build",
+      "zh": "运动体型",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "broad shoulders",
+      "zh": "宽肩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2357,
+      "desc": "比常人宽阔的肩膀",
+      "kw": "宽阔肩膀 / 肩膀宽阔 / 宽厚的肩膀 / 宽肩膀 / 体型"
+    },
+    {
+      "en": "narrow shoulders",
+      "zh": "窄肩",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "long torso",
+      "zh": "长躯干",
+      "rating": "g",
+      "nsfw": false,
+      "count": 187,
+      "desc": "比例上显得过长的躯干",
+      "kw": "长腰 / 上身过长 / 躯干过长 / 身体比例长 / 长身 / 身体 / 体型 / 异常"
+    },
+    {
+      "en": "short torso",
+      "zh": "短躯干",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "thin",
+      "zh": "瘦削",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "voluptuous",
+      "zh": "丰韵",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "buxom",
+      "zh": "体态丰盈",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "pear-shaped body",
+      "zh": "梨形身材",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "slim waist",
+      "zh": "纤细腰身",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "large frame",
+      "zh": "大骨架",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "small frame",
+      "zh": "小骨架",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "height difference",
+      "zh": "身高差",
+      "rating": "g",
+      "nsfw": false,
+      "count": 48581,
+      "desc": "两个角色身高差距明显。",
+      "kw": "身高差距 / 身高差异 / 高差 / 身高悬殊 / 最萌身高差 / 身材差异 / 身长差 / 逆体格差 / 身長差"
+    },
+    {
+      "en": "petite figure",
+      "zh": "娇小体型",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hourglass figure",
+      "zh": "沙漏身材",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "six pack",
+      "zh": "六块腹肌",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "muscle definition",
+      "zh": "肌肉线条",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "inflation",
+      "zh": "膨胀",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3780,
+      "desc": "腹部被液体或气体撑得圆鼓的膨胀表现",
+      "kw": "胀腹 / 腹膨 / 肚子膨胀 / 腹部鼓胀 / 鼓腹 / 充气 / 身体膨胀 / 膨腹 / ボテ腹"
+    },
+    {
+      "en": "cum inflation",
+      "zh": "精液腹胀",
+      "rating": "e",
+      "nsfw": true,
+      "count": 2064,
+      "desc": "精液使腹部膨胀鼓起",
+      "kw": "精液膨胀 / 精液撑大 / 储精罐 / 精液腹 / 精液肚 / 被精液撑大 / 精液注入膨胀 / 膨胀 / cumflation / 精液ボテ"
+    },
+    {
+      "en": "big belly",
+      "zh": "大肚子",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8612,
+      "desc": "明显鼓胀的大肚子",
+      "kw": "大肚 / 巨腹 / 大肚腩 / 胀肚 / 肥肚 / 大腹 / 大肚皮 / 腹部 / large belly / bigbelly / 腹肉 / 膨腹"
+    },
+    {
+      "en": "stomach bulge",
+      "zh": "腹部隆起",
+      "rating": "q",
+      "nsfw": true,
+      "count": 17621,
+      "desc": "体内物体顶压造成的腹部隆起",
+      "kw": "腹部凸起 / 腹凸 / 小腹凸起 / 肚子隆起 / 顶出肚子 / 腹部顶出 / 腹胀 / ボコォ / 腹ボコ"
+    },
+    {
+      "en": "muscular",
+      "zh": "肌肉发达",
+      "rating": "s",
+      "nsfw": false,
+      "count": 204132,
+      "desc": "角色体格粗壮、肌肉明显。",
+      "kw": "肌肉 / 强壮 / 壮硕 / 肌肉男 / 健壮 / 筋肉 / 身材魁梧 / 肌肉体质 / muscles / muscle / muscular male / 大腿筋"
+    },
+    {
+      "en": "muscular male",
+      "zh": "肌肉男",
+      "rating": "s",
+      "nsfw": false,
+      "count": 144474,
+      "desc": "体格粗壮、肌肉发达的男性角色。",
+      "kw": "肌肉男性 / 筋肉男 / 壮男 / 猛男 / 肌肉发达男性 / 健壮男性 / 魁梧男性 / 肌肉汉子 / 筋肉 / 筋肉质 / 筋肉質 / ガチムチ"
+    },
+    {
+      "en": "muscular female",
+      "zh": "肌肉女",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39567,
+      "desc": "肌肉发达明显的女性角色，通常体格粗壮。",
+      "kw": "肌肉娘 / 筋肉女 / 筋肉娘 / 肌肉女性 / 强壮女性 / 健美女 / 肌肉女孩 / 肌肉御姐 / femalemuscle / musclefemale / musclegirl / musclewoman"
+    },
+    {
+      "en": "muscular other",
+      "zh": "其他肌肉",
+      "rating": "s",
+      "nsfw": false,
+      "count": 107,
+      "desc": "肌肉发达的不明性别角色，已改用muscular。",
+      "kw": "肌肉其他 / 其他肌肉角色 / 肌肉发达不明性别角色 / 肌肉角色其他 / 其他肌肉男 / 性行为 / 肌肉男 / 猛男"
+    },
+    {
+      "en": "plump",
+      "zh": "微胖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45336,
+      "desc": "略丰满但不肥胖的体型",
+      "kw": "肉感 / 丰腴 / 圆润 / 有肉感 / 微胖身材 / 丰满体型 / 胖乎乎 / chubby / muchi / むちむち / ムチムチ"
+    },
+    {
+      "en": "curvy",
+      "zh": "丰满",
+      "rating": "s",
+      "nsfw": false,
+      "count": 78899,
+      "desc": "胸大臀宽腿粗的丰满身材",
+      "kw": "丰满身材 / 魔鬼身材 / 好身材 / 前凸后翘 / 丰乳肥臀 / 有曲线 / 沙漏身材 / curvaceous / voluptuous / 女神的女体 / 好身材女性"
+    },
+    {
+      "en": "fat",
+      "zh": "肥胖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20576,
+      "desc": "比微胖更胖、但不及肥胖的体型。",
+      "kw": "偏胖 / 超重 / 圆胖 / 胖乎乎 / 肥 / 肥胖体型 / 体型 / overweight / 腹肉 / ぽっちゃり / ぽちゃり"
+    },
+    {
+      "en": "obese",
+      "zh": "重度肥胖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1186,
+      "desc": "比普通“胖”更严重的肥胖体型。",
+      "kw": "肥胖体型 / 超胖 / 臃肿 / 肥硕 / 胖到夸张 / 大胖子身材 / 病态肥胖 / 肥満化 / 男の肥満化"
+    },
+    {
+      "en": "skinny",
+      "zh": "纤瘦",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12035,
+      "desc": "体脂率明显偏低、身形纤细，但未到极度消瘦程度。",
+      "kw": "骨感 / 纤细 / 瘦削身材 / 偏瘦 / 苗条 / 瘦弱 / 華奢 / thin / slender / 华奢"
+    },
+    {
+      "en": "pregnant",
+      "zh": "怀孕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14535,
+      "desc": "腹部明显隆起的怀孕状态，勿与胀气混淆。",
+      "kw": "妊娠 / 孕肚 / 有孕 / 大肚子 / 怀胎 / 孕妇 / 怀孕中 / 身怀六甲 / pregollie / 多胎 / 妊妇 / 经产妇"
+    },
+    {
+      "en": "narrow waist",
+      "zh": "细腰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16787,
+      "desc": "腰部比身体其他部分明显更细的体型。",
+      "kw": "小蛮腰 / 蜂腰 / 柳腰 / 蚂蚁腰 / 纤细腰 / 细腰身 / 纤腰 / 水蛇腰 / slender waist / thin waist / slim waist / 魅惑の腰つき"
+    },
+    {
+      "en": "alternate body size",
+      "zh": "异样体型",
+      "rating": "g",
+      "count": 1090,
+      "desc": "角色体型（脂肪/肌肉比例）与原作设定有显着差异",
+      "kw": "体型变化 / 变身 / 身体变形 / 大小变化"
+    },
+    {
+      "en": "alternate height",
+      "zh": "非官方身高",
+      "rating": "g",
+      "count": 560,
+      "desc": "角色身高被描绘得与官方设定有明显差异",
+      "kw": "身高差 / 体型差异"
+    },
+    {
+      "en": "alternate size",
+      "zh": "替代体型",
+      "rating": "g",
+      "count": 702,
+      "desc": "角色体型明显大于或小于官方设定",
+      "kw": "替代尺寸 / 改变体型 / 不同体型 / 体型变化 / 放大缩小体型 / 其他尺寸 / 尺寸"
+    },
+    {
+      "en": "armpit crease",
+      "zh": "腋窝褶皱",
+      "rating": "s",
+      "count": 42369,
+      "desc": "手臂垂下时腋下与身体间的皮肤褶。",
+      "kw": "腋下褶皱 / 腋窝折痕 / 腋下折痕 / 胳肢窝褶 / 腋下褶皱线 / 腋窝 / 身体"
+    },
+    {
+      "en": "armpit peek",
+      "zh": "隐约露腋",
+      "rating": "s",
+      "count": 8170,
+      "desc": "因衣物缝隙或角度隐约露出腋下",
+      "kw": "微露腋下 / 腋下若隐若现 / 腋下露出 / 腋部偷瞄 / 见腋 / 露腋 / 腋下 / 姿势"
+    },
+    {
+      "en": "back muscles",
+      "zh": "背部肌肉",
+      "rating": "g",
+      "count": 890,
+      "desc": "线条分明的背部肌肉",
+      "kw": "背肌 / 后背肌肉 / 背部线条 / 背部肌群 / 肌肉 / 背部"
+    },
+    {
+      "en": "blood on chest",
+      "zh": "胸前血迹",
+      "rating": "s",
+      "count": 1625,
+      "desc": "胸口部位沾有血迹。",
+      "kw": "胸口血迹 / 胸部血 / 血染胸前 / 胸口有血 / 胸前有血 / 胸上血迹 / 胸前的血 / 血迹 / bloody chest"
+    },
+    {
+      "en": "blood on neck",
+      "zh": "脖子上的血",
+      "rating": "s",
+      "count": 1498,
+      "desc": "脖子周围沾有血迹",
+      "kw": "颈部血迹 / 脖子上有血 / 脖子沾血 / 颈部沾血 / 脖子出血 / 颈上血迹 / 颈间血 / 血迹"
+    },
+    {
+      "en": "chibi only",
+      "zh": "全员Q版",
+      "rating": "g",
+      "count": 87896,
+      "desc": "图中所有角色均为Q版形象。",
+      "kw": "仅Q版 / 全是Q版 / Q版角色 / Q版画风 / 萌版 / 幼体化 / Q版风格 / 全员萌版"
+    },
+    {
+      "en": "completely naked",
+      "zh": "完全裸露",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "covered abs",
+      "zh": "透出腹肌",
+      "rating": "g",
+      "count": 6447,
+      "desc": "透出腹肌轮廓的紧身衣物",
+      "kw": "隔衣腹肌 / 衣下腹肌 / 覆盖的腹肌 / 紧身衣腹肌 / 遮住的腹肌 / 腹肌 / 身体"
+    },
+    {
+      "en": "covered collarbone",
+      "zh": "隔衣显锁骨",
+      "rating": "g",
+      "count": 13550,
+      "desc": "锁骨被衣物覆盖但仍可见轮廓",
+      "kw": "衣物下的锁骨 / 锁骨轮廓 / 锁骨透出 / 衣服下锁骨 / 衣物裹住的锁骨 / 遮住锁骨 / 身体遮挡"
+    },
+    {
+      "en": "covered pectorals",
+      "zh": "衣物下透出的胸肌",
+      "rating": "g",
+      "count": 1631,
+      "desc": "胸肌在衣物下显出轮廓",
+      "kw": "被遮住的胸肌 / 胸肌轮廓透出 / 胸肌若隐若现 / 衬衫下胸肌 / 衣服透出胸肌 / 胸肌凸显 / 遮盖的胸肌 / 胸肌"
+    },
+    {
+      "en": "fat man",
+      "zh": "胖男人",
+      "rating": "g",
+      "count": 15321,
+      "desc": "体型肥胖的男性角色。",
+      "kw": "肥胖男性 / 胖子 / 肥男 / 胖男 / 大胖子 / 肥胖男人 / 胖大叔 / 肥仔 / 太った男"
+    },
+    {
+      "en": "fat rolls",
+      "zh": "赘肉",
+      "rating": "g",
+      "count": 1241,
+      "desc": "胖或丰满时腹部形成的层叠赘肉",
+      "kw": "脂肪卷 / 游泳圈 / 肥肉褶 / 肚腩 / 脂肪褶 / 赘肉褶 / 肥胖 / 身体 / fat folds"
+    },
+    {
+      "en": "fatter than canon",
+      "zh": "比原作更胖",
+      "rating": "g",
+      "count": 1577,
+      "desc": "角色被画得比原作设定更胖",
+      "kw": "比原作胖 / 肥胖化 / 胖化 / 加肥 / 增肥版 / 丰满化 / 原作增肥 / 体重变化 / alternate body size (fatter)"
+    },
+    {
+      "en": "full stomach",
+      "zh": "饱腹",
+      "rating": "g",
+      "count": 971,
+      "desc": "吃得太饱、再也吃不下的状态",
+      "kw": "吃饱 / 肚子饱 / 吃撑 / 撑饱 / 满腹 / 饱腹感 / 腹胀 / 鼓肚 / stuffed stomach / 満腹"
+    },
+    {
+      "en": "giant male",
+      "zh": "巨人男性",
+      "rating": "g",
+      "count": 1645,
+      "desc": "体型远大于周围环境的男性角色。",
+      "kw": "男巨人 / 巨大男 / 巨型男 / 巨男 / 男性巨人 / 巨型男性 / 巨人 / 男性 / giant man / 巨大少年 / 巨大カップル"
+    },
+    {
+      "en": "implied nudity",
+      "zh": "暗示裸体",
+      "rating": "q",
+      "nsfw": true,
+      "count": 999,
+      "desc": "通过画面裁切等方式暗示角色全裸",
+      "kw": "暗示全裸 / 裸体暗示 / 隐性裸体 / 间接裸体 / 疑似裸体 / 遮住关键部位的裸体 / 隐晦裸露"
+    },
+    {
+      "en": "implied pregnancy",
+      "zh": "暗示怀孕",
+      "rating": "s",
+      "count": 1147,
+      "desc": "通过情境暗示怀孕但角色腹部不显。",
+      "kw": "隐含怀孕 / 暗示有孕 / 疑似怀孕 / 孕暗示 / 可能怀孕 / 怀孕暗示 / 孕妇"
+    },
+    {
+      "en": "midriff peek",
+      "zh": "微露腹部",
+      "rating": "s",
+      "count": 32643,
+      "desc": "衣物下摆或缝隙间隐约露出腰腹",
+      "kw": "露腹 / 露肚脐 / 腹部微露 / 露腰 / 腰腹隐约可见 / 露脐 / 肚脐 / belly peek / stomach peek / 腹部露出 / 腹チラ"
+    },
+    {
+      "en": "mini person",
+      "zh": "迷你小人",
+      "rating": "g",
+      "count": 43135,
+      "desc": "与周围环境相比异常微小的人物。",
+      "kw": "小人 / 微型人物 / 迷你人 / 缩小人物 / 小人国 / 豆丁人 / 小型人物 / miniperson"
+    },
+    {
+      "en": "mole on chest",
+      "zh": "胸口痣",
+      "rating": "g",
+      "count": 1033,
+      "desc": "痣长在胸口（不含乳房）",
+      "kw": "胸部痣 / 胸前痣 / 胸口有痣 / 胸痣 / 胸部有痣 / 胸口上的痣 / 痣 / 身体标记"
+    },
+    {
+      "en": "mole on collarbone",
+      "zh": "锁骨痣",
+      "rating": "g",
+      "count": 2147,
+      "desc": "锁骨皮肤上长的痣。",
+      "kw": "锁骨上的痣 / 锁骨有痣 / 锁骨部长痣 / 痣 / 身体标记 / 锁骨"
+    },
+    {
+      "en": "mole on stomach",
+      "zh": "肚子上的痣",
+      "rating": "g",
+      "count": 3088,
+      "desc": "痣长在腹部或肚脐周围",
+      "kw": "腹部痣 / 肚痣 / 腹痣 / 肚皮痣 / 肚脐周围的痣 / 腹部有痣 / 痣 / 身体标记"
+    },
+    {
+      "en": "more muscular than canon",
+      "zh": "比原作更肌肉",
+      "rating": "g",
+      "count": 2539,
+      "desc": "把角色画得比官方设定更肌肉发达",
+      "kw": "比官方更肌肉 / 肌肉强化 / 更加肌肉发达 / 超原作肌肉 / 肌肉量增加 / 筋肉成长 / 艺术表现 / 肌肉增加 / alternate body size (more muscle) / 筋肉成长 / 膨筋"
+    },
+    {
+      "en": "muffin top",
+      "zh": "腰间赘肉",
+      "rating": "s",
+      "count": 1337,
+      "desc": "腰部赘肉从裤腰上方溢出，形似松饼。",
+      "kw": "裤腰赘肉 / 腰围溢出 / 肚腩溢出 / 松饼顶 / 裤头肉溢出 / 小肚腩溢出 / 腰肉外溢 / 腰部肉肉 / マフィントップ"
+    },
+    {
+      "en": "muscular uke",
+      "zh": "肌肉受",
+      "rating": "s",
+      "count": 617,
+      "desc": "体型强壮却担任受方的男性。",
+      "kw": "肌肉受方 / 强壮受 / 健气受 / 肌肉男受 / 肌受 / 肌肉受君 / BL / 肌肉男"
+    },
+    {
+      "en": "narrow hips",
+      "zh": "窄胯",
+      "rating": "g",
+      "count": 953,
+      "desc": "与身体其余部分相比髋部极窄或平直",
+      "kw": "窄臀 / 髋部窄 / 细胯 / 平直髋部 / 身体特征"
+    },
+    {
+      "en": "navel peek",
+      "zh": "隐约肚脐",
+      "rating": "g",
+      "count": 749,
+      "desc": "衣服缝隙中隐约露出肚脐",
+      "kw": "微露肚脐 / 肚脐若隐若现 / 肚脐窥视 / 露脐 / 肚脐眼隐约可见 / 服装 / 腹部 / 性感"
+    },
+    {
+      "en": "outie navel",
+      "zh": "凸肚脐",
+      "rating": "g",
+      "count": 2560,
+      "desc": "向外凸出的肚脐",
+      "kw": "凸脐 / 外凸肚脐 / 肚脐凸出 / 突出肚脐 / 凸出肚脐 / 肚脐 / 身体特征 / でべそ"
+    },
+    {
+      "en": "see-through body",
+      "zh": "透明的身体",
+      "rating": "s",
+      "count": 4077,
+      "desc": "可透过身体看到后方或内部器官的透明效果。",
+      "kw": "透明身体 / 透视身体 / 半透明身体 / 身体透明 / 透体 / 透明 / 效果 / transparent skin / translucent skin / see-through skin"
+    },
+    {
+      "en": "sexualized chibi",
+      "zh": "色情Q版",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2604,
+      "desc": "Q版角色被性化或参与性行为",
+      "kw": "Q版性化 / Q版色情 / Q版成人化 / 性化Q版 / 萌系色情 / 可爱风色情 / Q版情色 / 性感化Q版"
+    },
+    {
+      "en": "short male",
+      "zh": "矮个男性",
+      "rating": "g",
+      "count": 1058,
+      "desc": "明显比平均身高矮的男性",
+      "kw": "矮个子男性 / 矮男人 / 矮小男性 / 个子矮的男性 / 矮男 / 男性 / 矮小"
+    },
+    {
+      "en": "shortstack",
+      "zh": "矮胖丰满型",
+      "rating": "s",
+      "count": 6857,
+      "desc": "身材矮小但胸部或臀部丰满的成年或青少年女性。",
+      "kw": "矮小丰满 / 矮个丰满 / 娇小丰满 / 矮个子巨乳 / 小个子大胸 / 矮冬瓜身材 / 矮胖巨乳 / 矮胖丰满 / short stack / 粗矮体型"
+    },
+    {
+      "en": "shredded muscles",
+      "zh": "精壮肌肉",
+      "rating": "g",
+      "count": 509,
+      "desc": "体脂极低、血管明显的精壮肌肉",
+      "kw": "肌肉精壮 / 干练肌肉 / 低体脂肌肉 / 血管明显肌肉 / 雕刻般肌肉 / 精瘦肌肉 / 强悍肌肉 / 肌肉线条清晰"
+    },
+    {
+      "en": "size difference",
+      "zh": "体型差",
+      "rating": "g",
+      "count": 32294,
+      "desc": "强调角色间体型/身高悬殊的构图",
+      "kw": "体格差 / 身高差 / 尺寸差 / 体型差距 / 大小差 / 高矮差 / 身材差 / 体型差异 / サイズフェチ"
+    },
+    {
+      "en": "stomach growling",
+      "zh": "肚子咕咕叫",
+      "rating": "g",
+      "count": 932,
+      "desc": "肚子发出咕咕声，表示饥饿或肠胃不适",
+      "kw": "肚子叫 / 肚子咕噜叫 / 肚子饿得咕咕叫 / 肠鸣 / 饥饿 / 肚子 / stomach growl / 腹の虫 / 腹の音"
+    },
+    {
+      "en": "strongman waist",
+      "zh": "力士腰",
+      "rating": "g",
+      "count": 3006,
+      "desc": "力士特有的粗壮厚实腰部，常见于bara画风",
+      "kw": "相扑腰 / 猛男腰 / 壮汉腰 / 粗腰 / 熊腰 / 粗壮腰身 / 壮硕腰部 / 猛男粗腰"
+    },
+    {
+      "en": "tall female",
+      "zh": "高挑女性",
+      "rating": "g",
+      "count": 6572,
+      "desc": "身材明显高出常人的女性角色",
+      "kw": "高个女性 / 高个子女性 / 长身女性 / 高身长女性 / 高妹 / 高个儿女性 / 高大女性 / 女性 / 高身长 / 長身女性"
+    },
+    {
+      "en": "tall male",
+      "zh": "高个男性",
+      "rating": "g",
+      "count": 754,
+      "desc": "身材明显高出常人的男性角色",
+      "kw": "高个子 / 高大男性 / 高个男子 / 高身材男性 / 高个儿 / 男性 / 身材 / 高身长"
+    },
+    {
+      "en": "taller female shorter male",
+      "zh": "女高男矮",
+      "rating": "g",
+      "count": 2130,
+      "desc": "女性身高高于男性的情侣或角色组合",
+      "kw": "女高男低 / 高女矮男 / 女比男高 / 女高于男 / 逆身高差 / 最萌身高差 / 身高差萌 / 女长男矮 / 身长差 / 逆体格差"
+    },
+    {
+      "en": "taller than canon",
+      "zh": "高于原作身高",
+      "rating": "g",
+      "count": 490,
+      "desc": "角色被画得比官方设定身高更高",
+      "kw": "高于官方设定身高 / 比官方设定更高 / 身高拉长 / 比原作个头高 / 高过原作 / 高于设定身高 / 比原作更高 / 身高差 / alternate body size (taller) / alternate height (taller)"
+    },
+    {
+      "en": "thinner than canon",
+      "zh": "比官方设定更瘦",
+      "rating": "g",
+      "count": 124,
+      "desc": "角色画得比官方设定更瘦，肌肉或脂肪更少。",
+      "kw": "比原作瘦 / 比设定瘦 / 瘦于官方设定 / 比官设瘦 / 比原始设定更瘦 / 纤瘦化 / 比原作更瘦 / 艺术表现 / alternate body size (thinner) / skinnier than canon"
+    },
+    {
+      "en": "third eye on chest",
+      "zh": "胸前第三只眼",
+      "rating": "g",
+      "count": 883,
+      "desc": "角色胸口上的第三只眼睛",
+      "kw": "胸前的第三只眼 / 第三眼 / 超自然 / 神秘"
+    },
+    {
+      "en": "toned female",
+      "zh": "肌肉线条女性",
+      "rating": "g",
+      "count": 20634,
+      "desc": "有腹肌和肌肉线条但不粗壮的女性体型。",
+      "kw": "紧致身材女性 / 有腹肌的女性 / 健美女性 / 精瘦女性 / 有肌肉的女性 / 女性腹肌 / 女性体型 / 肌肉线条"
+    },
+    {
+      "en": "toned male",
+      "zh": "精壮男性",
+      "rating": "g",
+      "count": 27525,
+      "desc": "肌肉线条明显但不过分壮硕的男性体型。",
+      "kw": "线条健美男 / 精壮男 / 匀称肌肉男 / 肌肉线条男 / 健壮而不夸张的男性 / 偏瘦肌肉男 / 肌肉线条 / 运动员体型 / 細マッチョ"
+    },
+    {
+      "en": "x navel",
+      "zh": "X肚脐",
+      "rating": "g",
+      "count": 973,
+      "desc": "画成简单X形符号的卡通肚脐",
+      "kw": "叉形肚脐 / 交叉肚脐 / X形脐 / X型肚脐 / 肚脐 / 身体部位"
+    }
+  ]
+}

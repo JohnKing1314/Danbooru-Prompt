@@ -1,0 +1,3366 @@
+{
+  "id": "pose",
+  "name": "姿势",
+  "icon": "🧘",
+  "parentId": "action_group",
+  "level": 2,
+  "order": 1,
+  "file": "action_group/action_group_pose.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "shivering",
+      "zh": "发抖",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "trembling",
+      "zh": "颤抖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 111442,
+      "desc": "因寒冷、恐惧或兴奋而发抖",
+      "kw": "发抖 / 哆嗦 / 打颤 / 颤栗 / 战栗 / 颤动 / 震动 / 表情 / tremble / shiver / shivering / 震える"
+    },
+    {
+      "en": "struggling",
+      "zh": "挣扎",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2745,
+      "desc": "试图做某事但未成功，如挣脱束缚或举起重物",
+      "kw": "挣扎中 / 反抗 / 奋力挣扎 / 拼命挣扎 / 面部 / 动词 / 动名词 / 搏斗 / struggle"
+    },
+    {
+      "en": "ass shake",
+      "zh": "摇臀",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2474,
+      "desc": "前后摇摆自己的臀部",
+      "kw": "晃屁股 / 扭屁股 / 抖臀 / 电臀舞 / 摇屁股 / 抖臀舞 / 舞蹈 / 动作 / shaking ass / twerk / twerking / 摇晃屁股"
+    },
+    {
+      "en": "thigh squeeze",
+      "zh": "夹腿",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "m legs",
+      "zh": "M 字腿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 18112,
+      "desc": "双腿弯曲分开呈M字形的姿势",
+      "kw": "M字开脚 / M形开腿 / M字姿势 / M字开腿 / 双腿M形 / M型腿 / 开腿 / 姿势 / m字開脚"
+    },
+    {
+      "en": "w legs",
+      "zh": "W 字腿",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "the pose",
+      "zh": "经典趴姿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 13114,
+      "desc": "角色俯卧地上并翘起双脚的姿势，可同时展示胸臀与脚。",
+      "kw": "伏卧翘脚 / 翘脚趴 / 俯卧翘脚 / 趴着翘脚 / 脸朝下翘脚 / 翘腿趴 / 翘脚伏卧 / 翘脚俯卧 / 伏卧 / 伏臥"
+    },
+    {
+      "en": "on back",
+      "zh": "仰卧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 367740,
+      "desc": "仰面平躺的姿势",
+      "kw": "仰面躺 / 平躺 / 躺着 / 仰面朝天 / 姿势 / 躺姿 / 背卧 / supine / lying on back / 仰向け / 仰臥"
+    },
+    {
+      "en": "on stomach",
+      "zh": "俯卧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 94767,
+      "desc": "腹部朝下平躺",
+      "kw": "伏卧 / 趴趴 / 趴姿 / 肚皮朝下 / 腹部朝下躺 / 面朝下躺 / 姿势 / prone / lying on stomach / on belly / on front"
+    },
+    {
+      "en": "all fours",
+      "zh": "四肢着地",
+      "rating": "q",
+      "nsfw": true,
+      "count": 82895,
+      "desc": "双手双膝着地如四足动物，身体离地",
+      "kw": "四脚着地 / 手膝着地 / 趴跪 / 爬行姿势 / 手脚并用 / 女豹姿势 / 四肢着地姿势 / 姿势 / all-fours / hands and knees / on all fours / 四つん這い"
+    },
+    {
+      "en": "crossed legs",
+      "zh": "翘腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 109468,
+      "desc": "双腿交叠的坐、站或躺姿",
+      "kw": "腿交叉 / 交叉腿 / 跷二郎腿 / 双腿交叠 / 交叠腿 / 两腿交叉 / 交叉双腿 / 坐姿 / crossed legs (lying) / crossed legs (sitting) / crossed legs (standing) / legs crossed"
+    },
+    {
+      "en": "legs together",
+      "zh": "双腿并拢",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38158,
+      "desc": "双腿全程并拢的姿势",
+      "kw": "双腿并合 / 两腿并拢 / 双脚并拢 / 并腿 / 双腿合拢 / 腿并拢 / 并拢双腿 / 姿势 / knees together / knees together feet together"
+    },
+    {
+      "en": "leaning forward",
+      "zh": "前倾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 167503,
+      "desc": "上身微微前倾但未到弯腰程度",
+      "kw": "身体前倾 / 上身前倾 / 向前倾身 / 前俯 / 倾身向前 / 弯腰前倾 / 前倾姿势 / 身体姿势 / lean forward / 前屈み / 前かがみ"
+    },
+    {
+      "en": "leaning back",
+      "zh": "后仰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26808,
+      "desc": "站立或坐着时腰部向后倾",
+      "kw": "后曲 / 向后仰 / 身体后仰 / 腰后仰 / 向后倾斜 / 姿势 / のけぞる"
+    },
+    {
+      "en": "collapsed",
+      "zh": "瘫倒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 196,
+      "desc": "倒地不起或瘫倒的状态",
+      "kw": "倒下 / 倒在地上 / 倒地 / 晕倒 / 仆倒 / 瘫软倒地 / 姿势"
+    },
+    {
+      "en": "slumped",
+      "zh": "垂头坐着",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41
+    },
+    {
+      "en": "sleeping",
+      "zh": "睡着",
+      "rating": "g",
+      "nsfw": false,
+      "count": 103576,
+      "desc": "人进入无意识休息的自然状态。",
+      "kw": "睡眠 / 入睡 / 沉睡 / 熟睡 / 酣睡 / 打盹 / 小睡 / sleep / asleep / まどろみ"
+    },
+    {
+      "en": "dancing",
+      "zh": "跳舞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23980,
+      "desc": "随音乐韵律舞动的行为。",
+      "kw": "舞蹈 / 起舞 / 舞动 / 跳舞中 / 舞 / 手舞足蹈 / 舞蹈动作 / 舞姿 / dance / ダンス / ダンシング"
+    },
+    {
+      "en": "fighting stance",
+      "zh": "战斗姿态",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34823,
+      "desc": "准备迎战、威慑对手的战斗架势。",
+      "kw": "备战姿势 / 格斗架势 / 战斗准备姿势 / 迎战姿势 / 对战姿势 / 战斗姿势 / 格斗 / battle stance"
+    },
+    {
+      "en": "sword fighting",
+      "zh": "持剑战斗",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "turning around",
+      "zh": "转身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 843,
+      "desc": "表现人物转身动作的作画或动画",
+      "kw": "转过身 / 转过身子 / 回身 / 转身动作 / 回头 / 姿势 / 动态"
+    },
+    {
+      "en": "sitting on chair",
+      "zh": "坐椅子",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sitting on floor",
+      "zh": "坐地上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "indian style",
+      "zh": "盘腿坐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21669,
+      "desc": "双腿交叉盘坐的坐姿",
+      "kw": "盘坐 / 打坐 / 盘腿 / 散盘 / 胡坐 / 交叉坐 / 印度风格 / 坐姿 / agura / あぐら"
+    },
+    {
+      "en": "on one knee",
+      "zh": "单膝跪地",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19312,
+      "desc": "单膝跪地，常见于求婚或表示敬意",
+      "kw": "单膝下跪 / 单膝跪下 / 单膝跪 / 屈膝跪地 / 单腿跪 / 单膝着地 / 半跪 / 姿势 / kneeling on one leg / one knee / genuflecting / 片膝立ち"
+    },
+    {
+      "en": "crouching",
+      "zh": "伏蹲",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bending over",
+      "zh": "弯腰",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bending forward",
+      "zh": "俯身",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "running away",
+      "zh": "跑开",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "walking away",
+      "zh": "走开",
+      "rating": "g",
+      "nsfw": false,
+      "count": 880,
+      "desc": "角色从镜头或对象处走开",
+      "kw": "离开 / 走远 / 转身离开 / 离去 / 走开的背影 / 姿势 / 背影"
+    },
+    {
+      "en": "climbing",
+      "zh": "攀爬",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2165,
+      "desc": "手脚并用向上攀爬。",
+      "kw": "攀登 / 爬高 / 攀高 / 往上爬 / 爬上去 / 动作 / 运动 / 姿势"
+    },
+    {
+      "en": "swimming",
+      "zh": "游泳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7004,
+      "desc": "用四肢在水中前进",
+      "kw": "游水 / 游泳中 / 竞泳 / 水泳 / 游泳动作 / 动作 / 运动 / 競泳"
+    },
+    {
+      "en": "spinning",
+      "zh": "旋转",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4171,
+      "desc": "物体绕自身中心或轴连续旋转。",
+      "kw": "打转 / 转圈 / 回旋转动 / 回旋 / 转动 / 自转 / 动作 / 动态 / spin / twirling / 回転"
+    },
+    {
+      "en": "backflip",
+      "zh": "后空翻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 262,
+      "desc": "身体向后翻腾一周",
+      "kw": "后翻 / 后空翻转体 / 向后空翻 / 后空翻跳 / 动作 / 体操"
+    },
+    {
+      "en": "cartwheel",
+      "zh": "侧手翻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69,
+      "desc": "双手撑地身体向侧翻的体操动作。",
+      "kw": "侧翻 / 横翻 / 车轮翻 / 侧手翻腾"
+    },
+    {
+      "en": "sleeping on side",
+      "zh": "侧睡",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "leaning on wall",
+      "zh": "靠墙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 64,
+      "desc": "身体倚靠在墙壁上。",
+      "kw": "倚墙 / 靠着墙 / 靠在墙上 / 靠墙站"
+    },
+    {
+      "en": "riding",
+      "zh": "骑乘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24124,
+      "desc": "骑在动物或车辆上移动，非性行为体位。",
+      "kw": "骑 / 骑马 / 骑车 / 跨坐 / 乘坐 / 动词 / 动名词 / 驾驭 / 乗る"
+    },
+    {
+      "en": "riding horse",
+      "zh": "骑马",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "skiing",
+      "zh": "滑雪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 306,
+      "desc": "踩双板、持雪杖从雪坡下滑的冬季运动。",
+      "kw": "双板 / 雪上滑行 / 高山滑雪 / 越野滑雪 / 滑雪运动 / 双板滑行 / 运动 / 双板滑雪（运动） / 滑雪（运动） / スキー"
+    },
+    {
+      "en": "skateboarding",
+      "zh": "滑板",
+      "rating": "g",
+      "nsfw": false,
+      "count": 873,
+      "desc": "踩在滑板上滑行的运动",
+      "kw": "玩滑板 / 踩滑板 / 滑板技巧 / 滑板动作 / 极限运动 / 滑板（运动） / スケートボード / スケートボード(競技)"
+    },
+    {
+      "en": "surfing",
+      "zh": "冲浪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1443,
+      "desc": "站在冲浪板上乘浪滑行。",
+      "kw": "乘浪 / 冲浪运动 / 海上冲浪 / 驾驭海浪 / 玩冲浪 / 水上运动 / 体育 / 波乗り / サーフィン"
+    },
+    {
+      "en": "dancing waltz",
+      "zh": "跳华尔兹",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "yoga pose",
+      "zh": "瑜伽姿势",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "push-up",
+      "zh": "俯卧撑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sit-up",
+      "zh": "仰卧起坐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 502,
+      "desc": "平躺后抬起上身的仰卧起坐运动",
+      "kw": "仰卧起身 / 腹肌运动 / 仰卧起坐锻炼 / 仰卧起坐动作 / 健身运动 / 锻炼 / 腹筋运动 / 腹筋運動 / 上体起こし"
+    },
+    {
+      "en": "skipping",
+      "zh": "蹦跳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 289,
+      "desc": "用轻快小跳代替正常步伐走路",
+      "kw": "跳跃行走 / 小跳步 / 雀跃 / 蹦跳着走 / 跳跃 / 动作 / 动态"
+    },
+    {
+      "en": "victory pose",
+      "zh": "胜利姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 535,
+      "desc": "庆祝胜利的姿势，常见高举双臂",
+      "kw": "胜利手势 / 庆祝胜利姿势 / 胜利动作 / 成功姿势 / 得胜姿势 / V字手势 / 姿势 / 动作"
+    },
+    {
+      "en": "dozing",
+      "zh": "打盹",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dynamic pose",
+      "zh": "动态姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4311,
+      "desc": "表现运动感和力量感的动感姿势。",
+      "kw": "动感姿势 / 动作姿势 / 活力姿势 / 动态动作 / 运动姿势 / 动态构图 / 姿势 / 动态 / 动态姿态"
+    },
+    {
+      "en": "legs spread",
+      "zh": "双腿摊开",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "lying on desk",
+      "zh": "趴桌",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lying on side",
+      "zh": "侧卧",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "standing with weight shifted onto one leg",
+      "zh": "重心压在一条腿上站着",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "leaning back against a wall with one knee bent",
+      "zh": "靠着墙一条腿微微弯曲",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sitting on the edge of a windowsill swinging legs",
+      "zh": "坐在窗台边晃着双腿",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lying on stomach propped up on elbows",
+      "zh": "趴着用手肘撑起上半身",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "kneeling on one knee while looking up",
+      "zh": "单膝跪地抬头仰望",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "walking forward with hair and skirt flowing behind",
+      "zh": "向前走头发和裙摆向后飘",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "jumping mid-air with both legs tucked",
+      "zh": "跳在半空中双腿收起",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "spinning around so that the skirt flares out",
+      "zh": "旋转时裙子扬起来",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bending forward to pick something up",
+      "zh": "弯腰去捡东西",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sitting cross-legged on the floor",
+      "zh": "盘腿坐在地上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hugging own knees while sitting",
+      "zh": "抱着膝盖坐着",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "shoulders relaxed and posture completely at ease",
+      "zh": "肩膀放松姿态十分松弛",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "spread legs",
+      "zh": "张开双腿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 359702,
+      "desc": "双腿大幅张开的姿势，多见于躺坐或性交场景。",
+      "kw": "双腿分开 / 张腿 / 开腿 / M字开腿 / 腿张开 / M字腿 / V字开腿 / 分腿 / open legs / spread leg / legs spread / 开脚"
+    },
+    {
+      "en": "legs up",
+      "zh": "抬起双腿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 48676,
+      "desc": "双腿向空中抬起的姿势，不接触支撑面。",
+      "kw": "双腿抬起 / 两腿高举 / 腿向上抬 / 双腿翘起 / 腿举起 / 抬腿 / 姿势 / 性姿势"
+    },
+    {
+      "en": "kneeling",
+      "zh": "跪姿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 160704,
+      "desc": "单膝或双膝着地，臀部离地。",
+      "kw": "下跪 / 跪着 / 跪地 / 单膝跪地 / 双膝跪地 / 屈膝跪地 / 跪在地上 / 单膝下跪 / on knees / 跪く / 膝立ち / 跪"
+    },
+    {
+      "en": "lying",
+      "zh": "躺卧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 639856,
+      "desc": "以背、侧或肩腹支撑平躺的姿势",
+      "kw": "躺着 / 平躺 / 横卧 / 躺下 / 卧姿 / 卧躺 / 仰卧 / 侧卧 / laying / laying down / lying down / 寝そべり"
+    },
+    {
+      "en": "fetal position",
+      "zh": "胎儿姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4976,
+      "desc": "侧躺蜷缩、四肢紧贴胸前的胎儿姿势",
+      "kw": "胎儿状蜷缩 / 胎儿式蜷缩 / 蜷缩成胎儿状 / 胎儿体位 / 胎儿蜷缩 / 蜷缩如胎儿 / 胎儿样蜷缩 / 姿势"
+    },
+    {
+      "en": "sitting",
+      "zh": "坐姿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1346311,
+      "desc": "臀部置于平面上的姿势",
+      "kw": "坐着 / 坐下 / 坐 / 端坐 / 就坐 / 坐态 / 坐在地上 / 坐于 / sit / sitting down / 椅子尻 / 座る"
+    },
+    {
+      "en": "butterfly sitting",
+      "zh": "蝴蝶坐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1566,
+      "desc": "脚掌相对、膝盖外张的坐姿",
+      "kw": "蝴蝶坐姿 / 蝴蝶式坐姿 / 蝴蝶姿势 / 脚掌相对坐 / 脚底并拢坐姿 / 瑜伽蝴蝶式 / 坐姿 / 瑜伽姿势 / butterfly pose"
+    },
+    {
+      "en": "figure four sitting",
+      "zh": "四字盘腿坐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1289,
+      "desc": "一脚踝搭在另一腿膝上的坐姿。",
+      "kw": "四字坐姿 / 单腿横架 / 搭腿坐姿 / 翘脚坐 / 美式翘腿坐 / 4字腿 / 单脚搭膝坐 / 搭膝盖坐 / american figure four"
+    },
+    {
+      "en": "lotus position",
+      "zh": "结跏趺坐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 146,
+      "desc": "双脚各放在对侧大腿上的打坐姿势。",
+      "kw": "莲花坐姿 / 双盘 / 双盘腿 / 跏趺坐 / 盘腿坐 / 打坐 / 禅坐"
+    },
+    {
+      "en": "hugging own legs",
+      "zh": "抱膝坐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20077,
+      "desc": "坐着用双臂环抱自己的双腿，包括体育坐。",
+      "kw": "抱着自己的腿 / 抱腿坐 / 体育坐 / 体育座 / 环抱双腿 / 抱膝蹲坐 / 抱膝 / knee hug / hugging knees / hugging legs / leg hug"
+    },
+    {
+      "en": "reclining",
+      "zh": "斜倚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11413,
+      "desc": "上身向后倚靠，比坐更放松但未完全躺下",
+      "kw": "斜躺 / 靠躺 / 半躺 / 后仰坐 / 躺卧 / 斜靠 / 半卧 / 姿势 / recline"
+    },
+    {
+      "en": "seiza",
+      "zh": "正坐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 51184,
+      "desc": "跪坐、臀部压在脚跟上的日本正式坐姿",
+      "kw": "跪坐 / 正座 / 日式跪坐 / 跪坐姿 / 正襟危坐 / 日本坐姿 / 日本风格 / sitting on knees"
+    },
+    {
+      "en": "sitting on person",
+      "zh": "坐在人身上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35502,
+      "desc": "坐在他人身上，如骑坐或趴坐。",
+      "kw": "坐在别人身上 / 坐在他人身上 / 坐人身上 / 骑坐在人身上 / 坐在某人身上 / 坐身上 / 人身上坐 / 姿势 / sitting on"
+    },
+    {
+      "en": "sitting on lap",
+      "zh": "坐在腿上",
+      "rating": "s",
+      "nsfw": false,
+      "count": 18985,
+      "desc": "坐在他人腿上的姿势",
+      "kw": "坐在膝上 / 膝上坐 / 大腿坐 / 坐在别人腿上 / 坐在他人膝上 / 姿势 / 亲密接触 / sitting in lap / lap sitting"
+    },
+    {
+      "en": "straddling",
+      "zh": "跨坐",
+      "rating": "q",
+      "nsfw": true,
+      "count": 100027,
+      "desc": "两腿分跨在某物两侧的坐姿。",
+      "kw": "骑坐 / 跨骑 / 两腿分跨 / 跨姿 / 骑着 / 姿势 / straddle / 馬乗り / 馬乗りパイズリ"
+    },
+    {
+      "en": "wariza",
+      "zh": "鸭子坐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 111183,
+      "desc": "臀部着地双腿向两侧后折的坐姿，又称W坐",
+      "kw": "W坐 / W型坐 / 割座 / 跪坐 / 鸭坐 / W字坐 / 女生坐姿 / 坐姿 / w-sitting / w sitting / w-legs / w legs"
+    },
+    {
+      "en": "yokozuwari",
+      "zh": "侧身坐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26616,
+      "desc": "双膝跪坐、小腿向一侧折出的女性坐姿",
+      "kw": "侧坐 / 侧坐姿 / 淑女坐 / 大小姐坐 / 姿势 / 日式 / 横座り"
+    },
+    {
+      "en": "standing",
+      "zh": "站立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1367535,
+      "desc": "角色用双脚支撑站立的姿势",
+      "kw": "站姿 / 站着 / 直立 / 站直 / 挺身站立 / 站立姿势 / 起立 / 立姿 / 立つ / 立ち絵"
+    },
+    {
+      "en": "balancing",
+      "zh": "保持平衡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2188,
+      "desc": "单脚站立或稳住物体不使其倒下的姿势",
+      "kw": "平衡姿势 / 单脚站立 / 稳住身体 / 维持平衡 / 平衡动作 / 平衡 / 动作 / 姿势 / balance / バランス"
+    },
+    {
+      "en": "legs apart",
+      "zh": "站立分腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47865,
+      "desc": "站立时双腿分开的姿势",
+      "kw": "双腿分开 / 腿分开 / 叉开腿 / 张腿 / 岔腿 / 双腿岔开 / 张开腿 / 双腿分开（站立）"
+    },
+    {
+      "en": "standing on one leg",
+      "zh": "单脚站立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 131280,
+      "desc": "单腿支撑身体，另一脚离地。",
+      "kw": "单足站立 / 金鸡独立 / 单腿站 / 单脚站 / 单足伫立 / 单腿平衡 / 姿势 / standing on one foot / on one leg / on one foot / 片足立ち"
+    },
+    {
+      "en": "crawling",
+      "zh": "爬行",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1580,
+      "desc": "四肢着地向前爬行的动作",
+      "kw": "匍匐 / 四肢爬行 / 爬行姿势 / 地上爬行 / 爬着 / 姿势"
+    },
+    {
+      "en": "midair",
+      "zh": "半空中",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11943,
+      "desc": "人物完全离地悬空、不接触任何支撑物。",
+      "kw": "空中 / 悬在半空 / 浮空 / 离地悬空 / 飘在空中 / 姿势 / 腾空"
+    },
+    {
+      "en": "falling",
+      "zh": "坠落",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15932,
+      "desc": "受重力作用从空中落下",
+      "kw": "掉落 / 落下 / 跌落 / 摔落 / 下落 / 动态 / 落ちる"
+    },
+    {
+      "en": "floating",
+      "zh": "漂浮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62869,
+      "desc": "不借翅膀等外力悬停在空中的状态",
+      "kw": "悬空 / 悬浮 / 浮空 / 空中漂浮 / 凌空 / 漂浮状态 / 半空悬浮 / 浮游 / 空中浮扬 / 空中浮游"
+    },
+    {
+      "en": "flying",
+      "zh": "飞行",
+      "rating": "g",
+      "nsfw": false,
+      "count": 44844,
+      "desc": "借助翅膀、扫帚或机械在空中移动",
+      "kw": "空中飞 / 飞行中 / 飞在空中 / 翱翔 / 飞起来 / 姿势 / 空中 / flight / 飛行"
+    },
+    {
+      "en": "jumping",
+      "zh": "跳跃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32885,
+      "desc": "屈腿发力使身体腾空",
+      "kw": "跳起 / 跳 / 蹦跳 / 跳起来 / 跃起 / 姿势 / 动词 / 动名词 / jump / ジャンプ"
+    },
+    {
+      "en": "hopping",
+      "zh": "单脚跳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 325,
+      "desc": "向前短距离单脚蹦跳",
+      "kw": "单足跳 / 蹦蹦跳跳 / 跳步 / 小跳 / 姿势 / 动词 / 动名词"
+    },
+    {
+      "en": "pouncing",
+      "zh": "飞扑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 347,
+      "desc": "猛地跳向目标人物或物体",
+      "kw": "扑过去 / 猛扑 / 扑向 / 扑击 / 纵身扑去 / 动作"
+    },
+    {
+      "en": "running",
+      "zh": "跑步",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46273,
+      "desc": "双脚在每步中离地快速前进",
+      "kw": "疾跑 / 飞奔 / 疾走 / 跑动 / 姿势 / 动词 / 动名词 / run / 全力疾走"
+    },
+    {
+      "en": "walking",
+      "zh": "行走",
+      "rating": "g",
+      "nsfw": false,
+      "count": 56100,
+      "desc": "角色处于行走状态，静态图中常表现为双脚一前一后。",
+      "kw": "走路 / 步行 / 散步 / 步行中 / 迈步 / 行进 / 走路动作 / 走动"
+    },
+    {
+      "en": "prostration",
+      "zh": "土下座",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1141,
+      "desc": "面朝下俯身跪伏，表示臣服或道歉",
+      "kw": "失意体前屈 / 跪伏 / 叩拜 / 磕头 / 伏地 / 日本风 / 跪拜 / orz"
+    },
+    {
+      "en": "bear position",
+      "zh": "熊式四肢着地",
+      "rating": "s",
+      "nsfw": false,
+      "count": 362,
+      "desc": "四肢着地但双膝离地的姿势",
+      "kw": "熊式 / 熊趴 / 四肢撑地 / 熊爬姿势 / 高跪趴 / 抬膝四肢着地 / 熊式位 / 性姿势"
+    },
+    {
+      "en": "bowlegged pose",
+      "zh": "外八字站姿",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2532,
+      "desc": "微蹲膝盖外张、突出胯部的站姿",
+      "kw": "罗圈腿站姿 / 外八站姿 / 外八蹲姿 / 蟹股姿势 / 开腿站姿 / 屈膝外八站姿 / 跨部突出姿势 / O型腿姿势 / 蟹股ポージング / がに股"
+    },
+    {
+      "en": "chest stand",
+      "zh": "胸倒立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 118,
+      "desc": "胸撑地、双腿弯过头顶的高柔韧性后弯姿势。",
+      "kw": "胸撑后弯 / 胸撑拱桥 / 胸撑腿过头 / 胸支下腰 / 柔术胸撑 / 阿拉丁王模仿 / 胸撑后屈"
+    },
+    {
+      "en": "triplefold",
+      "zh": "三折式（柔术）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "ruppelbend",
+      "zh": "下腰",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "quadfold",
+      "zh": "四折式（柔术）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cowering",
+      "zh": "畏缩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 850,
+      "desc": "因恐惧抱头下蹲的姿势，常见于东方角色。",
+      "kw": "抱头蹲防 / 蹲防 / 蜷缩 / 护头蹲下 / 蹲缩 / 缩成一团 / 害怕蹲下 / 姿势 / カリスマガード"
+    },
+    {
+      "en": "faceplant",
+      "zh": "脸部着地",
+      "rating": "g",
+      "nsfw": false,
+      "count": 715,
+      "desc": "角色脸朝下摔倒在地。",
+      "kw": "脸朝下摔倒 / 面部着地 / 脸摔地 / 摔个狗吃屎 / 面朝下摔倒 / 脸先着地 / 脸贴地 / 姿势"
+    },
+    {
+      "en": "full scorpion",
+      "zh": "完全蝎子式",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40
+    },
+    {
+      "en": "battoujutsu stance",
+      "zh": "拔刀姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 411,
+      "desc": "准备拔刀斩击的架势，手按刀柄",
+      "kw": "拔刀架势 / 居合架势 / 拔刀斩架势 / 居合斩姿势 / 拔刀术姿势 / 居合准备 / 拔刀准备 / 拔刀术"
+    },
+    {
+      "en": "spread eagle position",
+      "zh": "大字型姿势",
+      "rating": "q",
+      "nsfw": true,
+      "count": 243,
+      "desc": "仰面四肢大张的“大”字形躺姿",
+      "kw": "大字型 / 大字形 / 大字躺 / 大字形躺姿 / 大字形仰卧 / 四仰八叉 / 大字形姿势 / 姿势 / spread eagle / 大の字"
+    },
+    {
+      "en": "squatting",
+      "zh": "蹲姿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 142012,
+      "desc": "屈膝蹲下、臀部离地的姿势，膝盖不触地。",
+      "kw": "蹲着 / 蹲下 / 下蹲 / 蹲踞 / 蹲坐 / 曲膝蹲 / 双脚蹲 / 蹲伏 / crouch / squat / crouching / crouched"
+    },
+    {
+      "en": "stretching",
+      "zh": "拉伸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24451,
+      "desc": "伸展四肢或身体以放松肌肉。",
+      "kw": "伸展 / 伸懒腰 / 伸展运动 / 拉筋 / 暖身运动 / 舒展身体 / 运动姿势 / stretch / 准备运动 / ストレッチ"
+    },
+    {
+      "en": "superhero landing",
+      "zh": "超级英雄着陆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 301,
+      "desc": "单膝与一手撑地的三点头落地姿势。",
+      "kw": "英雄落地 / 英雄式落地 / 三点着陆 / 三点着地 / 超人落地 / 超级英雄着地 / 三点头落地 / three-point landing / hero landing / スーパーヒーロー着地"
+    },
+    {
+      "en": "upside-down",
+      "zh": "上下颠倒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35634,
+      "desc": "画面中的人或物呈上下颠倒状态。",
+      "kw": "颠倒 / 反转 / 倒挂 / 倒立 / 头下脚上 / 倒转 / 上下翻转 / upsidedown / upside down / 上下颠倒（构图） / 逆乳"
+    },
+    {
+      "en": "headstand",
+      "zh": "倒立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 123,
+      "desc": "头触地支撑身体的倒立姿势。",
+      "kw": "头手倒立 / 拿大顶 / 头撑倒立 / 头顶地倒立 / 姿势 / 倒立姿势"
+    },
+    {
+      "en": "yoga",
+      "zh": "瑜伽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 888,
+      "desc": "源于古印度的瑜伽，多指展示柔韧性的姿势",
+      "kw": "瑜珈 / 瑜伽姿势 / 瑜伽动作 / 运动 / 姿势 / ヨガ / ヨーガ"
+    },
+    {
+      "en": "scorpion pose",
+      "zh": "蝎子式",
+      "rating": "g",
+      "nsfw": false,
+      "count": 68,
+      "desc": "瑜伽中在手倒立或前臂支撑下弓背屈腿的姿势。",
+      "kw": "蝎子姿势 / 瑜伽蝎子式 / 倒立蝎子式 / 蝎子摆尾式 / 蝎子功 / 蝎子倒立"
+    },
+    {
+      "en": "revolved head-to-knee pose",
+      "zh": "扭转头到膝式",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "arched back",
+      "zh": "反弓背",
+      "rating": "s",
+      "nsfw": false,
+      "count": 25365,
+      "desc": "背部向后反弓，身体呈倒弧",
+      "kw": "弓背 / 后仰 / 下腰 / 拱背 / 挺腹后仰 / 身体后弓 / 反弓 / 背弓 / 伸懒腰 / 伸腰 / 腰前屈 / 仰け反り絶頂"
+    },
+    {
+      "en": "bent back",
+      "zh": "弯腰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 686,
+      "desc": "身体前弯使背部呈弓形。",
+      "kw": "弓背 / C背 / 蜷缩 / 背部弯曲 / 姿势 / 弯曲 / rounded back"
+    },
+    {
+      "en": "slouching",
+      "zh": "含胸驼背",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1094,
+      "desc": "肩膀和上背下垂的含胸驼背姿态，常见于沮丧或慵懒时。",
+      "kw": "驼背 / 垂肩 / 含胸 / 弯腰驼背 / 垂头丧气 / 懒散姿态 / 颓丧姿势 / 没精打采"
+    },
+    {
+      "en": "sway back",
+      "zh": "挺胸后仰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1087,
+      "desc": "站立时身体后仰、腰部反弓且没有支撑的姿势。",
+      "kw": "后仰站姿 / 挺腹后仰 / 反弓腰 / 腰后凹 / 上体后仰 / 下体前拱 / 塌腰 / 身体特征 / 上体后拱"
+    },
+    {
+      "en": "twisted torso",
+      "zh": "扭腰",
+      "rating": "s",
+      "nsfw": false,
+      "count": 10346,
+      "desc": "上半身大幅扭转，常同时展示胸部和臀部。",
+      "kw": "扭身 / 上身扭转 / 身体扭转 / 夸张扭身 / 反身扭腰 / 扭动的躯干 / 姿势"
+    },
+    {
+      "en": "flexing",
+      "zh": "展示肌肉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5274,
+      "desc": "摆出姿势展示肌肉。",
+      "kw": "绷肌肉 / 秀肌 / 屈臂展示肌肉 / 肌肉展示 / 姿势 / 肌肉 / flex / 屈曲"
+    },
+    {
+      "en": "praise the sun",
+      "zh": "赞美太阳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 126,
+      "desc": "双臂高举仰望天空，出自《黑暗之魂》的赞美太阳姿势。",
+      "kw": "太阳赞美 / 太阳万岁 / 赞美太阳姿势 / 太阳万岁姿势 / 黑暗之魂赞美太阳 / 姿势 / 太阳之赞 / 太阳万歳"
+    },
+    {
+      "en": "t-pose",
+      "zh": "T字站姿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 662,
+      "desc": "3D角色绑定的默认姿势，双臂平举双腿直立",
+      "kw": "T字姿势 / T型站姿 / T型姿势 / T字站立 / 默认姿势 / 绑定姿势 / T字姿态 / 姿势 / t-ポーズ / tポーズ"
+    },
+    {
+      "en": "a-pose",
+      "zh": "A字姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1261,
+      "desc": "双臂斜向下张开呈A字形的姿势",
+      "kw": "A姿势 / A型姿势 / A字型站姿 / A字型姿势 / A字姿态 / 姿势 / A字形 / 站姿 / a-ポーズ / aポーズ"
+    },
+    {
+      "en": "contrapposto",
+      "zh": "对立式平衡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38372,
+      "desc": "身体重量压在一条腿上、胯部外顶的站姿，艺术术语。",
+      "kw": "重心偏移站姿 / 单腿重心站姿 / 歇站式 / 对应式平衡 / 胯部外顶站姿 / 单腿承重站姿 / 对立式平衡姿势 / 姿势 / 单腿重心 / コントラポスト / 짝다리"
+    },
+    {
+      "en": "leg up",
+      "zh": "抬腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 114886,
+      "desc": "任意把单条腿抬到空中的姿势",
+      "kw": "单腿抬起 / 抬一条腿 / 单脚抬起 / 举腿 / 抬起一条腿 / 姿势 / one leg raised / 抬起一条腿"
+    },
+    {
+      "en": "leg lift",
+      "zh": "单腿抬起",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21794,
+      "desc": "一条腿抬起向外张开、双腿大幅分开的姿势",
+      "kw": "抬腿张开 / 高抬腿 / 抬腿姿势 / 腿抬起 / 抬腿分开 / 姿势 / raised leg / leg raise / leg raised"
+    },
+    {
+      "en": "outstretched leg",
+      "zh": "伸直的腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2387,
+      "desc": "一条腿完全伸直向外伸出的姿势。",
+      "kw": "伸直腿 / 伸腿 / 单腿伸直 / 腿伸出 / 单腿前伸 / 绷直腿 / 腿完全伸直 / leg outstretched / 单腿伸出 / 压腿"
+    },
+    {
+      "en": "split",
+      "zh": "劈叉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16812,
+      "desc": "双腿向两侧或前后分开贴地的体操姿势。",
+      "kw": "劈腿 / 一字劈叉 / 横叉 / 竖叉 / 大劈叉 / 开腿 / 劈叉开腿 / splits / 開脚"
+    },
+    {
+      "en": "pigeon pose",
+      "zh": "鸽子式",
+      "rating": "g",
+      "nsfw": false,
+      "count": 207,
+      "desc": "瑜伽中一腿前屈一腿后伸的姿势",
+      "kw": "鸽式 / 瑜伽鸽子式 / 鸽子姿势 / 鸽王式 / 鸽式瑜伽 / 鸽子体式 / 瑜伽姿势 / 体位 / 鳩のポーズ / ピジョン・ポーズ / ハトのポーズ"
+    },
+    {
+      "en": "standing split",
+      "zh": "站立劈叉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13920,
+      "desc": "单腿站立另一腿高高抬起呈竖叉状，与高踢不同",
+      "kw": "站立劈腿 / 单腿站立竖叉 / 站立竖叉 / Y字平衡 / I字平衡 / 一字马站立 / 竖叉 / 淫兰 / y字バランス / i字バランス / 淫蘭"
+    },
+    {
+      "en": "watson cross",
+      "zh": "沃森交叉腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5312,
+      "desc": "站立时小腿膝盖或大腿交叠的姿势，因艾玛·沃森得名",
+      "kw": "沃森交叉 / 华生交叉 / 艾玛·沃森站姿 / 交叉腿站立 / 腿交叉站姿 / 华生十字 / 交叉腿 / 站立"
+    },
+    {
+      "en": "knees apart feet together",
+      "zh": "双膝分开双脚并拢",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4317,
+      "desc": "双膝分开而双脚并拢的站姿",
+      "kw": "膝盖分开脚并拢 / 双膝分开脚并拢 / 膝盖分开双脚并拢 / 双膝分开双足并拢 / 腿分开脚并拢 / 双膝分开双脚并拢跪姿 / 跪姿 / 姿势"
+    },
+    {
+      "en": "knees together feet apart",
+      "zh": "膝盖并拢脚分开",
+      "rating": "g",
+      "nsfw": false,
+      "count": 42926,
+      "desc": "双膝并拢而双脚分开的站姿。",
+      "kw": "膝盖并拢双脚分开 / 双膝靠拢双脚分开 / 膝盖并拢双脚开立 / 膝并拢足分开 / 双膝并拢 / 内八 / 腿姿势 / knees touching"
+    },
+    {
+      "en": "knee up",
+      "zh": "抬膝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60563,
+      "desc": "单膝抬起，通常为坐姿或躺姿",
+      "kw": "屈膝 / 膝盖抬起 / 单膝曲起 / 单膝屈起 / 单膝立起 / 坐立腿 / 姿势 / 单膝抬高 / 坐立腿"
+    },
+    {
+      "en": "knees up",
+      "zh": "屈膝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 84440,
+      "desc": "坐、躺或悬浮时膝盖弯曲抬起悬空。",
+      "kw": "膝盖抬起 / 弯腿 / 抱膝 / 抬膝 / 膝盖立起 / 曲腿 / 屈膝姿势 / 姿势"
+    },
+    {
+      "en": "archer pose",
+      "zh": "射箭姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "body bridge",
+      "zh": "后弯拱桥",
+      "rating": "g",
+      "nsfw": false,
+      "count": 316,
+      "desc": "面朝上四肢撑地、身体拱起的姿势。",
+      "kw": "桥式 / 下腰 / 后桥 / 拱桥姿势 / 体操桥 / 身体桥 / 桥式动作 / 体位 / back bridge / bridge pose / ブリッジ"
+    },
+    {
+      "en": "dojikko pose",
+      "zh": "冒失娘动作",
+      "rating": "g",
+      "nsfw": false,
+      "count": 340,
+      "desc": "眨眼吐舌并敲自己头的姿势。",
+      "kw": "装傻姿势 / 敲头眨眼吐舌 / 敲头吐舌眨眼 / 冒失娘敲头 / 敲头卖萌 / 敲头装傻 / 姿势 / 萌系"
+    },
+    {
+      "en": "ghost pose",
+      "zh": "幽灵姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2090,
+      "desc": "双臂抬起、手腕耷拉模仿幽灵的姿势。",
+      "kw": "鬼怪姿势 / 幽灵手 / 鬼手姿势 / 幽灵手势 / 僵尸姿势 / 幽灵造型 / 鬼魂姿势 / 姿势"
+    },
+    {
+      "en": "head and hip pose",
+      "zh": "单手抱头叉腰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 574,
+      "desc": "一手放在头后，另一手叉腰的姿势。",
+      "kw": "一手抱头一手叉腰 / 手放脑后叉腰 / 摸头叉腰 / 手背头叉腰 / 头后叉腰姿势 / 回头收臀姿势 / 姿势 / 模特姿势"
+    },
+    {
+      "en": "inugami-ke no ichizoku pose",
+      "zh": "犬神家姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 274,
+      "desc": "上半身倒插进地面只露出双腿的姿势，源自小说《犬神家一族》",
+      "kw": "倒插姿势 / 倒插葱姿势 / 下半身倒插 / 倒插地 / 姿势 / 倒插 / 犬神家"
+    },
+    {
+      "en": "letter pose",
+      "zh": "字母姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 56,
+      "desc": "用身体摆出字母或文字形状的姿势。",
+      "kw": "人文字姿势 / 字母造型 / 身体摆字母 / YMCA姿势 / 人形字母 / 人文字"
+    },
+    {
+      "en": "ojou-sama pose",
+      "zh": "大小姐姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2262,
+      "desc": "手背掩口、贵族大小姐风格的姿势，常伴随“哦呵呵呵”笑声",
+      "kw": "大小姐笑 / 大小姐式笑 / 高笑 / 贵族小姐笑 / 哦呵呵呵姿势 / 大小姐捂嘴笑 / 贵族大小姐姿势 / 姿势 / noblewoman's laugh / 高笑い"
+    },
+    {
+      "en": "saboten pose",
+      "zh": "仙人掌姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 70,
+      "desc": "下方人抱住上方人双腿、上方人踩在其腿上张开双臂的姿势",
+      "kw": "仙人掌式 / 组体操 / 仙人掌托举"
+    },
+    {
+      "en": "villain pose",
+      "zh": "反派站姿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 133,
+      "desc": "双腿并拢抱臂、下巴微扬的反派站姿",
+      "kw": "反派pose / 反派抱臂姿势 / 恶人站姿 / 反派挺胯姿势 / 大反派站姿 / 反派立姿 / 恶人姿势"
+    },
+    {
+      "en": "zombie pose",
+      "zh": "僵尸姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4391,
+      "desc": "双臂前伸、双手下垂的僵尸式姿势",
+      "kw": "丧尸姿势 / 僵尸站姿 / 僵尸手 / 双臂前伸姿 / 跳跃僵尸姿势 / 僵尸式动作 / 僵尸 / 姿势 / jiangshi pose / 双臂向前平伸"
+    },
+    {
+      "en": "charizard pose",
+      "zh": "喷火龙姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 95,
+      "desc": "模仿喷火龙的姿势，常见于《宝可梦》",
+      "kw": "喷火龙造型 / 喷火龙pose / 喷火龙站姿 / 丹帝喷火龙姿势"
+    },
+    {
+      "en": "gendou pose",
+      "zh": "碇源堂姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 714,
+      "desc": "双手交握遮住下半张脸、眼镜反光的姿势，出自《EVA》碇源堂。",
+      "kw": "碇源堂式 / 碇源渡姿势 / 司令姿势 / EVA司令姿势 / 双手交握遮嘴姿势 / 眼睛反光姿势 / 姿势 / 福音战士 / ゲンドウポーズ"
+    },
+    {
+      "en": "henshin pose",
+      "zh": "变身姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1004,
+      "desc": "角色变身之前摆出的固定姿势，常见于假面骑士、光之美少女",
+      "kw": "变身动作 / 变身造型 / 变身定势 / 变身亮相 / 变身预备姿势 / 姿势 / 特摄"
+    },
+    {
+      "en": "jojo pose",
+      "zh": "JOJO立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2267,
+      "desc": "JOJO中角色标志性的夸张姿势",
+      "kw": "JOJO姿势 / 乔乔立 / 乔乔姿势 / JOJO站姿 / 乔乔站姿 / 姿势 / ジョジョ立ち / スタンド"
+    },
+    {
+      "en": "dio brando's pose",
+      "zh": "迪奥·布兰度姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 134,
+      "desc": "《JOJO》中DIO的招牌站姿。",
+      "kw": "迪奥立 / DIO的姿势 / 迪奥的姿势 / 迪奥·布兰度的姿势 / 迪奥姿势 / JOJO姿势 / 布兰多姿势 / dio's pose / dio brando's pose (jojo)"
+    },
+    {
+      "en": "giorno giovanna's pose",
+      "zh": "乔鲁诺·乔巴纳的姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 150,
+      "desc": "《JOJO》乔鲁诺·乔巴纳的招牌姿势",
+      "kw": "乔鲁诺姿势 / 茸茸姿势 / 乔鲁诺·乔巴纳招牌姿势 / 乔鲁诺站姿 / JOJO乔鲁诺姿势 / 黄金之风乔鲁诺姿势 / 乔鲁诺·乔巴纳立 / 姿势 / giorno giovanna's pose (jojo)"
+    },
+    {
+      "en": "jonathan joestar's pose",
+      "zh": "乔纳森·乔斯达的姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 133,
+      "desc": "《JOJO》中乔纳森·乔斯达的标志性姿势。",
+      "kw": "乔纳森立 / 乔纳森·乔斯达立 / 姿势 / JOJO / jonathan joestar's pose (jojo)"
+    },
+    {
+      "en": "kujo jotaro's pose",
+      "zh": "空条承太郎姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 385,
+      "desc": "《JOJO的奇妙冒险》空条承太郎的招牌站立姿势",
+      "kw": "承太郎站姿 / 承太郎姿势 / JOJO承太郎姿势 / 空条承太郎站姿 / 承太郎招牌姿势 / 空条承太郎立 / 姿势 / JOJO / kujo jotaro's pose (jojo)"
+    },
+    {
+      "en": "kongou pose",
+      "zh": "金刚立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 142,
+      "desc": "源自舰队Collection金刚立绘的伸手站立姿势",
+      "kw": "金刚站姿 / 金刚招牌姿势 / 金刚式站立 / 金刚POSE / 姿势 / 动漫"
+    },
+    {
+      "en": "kujou karen pose",
+      "zh": "九条可怜姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "z-move trainer pose",
+      "zh": "Z招式训练家姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 191,
+      "desc": "训练家指挥宝可梦使用Z招式时的姿势。",
+      "kw": "Z招式训练师姿势 / Z招式姿势 / 训练家Z招式动作 / Z招式训练家动作 / 宝可梦 / 姿势"
+    },
+    {
+      "en": "bent over",
+      "zh": "弯腰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 86461,
+      "desc": "上半身几乎水平弯下、臀部翘起的姿势。",
+      "kw": "俯身 / 躬身 / 弯腰翘臀 / 弯腰撅臀 / 身体前屈 / 前屈 / 鞠躬 / 弯腰姿势 / bent-over / bend over / bending over / 站立前屈"
+    },
+    {
+      "en": "on side",
+      "zh": "侧卧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 127630,
+      "desc": "侧身躺卧的姿势。",
+      "kw": "侧身躺 / 侧睡 / 横卧 / 侧躺姿势 / 侧身卧 / 姿势 / 性姿势 / lying on side / 対面侧位 / 横臥 / 松葉崩し"
+    },
+    {
+      "en": "knees to chest",
+      "zh": "抱膝姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7588,
+      "desc": "把膝盖收拢贴近胸口的姿势",
+      "kw": "膝盖抵胸 / 膝盖贴胸 / 屈膝至胸 / 双膝贴近胸口 / 蜷膝 / 姿势 / knees-on-chest / knees on chest"
+    },
+    {
+      "en": "legs over head",
+      "zh": "双腿过头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2018,
+      "desc": "双腿位于头部上方或后方，常见于柔术或特定姿势",
+      "kw": "腿过头 / 脚过头 / 腿在头上 / 腿绕头 / 腿过肩 / 腿举过头 / 腿在头后"
+    },
+    {
+      "en": "bound legs",
+      "zh": "双腿捆绑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 14578,
+      "desc": "双腿被绑在一起",
+      "kw": "双腿被绑 / 绑腿 / 捆绑双腿 / 缚腿 / 腿部束缚 / 捆腿 / 绑住双腿 / 足枷 / 足かせ"
+    },
+    {
+      "en": "bound calves",
+      "zh": "束缚小腿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 65,
+      "desc": "两小腿在膝下被绑在一起",
+      "kw": "捆绑小腿 / 小腿被绑 / 小腿绑缚 / 被绑的小腿 / 小腿束缚"
+    },
+    {
+      "en": "bound knees",
+      "zh": "束缚双膝",
+      "rating": "q",
+      "nsfw": true,
+      "count": 412,
+      "desc": "膝盖被束缚物绑在一起",
+      "kw": "绑膝 / 膝盖捆绑 / 双膝被绑 / 膝盖被缚 / 束膝 / 膝部束缚 / 束缚"
+    },
+    {
+      "en": "bound thighs",
+      "zh": "大腿捆绑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1590,
+      "desc": "两大腿被绑在一起。",
+      "kw": "捆绑大腿 / 大腿被绑 / 绑住大腿 / 大腿束缚 / 双大腿捆绑 / 束缚的大腿 / 束缚"
+    },
+    {
+      "en": "bound torso",
+      "zh": "躯干捆绑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2303,
+      "desc": "上半身被绳索绑缚",
+      "kw": "上身捆绑 / 绑住上半身 / 捆绑躯干 / 躯干束缚 / 绑上身 / 捆绑 / 束缚"
+    },
+    {
+      "en": "legs bound apart",
+      "zh": "双腿分绑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1040,
+      "desc": "双腿被束缚具强行分开而无法并拢。",
+      "kw": "双腿束缚分开 / 双腿绑开 / 双腿张开捆绑 / 双腿分开束缚 / 双腿分离捆缚 / 腿部分开捆绑 / 双腿绑住分开 / 腿被捆开 / separated legs"
+    },
+    {
+      "en": "shrimp tie",
+      "zh": "虾式捆绑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 83,
+      "desc": "把四肢反绑成虾状的日式绳缚，源自拷问技法",
+      "kw": "虾缚 / 虾绑 / 海老缚 / 日式虾缚 / 虾形束缚 / 曲背缚"
+    },
+    {
+      "en": "strappado",
+      "zh": "悬吊刑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 170,
+      "desc": "双臂反绑背后并向上吊起的束缚姿势",
+      "kw": "吊臂缚 / 反手吊缚 / 吊缚 / 背后吊臂束缚 / 吊臂绑缚 / 反绑吊起 / 反吊双臂束缚 / 束缚"
+    },
+    {
+      "en": "suspension",
+      "zh": "吊缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6140,
+      "desc": "被绑缚后悬吊起来、身体可能着地也可能离地的捆绑姿势",
+      "kw": "悬吊束缚 / 吊绑 / 悬挂捆绑 / 悬吊绑 / 束缚 / SM / suspended"
+    },
+    {
+      "en": "crouching down with hands on knees",
+      "zh": "蹲下来双手撑在膝盖上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lying on back with arms stretched above head",
+      "zh": "仰躺着双臂举过头顶",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "leaning over a railing looking at the river below",
+      "zh": "靠在栏杆上望着下面的河",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "running with one arm swung back",
+      "zh": "奔跑时一只手臂向后甩",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "standing still with hands hanging loosely at sides",
+      "zh": "静静站着双手自然垂在身侧",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chest stand handstand",
+      "zh": "胸倒立手倒立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33
+    },
+    {
+      "en": "handstand",
+      "zh": "倒立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1911,
+      "desc": "双手撑地、身体倒立的姿势",
+      "kw": "手倒立 / 拿大顶 / 竖蜻蜓 / 倒立姿势 / 体操动作 / standing on hands / 逆立ち"
+    },
+    {
+      "en": "arm support",
+      "zh": "手臂支撑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 121411,
+      "desc": "用手臂支撑自己体重的姿势",
+      "kw": "胳膊支撑 / 手撑 / 臂撑 / 用手支撑 / 支撑身体 / 支撑姿势"
+    },
+    {
+      "en": "tsuki ni kawatte oshioki yo",
+      "zh": "代表月亮消灭你",
+      "rating": "g",
+      "nsfw": false,
+      "count": 645,
+      "desc": "美少女战士经典台词",
+      "kw": "月野兔经典台词 / 美少女战士台词 / 我要代替月亮惩罚你 / 美少女战士 / 台词 / in the name of the moon / 月に代わっておしおきよ / 月に代わっておしおきよ! / 代表月亮消灭你!"
+    },
+    {
+      "en": "kamina pose",
+      "zh": "卡米那姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120,
+      "desc": "《天元突破》卡米那的戏剧性手指天空姿势",
+      "kw": "卡米那指天 / 卡米那手指天空 / 大哥姿势 / 指天姿势 / 手指天空姿势 / 卡米那式指天 / 姿势 / 动漫姿势"
+    },
+    {
+      "en": "saturday night fever",
+      "zh": "周末夜狂热",
+      "rating": "g",
+      "nsfw": false,
+      "count": 476,
+      "desc": "1977年约翰·特拉沃尔塔主演的迪斯科电影，常用作模仿其海报姿势的标签",
+      "kw": "周六夜狂热 / 迪斯科姿势 / 电影 / 迪斯科 / disco pose / サタデーナイトフィーバー / サタデー・ナイト・フィーバー"
+    },
+    {
+      "en": "bowing",
+      "zh": "鞠躬",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3099,
+      "desc": "身体前倾表示敬意或歉意",
+      "kw": "行礼 / 弯腰行礼 / 鞠躬行礼 / 躬身 / 敬礼 / 姿势 / 礼仪 / お辞儀"
+    },
+    {
+      "en": "curtsey",
+      "zh": "屈膝礼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2745,
+      "desc": "女性屈膝并提裙的传统西方行礼",
+      "kw": "女子屈膝礼 / 提裙屈膝礼 / 行屈膝礼 / 屈膝行礼 / 西方屈膝礼 / 姿势 / 礼节 / curtsie / curtsy / カーテシー"
+    },
+    {
+      "en": "shrugging",
+      "zh": "耸肩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1468,
+      "desc": "抬起肩膀表示不知情或无所谓",
+      "kw": "耸耸肩膀 / 抬肩 / 耸肩动作 / 耸一下肩 / 无奈耸肩 / 摊手耸肩 / 姿势 / 动作"
+    },
+    {
+      "en": "hugging knees",
+      "zh": "抱膝",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "presenting",
+      "zh": "展现姿势",
+      "rating": "q",
+      "nsfw": true,
+      "count": 19724,
+      "desc": "角色摆出身体姿势，表示准备好进行性行为",
+      "kw": "展示 / 姿势"
+    },
+    {
+      "en": "legs behind head",
+      "zh": "双腿压过头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 293,
+      "desc": "双腿伸到头部后方的姿势",
+      "kw": "脚放到头后 / 腿绕到脑后 / 腿部后弯到头后 / 脚架在脑后 / 姿势 / 柔术"
+    },
+    {
+      "en": "legs on shoulders",
+      "zh": "腿扛肩",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "face down ass up",
+      "zh": "趴伏翘臀",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "take your pick",
+      "zh": "任君采撷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 9075,
+      "desc": "多名角色展示身体邀请对方挑选",
+      "kw": "选哪个好呢 / 任选 / 挑一个 / 选一个吧 / 身体展示 / 展示身体 / 邀约姿势 / 供君选择 / 多人身体展示"
+    },
+    {
+      "en": "box tie",
+      "zh": "箱型束缚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1263,
+      "desc": "将小臂并拢绑在背后的箱缚",
+      "kw": "高手小手 / 箱子缚 / 箱结 / 缚手 / 后手缚 / 盒式捆绑 / 高手小手缚 / 捆绑 / boxtie"
+    },
+    {
+      "en": "frogtie",
+      "zh": "蛙式捆绑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5646,
+      "desc": "将脚踝与大腿或手腕绑住、使双腿折叠的束缚方式。",
+      "kw": "青蛙绑 / 蛙腿捆绑 / 蛙缚 / 青蛙缚 / 捆绑 / SM"
+    },
+    {
+      "en": "hogtie",
+      "zh": "四马分蹄",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1628,
+      "desc": "手腕与脚踝在背后绑在一起的缚姿",
+      "kw": "驷马捆绑 / 驷马 / 四肢并缚 / 逆海老缚 / 反绑四肢 / 四马分蹄捆绑 / 束缚 / 捆绑 / 逆海老"
+    },
+    {
+      "en": "reverse prayer",
+      "zh": "反向祈祷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 414,
+      "desc": "双臂反绑在背后，双手合十的捆绑姿势",
+      "kw": "背后合掌 / 背后祈祷捆绑 / 反手祈祷 / 背手合掌 / 背后合十 / 身后合掌 / 反向合掌捆绑 / 背面合掌縛り"
+    },
+    {
+      "en": "flapping",
+      "zh": "扇动翅膀",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1098,
+      "desc": "翅膀或手臂上下摆动。",
+      "kw": "振翅 / 扇翅 / 扑腾翅膀 / 拍打翅膀 / 扑翼 / 挥翅 / 翅膀"
+    },
+    {
+      "en": "action",
+      "zh": "动作",
+      "rating": "g",
+      "nsfw": false,
+      "count": 965,
+      "desc": "模糊标签，建议使用更具体的动作相关标签",
+      "kw": "动态 / 姿势"
+    },
+    {
+      "en": "sitting in front of electric fan",
+      "zh": "坐在电扇前",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "standing under a streetlight in the falling snow",
+      "zh": "站在落雪的路灯下",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sitting by the window watching the rain fall",
+      "zh": "坐在窗边看雨落下",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lying on the grass watching clouds drift by",
+      "zh": "躺在草地上看云飘过",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "reading a book under a tree in the afternoon",
+      "zh": "午后在树下看书",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sitting on a rooftop overlooking the city at dusk",
+      "zh": "黄昏坐在屋顶俯瞰城市",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "standing in a doorway with light behind",
+      "zh": "站在门口身后透进光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sitting alone in an empty classroom after school",
+      "zh": "放学后独自坐在空教室里",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "idle animation",
+      "zh": "待机动作",
+      "rating": "g",
+      "nsfw": false,
+      "count": 143,
+      "desc": "游戏角色无操作时循环播放的待机动作",
+      "kw": "闲置动画 / 闲置动作 / 站立动画 / 待机循环动画 / 游戏动画"
+    },
+    {
+      "en": "waiting at a bus stop in the early morning",
+      "zh": "清晨在公交站等车",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sitting on bed",
+      "zh": "坐在床上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lying on bed",
+      "zh": "躺在床上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "against wall",
+      "zh": "靠在墙上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20352,
+      "desc": "角色背靠墙或被人压在墙上的姿势。",
+      "kw": "靠着墙 / 背靠墙 / 贴墙 / 压墙 / 被按在墙上 / 靠墙站立 / 姿势 / 场景 / 靠在墙上"
+    },
+    {
+      "en": "leaning",
+      "zh": "倾斜站立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6831,
+      "desc": "站立时身体微微倾斜，可带支撑",
+      "kw": "斜靠 / 靠立 / 倾斜站姿 / 身体倾斜 / 靠着 / 倾斜 / 姿势"
+    },
+    {
+      "en": "presenting own body",
+      "zh": "展示身体",
+      "rating": "q",
+      "nsfw": true,
+      "count": 22068,
+      "desc": "以性感或露骨方式展示自己身体",
+      "kw": "展示自己的身体 / 展示自己的肉体 / 以身展示 / 呈现自己的身体 / 展示体态 / 展示肉体 / 身体展示(自己) / 身体展示（自己）"
+    },
+    {
+      "en": "pose",
+      "zh": "姿势",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11910,
+      "desc": "用于描述人物姿态的通用标签",
+      "kw": "动作 / 姿态"
+    },
+    {
+      "en": "thigh straddling",
+      "zh": "跨坐大腿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 807,
+      "desc": "角色骑跨在他人大腿上的姿势，常为腿交",
+      "kw": "大腿跨坐 / 骑跨大腿 / 腿间跨坐 / 蹭大腿 / 大腿摩擦 / 姿势 / 亲密 / thigh straddle"
+    },
+    {
+      "en": "nude modeling",
+      "zh": "裸体模特",
+      "rating": "q",
+      "nsfw": true,
+      "count": 339,
+      "desc": "以裸体者作为摄影或绘画模特",
+      "kw": "裸模 / 裸体模特儿 / 裸体写生模特 / 裸体摄影模特 / 裸露 / 模特 / 艺术人体 / nude model / ヌードモデル"
+    },
+    {
+      "en": "pillow straddling",
+      "zh": "跨坐抱枕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 69,
+      "desc": "双腿跨坐在枕头上的姿势。",
+      "kw": "骑枕头 / 跨坐在枕头上 / 坐在枕头上"
+    },
+    {
+      "en": "bouncing",
+      "zh": "弹跳",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1102,
+      "desc": "柔软物体快速上下反复弹动，常见于胸部。",
+      "kw": "跳动 / 弹动 / 上下弹跳 / 颤动弹跳 / 弹性跳动 / 上下晃动 / 弹来弹去 / 跳跃 / bounce"
+    },
+    {
+      "en": "diving",
+      "zh": "潜水",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1063,
+      "desc": "潜水中或在水下游动，非跳水。",
+      "kw": "潜水活动 / 水下游泳 / 深潜 / 自由潜水 / 水肺潜水 / 潜水运动 / 水底活动 / 水下活动"
+    },
+    {
+      "en": "dive",
+      "zh": "俯冲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 162,
+      "desc": "角色从空中俯冲落地的动作，区别于跳水/扑击",
+      "kw": "俯冲下落 / 从空中俯冲 / 俯冲落地 / 向下俯冲 / 潜水 / 动作 / 急降下"
+    },
+    {
+      "en": "dodging",
+      "zh": "闪避",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1204,
+      "desc": "避开攻击而不是格挡",
+      "kw": "躲避 / 回避 / 躲闪 / 闪躲 / 翻避 / 闪身 / 动作"
+    },
+    {
+      "en": "fainting",
+      "zh": "昏厥",
+      "rating": "g",
+      "nsfw": false,
+      "count": 652,
+      "desc": "因精神冲击或失血等失去意识昏倒",
+      "kw": "昏倒 / 晕厥 / 失神 / 不省人事 / 昏过去 / 晕过去 / 动词"
+    },
+    {
+      "en": "hanging",
+      "zh": "悬挂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2973,
+      "desc": "非束缚性悬挂、吊起",
+      "kw": "吊着 / 吊起来 / 悬吊 / 吊挂 / 被吊起 / 悬挂着"
+    },
+    {
+      "en": "hanged",
+      "zh": "上吊",
+      "rating": "q",
+      "nsfw": true,
+      "count": 775,
+      "desc": "用绳索吊颈致死的处刑或自杀",
+      "kw": "绞死 / 绞刑 / 吊颈 / 缢死 / 刑罚 / 死亡 / 绞首 / 首吊り / 絞首"
+    },
+    {
+      "en": "hiding",
+      "zh": "躲藏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6062,
+      "desc": "角色明显躲在某人或某物后面",
+      "kw": "躲避 / 躲起来 / 藏起来 / 隐藏 / 动作"
+    },
+    {
+      "en": "landing",
+      "zh": "着陆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 531,
+      "desc": "飞行角色或飞行器安全返回地面",
+      "kw": "降落 / 落地 / 安全着陆 / 平台 / 动作 / 着陸"
+    },
+    {
+      "en": "launching",
+      "zh": "起飞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 169,
+      "desc": "飞行角色或飞行器准备升空。",
+      "kw": "升空 / 发射 / 准备升空 / 启程 / 出发 / 发射中 / 动作 / 动态"
+    },
+    {
+      "en": "rappelling",
+      "zh": "速降",
+      "rating": "g",
+      "nsfw": false,
+      "count": 157,
+      "desc": "使用绳索从高处下降的技术。",
+      "kw": "索降 / 绕绳下降 / 垂降 / 绳降运动 / 绳降技术 / 军事 / 动作 / 悬垂下降"
+    },
+    {
+      "en": "resting",
+      "zh": "休息",
+      "rating": "g",
+      "nsfw": false,
+      "count": 790,
+      "desc": "从剧烈活动中停下来歇息，或只是放松",
+      "kw": "歇息 / 休憩 / 小憩 / 休息中 / 歇着 / 放松休息 / 放松 / 姿势"
+    },
+    {
+      "en": "broom riding",
+      "zh": "骑扫帚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12328,
+      "desc": "骑着扫帚飞行，常为魔女或魔法师。",
+      "kw": "骑扫把 / 骑乘扫帚 / 扫帚飞行 / 骑扫帚飞行 / 魔法 / 女巫 / 姿势 / broomriding / sitting on broom / riding broom / 箒で飛ぶ"
+    },
+    {
+      "en": "umbrella riding",
+      "zh": "骑乘雨伞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 172,
+      "desc": "将伞作为交通工具（常在空中）移动。",
+      "kw": "伞骑行 / 乘伞飞行 / 持伞飞行 / 伞飞行 / 骑雨伞 / 动作 / 奇幻 / 姿势"
+    },
+    {
+      "en": "rolling",
+      "zh": "打滚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 881,
+      "desc": "在地面上不断翻转着移动",
+      "kw": "翻滚 / 滚翻 / 滚 / 动作 / 姿势"
+    },
+    {
+      "en": "shaking",
+      "zh": "摇晃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2595,
+      "desc": "他人或物体被来回摇晃的动作",
+      "kw": "摇动 / 摇来摇去 / 晃来晃去 / 摇荡 / 晃动 / 摇摆 / 抖晃 / 被摇晃"
+    },
+    {
+      "en": "sunbathing",
+      "zh": "日光浴",
+      "rating": "s",
+      "nsfw": false,
+      "count": 368,
+      "desc": "晒太阳以晒黑皮肤",
+      "kw": "晒太阳 / 晒日光浴 / 日晒 / 晒黑 / 美黑 / 日光浴晒肤 / 活动 / 休闲"
+    },
+    {
+      "en": "broom surfing",
+      "zh": "扫帚冲浪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 266,
+      "desc": "站在扫帚上像冲浪一样滑行",
+      "kw": "扫帚滑行 / 骑扫帚冲浪 / 站在扫帚上滑行 / 扫帚滑板 / 冲浪式扫帚飞行 / 扫帚 / 魔法道具 / broomsurfing / standing on broom / 立ち乗り"
+    },
+    {
+      "en": "sky surfing",
+      "zh": "空中冲浪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 195,
+      "desc": "在空中踩着滑板或类似物体冲浪。",
+      "kw": "天空滑板 / 飞行冲浪 / 空中滑板 / 驭器飞行 / 动词 / 动名词 / 桃白白 / 驭器飞行"
+    },
+    {
+      "en": "swaying",
+      "zh": "摇摆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 491,
+      "desc": "身体左右摆动，通常表示开心",
+      "kw": "摇晃 / 晃动 / 左右摇摆 / 摆动 / 摇动 / 动态"
+    },
+    {
+      "en": "swinging on rope",
+      "zh": "绳索荡秋千",
+      "rating": "g",
+      "nsfw": false,
+      "count": 134,
+      "desc": "抓住绳子利用惯性摆动到别处",
+      "kw": "荡绳子 / 抓绳荡 / 绳索荡 / 荡索 / 绳荡 / 荡绳移动 / 抓绳摆荡 / 绳子荡"
+    },
+    {
+      "en": "swinging on swing",
+      "zh": "荡秋千",
+      "rating": "g",
+      "nsfw": false,
+      "count": 665,
+      "desc": "角色在秋千上主动荡动。",
+      "kw": "玩秋千 / 打秋千 / 荡秋千中 / 动作 / 户外"
+    },
+    {
+      "en": "twitching",
+      "zh": "抽搐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12005,
+      "desc": "受刺激瞬间不自主抽动，常用锯齿线表示",
+      "kw": "抽动 / 痉挛 / 抽筋 / 抽抽 / 抽动反应 / 动作 / 痙攣"
+    },
+    {
+      "en": "waiting",
+      "zh": "等待",
+      "rating": "g",
+      "nsfw": false,
+      "count": 564,
+      "desc": "角色正在等待某人或某事发生",
+      "kw": "等候 / 等人 / 守候 / 等待中 / 姿势 / 动作"
+    },
+    {
+      "en": "horseback riding",
+      "zh": "骑马",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5594,
+      "desc": "骑乘马或类似马匹的生物",
+      "kw": "骑乘 / 乘马 / 骑马运动 / 骑马活动 / 骑坐马背 / 马术 / 骑术 / 运动 / 乗馬 / 騎馬"
+    },
+    {
+      "en": "freediving",
+      "zh": "自由潜水",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2089,
+      "desc": "不使用呼吸器具、只靠屏息进行的潜水或极限运动",
+      "kw": "自由潜 / 徒手潜水 / 闭气潜水 / 屏息潜水 / 裸潜 / 不带呼吸器潜水 / 潜水 / 运动 / フリーダイビング / スキンダイビング / 素潜り"
+    },
+    {
+      "en": "dying",
+      "zh": "濒死",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1033,
+      "desc": "角色受重伤或重病即将死亡的状态。",
+      "kw": "将死 / 濒临死亡 / 临终 / 奄奄一息 / 断气前 / 状态 / 今际 / 断末魔 / 今際"
+    },
+    {
+      "en": "sinking",
+      "zh": "下沉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 858,
+      "desc": "角色或物体缓缓沉入水、泥浆等液体之下。",
+      "kw": "沉没 / 下陷 / 沉入水中 / 缓缓下沉 / 没入水中 / 陷入泥潭 / 陷落 / 动作 / 沈没 / 沈む"
+    },
+    {
+      "en": "drowning",
+      "zh": "溺水",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1308,
+      "desc": "口鼻没入液体中无法呼吸。",
+      "kw": "淹溺 / 淹水 / 溺亡 / 落水 / 沉溺 / 状态 / 危险 / 入水 / 溺死"
+    },
+    {
+      "en": "rowing",
+      "zh": "划船",
+      "rating": "g",
+      "nsfw": false,
+      "count": 344,
+      "desc": "用桨在水中推动船只前进的动作",
+      "kw": "划桨 / 摇桨 / 赛艇 / 划艇 / 荡桨 / 划船运动 / 运动 / 船只 / 漕ぐ"
+    },
+    {
+      "en": "hiking",
+      "zh": "远足",
+      "rating": "g",
+      "nsfw": false,
+      "count": 232,
+      "desc": "在山野中徒步远足。",
+      "kw": "徒步 / 徒步旅行 / 健行 / 郊游 / 登山徒步 / 行山 / 爬山 / 步行出游 / アウトドア"
+    },
+    {
+      "en": "afloat",
+      "zh": "浮在水上",
+      "rating": "g",
+      "count": 6427,
+      "desc": "漂浮在水或其他液体表面",
+      "kw": "漂浮 / 浮在水中 / 悬在水中 / 浮空 / 状态 / floating in water"
+    },
+    {
+      "en": "against door",
+      "zh": "靠门",
+      "rating": "g",
+      "count": 442,
+      "desc": "身体靠在门上的姿势。",
+      "kw": "倚门 / 靠在门上 / 背靠门 / 贴门站 / 姿势"
+    },
+    {
+      "en": "against fence",
+      "zh": "靠在栅栏上",
+      "rating": "g",
+      "count": 711,
+      "desc": "角色靠或压在栅栏上的姿势。",
+      "kw": "靠着围栏 / 倚靠栅栏 / 靠在铁丝网上 / 背靠栅栏 / 贴靠栅栏 / 靠在围栏上 / 姿势 / 围栏 / 靠在围栏上 / フェンスの前"
+    },
+    {
+      "en": "against fourth wall",
+      "zh": "贴向第四面墙",
+      "rating": "g",
+      "count": 1722,
+      "desc": "角色贴近观众与画面之间的第四面墙，造成贴近观感。",
+      "kw": "贴屏幕 / 贴近屏幕 / 靠向观众 / 贴近镜头 / 压向屏幕 / 贴向观众 / 压在屏幕上 / 打破第四面墙 / 压在屏幕上"
+    },
+    {
+      "en": "against glass",
+      "zh": "贴着玻璃",
+      "rating": "g",
+      "count": 10391,
+      "desc": "身体或手等贴在玻璃上的姿势，常从另一侧可见。",
+      "kw": "压在玻璃上 / 靠在玻璃上 / 隔着玻璃 / 贴玻璃 / 玻璃上压着 / 贴在玻璃上 / 姿势 / 玻璃 / ガラス越し"
+    },
+    {
+      "en": "against railing",
+      "zh": "靠在栏杆上",
+      "rating": "g",
+      "count": 4781,
+      "desc": "身体倚靠栏杆的姿势。",
+      "kw": "倚靠栏杆 / 靠着栏杆 / 趴在栏杆上 / 扶栏杆 / 依着栏杆 / 姿势 / 栏杆 / leaning on rail"
+    },
+    {
+      "en": "against table",
+      "zh": "靠着桌子",
+      "rating": "g",
+      "count": 611,
+      "desc": "身体倚靠桌子的姿势",
+      "kw": "倚靠桌子 / 靠在桌上 / 靠在桌边 / 倚桌 / 身体靠桌 / 背靠桌子 / 面对桌子靠着 / 靠在桌子上"
+    },
+    {
+      "en": "against tree",
+      "zh": "背靠树",
+      "rating": "g",
+      "count": 3406,
+      "desc": "背靠树木站立或坐着。",
+      "kw": "靠树 / 倚树 / 靠着树 / 背靠树干 / 依树 / 靠在树上 / 姿势 / 树木"
+    },
+    {
+      "en": "against window",
+      "zh": "贴在窗户上",
+      "rating": "g",
+      "count": 866,
+      "desc": "身体贴着或压在窗户上的姿势。",
+      "kw": "靠着窗户 / 压在窗户上 / 窗边姿势 / 按在窗上 / 贴玻璃上 / 靠在窗户上 / 姿势"
+    },
+    {
+      "en": "amen pose (meme)",
+      "zh": "阿门姿势",
+      "rating": "g",
+      "count": 534,
+      "desc": "弯腰双手在膝后合十的祈祷姿势梗",
+      "kw": "臀部比心 / 祈祷姿势 / 求神姿势 / 双手合十姿势 / 阿门梗 / 祈祷梗 / 弯腰祈祷 / 臀部姿势梗"
+    },
+    {
+      "en": "arabesque (pose)",
+      "zh": "阿拉贝斯克",
+      "rating": "g",
+      "count": 318,
+      "desc": "芭蕾中单腿直立、另一腿向后抬起的姿势。",
+      "kw": "阿拉贝斯 / 芭蕾阿拉贝斯克 / 阿拉贝斯克芭蕾姿势 / 迎风展翅 / 阿拉伯斯姿态 / 姿势 / 舞蹈 / アラベスク"
+    },
+    {
+      "en": "at computer",
+      "zh": "在电脑前",
+      "rating": "g",
+      "count": 1453,
+      "desc": "角色正在使用或准备使用电脑",
+      "kw": "使用电脑 / 打电脑 / 用电脑 / 在计算机旁 / 操作电脑 / 面对电脑 / 电脑 / 姿势 / using computer / using laptop"
+    },
+    {
+      "en": "at gunpoint",
+      "zh": "在枪口下",
+      "rating": "s",
+      "count": 795,
+      "desc": "被人用枪威胁着",
+      "kw": "被枪指着 / 枪口威胁 / 持枪胁迫 / 被枪胁迫 / 枪口下 / 威胁 / 场景 / gunpoint"
+    },
+    {
+      "en": "batting stance",
+      "zh": "击球姿势",
+      "rating": "g",
+      "count": 703,
+      "desc": "棒球击球员准备挥棒的姿势",
+      "kw": "打击姿势 / 挥棒姿势 / 击球动作 / 打者姿势 / 棒球击球姿势 / 准备挥棒姿势 / 打击动作 / 棒球"
+    },
+    {
+      "en": "bed invitation",
+      "zh": "邀人上床",
+      "rating": "q",
+      "nsfw": true,
+      "count": 833,
+      "desc": "掀开被子邀请对方上床的动作",
+      "kw": "邀请同床 / 掀被邀请 / 掀被子邀请 / 邀约上床 / 床上邀请 / 床上的邀请 / 姿势"
+    },
+    {
+      "en": "bent over furniture",
+      "zh": "弯腰俯在家具上",
+      "rating": "s",
+      "count": 1343,
+      "desc": "身体前倾弯腰靠在家具上",
+      "kw": "伏在家具上 / 趴在家具上 / 身体前倾靠在家具上 / 姿势 / 弯腰"
+    },
+    {
+      "en": "between legs",
+      "zh": "两腿之间",
+      "rating": "s",
+      "count": 51089,
+      "desc": "物体或身体部位夹在双腿之间",
+      "kw": "腿间 / 胯下 / 裆下 / 两腿间 / 腿中间 / 双腿间 / 姿势"
+    },
+    {
+      "en": "between pectorals",
+      "zh": "胸肌之间",
+      "rating": "s",
+      "count": 1569,
+      "desc": "物体夹在男性胸肌之间",
+      "kw": "在胸肌之间 / 胸肌夹住 / 夹在胸肌间 / 胸肌间 / 胸肌夹 / 身体部位 / 亲密接触 / between pecs"
+    },
+    {
+      "en": "book on lap",
+      "zh": "膝上放书",
+      "rating": "g",
+      "count": 1214,
+      "desc": "书放在角色膝上",
+      "kw": "放在膝上的书 / 膝上摊书 / 膝上书本 / 腿上放书 / 书放腿上 / 书本放在膝上 / 书在大腿上 / 书籍"
+    },
+    {
+      "en": "bound",
+      "zh": "绑住",
+      "rating": "q",
+      "nsfw": true,
+      "count": 115606,
+      "desc": "被绳索等捆绑无法自由行动",
+      "kw": "捆绑 / 拘束 / 被捆 / 绳缚 / 绳索 / バインド"
+    },
+    {
+      "en": "bound ankles",
+      "zh": "绑住脚踝",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6558,
+      "desc": "两只脚踝被绑在一起",
+      "kw": "脚踝捆绑 / 捆住脚踝 / 缚踝 / 被捆绑的脚踝 / 束缚 / 脚部"
+    },
+    {
+      "en": "breasts on tray",
+      "zh": "托盘上的乳房",
+      "rating": "s",
+      "count": 650,
+      "desc": "胸部搁在托盘上",
+      "kw": "胸部放托盘 / 乳房搁托盘 / 胸部在托盘上 / 乳房放在托盘上 / 胸器托盘 / 胸部放在托盘上 / 裸露 / 服务"
+    },
+    {
+      "en": "cat loaf",
+      "zh": "猫咪面包",
+      "rating": "g",
+      "count": 301,
+      "desc": "猫将四肢收在身下、形似面包的姿势。",
+      "kw": "猫面包 / 猫团子 / 猫团 / 猫蹲 / 面包猫 / 猫咪蹲 / 猫蹲 (猫面包) / 猫 / 香箱座り"
+    },
+    {
+      "en": "cat stretch",
+      "zh": "猫式拉伸",
+      "rating": "g",
+      "count": 522,
+      "desc": "像猫一样四肢着地弓背伸懒腰的动作",
+      "kw": "猫拉伸 / 猫拱背 / 猫式伸展 / 猫伸懒腰 / 猫式拉筋 / 猫式弓背 / 像猫一样拉伸 / 猫咪拉伸"
+    },
+    {
+      "en": "chained wrists",
+      "zh": "锁住手腕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1731,
+      "desc": "手腕被锁链束缚",
+      "kw": "锁链锁腕 / 手腕被锁链锁住 / 手腕被链锁 / 锁腕 / 铁链锁手腕 / 链锁手腕 / 手腕锁链 / 锁链缚手"
+    },
+    {
+      "en": "curtsy",
+      "zh": "屈膝礼（女仆行礼）",
+      "rating": "g"
+    },
+    {
+      "en": "dab (dance)",
+      "zh": "Dab舞",
+      "rating": "g",
+      "count": 198,
+      "desc": "低头并抬起一臂的dab舞姿",
+      "kw": "低头抬臂舞 / dab姿势 / 嘻哈dab / dab动作 / 埋头举手舞 / Dab舞蹈 / 达布舞 / 迪布舞 / dab / dabbing"
+    },
+    {
+      "en": "dogeza",
+      "zh": "土下座",
+      "rating": "g",
+      "count": 1464,
+      "desc": "日本式跪地叩首的姿势。",
+      "kw": "跪地叩头 / 下跪磕头 / 跪拜 / 日式跪拜 / 叩头请罪 / 土下跪 / 跪地磕头 / 日本风格"
+    },
+    {
+      "en": "double biceps pose",
+      "zh": "双二头肌展示",
+      "rating": "g",
+      "count": 696,
+      "desc": "双臂同时屈起展示肱二头肌的健美姿势。",
+      "kw": "秀二头肌 / 展示肱二头肌 / 双臂二头肌展示 / 双肱二头肌展示 / 二头肌亮相 / 健美感二头肌姿势 / 双臂弯曲展示 / 双头肌姿势 / ダブルバイセップス"
+    },
+    {
+      "en": "face down",
+      "zh": "面朝下",
+      "rating": "g",
+      "count": 1451,
+      "desc": "脸朝下趴着或贴着地面/枕头",
+      "kw": "趴着 / 脸朝下 / 面部朝下 / 俯卧 / 趴伏 / 脸贴地 / 面朝地面 / 姿势 / face on ground / face on floor"
+    },
+    {
+      "en": "face in pillow",
+      "zh": "脸埋枕头",
+      "rating": "g",
+      "count": 1327,
+      "desc": "把脸埋进枕头里，常见于趴姿。",
+      "kw": "脸埋进枕头里 / 脸埋在枕头里 / 埋头于枕头 / 脸朝下埋枕 / 把脸埋进枕头 / 枕头 / 睡姿 / 姿势 / 脸埋进枕头"
+    },
+    {
+      "en": "gravure pose",
+      "zh": "写真姿势",
+      "rating": "s"
+    },
+    {
+      "en": "gunbuster pose",
+      "zh": "钢巴斯塔姿势",
+      "rating": "g",
+      "count": 614,
+      "desc": "双臂抱胸双腿张开的招牌站姿",
+      "kw": "钢巴斯塔站姿 / 钢巴斯塔立 / 抱胸站姿 / 双臂抱胸姿势 / 庵野秀明立 / 飞跃巅峰姿势 / Gainax姿势 / 站立姿势 / gainax pose / ガイナ立ち"
+    },
+    {
+      "en": "hanging legs",
+      "zh": "双腿悬垂",
+      "rating": "g",
+      "count": 899,
+      "desc": "身体悬空时双腿垂下",
+      "kw": "垂腿 / 悬挂双腿 / 腿垂下 / 两腿悬空 / 悬空的腿 / 腿部 / 姿势 / 悬腿 / 日不落"
+    },
+    {
+      "en": "head on pillow",
+      "zh": "头枕枕头",
+      "rating": "g",
+      "count": 12770,
+      "desc": "头枕在枕头上的姿势，不一定在睡觉",
+      "kw": "枕着枕头 / 头枕在枕头上 / 枕枕头 / 躺姿 / 睡眠"
+    },
+    {
+      "en": "head on table",
+      "zh": "头靠在桌上",
+      "rating": "g",
+      "count": 902,
+      "desc": "把头趴在桌子上",
+      "kw": "头趴桌上 / 头枕在桌子上 / 脑袋搁桌上 / 趴在桌子上 / 姿势 / 疲惫"
+    },
+    {
+      "en": "in bag",
+      "zh": "在袋子里",
+      "rating": "g",
+      "count": 736,
+      "desc": "角色整个人待在手提袋或背包里的画面",
+      "kw": "装在袋中 / 待在袋子里 / 袋中 / 被装进袋子 / 袋子里 / 袋子中的角色 / 整个人在袋中 / 在包里 / loli in a bag"
+    },
+    {
+      "en": "in bathtub",
+      "zh": "在浴缸里",
+      "rating": "s",
+      "count": 1599,
+      "desc": "角色位于浴缸中",
+      "kw": "浴缸中 / 泡在浴缸 / 坐在浴缸里 / 浴缸内 / 沐浴 / 浴室场景"
+    },
+    {
+      "en": "in bottle",
+      "zh": "在瓶中",
+      "rating": "g",
+      "count": 565,
+      "desc": "角色待在瓶子里",
+      "kw": "装在瓶子里 / 瓶中 / 玻璃瓶中 / 瓶子里 / 瓶中角色 / 被困瓶内 / 瓶子 / 容器 / girl in a bottle / 瓶詰め / ガラスの中"
+    },
+    {
+      "en": "in bowl",
+      "zh": "在碗中",
+      "rating": "g",
+      "count": 735,
+      "desc": "小动物或人等活物待在碗里的画面",
+      "kw": "碗中 / 待在碗里 / 在碗里 / 碗装 / 碗中的活物 / 在碗里的小动物 / 碗里角色 / 容器"
+    },
+    {
+      "en": "in box",
+      "zh": "在盒子里",
+      "rating": "g",
+      "count": 6338,
+      "desc": "人或物待在箱子里",
+      "kw": "盒装 / 箱中 / 在箱子里 / 装在箱内 / 箱装 / 箱子 / 场景 / boy in a box / girl in a box / 箱入り娘 / 箱詰め"
+    },
+    {
+      "en": "in bucket",
+      "zh": "在桶里",
+      "rating": "g",
+      "count": 2482,
+      "desc": "角色待在水桶中的画面，东方Kisume常这样画",
+      "kw": "在桶中 / 坐在桶里 / 桶中 / 水桶里 / 待在桶里 / 在水桶里 / 位置 / 容器 / girl in bucket"
+    },
+    {
+      "en": "in cup",
+      "zh": "在杯子里",
+      "rating": "g",
+      "count": 2147,
+      "desc": "角色待在茶杯或玻璃杯等杯子里",
+      "kw": "杯中 / 杯子里 / 茶杯中 / 装在杯里 / 坐杯里 / 泡在杯子里 / 杯内 / 杯中角色 / girl in a cup / カップイン"
+    },
+    {
+      "en": "in locker",
+      "zh": "在储物柜中",
+      "rating": "g",
+      "count": 608,
+      "desc": "角色待在储物柜里",
+      "kw": "在储物柜里 / 储物柜里 / 待在储物柜 / 关在储物柜 / 藏在储物柜 / 场景 / 室内"
+    },
+    {
+      "en": "in shopping cart",
+      "zh": "在购物车中",
+      "rating": "g",
+      "count": 757,
+      "desc": "角色坐在购物车里",
+      "kw": "坐在购物车里 / 在购物车里 / 购物车中 / 购物车内 / 待在购物车 / 坐购物车 / 购物车 / 场景"
+    },
+    {
+      "en": "in tree",
+      "zh": "在树上",
+      "rating": "g",
+      "count": 5197,
+      "desc": "角色坐在或挂在树冠枝叶间的画面。",
+      "kw": "树上 / 在树冠里 / 在树丛中 / 在树枝间 / 爬在树上 / 场景 / 户外 / 樹上"
+    },
+    {
+      "en": "in water",
+      "zh": "水中",
+      "rating": "g",
+      "count": 600,
+      "desc": "物体或人物处于水中的状态",
+      "kw": "在水中 / 水景"
+    },
+    {
+      "en": "instrument case on back",
+      "zh": "背着乐器盒",
+      "rating": "g",
+      "count": 3561,
+      "desc": "把乐器盒背在背上",
+      "kw": "背乐器盒 / 背乐器箱 / 乐器盒背在背上 / 背琴盒 / 背吉他盒 / 道具 / 乐器"
+    },
+    {
+      "en": "invisible chair",
+      "zh": "空气椅子",
+      "rating": "g",
+      "count": 26195,
+      "desc": "角色像坐在椅子上却没有可见座椅",
+      "kw": "隐形椅子 / 透明椅子 / 悬空坐 / 无椅坐 / 空气椅 / 隐形椅 / 透明椅 / 悬空坐姿 / sitting in midair / 空気椅子"
+    },
+    {
+      "en": "leaning on object",
+      "zh": "靠在物体上",
+      "rating": "g",
+      "count": 4226,
+      "desc": "角色倚靠在物体或家具上",
+      "kw": "倚靠在物体上 / 靠着物体 / 靠在家具上 / 凭靠物体 / 斜靠物体 / 依靠"
+    },
+    {
+      "en": "leaning on table",
+      "zh": "靠在桌子上",
+      "rating": "g",
+      "count": 1525,
+      "desc": "身体倚靠在桌子上的姿势",
+      "kw": "靠在桌上 / 倚靠桌子 / 倚桌 / 靠着桌子 / 依桌 / 姿势"
+    },
+    {
+      "en": "leaning to the side",
+      "zh": "向一侧倾斜身体",
+      "rating": "g",
+      "count": 15357,
+      "desc": "身体或上半身向一侧倾斜的姿势。",
+      "kw": "向一侧倾身 / 身体倾斜 / 侧身倾斜 / 上半身侧倾 / 身体歪向一边 / 歪着身子 / 斜身 / 倾斜站立"
+    },
+    {
+      "en": "legs folded",
+      "zh": "折腿",
+      "rating": "g",
+      "count": 2714,
+      "desc": "小腿完全折贴到大腿上的姿势。",
+      "kw": "折叠腿 / 盘腿 / 曲腿折叠 / 小腿折叠 / 腿折叠 / 坐姿 / 腿部动作 / 收腿"
+    },
+    {
+      "en": "lineup",
+      "zh": "一排人",
+      "rating": "g",
+      "count": 6141,
+      "desc": "并排站成一排的一组人；若排队等待则用 queue",
+      "kw": "并排站 / 列队 / 排成一行 / 站成一排 / 并排 / 队列 / 排列 / 多人 / line up / line-up"
+    },
+    {
+      "en": "lying on the lake",
+      "zh": "躺在湖面上",
+      "rating": "g"
+    },
+    {
+      "en": "lying on water",
+      "zh": "躺在水中",
+      "rating": "g",
+      "count": 1397,
+      "desc": "角色仰卧或俯卧在水面上",
+      "kw": "仰卧水面 / 俯卧水面 / 浮在水上 / 水上躺卧 / 水面躺姿 / 漂在水面 / 躺在水面上 / 躺姿"
+    },
+    {
+      "en": "meditation",
+      "zh": "冥想",
+      "rating": "g",
+      "count": 650,
+      "desc": "通过专注或正念使心神平静的冥想修行",
+      "kw": "打坐 / 静坐 / 禅修 / 禅定 / 入定 / 姿势 / 精神修炼 / 瑜伽 / meditating / 瞑想"
+    },
+    {
+      "en": "naked dogeza",
+      "zh": "裸体土下座",
+      "rating": "q",
+      "nsfw": true,
+      "count": 649,
+      "desc": "裸体或仅着内衣行土下座，衣物叠放一旁",
+      "kw": "全裸土下座 / 裸土下座 / 裸体下跪 / 全裸下跪 / 裸身土下座 / 脱光土下座 / 裸体磕头 / 裸身下跪"
+    },
+    {
+      "en": "on ball",
+      "zh": "在球上",
+      "rating": "g",
+      "count": 584,
+      "desc": "坐在或靠在一个球体上",
+      "kw": "坐在球上 / 趴在球上 / 靠球上 / 球上 / 姿势"
+    },
+    {
+      "en": "on bench",
+      "zh": "在长凳上",
+      "rating": "g",
+      "count": 9022,
+      "desc": "角色位于长椅上，无论坐站躺",
+      "kw": "在长椅上 / 坐在长凳上 / 长凳上 / 长椅上 / 位于长凳上 / 坐在长椅上 / 长椅 / 位置"
+    },
+    {
+      "en": "on bicycle",
+      "zh": "骑自行车",
+      "rating": "g",
+      "count": 2169,
+      "desc": "骑坐或停靠在自行车上",
+      "kw": "在自行车上 / 骑单车 / 骑脚踏车 / 自行车骑乘 / 坐在自行车上 / 靠自行车 / 骑车子 / 自行车上"
+    },
+    {
+      "en": "on boat",
+      "zh": "在船上",
+      "rating": "g",
+      "count": 1250,
+      "desc": "角色在船上（坐、站或躺）。",
+      "kw": "船上 / 小船上 / 乘船 / 坐船 / 站在船上 / 坐船上 / 场景"
+    },
+    {
+      "en": "on box",
+      "zh": "在盒子上",
+      "rating": "g",
+      "count": 1029,
+      "desc": "人或物位于箱子上",
+      "kw": "箱子上 / 坐在箱子上 / 站在箱子上 / 位于盒子上 / 在箱子上 / 姿势 / 场景"
+    },
+    {
+      "en": "on branch",
+      "zh": "在树枝上",
+      "rating": "g",
+      "count": 590,
+      "desc": "角色位于树枝上。",
+      "kw": "树枝上 / 站在树枝上 / 坐树枝上 / 位于树枝上 / 位置 / 树木"
+    },
+    {
+      "en": "on car",
+      "zh": "在车上",
+      "rating": "g",
+      "count": 2348,
+      "desc": "骑坐或站在汽车外部",
+      "kw": "坐在车顶 / 站在车上 / 车身之上 / 趴在车上 / 车辆 / 汽车 / 交通工具"
+    },
+    {
+      "en": "on chair",
+      "zh": "在椅子上",
+      "rating": "g",
+      "count": 43390,
+      "desc": "坐、蹲、站或躺在椅子上。",
+      "kw": "椅子上 / 坐在椅子上 / 站在椅子上 / 蹲在椅子上 / 躺在椅子上 / 椅子上的角色 / 位置 / 椅子 / 椅子 / 椅子の上"
+    },
+    {
+      "en": "on cloud",
+      "zh": "在云上",
+      "rating": "g",
+      "count": 548,
+      "desc": "角色位于云朵上",
+      "kw": "云上 / 站在云上 / 坐在云上 / 云朵上 / 云上面 / 身处云端 / 云朵 / 场景"
+    },
+    {
+      "en": "on flower",
+      "zh": "在花上",
+      "rating": "g",
+      "count": 527,
+      "desc": "站在、坐在巨大的花朵上或其中",
+      "kw": "在花朵上 / 坐花上 / 站在花上 / 花上面 / 花上坐 / 花朵之上 / 位置"
+    },
+    {
+      "en": "on food",
+      "zh": "在食物上",
+      "rating": "g",
+      "count": 973,
+      "desc": "坐在或躺在食物上方",
+      "kw": "坐在食物上 / 躺在食物上 / 在食物上面 / 食物上坐躺 / 位置"
+    },
+    {
+      "en": "on grass",
+      "zh": "草地上",
+      "rating": "g",
+      "count": 11524,
+      "desc": "主体完全接触草地，通常通过坐着或躺着实现",
+      "kw": "草地 / 户外"
+    },
+    {
+      "en": "on head",
+      "zh": "顶在头上",
+      "rating": "g",
+      "count": 27495,
+      "desc": "生物或人坐在/站在另一角色头顶上。",
+      "kw": "头顶上 / 头上顶着 / 头顶着 / 站在头上 / 坐在头上 / 头上立着 / 在头上 / 位置"
+    },
+    {
+      "en": "on magic circle",
+      "zh": "在魔法阵上",
+      "rating": "g",
+      "count": 622,
+      "desc": "人物或物体位于魔法阵上。",
+      "kw": "站在魔法阵上 / 位于魔法阵 / 在魔法阵中 / 魔法阵之上 / 立于魔法阵 / 魔法阵 / 位置"
+    },
+    {
+      "en": "on moon",
+      "zh": "在月球上",
+      "rating": "g",
+      "count": 649,
+      "desc": "角色位于月球表面",
+      "kw": "月球上 / 在月球表面 / 月球表面 / 月面 / 太空 / 科幻 / 月面上"
+    },
+    {
+      "en": "on motorcycle",
+      "zh": "在摩托车上",
+      "rating": "g",
+      "count": 3498,
+      "desc": "骑坐或停靠在摩托车上。",
+      "kw": "骑摩托车 / 摩托车上 / 坐摩托车 / 跨坐摩托车 / 在机车上 / 摩托车 / 骑摩托"
+    },
+    {
+      "en": "on pillow",
+      "zh": "在枕头上",
+      "rating": "g",
+      "count": 879,
+      "desc": "角色趴在或躺在枕头上",
+      "kw": "躺在枕头上 / 趴在枕头上 / 枕头上 / 睡在枕头上 / 枕头 / 姿势"
+    },
+    {
+      "en": "on railing",
+      "zh": "在栏杆上",
+      "rating": "g",
+      "count": 1979,
+      "desc": "站、爬、躺或坐在栏杆上。",
+      "kw": "坐在栏杆上 / 站在栏杆上 / 倚靠栏杆 / 跨坐栏杆 / 骑在栏杆上 / 位于栏杆上 / 栏杆上 / 姿势 / sitting on railing"
+    },
+    {
+      "en": "on railroad tracks",
+      "zh": "在铁轨上",
+      "rating": "g",
+      "count": 519,
+      "desc": "角色位于铁轨上站立、行走或坐卧",
+      "kw": "铁轨上 / 站在铁轨上 / 铁轨场景 / 铁路轨道上 / 轨道上 / 在铁路轨道上 / 场景 / 户外"
+    },
+    {
+      "en": "on rock",
+      "zh": "在岩石上",
+      "rating": "g",
+      "count": 3046,
+      "desc": "角色位于岩石或石块上",
+      "kw": "站在岩石上 / 坐在岩石上 / 岩石之上 / 石块上 / 岩上 / 岩石 / 姿势"
+    },
+    {
+      "en": "on rooftop",
+      "zh": "在楼顶",
+      "rating": "g",
+      "count": 1251,
+      "desc": "角色位于学校等平坦可通行的楼顶。",
+      "kw": "屋顶上 / 天台上 / 楼顶上 / 房顶上 / 平屋顶上 / 在屋顶 / 屋顶 / 户外"
+    },
+    {
+      "en": "on scooter",
+      "zh": "骑踏板摩托",
+      "rating": "g",
+      "count": 1183,
+      "desc": "骑坐或停靠在踏板摩托上",
+      "kw": "骑踏板车 / 骑小型摩托车 / 在踏板摩托上 / 骑速克达 / 骑小绵羊 / 交通工具 / 摩托车"
+    },
+    {
+      "en": "on stairs",
+      "zh": "在楼梯上",
+      "rating": "g",
+      "count": 1281,
+      "desc": "角色位于楼梯上",
+      "kw": "楼梯上 / 在台阶上 / 台阶上 / 楼梯间 / 楼梯 / 场景"
+    },
+    {
+      "en": "on stool",
+      "zh": "在凳子上",
+      "rating": "g",
+      "count": 3512,
+      "desc": "角色位于凳子之上。",
+      "kw": "坐在凳子上 / 在板凳上 / 在圆凳上 / 在方凳上 / 在矮凳上 / 坐凳子 / 在吧台凳上 / 在条凳上"
+    },
+    {
+      "en": "on swing",
+      "zh": "秋千上",
+      "rating": "g",
+      "count": 4137,
+      "desc": "角色坐在或站在秋千上。",
+      "kw": "荡秋千 / 坐秋千 / 站秋千 / 秋千 / 在秋千上 / 游乐设施"
+    },
+    {
+      "en": "on table",
+      "zh": "在桌子上",
+      "rating": "g",
+      "count": 6578,
+      "desc": "站在、坐或躺在桌子上",
+      "kw": "桌上 / 桌子上 / 在桌上 / 桌面 / 位置 / 机上位"
+    },
+    {
+      "en": "on tank",
+      "zh": "在坦克上",
+      "rating": "g",
+      "count": 925,
+      "desc": "坐在或站在坦克外部，包括探出舱口。",
+      "kw": "坐坦克上 / 站在坦克上 / 坦克上 / 骑在坦克上 / 坦克外部 / 探出坦克舱口 / 坦克舱口 / 坦克车外"
+    },
+    {
+      "en": "on throne",
+      "zh": "坐在王座上",
+      "rating": "g",
+      "count": 7533,
+      "desc": "角色位于王座上",
+      "kw": "在王座上 / 王座之上 / 坐于王座 / 宝座上 / 王座上 / 坐在宝座上 / 宝座 / 王座 / sitting on throne"
+    },
+    {
+      "en": "on toilet",
+      "zh": "在马桶上",
+      "rating": "s",
+      "count": 870,
+      "desc": "角色在马桶上，坐蹲站卧均可。",
+      "kw": "坐马桶 / 马桶上 / 蹲马桶 / 如厕姿势 / 坐便器上 / 上厕所 / 厕所 / 姿势"
+    },
+    {
+      "en": "on tree stump",
+      "zh": "在树桩上",
+      "rating": "g",
+      "count": 948,
+      "desc": "坐在、站在或躺在树桩上",
+      "kw": "坐在树桩上 / 站在树桩上 / 躺树桩上 / 树桩上 / 在树墩上 / 场景 / 位置 / sitting on tree stump"
+    },
+    {
+      "en": "on water",
+      "zh": "在水上",
+      "rating": "g",
+      "count": 1106,
+      "desc": "人物浮于或站在水面上。",
+      "kw": "水上 / 站在水上 / 浮在水上 / 水上行走 / 水面站立 / 水面漂浮 / 场景 / 水面"
+    },
+    {
+      "en": "one arm handstand",
+      "zh": "单手倒立",
+      "rating": "g",
+      "count": 768,
+      "desc": "仅用一只手支撑地面的倒立姿势",
+      "kw": "单臂倒立 / 单手支撑倒立 / 单臂支撑倒立 / 一只手倒立 / 单手倒立姿势 / 倒立 / 体操 / single handstand / standing on one hand"
+    },
+    {
+      "en": "one knee",
+      "zh": "单膝",
+      "rating": "g"
+    },
+    {
+      "en": "open legs",
+      "zh": "张开双腿",
+      "rating": "s"
+    },
+    {
+      "en": "open stance",
+      "zh": "分腿站姿",
+      "rating": "g"
+    },
+    {
+      "en": "outstretched legs",
+      "zh": "伸直的腿",
+      "rating": "g",
+      "count": 1003,
+      "desc": "双腿完全伸直向外伸展的姿势",
+      "kw": "伸直双腿 / 双腿伸出 / 伸腿 / 腿部伸展 / 拉长的腿 / 直伸的腿 / 双腿平伸 / 伸出的腿"
+    },
+    {
+      "en": "paizuri invitation",
+      "zh": "乳交邀请",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1048,
+      "desc": "以表情或敞开衣物邀请对方进行乳交",
+      "kw": "邀约乳交 / 邀请乳交 / 胸部邀请 / 乳交邀约 / 敞开胸部邀请 / 乳交 / 姿势 / 诱惑 / 谷間くぱぁ"
+    },
+    {
+      "en": "partially submerged",
+      "zh": "部分浸入水中",
+      "rating": "g",
+      "count": 48190,
+      "desc": "人物站在过腰深水或坐卧浅水中，身体部分浸入。",
+      "kw": "半身入水 / 部分淹没 / 身体部分浸水 / 半浸入水 / 下体入水 / 过腰深水 / 部分没入水中 / 水中"
+    },
+    {
+      "en": "person on head",
+      "zh": "头上小人",
+      "rating": "g",
+      "count": 963,
+      "desc": "站在他人头顶上的人，多为Q版小人",
+      "kw": "头顶小人 / 头上站人 / 小人站头顶 / 头顶有人 / 头上小人儿 / 头顶Q版 / 头上有人 / 姿势"
+    },
+    {
+      "en": "pose imitation",
+      "zh": "姿势模仿",
+      "rating": "g",
+      "count": 1522,
+      "desc": "角色模仿另一个角色标志性姿势",
+      "kw": "模仿姿势 / 致敬姿势 / 复刻姿势 / 摆出相同姿势 / 借用姿势 / 姿势 / 模仿 / borrowed pose"
+    },
+    {
+      "en": "posing",
+      "zh": "摆姿势",
+      "rating": "g",
+      "count": 1994,
+      "desc": "为被拍摄或绘制而摆出特定姿态",
+      "kw": "摆pose / 摆造型 / 凹造型 / 摆拍 / 姿势 / 模特"
+    },
+    {
+      "en": "presenting anus",
+      "zh": "露肛",
+      "rating": "q",
+      "nsfw": true,
+      "count": 580,
+      "desc": "角色翘起臀部主动展示肛门。",
+      "kw": "展示肛门 / 后庭"
+    },
+    {
+      "en": "presenting armpit",
+      "zh": "展示腋下",
+      "rating": "s",
+      "count": 14491,
+      "desc": "以挑逗或淫秽方式向观众展示腋下",
+      "kw": "腋下姿势 / 展示"
+    },
+    {
+      "en": "presenting ass",
+      "zh": "翘臀展示",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2554,
+      "desc": "角色主动翘起并展示臀部姿势。",
+      "kw": "展示屁股 / 姿势 / 臀部"
+    },
+    {
+      "en": "presenting breasts",
+      "zh": "展示胸部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2043,
+      "desc": "角色主动拉开衣物展示胸部。",
+      "kw": "姿势 / 胸部"
+    },
+    {
+      "en": "presenting foot",
+      "zh": "展示脚底",
+      "rating": "s",
+      "count": 2021,
+      "desc": "角色把脚掌朝向观看者刻意展示。",
+      "kw": "秀足 / 亮足 / 亮脚底 / 脚底朝镜 / 足部展示 / 献足 / 脚底展示 / 伸出脚板"
+    },
+    {
+      "en": "presenting own anus",
+      "zh": "展示自己的肛门",
+      "rating": "q",
+      "nsfw": true,
+      "count": 759,
+      "desc": "通常掰开臀瓣露出自己的肛门",
+      "kw": "展示肛门 / 掰开臀部露肛门 / 自己掰开肛门 / 露出肛门 / 掰开臀瓣露肛 / 展示后庭 / 肛门 / 露臀 / presenting anus"
+    },
+    {
+      "en": "presenting own armpit",
+      "zh": "展示自己腋下",
+      "rating": "s",
+      "count": 16829,
+      "desc": "以挑逗方式向观看者展示自己的腋下。",
+      "kw": "展示腋下 / 露腋下 / 抬臂露腋 / 展示自己的腋窝 / 露腋 / 晒腋下 / 腋下展示 / 秀腋下 / presenting armpit"
+    },
+    {
+      "en": "presenting own ass",
+      "zh": "展示自己的屁股",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3495,
+      "desc": "弯腰或四肢着地向观看者展示臀部。",
+      "kw": "展示臀部 / 撅臀展示 / 秀臀 / 展示自己的臀部 / 露臀展示 / 翘臀展示 / 展示菊花 / 献臀 / 臀部展示"
+    },
+    {
+      "en": "presenting own breasts",
+      "zh": "展示自己胸部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2779,
+      "desc": "角色主动向观看者展示自己的胸部。",
+      "kw": "展示胸部 / 主动露胸 / 献胸 / 捧胸展示 / 露胸展示 / 展示自己的乳房 / 乳房 / 胸部 / presenting breasts / 胸部展示"
+    },
+    {
+      "en": "presenting own foot",
+      "zh": "展示自己的脚",
+      "rating": "s",
+      "count": 6564,
+      "desc": "以挑逗方式向观看者展示自己的脚",
+      "kw": "秀脚 / 露脚 / 抬脚展示 / 伸脚 / 展示脚底 / 亮出脚 / 展示自己的脚部 / 脚部 / presenting feet"
+    },
+    {
+      "en": "presenting own pussy",
+      "zh": "展示自己私处",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3348,
+      "desc": "故意向观看者展示自己的私处",
+      "kw": "展示私处 / 展示小穴 / 掰穴展示 / 露出私处 / 展示阴部 / 展示下体 / 掰开阴部 / 展示阴户 / presenting pussy / 小穴展示 / 阴部展示"
+    },
+    {
+      "en": "presenting pawpads",
+      "zh": "展示肉垫",
+      "rating": "s",
+      "count": 838,
+      "desc": "向观看者展示手心或脚心的肉垫",
+      "kw": "露肉垫 / 肉垫展示 / 秀肉垫 / 给看肉垫"
+    },
+    {
+      "en": "presenting pussy",
+      "zh": "展示私处",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2566,
+      "desc": "故意向观众展示女性生殖器的行为",
+      "kw": "展示阴部 / 暴露 / 色情"
+    },
+    {
+      "en": "rearing",
+      "zh": "前蹄腾空",
+      "rating": "g",
+      "count": 1145,
+      "desc": "马等四足动物用后腿站立、前腿腾空",
+      "kw": "后腿站立 / 扬起前蹄 / 人立 / 后足站立 / 直立 / 马立 / 前蹄扬起 / 后肢站立 / on hind legs"
+    },
+    {
+      "en": "restrained",
+      "zh": "被束缚/忍耐",
+      "rating": "q",
+      "nsfw": true,
+      "count": 73031,
+      "desc": "被绑住或按住、无法自由活动的状态。",
+      "kw": "束缚 / 拘束 / 被拘束 / 被绑住 / 被捆绑 / 四肢拘束 / 行动受限 / 被拘禁"
+    },
+    {
+      "en": "separated legs",
+      "zh": "双腿分开",
+      "rating": "q",
+      "nsfw": true,
+      "count": 775,
+      "desc": "双腿被某种束缚物分开绑住",
+      "kw": "叉开腿 / 分腿 / 姿势"
+    },
+    {
+      "en": "side sitting split",
+      "zh": "侧坐劈叉",
+      "rating": "s",
+      "count": 555,
+      "desc": "侧坐并将双腿向左右分开的劈叉姿势",
+      "kw": "横叉坐 / 侧劈叉坐 / 坐姿劈叉 / 横向劈叉 / 姿势 / 体操 / middle split"
+    },
+    {
+      "en": "sidesaddle",
+      "zh": "侧坐",
+      "rating": "g",
+      "count": 2311,
+      "desc": "双腿同在一侧骑乘马匹或扫帚",
+      "kw": "侧鞍骑乘 / 侧骑 / 偏坐 / 双腿同侧骑乘 / 侧坐马背 / 侧坐扫帚 / 骑马 / 姿势"
+    },
+    {
+      "en": "sitting backwards",
+      "zh": "反坐椅子",
+      "rating": "g",
+      "count": 1600,
+      "desc": "背朝椅背、面朝后坐在椅子上",
+      "kw": "向后坐 / 倒坐 / 反着坐 / 背朝前坐 / 面朝椅背坐 / 反向坐姿 / 背对椅背坐 / 反向坐着 / backwards sitting / 逆座り"
+    },
+    {
+      "en": "sitting in tree",
+      "zh": "坐在树上",
+      "rating": "g",
+      "count": 3098,
+      "desc": "坐在树枝上的角色",
+      "kw": "坐在树枝上 / 树上坐着 / 坐在树杈上 / 爬树坐着 / 树上 / 姿势 / tree sitting / sitting on tree"
+    },
+    {
+      "en": "sitting in window",
+      "zh": "坐在窗台上",
+      "rating": "g",
+      "count": 522,
+      "desc": "坐在窗户或窗台上",
+      "kw": "坐在窗户上 / 坐在窗边 / 坐窗台 / 坐在窗沿 / 坐在窗口 / 坐在窗框上 / 坐在窗户里 / 窗边"
+    },
+    {
+      "en": "sitting on animal",
+      "zh": "坐在动物上",
+      "rating": "g",
+      "count": 914,
+      "desc": "坐在动物身上，未必是为了骑乘。",
+      "kw": "坐在动物身上 / 骑动物 / 坐在动物背上 / 坐在大型动物上 / 骑乘动物 / 坐在动物上方 / 骑在动物上 / 姿势"
+    },
+    {
+      "en": "sitting on box",
+      "zh": "坐在盒子上",
+      "rating": "g",
+      "count": 594,
+      "desc": "坐在箱子或纸盒上",
+      "kw": "坐在箱子上 / 坐在纸箱上 / 坐在木箱上 / 坐箱子 / 坐在纸盒上 / 坐在盒顶 / 坐姿 / 箱子"
+    },
+    {
+      "en": "sitting on branch",
+      "zh": "坐在树枝上",
+      "rating": "g",
+      "count": 1561,
+      "desc": "坐在树枝之上",
+      "kw": "坐在树上 / 树枝上坐 / 坐树枝 / 坐在树叉上 / 姿势 / 户外"
+    },
+    {
+      "en": "sitting on desk",
+      "zh": "坐在课桌上",
+      "rating": "g"
+    },
+    {
+      "en": "sitting on food",
+      "zh": "坐在食物上",
+      "rating": "g",
+      "count": 523,
+      "desc": "坐在巨大食物上，或小人坐在普通大小的食物上",
+      "kw": "坐在食物上面 / 坐食物上 / 坐在食物堆上 / 坐在大食物上 / 屁股坐食物 / 坐在食品上 / 姿势 / 食物"
+    },
+    {
+      "en": "sitting on object",
+      "zh": "坐在物体上",
+      "rating": "g",
+      "count": 2840,
+      "desc": "坐在没有专用标签的物体上。",
+      "kw": "坐在物品上 / 坐于物体上 / 坐在某物上 / 坐在东西上 / 坐在上面 / 姿势"
+    },
+    {
+      "en": "sitting on pillow",
+      "zh": "坐在枕头上",
+      "rating": "g",
+      "count": 529,
+      "desc": "坐在枕头或坐垫上",
+      "kw": "坐在坐垫上 / 坐枕头 / 坐在垫子上 / 枕上坐 / 坐于枕上 / 坐姿 / 枕头 / 姿势 / pillow sitting"
+    },
+    {
+      "en": "sitting on railing",
+      "zh": "坐在栏杆上",
+      "rating": "g"
+    },
+    {
+      "en": "sitting on rock",
+      "zh": "坐在石头上",
+      "rating": "g"
+    },
+    {
+      "en": "sitting on stairs",
+      "zh": "坐在楼梯上",
+      "rating": "g",
+      "count": 3968,
+      "desc": "坐在楼梯台阶上",
+      "kw": "坐在台阶上 / 坐楼梯 / 楼梯上坐 / 坐在阶梯上 / 台阶坐姿 / 坐姿 / 楼梯"
+    },
+    {
+      "en": "sitting on table",
+      "zh": "坐在桌子上",
+      "rating": "g",
+      "count": 1822,
+      "desc": "坐在桌子或书桌上",
+      "kw": "坐在桌上 / 坐在书桌上 / 坐于桌子 / 坐台上 / 坐在桌沿 / 坐姿 / 桌面"
+    },
+    {
+      "en": "sitting on throne",
+      "zh": "坐在王座上",
+      "rating": "g",
+      "count": 6760,
+      "desc": "人物坐在王座上的场景。",
+      "kw": "王座 / 坐姿"
+    },
+    {
+      "en": "sitting on water",
+      "zh": "坐在水面上",
+      "rating": "g",
+      "count": 1049,
+      "desc": "坐在或跪在水中，身体部分没入水面",
+      "kw": "坐于水面 / 坐在水面 / 水中坐 / 坐姿"
+    },
+    {
+      "en": "sitting on xx",
+      "zh": "坐在物体上",
+      "rating": "g"
+    },
+    {
+      "en": "sitting sideways",
+      "zh": "侧身坐",
+      "rating": "g",
+      "count": 1212,
+      "desc": "侧身坐在椅子上，双腿搭向一侧",
+      "kw": "侧坐 / 侧身坐姿 / 双腿侧放坐 / 侧腿坐 / 横坐 / 坐姿 / 姿势"
+    },
+    {
+      "en": "sitting split",
+      "zh": "坐姿劈叉",
+      "rating": "s",
+      "count": 787,
+      "desc": "坐着或趴着摆出一字马劈叉姿势",
+      "kw": "坐劈叉 / 坐姿一字马 / 一字马坐姿 / 坐位劈叉 / 地面劈叉 / 一字马 / 姿势 / 分腿 / middle split / 股割り"
+    },
+    {
+      "en": "slav squatting",
+      "zh": "斯拉夫蹲",
+      "rating": "g",
+      "count": 557,
+      "desc": "双脚全掌着地、臀部贴近地面的蹲姿",
+      "kw": "俄式蹲 / 俄罗斯蹲 / 流氓蹲 / 不良蹲 / 亚洲蹲 / 不良少年蹲 / 小混混蹲 / 斯拉夫蹲姿 / delinquent squatting / yankee squatting / ヤンキー座り / うんこ座り"
+    },
+    {
+      "en": "sleeping upright",
+      "zh": "直立睡觉",
+      "rating": "g",
+      "count": 4383,
+      "desc": "坐着或站着、靠着他人或墙睡觉",
+      "kw": "坐着睡 / 站着睡 / 立睡 / 坐睡 / 打瞌睡 / 居眠 / 直立睡 / 睡觉 / 居眠り"
+    },
+    {
+      "en": "spread armpit",
+      "zh": "掰开腋窝",
+      "rating": "s",
+      "count": 1143,
+      "desc": "把腋窝向外掰开展示",
+      "kw": "掰开腋下 / 展开腋窝 / 张开腋下 / 展示腋窝 / 腋窝张开 / 掰腋窝 / 腋下掰开 / 展开腋下 / armpit spreading / 腋は性器 / 腋くぱぁ"
+    },
+    {
+      "en": "spread leg",
+      "zh": "单腿张开",
+      "rating": "s"
+    },
+    {
+      "en": "standing on liquid",
+      "zh": "站在液体上",
+      "rating": "g",
+      "count": 3656,
+      "desc": "站在水面或其他液体表面。",
+      "kw": "站在水上 / 立于水面 / 站在水面 / 踏水而立 / 水上站立 / 液体表面站立 / 姿势 / 液体表面 / standing on water"
+    },
+    {
+      "en": "standing on magic circle",
+      "zh": "站在魔法阵上",
+      "rating": "g",
+      "count": 504,
+      "desc": "站在魔法阵中央或上面",
+      "kw": "站在魔法阵 / 立于魔法阵 / 踩在魔法阵上 / 魔法阵上站立 / 站在法阵上 / 姿势 / 魔法"
+    },
+    {
+      "en": "standing on object",
+      "zh": "站在物体上",
+      "rating": "g",
+      "count": 557,
+      "desc": "站在箱子等无生命物体上",
+      "kw": "站立在物体上 / 站在箱子上 / 踩在物体上 / 物体上站立 / 站于物体上 / 姿势"
+    },
+    {
+      "en": "stretch",
+      "zh": "伸懒腰",
+      "rating": "g"
+    },
+    {
+      "en": "stylish pose",
+      "zh": "时尚姿势",
+      "rating": "g"
+    },
+    {
+      "en": "swaying hip",
+      "zh": "摆胯",
+      "rating": "s",
+      "count": 836,
+      "desc": "角色左右扭动臀部",
+      "kw": "扭胯 / 摇臀 / 摆臀 / 扭动臀部 / 晃胯 / 摇摆髋部 / 摇晃的臀部 / 动作"
+    },
+    {
+      "en": "symmetrical pose",
+      "zh": "对称姿势",
+      "rating": "g",
+      "count": 1074,
+      "desc": "两个以上角色摆出相同或镜像对称的姿势。",
+      "kw": "镜像姿势 / 左右对称姿势 / 对称动作 / 镜面姿势 / 对称构图姿势 / 轴对称姿势 / 姿势"
+    },
+    {
+      "en": "trefoil",
+      "zh": "三叶草式展臀姿势",
+      "rating": "s",
+      "count": 4365,
+      "desc": "紧身衣物勒出三叶草形下体轮廓",
+      "kw": "三叶草裆部轮廓 / 三叶形下体轮廓 / 三叶草形下体 / 三瓣轮廓 / 阴唇三叶草轮廓 / 三叶草 / 植物 / 图案"
+    },
+    {
+      "en": "tucked penis",
+      "zh": "后夹阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1571,
+      "desc": "把阴茎和睾丸向后夹在腿间或藏在身后的姿势",
+      "kw": "藏屌 / 后夹鸡鸡 / 阴茎后夹 / 夹腿藏屌 / 后藏阴茎 / 鸡儿后夹 / 后置阴茎 / 阴茎藏腿间 / cock-tail / penis tucking"
+    },
+    {
+      "en": "under covers",
+      "zh": "盖着被子",
+      "rating": "g",
+      "count": 24315,
+      "desc": "角色盖着被单或毯子躺在床上。",
+      "kw": "被窝里 / 被子里 / 盖被子 / 蒙被子 / 盖毯子 / 躺在床上盖被 / 床上 / in bed / under blanket"
+    },
+    {
+      "en": "under table",
+      "zh": "桌子下面",
+      "rating": "g",
+      "count": 4399,
+      "desc": "待在桌子或书桌下方的角色",
+      "kw": "桌下 / 桌子下 / 台底 / 书桌下 / 桌底 / 桌下场景 / 办公桌下 / 桌子底下 / under desk / under the table / 桌下口交 / 机の下"
+    },
+    {
+      "en": "under umbrella",
+      "zh": "在伞下",
+      "rating": "g",
+      "count": 675,
+      "desc": "待在伞下的情形",
+      "kw": "伞下 / 共用一把伞 / 同撑一把伞 / 打伞下 / 撑伞下 / 伞底 / 共伞 / 伞下避雨"
+    },
+    {
+      "en": "v legs",
+      "zh": "V字腿",
+      "rating": "s",
+      "count": 789,
+      "desc": "双腿伸直张开成V形的姿势",
+      "kw": "V形腿 / V字开腿 / V字开脚 / 双腿V形张开 / V字劈腿 / 双腿张开 / v字開脚"
+    },
+    {
+      "en": "vocaloid boxart pose",
+      "zh": "Vocaloid封绘姿势",
+      "rating": "g",
+      "count": 504,
+      "desc": "模仿Vocaloid软件封面角色姿势的构图",
+      "kw": "V家封绘姿势 / Vocaloid封面姿势 / VOCALOID封面姿势 / V家封面构图 / 虚拟歌手封绘姿势 / V家封面姿势 / Vocaloid 封面姿势 / 姿势"
+    },
+    {
+      "en": "waking up",
+      "zh": "醒来",
+      "rating": "g",
+      "count": 9676,
+      "desc": "角色刚醒或醒了仍困倦，常伴随打哈欠伸懒腰",
+      "kw": "睡醒 / 刚睡醒 / 起床气 / 动作 / 寝起き"
+    },
+    {
+      "en": "wide spread legs",
+      "zh": "双腿大张",
+      "rating": "s",
+      "count": 7038,
+      "desc": "仰卧或坐姿时双腿大幅张开的姿势",
+      "kw": "双腿大开 / 大张腿 / 大张开腿 / 叉开腿 / M字开腿 / 大开腿 / 开腿 / 姿势"
+    },
+    {
+      "en": "wrapped in blanket",
+      "zh": "裹在毯子里",
+      "rating": "g",
+      "count": 916,
+      "desc": "一个或多个角色用毯子把自己裹起来",
+      "kw": "裹毯子 / 包在毯子里 / 裹着毯子 / 用毯子裹住 / 毯子 / 包裹 / 姿势 / 毛布で巻く"
+    },
+    {
+      "en": "yamcha pose (meme)",
+      "zh": "雅木茶姿势（模因）",
+      "rating": "g",
+      "count": 583,
+      "desc": "《龙珠》雅木茶被炸后躺在坑中的经典姿势梗。",
+      "kw": "雅木茶躺 / 雅木茶死法 / 雅木茶躺尸 / 雅木茶之死 / 饮茶姿势 / 雅木茶躺坑 / 雅木茶姿势 (梗) / 龙珠 / yamcha pose / ヤムチャしやがって・・・ / ヤムチャしやがって / ヤムチャしやがって..."
+    },
+    {
+      "en": "yandere trance",
+      "zh": "病娇恍惚",
+      "rating": "g",
+      "count": 942,
+      "desc": "病娇角色捧脸凝视的经典姿态。",
+      "kw": "病娇恍惚脸 / 病娇捧脸 / 我妻由乃脸 / 病娇凝视 / 病娇崩坏脸 / 病娇 / 表情 / 恍惚のヤンデレポーズ"
+    },
+    {
+      "en": "zun pose",
+      "zh": "ZUN姿势",
+      "rating": "g",
+      "count": 876,
+      "desc": "东方角色摆出ZUN官方绘中姿势的画作。",
+      "kw": "ZUN立 / 神主姿势 / ZUN式站姿 / 东方官方绘姿势 / ZUN站立姿势 / ZUN绘姿势 / ZUN 姿势 / 东方Project"
+    },
+    {
+      "en": "powering up",
+      "zh": "蓄力",
+      "rating": "g",
+      "count": 2405,
+      "desc": "角色蓄积能量准备攻击或施法。",
+      "kw": "集气 / 充能 / 能量聚集 / 聚气 / 蓄能 / 准备发招 / 力量积蓄 / 准备攻击 / charging energy"
+    },
+    {
+      "en": "spasm",
+      "zh": "痉挛",
+      "rating": "q",
+      "count": 937,
+      "desc": "角色受惊或兴奋时身体周围迸出的尖刺状线条",
+      "kw": "抽搐 / 抽动 / 痉挛线条 / 惊跳 / 激灵 / 肌肉痉挛 / 身体状态",
+      "nsfw": true
+    },
+    {
+      "en": "planted",
+      "zh": "插在地上",
+      "rating": "g",
+      "count": 12632,
+      "desc": "物体被插进地面直立",
+      "kw": "插入地面 / 插进地里 / 竖插在地 / 插着 / 插在地上的 / 姿势 / 放置 / planted weapon"
+    }
+  ]
+}

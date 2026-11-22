@@ -1,0 +1,54 @@
+{
+  "id": "punishing_gray_raven",
+  "name": "战双帕弥什",
+  "parentId": "games",
+  "order": 21,
+  "file": "games/punishing_gray_raven.json",
+  "characters": [
+    {
+      "game": "战双帕弥什",
+      "gameTag": "punishing: gray raven",
+      "name": "露西亚",
+      "tag": "lucia (pgr)",
+      "charZh": "露西亚（战双帕弥什）",
+      "auto": "white hair|白发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "战双帕弥什",
+      "gameTag": "punishing: gray raven",
+      "name": "丽芙",
+      "tag": "liv (pgr)",
+      "charZh": "丽芙（战双帕弥什）",
+      "auto": "white hair|白发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "战双帕弥什",
+      "gameTag": "punishing: gray raven",
+      "name": "里",
+      "tag": "lee (pgr)",
+      "charZh": "里（战双帕弥什）",
+      "auto": "black hair|黑发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "战双帕弥什",
+      "gameTag": "punishing: gray raven",
+      "name": "卡列尼娜",
+      "tag": "karenina (pgr)",
+      "charZh": "卡列尼娜（战双帕弥什）",
+      "auto": "blonde hair|金发;twintails|双马尾",
+      "subName": ""
+    },
+    {
+      "game": "战双帕弥什",
+      "gameTag": "punishing: gray raven",
+      "name": "七实",
+      "tag": "nanami (pgr)",
+      "charZh": "七实（战双帕弥什）",
+      "auto": "orange hair|橙发;short hair|短发",
+      "subName": ""
+    }
+  ]
+}

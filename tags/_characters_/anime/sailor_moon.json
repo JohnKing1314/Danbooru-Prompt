@@ -1,0 +1,82 @@
+{
+  "id": "sailor_moon",
+  "name": "美少女战士",
+  "parentId": "anime",
+  "order": 14,
+  "file": "anime/sailor_moon.json",
+  "characters": [
+    {
+      "game": "美少女战士",
+      "gameTag": "sailor moon",
+      "name": "月野兔",
+      "tag": "tsukino usagi",
+      "charZh": "月野兔（美少女战士）",
+      "auto": "blonde hair|金发;twintails|双马尾;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "美少女战士",
+      "gameTag": "sailor moon",
+      "name": "水野亚美",
+      "tag": "mizuno ami",
+      "charZh": "水野亚美（美少女战士）",
+      "auto": "blue hair|蓝发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "美少女战士",
+      "gameTag": "sailor moon",
+      "name": "火野丽",
+      "tag": "hino rei",
+      "charZh": "火野丽（美少女战士）",
+      "auto": "black hair|黑发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "美少女战士",
+      "gameTag": "sailor moon",
+      "name": "木野真琴",
+      "tag": "kino makoto",
+      "charZh": "木野真琴（美少女战士）",
+      "auto": "brown hair|棕发;ponytail|马尾",
+      "subName": ""
+    },
+    {
+      "game": "美少女战士",
+      "gameTag": "sailor moon",
+      "name": "爱野美奈子",
+      "tag": "aino minako",
+      "charZh": "爱野美奈子（美少女战士）",
+      "auto": "blonde hair|金发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "美少女战士",
+      "gameTag": "sailor moon",
+      "name": "天王遥",
+      "tag": "tenou haruka",
+      "charZh": "天王遥（美少女战士）",
+      "auto": "blonde hair|金发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "美少女战士",
+      "gameTag": "sailor moon",
+      "name": "海王满",
+      "tag": "kaiou michiru",
+      "charZh": "海王满（美少女战士）",
+      "auto": "blue hair|蓝发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "美少女战士",
+      "gameTag": "sailor moon",
+      "name": "小小兔",
+      "tag": "chibiusa",
+      "charZh": "小小兔（美少女战士）",
+      "auto": "pink hair|粉发;twintails|双马尾",
+      "subName": ""
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,819 @@
+{
+  "id": "weather_time",
+  "name": "天气与时间",
+  "icon": "🌦",
+  "parentId": "scene_group",
+  "level": 2,
+  "order": 5,
+  "file": "scene_group/scene_group_weather_time.json",
+  "updatedAt": "2026-11-22T12:39:36.675Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "fog layers",
+      "zh": "分层雾气",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "summer",
+      "zh": "夏天",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15523,
+      "desc": "以炎热晴天、轻薄衣物等夏日特征为背景的场景",
+      "kw": "夏季 / 夏日 / 盛夏 / 夏 / 暑季 / 炎夏 / 夏天场景 / 夏季背景 / 하계 / 여름 / 夏休み"
+    },
+    {
+      "en": "winter",
+      "zh": "冬天",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18658,
+      "desc": "明显处于冬季或带有冬季氛围的场景",
+      "kw": "冬季 / 冬日 / 寒冬 / 严冬 / 冬景 / 冬天场景 / 冬 / 季节 / 동계 / 겨울 / 冬休み"
+    },
+    {
+      "en": "spring",
+      "zh": "春天",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "autumn",
+      "zh": "秋天",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9880,
+      "desc": "以红叶与厚衣物为特征的秋季",
+      "kw": "秋季 / 秋日 / 金秋 / 落叶季 / 秋 / 季节 / fall (season) / 추계 / 가을"
+    },
+    {
+      "en": "rainy season",
+      "zh": "梅雨季",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rain",
+      "zh": "下雨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49998,
+      "desc": "从云中落下的雨滴。",
+      "kw": "降雨 / 雨天 / 雨景 / 雨滴 / 落雨 / 雨丝 / 天气 / raining / 梅雨"
+    },
+    {
+      "en": "heavy rain",
+      "zh": "大雨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12
+    },
+    {
+      "en": "light rain",
+      "zh": "小雨",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "drizzle",
+      "zh": "毛毛雨",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rain droplets",
+      "zh": "雨滴",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "snow",
+      "zh": "白雪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57206,
+      "desc": "覆盖在地面、建筑、树木或人身上的积雪",
+      "kw": "积雪 / 雪花 / 雪景 / 飘雪 / 雪地 / 下雪 / 雪原 / 皑皑白雪"
+    },
+    {
+      "en": "snowing",
+      "zh": "下雪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38401,
+      "desc": "雪从空中飘落的场景，与地面有积雪的snow不同。",
+      "kw": "降雪 / 下雪天 / 飘雪 / 雪天 / 落雪 / 雪花飘落 / 正在下雪 / 天气 / falling snow"
+    },
+    {
+      "en": "snowfall",
+      "zh": "降雪",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "snowflakes",
+      "zh": "雪花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18911,
+      "desc": "具有六角形对称结构的雪花结晶",
+      "kw": "六花 / 雪之结晶 / 雪结晶 / 六角雪花 / 雪花结晶 / 雪片 / 雪 / 冬季 / snowflake / 雪の結晶"
+    },
+    {
+      "en": "fog",
+      "zh": "浓雾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7856,
+      "desc": "贴近地面或水面、降低能见度的雾。",
+      "kw": "雾气 / 薄雾 / 烟雾 / 迷雾 / 雾霭 / 雾天 / 水雾 / mist / 霧 / 안개"
+    },
+    {
+      "en": "mist",
+      "zh": "薄雾",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cloudy",
+      "zh": "多云",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "overcast",
+      "zh": "阴天",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4554,
+      "desc": "天空被云层完全遮蔽的阴天。",
+      "kw": "阴沉 / 多云 / 阴云密布 / 天阴 / 灰蒙蒙 / 天气 / 天空 / 昙天"
+    },
+    {
+      "en": "clear sky",
+      "zh": "晴空",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2736,
+      "desc": "几乎无云的晴朗天空",
+      "kw": "晴朗天空 / 蓝天 / 无云天空 / 晴空万里 / 天空 / 背景"
+    },
+    {
+      "en": "sunny",
+      "zh": "晴天",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "storm",
+      "zh": "暴风雨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1711,
+      "desc": "伴有强风暴雨的恶劣天气",
+      "kw": "狂风暴雨 / 暴风 / 雷暴 / 天气 / 自然现象"
+    },
+    {
+      "en": "thunderstorm",
+      "zh": "雷雨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 43
+    },
+    {
+      "en": "thunder",
+      "zh": "雷声",
+      "rating": "g",
+      "nsfw": false,
+      "count": 310,
+      "desc": "闪电产生的雷声，仅在能听到雷声时使用",
+      "kw": "打雷 / 雷鸣 / 雷电 / 闪电 / 天气 / 自然现象 / 雷鳴"
+    },
+    {
+      "en": "wind",
+      "zh": "刮风",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69132,
+      "desc": "画面中描绘风吹过被摄对象的场景。",
+      "kw": "风吹 / 风动 / 风效果 / 风的表现 / 风场景 / 风效 / 动态 / windy / 風"
+    },
+    {
+      "en": "strong wind",
+      "zh": "强风",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "breeze",
+      "zh": "微风",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "night",
+      "zh": "夜晚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 176268,
+      "desc": "天色变暗的时段，天空多为黑或深蓝",
+      "kw": "晚上 / 夜间 / 夜里 / 黑夜 / 夜色 / 背景 / 夜景 / 夜 / よる"
+    },
+    {
+      "en": "day",
+      "zh": "白天",
+      "rating": "g",
+      "nsfw": false,
+      "count": 466655,
+      "desc": "白天或日间场景",
+      "kw": "白昼 / 日间 / 白昼场景 / 白天场景 / 日景 / 日间场景 / 环境 / daytime / 昼间 / 昼間 / 昼"
+    },
+    {
+      "en": "dawn",
+      "zh": "黎明",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1817,
+      "desc": "日出前天际微亮的黎明时分",
+      "kw": "破晓 / 拂晓 / 清晨 / 天亮 / 曙光 / 晨曦 / 时间 / 夜明け"
+    },
+    {
+      "en": "dusk",
+      "zh": "黄昏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6257,
+      "desc": "日落后天空尚未全暗的时段",
+      "kw": "傍晚 / 日落之后 / 暮色 / 薄暮 / 黄昏时分 / 日暮 / 夕阳西下 / 夕阳"
+    },
+    {
+      "en": "sunset",
+      "zh": "日落",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40160,
+      "desc": "傍晚太阳沉入地平线的景象。",
+      "kw": "夕阳 / 落日 / 黄昏 / 日没 / 傍晚太阳 / 风景 / 夕日 / 夕焼け"
+    },
+    {
+      "en": "sunrise",
+      "zh": "日出",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5129,
+      "desc": "清晨太阳升起",
+      "kw": "朝日 / 朝阳 / 早晨的太阳 / 日出景象 / 晨曦 / 旭日 / 晨光 / 景色 / 朝焼け / 日の出"
+    },
+    {
+      "en": "midnight",
+      "zh": "午夜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "noon",
+      "zh": "正午",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "starry night",
+      "zh": "星夜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "full moon",
+      "zh": "满月",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57839,
+      "desc": "整个圆面被照亮的满月",
+      "kw": "圆月 / 望月 / 月圆 / 全月 / 完整月亮 / 满月之夜 / 月亮 / fullmoon / 満月"
+    },
+    {
+      "en": "crescent moon",
+      "zh": "弯月",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17105,
+      "desc": "天空中实际呈现弯月形状的月亮，如娥眉月或残月。",
+      "kw": "新月 / 残月 / 蛾眉月 / 月牙儿 / 月钩 / 弦月 / 上弦月 / 三日月 / 朏 / みかづき"
+    },
+    {
+      "en": "moon",
+      "zh": "月亮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 108741,
+      "desc": "围绕行星运行的天然天体月亮",
+      "kw": "月球 / 月 / 明月 / 皓月 / 月儿 / 圆月 / 天体"
+    },
+    {
+      "en": "sunbeam",
+      "zh": "光束",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13497,
+      "desc": "透过云隙或物体间隙射下的可见光束",
+      "kw": "云隙光束 / 耶稣光 / 丁达尔效应 / 光柱 / 阳光束 / 圣光 / 上帝之光 / 神圣光束 / god rays / light shaft / crepuscular rays / 薄明光线"
+    },
+    {
+      "en": "rainbow",
+      "zh": "彩虹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14144,
+      "desc": "阳光折射形成的七彩弧状光带",
+      "kw": "虹 / 七彩彩虹 / 七色彩虹 / 虹桥 / 彩虹拱 / 天虹 / 彩弧 / 七彩弧光 / rainbows"
+    },
+    {
+      "en": "hail",
+      "zh": "冰雹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29
+    },
+    {
+      "en": "sleet",
+      "zh": "雨夹雪",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "blizzard",
+      "zh": "暴风雪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 568,
+      "desc": "强风加暴雪的恶劣风雪天气",
+      "kw": "雪暴 / 暴雪 / 大风雪 / 吹雪 / 雪灾 / 暴风雪天气 / 天气 / 自然现象 / snowstorm"
+    },
+    {
+      "en": "heat haze",
+      "zh": "热浪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 71,
+      "desc": "炎热天气下空气折射造成的扭曲视觉效果。",
+      "kw": "热霾 / 阳炎效应 / 空气扭曲 / 热浪效果 / 夏季热浪"
+    },
+    {
+      "en": "humidity",
+      "zh": "潮湿",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "puddle",
+      "zh": "水洼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8238,
+      "desc": "地面或路面上的小水洼，也可是其他液体",
+      "kw": "积水 / 小水坑 / 水潭 / 水泊 / 水洼地 / 环境 / 水迹 / 水たまり / 水溜り / 水溜まり"
+    },
+    {
+      "en": "shadow",
+      "zh": "影子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 168106,
+      "desc": "物体遮挡光线形成的影子",
+      "kw": "影 / 投影 / 暗影 / 阴影效果 / 物体阴影 / 光影 / 效果 / shadows"
+    },
+    {
+      "en": "meteor shower",
+      "zh": "流星雨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1495,
+      "desc": "许多流星从夜空某一点辐射而出的天象",
+      "kw": "流星群 / 流星雨现象 / 流星 / 天文"
+    },
+    {
+      "en": "eclipse",
+      "zh": "日食",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1118,
+      "desc": "日食或月食，天体进入另一天体阴影",
+      "kw": "月食 / 日蚀 / 月蚀 / 天狗食日 / 天狗食月 / 食 / 天文现象"
+    },
+    {
+      "en": "tornado",
+      "zh": "龙卷风",
+      "rating": "g",
+      "nsfw": false,
+      "count": 359,
+      "desc": "气象上的龙卷风",
+      "kw": "龙卷 / 旋风 / 陆龙卷 / 水龙卷 / 大龙卷风 / 风暴 / 天气 / twister (tornado) / 竜巻 / トルネード"
+    },
+    {
+      "en": "typhoon",
+      "zh": "台风",
+      "rating": "g",
+      "nsfw": false,
+      "count": 87,
+      "desc": "产生强风暴雨的热带气旋。",
+      "kw": "飓风 / 热带气旋 / 暴风 / 强热带风暴 / hurricane"
+    },
+    {
+      "en": "sandstorm",
+      "zh": "沙尘暴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 173,
+      "desc": "沙漠中夹带大量沙尘的强风",
+      "kw": "风沙 / 尘暴 / 沙尘天气 / 风暴 / 天气"
+    },
+    {
+      "en": "dew",
+      "zh": "露水",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "afternoon",
+      "zh": "下午",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "breath",
+      "zh": "白气",
+      "rating": "g",
+      "nsfw": false,
+      "count": 65998,
+      "desc": "冷天呼出的白色哈气。",
+      "kw": "哈气 / 吐息 / 呼气 / 白色哈气 / 哈出的白气 / 冷气 / 呼吸白雾 / 呼吸"
+    },
+    {
+      "en": "cold",
+      "zh": "寒冷",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5359,
+      "desc": "受寒冷影响而发抖的样子",
+      "kw": "冷 / 发冷 / 怕冷 / 冻 / 寒冷天气 / 冷天 / 寒天 / 冷色调 / 寒波 / 极寒 / 寒い / 寒さ責め"
+    },
+    {
+      "en": "dark clouds",
+      "zh": "乌云",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "morning",
+      "zh": "清晨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4601,
+      "desc": "天亮到中午之间的早晨时段，包括黎明和日出",
+      "kw": "早上 / 晨间 / 上午 / 晨曦 / 旭日 / 晨光 / 朝阳 / 朝 / あさ"
+    },
+    {
+      "en": "raindrops on glass",
+      "zh": "玻璃上的雨滴",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rainy day",
+      "zh": "雨天",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "white breath",
+      "zh": "白气",
+      "rating": "g",
+      "nsfw": false,
+      "count": 70,
+      "desc": "F&C于2004年发售的视觉小说，角色设计为桥本タカシ"
+    },
+    {
+      "en": "whiteout",
+      "zh": "白茫茫",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "evening",
+      "zh": "傍晚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13945,
+      "desc": "太阳西沉但尚未入夜的时段",
+      "kw": "黄昏 / 日暮 / 夕阳 / 晚间 / 暮色 / 黄昏时分 / 夕阳西下 / 时间 / 夕方 / 夕暮れ"
+    },
+    {
+      "en": "darkness",
+      "zh": "黑暗",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4620,
+      "desc": "魔法产生的黑暗，常呈翻涌的黑色触须",
+      "kw": "暗影 / 黑色能量 / 暗黑 / 暗属性 / 黑暗魔法 / 光照 / 阴影 / 暗色调"
+    },
+    {
+      "en": "steam",
+      "zh": "蒸汽",
+      "rating": "g",
+      "nsfw": false,
+      "count": 77171,
+      "desc": "热水蒸气遇冷凝结成的可见白汽",
+      "kw": "水蒸气 / 水汽 / 热气 / 白气 / 雾气 / 蒸气 / 蒸汽雾 / 水 / 水蒸気 / 汤気 / 蒸気 / 湯気"
+    },
+    {
+      "en": "above clouds",
+      "zh": "云层之上",
+      "rating": "g",
+      "count": 1939,
+      "desc": "从云层上方俯瞰的视角",
+      "kw": "云端之上 / 云上 / 云层上方 / 云海之上 / 俯瞰云海 / 云层上 / 场景 / 高空 / 雲上 / 雲の上"
+    },
+    {
+      "en": "big dipper",
+      "zh": "北斗七星",
+      "rating": "g",
+      "count": 559,
+      "desc": "大熊座中七颗亮星组成的北斗七星",
+      "kw": "北斗星 / 北斗 / 杓子星 / 勺子星 / 星座 / 天文 / ursa major / 七つの星 / 북두칠성"
+    },
+    {
+      "en": "black sky",
+      "zh": "黑色天空",
+      "rating": "g",
+      "count": 2773,
+      "desc": "几乎看不到星星的漆黑天空",
+      "kw": "漆黑天空 / 黑暗天空 / 黑漆漆的天空 / 无星夜空 / 暗黑天空 / 天空 / 背景"
+    },
+    {
+      "en": "cloudy sky",
+      "zh": "多云天空",
+      "rating": "g",
+      "count": 106294,
+      "desc": "云量过半的多云天空",
+      "kw": "阴天 / 多云 / 多云天 / 阴天天空 / 阴云密布 / 阴沉天空 / 云天 / 天气 / 昙天 / 曇天 / 曇り空 / 曇り"
+    },
+    {
+      "en": "colorful clouds",
+      "zh": "彩色云彩",
+      "rating": "g",
+      "count": 2105,
+      "desc": "色彩丰富鲜艳的云",
+      "kw": "彩云 / 彩色云 / 多彩云 / 绚烂云层 / 云朵 / 多彩天空 / aqua clouds / blue clouds / colored clouds / colorful cloudy sky"
+    },
+    {
+      "en": "colorful cloudy sky",
+      "zh": "多云彩色天空",
+      "rating": "g",
+      "count": 633,
+      "desc": "云层明显多彩的多云天空。",
+      "kw": "多彩多云天空 / 彩云天空 / 异色云 / 彩虹云 / 梦幻天空"
+    },
+    {
+      "en": "comet",
+      "zh": "彗星",
+      "rating": "g",
+      "count": 1067,
+      "desc": "由冰与尘埃组成、绕恒星运行的彗星",
+      "kw": "扫帚星 / 扫把星 / 天体 / 宇宙"
+    },
+    {
+      "en": "constellation",
+      "zh": "星座",
+      "rating": "g",
+      "count": 6972,
+      "desc": "天空中看似构成图案的恒星组合",
+      "kw": "星群 / 星宿 / 天文星座 / 星座图 / 星星 / 天文 / 图案 / constellations"
+    },
+    {
+      "en": "contrail",
+      "zh": "尾迹云",
+      "rating": "g",
+      "count": 6280,
+      "desc": "飞机飞行留下的尾迹云",
+      "kw": "航迹云 / 飞机云 / 飞行云 / 凝结尾 / 飞机尾迹 / 凝结尾迹 / 背景 / vapor trail / contrails / vapor trails / condensation trail"
+    },
+    {
+      "en": "cumulonimbus cloud",
+      "zh": "积雨云",
+      "rating": "g",
+      "count": 6204,
+      "desc": "顶部平展如砧的积雨云",
+      "kw": "积乱云 / 雷雨云 / 砧状云 / 入道云 / 云朵 / 背景 / 入道雲 / 積乱雲"
+    },
+    {
+      "en": "dark cloud",
+      "zh": "乌云",
+      "rating": "g",
+      "count": 1460,
+      "desc": "颜色明显发暗的乌云",
+      "kw": "黑云 / 暗云 / 阴云 / 乌云密布 / 黑色云层 / 浓云 / 黑压压的云 / 云朵 / dark clouds / black cloud"
+    },
+    {
+      "en": "december",
+      "zh": "十二月",
+      "rating": "g",
+      "count": 276,
+      "desc": "一年中的第十二个月，画面出现十二月字样",
+      "kw": "12月 / 十二月份 / 腊月 / 岁末 / 年终 / 时间 / 月份"
+    },
+    {
+      "en": "february",
+      "zh": "二月",
+      "rating": "g",
+      "count": 264,
+      "desc": "一年中的第二个月",
+      "kw": "2月 / 二月份 / 阳历二月 / 月份 / 时间"
+    },
+    {
+      "en": "gradient sky",
+      "zh": "渐变天空",
+      "rating": "g",
+      "count": 10633,
+      "desc": "颜色平滑过渡的天空",
+      "kw": "渐变色天空 / 天空渐变 / 天空色彩渐变 / 渐变天色 / 天空 / 背景"
+    },
+    {
+      "en": "green sky",
+      "zh": "绿色天空",
+      "rating": "g",
+      "count": 1251,
+      "desc": "呈绿色调的异常天空",
+      "kw": "绿天 / 翠绿天空 / 青绿色天空 / 绿色天空背景 / 异常绿色天空 / 绿色的天空 / 天空 / 背景"
+    },
+    {
+      "en": "grey sky",
+      "zh": "灰色天空",
+      "rating": "g",
+      "count": 7987,
+      "desc": "灰色或灰蒙蒙的天空，常因云层。",
+      "kw": "灰天 / 灰蒙蒙的天空 / 灰暗天空 / 阴天天空 / 灰色苍穹 / 灰白色天空 / 阴沉天空 / 灰蓝色天空 / gray sky"
+    },
+    {
+      "en": "huge moon",
+      "zh": "巨大的月亮",
+      "rating": "g",
+      "count": 2078,
+      "desc": "看起来比平时大得多的月亮",
+      "kw": "超大月亮 / 巨型月亮 / 大月亮 / 巨月 / 超大的月亮 / 硕大月亮 / 月亮 / 天体"
+    },
+    {
+      "en": "march",
+      "zh": "三月",
+      "rating": "g",
+      "count": 268,
+      "desc": "公历第三个月。",
+      "kw": "3月 / 三月份 / 公历三月 / 阳春三月 / 春季三月 / 月份 / 时间"
+    },
+    {
+      "en": "may",
+      "zh": "五月",
+      "rating": "g",
+      "count": 217,
+      "desc": "日历上的五月份，也用于区分多位同名角色",
+      "kw": "5月 / 五月份 / 小遥 (宝可梦) / 训练家 / 角色"
+    },
+    {
+      "en": "meteor",
+      "zh": "流星",
+      "rating": "g",
+      "count": 812,
+      "desc": "坠入大气层并剧烈燃烧的岩石类天体。",
+      "kw": "流星体 / 陨石 / 火流星 / 陨星 / 坠落流星 / 天体 / 夜空"
+    },
+    {
+      "en": "moon phases",
+      "zh": "月相",
+      "rating": "g",
+      "count": 1862,
+      "desc": "依次展示月相变化的图",
+      "kw": "月相变化 / 月相图 / 月相序列 / 月相周期 / 月相展示 / 月相排列 / 天文 / 月亮 / lunar phases"
+    },
+    {
+      "en": "multicolored sky",
+      "zh": "彩色天空",
+      "rating": "g",
+      "count": 719,
+      "desc": "至少两种以上颜色的天空，常见于日出日落",
+      "kw": "多色天空 / 多彩天空 / 多色晚霞 / 多色朝霞 / 彩虹色天空 / 背景 / 风景"
+    },
+    {
+      "en": "orange sky",
+      "zh": "橙色天空",
+      "rating": "g",
+      "count": 9896,
+      "desc": "呈现橙色的天空，多由日出或日落造成",
+      "kw": "橙天 / 橙红色天空 / 黄昏天空 / 落日天空 / 橘色天空 / 昏黄天空 / 橙黄色天空 / 晚霞天空"
+    },
+    {
+      "en": "pink clouds",
+      "zh": "粉色云朵",
+      "rating": "g",
+      "count": 556,
+      "desc": "天空或背景中出现粉色调的云朵。",
+      "kw": "云 / 背景 / 粉色"
+    },
+    {
+      "en": "pink sky",
+      "zh": "粉色天空",
+      "rating": "g",
+      "count": 3102,
+      "desc": "画面中呈现粉色的天空",
+      "kw": "粉红色天空 / 粉色的天空 / 粉红天空 / 天空 / 背景"
+    },
+    {
+      "en": "purple sky",
+      "zh": "紫色天空",
+      "rating": "g",
+      "count": 6803,
+      "desc": "多用于黄昏或幻想场景。",
+      "kw": "紫色的天空 / 紫天空 / 紫色天际 / 紫色苍穹 / 紫霞 / 天空 / 背景"
+    },
+    {
+      "en": "red moon",
+      "zh": "红月",
+      "rating": "g",
+      "count": 6878,
+      "desc": "红色调的月亮，也常称血月",
+      "kw": "血月 / 红色月亮 / 红月亮 / 赤月 / 血月亮 / 红色月光 / 月亮 / 天体 / blood moon"
+    },
+    {
+      "en": "red sky",
+      "zh": "红色的天空",
+      "rating": "g",
+      "count": 4994,
+      "desc": "被夕阳或血月染成红色的天空",
+      "kw": "红天 / 红色天空 / 赤红天空 / 血红色天空 / 满天红 / 红色天际 / 红空 / 天空"
+    },
+    {
+      "en": "red sun",
+      "zh": "红日",
+      "rating": "g",
+      "count": 874,
+      "desc": "日本新年贺卡上常见的红日图案",
+      "kw": "红太阳 / 红色太阳 / 日本红日 / 太阳图案 / 红日图案 / 太阳 / 日出"
+    },
+    {
+      "en": "september",
+      "zh": "九月",
+      "rating": "g",
+      "count": 269,
+      "desc": "公历第九个月，图中出现月份名或日历时使用",
+      "kw": "9月 / 九月份 / 月份"
+    },
+    {
+      "en": "shooting star",
+      "zh": "流星",
+      "rating": "g",
+      "count": 8747,
+      "desc": "流星进入大气层燃烧划出的光痕",
+      "kw": "陨星 / 坠星 / 天文 / shooting stars / 流れ星"
+    },
+    {
+      "en": "spring (season)",
+      "zh": "春季",
+      "rating": "g",
+      "count": 3998,
+      "desc": "场景明显发生在春天",
+      "kw": "春天 / 春 / 春日 / 季节 / 춘계 / 봄"
+    },
+    {
+      "en": "star trail",
+      "zh": "星轨",
+      "rating": "g",
+      "count": 763,
+      "desc": "长时间曝光下的星星拖尾",
+      "kw": "星迹 / 星空轨迹 / 星星轨迹 / 星芒轨迹 / 星空 / 天文 / star trails / star trailing"
+    },
+    {
+      "en": "white sky",
+      "zh": "白色的天空",
+      "rating": "g",
+      "count": 2076,
+      "desc": "画面中的天空呈现为白色",
+      "kw": "白色天空 / 白色天际 / 天空变白 / 白天空 / 白色天幕 / 天空白色 / 白空 / 天空"
+    },
+    {
+      "en": "yellow moon",
+      "zh": "黄色月亮",
+      "rating": "g",
+      "count": 550,
+      "desc": "呈黄色的月亮，多出现在夜景中。",
+      "kw": "黄月亮 / 黄月 / 黄色月 / 淡黄月亮 / 月亮 / 天体"
+    },
+    {
+      "en": "yellow sky",
+      "zh": "黄色天空",
+      "rating": "g",
+      "count": 3147,
+      "desc": "画面中呈黄色的天空。",
+      "kw": "黄天 / 黄色天空背景 / 背景 / 天空"
+    }
+  ]
+}

@@ -1,0 +1,1387 @@
+{
+  "id": "arknights",
+  "name": "明日方舟",
+  "parentId": "games",
+  "order": 1,
+  "file": "games/arknights.json",
+  "characters": [
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "阿米娅",
+      "tag": "amiya (arknights)",
+      "charZh": "阿米娅（明日方舟）",
+      "auto": "brown hair|棕发;ponytail|马尾;blue eyes|蓝瞳;rabbit ears|兔耳;ring|戒指;hood|兜帽;black pantyhose|黑色连裤袜;small breasts|小胸;white shirt|白衬衫;long hair|长发;long sleeves|长袖;hair between eyes|眼间发;open jacket|敞开的夹克;hooded jacket|连帽夹克;rabbit girl|兔娘;black jacket|黑夹克;sidelocks|鬓发;very long hair|超长发;holding sword|持剑;hood up|戴上兜帽",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "凯尔希",
+      "tag": "kal'tsit (arknights)",
+      "charZh": "凯尔希（明日方舟）",
+      "auto": "white hair|白发;green eyes|绿瞳;animal ears|兽耳;bare shoulders|裸肩;watch|手表;ankle boots|短靴;high heels|高跟鞋;ring|戒指;maid outfit|女仆装;sidelocks|鬓发;cat ears|猫耳;animal ear fluff|耳毛;short hair|短发;grey hair|灰发;green hair|绿发;green dress|绿连衣裙;cat girl|猫娘;material growth|结晶增生;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "陈",
+      "tag": "ch'en (arknights)",
+      "charZh": "陈（明日方舟）",
+      "auto": "blue hair|蓝发;twintails|双马尾;hair bun|发髻;red eyes|红瞳;tail|尾巴;uniform|制服;thigh boots|过膝靴;small breasts|小胸;chinese clothes|中式服装;dragon horns|龙角;long hair|长发;dragon tail|龙尾;dragon girl|龙娘;hair between eyes|眼间发;bare shoulders|露肩;navel|肚脐;sidelocks|鬓发;china dress|中式连衣裙;red dress|红色连衣裙;double bun|双丸子头;sleeveless dress|无袖连衣裙;cleavage cutout|乳沟镂空;medium breasts|中等胸;large breasts|大胸;cleavage|乳沟",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "能天使",
+      "tag": "exusiai (arknights)",
+      "charZh": "能天使（明日方舟）",
+      "auto": "red hair|红发;dyed hair|染发;short hair|短发;ponytail|马尾;orange eyes|橙瞳;halo|光环;wings|翅膀;hair over one eye|遮单眼发;black pantyhose|黑色连裤袜;sneakers|运动鞋;white jacket|白夹克;black gloves|黑手套;fingerless gloves|露指手套;detached wings|悬浮翼;red eyes|红瞳;energy wings|能量翼",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "德克萨斯",
+      "tag": "texas (arknights)",
+      "charZh": "德克萨斯（明日方舟）",
+      "auto": "navy blue hair|藏蓝发;blue eyes|蓝瞳;bangs|刘海;gloves|手套;black pantyhose|黑色连裤袜;uniform|制服;sneakers|运动鞋;wolf ears|狼耳;black hair|黑发;long hair|长发;animal ear fluff|兽耳绒毛;black shirt|黑衬衫;white jacket|白色夹克;long sleeves|长袖;red gloves|红色手套;ponytail|马尾;collared shirt|翻领衬衫;black jacket|黑色夹克;black shorts|黑色短裤;hair between eyes|眼间发;wolf girl|狼娘;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "拉普兰德",
+      "tag": "lappland (arknights)",
+      "charZh": "拉普兰德（明日方舟）",
+      "auto": "silver hair|银发;silver eyes|银瞳;animal ears|兽耳;tail|尾巴;scar|伤疤;small breasts|小胸;ankle boots|短靴;tube top|抹胸;hair clip|发夹;wolf ears|狼耳;black gloves|黑色手套;scar across eye|横跨眼睛的伤疤;long hair|长发;black coat|黑色大衣;grey hair|灰发;long sleeves|长袖;hairclip|发夹;grey eyes|灰瞳;wolf girl|狼娘;very long hair|超长发;hair between eyes|眼间发;black jacket|黑色夹克;white hair|白发",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "银灰",
+      "tag": "silverash (arknights)",
+      "charZh": "银灰（明日方舟）",
+      "auto": "white hair|白发;long hair|长发;grey eyes|灰瞳;animal ears|兽耳;tail|尾巴;cape|披风;hair ornament|发饰;ankle boots|短靴;necktie|领带;boots|靴子",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "斯卡蒂",
+      "tag": "skadi (arknights)",
+      "charZh": "斯卡蒂（明日方舟）",
+      "auto": "silver hair|银发;white hair|白发;long hair|长发;ahoge|呆毛;red eyes|红瞳;small breasts|小胸;cape|披风;ankle boots|短靴;thighs|大腿;very long hair|超长发;grey hair|灰发;bare shoulders|露肩;hair between eyes|眼间发;detached sleeves|分离袖;red dress|红色连衣裙;large breasts|大胸;black ascot|黑色阿斯科特领巾;black gloves|黑色手套;thigh cutout|大腿镂空;black pants|黑裤;medium breasts|中等胸;black shirt|黑衬衫;sunglasses|墨镜;eyewear on head|头顶眼镜;cleavage|乳沟;white shirt|白衬衫;navel|肚脐;off-shoulder shirt|露肩衬衫;thigh strap|腿环",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "幽灵鲨",
+      "tag": "specter (arknights)",
+      "charZh": "幽灵鲨（明日方舟）",
+      "auto": "grey hair|灰发;white hair|白发;red eyes|红瞳;nun|修女;thigh boots|过膝靴;cape|披风;thighhighs|过膝袜;black dress|黑色连衣裙;very long hair|超长发;long sleeves|长袖;hair between eyes|眼间发;bare shoulders|露肩;black hat|黑帽;black headwear|黑色头饰;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "迷迭香",
+      "tag": "rosmontis (arknights)",
+      "charZh": "迷迭香（明日方舟）",
+      "auto": "white hair|白发;green eyes|绿瞳;cat ears|猫耳;cat tail|猫尾;small breasts|小胸;catgirl|猫娘;gloves|手套;ankle boots|短靴;sleeveless|无袖;dress|连衣裙;long hair|长发;cat girl|猫娘;grey hair|灰发;animal ear fluff|耳毛;white dress|白连衣裙;fingerless gloves|露指手套;black gloves|黑手套",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "泥岩",
+      "tag": "mudrock (arknights)",
+      "charZh": "泥岩（明日方舟）",
+      "auto": "white hair|白发;red eyes|红瞳;small breasts|小胸;armor|盔甲;pointy ears|尖耳;horns|角;bare shoulders|露肩;long hair|长发;material growth|结晶增生;oripathy lesion (arknights)|源石结晶;grey hair|灰发;infection monitor (arknights)|感染监测环;black gloves|黑手套;black dress|黑色连衣裙;large breasts|大胸;cleavage|乳沟;black choker|黑色颈圈;detached sleeves|分离袖;very long hair|超长发;navel|肚脐;black sports bra|黑色运动胸罩;hair flower|发花;necklace|项链",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "W",
+      "tag": "w (arknights)",
+      "charZh": "W（明日方舟）",
+      "auto": "white hair|白发;red eyes|红瞳;tail|尾巴;small breasts|小胸;black pantyhose|黑色连裤袜;bandage|绷带;grey hair|灰发;short hair|短发;demon horns|恶魔角;black gloves|黑手套;demon girl|恶魔娘;antennae|触角;black jacket|黑夹克;demon tail|恶魔尾;antenna hair|天线呆毛;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "史尔特尔",
+      "tag": "surtr (arknights)",
+      "charZh": "史尔特尔（明日方舟）",
+      "auto": "red hair|红发;purple eyes|紫瞳;sword|长剑;thighhighs|过膝袜;small breasts|小胸;bare shoulders|裸肩;dress|连衣裙;horns|犄角;cleavage|乳沟;detached sleeves|分离袖;very long hair|超长发;navel|肚脐;thigh strap|腿环;long sleeves|长袖;hair rings|环形发髻;black shirt|黑衬衫;red skirt|红裙;short sleeves|短袖;black choker|黑色颈圈;cross necklace|十字架项链;black gloves|黑色手套;midriff|腹部;long hair|长发;hair between eyes|眼间发;demon horns|恶魔角;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "伊芙利特",
+      "tag": "ifrit (arknights)",
+      "charZh": "伊芙利特（明日方舟）",
+      "auto": "brown hair|棕发;curly hair|卷发;pink eyes|粉瞳;scientist|科学家;thighhighs|过膝袜;ankle boots|短靴;staff|法杖;small breasts|小胸;blonde hair|金发;orange eyes|橙瞳;horns|角;short hair|短发;demon horns|恶魔角;black choker|黑颈环;material growth|结晶增生;oripathy lesion (arknights)|源石结晶;fire|火焰",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "铃兰",
+      "tag": "suzuran (arknights)",
+      "charZh": "铃兰（明日方舟）",
+      "auto": "green eyes|绿瞳;animal ears|兽耳;tail|尾巴;small breasts|小胸;thighhighs|过膝袜;hairband|发箍;kimono|和服;fox ears|狐耳;fox girl|狐娘;blonde hair|金发;fox tail|狐尾;animal ear fluff|耳毛;white hair|白发;blue hairband|蓝发箍;kyuubi|九尾;long hair|长发;two-tone hair|双色发;frilled hairband|荷叶边发箍;red ribbon|红色缎带;neck ribbon|领口丝带;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "麦哲伦",
+      "tag": "magallan (arknights)",
+      "charZh": "麦哲伦（明日方舟）",
+      "auto": "brown hair|棕发;small breasts|小胸;streaked hair|挑染发;white hair|白发;yellow eyes|黄瞳;short hair|短发;white gloves|白手套;mask around neck|颈挂口罩;two-tone hair|双色发;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "白金",
+      "tag": "platinum (arknights)",
+      "charZh": "白金（明日方舟）",
+      "auto": "silver hair|银发;ponytail|马尾;brown eyes|棕瞳;animal ears|兽耳;tail|尾巴;longbow|长弓;thighhighs|过膝袜;gloves|手套;small breasts|小胸;white hair|白发;horse ears|马耳;long hair|长发;animal ear fluff|耳毛;very long hair|超长发;yellow eyes|黄瞳;black gloves|黑手套;horse girl|马娘;navel|肚脐;stomach|腹部",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "蓝毒",
+      "tag": "blue poison (arknights)",
+      "charZh": "蓝毒（明日方舟）",
+      "auto": "pink hair|粉发;twintails|双马尾;braid|麻花辫;blue eyes|蓝瞳;angel|天使;hood|兜帽;small breasts|小胸;thighhighs|过膝袜;long hair|长发;twin braids|双麻花辫;off shoulder|露肩;pink choker|粉颈环;open jacket|敞开夹克;white jacket|白夹克;long sleeves|长袖;bare shoulders|露肩;navel|肚脐;midriff|腹部;hairband|发箍",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "夜莺",
+      "tag": "nightingale (arknights)",
+      "charZh": "夜莺（明日方舟）",
+      "auto": "blonde hair|金发;curly hair|卷发;green eyes|绿瞳;boots|靴子;blunt bangs|齐刘海;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "闪灵",
+      "tag": "shining (arknights)",
+      "charZh": "闪灵（明日方舟）",
+      "auto": "white hair|白发;very long hair|超长发;high ponytail|高马尾;brown eyes|棕瞳;small breasts|小胸;necklace|项链;boots|靴子;hood|兜帽;cape|披风;sword|长剑;pointy ears|尖耳;horns|角;hair between eyes|眼间刘海;long hair|长发;red eyes|红瞳;ponytail|马尾;large breasts|大胸;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "普罗旺斯",
+      "tag": "provence (arknights)",
+      "charZh": "普罗旺斯（明日方舟）",
+      "auto": "purple hair|紫发;braid|麻花辫;tail|尾巴;animal ears|兽耳;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "白面鸮",
+      "tag": "ptilopsis (arknights)",
+      "charZh": "白面鸮（明日方舟）",
+      "auto": "white hair|白发;animal ears|兽耳;mechanical parts|机械部件;ankle boots|短靴;thigh boots|过膝靴;owl ears|鸮耳;orange eyes|橙瞳;long hair|长发;grey hair|灰发;long sleeves|长袖;yellow eyes|黄瞳;armband|臂章;white dress|白连衣裙;rhine lab logo|莱茵生命标志;feather hair|羽毛状发丝",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "砾",
+      "tag": "gravel (arknights)",
+      "charZh": "砾（明日方舟）",
+      "auto": "pink hair|粉发;brown eyes|棕瞳;thighhighs|过膝袜;boots|靴子;bodysuit|连体衣",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "天火",
+      "tag": "skyfire (arknights)",
+      "charZh": "天火（明日方舟）",
+      "auto": "brown hair|棕发;orange eyes|橙瞳;cat ears|猫耳;black pantyhose|黑色连裤袜;long hair|长发;cat tail|猫尾;red jacket|红夹克;brown eyes|棕瞳;long sleeves|长袖;cat girl|猫娘;black skirt|黑裙;hair between eyes|眼间刘海;open jacket|敞开夹克",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "莫斯提马",
+      "tag": "mostima (arknights)",
+      "charZh": "莫斯提马（明日方舟）",
+      "auto": "blue hair|蓝发;long hair|长发;tail|尾巴;wings|翅膀;halo|光环;angel|天使;tsurime|吊眼;staff|法杖;gloves|手套;evening gown|晚礼服;blue eyes|蓝瞳;demon horns|恶魔角;black jacket|黑夹克;white shirt|白衬衫;long sleeves|长袖;detached wings|悬浮翼;open jacket|敞开夹克;horns|角",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "早露",
+      "tag": "rosa (arknights)",
+      "charZh": "早露（明日方舟）",
+      "auto": "white hair|白发;curly hair|卷发;red eyes|红瞳;heterochromia|异色瞳;student|学生;black pantyhose|黑色连裤袜;small breasts|小胸;uniform|制服;bear ears|熊耳;blue eyes|蓝瞳;streaked hair|挑染发;very long hair|超长发;blue hair|蓝发;hair between eyes|眼间刘海;long sleeves|长袖;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "森蚺",
+      "tag": "eunectes (arknights)",
+      "charZh": "森蚺（明日方舟）",
+      "auto": "black hair|黑发;short hair|短发;blue eyes|蓝瞳;pointy ears|尖耳;tail|尾巴;shield|盾牌;small breasts|小胸;sandals|凉鞋;snake tail|蛇尾;bare shoulders|露肩;black gloves|黑手套;blue hair|蓝发;navel|肚脐;large breasts|大胸;cleavage|乳沟;midriff|腹部;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "傀影",
+      "tag": "phantom (arknights)",
+      "charZh": "傀影（明日方舟）",
+      "auto": "ash blonde hair|灰金发;cat ears|猫耳;mask|口罩;gloves|手套;fedora|礼帽;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "令",
+      "tag": "ling (arknights)",
+      "charZh": "令（明日方舟）",
+      "auto": "blue hair|蓝发;long hair|长发;braid|麻花辫;blue eyes|蓝瞳;tail|尾巴;pointy ears|尖耳;small breasts|小胸;ankle boots|短靴;dragon horns|龙角;very long hair|超长发;yellow necktie|黄领带;dragon girl|龙娘;black shorts|黑短裤;black gloves|黑手套;white coat|白大衣;earrings|耳环;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "夕",
+      "tag": "dusk (arknights)",
+      "charZh": "夕（明日方舟）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;pointy ears|尖耳;artist|画家;tattoo|纹身;ankle boots|短靴;small breasts|小胸;high heels|高跟鞋;qipao|旗袍;dragon horns|龙角;dragon girl|龙娘;dragon tail|龙尾;streaked hair|挑染发;very long hair|超长发;hair over one eye|单眼遮刘海;sleeveless dress|无袖连衣裙;tassel earrings|流苏耳环;green hair|绿发;china dress|中式连衣裙;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "安洁莉娜",
+      "tag": "angelina (arknights)",
+      "charZh": "安洁莉娜（明日方舟）",
+      "auto": "brown hair|棕发;twintails|双马尾;red eyes|红瞳;animal ears|兽耳;staff|法杖;gloves|手套;fox ears|狐耳;long hair|长发;red hairband|红发箍;fox girl|狐娘;long sleeves|长袖;black gloves|黑手套;black shirt|黑衬衫",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "黍",
+      "tag": "shu (arknights)",
+      "charZh": "黍（明日方舟）",
+      "auto": "silver hair|银发;long hair|长发;blue eyes|蓝瞳;tail|尾巴;pointy ears|尖耳;bare shoulders|裸肩;sleeveless|无袖;small breasts|小胸;high-waist|高腰;ankle boots|短靴;dragon horns|龙角;dragon girl|龙娘;blonde hair|金发;off shoulder|露肩;grey hair|灰发;blue hair|蓝发;white jacket|白夹克;hair between eyes|眼间刘海;long sleeves|长袖;necklace|项链;hair intakes|发进气口",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "年",
+      "tag": "nian (arknights)",
+      "charZh": "年（明日方舟）",
+      "auto": "silver hair|银发;high ponytail|高马尾;purple eyes|紫瞳;tail|尾巴;pointy ears|尖耳;tattoo|纹身;shield|盾牌;ankle boots|短靴;tongue out|吐舌;shawl|披肩;white hair|白发;streaked hair|挑染发;dragon horns|龙角;long hair|长发;dragon girl|龙娘;dragon tail|龙尾;horns|角;bare shoulders|露肩;china dress|旗袍;ponytail|马尾;white dress|白色连衣裙;sleeveless dress|无袖连衣裙;bead bracelet|珠串手链",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "澄闪",
+      "tag": "goldenglow (arknights)",
+      "charZh": "澄闪（明日方舟）",
+      "auto": "pink hair|粉发;cat ears|猫耳;hairband|发箍;cat girl|猫娘;yellow eyes|黄瞳;cat tail|猫尾;long hair|长发;hair bow|发带蝴蝶结;black hairband|黑发箍;white shirt|白衬衫;floppy ears|垂耳;print hairband|印花发箍",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "苏苏洛",
+      "tag": "sussurro (arknights)",
+      "charZh": "苏苏洛（明日方舟）",
+      "auto": "pink hair|粉发;blue eyes|蓝瞳;fox girl|狐娘;angel|天使;small breasts|小胸;black pantyhose|黑色连裤袜;sneakers|运动鞋;fox ears|狐耳;ahoge|呆毛;fox tail|狐尾;material growth|结晶增生;oripathy lesion (arknights)|源石结晶;short hair|短发;brown hair|棕发;white gloves|白手套;animal ear fluff|耳毛;black choker|黑颈环;navel|肚脐;hairclip|发夹;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "艾丽妮",
+      "tag": "irene (arknights)",
+      "charZh": "艾丽妮（明日方舟）",
+      "auto": "silver hair|银发;long hair|长发;grey eyes|灰瞳;pistol|手枪;gloves|手套;scar|伤疤;bangs|刘海;head wings|头部羽翼;grey hair|灰发;scar across eye|横跨眼睛的伤疤;black gloves|黑色手套;earrings|耳环;long sleeves|长袖;white pantyhose|白色连裤袜;black jacket|黑色夹克",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "塞雷娅",
+      "tag": "saria (arknights)",
+      "charZh": "塞雷娅（明日方舟）",
+      "auto": "silver hair|银发;orange eyes|橙瞳;tail|尾巴;shield|盾牌;small breasts|小胸;grey hair|灰发;long hair|长发;dragon horns|龙角;horns|角;long sleeves|长袖;hair between eyes|眼间刘海;white shirt|白衬衫;black hat|黑帽;black gloves|黑色手套;black shirt|黑衬衫;bulletproof vest|防弹背心;collared shirt|翻领衬衫;police hat|警帽;commentary|作者注释",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "霍尔海雅",
+      "tag": "ho'olheyak (arknights)",
+      "charZh": "霍尔海雅（明日方舟）",
+      "auto": "grey hair|灰发;green eyes|绿瞳;tail|尾巴;plump|丰满;black pantyhose|黑色连裤袜;high heels|高跟鞋;head wings|头翼;aqua eyes|水蓝瞳;hair between eyes|眼间刘海;snake tail|蛇尾;fingerless gloves|露指手套;white dress|白连衣裙;long sleeves|长袖;white gloves|白手套;feathered wings|羽翼;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "星熊",
+      "tag": "hoshiguma (arknights)",
+      "charZh": "星熊（明日方舟）",
+      "auto": "green hair|绿发;brown eyes|棕瞳;gloves|手套;small breasts|小胸;single horn|独角;long hair|长发;skin-covered horns|覆皮角;yellow eyes|黄瞳;hair between eyes|眼间刘海;black shirt|黑衬衫;bare shoulders|露肩;very long hair|超长发;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "艾雅法拉",
+      "tag": "eyjafjalla (arknights)",
+      "charZh": "艾雅法拉（明日方舟）",
+      "auto": "brown hair|棕发;curly hair|卷发;pink eyes|粉瞳;scientist|科学家;angel|天使;thighhighs|过膝袜;ankle boots|短靴;staff|法杖;small breasts|小胸;sheep horns|羊角;pink bikini|粉色比基尼;long hair|长发;sheep ears|羊耳;hair flower|发花;pink flower|粉色花朵;off-shoulder bikini|露肩比基尼;sheep girl|羊女孩",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "塑心",
+      "tag": "virtuosa (arknights)",
+      "charZh": "塑心（明日方舟）",
+      "auto": "black hair|黑发;black eyes|黑瞳;halo|光环;wings|翅膀;angel|天使;hime cut|姬发式;tsurime|吊眼;small breasts|小胸;thighhighs|过膝袜;high heels|高跟鞋;sidelocks|鬓发;dark halo|暗色光环;broken halo|破碎光环;black halo|黑色光环;detached wings|悬浮翼;blunt bangs|齐刘海;straight hair|直发;energy wings|能量翼;very long hair|超长发;black gloves|黑手套;black wings|黑翼;mole under eye|泪痣;white jacket|白夹克",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "缪尔赛思",
+      "tag": "muelsyse (arknights)",
+      "charZh": "缪尔赛思（明日方舟）",
+      "auto": "ash blonde hair|灰金发;yellow eyes|黄瞳;scientist|科学家;mischievous|调皮;mole under eye|泪痣;pointy ears|尖耳;long sleeves|长袖;very long hair|超长发;black choker|黑颈环;brown hair|棕发;long hair|长发;elf|精灵",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "山",
+      "tag": "mountain (arknights)",
+      "charZh": "山（明日方舟）",
+      "auto": "black hair|黑发;blue eyes|蓝瞳;animal ears|兽耳;scar|伤疤;furry male|福瑞男性;tiger boy|虎男;tiger ears|虎耳;short hair|短发;bara|蔷薇向;muscular male|肌肉男;scar across eye|横跨眼睛的伤疤;white hair|白发",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "重岳",
+      "tag": "chongyue (arknights)",
+      "charZh": "重岳（明日方舟）",
+      "auto": "black hair|黑发;multicolored hair|多色发;green eyes|绿瞳;tail|尾巴;pointy ears|尖耳;sneakers|运动鞋;tattoo|纹身;dragon horns|龙角;dragon boy|龙族少年;red eyes|红瞳;streaked hair|挑染;dragon tail|龙尾;long hair|长发;earrings|耳环;brown hair|棕发;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "特蕾西娅",
+      "tag": "theresa (arknights)",
+      "charZh": "特蕾西娅（明日方舟）",
+      "auto": "long hair|长发;pink eyes|粉瞳;ring|戒指",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "苇草",
+      "tag": "reed (arknights)",
+      "charZh": "苇草（明日方舟）",
+      "auto": "white hair|白发;very long hair|超长发;ahoge|呆毛;pointy ears|尖耳;gun|枪;small breasts|小胸;thigh boots|过膝靴;blonde hair|金发;dragon horns|龙角;white dress|白连衣裙;dragon girl|龙娘;long hair|长发;white flower|白花;blue eyes|蓝瞳;dragon tail|龙尾;light in heart|心火;hair flower|发花;black jacket|黑夹克;green eyes|绿瞳;black gloves|黑手套",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "羽毛笔",
+      "tag": "la pluma (arknights)",
+      "charZh": "羽毛笔（明日方舟）",
+      "auto": "black hair|黑发;short hair|短发;ahoge|呆毛;black eyes|黑瞳;sandals|凉鞋;hair clip|发夹;open jacket|敞开的夹克;bare shoulders|露肩;navel|肚脐;medium breasts|中等胸;off shoulder|一字肩;goggles around neck|脖挂护目镜;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "推进之王",
+      "tag": "siege (arknights)",
+      "charZh": "推进之王（明日方舟）",
+      "auto": "blonde hair|金发;brown eyes|棕瞳;animal ears|兽耳;tail|尾巴;bangs|刘海;small breasts|小胸;tank top|背心;jacket|夹克;lion ears|狮耳;long hair|长发;black jacket|黑夹克;ponytail|马尾;lion girl|狮娘;black choker|黑颈环;brown hair|棕发;fur-trimmed jacket|毛边夹克;hair between eyes|眼间刘海;lion tail|狮尾;cleavage|乳沟;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "煌",
+      "tag": "blaze (arknights)",
+      "charZh": "煌（明日方舟）",
+      "auto": "black hair|黑发;blue eyes|蓝瞳;animal ears|兽耳;tail|尾巴;hairband|发箍;thighhighs|过膝袜;ankle socks|短袜;puffy sleeves|泡泡袖;small breasts|小胸;swimsuit|泳装;cat ears|猫耳;red hairband|红色发箍;very long hair|超长发;large breasts|大胸;long hair|长发;black gloves|黑色手套;cat tail|猫尾;cat girl|猫娘",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "初雪",
+      "tag": "pramanix (arknights)",
+      "charZh": "初雪（明日方舟）",
+      "auto": "white hair|白发;braid|麻花辫;grey eyes|灰瞳;animal ears|兽耳;tail|尾巴;necklace|项链;thighhighs|过膝袜;boots|靴子;tareme|垂眼;leopard ears|雪豹耳;animal ear fluff|耳毛;grey hair|灰发;twin braids|双麻花辫;long hair|长发;very long hair|超长发;leopard tail|雪豹尾;hair between eyes|眼间刘海;white dress|白连衣裙;side braids|侧辫",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "宴",
+      "tag": "utage (arknights)",
+      "charZh": "宴（明日方舟）",
+      "auto": "long hair|长发;pink eyes|粉瞳;animal ears|兽耳;tail|尾巴;small breasts|小胸;thighhighs|过膝袜;purple eyes|紫瞳;eyewear on head|头顶眼镜;sunglasses|墨镜;large breasts|大胸;cleavage|乳沟;animal ear fluff|兽耳绒毛;necklace|项链;navel|肚脐;short hair|短发;hairclip|发夹;blonde hair|金发",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "黑",
+      "tag": "schwarz (arknights)",
+      "charZh": "黑（明日方舟）",
+      "auto": "silver hair|银发;ponytail|马尾;animal ears|兽耳;tail|尾巴;small breasts|小胸;cat ears|猫耳;grey hair|灰发;yellow eyes|黄瞳;long hair|长发;cat tail|猫尾;crop top|露脐上衣;very long hair|超长发;large breasts|大胸;cleavage|乳沟;navel|肚脐;stomach|腹部",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "提丰",
+      "tag": "typhon (arknights)",
+      "charZh": "提丰（明日方舟）",
+      "auto": "purple hair|紫发;pink eyes|粉瞳;longbow|长弓;small breasts|小胸;ankle socks|短袜;boots|靴子;black shirt|黑衬衫;black hairband|黑发箍;off shoulder|露肩;very long hair|超长发;horns|角;long hair|长发;fake horns|装饰角;sleeveless shirt|无袖衬衫;bare shoulders|露肩;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "刻俄柏",
+      "tag": "ceobe (arknights)",
+      "charZh": "刻俄柏（明日方舟）",
+      "auto": "blonde hair|金发;pink eyes|粉瞳;thigh boots|过膝靴;small breasts|小胸;dog ears|犬耳;brown hair|棕发;red eyes|红瞳;long hair|长发;dog girl|犬娘;very long hair|超长发;long sleeves|长袖;dog tail|犬尾;hair between eyes|眼间刘海;ears through headwear|耳穿头饰;red gloves|红色手套;black jacket|黑色夹克;twin braids|双辫;white hat|白帽子;chain|锁链",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "赫默",
+      "tag": "silence (arknights)",
+      "charZh": "赫默（明日方舟）",
+      "auto": "brown hair|棕发;short hair|短发;glasses|眼镜;ankle socks|短袜;scientist|科学家;feather hair|羽毛状发丝;long sleeves|长袖;owl ears|鸮耳;brown eyes|棕瞳;rhine lab logo|莱茵生命标志;hair between eyes|眼间刘海;under-rim eyewear|下半框眼镜;yellow eyes|黄瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "菲亚梅塔",
+      "tag": "fiammetta (arknights)",
+      "charZh": "菲亚梅塔（明日方舟）",
+      "auto": "pink hair|粉发;short hair|短发;red eyes|红瞳;boots|靴子;uniform|制服;small breasts|小胸;white shirt|白衬衫;red hair|红发;red necktie|红领带;black jacket|黑夹克;collared shirt|有领衬衫;open jacket|敞开夹克;black skirt|黑裙;bird ears|鸟耳;black gloves|黑手套;hair between eyes|眼间刘海",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "水月",
+      "tag": "mizuki (arknights)",
+      "charZh": "水月（明日方舟）",
+      "auto": "blue hair|蓝发;multicolored hair|多色发;gradient hair|渐变发;pink eyes|粉瞳;black pantyhose|黑色连裤袜;tank top|背心;beret|贝雷帽;sleeveless|无袖;gloves|手套;blue hat|蓝帽;infection monitor (arknights)|感染监测环;hair between eyes|眼间刘海;black gloves|黑手套;elbow gloves|过肘手套;black shirt|黑衬衫;short hair with long locks|短发长鬓;holding umbrella|持伞",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "诗怀雅",
+      "tag": "swire (arknights)",
+      "charZh": "诗怀雅（明日方舟）",
+      "auto": "blonde hair|金发;curly hair|卷发;very long hair|超长发;hair bun|发髻;green eyes|绿瞳;thighhighs|过膝袜;small breasts|小胸;tiger ears|虎耳;tiger tail|虎尾;tiger girl|虎娘;black hat|黑帽;fang|虎牙;long hair|长发;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "临光",
+      "tag": "nearl (arknights)",
+      "charZh": "临光（明日方舟）",
+      "auto": "blonde hair|金发;ponytail|马尾;orange eyes|橙瞳;knight|骑士;shield|盾牌;small breasts|小胸;armor|盔甲;animal ear fluff|兽耳绒毛;horse ears|马耳;headset|耳机/耳麦;long hair|长发;yellow eyes|黄瞳;horse girl|马娘;black gloves|黑色手套;horse tail|马尾兽尾;hair between eyes|眼间刘海;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "吽",
+      "tag": "hung (arknights)",
+      "charZh": "吽（明日方舟）",
+      "auto": "white hair|白发;orange eyes|橙瞳;animal ears|兽耳;shield|盾牌",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "杰西卡",
+      "tag": "jessica (arknights)",
+      "charZh": "杰西卡（明日方舟）",
+      "auto": "blue hair|蓝发;ponytail|马尾;green eyes|绿瞳;catgirl|猫娘;gloves|手套;ankle boots|短靴;cat ears|猫耳;cat tail|猫尾;cat girl|猫娘;long hair|长发;black hair|黑发;purple hair|紫发;open jacket|敞开夹克;black shorts|黑短裤",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "塔露拉",
+      "tag": "talulah (arknights)",
+      "charZh": "塔露拉（明日方舟）",
+      "auto": "silver hair|银发;grey eyes|灰瞳;tail|尾巴;sword|长剑;ankle boots|短靴",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "霜星",
+      "tag": "frostnova (arknights)",
+      "charZh": "霜星（明日方舟）",
+      "auto": "silver hair|银发;grey eyes|灰瞳;rabbit ears|兔耳;hair over one eye|遮单眼发;thigh boots|过膝靴;dagger|匕首;long hair|长发;hairclip|发夹;grey hair|灰发;scar on nose|鼻部疤痕;black gloves|黑色手套;white hair|白发;rabbit girl|兔娘;animal ear fluff|兽耳绒毛",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "斥罪",
+      "tag": "penance (arknights)",
+      "charZh": "斥罪（明日方舟）",
+      "auto": "brown hair|棕发;braid|麻花辫;armor|盔甲;small breasts|小胸;thighhighs|过膝袜;wolf ears|狼耳;extra ears|双层耳;wolf girl|狼娘;yellow eyes|黄瞳;mole above eye|眼上痣;long sleeves|长袖;long hair|长发;hair between eyes|眼间刘海;wolf tail|狼尾;black nails|黑指甲;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "桃金娘",
+      "tag": "myrtle (arknights)",
+      "charZh": "桃金娘（明日方舟）",
+      "auto": "red hair|红发;very long hair|超长发;ahoge|呆毛;green eyes|绿瞳;pointy ears|尖耳;beauty mark|美人痣;small breasts|小胸;long sleeves|长袖;ankle socks|短袜;sneakers|运动鞋;long hair|长发;white jacket|白夹克;parted bangs|中分刘海;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "鞭刃",
+      "tag": "whislash (arknights)",
+      "charZh": "鞭刃（明日方舟）",
+      "auto": "blonde hair|金发;blue eyes|蓝瞳;animal ears|兽耳;tail|尾巴;thighhighs|过膝袜;small breasts|小胸;ribbon|丝带;horse ears|马耳;long hair|长发;animal ear fluff|兽耳绒毛;horse girl|马娘;horse tail|马尾兽尾;long sleeves|长袖;large breasts|大胸;black hat|黑帽",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "嵯峨",
+      "tag": "saga (arknights)",
+      "charZh": "嵯峨（明日方舟）",
+      "auto": "black hair|黑发;brown eyes|棕瞳;animal ears|兽耳;hime cut|姬发式;geta|木屐;dog ears|犬耳;forehead mark|额头印记;long hair|长发;black kimono|黑和服;parted bangs|中分刘海;very long hair|超长发;fingerless gloves|露指手套;dog girl|犬娘;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "红",
+      "tag": "projekt red (arknights)",
+      "charZh": "红（明日方舟）",
+      "auto": "grey hair|灰发;long hair|长发;wolf tail|狼尾;dog ears|狗耳;bangs|刘海;dagger|匕首;hood|兜帽;wolf ears|狼耳;red jacket|红夹克;hair between eyes|眼间刘海;yellow eyes|黄瞳;wolf girl|狼娘;hooded jacket|连帽夹克;hood up|戴兜帽;long sleeves|长袖;open jacket|敞开夹克;black one-piece swimsuit|黑色连体泳装",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "风笛",
+      "tag": "bagpipe (arknights)",
+      "charZh": "风笛（明日方舟）",
+      "auto": "orange hair|橙发;blue eyes|蓝瞳;gun|枪;small breasts|小胸;thighhighs|过膝袜;purple eyes|紫瞳;very long hair|超长发;horns|角;black gloves|黑手套;dragon horns|龙角;bare shoulders|露肩;crop top|露脐短衫;midriff|腹部;navel|肚脐;cleavage|乳沟;stomach|腹部;showgirl skirt|舞女裙;fingerless gloves|露指手套;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "瑕光",
+      "tag": "blemishine (arknights)",
+      "charZh": "瑕光（明日方舟）",
+      "auto": "blonde hair|金发;ponytail|马尾;animal ears|兽耳;tail|尾巴;knight|骑士;armor|盔甲;shield|盾牌;cape|披风;thigh boots|过膝靴;horse ears|马耳;horse girl|马娘;long hair|长发;animal ear fluff|耳毛;horse tail|马尾兽尾;yellow eyes|黄瞳;black bow|黑蝴蝶结;hair bow|发带蝴蝶结;sidelocks|鬓发",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "极光",
+      "tag": "aurora (arknights)",
+      "charZh": "极光（明日方舟）",
+      "auto": "white hair|白发;blue eyes|蓝瞳;animal ears|兽耳;bear ears|熊耳;black hairband|黑发箍;hair over one eye|单眼遮刘海;black gloves|黑手套;long sleeves|长袖;crop top|露脐上衣;very long hair|超长发;large breasts|大胸;midriff|腹部;navel|肚脐;stomach|腹部",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "歌蕾蒂娅",
+      "tag": "gladiia (arknights)",
+      "charZh": "歌蕾蒂娅（明日方舟）",
+      "auto": "blonde hair|金发;red eyes|红瞳;pointy ears|尖耳;cape|披风;thigh boots|过膝靴;grey hair|灰发;hair over one eye|单眼遮刘海;long hair|长发;white hair|白发;white ascot|白领巾;black gloves|黑手套;earrings|耳环;large breasts|大胸;commentary|作者注释",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "食铁兽",
+      "tag": "feater (arknights)",
+      "charZh": "食铁兽（明日方舟）",
+      "auto": "silver hair|银发;twintails|双马尾;red eyes|红瞳;qipao|旗袍;small breasts|小胸;sunglasses|墨镜;panda ears|熊猫耳;black hair|黑发;eyewear on head|头上戴眼镜;grey hair|灰发;streaked hair|挑染发;hair over one eye|单眼遮刘海;long hair|长发;china dress|旗袍;large breasts|大胸;cleavage cutout|乳沟镂空",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "霜叶",
+      "tag": "frostleaf (arknights)",
+      "charZh": "霜叶（明日方舟）",
+      "auto": "silver hair|银发;red eyes|红瞳;fox girl|狐娘;bare shoulders|裸肩;black pantyhose|黑色连裤袜;knee pads|护膝;long hair|长发;fox ears|狐耳;headphones|头戴式耳机;grey hair|灰发;ears through headwear|耳穿头饰;grey shirt|灰色衬衫;red jacket|红色夹克;implied extra ears|暗示额外耳朵",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "棘刺",
+      "tag": "thorns (arknights)",
+      "charZh": "棘刺（明日方舟）",
+      "auto": "black hair|黑发;low ponytail|低马尾;orange eyes|橙瞳;gloves|手套;crown|王冠;dark-skinned male|深色皮肤男性;necklace|项链;bishounen|美少年;white gloves|白色手套;short hair|短发;yellow eyes|黄瞳;black shirt|黑衬衫;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "龙舌兰",
+      "tag": "tequila (arknights)",
+      "charZh": "龙舌兰（明日方舟）",
+      "auto": "blonde hair|金发;ahoge|呆毛;dog ears|狗耳;tail|尾巴;sleeveless|无袖;sandals|凉鞋;shorts|短裤;necklace|项链;sunglasses|墨镜",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "华法琳",
+      "tag": "warfarin (arknights)",
+      "charZh": "华法琳（明日方舟）",
+      "auto": "white hair|白发;red eyes|红瞳;pointy ears|尖耳;vampire|吸血鬼;black pantyhose|黑色连裤袜;hair between eyes|眼间刘海;crown braid|环状编发;long hair|长发;very long hair|超长发;long sleeves|长袖;grey hair|灰发;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "芙兰卡",
+      "tag": "franka (arknights)",
+      "charZh": "芙兰卡（明日方舟）",
+      "auto": "brown hair|棕发;animal ears|兽耳;tail|尾巴;fox girl|狐娘;small breasts|小胸;ankle socks|短袜;thighhighs|过膝袜;necktie|领带;uniform|制服;high heels|高跟鞋;fox ears|狐耳;long hair|长发;fox tail|狐尾;animal ear fluff|兽耳绒毛;brown eyes|棕瞳;black gloves|黑色手套;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "嘉维尔",
+      "tag": "gavial (arknights)",
+      "charZh": "嘉维尔（明日方舟）",
+      "auto": "green hair|绿发;pointy ears|尖耳;small breasts|小胸;ankle boots|短靴;yellow eyes|黄瞳;navel|肚脐;goggles on head|护目镜戴头上;black gloves|黑色手套;crocodilian tail|鳄鱼尾;fingerless gloves|露指手套;ponytail|马尾;long hair|长发;crop top|露脐短衫;hair between eyes|眼间发;stomach|腹部;antenna hair|触角呆毛;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "雷蛇",
+      "tag": "liskarm (arknights)",
+      "charZh": "雷蛇（明日方舟）",
+      "auto": "grey hair|灰发;red eyes|红瞳;tail|尾巴;shield|盾牌;small breasts|小胸;dragon horns|龙角;ponytail|马尾;dragon girl|龙娘;long hair|长发;blue jacket|蓝夹克;dragon tail|龙尾;long sleeves|长袖;open jacket|敞开夹克;holding gun|持枪;orange eyes|橙瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "空",
+      "tag": "sora (arknights)",
+      "charZh": "空（明日方舟）",
+      "auto": "blonde hair|金发;twintails|双马尾;ahoge|呆毛;red eyes|红瞳;dog ears|狗耳;idol|偶像;small breasts|小胸;thighhighs|过膝袜;boots|靴子",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "凛冬",
+      "tag": "zima (arknights)",
+      "charZh": "凛冬（明日方舟）",
+      "auto": "brown hair|棕发;blue eyes|蓝瞳;animal ears|兽耳;bangs|刘海;ankle boots|短靴;bear ears|熊耳;streaked hair|挑染发;long hair|长发;long sleeves|长袖;red pantyhose|红连裤袜;black jacket|黑夹克;red neckerchief|红领巾;fur-trimmed jacket|毛边夹克;open jacket|敞开夹克;black sailor collar|黑水手领;black choker|黑颈环",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "星极",
+      "tag": "astesia (arknights)",
+      "charZh": "星极（明日方舟）",
+      "auto": "blue hair|蓝发;braid|麻花辫;blue eyes|蓝瞳;twins|双胞胎;princess|公主;long hair|长发;white dress|白色连衣裙;white pupils|白瞳;very long hair|超长发;hair intakes|内卷发",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "巫恋",
+      "tag": "shamare (arknights)",
+      "charZh": "巫恋（明日方舟）",
+      "auto": "pink hair|粉发;pink eyes|粉瞳;small breasts|小胸;pantyhose|连裤袜",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "弑君者",
+      "tag": "crownslayer (arknights)",
+      "charZh": "弑君者（明日方舟）",
+      "auto": "red hair|红发;red eyes|红瞳;animal ears|兽耳;hood|兜帽;fingerless gloves|露指手套",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "克洛丝",
+      "tag": "kroos (arknights)",
+      "charZh": "克洛丝（明日方舟）",
+      "auto": "black hair|黑发;short hair|短发;green eyes|绿瞳;squinting|眯眼;bandaid|创可贴;rabbit ears|兔耳;blonde hair|金发;closed eyes|闭眼;white shirt|白衬衫;black shorts|黑短裤;black vest|黑马甲;braid|辫子",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "逻各斯",
+      "tag": "logos (arknights)",
+      "charZh": "逻各斯（明日方舟）",
+      "auto": "grey hair|灰发;red eyes|红瞳;pointy ears|尖耳;gloves|手套",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "送葬人",
+      "tag": "executor (arknights)",
+      "charZh": "送葬人（明日方舟）",
+      "auto": "white hair|白发;long hair|长发;halo|光环;wings|翅膀;angel|天使;smile|微笑",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "普瑞赛斯",
+      "tag": "priestess (arknights)",
+      "charZh": "普瑞赛斯（明日方舟）",
+      "auto": "brown hair|棕发;purple eyes|紫瞳;black pantyhose|黑色连裤袜;scientist|科学家;hairband|发箍;bow|蝴蝶结",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "帕拉斯",
+      "tag": "pallas (arknights)",
+      "charZh": "帕拉斯（明日方舟）",
+      "auto": "ash blonde hair|灰金发;green eyes|绿瞳;black pantyhose|黑色连裤袜;cow horns|牛角;brown hair|棕发;cow ears|牛耳;flower on head|头顶花朵;black gloves|黑色手套;cow girl|牛娘;hair between eyes|眼间发;red rose|红玫瑰;long hair|长发;veil|面纱;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "薇薇安娜",
+      "tag": "viviana (arknights)",
+      "charZh": "薇薇安娜（明日方舟）",
+      "auto": "blonde hair|金发;high ponytail|高马尾;blue eyes|蓝瞳;animal ears|兽耳;knight|骑士;small breasts|小胸;high heels|高跟鞋;horns|犄角;deer ears|鹿耳;deer antlers|鹿角;deer girl|鹿娘;hood up|戴上兜帽;hair between eyes|眼间发;long hair|长发;antlers through headwear|头饰穿角;hooded cape|连帽披风;black dress|黑色连衣裙;white cape|白色斗篷;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "伊内丝",
+      "tag": "ines (arknights)",
+      "charZh": "伊内丝（明日方舟）",
+      "auto": "black hair|黑发;small breasts|小胸;boots|靴子",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "古米",
+      "tag": "gummy (arknights)",
+      "charZh": "古米（明日方舟）",
+      "auto": "blonde hair|金发;twintails|双马尾;orange eyes|橙瞳;animal ears|兽耳;hair clip|发夹;pantyhose|连裤袜;mary janes|玛丽珍鞋;angel|天使;bear ears|熊耳;short hair|短发;candy hair ornament|糖果发饰;hairclip|发夹;red eyes|红瞳;black jacket|黑夹克;holding frying pan|持平底锅",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "多萝西",
+      "tag": "dorothy (arknights)",
+      "charZh": "多萝西（明日方舟）",
+      "auto": "blonde hair|金发;low ponytail|低马尾;small breasts|小胸;ankle socks|短袜;ankle boots|短靴;scientist|科学家;thighhighs|过膝袜;thigh boots|过膝靴;yellow eyes|黄瞳;mouse ears|鼠耳;long hair|长发;bare shoulders|露肩;mouse girl|鼠娘;hair between eyes|眼间刘海;white hat|白帽;yellow gloves|黄手套;animal ears|兽耳;cleavage|乳沟;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "维什戴尔",
+      "tag": "wis'adel (arknights)",
+      "charZh": "维什戴尔（明日方舟）",
+      "auto": "white hair|白发;red eyes|红瞳;tail|尾巴;small breasts|小胸;shorts|短裤;ankle boots|短靴",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "玛恩纳",
+      "tag": "mlynar (arknights)",
+      "charZh": "玛恩纳（明日方舟）",
+      "auto": "yellow eyes|黄瞳;knight|骑士;hair over one eye|遮单眼发",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "号角",
+      "tag": "horn (arknights)",
+      "charZh": "号角（明日方舟）",
+      "auto": "blonde hair|金发;green eyes|绿瞳;headband|头带;tank top|背心;small breasts|小胸;thigh boots|过膝靴;wolf ears|狼耳;black hairband|黑发箍;bare shoulders|露肩;very long hair|超长发;long hair|长发;black choker|黑颈环;blue eyes|蓝瞳;animal ear fluff|耳毛;wolf girl|狼娘;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "黑键",
+      "tag": "ebenholz (arknights)",
+      "charZh": "黑键（明日方舟）",
+      "auto": "black hair|黑发;low ponytail|低马尾;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "琴柳",
+      "tag": "saileach (arknights)",
+      "charZh": "琴柳（明日方舟）",
+      "auto": "blonde hair|金发;very long hair|超长发;braid|麻花辫;blue eyes|蓝瞳;thighhighs|过膝袜;hairband|发箍;small breasts|小胸;pointy ears|尖耳;bare shoulders|露肩;blue hairband|蓝发箍;horns|角;dragon horns|龙角;blue necktie|蓝领带;hair between eyes|眼间刘海;white shirt|白衬衫;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "可颂",
+      "tag": "croissant (arknights)",
+      "charZh": "可颂（明日方舟）",
+      "auto": "orange hair|橙发;ahoge|呆毛;blue eyes|蓝瞳;tsurime|吊眼;shield|盾牌",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "埃拉托",
+      "tag": "erato (arknights)",
+      "charZh": "埃拉托（明日方舟）",
+      "auto": "pink hair|粉发;very long hair|超长发;green eyes|绿瞳;gloves|手套;boots|靴子;sleeveless|无袖;high heels|高跟鞋",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "四月",
+      "tag": "april (arknights)",
+      "charZh": "四月（明日方舟）",
+      "auto": "black hair|黑发;purple eyes|紫瞳;ankle socks|短袜;sneakers|运动鞋;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "温蒂",
+      "tag": "weedy (arknights)",
+      "charZh": "温蒂（明日方舟）",
+      "auto": "green hair|绿发;short hair|短发;red eyes|红瞳;grey hair|灰发;very long hair|超长发;bare shoulders|露肩;detached sleeves|分离袖;long hair|长发;white hair|白发;thigh strap|大腿绑带;long sleeves|长袖;black gloves|黑手套;sidelocks|鬓发",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "赫德雷",
+      "tag": "hoederer (arknights)",
+      "charZh": "赫德雷（明日方舟）",
+      "auto": "black hair|黑发;short hair|短发;golden eyes|金瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "流明",
+      "tag": "lumen (arknights)",
+      "charZh": "流明（明日方舟）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "崖心",
+      "tag": "cliffheart (arknights)",
+      "charZh": "崖心（明日方舟）",
+      "auto": "black hair|黑发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "狮蝎",
+      "tag": "manticore (arknights)",
+      "charZh": "狮蝎（明日方舟）",
+      "auto": "black hair|黑发;short hair|短发;purple eyes|紫瞳;head wings|头翼;pointy ears|尖耳;purple hair|紫发;long hair|长发;scorpion tail|蝎尾;twintails|双马尾;long sleeves|长袖;hairclip|发夹;black jacket|黑夹克;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "伊桑",
+      "tag": "ethan (arknights)",
+      "charZh": "伊桑（明日方舟）",
+      "auto": "black hair|黑发;short hair|短发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "陨星",
+      "tag": "meteorite (arknights)",
+      "charZh": "陨星（明日方舟）",
+      "auto": "red hair|红发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "白雪",
+      "tag": "shirayuki (arknights)",
+      "charZh": "白雪（明日方舟）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "远山",
+      "tag": "gitano (arknights)",
+      "charZh": "远山（明日方舟）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "灰喉",
+      "tag": "greyy (arknights)",
+      "charZh": "灰喉（明日方舟）",
+      "auto": "grey hair|灰发;short hair|短发;grey eyes|灰瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "松果",
+      "tag": "pinecone (arknights)",
+      "charZh": "松果（明日方舟）",
+      "auto": "brown hair|棕发;short hair|短发;glasses|眼镜;long hair|长发;ponytail|马尾;mole under eye|泪痣;feather hair|羽毛状发丝;orange hair|橙发;long sleeves|长袖;black thighhighs|黑过膝袜;garter straps|吊袜带;open jacket|敞开夹克;brown eyes|棕瞳;turtleneck sweater|高领毛衣",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "豆苗",
+      "tag": "beanstalk (arknights)",
+      "charZh": "豆苗（明日方舟）",
+      "auto": "green hair|绿发;short hair|短发;green eyes|绿瞳;hyena ears|鬣狗耳;long hair|长发;animal ears|兽耳;hyena girl|鬣狗娘;red eyes|红瞳;brown hair|棕发;long sleeves|长袖;hair between eyes|眼间刘海;single braid|单麻花辫;metal crab (arknights)|磐蟹;white sweater|白毛衣",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "慕斯",
+      "tag": "mousse (arknights)",
+      "charZh": "慕斯（明日方舟）",
+      "auto": "brown hair|棕发;short hair|短发;cat ears|猫耳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "梅",
+      "tag": "may (arknights)",
+      "charZh": "梅（明日方舟）",
+      "auto": "orange hair|橙发;short hair|短发;glasses|眼镜",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "玫兰莎",
+      "tag": "melantha (arknights)",
+      "charZh": "玫兰莎（明日方舟）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "芬",
+      "tag": "fang (arknights)",
+      "charZh": "芬（明日方舟）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "卡涅利安",
+      "tag": "carnelian (arknights)",
+      "charZh": "卡涅利安（明日方舟）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;horns|角;dark-skinned female|深肤色女性;short hair|短发;goat horns|山羊角;goat ears|山羊耳;white hair|白发;goat girl|羊娘;black gloves|黑手套;long sleeves|长袖;white shirt|白衬衫;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "佩丽卡",
+      "tag": "perlica (arknights)",
+      "charZh": "佩丽卡（明日方舟）",
+      "auto": "white hair|白发;medium hair|中等长发;blue eyes|蓝眼;animal ears|兽耳;jacket|夹克",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "管理员",
+      "tag": "endministrator (arknights)",
+      "charZh": "管理员（明日方舟）",
+      "auto": "grey hair|灰发;short hair|短发;yellow eyes|黄眼;mask|面具;coat|大衣",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "浊心斯卡蒂",
+      "tag": "skadi the corrupting heart (arknights)",
+      "charZh": "浊心斯卡蒂（明日方舟）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳;red dress|红裙;black dress|黑裙;hair ornament|发饰;bare shoulders|露肩;very long hair|超长发;grey hair|灰发;detached sleeves|分离袖;hair between eyes|眼间刘海;long sleeves|长袖;black ascot|黑领巾;navel cutout|肚脐镂空;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "缄默德克萨斯",
+      "tag": "texas the omertosa (arknights)",
+      "charZh": "缄默德克萨斯（明日方舟）",
+      "auto": "black hair|黑发;wolf ears|狼耳;yellow eyes|金瞳;black coat|黑大衣;necktie|领带;white shirt|白衬衫;black vest|黑马甲;blue gloves|蓝手套;long hair|长发;fingerless gloves|露指手套;long sleeves|长袖;blue necktie|蓝领带;blue shorts|蓝短裤;black pantyhose|黑连裤袜;wolf girl|狼娘;animal ear fluff|耳毛",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "铸铁",
+      "tag": "sideroca (arknights)",
+      "charZh": "铸铁（明日方舟）",
+      "auto": "purple hair|紫发;cow ears|牛耳;short hair|短发;cow horns|牛角;navel|肚脐;yellow eyes|黄瞳;open jacket|敞开的夹克;visor cap|遮阳帽;long sleeves|长袖;cow girl|牛娘;blue jacket|蓝色夹克;small breasts|小胸;large breasts|大胸;bare shoulders|露肩;off shoulder|一字肩",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "锏",
+      "tag": "degenbrecher (arknights)",
+      "charZh": "锏（明日方舟）",
+      "auto": "blonde hair|金发;goat horns|羊角;goat ears|羊耳;goat girl|羊娘;hair between eyes|眼间发;very long hair|超长发;yellow eyes|黄瞳;long sleeves|长袖;black gloves|黑色手套;orange shirt|橙色衬衫;black necktie|黑色领带;collared shirt|翻领衬衫;black coat|黑大衣;small breasts|小胸;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "耀骑士临光",
+      "tag": "nearl the radiant knight (arknights)",
+      "charZh": "耀骑士临光（明日方舟）",
+      "auto": "blonde hair|金发;animal ear fluff|兽耳绒毛;horse ears|马耳;headset|耳机/耳麦;long hair|长发;yellow eyes|黄瞳;horse girl|马娘;black gloves|黑色手套;ponytail|马尾;white dress|白色连衣裙;armor|铠甲;small breasts|小胸;implied extra ears|暗示额外耳朵",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "百炼嘉维尔",
+      "tag": "gavial the invincible (arknights)",
+      "charZh": "百炼嘉维尔（明日方舟）",
+      "auto": "green hair|绿发;yellow eyes|黄瞳;navel|肚脐;pointy ears|尖耳;goggles on head|护目镜戴头上;black gloves|黑色手套;crocodilian tail|鳄鱼尾;fingerless gloves|露指手套;ponytail|马尾;long hair|长发;crop top|露脐短衫;stomach|腹部;material growth|源石结晶;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "博士",
+      "tag": "doctor (arknights)",
+      "charZh": "博士（明日方舟）",
+      "auto": "hood up|戴上兜帽;hooded coat|连帽大衣;black visor|黑色面罩;tactical coat|战术大衣;black gloves|黑色手套;androgynous|中性;long sleeves|长袖;brown hair|棕发;animal ear fluff|兽耳绒毛;long hair|长发;dog ears|狗耳;ahoge|呆毛;fox ears|狐耳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "归溟幽灵鲨",
+      "tag": "specter the unchained (arknights)",
+      "charZh": "归溟幽灵鲨（明日方舟）",
+      "auto": "white hair|白发;very long hair|超长发;red eyes|红瞳;gothic dress|哥特连衣裙;black dress|黑色连衣裙;black coat|黑大衣;black gloves|黑色手套;small breasts|小胸;grey hair|灰发;long sleeves|长袖;hair between eyes|眼间刘海;bare shoulders|露肩;black hat|黑帽;detached sleeves|分离袖;black headwear|黑色头饰;black pantyhose|黑连裤袜;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "荒芜拉普兰德",
+      "tag": "lappland the decadenza (arknights)",
+      "charZh": "荒芜拉普兰德（明日方舟）",
+      "auto": "white hair|白发;long hair|长发;grey eyes|灰瞳;wolf ears|狼耳;wolf tail|狼尾;wolf girl|狼娘;black coat|黑大衣;black gloves|黑色手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "焰影苇草",
+      "tag": "reed the flame shadow (arknights)",
+      "charZh": "焰影苇草（明日方舟）",
+      "auto": "blonde hair|金发;long hair|长发;purple eyes|紫瞳;dragon horns|龙角;dragon tail|龙尾;flaming tail|火焰龙尾;white dress|白色连衣裙;black coat|黑大衣;small breasts|小胸;dragon girl|龙娘;white flower|白花;blue eyes|蓝瞳;light in heart|心口发光;ahoge|呆毛;hair flower|发花;black jacket|黑色夹克",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "林",
+      "tag": "lin (arknights)",
+      "charZh": "林（明日方舟）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳;mouse ears|鼠耳;mouse tail|鼠尾;china dress|中式连衣裙;black dress|黑色连衣裙;black gloves|黑色手套;small breasts|小胸;long sleeves|长袖;pink hair|粉发;purple eyes|紫瞳;black hairband|黑发箍;mouse girl|鼠娘;pink eyes|粉瞳;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "鸿雪",
+      "tag": "pozyomka (arknights)",
+      "charZh": "鸿雪（明日方舟）",
+      "auto": "pink hair|粉发;very long hair|超长发;red eyes|红瞳;wolf ears|狼耳;wolf tail|狼尾;pink coat|粉色大衣;fur-trimmed coat|毛皮镶边外套;black gloves|黑色手套;small breasts|小胸;pink eyes|粉瞳;wolf girl|狼娘;red skirt|红裙;hair ornament|发饰;animal ear fluff|耳毛;long hair|长发;cleavage|乳沟;large breasts|大胸;black bra|黑色胸罩",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "莱伊",
+      "tag": "ray (arknights)",
+      "charZh": "莱伊（明日方舟）",
+      "auto": "blonde hair|金发;long hair|长发;rabbit ears|兔耳;green eyes|绿瞳;hooded jacket|连帽夹克;black gloves|黑色手套;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "可露希尔",
+      "tag": "closure (arknights)",
+      "charZh": "可露希尔（明日方舟）",
+      "auto": "black hair|黑发;red eyes|红瞳;fang|虎牙;vampire|吸血鬼;pointy ears|尖耳;white coat|白大衣;glasses|眼镜;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "格拉尼",
+      "tag": "grani (arknights)",
+      "charZh": "格拉尼（明日方舟）",
+      "auto": "grey hair|灰发;horse ears|马耳;long hair|长发;purple eyes|紫瞳;ponytail|马尾;hair between eyes|眼间刘海;armband|臂章;horse girl|马娘;hip vent|侧开叉;horse tail|马尾兽尾",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "红豆",
+      "tag": "vigna (arknights)",
+      "charZh": "红豆（明日方舟）",
+      "auto": "red eyes|红瞳;red hair|红发;pointy ears|尖耳;very long hair|超长发;demon horns|恶魔角;red necktie|红领带;white shirt|白衬衫;horns through headwear|帽上穿角;black hat|黑帽;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "翎羽",
+      "tag": "plume (arknights)",
+      "charZh": "翎羽（明日方舟）",
+      "auto": "brown hair|棕发;short hair|短发;hair between eyes|眼间刘海;ahoge|呆毛;beret|贝雷帽;two-tone hair|双色发;black hat|黑帽;black gloves|黑手套;white hair|白发;yellow eyes|黄瞳;orange eyes|橙瞳",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "焰尾",
+      "tag": "flametail (arknights)",
+      "charZh": "焰尾（明日方舟）",
+      "auto": "red hair|红发;squirrel ears|松鼠耳;squirrel tail|松鼠尾;squirrel girl|松鼠娘;long hair|长发;gambeson|棉甲;brown eyes|棕瞳;holding sword|持剑;red eyes|红瞳;gauntlets|护手甲;thigh strap|大腿绑带",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "红云",
+      "tag": "vermeil (arknights)",
+      "charZh": "红云（明日方舟）",
+      "auto": "blonde hair|金发;fox ears|狐耳;hairclip|发夹;notched ear|缺口耳;short hair|短发;animal ear fluff|耳毛;fox girl|狐娘;orange eyes|橙瞳;fox tail|狐尾;white shirt|白衬衫;hair between eyes|眼间刘海;black shorts|黑短裤;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "流星",
+      "tag": "meteor (arknights)",
+      "charZh": "流星（明日方舟）",
+      "auto": "green eyes|绿瞳;horse ears|马耳;long hair|长发;brown hair|棕发;hair between eyes|眼间刘海;crop top|露脐上衣;ponytail|马尾;long sleeves|长袖;navel|肚脐;stomach|腹部;midriff|腹部",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "远牙",
+      "tag": "fartooth (arknights)",
+      "charZh": "远牙（明日方舟）",
+      "auto": "yellow eyes|黄瞳;grey hair|灰发;black shorts|黑短裤;feather hair|羽毛状发丝;white shirt|白衬衫;long hair|长发;gauntlets|护手甲;visor (armor)|面甲;high-waist shorts|高腰短裤;thigh strap|大腿绑带;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "空弦",
+      "tag": "archetto (arknights)",
+      "charZh": "空弦（明日方舟）",
+      "auto": "blue eyes|蓝瞳;red eyes|红瞳;heterochromia|异色瞳;animal ears|兽耳;blonde hair|金发;long hair|长发;very long hair|超长发;red cape|红披风;white skirt|白裙",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "絮雨",
+      "tag": "whisperain (arknights)",
+      "charZh": "絮雨（明日方舟）",
+      "auto": "purple hair|紫发;purple eyes|紫瞳;hair over one eye|单眼遮刘海;x hair ornament|X形发饰;black dress|黑连衣裙;medical eyepatch|医用眼罩;black gloves|黑手套;short hair|短发;detached sleeves|分离袖;bare shoulders|露肩;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "调香师",
+      "tag": "perfumer (arknights)",
+      "charZh": "调香师（明日方舟）",
+      "auto": "brown hair|棕发;fox ears|狐耳;brown eyes|棕瞳;ponytail|马尾;hair bow|发带蝴蝶结;long hair|长发;blue bow|蓝蝴蝶结;long sleeves|长袖;fox girl|狐娘;white dress|白连衣裙;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "桑葚",
+      "tag": "mulberry (arknights)",
+      "charZh": "桑葚（明日方舟）",
+      "auto": "grey hair|灰发;blue eyes|蓝瞳;goggles on head|头上护目镜;black gloves|黑手套;very long hair|超长发;white dress|白连衣裙;long hair|长发;white shirt|白衬衫;fingerless gloves|露指手套;parted lips|微张嘴",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "苦艾",
+      "tag": "absinthe (arknights)",
+      "charZh": "苦艾（明日方舟）",
+      "auto": "red eyes|红瞳;bear ears|熊耳;short hair|短发;grey hair|灰发;long sleeves|长袖;brown hair|棕发;bear girl|熊娘;black hairband|黑发箍;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "耶拉",
+      "tag": "kjera (arknights)",
+      "charZh": "耶拉（明日方舟）",
+      "auto": "blue eyes|蓝瞳;black hair|黑发;short hair|短发;blue hair|蓝发;white dress|白连衣裙;maid headdress|女仆头饰;large breasts|大胸;bare shoulders|露肩",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "深靛",
+      "tag": "indigo (arknights)",
+      "charZh": "深靛（明日方舟）",
+      "auto": "purple eyes|紫瞳;very long hair|超长发;blonde hair|金发;pointy ears|尖耳;black gloves|黑手套;infection monitor (arknights)|感染监测环;brown hair|棕发;white dress|白连衣裙;white flower|白花;hair ornament|发饰;thigh strap|大腿绑带",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "和弦",
+      "tag": "harmonie (arknights)",
+      "charZh": "和弦（明日方舟）",
+      "auto": "cat ears|猫耳;green eyes|绿瞳;green hair|绿发;animal ear fluff|耳毛;cat tail|猫尾;cat girl|猫娘;long sleeves|长袖;white shirt|白衬衫;black skirt|黑裙;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "蜜蜡",
+      "tag": "beeswax (arknights)",
+      "charZh": "蜜蜡（明日方舟）",
+      "auto": "dark-skinned female|深肤色女性;white hair|白发;yellow eyes|黄瞳;goat horns|山羊角;goat ears|山羊耳;long hair|长发;white dress|白连衣裙;goat girl|羊娘;hair between eyes|眼间刘海;long sleeves|长袖;infection monitor (arknights)|感染监测环;black jacket|黑夹克",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "特米米",
+      "tag": "tomimi (arknights)",
+      "charZh": "特米米（明日方舟）",
+      "auto": "crocodilian tail|鳄鱼尾;pointy ears|尖耳;grey hair|灰发;yellow eyes|黄瞳;ahoge|呆毛;black thighhighs|黑过膝袜;torn thighhighs|破损过膝袜;long hair|长发;white flower|白花;large tail|大尾巴;bare shoulders|露肩;thighs|大腿",
+      "subName": ""
+    },
+    {
+      "game": "明日方舟",
+      "gameTag": "arknights",
+      "name": "罗宾",
+      "tag": "robin (arknights)",
+      "charZh": "罗宾（明日方舟）",
+      "auto": "raccoon ears|浣熊耳;yellow eyes|黄瞳;white shirt|白衬衫;long hair|长发;brown hair|棕发;ponytail|马尾;raccoon girl|浣熊娘;freckles|雀斑;long sleeves|长袖;hair between eyes|眼间刘海;raccoon tail|浣熊尾;animal hands|兽爪手;cross tie|交叉领结",
+      "subName": ""
+    }
+  ],
+  "count": 135
+}

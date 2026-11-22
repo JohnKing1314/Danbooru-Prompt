@@ -1,0 +1,742 @@
+{
+  "id": "foot_action",
+  "name": "脚部动作",
+  "icon": "🦶",
+  "parentId": "action_group",
+  "level": 2,
+  "order": 5,
+  "file": "action_group/action_group_foot_action.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "foot on another's breast",
+      "zh": "踩踏他人胸部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 104,
+      "desc": "把脚踩在他人胸部上的动作",
+      "kw": "脚踩他人胸部 / 用脚踩胸 / 脚踩胸口 / 踩着胸部 / 脚踩胸 / 脚踩在他人的胸部 / 踩胸 / 足踏胸部 / foot on breast / stepping on breasts"
+    },
+    {
+      "en": "spread toes",
+      "zh": "掰开脚趾",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7464,
+      "desc": "脚趾彼此张开的脚",
+      "kw": "脚趾张开 / 张开的脚趾 / 分趾 / 脚趾分开 / 五趾张开 / 脚部 / 姿势 / toe-spread"
+    },
+    {
+      "en": "toe grab",
+      "zh": "脚趾抓握",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60,
+      "desc": "用脚趾夹住某物的动作",
+      "kw": "用脚趾抓 / 脚趾夹取 / 脚趾夹物 / 脚趾捏 / 脚趾拿取 / 脚趾固定"
+    },
+    {
+      "en": "en pointe",
+      "zh": "芭蕾足尖立",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1042,
+      "desc": "芭蕾舞中用脚尖（常穿足尖鞋）站立的姿势。",
+      "kw": "脚尖站立 / 踮脚尖 / 足尖立 / 芭蕾足尖 / 立脚尖 / 足尖舞姿 / 足尖伫立 / 芭蕾舞 / ポワント / つま先立ち"
+    },
+    {
+      "en": "foot dangle",
+      "zh": "双脚悬空下垂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1195,
+      "desc": "坐着时双脚悬空晃荡、够不到地面",
+      "kw": "脚悬空 / 悬挂脚 / 晃脚 / 脚晃荡 / 悬脚 / 脚离地 / 脚耷拉 / 姿势 / dangling feet / 脚部悬挂"
+    },
+    {
+      "en": "soaking feet",
+      "zh": "泡脚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12817,
+      "desc": "把一只或双脚泡在水中的样子",
+      "kw": "浸脚 / 足部浸泡 / 泡双脚 / 把脚泡在水里 / 足浴 / 泡脚丫 / 脚部护理 / 足を浸す"
+    },
+    {
+      "en": "holding with feet",
+      "zh": "用脚夹持",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1561,
+      "desc": "用脚夹住并持着物品",
+      "kw": "脚持物 / 脚夹东西 / 用脚拿东西 / 用脚握住 / 脚拿物品 / 用脚夹住 / 姿势 / foot hold"
+    },
+    {
+      "en": "trampling",
+      "zh": "踩踏",
+      "rating": "q",
+      "nsfw": true,
+      "count": 733,
+      "desc": "角色踩踏、走过或站在他人身上以示支配",
+      "kw": "践踏 / 踩人 / 踏人 / 踩在别人身上 / 踏过 / 踩踏行为 / 足部 / 足部支配"
+    },
+    {
+      "en": "surrounded by feet",
+      "zh": "被脚环绕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 137,
+      "desc": "角色被大量脚包围、踩踏或掩埋。",
+      "kw": "被脚围住 / 脚堆包围 / 四周都是脚 / 被脚踩踏包围 / 脚部 / 恋足"
+    },
+    {
+      "en": "foot pussy",
+      "zh": "足交阴道模拟",
+      "rating": "q",
+      "nsfw": true,
+      "count": 816,
+      "desc": "两脚脚心相贴模拟女性器的姿势",
+      "kw": "脚穴 / 脚底穴 / 足底穴 / 模拟女穴的脚部姿势 / 脚心穴 / 足阴 / 足部 / 性器官"
+    },
+    {
+      "en": "standing on tiptoes reaching for a high shelf",
+      "zh": "踮起脚去够高处的架子",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "crossed ankles",
+      "zh": "脚踝交叉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8540,
+      "desc": "双脚在脚踝处交叠的姿势",
+      "kw": "交叉脚踝 / 双脚交叉于脚踝 / 踝部交叉 / 脚腕交叉 / 双腿在脚踝处交叉 / 交叉腿 / 坐姿"
+    },
+    {
+      "en": "pin legs",
+      "zh": "绷脚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 53,
+      "desc": "性爱中双腿绷直、脚尖下压的姿势，常见于高潮",
+      "kw": "针腿 / 挺直腿 / 双腿绷直 / 脚尖下压 / 高潮腿 / 伸直腿 / 脚背绷直"
+    },
+    {
+      "en": "dorsiflexion",
+      "zh": "足背屈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2032,
+      "desc": "脚背朝小腿方向抬起，脚趾向上的动作。",
+      "kw": "背屈 / 踝背屈 / 脚背屈曲 / 脚背向上 / 勾脚尖 / 脚上勾 / 足部姿势 / toe-point up"
+    },
+    {
+      "en": "pigeon-toed",
+      "zh": "内八字",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15316,
+      "desc": "脚尖向内收，呈内八字站姿或步态。",
+      "kw": "内八字脚 / 内八 / 脚尖朝内 / 脚内扣 / 内扣脚 / 内旋足 / 内收足 / 鸽子趾 / intoed / pigeon toes / pigeon toed / 内股"
+    },
+    {
+      "en": "plantar flexion",
+      "zh": "跖屈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5052,
+      "desc": "脚或脚趾向下绷直，常见于舞蹈。",
+      "kw": "足底屈曲 / 脚尖绷直 / 绷脚尖 / 脚尖下压 / 脚底屈曲 / 足部姿势 / toe-point down / toe-point / 足底屈"
+    },
+    {
+      "en": "toe scrunch",
+      "zh": "蜷趾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7111,
+      "desc": "脚趾向下用力蜷曲的动作",
+      "kw": "脚趾蜷缩 / 蜷脚趾 / 脚趾扣紧 / 脚趾内扣 / 抓地脚趾 / 蜷缩脚趾 / 脚部 / 表情 / toe-scrunch / curled toes / toe curl / clenched toes"
+    },
+    {
+      "en": "bound feet",
+      "zh": "缠足",
+      "rating": "q",
+      "nsfw": true,
+      "count": 341,
+      "desc": "双脚被绳子等束缚在一起",
+      "kw": "双脚被缚 / 绑住双脚 / 捆绑双脚 / 双足捆绑 / 脚被绑住 / 捆脚 / 缚足"
+    },
+    {
+      "en": "bound toes",
+      "zh": "捆绑脚趾",
+      "rating": "q",
+      "nsfw": true,
+      "count": 699,
+      "desc": "脚趾被绳带等束缚，常见两脚大脚趾互绑",
+      "kw": "束缚的脚趾 / 脚趾束缚 / 绑住脚趾 / 大脚趾互绑 / 捆绑 / 脚部"
+    },
+    {
+      "en": "kick",
+      "zh": "踢腿",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tiptoeing",
+      "zh": "踮脚",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "standing in a shallow river with feet in the water",
+      "zh": "站在浅溪里双脚浸在水里",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bare feet on a wooden floor",
+      "zh": "赤脚踩在木地板上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "uneven footing",
+      "zh": "高低脚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 549,
+      "desc": "双脚分别站在不同高度的立足点",
+      "kw": "不稳立足点 / 不平衡站姿 / 一脚踩物 / 脚踩物体 / 跨步站姿 / 高低站姿 / 不平稳站立 / 立足不稳 / captain morgan pose / foot on object"
+    },
+    {
+      "en": "tiptoes",
+      "zh": "踮脚尖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19015,
+      "desc": "用脚尖支撑身体保持平衡的姿势",
+      "kw": "踮着脚 / 脚尖站立 / 踮脚站立 / 垫脚 / 踮起脚尖 / 脚尖着地 / 踮足 / tiptoe / tip-toes / tip toes / tip-toe"
+    },
+    {
+      "en": "footjob",
+      "zh": "足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 11905,
+      "desc": "用脚刺激阴茎的性行为，可赤脚或穿着袜子/裤袜。",
+      "kw": "脚交 / 足责 / 用脚刺激 / 脚淫 / 足部服务 / 脚侍奉 / 足部 / 性行为 / ashikoki / 足コキ"
+    },
+    {
+      "en": "double footjob",
+      "zh": "双人足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 157,
+      "desc": "一人同时给两个不同对象进行足交。",
+      "kw": "同时给两个人足交 / 一人同时为两人足交 / 一对二足交 / 同时侍奉两人足交 / 足交 / 性行为"
+    },
+    {
+      "en": "implied footjob",
+      "zh": "暗示足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 150,
+      "desc": "看不到阴茎但暗示正在足交",
+      "kw": "隐晦足交 / 足交暗示 / 足交未露点 / 暗示中足交 / 足交 / 性暗示"
+    },
+    {
+      "en": "cooperative footjob",
+      "zh": "多人足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 392,
+      "desc": "多人同时用脚对同一人足交",
+      "kw": "双人足交 / 共同足交 / 合作足交 / W足交 / 足交 / 性行为 / multiple footjob / w足コキ"
+    },
+    {
+      "en": "footjob with footwear",
+      "zh": "穿鞋足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 862,
+      "desc": "穿着鞋子、靴子或凉鞋进行的足交。",
+      "kw": "穿着鞋足交 / 鞋足交 / 穿鞋足交玩法 / 靴足交 / 鞋底足交 / 性行为 / 鞋子足交 / 足交"
+    },
+    {
+      "en": "footjob with shoes",
+      "zh": "穿鞋足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 413,
+      "desc": "穿着鞋进行的足交，不含靴子和凉鞋。",
+      "kw": "鞋交 / 鞋子足交 / 用鞋足交 / 隔鞋足交 / 性行为 / 普通鞋足交 / shoejob"
+    },
+    {
+      "en": "footjob with boots",
+      "zh": "穿靴足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 350,
+      "desc": "穿着靴子进行的足交",
+      "kw": "靴子足交 / 靴足交 / 穿靴子足交 / 用靴子足交 / 着靴足交 / 靴交 / 长靴足交 / 皮靴足交 / bootjob"
+    },
+    {
+      "en": "footjob with sandals",
+      "zh": "凉鞋足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 92,
+      "desc": "穿着凉鞋进行的足交",
+      "kw": "穿凉鞋足交 / 凉拖足交 / 拖鞋足交 / 穿着凉鞋的足交 / sandaljob"
+    },
+    {
+      "en": "footjob with legwear",
+      "zh": "带袜足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4437,
+      "desc": "角色穿着袜子、裤袜等腿衣进行足交。",
+      "kw": "着袜足交 / 丝袜足交 / 裤袜足交 / 袜足交 / 穿丝袜足交 / 穿裤袜足交 / 腿衣足交 / 穿着袜子足交 / footjob with socks on / footjob with thighhighs on"
+    },
+    {
+      "en": "two-footed footjob",
+      "zh": "双脚足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7434,
+      "desc": "一人用双脚同时进行的足交",
+      "kw": "双足足交 / 两脚足交 / 双脚并用足交 / 双足搓弄 / 两足足交 / 足交"
+    },
+    {
+      "en": "reverse footjob",
+      "zh": "逆足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 652,
+      "desc": "脚心朝上踩踏的逆向足交",
+      "kw": "逆向足交 / 仰面足交 / 脚心向上足交 / 反向足底服务 / 足交 / 成人行为"
+    },
+    {
+      "en": "footjob from behind",
+      "zh": "背后位足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 303,
+      "desc": "从背后绕过腰用脚进行的足交",
+      "kw": "从背后足交 / 后位足交 / 背后脚交 / 股后足交 / 足交 / 性行为"
+    },
+    {
+      "en": "female footjob",
+      "zh": "女性足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 317,
+      "desc": "用脚摩擦女性外阴的性行为。",
+      "kw": "女受足交 / 女女足交 / 足交女性 / 用脚摩擦女性阴部 / 女性受方足交 / 给女性足交 / 足交（女） / foot on pussy / 足マン"
+    },
+    {
+      "en": "footjob under table",
+      "zh": "桌下足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 172,
+      "desc": "在桌子下方进行的足交。",
+      "kw": "桌底足交 / 桌子下面足交 / 桌下用脚 / 台底足交 / 桌下脚交 / 足交 / 桌下 / 性行为"
+    },
+    {
+      "en": "simulated footjob",
+      "zh": "模拟足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 490,
+      "desc": "对瓶子、香蕉等棒状物做出足交动作",
+      "kw": "假足交 / 仿足交 / 道具足交 / 足交动作模拟 / 足交 / 模拟"
+    },
+    {
+      "en": "after footjob",
+      "zh": "足交后",
+      "rating": "q",
+      "nsfw": true,
+      "count": 385,
+      "desc": "足交刚结束后的场景",
+      "kw": "足交结束 / 足交之后 / 刚足交完 / 足交事后 / 足交 / 性行为"
+    },
+    {
+      "en": "foot worship",
+      "zh": "恋足",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1244,
+      "desc": "对他人脚部的崇拜行为，常见于BDSM或女性主导情境",
+      "kw": "足崇拜 / 足部崇拜 / 拜脚 / 恋足崇拜 / 足控 / 恋足癖"
+    },
+    {
+      "en": "stepped on",
+      "zh": "被踩",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3451,
+      "desc": "一个角色踩在另一个角色身上。",
+      "kw": "踩着 / 被人踩 / 被踩在脚下 / 踩在身下 / 脚踩 / 踩人 / 被脚踩 / stepping on person"
+    },
+    {
+      "en": "kicking",
+      "zh": "踢",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15950,
+      "desc": "用腿或脚踢击人或物体",
+      "kw": "踢击 / 脚踢 / 踹 / 踢腿 / BDSM / 折磨 / 动词 / 动名词 / kick / 蹴り / キック"
+    },
+    {
+      "en": "kneeing",
+      "zh": "膝击",
+      "rating": "g",
+      "nsfw": false,
+      "count": 326,
+      "desc": "格斗中用膝盖顶撞对手的攻击动作，区别于下跪",
+      "kw": "膝撞 / 膝顶 / 膝盖攻击 / 膝盖顶 / 膝撞攻击 / 用膝盖撞击 / 格斗动作 / 攻击 / knee kick"
+    },
+    {
+      "en": "walking through a rain soaked street at night",
+      "zh": "夜里走过被雨打湿的街道",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "running through a field of tall grass",
+      "zh": "跑过一片高高的草地",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "eating ice cream while walking along the beach",
+      "zh": "沿着海边走边吃冰淇淋",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "walking away down a long empty corridor",
+      "zh": "沿着空荡的长廊走远",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "walk cycle",
+      "zh": "走路循环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 186,
+      "desc": "角色行走动作的短循环动画",
+      "kw": "行走循环 / 步行循环动画 / 走路动画循环 / 行走动作循环 / 步行动画循环 / 走路循环动画 / 姿势"
+    },
+    {
+      "en": "sliding",
+      "zh": "滑行",
+      "rating": "g",
+      "nsfw": false,
+      "count": 788,
+      "desc": "在表面上滑行的动作，因摩擦小或表面倾斜",
+      "kw": "打滑 / 滑倒 / 滑溜 / 溜滑 / 滑移 / 动作 / 姿势"
+    },
+    {
+      "en": "slipping",
+      "zh": "滑倒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 525,
+      "desc": "因地面湿滑而失去平衡",
+      "kw": "脚滑 / 滑了一跤 / 失足滑倒 / 地滑摔倒 / 滑落 / 滑跤 / 动作"
+    },
+    {
+      "en": "stepping",
+      "zh": "踩踏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41
+    },
+    {
+      "en": "stomping",
+      "zh": "踩踏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1251,
+      "desc": "角色正用力踩踏人或物的动作",
+      "kw": "猛踩 / 践踏 / 用力踩 / 跺踏 / 动作 / stomp"
+    },
+    {
+      "en": "swinging legs",
+      "zh": "晃腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 266,
+      "desc": "双腿前后摆动的动作，多为不对称",
+      "kw": "摆动双腿 / 前后摆腿 / 摇晃的腿 / 晃动双腿 / 摆荡的腿 / 双腿晃动 / 摇晃双腿"
+    },
+    {
+      "en": "wading",
+      "zh": "涉水",
+      "rating": "g",
+      "nsfw": false,
+      "count": 56273,
+      "desc": "在水深不及腰的水中站立或行走。",
+      "kw": "淌水 / 水中行走 / 水中漫步 / 水中站立 / 涉水行走 / 蹚水玩 / 动词 / walking in liquid / standing in liquid / 水遊び"
+    },
+    {
+      "en": "rope walking",
+      "zh": "胯下绳上行走",
+      "rating": "q",
+      "nsfw": true,
+      "count": 300,
+      "desc": "BDSM中让女性跨坐或骑在紧绷绳子上行走",
+      "kw": "绳上行走 / 走绳索 / 股绳行走 / 胯下走绳 / 跨绳行走 / 骑绳行走 / 胯部绳上行走 / 胯部绳上行走 / 綱渡り"
+    },
+    {
+      "en": "marching",
+      "zh": "行进",
+      "rating": "g",
+      "nsfw": false,
+      "count": 269,
+      "desc": "一群人按节拍整齐向前行进的队伍",
+      "kw": "行军 / 列队行进 / 齐步走 / 游行队伍 / 行进队列 / 动词 / 动名词 / 队列行进"
+    },
+    {
+      "en": "walking on wall",
+      "zh": "墙上行走",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49
+    },
+    {
+      "en": "skating",
+      "zh": "溜冰/滑冰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1201,
+      "desc": "穿旱冰鞋或冰刀滑行",
+      "kw": "溜冰 / 旱冰 / 轮滑 / 冰上滑行 / 溜旱冰 / 运动 / 冰上运动"
+    },
+    {
+      "en": "figure skating",
+      "zh": "花样滑冰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 824,
+      "desc": "在冰面上按编排表演的竞技滑冰",
+      "kw": "花滑 / 花样溜冰 / 花式滑冰 / 滑冰 / 运动 / フィギュアスケート"
+    },
+    {
+      "en": "ice skating",
+      "zh": "滑冰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 850,
+      "desc": "穿冰刀在冰面滑行，可娱乐或竞技。",
+      "kw": "冰上滑冰 / 冰刀滑冰 / 花样滑冰 / 冰上运动 / 速度滑冰 / 运动 / 冰上 / アイススケート / スケート"
+    },
+    {
+      "en": "grape stomping",
+      "zh": "踩葡萄",
+      "rating": "g",
+      "nsfw": false,
+      "count": 101,
+      "desc": "用脚踩碎葡萄的传统酿酒工序",
+      "kw": "脚踏葡萄 / 葡萄压榨 / 踩榨葡萄 / 葡萄踩碎 / 脚踩酿酒葡萄 / 食物 / 酿酒"
+    },
+    {
+      "en": "crotch kick",
+      "zh": "踢裆部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 508,
+      "desc": "踢或顶对方裆部的动作。",
+      "kw": "踢下身 / 踢下体 / 踹裆 / 撩阴腿 / 裆部攻击 / 膝盖顶裆 / 踢命根子 / groin kick / 金蹴り"
+    },
+    {
+      "en": "cunt punt",
+      "zh": "踢阴部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 122,
+      "desc": "踢击女性下体或胯部",
+      "kw": "踢阴 / 踢裆 / 踢下体 / 踹逼 / 暴力"
+    },
+    {
+      "en": "feet on chair",
+      "zh": "脚搭在椅子上",
+      "rating": "g",
+      "count": 898,
+      "desc": "把脚搭在自己坐的椅子上",
+      "kw": "脚放椅子上 / 脚搁在椅子上 / 脚踩在椅子上 / 脚放在座椅上 / 脚踩座椅 / 脚放在椅子上 / 坐姿 / 脚部 / foot on chair"
+    },
+    {
+      "en": "feet on table",
+      "zh": "脚搭在桌上",
+      "rating": "g",
+      "count": 1043,
+      "desc": "把脚搭在桌子等家具上",
+      "kw": "脚放桌上 / 脚搁桌上 / 脚踩桌子 / 脚翘桌上 / 脚在桌子上 / 脚搭桌子 / 脚放在桌上 / 姿势 / feet on desk"
+    },
+    {
+      "en": "feet up",
+      "zh": "翘起双脚",
+      "rating": "g",
+      "count": 13077,
+      "desc": "双脚离开地面抬起。",
+      "kw": "双脚抬起 / 脚翘起 / 抬脚 / 腿翘起 / 脚离地 / 双脚离地 / 翘脚 / 脚悬空"
+    },
+    {
+      "en": "fleeing",
+      "zh": "逃跑中",
+      "rating": "g",
+      "count": 4598,
+      "desc": "正在逃跑或躲避危险",
+      "kw": "逃走 / 逃离 / 逃窜 / 逃亡 / 奔逃 / 躲避 / 跑路 / run away / running away / escape / escaping"
+    },
+    {
+      "en": "flying kick",
+      "zh": "飞踢",
+      "rating": "g",
+      "count": 2035,
+      "desc": "人在腾空状态下踢出的腿法",
+      "kw": "飞腿 / 腾空踢 / 跳踢 / 凌空踢 / 飞跃踢 / 动作 / 格斗 / jump kick / 飛び蹴り / とびげり"
+    },
+    {
+      "en": "foot on another's face",
+      "zh": "脚踩他人脸",
+      "rating": "s",
+      "count": 591,
+      "desc": "把脚踩在他人的脸上",
+      "kw": "踩脸 / 脚踩脸 / 用脚踩脸 / 脚底踩脸 / 脚丫踩脸 / 踩在别人脸上 / 支配 / 姿势 / foot smother / foot on face / foot in another's face"
+    },
+    {
+      "en": "foot on another's head",
+      "zh": "脚踩他人头",
+      "rating": "s",
+      "count": 744,
+      "desc": "把脚踩在他人的头上",
+      "kw": "脚踩头 / 踩人头 / 脚踩他人头部 / 用脚踩头 / 脚踏头 / 脚踩他人头上 / 践踏 / 支配姿势 / foot on head"
+    },
+    {
+      "en": "foot on head",
+      "zh": "踩头",
+      "rating": "s",
+      "count": 621,
+      "desc": "一个人将脚踩在另一个人的头上。",
+      "kw": "踩在头上 / 姿势 / 支配"
+    },
+    {
+      "en": "foot up",
+      "zh": "抬脚",
+      "rating": "g",
+      "count": 5972,
+      "desc": "已弃用的标签。请改用其他标签代替。",
+      "kw": "姿势 / 动作"
+    },
+    {
+      "en": "foot up heel up",
+      "zh": "抬脚抬跟",
+      "rating": "g",
+      "count": 975,
+      "desc": "单脚抬起、脚跟朝上的站姿或跪姿",
+      "kw": "脚跟抬起 / 踮脚 / 抬脚跟 / 翘脚跟 / 抬脚后跟 / 单脚脚跟抬起 / 单脚姿势 / 腿部姿势"
+    },
+    {
+      "en": "footjob over clothes",
+      "zh": "隔衣足交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 537,
+      "desc": "隔着衣物进行的足交",
+      "kw": "隔着衣服足交 / 隔裤足交 / 衣物上足交 / 穿着衣服足交 / 隔衣腿交 / 足交"
+    },
+    {
+      "en": "heel up",
+      "zh": "脚跟抬起",
+      "rating": "g",
+      "count": 4603,
+      "desc": "双脚着地时一只脚跟抬起。",
+      "kw": "抬脚跟 / 脚跟翘起 / 脚后跟抬起 / 踮脚跟 / 提踵 / 脚后跟离地 / 垫脚站姿 / 踮脚 / heel raised"
+    },
+    {
+      "en": "high kick",
+      "zh": "高抬腿踢",
+      "rating": "g",
+      "count": 2752,
+      "desc": "踢到腰部以上的高踢",
+      "kw": "高踢 / 高位踢 / 上段踢 / 高踢击 / 踢腿 / 动作 / 武术 / ハイキック"
+    },
+    {
+      "en": "hooked on heel",
+      "zh": "鞋跟勾住衣物",
+      "rating": "s",
+      "count": 634,
+      "desc": "高跟鞋跟勾住衣物，多为内裤的状态",
+      "kw": "鞋跟勾衣 / 高跟鞋跟挂住衣物 / 鞋跟勾住内裤 / 高跟挂衣 / 鞋跟卡衣物 / 钩在脚后跟上 / 姿势"
+    },
+    {
+      "en": "running towards viewer",
+      "zh": "奔向观众",
+      "rating": "g",
+      "count": 501,
+      "desc": "角色朝观看者方向奔跑",
+      "kw": "跑向观众 / 冲向观众 / 朝观看者跑来 / 迎面跑来 / 向屏幕跑来 / 跑向屏幕 / 正面奔跑"
+    },
+    {
+      "en": "shoe dangle",
+      "zh": "鞋子悬空",
+      "rating": "g",
+      "count": 4696,
+      "desc": "用脚趾勾着鞋子使其悬空晃动。",
+      "kw": "脚趾勾鞋 / 鞋晃荡 / 鞋悬空 / 吊鞋 / 脚后跟离鞋 / 鞋子晃悠 / 挂着的鞋子 / 鞋子 / flats dangling / heels dangling / 脚后跟离鞋（悬空）"
+    },
+    {
+      "en": "shoejob",
+      "zh": "鞋交",
+      "rating": "q",
+      "nsfw": true,
+      "count": 757,
+      "desc": "穿着鞋子（如高跟鞋、靴子、运动鞋等）进行足交行为",
+      "kw": "足部性交"
+    },
+    {
+      "en": "spinning bird kick",
+      "zh": "回旋鹤脚踢",
+      "rating": "g",
+      "count": 143,
+      "desc": "春丽的招式，腾空后双腿旋转踢击",
+      "kw": "旋转鸟踢 / 回鸟脚 / 春丽回旋鹤脚踢 / 春丽鸟踢 / 旋鸟踢 / 倒跃旋风踢 / 格斗姿势 / 街霸"
+    },
+    {
+      "en": "stomping viewer",
+      "zh": "踩踏观看者",
+      "rating": "s",
+      "count": 803,
+      "desc": "角色踩下或正要踩向画面外的观看者",
+      "kw": "踩踏观众 / 踩向观众 / 踩踏视角 / POV踩踏 / 踩镜头 / 踩踏观众视角 / 第四面墙破坏 / pov stomped"
+    },
+    {
+      "en": "toe-point",
+      "zh": "绷脚尖",
+      "rating": "g"
+    },
+    {
+      "en": "tripping",
+      "zh": "被绊倒",
+      "rating": "g",
+      "count": 3761,
+      "desc": "行走或奔跑时绊到东西摔倒",
+      "kw": "摔倒 / 跌倒 / 绊跤 / 动作 / trip / tripped / 躓く / つまづく"
+    },
+    {
+      "en": "walking on liquid",
+      "zh": "在液体上行走",
+      "rating": "g",
+      "count": 1210,
+      "desc": "角色在液体表面行走，多为水面。",
+      "kw": "水上行走 / 在水面行走 / 踏水而行 / 液体上行走 / 水面行走 / 奇迹 / walking on water"
+    }
+  ]
+}

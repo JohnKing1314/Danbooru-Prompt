@@ -1,0 +1,12 @@
+{
+  "id": "film",
+  "icon": "🎬",
+  "name": "电影剧照",
+  "desc": "35mm 胶片质感 + 浅景深",
+  "tags": "1girl|一个女孩;cinematic film still|电影感剧照;film still|电影剧照;35mm film photo|35mm 胶片照片;depth of field|景深;moody atmosphere|氛围感",
+  "layout": {
+    "tpl": "single",
+    "size": "1536x1024"
+  },
+  "builtin": true
+}

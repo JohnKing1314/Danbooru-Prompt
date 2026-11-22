@@ -1,0 +1,12 @@
+{
+  "id": "sheet",
+  "icon": "📋",
+  "name": "角色设定卡",
+  "desc": "全身立绘 + 多视图 + 白底，适合做角色卡",
+  "tags": "1girl|一个女孩;solo|单人;character sheet|角色设定表;full body|全身;multiple views|多视图;white background|白色背景;clean lineart|干净线条;best quality|最佳质量;looking at viewer|看向观者",
+  "layout": {
+    "tpl": "single",
+    "size": "1024x1024"
+  },
+  "builtin": true
+}

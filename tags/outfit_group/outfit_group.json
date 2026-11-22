@@ -1,0 +1,110 @@
+{
+  "id": "outfit_group",
+  "name": "服饰",
+  "icon": "👗",
+  "level": 1,
+  "order": 4,
+  "file": "outfit_group/outfit_group.json",
+  "subDir": "outfit_group",
+  "updatedAt": "2026-11-18T05:36:30.177Z",
+  "children": [
+    {
+      "id": "headwear",
+      "name": "头部",
+      "icon": "👑",
+      "order": 1,
+      "file": "outfit_group/outfit_group_headwear.json"
+    },
+    {
+      "id": "eyewear",
+      "name": "眼部",
+      "icon": "👓",
+      "order": 2,
+      "file": "outfit_group/outfit_group_eyewear.json"
+    },
+    {
+      "id": "neckwear",
+      "name": "颈部",
+      "icon": "🧣",
+      "order": 3,
+      "file": "outfit_group/outfit_group_neckwear.json"
+    },
+    {
+      "id": "handwear",
+      "name": "手部",
+      "icon": "🧤",
+      "order": 4,
+      "file": "outfit_group/outfit_group_handwear.json"
+    },
+    {
+      "id": "shoulderwear",
+      "name": "肩部",
+      "icon": "🧥",
+      "order": 5,
+      "file": "outfit_group/outfit_group_shoulderwear.json"
+    },
+    {
+      "id": "chestwear",
+      "name": "胸部",
+      "icon": "👙",
+      "order": 6,
+      "file": "outfit_group/outfit_group_chestwear.json"
+    },
+    {
+      "id": "upper_body",
+      "name": "上半身",
+      "icon": "👚",
+      "order": 7,
+      "file": "outfit_group/outfit_group_upper_body.json"
+    },
+    {
+      "id": "lower_body",
+      "name": "下半身",
+      "icon": "👖",
+      "order": 8,
+      "file": "outfit_group/outfit_group_lower_body.json"
+    },
+    {
+      "id": "underwear",
+      "name": "内衣",
+      "icon": "🩲",
+      "order": 9,
+      "file": "outfit_group/outfit_group_underwear.json"
+    },
+    {
+      "id": "hipwear",
+      "name": "臀部",
+      "icon": "🎀",
+      "order": 10,
+      "file": "outfit_group/outfit_group_hipwear.json"
+    },
+    {
+      "id": "legwear",
+      "name": "腿部",
+      "icon": "🧦",
+      "order": 11,
+      "file": "outfit_group/outfit_group_legwear.json"
+    },
+    {
+      "id": "pattern",
+      "name": "印花与纹饰",
+      "icon": "🎨",
+      "order": 11,
+      "file": "outfit_group/outfit_group_pattern.json"
+    },
+    {
+      "id": "footwear",
+      "name": "脚部",
+      "icon": "👠",
+      "order": 12,
+      "file": "outfit_group/outfit_group_footwear.json"
+    },
+    {
+      "id": "accessory",
+      "name": "配饰",
+      "icon": "💍",
+      "order": 13,
+      "file": "outfit_group/outfit_group_accessory.json"
+    }
+  ]
+}

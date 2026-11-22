@@ -1,0 +1,2201 @@
+{
+  "id": "eyes",
+  "name": "眼睛",
+  "icon": "👁",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 8,
+  "file": "character_base/character_base_eyes.json",
+  "updatedAt": "2026-11-22T12:39:36.669Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "aqua eyes",
+      "zh": "青绿色眼睛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 262192,
+      "desc": "蓝绿色的眼睛，涵盖青绿/水蓝/绿松石色。",
+      "kw": "水色眼睛 / 蓝绿色眼睛 / 青色瞳孔 / 水蓝瞳 / 蓝绿瞳 / 青瞳 / 眼睛 / cyan eyes / teal eyes / turquoise eyes"
+    },
+    {
+      "en": "sharp gaze",
+      "zh": "锐利凝视",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "green eyes",
+      "zh": "绿瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1228218,
+      "desc": "绿色眼睛的角色",
+      "kw": "绿色眼睛 / 绿眼 / 绿眸 / 翠眼 / 碧眼 / 绿色瞳孔 / 绿眼睛 / 翠绿色眼睛 / green-eyes / greeneyes / 绿目 / 緑眼"
+    },
+    {
+      "en": "blue eyes",
+      "zh": "蓝瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2532565,
+      "desc": "角色眼睛为蓝色",
+      "kw": "蓝色眼睛 / 碧眼 / 青眼 / 湛蓝眼 / 蓝眸 / 蓝色眸子 / 碧蓝眼 / blueeyes / light blue eyes / 青目 / 青い目"
+    },
+    {
+      "en": "red eyes",
+      "zh": "红瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1822320,
+      "desc": "角色眼睛为红色",
+      "kw": "红色眼睛 / 赤眼 / 红眸 / 赤瞳 / 血红眼 / 红眼珠 / 红眼睛 / red eye / redeyes / 赤目 / 赤い目"
+    },
+    {
+      "en": "golden eyes",
+      "zh": "金瞳",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "yellow eyes",
+      "zh": "黄瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1054212,
+      "desc": "眼睛为黄色/金色",
+      "kw": "黄色眼睛 / 黄眼 / 金瞳 / 金色眼睛 / 金眼 / 琥珀色眼睛 / 黄金眼 / 金色瞳孔 / golden eyes / amber eyes / gold eyes / hazel eyes"
+    },
+    {
+      "en": "purple eyes",
+      "zh": "紫瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1235579,
+      "desc": "紫色眼睛的角色",
+      "kw": "紫色眼睛 / 紫眼 / 紫眸 / 紫色瞳孔 / 紫目 / 紫眼色 / 紫眼睛 / 眼色 / light purple eyes / purpleeyes / violet eyes"
+    },
+    {
+      "en": "pink eyes",
+      "zh": "粉瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 444544,
+      "desc": "眼睛为粉色的角色，与紫瞳、红瞳可能有重叠",
+      "kw": "粉色眼睛 / 粉红色眼睛 / 粉红瞳 / 桃色眼睛 / 桃眼 / 粉眼 / 粉红色眼瞳 / 眼睛"
+    },
+    {
+      "en": "brown eyes",
+      "zh": "棕瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1112797,
+      "desc": "棕色眼睛的角色",
+      "kw": "棕色眼睛 / 棕眼 / 褐眼 / 茶色眼睛 / 茶色瞳孔 / 棕褐色眼睛 / 咖啡色眼睛 / 浅棕眼睛 / browneyes / light brown eyes / 茶目"
+    },
+    {
+      "en": "black eyes",
+      "zh": "黑瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 350247,
+      "desc": "瞳孔/虹膜为黑色的眼睛。",
+      "kw": "黑眼 / 黑色眼睛 / 黑眼睛 / 黑眼球 / 黑眸 / 瞳色 / 眼部 / dark eyes / 黑目 / 黒目"
+    },
+    {
+      "en": "grey eyes",
+      "zh": "灰瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 299393,
+      "desc": "瞳色为灰色。",
+      "kw": "灰色眼睛 / 灰眼 / 银灰色眼睛 / 灰眸 / 灰眼睛 / 瞳色 / gray eyes / silver eyes / 灰色の瞳"
+    },
+    {
+      "en": "silver eyes",
+      "zh": "银瞳",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "orange eyes",
+      "zh": "橙瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 264426,
+      "desc": "瞳孔呈橙色的角色。",
+      "kw": "橙色眼睛 / 橙眼 / 橘色眼睛 / 橘色瞳孔 / 橙色瞳孔 / 瞳色 / オレンジ目 / おれんじめ"
+    },
+    {
+      "en": "sharp eyes",
+      "zh": "锐利眼神",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "long eyelashes",
+      "zh": "长睫毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13183,
+      "desc": "明显加长的睫毛。",
+      "kw": "长眼睫毛 / 浓密长睫毛 / 纤长睫毛 / 睫毛很长 / 长翘睫毛 / 长睫 / 眼睫毛长 / 睫毛"
+    },
+    {
+      "en": "third eye",
+      "zh": "第三只眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13787,
+      "desc": "角色额外长出的第三只眼，位置不一定在头部",
+      "kw": "第三眼 / 三眼 / 天眼 / 额眼 / 第三目 / 眼睛 / 超自然 / 额外眼睛 / 3rd eye / 第三の目 / サードアイ"
+    },
+    {
+      "en": "slit pupils",
+      "zh": "竖瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 95262,
+      "desc": "瞳孔呈竖直或水平细缝状",
+      "kw": "竖眼 / 猫眼 / 蛇眼 / 竖立瞳孔 / 细缝瞳孔 / 裂瞳 / 狭长瞳孔 / 蜥蜴眼 / cat eyes / snake eyes / 猫目 / 猫瞳"
+    },
+    {
+      "en": "heart-shaped pupils",
+      "zh": "心形瞳",
+      "rating": "s",
+      "nsfw": false,
+      "count": 123529,
+      "desc": "瞳孔呈心形，常表迷恋或性兴奋",
+      "kw": "心形眼瞳 / 爱心瞳孔 / 爱心眼瞳 / 心形瞳仁 / 心型瞳孔 / 爱心瞳 / 眼睛 / heart shaped pupils / 目がハート / 目にハート / ハート目"
+    },
+    {
+      "en": "symbol-shaped pupils",
+      "zh": "符号瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 259611,
+      "desc": "瞳孔形状为符号或物品，而非普通圆瞳。",
+      "kw": "符号瞳孔 / 异形瞳孔 / 特殊形状瞳孔 / 形状瞳孔 / 花纹瞳孔 / 眼睛 / 特殊瞳孔 / symbol shaped pupils / 柄目 / 瞳孔形状"
+    },
+    {
+      "en": "glowing eyes",
+      "zh": "发光的眼睛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 63954,
+      "desc": "双眼发光，可表示特殊能力或情绪",
+      "kw": "发光眼睛 / 眼光 / 双眼发光 / 眼睛放光 / 亮眼 / 辉眼 / 眼睛亮光 / 眼放光"
+    },
+    {
+      "en": "empty eyes",
+      "zh": "空洞眼神",
+      "rating": "g",
+      "nsfw": false,
+      "count": 51860,
+      "desc": "没有高光、空洞无神的眼睛",
+      "kw": "空洞眼 / 无神眼 / 死鱼眼 / 无高光眼 / 呆滞眼神 / 失神眼 / 空虚眼神 / 目死 / dead eyes / レイプ目 / 虚ろ目 / ベタ目"
+    },
+    {
+      "en": "wide eyes",
+      "zh": "大眼睛",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "narrow eyes",
+      "zh": "细长眼",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "white eyes",
+      "zh": "白眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29156,
+      "desc": "眼睛为白色，区别于全白无瞳眼",
+      "kw": "白眼睛 / 白色瞳孔 / 白色虹膜 / 银白色眼睛 / 眼睛 / 表情"
+    },
+    {
+      "en": "heterochromia",
+      "zh": "异色瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 178650,
+      "desc": "双眼虹膜颜色不同",
+      "kw": "异瞳 / 双色瞳 / 虹膜异色症 / 虹彩异色症 / 两色瞳 / 鸳鸯眼 / 异色眼睛 / 眼睛特征 / odd eye / オッドアイ / ヘテロクロミア / 虹彩異色症"
+    },
+    {
+      "en": "multicolored eyes",
+      "zh": "多色瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69434,
+      "desc": "同一只眼睛的虹膜具有多种颜色，区别于异色瞳。",
+      "kw": "多色眼 / 多色瞳孔 / 多彩眼睛 / 彩色瞳孔 / 多色虹膜 / 混色眼 / 单眼多色 / 单瞳多色"
+    },
+    {
+      "en": "gradient eyes",
+      "zh": "渐变色眼睛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13948,
+      "desc": "眼色平滑渐变，常见于申鹤、三月七等角色",
+      "kw": "渐变眼睛 / 渐变色瞳孔 / 渐变色眼 / 色彩渐变眼睛 / 渐变眼瞳 / 渐变眼 / 眼睛"
+    },
+    {
+      "en": "rainbow eyes",
+      "zh": "彩虹瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 759,
+      "desc": "眼睛呈彩虹色的角色",
+      "kw": "彩虹眼睛 / 彩虹眼 / 彩虹色瞳 / 七彩眼睛 / 虹色眼睛 / 虹彩眼睛 / 眼睛"
+    },
+    {
+      "en": "two-tone eyes",
+      "zh": "双色瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20707,
+      "desc": "同一只眼睛内有两种明显不同的颜色。",
+      "kw": "双色眼 / 双色瞳孔 / 二色眼 / 双色眼睛 / 混色瞳 / 异色瞳 / 眼睛 / 双瞳色"
+    },
+    {
+      "en": "_@",
+      "zh": "蚊香眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 58531,
+      "desc": "眼睛呈漩涡状，表示混乱、眩晕或喝醉。",
+      "kw": "漩涡眼 / 晕眩眼 / 混乱眼 / 转圈眼 / 螺旋眼 / 眩晕眼 / 眼花 / al bhed eyes / spiral eyes / swirly eyes / 涡目"
+    },
+    {
+      "en": "mismatched irises",
+      "zh": "虹膜大小不一",
+      "rating": "g",
+      "nsfw": false,
+      "count": 232,
+      "desc": "两眼虹膜大小或形状明显不同",
+      "kw": "不对称虹膜 / 虹膜异形 / 虹膜形状不同 / 虹膜大小不同 / 异虹膜 / 虹膜异色 (异瞳) / 眼睛特征 / asymmetrical irises"
+    },
+    {
+      "en": "dashed eyes",
+      "zh": "虚线眼",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2637,
+      "desc": "眼中出现横线，多表示强烈快感。",
+      "kw": "眼中横线 / 眼睛横线 / 虚线眼睛 / 横线眼 / 眼睛有横线 / 眼神横线 / 表情 / 眼睛效果 / dash eyes / line in eye"
+    },
+    {
+      "en": "pac-man eyes",
+      "zh": "吃豆人眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 652,
+      "desc": "呈吃豆人形状、带三角形缺口的眼睛",
+      "kw": "吃豆人形状眼 / 缺口圆眼 / 三角缺口眼 / 小圆眼带缺口 / 游戏眼睛 / 卡通 / pacman eyes"
+    },
+    {
+      "en": "ringed eyes",
+      "zh": "圈圈眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 42255,
+      "desc": "瞳孔与虹膜由多层同心圆环构成的眼睛。",
+      "kw": "同心圆眼 / 环状眼 / 多层环眼 / 同心圆瞳孔 / 眼睛 / 同心円目 / 写轮眼"
+    },
+    {
+      "en": "squiggle eyes",
+      "zh": "扭曲眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 442,
+      "desc": "瞳孔画成波浪线，表示痛苦或精神异常",
+      "kw": "波浪眼 / 波浪瞳孔 / 波浪线眼睛 / 眼睛 / 表情"
+    },
+    {
+      "en": "aqua pupils",
+      "zh": "水蓝色瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1152,
+      "desc": "瞳孔呈水色（蓝绿色），与蓝瞳绿瞳易混淆",
+      "kw": "水色瞳 / 水色眼瞳 / 蓝绿色瞳孔 / 水色眼睛 / 瞳孔 / 眼睛"
+    },
+    {
+      "en": "blue pupils",
+      "zh": "蓝色瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9454,
+      "desc": "角色的瞳孔呈蓝色。",
+      "kw": "蓝瞳 / 蓝瞳孔 / 蓝色眼瞳 / 蓝色瞳仁 / 蓝眼睛 / 瞳色"
+    },
+    {
+      "en": "brown pupils",
+      "zh": "棕色瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 500,
+      "desc": "角色瞳孔为棕色",
+      "kw": "棕瞳 / 棕色眼瞳 / 咖啡色瞳孔 / 褐色瞳孔 / 茶色瞳孔 / 棕眼仁 / 深棕瞳孔 / 眼睛"
+    },
+    {
+      "en": "green pupils",
+      "zh": "绿色瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3454,
+      "desc": "瞳孔呈绿色而非通常的黑色。",
+      "kw": "绿瞳 / 绿色眼瞳 / 绿眼珠 / 绿色眼珠 / 绿眸 / 绿色瞳仁 / 绿瞳孔 / 绿色眼眸"
+    },
+    {
+      "en": "grey pupils",
+      "zh": "灰色瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1042,
+      "desc": "瞳孔呈灰色",
+      "kw": "灰色瞳仁 / 灰瞳孔 / 灰眼瞳 / 眼睛特征 / 瞳色"
+    },
+    {
+      "en": "orange pupils",
+      "zh": "橙色瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2438,
+      "desc": "瞳孔呈橙色而非通常的黑色。",
+      "kw": "橙色眼瞳 / 橙瞳 / 橙眼珠 / 橘色瞳孔 / 橙色眼珠 / 橙黑眼珠 / 瞳孔 / 眼睛特征"
+    },
+    {
+      "en": "pink pupils",
+      "zh": "粉色瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13626,
+      "desc": "眼瞳为粉色而非黑色",
+      "kw": "粉红瞳孔 / 粉红色瞳孔 / 粉眼珠 / 眼睛"
+    },
+    {
+      "en": "purple pupils",
+      "zh": "紫色瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3350,
+      "desc": "紫色瞳孔，不是通常的黑色。",
+      "kw": "紫瞳 / 紫眼瞳 / 紫色眼瞳 / 紫色眼睛 / 瞳色"
+    },
+    {
+      "en": "red pupils",
+      "zh": "红色瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23705,
+      "desc": "瞳孔呈红色而非黑色。",
+      "kw": "红瞳 / 红色眼瞳 / 红眼瞳 / 红色眼眸 / 红色瞳仁 / 红眼珠 / 红眼睛 / 瞳孔"
+    },
+    {
+      "en": "white pupils",
+      "zh": "白瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 129109,
+      "desc": "瞳孔为白色而非黑色的角色。",
+      "kw": "白色眼瞳 / 白色瞳仁 / 白瞳孔 / 瞳孔白色 / 白眼瞳 / 眼睛"
+    },
+    {
+      "en": "yellow pupils",
+      "zh": "黄瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10516,
+      "desc": "瞳孔呈黄色，区别于黄眼（虹膜黄）和黄巩膜。",
+      "kw": "黄色瞳仁 / 黄色瞳 / 金色瞳孔 / 黄瞳 / 眼睛"
+    },
+    {
+      "en": "constricted pupils",
+      "zh": "瞳孔收缩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20979,
+      "desc": "瞳孔明显小于正常，可表示恐惧或震惊",
+      "kw": "缩小瞳孔 / 针尖瞳孔 / 点状瞳孔 / 缩瞳 / 瞳孔缩小 / 小瞳孔 / 瞳孔紧缩 / shrunk eyes / shrunk pupils / contracted pupils"
+    },
+    {
+      "en": "dilated pupils",
+      "zh": "瞳孔放大",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1108,
+      "desc": "瞳孔明显大于平时，常用于表现情感或药物影响。",
+      "kw": "瞳孔扩大 / 扩瞳 / 大瞳孔 / 散瞳 / 眼睛 / 表情"
+    },
+    {
+      "en": "extra pupils",
+      "zh": "多瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1335,
+      "desc": "单只眼球内有一个以上的瞳孔。",
+      "kw": "额外瞳孔 / 多瞳孔症 / 重瞳 / 双瞳孔 / 多个瞳孔 / 额外的瞳孔 / 眼睛特征 / multiple pupils / extra irises / polycoria"
+    },
+    {
+      "en": "horizontal pupils",
+      "zh": "横瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7436,
+      "desc": "呈横向长条或矩形而非圆形的瞳孔",
+      "kw": "水平瞳孔 / 一字瞳孔 / 矩形瞳孔 / 横长瞳孔 / 方瞳孔 / 羊瞳 / 山羊眼 / 横向瞳孔 / goat eyes / frog eyes / 羊眼 / 马眼"
+    },
+    {
+      "en": "mismatched pupils",
+      "zh": "异瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14685,
+      "desc": "两眼瞳孔形状或颜色不一致，常见符号瞳孔。",
+      "kw": "瞳孔不一致 / 不对称瞳孔 / 异色瞳孔 / 符号瞳孔 / 双瞳不同 / 眼睛瞳孔不同 / 异色瞳 / 眼睛 / asymmetrical pupils"
+    },
+    {
+      "en": "no pupils",
+      "zh": "无瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23602,
+      "desc": "眼睛缺少瞳孔，虹膜呈纯色。",
+      "kw": "无瞳 / 没有瞳孔 / 瞳孔缺失 / 无瞳仁 / 没有瞳仁 / 缺少瞳孔 / 眼睛 / 瞳孔なし"
+    },
+    {
+      "en": "rectangular pupils",
+      "zh": "矩形瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 727,
+      "desc": "矩形瞳孔，常见于牛、羊、马和青蛙等",
+      "kw": "长方形瞳孔 / 方瞳孔 / 横条瞳孔 / 矩形瞳仁 / 条状瞳孔 / 水平瞳孔 / 四角瞳孔 / 方块瞳孔"
+    },
+    {
+      "en": "black hole-shaped pupils",
+      "zh": "黑洞状瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120,
+      "desc": "呈黑洞形状的瞳孔",
+      "kw": "黑洞形瞳孔 / 黑洞形状的瞳孔 / 黑洞瞳 / 黑洞眼 / 黑瞳如黑洞 / 黑洞状眼瞳 / 黑洞瞳孔 / 异形瞳孔"
+    },
+    {
+      "en": "bone-shaped pupils",
+      "zh": "骨形瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37
+    },
+    {
+      "en": "butterfly-shaped pupils",
+      "zh": "蝴蝶状瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1982,
+      "desc": "呈蝴蝶形状的瞳孔。",
+      "kw": "蝶形瞳孔 / 蝴蝶瞳孔 / 蝶状瞳孔 / 蝴蝶眼瞳 / 蝴蝶形状瞳孔 / 瞳孔 / 眼睛特征"
+    },
+    {
+      "en": "cat-shaped pupils",
+      "zh": "猫瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 87,
+      "desc": "呈猫眼般竖长形状的瞳孔",
+      "kw": "猫眼瞳孔 / 竖瞳 / 猫眼竖瞳 / 猫状瞳孔 / 竖形瞳孔 / 猫眼状瞳孔 / 竖长瞳孔"
+    },
+    {
+      "en": "clock eyes",
+      "zh": "时钟眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1321,
+      "desc": "瞳孔呈钟表样式的眼睛",
+      "kw": "表盘眼 / 钟表眼 / 钟面眼 / 表针眼 / 时钟瞳孔 / 钟表瞳孔 / 异色瞳 / 眼睛 / clock eyed"
+    },
+    {
+      "en": "clover-shaped pupils",
+      "zh": "三叶草瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 346,
+      "desc": "瞳孔形状如三叶草。",
+      "kw": "三叶草瞳孔 / 苜蓿形瞳孔 / 三叶瞳孔 / 三叶草形状瞳孔 / 三叶草状瞳孔 / 特殊瞳孔 / 眼睛"
+    },
+    {
+      "en": "crescent-shaped pupils",
+      "zh": "新月形瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 87,
+      "desc": "呈新月形的瞳孔",
+      "kw": "月牙形瞳孔 / 新月瞳孔 / 月牙瞳孔 / 新月形眼睛 / 月牙眼"
+    },
+    {
+      "en": "cross-shaped pupils",
+      "zh": "十字瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19855,
+      "desc": "呈十字形的瞳孔",
+      "kw": "十字眼瞳 / 十字型瞳孔 / 十字形眼瞳 / 十字眼 / 十字目 / 十字眼睛 / 十字状瞳孔"
+    },
+    {
+      "en": "crosshair pupils",
+      "zh": "准星瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1195,
+      "desc": "瞳孔像十字准星，可能延伸到虹膜或巩膜",
+      "kw": "十字准星瞳孔 / 准星瞳孔 / 十字线瞳 / 瞄准镜瞳孔 / 十字标瞳孔 / 十字瞄准瞳孔 / 瞳孔 / 异瞳"
+    },
+    {
+      "en": "crown-shaped pupils",
+      "zh": "皇冠状瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "diamond-shaped pupils",
+      "zh": "菱形瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17744,
+      "desc": "瞳孔呈菱形",
+      "kw": "菱形眼瞳 / 钻石瞳孔 / 方菱形瞳孔 / 瞳孔形状 / 眼睛特征"
+    },
+    {
+      "en": "fish-shaped pupils",
+      "zh": "鱼形瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 299,
+      "desc": "瞳孔呈鱼形的眼睛特征。",
+      "kw": "鱼型瞳孔 / 鱼形眼瞳 / 鱼眼瞳孔 / 瞳孔像鱼 / 鱼形状瞳孔 / 小鱼形瞳孔 / 鱼形眸 / 特殊瞳孔"
+    },
+    {
+      "en": "flower-shaped pupils",
+      "zh": "花形瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12827,
+      "desc": "瞳孔呈花朵形状",
+      "kw": "花瓣瞳孔 / 花形瞳 / 花朵瞳孔 / 花瞳 / 花瓣瞳 / 花状瞳孔 / 花型瞳孔 / 瞳孔 / kagan / flower shaped pupils"
+    },
+    {
+      "en": "gear-shaped pupils",
+      "zh": "齿轮瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50
+    },
+    {
+      "en": "halation pupils",
+      "zh": "晕光瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 257,
+      "desc": "瞳孔周围有光晕效果。",
+      "kw": "晕光瞳孔 / 光晕瞳孔 / 瞳孔光晕"
+    },
+    {
+      "en": "lightning bolt-shaped pupils",
+      "zh": "闪电状瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 159,
+      "desc": "闪电形状的瞳孔",
+      "kw": "闪电型瞳孔 / 闪电眼瞳 / 闪电瞳孔 / 雷电形瞳孔 / 瞳孔 / 异形瞳孔 / 眼睛"
+    },
+    {
+      "en": "money-shaped pupils",
+      "zh": "钱币形瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 91,
+      "desc": "瞳孔呈美元或人民币等货币符号形状",
+      "kw": "货币符号瞳孔 / 钱币符号瞳孔 / 金钱眼 / 货币眼 / 钱眼 / 金钱符号眼 / 美元符号瞳孔 / 人民币符号瞳孔"
+    },
+    {
+      "en": "moon-shaped pupils",
+      "zh": "月牙形瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "musical note-shaped pupils",
+      "zh": "音符瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 105,
+      "desc": "瞳孔形状像音符",
+      "kw": "音符形状瞳孔 / 音符眼瞳 / 音符眼眸 / 音乐符号瞳孔 / 音乐瞳孔 / 音符眼睛 / 特殊瞳形"
+    },
+    {
+      "en": "paw-shaped pupils",
+      "zh": "肉球瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 525,
+      "desc": "瞳孔呈动物爪印形状",
+      "kw": "爪印瞳孔 / 爪印形状瞳孔 / 爪痕瞳孔 / 兽爪瞳孔 / 掌印瞳孔 / 爪形眼瞳 / 肉球形瞳孔 / 瞳孔 / paw print-shaped pupils"
+    },
+    {
+      "en": "power symbol-shaped pupils",
+      "zh": "电源符号状瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2939,
+      "desc": "瞳孔呈电源符号形状",
+      "kw": "电源符号瞳孔 / 电源标志瞳孔 / 电源图标形瞳孔 / 电源按钮瞳孔 / 电源符号眼 / 电源符号瞳 / 特殊瞳孔"
+    },
+    {
+      "en": "rabbit-shaped pupils",
+      "zh": "兔形瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3314,
+      "desc": "瞳孔呈兔子形状的眼睛",
+      "kw": "兔子瞳孔 / 兔型瞳孔 / 兔子形状瞳孔 / 兔眼瞳孔 / 瞳孔 / 异形瞳孔 / bunny-shaped pupils"
+    },
+    {
+      "en": "radiation symbol-shaped pupils",
+      "zh": "辐射标志瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 58,
+      "desc": "瞳孔呈辐射警示标志形状",
+      "kw": "辐射标志瞳孔 / 核辐射标志瞳孔 / 放射性标志眼睛 / 辐射符号瞳孔 / 辐射警示瞳孔"
+    },
+    {
+      "en": "skull-shaped pupils",
+      "zh": "骷髅瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 149,
+      "desc": "瞳孔呈骷髅头形状。",
+      "kw": "骷髅瞳孔 / 骷髅头形状瞳孔 / 骷髅眼瞳 / 骷髅头瞳孔 / 瞳孔 / 眼睛效果 / 异形瞳孔"
+    },
+    {
+      "en": "snowflake pupils",
+      "zh": "雪花瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 276,
+      "desc": "瞳孔呈雪花形状的眼睛。",
+      "kw": "雪花瞳 / 雪花眼 / 雪花形瞳孔 / 雪花状瞳孔 / 雪花眼睛 / 眼睛 / 特殊瞳孔"
+    },
+    {
+      "en": "solid circle pupils",
+      "zh": "实心圆瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1772,
+      "desc": "眼睛圆睁、瞳孔为实心大圆的卡通表现。",
+      "kw": "实心圆瞳孔 / 圆点瞳孔 / 实心瞳孔 / 大圆实心瞳孔 / 圆形实心瞳孔 / 点状瞳孔 / 实心圆眼 / (o) (o)"
+    },
+    {
+      "en": "sprout-shaped pupils",
+      "zh": "豆芽状瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 76
+    },
+    {
+      "en": "star-shaped pupils",
+      "zh": "星形瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34886,
+      "desc": "整个瞳孔呈星形的眼睛。",
+      "kw": "星星瞳孔 / 星型瞳孔 / 星星眼 / 星瞳 / 星星眼睛 / 星形眼瞳 / 星状瞳孔 / 瞳孔 / 目が星"
+    },
+    {
+      "en": "triangle-shaped pupils",
+      "zh": "三角瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1219,
+      "desc": "瞳孔呈三角形的画法",
+      "kw": "三角瞳孔 / 三角眼瞳 / 三角形眼瞳 / 三角瞳孔形状 / 异形瞳孔"
+    },
+    {
+      "en": "x-shaped pupils",
+      "zh": "X型瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9096,
+      "desc": "瞳孔呈X形的眼睛",
+      "kw": "X瞳孔 / 交叉形瞳孔 / X字瞳孔 / 叉形瞳孔 / 特殊瞳孔 / 眼睛 / 异瞳"
+    },
+    {
+      "en": "blue sclera",
+      "zh": "蓝色巩膜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4269,
+      "desc": "眼白部分呈蓝色的眼睛特征",
+      "kw": "蓝色眼白 / 蓝眼白 / 蓝色眼珠白 / 青眼白 / 眼睛 / 异色"
+    },
+    {
+      "en": "black sclera",
+      "zh": "黑眼白",
+      "rating": "g",
+      "nsfw": false,
+      "count": 38890,
+      "desc": "眼白呈黑色的眼睛，常见于恶魔娘等角色。",
+      "kw": "黑色眼白 / 黑巩膜 / 黑白眼 / 黑目 / 黑眼球白 / 眼睛 / 黑白目 / 黑色的巩膜 / 黒白目"
+    },
+    {
+      "en": "blank eyes",
+      "zh": "白目",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19500,
+      "desc": "没有虹膜和瞳孔、只见眼白的眼睛",
+      "kw": "白眼 / 无神眼睛 / 空洞眼睛 / 无瞳孔眼睛 / 白眼仁 / 失神眼 / 空白眼神 / 无神眼 / 白目"
+    },
+    {
+      "en": "bloodshot eyes",
+      "zh": "充血眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2059,
+      "desc": "眼白充血发红的眼睛",
+      "kw": "血丝眼 / 红眼 / 眼白充血 / 布满血丝的眼 / 血丝眼睛 / 眼睛 / 充血 / bloodshot eye"
+    },
+    {
+      "en": "green sclera",
+      "zh": "绿色巩膜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2607,
+      "desc": "眼白部分呈绿色。",
+      "kw": "绿色眼白 / 绿眼白 / 绿色眼白部分 / 眼部 / 眼白"
+    },
+    {
+      "en": "mismatched sclera",
+      "zh": "异色巩膜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2481,
+      "desc": "两眼眼白颜色不同",
+      "kw": "两眼眼白异色 / 巩膜异色 / 眼白颜色不同 / 异色眼白 / 眼睛 / 异色"
+    },
+    {
+      "en": "no sclera",
+      "zh": "无眼白",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4651,
+      "desc": "角色眼睛缺少白色巩膜部分",
+      "kw": "没有巩膜 / 眼白缺失 / 没有眼白 / 没眼白 / 巩膜缺失 / 眼睛 / 无白眼"
+    },
+    {
+      "en": "orange sclera",
+      "zh": "橙色巩膜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1146,
+      "desc": "巩膜（眼白）呈橙色",
+      "kw": "橙眼白 / 眼白橙色 / 橙色的眼白 / 眼睛 / 异色瞳"
+    },
+    {
+      "en": "pink sclera",
+      "zh": "粉色巩膜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1414,
+      "desc": "眼球白色部分呈粉色。",
+      "kw": "粉红色眼白 / 粉巩膜 / 粉红巩膜 / 粉色眼白部分 / 眼睛特征 / 异色瞳"
+    },
+    {
+      "en": "purple sclera",
+      "zh": "紫色巩膜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1243,
+      "desc": "眼白被画成紫色，即紫色巩膜",
+      "kw": "紫色眼白 / 紫眼白 / 紫色眼睛眼白 / 紫巩膜 / 眼睛 / 幻想"
+    },
+    {
+      "en": "red sclera",
+      "zh": "红巩膜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10593,
+      "desc": "眼白（巩膜）呈红色，区别于红眼（虹膜红）和红瞳孔。",
+      "kw": "红眼白 / 红色眼白 / 眼白红色 / 眼白发红 / 眼睛 / 异色瞳 / 赤白目"
+    },
+    {
+      "en": "solid eyes",
+      "zh": "纯色眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4111,
+      "desc": "没有分明虹膜与瞳孔的纯色眼睛。",
+      "kw": "实心眼睛 / 无瞳孔眼睛 / 纯色瞳 / 实色眼 / 无瞳孔眼 / 单色眼"
+    },
+    {
+      "en": "yellow sclera",
+      "zh": "黄色巩膜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18964,
+      "desc": "眼白（巩膜）呈黄色",
+      "kw": "黄巩膜 / 黄色眼白 / 黄眼白 / 眼白黄色 / 巩膜发黄 / 眼睛"
+    },
+    {
+      "en": "bags under eyes",
+      "zh": "黑眼圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45074,
+      "desc": "眼下发黑或浮肿，常表示疲劳",
+      "kw": "眼袋 / 眼下黑圈 / 熊猫眼 / 眼下阴影 / 下眼袋 / 黑眼袋 / 眼睛 / 疲劳 / eye circles / eyebags / dark circles / eye bags"
+    },
+    {
+      "en": "bruised eye",
+      "zh": "眼部淤青",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1111,
+      "desc": "眼周淤血发青，常肿到睁不开眼。",
+      "kw": "眼周瘀青 / 眼睛淤血 / 眼部瘀伤 / 黑眼圈（受伤） / 眼周淤血 / 眼睛被打青 / 眼周瘀伤 / 淤青的眼睛 / black eye (injury) / black eye"
+    },
+    {
+      "en": "electric eyes",
+      "zh": "电眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 138,
+      "desc": "眼睛周围迸发电光",
+      "kw": "电光眼 / 眼睛放电 / 电眼逼人 / 闪电眼睛 / 电力瞳孔 / 辉光眼 / 能量眼"
+    },
+    {
+      "en": "flaming eyes",
+      "zh": "燃烧之瞳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 920,
+      "desc": "眼睛冒出火焰，表现激情或斗志。",
+      "kw": "火焰眼 / 冒火的眼睛 / 眼中冒火 / 火焰双眼 / 火眼 / 烈焰眼 / 眼睛冒火 / 燃烧双眼 / burning eyes / fiery eyes"
+    },
+    {
+      "en": "glowing eye",
+      "zh": "单眼发光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15953,
+      "desc": "单只眼睛发出光芒，常用于超自然或科学现象",
+      "kw": "发光眼睛 / 眼睛发光 / 独眼发光 / 亮眼 / 发光的眼睛 / 眼睛 / 特效 / 眼光"
+    },
+    {
+      "en": "button eyes",
+      "zh": "纽扣眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2901,
+      "desc": "用纽扣做成的眼睛，常见于玩偶。",
+      "kw": "扣子眼睛 / 纽扣做的眼睛 / 扣子眼 / 钮扣眼睛 / 眼睛 / 特征 / 玩偶"
+    },
+    {
+      "en": "cephalopod eyes",
+      "zh": "头足类瞳孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2631,
+      "desc": "类似头足类（章鱼鱿鱼）的眼睛，瞳孔呈8字形",
+      "kw": "章鱼眼 / 鱿鱼眼 / 乌贼眼 / 头足纲眼睛 / 八爪鱼眼 / 矩形瞳孔眼 / 8字瞳孔眼 / 异形眼睛 / octopus eyes"
+    },
+    {
+      "en": "compound eyes",
+      "zh": "复眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3098,
+      "desc": "昆虫等拥有的网格状复眼",
+      "kw": "昆虫眼 / 网格眼 / 虫眼 / 复眼结构 / 小眼面 / 眼睛 / 生物特征 / insect eyes / 複眼"
+    },
+    {
+      "en": "lens eye",
+      "zh": "镜头眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 427,
+      "desc": "眼睛呈相机镜头状的仿生人特征",
+      "kw": "相机眼 / 镜头眼睛 / 摄像头眼 / 摄影机眼 / 透镜眼 / 镜头状眼睛 / 眼睛 / 科幻 / camera eyes / レンズアイ"
+    },
+    {
+      "en": "pixel eyes",
+      "zh": "像素眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 275,
+      "desc": "由显示屏上像素画构成的假眼。",
+      "kw": "像素眼睛 / 点阵眼 / 屏幕眼 / 像素显示眼 / 电子像素眼 / 点阵眼睛 / 像素假眼 / 像素艺术"
+    },
+    {
+      "en": "bulging eyes",
+      "zh": "凸眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1352,
+      "desc": "因惊讶或挤压导致眼球凸出眼眶，常夸张表现",
+      "kw": "眼睛凸出 / 眼睛鼓出 / 眼球突出 / 眼珠凸出 / 眼球爆出 / 双目凸出 / 惊讶 / eye bulge"
+    },
+    {
+      "en": "eye pop",
+      "zh": "眼球突出",
+      "rating": "g",
+      "nsfw": false,
+      "count": 575,
+      "desc": "眼球因惊讶或冲击弹出眼眶，常见于欧美卡通搞笑桥段",
+      "kw": "眼球弹出 / 眼珠爆出 / 眼珠掉出 / 眼珠蹦出 / 眼睛弹出 / 眼珠子弹出 / 眼睛掉出来 / 眼睛"
+    },
+    {
+      "en": "crazy eyes",
+      "zh": "狂乱眼神",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8909,
+      "desc": "瞳孔异常放大或收缩、显得发狂的眼睛",
+      "kw": "疯狂的眼神 / 发狂的眼睛 / 病态眼神 / 崩坏眼神 / 疯狂眼 / 失神眼 / 疯狂眼睛"
+    },
+    {
+      "en": "flashing eyes",
+      "zh": "闪光眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 51
+    },
+    {
+      "en": "heart-shaped eyes",
+      "zh": "爱心眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1776,
+      "desc": "双眼变成心形，常表示迷恋。",
+      "kw": "心心眼 / 心形眼睛 / 红心眼 / 痴迷眼 / 心状眼 / 心形瞳孔 / 表情 / heart eye / heart eyes / ♥ ♥"
+    },
+    {
+      "en": "jitome",
+      "zh": "死鱼眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 51247,
+      "desc": "上眼睑画成平直一线的鄙夷或空洞眼神",
+      "kw": "冷眼 / 平眼 / 半睁眼 / 鄙夷眼神 / 轻蔑眼神 / 无神死鱼眼 / 三白眼 / 蔑视眼 / flat gaze / ジト目"
+    },
+    {
+      "en": "nonowa",
+      "zh": "ののワ（偶像大师）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 385,
+      "desc": "《偶像大师》中天海春香的文字化变形形象",
+      "kw": "春香脸 / nonowa / 偶像大师 / 天海春香"
+    },
+    {
+      "en": "sanpaku",
+      "zh": "三白眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17295,
+      "desc": "静止时虹膜周围露出较多眼白的眼睛",
+      "kw": "三白 / 四白眼 / 死鱼眼 / 眼睛"
+    },
+    {
+      "en": "solid circle eyes",
+      "zh": "豆豆眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13216,
+      "desc": "眼睛画成实心圆形，常见于Q版角色",
+      "kw": "实心圆眼 / 圆点眼 / 黑色圆眼 / 实心圆点眼 / Q版圆眼 / 圆眼 / 眼睛 / • •"
+    },
+    {
+      "en": "o o",
+      "zh": "o_o（圆眼）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "solid oval eyes",
+      "zh": "实心椭圆眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14547,
+      "desc": "眼睛被画成实心黑色椭圆形，常见于Q版角色。",
+      "kw": "椭圆实心眼 / 黑椭圆眼 / 实心黑眼 / 实心椭圆眼睛 / Q版椭圆眼 / 椭圆眼 / 眼睛 / 卡通眼"
+    },
+    {
+      "en": "0_0",
+      "zh": "0_0（竖椭圆眼）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12123,
+      "desc": "竖椭圆形的白色眼睛，表惊讶。",
+      "kw": "惊讶眼 / 白色椭圆眼 / 竖椭圆眼 / 0_0眼睛 / 呆滞脸 / 呆脸 / 无表情"
+    },
+    {
+      "en": "sparkling eyes",
+      "zh": "星星眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19375,
+      "desc": "瞳孔旁带有星形闪光的眼睛",
+      "kw": "闪亮眼睛 / 闪闪发光的眼睛 / 星光眼 / 眼睛闪闪发光 / 眼睛带星闪 / 眼睛闪亮 / 眼睛 / sparkle eyes"
+    },
+    {
+      "en": "spiral-only eyes",
+      "zh": "螺旋眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1045,
+      "desc": "整个眼睛呈螺旋状，通常表示眩晕或昏迷",
+      "kw": "螺旋状眼 / 螺旋眼珠 / 漩涡眼 / 蚊香眼 / 圈圈眼 / 眼睛效果 / 催眠眼"
+    },
+    {
+      "en": "tareme",
+      "zh": "下垂眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 59582,
+      "desc": "外眼角低于内眼角的眼型",
+      "kw": "垂眼 / 垂目 / 狗狗眼 / 无辜眼 / 垂眼角 / 下斜眼 / 垂眼梢 / 眼型 / タレ目 / たれ目 / たれめ / 垂れ目"
+    },
+    {
+      "en": "tsurime",
+      "zh": "吊眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 67213,
+      "desc": "上眼睑向外上方挑起的眼型，常显锐利。",
+      "kw": "上挑眼 / 丹凤眼 / 狐眼 / 凤眼 / 上斜眼 / 锐利眼型 / 锐利眼睛 / ツリ目 / つり目 / つりめ / 釣り目"
+    },
+    {
+      "en": "byakugan",
+      "zh": "白眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 757,
+      "desc": "《火影忍者》中的瞳术，眼白无瞳孔",
+      "kw": "白瞳 / 火影白眼 / 日向白眼 / 白眼血继限界 / 瞳术 / 血继限界 / 백안"
+    },
+    {
+      "en": "geass",
+      "zh": "Geass（鲁路修契约瞳纹）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 380,
+      "desc": "《叛逆的鲁路修》中通过对视生效的超能力",
+      "kw": "鸡鸭死 / 契约之力 / 王之力 / 精神控制能力 / 绝对服从之力 / 能力 / 叛逆的鲁路修 / ギアス"
+    },
+    {
+      "en": "sharingan",
+      "zh": "写轮眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1357,
+      "desc": "《火影忍者》宇智波一族的瞳术，可复制忍术。",
+      "kw": "写輪眼 / 寫輪眼 / 复制眼 / 镜轮眼 / 火影忍者 / 瞳术 / 사륜안"
+    },
+    {
+      "en": "mangekyou sharingan",
+      "zh": "万花筒写轮眼（火影忍者）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 180,
+      "desc": "《火影忍者》中写轮眼的高阶形态。",
+      "kw": "万华镜写轮眼 / 万花镜写轮眼 / 写轮眼 / 眼睛 / 日本动漫 / mangekyo sharingan"
+    },
+    {
+      "en": "rinnegan",
+      "zh": "轮回眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 530,
+      "desc": "火影忍者中三大瞳术之一，特征为涟漪状瞳孔",
+      "kw": "六道轮回眼 / 轮回之眼 / 六道之眼 / 轮回眼瞳术 / 火影忍者 / 瞳术 / 輪廻眼 / 輪迴眼 / 윤회안"
+    },
+    {
+      "en": "text in eyes",
+      "zh": "眼中有字",
+      "rating": "g",
+      "nsfw": false,
+      "count": 654,
+      "desc": "瞳孔中写有文字的图，可用于表现角色心声",
+      "kw": "眼中文字 / 瞳孔文字 / 眼球文字 / 眼里有字 / 瞳孔上有字 / 眼睛文字 / 眼中有文字 / 眼睛效果"
+    },
+    {
+      "en": "extra eyes",
+      "zh": "多眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14754,
+      "desc": "角色身上长有超过两只的眼睛，且眼睛在身体上",
+      "kw": "额外眼睛 / 三眼 / 四眼 / 多目 / 多只眼睛 / 第三只眼 / 眼睛 / multiple eyes"
+    },
+    {
+      "en": "missing eye",
+      "zh": "缺眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1050,
+      "desc": "角色缺失一只眼睛，眼窝空陷可见",
+      "kw": "独眼 / 单眼缺失 / 少一只眼 / 空眼窝 / 眼睛缺失 / 眼睛 / 眼部缺陷"
+    },
+    {
+      "en": "no eyes",
+      "zh": "无眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14839,
+      "desc": "角色没有画眼睛，或眼睛被头发遮挡/阴影覆盖",
+      "kw": "没眼睛 / 无眼睛 / 眼睛缺失 / 眼睛被遮住 / 不画眼睛 / 眼睛隐没 / 眼睛"
+    },
+    {
+      "en": "one-eyed",
+      "zh": "独眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18015,
+      "desc": "只有一只眼睛的角色，包括独眼巨人。",
+      "kw": "单眼 / 一只眼 / 独眼角色 / 单眼角色 / 只眼 / 独眼属性 / 怪物特征 / one eye / single eye / one eyed / 単眼"
+    },
+    {
+      "en": "3_3",
+      "zh": "3型眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 284,
+      "desc": "眼睛眯成数字3形状，常表示近视或呆萌",
+      "kw": "三字眼 / 眯眼 / 3字形眼睛 / 数字3眼 / 三条线眼 / 3眼 / 3x3眼睛 / 表情 / 目が3 / 3の目"
+    },
+    {
+      "en": "6 9",
+      "zh": "斜视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 217,
+      "desc": "角色一只眼睛向上另一只向下，与性姿势无关",
+      "kw": "69眼 / 眼睛上下颠倒 / 一只眼朝上另一只朝下 / 上下眼 / 斗鸡眼 / 表情"
+    },
+    {
+      "en": ". .",
+      "zh": "点点眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3479,
+      "desc": "眼睛画成两个小圆点，常见于Q版角色。",
+      "kw": "点眼 / 豆豆眼 / 点眼睛 / 两点眼 / 圆点眼 / Q版点眼 / 简笔眼 / 无语脸"
+    },
+    {
+      "en": "<o>_<o>",
+      "zh": "瞪大双眼（<o>_<o>）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1636,
+      "desc": "大黑瞳孔的宽杏仁形眼睛",
+      "kw": "杏仁眼 / 大圆眼 / 大黑瞳孔眼 / 宽杏仁眼 / 圆杏仁眼 / 大黑瞳孔杏仁眼 / <o>_<o> / 惊讶表情 / <o><o>"
+    },
+    {
+      "en": "x x",
+      "zh": "叉号眼",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "closed eyes",
+      "zh": "闭眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1089528,
+      "desc": "角色双眼闭合",
+      "kw": "闭上眼睛 / 双眼闭合 / 合眼 / 阖眼 / 闭目 / 眼睛闭上 / 闭眼状态 / 表情 / eyes closed / 瞑目 / 糸目"
+    },
+    {
+      "en": "one eye closed",
+      "zh": "单眼闭合",
+      "rating": "g",
+      "nsfw": false,
+      "count": 637680,
+      "desc": "因眨眼或本能反应闭上一只眼睛",
+      "kw": "眨眼 / 单眨眼 / 只闭一只眼 / 一只眼闭 / 眯单眼 / 闭单只眼 / 单眼眨动 / 单眼眨 / wink / ウィンク / ウィンクx東方"
+    },
+    {
+      "en": "eyelashes",
+      "zh": "睫毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 274291,
+      "desc": "刻画明显或细致的睫毛。",
+      "kw": "眼睫毛 / 眼睫 / 睫毛细节 / 睫毛特写 / 身体部位 / 眼部 / 化妆 / eye lashes / まつげ"
+    },
+    {
+      "en": "fake eyelashes",
+      "zh": "假睫毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 85,
+      "desc": "贴在真睫毛上以增强外观的化妆品",
+      "kw": "人造睫毛 / 假眼睫毛 / 粘贴睫毛 / 舞台睫毛 / 假睫毛片 / 假睫毛条"
+    },
+    {
+      "en": "eyes visible through hair",
+      "zh": "透过头发可见双眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 107157,
+      "desc": "头发遮眼但眼睛仍隐约可见",
+      "kw": "头发透眼 / 发间眼 / 透发眼 / 发丝间可见眼睛 / 头发遮挡但可见眼 / 发下眼 / 眼睛在头发下可见 / 刘海透视 / eye through hair"
+    },
+    {
+      "en": "eyeliner",
+      "zh": "眼线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47311,
+      "desc": "沿睫毛线描绘的眼部妆容",
+      "kw": "眼线妆 / 眼线妆容 / 猫眼线 / 眼线描绘 / 化妆 / 眼妆 / アイライン / アイライナー / 眼線 / 아이라이너"
+    },
+    {
+      "en": "eyeshadow",
+      "zh": "眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 75658,
+      "desc": "涂在眼皮上的粉末状眼妆",
+      "kw": "眼影粉 / 眼妆 / 眼影膏 / 彩色眼影 / 眼部化妆 / 化妆品 / eye shadow / アイシャドウ"
+    },
+    {
+      "en": "mascara",
+      "zh": "睫毛膏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5843,
+      "desc": "使用或可见睫毛膏的浓密睫毛",
+      "kw": "睫毛液 / 睫毛膏妆 / 睫毛膏效果 / 刷睫毛膏 / 眼睛 / 化妆 / 美睫 / マスカラ / 마스카라"
+    },
+    {
+      "en": "big eyes",
+      "zh": "大眼睛",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "blind",
+      "zh": "失明",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2303,
+      "desc": "角色眼睛无法看见，视觉上能辨识为盲人",
+      "kw": "盲人 / 瞎眼 / 眼盲 / 盲目 / 看不见 / 失明角色 / 眼睛 / 盲眼"
+    },
+    {
+      "en": "partially blind",
+      "zh": "单眼失明",
+      "rating": "g",
+      "nsfw": false,
+      "count": 226,
+      "desc": "一只眼睛失明或无法视物的状态",
+      "kw": "一只眼失明 / 半失明 / 独眼失明 / 眼睛 / 视力障碍 / 失明"
+    },
+    {
+      "en": "cross-eyed",
+      "zh": "斗鸡眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1746,
+      "desc": "双眼向内侧汇聚",
+      "kw": "对眼 / 内斜视 / 斗眼 / 对子眼 / 双眼内聚 / 斜视眼 / 眼睛 / 表情 / crossed eyes / cross eyed / より目 / 寄り目"
+    },
+    {
+      "en": "drawn eyes",
+      "zh": "手绘眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 312,
+      "desc": "画在身体或物体上的眼睛",
+      "kw": "画眼 / 画上去的眼 / 涂鸦眼睛 / 绘画眼 / 手绘眼睛 / 艺术眼 / 卡通风格 / drawn on eyes"
+    },
+    {
+      "en": "eyeball",
+      "zh": "眼球",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26652,
+      "desc": "脱离眼眶、漂浮或异常出现的眼球",
+      "kw": "眼珠 / 眼珠子 / 目玉 / 眼球体 / 眼睛 / 器官 / eyeballs"
+    },
+    {
+      "en": "eye beam",
+      "zh": "眼部光束",
+      "rating": "g",
+      "nsfw": false,
+      "count": 481,
+      "desc": "从眼睛射出能量光束的攻击",
+      "kw": "眼部射线 / 眼睛光束 / 视线射线 / 眼能量束 / 眼睛激光 / 眼射光束 / 目光射线 / 眼睛光线 / eyebeam / 目からビーム"
+    },
+    {
+      "en": "eye focus",
+      "zh": "眼部特写",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4385,
+      "desc": "画面重点刻画眼睛的构图",
+      "kw": "聚焦眼部 / 大特写镜头 / 目元 / 眼睛特写 / 眼部聚焦 / 双眼特写 / 眼部重点刻画 / 眼神聚焦 / eyes focus"
+    },
+    {
+      "en": "eye trail",
+      "zh": "眼神光痕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4530,
+      "desc": "从眼睛延伸出的发光光轨，常表现愤怒或决心。",
+      "kw": "眼睛拖尾 / 眼尾光轨 / 眼部光轨 / 眼神光轨 / 眼光线 / 眼发光拖尾 / 眼瞳拖尾 / 眼光"
+    },
+    {
+      "en": "gear eyes",
+      "zh": "齿轮眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "googly eyes",
+      "zh": "活动眼珠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 806,
+      "desc": "贴在物品上模仿眼球的塑料小眼睛",
+      "kw": "塑料活动眼 / 金鱼眼 / 滴溜眼 / 手工眼珠 / 假眼珠 / 滑稽眼 / 表情"
+    },
+    {
+      "en": "half-closed eyes",
+      "zh": "半闭双眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 149021,
+      "desc": "双眼部分闭合的表情，常表现困倦或挑逗。",
+      "kw": "半闭眼睛 / 眼睛半闭 / 半睁眼 / 半睁半闭 / 眯眼 / 眯着眼睛 / 半目 / 半眼 / eyes half closed / 半闭着眼 / はんめ"
+    },
+    {
+      "en": "narrowed eyes",
+      "zh": "眯眯眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11333,
+      "desc": "眼睛半闭或天生细长，并非用力眯起",
+      "kw": "眯缝眼 / 细长眼 / 狭长眼 / 半闭眼 / 眼睛窄 / 眼缝 / 表情"
+    },
+    {
+      "en": "lazy eye",
+      "zh": "斜视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1263,
+      "desc": "一只眼睛看向错误方向；可能是画错、疾病或疯狂表现",
+      "kw": "斜眼 / 眼睛不对焦 / 双眼不聚焦 / 眼睛斜向一边 / 眼位不正 / 弱视 / 眼睛异常 / 斜視"
+    },
+    {
+      "en": "mechanical eyes",
+      "zh": "机械眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3215,
+      "desc": "拥有一只或多只机械、电子义眼的角色。",
+      "kw": "机械义眼 / 电子眼 / 义眼 / 机器人眼 / 人造机械眼 / 机械电子眼 / 眼睛 / 赛博格眼睛 / artificial mechanical eyes"
+    },
+    {
+      "en": "glass eye",
+      "zh": "义眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28
+    },
+    {
+      "en": "single mechanical eye",
+      "zh": "单机械眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1309,
+      "desc": "一只眼正常，另一只为机械义眼。",
+      "kw": "机械眼 / 义眼 / 单眼义眼 / 一只机械眼 / 独眼机械眼 / 赛博眼 / 单只机械眼 / 眼睛 / cybernetic eye / mechanical eye"
+    },
+    {
+      "en": "persona eyes",
+      "zh": "人格面具之眼（女神异闻录）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 294,
+      "desc": "女神异闻录系列中召唤人格面具时眼睛闪光特写，常表示暴击或弱点击中。",
+      "kw": "Persona眼 / P系列眼 / 人格面具眼 / P3眼 / P4眼 / P5眼 / Persona特写 / 人格面具特写 / カッ / カッ! / ブチッ"
+    },
+    {
+      "en": "uneven eyes",
+      "zh": "大小眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10083,
+      "desc": "双眼睁开但大小不一",
+      "kw": "眼睛睁开幅度不同 / 眼裂不等 / 单眼半睁 / 眼睛不对称 / 睁眼幅度不一 / 不对称眼睛 / 眼睛 / 特征"
+    },
+    {
+      "en": "unusually open eyes",
+      "zh": "睁开常闭之眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6361,
+      "desc": "平时总闭着眼的角色在图中睁开了眼睛",
+      "kw": "罕见睁眼 / 突然睁眼 / 睁开眼 / 开眼 / 平时闭眼角色睁眼 / 破例睁眼 / 异常睁大的眼睛 / 眼睛"
+    },
+    {
+      "en": "wall-eyed",
+      "zh": "外斜视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 887,
+      "desc": "双眼向外侧分开，与斗鸡眼相反",
+      "kw": "外斜眼 / 外斜 / 散开性斜视 / 双眼外斜 / 外斜眼睛 / 眼睛 / 表情"
+    },
+    {
+      "en": "wide-eyed",
+      "zh": "睁大眼睛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55392,
+      "desc": "眼睛完全睁开，虹膜四周露出眼白。",
+      "kw": "瞪大双眼 / 双目圆睁 / 瞠目 / 大眼惊讶 / 眼睛瞪圆 / 双眼大睁 / 瞠目结舌 / 表情 / eyes wide / wide eyes / shocked eyes / wide eyed"
+    },
+    {
+      "en": "watery eyes",
+      "zh": "水汪汪",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "puffy eyes",
+      "zh": "肿眼",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "eyes reflecting the glow of city lights",
+      "zh": "眼中倒映着城市灯火的微光",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "red eyeshadow",
+      "zh": "红色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22171,
+      "desc": "涂在上眼皮处的红色眼影",
+      "kw": "红眼影 / 红色眼妆 / 红色眼影妆 / 红色眼部彩妆 / 眼妆 / 化妆"
+    },
+    {
+      "en": "orange eyeshadow",
+      "zh": "橙色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 873,
+      "desc": "涂在眼睑的橙色眼影。",
+      "kw": "橘色眼影 / 橙色眼妆 / 橘子色眼影 / 橙眼影 / 眼影 / 化妆"
+    },
+    {
+      "en": "yellow eyeshadow",
+      "zh": "黄色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 680,
+      "desc": "涂在眼睑上的黄色眼影",
+      "kw": "黄眼影 / 金色眼影 / 鹅黄眼影 / 明黄眼影 / 眼妆 / 化妆品"
+    },
+    {
+      "en": "green eyeshadow",
+      "zh": "绿色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1752,
+      "desc": "涂在眼睑上的绿色眼影",
+      "kw": "绿眼影 / 绿色眼影膏 / 绿色眼妆 / 绿眼妆 / 绿色眼部化妆 / 眼影 / 化妆品"
+    },
+    {
+      "en": "aqua eyeshadow",
+      "zh": "水蓝色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 588,
+      "desc": "水色（蓝绿色）的眼影",
+      "kw": "蓝绿色眼影 / 水蓝眼影 / 浅蓝眼影 / 湖蓝眼影 / 眼影 / 化妆"
+    },
+    {
+      "en": "blue eyeshadow",
+      "zh": "蓝色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6234,
+      "desc": "涂在眼皮上的蓝色眼影",
+      "kw": "蓝眼影 / 蓝色眼影妆 / 蓝色彩妆眼影 / 天蓝色眼影 / 深蓝眼影 / 眼影 / 化妆品"
+    },
+    {
+      "en": "purple eyeshadow",
+      "zh": "紫色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6089,
+      "desc": "涂在眼皮上的紫色眼影",
+      "kw": "紫眼影 / 紫色眼部化妆 / 紫色彩妆眼影 / 眼影 / 化妆品"
+    },
+    {
+      "en": "pink eyeshadow",
+      "zh": "粉色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6814,
+      "desc": "涂在眼皮上的粉色眼影",
+      "kw": "粉红眼影 / 粉红色眼影 / 粉眼影 / 粉色眼妆 / 粉红色眼妆 / 眼影 / 化妆品"
+    },
+    {
+      "en": "white eyeshadow",
+      "zh": "白色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 207,
+      "desc": "涂在眼睑上的白色眼影。",
+      "kw": "白眼影 / 白色眼影膏 / 银白眼影 / 白亮眼影 / 眼影 / 化妆"
+    },
+    {
+      "en": "grey eyeshadow",
+      "zh": "灰色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1146,
+      "desc": "眼影颜色为灰色",
+      "kw": "灰眼影 / 灰色眼妆 / 灰色眼影色 / 眼影 / 化妆品"
+    },
+    {
+      "en": "black eyeshadow",
+      "zh": "黑色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3083,
+      "desc": "涂在眼睑上的黑色眼影。",
+      "kw": "黑眼影 / 黑色眼妆 / 黑色眼影妆 / 黑色眼彩 / 黑眼影色 / 黑色眼影粉 / 化妆 / 眼妆"
+    },
+    {
+      "en": "multicolored eyeshadow",
+      "zh": "多色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 81,
+      "desc": "使用两种以上颜色的眼影。",
+      "kw": "多彩眼影 / 彩色眼影 / 多色眼影妆 / 混色眼影 / 渐层眼影 / 多种颜色眼影"
+    },
+    {
+      "en": "two-tone eyeshadow",
+      "zh": "双色眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36
+    },
+    {
+      "en": "gradient eyeshadow",
+      "zh": "渐变眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14
+    },
+    {
+      "en": "colored eyelashes",
+      "zh": "彩色睫毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 61232,
+      "desc": "黑、棕色以外颜色的睫毛",
+      "kw": "异色睫毛 / 彩色眼睫毛 / 异色眼睫毛 / 彩色眼睫 / 异色眼睫 / 睫毛 / 彩妆 / 眼妆 / aqua eyelashes / blonde eyelashes / blue eyelashes / green eyelashes"
+    },
+    {
+      "en": "mismatched eyeshadow",
+      "zh": "不对称眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45
+    },
+    {
+      "en": "mismatched eyelashes",
+      "zh": "异色睫毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1025,
+      "desc": "睫毛颜色与发色不一致或两眼睫毛颜色不同。",
+      "kw": "不对称睫毛 / 左右异色睫毛 / 睫毛色不匹配 / 两色睫毛 / 异色睫毛颜色 / 眼睛 / 睫毛"
+    },
+    {
+      "en": "aegyo sal",
+      "zh": "卧蚕",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10511,
+      "desc": "眼下微鼓的脂肪，显得幼态可爱。",
+      "kw": "泪袋 / 眼下脂肪 / 撒娇肉 / 卧蚕眼 / 眼下饱满 / 涙袋 / 眼睛 / 化妆 / puffy eyelids / 涙袋 / 애굣살 / エギョサル"
+    },
+    {
+      "en": "eyeshadow under eye",
+      "zh": "下眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 290,
+      "desc": "下眼睑处明显的眼影",
+      "kw": "下眼睑眼影 / 眼下画眼影 / 眼下彩妆 / 下眼角眼影 / 卧蚕眼影 / 眼妆 / 化妆品"
+    },
+    {
+      "en": "smokey eyeshadow",
+      "zh": "烟熏眼影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 91,
+      "desc": "用深色晕染出烟熏效果的眼影。",
+      "kw": "烟熏妆眼影 / 烟熏眼妆 / 烟熏色眼影 / 深邃眼影 / smokey eye"
+    },
+    {
+      "en": "+_-",
+      "zh": "+_-（瞳孔）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 158,
+      "desc": "瞳孔中同时有加号和减号的表情",
+      "kw": "加号与减号眼 / 加减号眼 / 正负号眼 / 加减瞳孔 / 加号减号瞳孔 / 瞳孔加号减号 / 加号减号表情 / + -"
+    },
+    {
+      "en": "<|> <|>",
+      "zh": "猫眼",
+      "rating": "g",
+      "count": 2435,
+      "desc": "细竖瞳的猫形眼睛",
+      "kw": "猫瞳 / 竖瞳猫眼 / 猫形眼睛 / 细竖瞳 / 猫眼眼型 / 猫目 / 猫咪眼 / 眯眯眼"
+    },
+    {
+      "en": "alternate eye color",
+      "zh": "换瞳色",
+      "rating": "g",
+      "count": 21158,
+      "desc": "角色瞳色与官方设定不同，属于艺术自由",
+      "kw": "改瞳色 / 换眼睛颜色 / 瞳色变更 / 非原设瞳色 / 瞳色不同 / 替换瞳色 / 眼睛颜色变更 / 非官方瞳色 / alternative eye color"
+    },
+    {
+      "en": "anime style eyes",
+      "zh": "动画眼",
+      "rating": "g"
+    },
+    {
+      "en": "artificial eye",
+      "zh": "义眼",
+      "rating": "g",
+      "count": 2690,
+      "desc": "对于机械眼，参见 mechanical eyes。对于玻璃眼，参见 glass eye。",
+      "kw": "假眼 / 人造眼"
+    },
+    {
+      "en": "beautiful detailed eyes",
+      "zh": "美丽的眼睛",
+      "rating": "g"
+    },
+    {
+      "en": "black eyeliner",
+      "zh": "黑色眼线",
+      "rating": "g",
+      "count": 2576,
+      "desc": "描画在眼睑边缘的黑色眼线",
+      "kw": "黑色眼线笔 / 眼线 / 黑眼线 / 上挑眼线 / 黑色眼影线 / 化妆"
+    },
+    {
+      "en": "blood from eyes",
+      "zh": "血从眼里流出",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5167,
+      "desc": "从眼睛流出血液或血泪",
+      "kw": "血泪 / 眼中流血 / 泣血 / 流血泪 / 眼流鲜血 / 血泪痕 / 眼睛出血 / 眼流血 / blood tears / crying blood / bloody tears / 血涙"
+    },
+    {
+      "en": "blue eyeliner",
+      "zh": "蓝色眼线",
+      "rating": "g",
+      "count": 1046,
+      "desc": "沿眼缘描画的蓝色眼线",
+      "kw": "蓝眼线 / 蓝色眼线笔 / 蓝色眼线妆容 / 眼线 / 化妆品"
+    },
+    {
+      "en": "bright pupils",
+      "zh": "明亮的瞳孔",
+      "rating": "g",
+      "count": 159205,
+      "desc": "瞳孔比虹膜更亮。",
+      "kw": "亮瞳孔 / 发光瞳孔 / 瞳孔发亮 / 亮眼瞳 / 高亮瞳孔 / 明亮眼瞳 / 瞳孔高光 / 瞳孔明亮"
+    },
+    {
+      "en": "colored eyebrows",
+      "zh": "异色眉毛",
+      "rating": "g",
+      "count": 1874,
+      "desc": "黑棕色以外的异色眉毛",
+      "kw": "彩色眉毛 / 异色眉 / 彩色眉 / 染色眉毛 / 非自然色眉毛 / 有色眉毛 / 眉毛着色 / 彩眉"
+    },
+    {
+      "en": "colored sclera",
+      "zh": "彩色巩膜",
+      "rating": "g",
+      "count": 80089,
+      "desc": "眼白部分呈非白色的其他颜色",
+      "kw": "异色眼白 / 彩色眼白 / 非白色眼白 / 有色巩膜 / 彩色眼睛巩膜 / 彩色眼白部分 / 眼睛特征"
+    },
+    {
+      "en": "covered eyes",
+      "zh": "蒙住的眼睛",
+      "rating": "g",
+      "count": 29984,
+      "desc": "眼睛被头发、衣物、物体或手等遮住。",
+      "kw": "遮住眼睛 / 眼睛被遮住 / 蒙住眼睛 / 捂住眼睛 / 挡住眼睛 / 眼睛被遮挡 / 遮眼状态 / 蒙眼 / eyes covered"
+    },
+    {
+      "en": "curly eyebrows",
+      "zh": "卷曲的眉毛",
+      "rating": "g",
+      "count": 4162,
+      "desc": "眉毛呈卷曲状的少见特征。",
+      "kw": "卷眉毛 / 卷卷眉毛 / 卷毛眉 / 螺旋眉 / 卷曲眉 / 卷曲眉毛 / 眉毛"
+    },
+    {
+      "en": "cutout eyelashes",
+      "zh": "镂空睫毛",
+      "rating": "g",
+      "count": 1132,
+      "desc": "睫毛内侧镂空，眼白延伸进去的睫毛画法",
+      "kw": "挖空睫毛 / 空白睫毛 / 眼白延伸睫毛 / 内透睫毛 / 睫毛 / 眼睛 / 妆容"
+    },
+    {
+      "en": "devil eyes",
+      "zh": "恶魔之眼",
+      "rating": "g"
+    },
+    {
+      "en": "disembodied linked eye",
+      "zh": "有线连接的漂浮眼",
+      "rating": "g",
+      "count": 49568,
+      "desc": "用线绳连在本体上的漂浮眼睛。",
+      "kw": "连线悬浮眼 / 漂浮眼球（连线） / 有线漂浮眼 / 悬空连接眼 / 连线眼 / 有线脱离眼 / 古明地恋特征 / 脱离眼睛 / floating linked eye / third eye (touhou)"
+    },
+    {
+      "en": "dot pupils",
+      "zh": "点瞳孔",
+      "rating": "g",
+      "count": 495,
+      "desc": "瞳孔画成小小的圆点",
+      "kw": "点瞳 / 圆点瞳孔 / 小点瞳孔 / 豆眼 / 点状眼 / 眼睛特征 / 绘画风格"
+    },
+    {
+      "en": "double-stroke eyebrows",
+      "zh": "双线眉",
+      "rating": "g",
+      "count": 707,
+      "desc": "眉毛以两条线描绘的样式",
+      "kw": "双重眉毛 / 两条眉毛 / 双笔画眉毛 / 双层眉毛 / 双线眉毛 / 眉毛画法 / 面部特征"
+    },
+    {
+      "en": "downturned eyes",
+      "zh": "眼睛向下看",
+      "rating": "g",
+      "count": 1698,
+      "desc": "头不低，只有眼睛向下看",
+      "kw": "眼珠下望 / 眼睛下看 / 垂眼 / 眼睛向下 / 目线向下 / 下视眼 / 俯视眼神"
+    },
+    {
+      "en": "dripping eye",
+      "zh": "眼球滴落",
+      "rating": "q",
+      "nsfw": true,
+      "count": 506,
+      "desc": "眼球像要滴出眼窝的夸张表现",
+      "kw": "眼球流出 / 滴眼 / 眼睛滴落 / 眼球下垂 / 眼球融化 / 融化眼睛 / 滴泪的眼睛 / 泪眼"
+    },
+    {
+      "en": "drop-shaped pupils",
+      "zh": "水滴形瞳孔",
+      "rating": "g",
+      "count": 4374,
+      "desc": "水滴形状的瞳孔",
+      "kw": "水滴瞳孔 / 水滴状瞳孔 / 水滴形瞳 / 水滴瞳 / 泪滴形瞳孔 / 泪滴瞳孔 / 水滴眼瞳 / 瞳孔效果"
+    },
+    {
+      "en": "evil eyes",
+      "zh": "邪恶的眼睛",
+      "rating": "g",
+      "count": 764,
+      "desc": "角色露出恶意、凶狠的视线",
+      "kw": "凶恶的眼神 / 恶意的视线 / 凶狠的眼神 / 阴险的眼神 / 邪恶视线 / 恶狠狠的眼神 / 邪眼 / 邪恶眼神"
+    },
+    {
+      "en": "eye reflection",
+      "zh": "瞳孔倒影",
+      "rating": "g",
+      "count": 1728,
+      "desc": "眼睛中映出的物体倒影",
+      "kw": "眼睛反射 / 眼内倒影 / 映在眼中的景物 / 眼睛反光 / 眼睛效果 / reflective eyes"
+    },
+    {
+      "en": "eyes",
+      "zh": "眼睛",
+      "rating": "g"
+    },
+    {
+      "en": "eyes in shadow",
+      "zh": "阴影中的眼睛",
+      "rating": "g",
+      "count": 1384,
+      "desc": "周围全黑、只有眼睛可见",
+      "kw": "眼睛在阴影中 / 阴影中的双眼 / 黑暗中眼睛 / 只有眼睛可见 / 暗处眼睛 / 阴影遮眼 / 发光眼睛"
+    },
+    {
+      "en": "eyes visible through eyewear",
+      "zh": "透过镜片可见的眼睛",
+      "rating": "g",
+      "count": 673,
+      "desc": "隔着深色镜片或遮眼物仍能看到眼睛",
+      "kw": "镜片下可见的眼睛 / 眼镜下可见的眼睛 / 透过眼镜可见的眼睛 / 镜片后的眼睛 / 透过眼镜可见眼睛 / 眼镜效果"
+    },
+    {
+      "en": "flaming eye",
+      "zh": "火焰眼",
+      "rating": "g",
+      "count": 4376,
+      "desc": "单只眼睛中冒出火焰",
+      "kw": "焰目 / 燃烧之眼 / 火眼 / 冒火的眼睛 / 火焰之眼 / 燃火之眼 / 燃瞳 / 眼睛 / burning eye / fiery eye"
+    },
+    {
+      "en": "flower in eye",
+      "zh": "花瞳",
+      "rating": "g",
+      "count": 3231,
+      "desc": "虹膜或瞳孔上带有花朵图案的眼睛。",
+      "kw": "花朵眼 / 花眼 / 眼睛里有花 / 瞳中花 / 眼中的花 / 眼中花 / 眼睛效果 / 花朵"
+    },
+    {
+      "en": "flower over eye",
+      "zh": "花遮眼",
+      "rating": "g",
+      "count": 2677,
+      "desc": "花朵自行停在一只眼睛上遮住视线",
+      "kw": "花朵遮住眼睛 / 花盖眼睛 / 花挡眼 / 眼上覆花 / 遮挡 / 花朵"
+    },
+    {
+      "en": "forked eyebrows",
+      "zh": "分叉的眉毛",
+      "rating": "g",
+      "count": 8880,
+      "desc": "外端分叉的眉毛",
+      "kw": "分叉眉 / 叉眉 / 分裂眉毛 / 分岔眉毛 / 双叉眉 / 叉形眉 / 眉毛 / 眉型"
+    },
+    {
+      "en": "grey sclera",
+      "zh": "灰色巩膜",
+      "rating": "g",
+      "count": 1499,
+      "desc": "眼白部分呈灰色。",
+      "kw": "灰色眼白 / 灰眼白 / 巩膜灰色 / 眼白灰色 / 灰色眼白部分 / 眼睛 / 异色"
+    },
+    {
+      "en": "half-closed eye",
+      "zh": "半闭的眼睛(单眼)",
+      "rating": "g",
+      "count": 11640,
+      "desc": "单只眼睛半闭的状态",
+      "kw": "半闭一只眼 / 单眼微闭 / 单眼眯起 / 一只眼半闭 / 半眼 / 单眼半开 / 眯一只眼 / 半睁眼 / one eye narrowed / 半目"
+    },
+    {
+      "en": "heart in eye",
+      "zh": "心形眼",
+      "rating": "s",
+      "count": 15859,
+      "desc": "眼睛里出现心形图案（瞳孔未变）",
+      "kw": "眼中爱心 / 眼睛里的爱心 / 眼睛爱心 / 爱心眼 / 心形眼睛 / 眼中的心形 / 效果"
+    },
+    {
+      "en": "hidden eyes",
+      "zh": "眼睛不可见",
+      "rating": "g",
+      "count": 1020,
+      "desc": "眼睛被遮挡的视觉特征",
+      "kw": "遮眼 / 隐藏眼睛 / 表情"
+    },
+    {
+      "en": "hollow eyes",
+      "zh": "空洞的眼睛",
+      "rating": "g",
+      "count": 3770,
+      "desc": "眼睛呈漆黑空洞状",
+      "kw": "空洞眼神 / 空洞眼 / 空眼 / 漆黑眼睛 / 空洞瞳孔 / 无神眼睛 / 双瞳空洞 / 黑色眼睛空洞"
+    },
+    {
+      "en": "huge eyebrows",
+      "zh": "粗大眉毛",
+      "rating": "g",
+      "count": 2073,
+      "desc": "与眼睛等大或更大的粗大眉毛",
+      "kw": "大粗眉 / 巨眉 / 超粗眉毛 / 粗眉 / 眉毛 / 脸部特征"
+    },
+    {
+      "en": "light brown eyes",
+      "zh": "浅棕色眼睛",
+      "rating": "g"
+    },
+    {
+      "en": "light eyes",
+      "zh": "明亮的眼睛",
+      "rating": "g"
+    },
+    {
+      "en": "long eyebrows",
+      "zh": "长眉毛",
+      "rating": "g",
+      "count": 1168,
+      "desc": "长过额头的眉毛",
+      "kw": "长眉 / 超长眉毛 / 细长眉毛 / 长到额头的眉毛 / 眉毛很长 / 眉毛 / 面部特征"
+    },
+    {
+      "en": "mature eyes",
+      "zh": "成熟眼型",
+      "rating": "g",
+      "count": 1080,
+      "desc": "年长者常见的较小眼型，眼周有细纹和眼袋",
+      "kw": "熟女眼 / 御姐眼 / 成熟眼睛 / 熟女眼睛 / 年长眼型 / 带细纹的眼睛 / 眼袋眼 / 成熟的眼睛"
+    },
+    {
+      "en": "mechanical eye",
+      "zh": "机械眼",
+      "rating": "g",
+      "count": 2215,
+      "desc": "具有赛博格或机械性质的人造眼睛。",
+      "kw": "科幻 / 义眼"
+    },
+    {
+      "en": "no eyebrows",
+      "zh": "没有眉毛",
+      "rating": "g",
+      "count": 3116,
+      "desc": "角色完全没有眉毛",
+      "kw": "无眉 / 没眉毛 / 眉毛缺失 / 剃眉 / 无眉毛 / 面部特征"
+    },
+    {
+      "en": "no heterochromia",
+      "zh": "无异色瞳",
+      "rating": "g",
+      "count": 547,
+      "desc": "本有异色瞳的角色被画成双眼同色",
+      "kw": "没有异色瞳 / 无虹膜异色 / 双眼同色 / 无异色症 / 非异色瞳 / 眼睛 / 单色瞳"
+    },
+    {
+      "en": "one eye covered",
+      "zh": "遮单眼",
+      "rating": "g",
+      "count": 76846,
+      "desc": "一只眼睛被完全遮住，隔发丝可见则不算",
+      "kw": "单眼遮盖 / 遮一眼 / 一只眼睛被挡住 / 单眼被遮 / 遮住一只眼 / 单眼遮挡 / 眼部遮挡 / 遮眼 / covered eye"
+    },
+    {
+      "en": "orange eyeliner",
+      "zh": "橙色眼线",
+      "rating": "g",
+      "count": 780,
+      "desc": "橙色眼线化妆品",
+      "kw": "橘色眼线 / 橙眼线 / 橘色眼线笔 / 眼线 / 眼妆 / 化妆品"
+    },
+    {
+      "en": "pink eyeliner",
+      "zh": "粉色眼线",
+      "rating": "g",
+      "count": 855,
+      "desc": "画在眼周的粉色眼线",
+      "kw": "粉红眼线 / 粉红色眼线 / 桃色眼线 / 化妆 / 眼妆"
+    },
+    {
+      "en": "pupils",
+      "zh": "瞳孔",
+      "rating": "g"
+    },
+    {
+      "en": "purple eyeliner",
+      "zh": "紫色眼线",
+      "rating": "g",
+      "count": 505,
+      "desc": "画在眼周的紫色眼线",
+      "kw": "紫色眼线笔 / 紫眼线 / 紫色眼影线 / 紫色眼线妆 / 紫色眼线液 / 眼线 / 化妆"
+    },
+    {
+      "en": "red eyeliner",
+      "zh": "红色眼线",
+      "rating": "g",
+      "count": 21374,
+      "desc": "沿睫毛根部描画的红色眼线",
+      "kw": "红眼线 / 红色眼线笔 / 红色眼线液 / 红眼线妆 / 红色眼妆 / 红眼线描画 / 眼线 / 眼妆"
+    },
+    {
+      "en": "reflective eyes",
+      "zh": "反光眼",
+      "rating": "g"
+    },
+    {
+      "en": "scar across eye",
+      "zh": "横跨眼睛的伤疤",
+      "rating": "g",
+      "count": 42084,
+      "desc": "伤疤横过单只眼睛，常致部分失明。",
+      "kw": "眼部伤疤 / 眼上疤痕 / 穿过眼睛的疤 / 眼伤疤 / 眼睛疤痕 / 眼上伤疤 / 伤疤 / 面部特征 / eye scar"
+    },
+    {
+      "en": "scar across eyebrow",
+      "zh": "眉毛伤疤",
+      "rating": "g",
+      "count": 939,
+      "desc": "位于眉毛处的横向伤疤",
+      "kw": "眉疤 / 眉毛上的伤疤 / 眉毛处伤疤 / 横跨眉毛的伤疤 / 眉毛疤 / 眉上疤痕 / 眉毛疤痕 / 面部疤痕 / scar through eyebrow"
+    },
+    {
+      "en": "shiny eyes",
+      "zh": "闪亮的眼睛",
+      "rating": "g",
+      "count": 1011,
+      "desc": "看起来格外闪亮的眼睛",
+      "kw": "闪闪发亮的眼睛 / 亮晶晶的眼睛 / 水汪汪的眼睛 / 闪亮眼 / 晶莹的眼睛 / 眼睛 / 闪耀眼神"
+    },
+    {
+      "en": "short eyebrows",
+      "zh": "短眉毛",
+      "rating": "g",
+      "count": 43320,
+      "desc": "只覆盖部分眉骨的短眉毛。",
+      "kw": "豆豆眉 / 麻吕眉 / 短眉 / 圆眉毛 / 小眉毛 / 点眉 / 眉毛 / 面部特征 / round eyebrows"
+    },
+    {
+      "en": "snake pupils",
+      "zh": "蛇瞳孔",
+      "rating": "g"
+    },
+    {
+      "en": "sparkling anime eyes",
+      "zh": "闪光动画眼",
+      "rating": "g"
+    },
+    {
+      "en": "spiral eyes",
+      "zh": "漩涡眼",
+      "rating": "g"
+    },
+    {
+      "en": "square pupils",
+      "zh": "方形瞳孔",
+      "rating": "g",
+      "count": 1298,
+      "desc": "形状为方形的瞳孔。",
+      "kw": "方瞳孔 / 正方形瞳孔 / 方块瞳孔 / 四方形瞳孔 / 方瞳 / 瞳孔 / 眼睛特征"
+    },
+    {
+      "en": "star in eye",
+      "zh": "眼睛里的星星",
+      "rating": "g",
+      "count": 14078,
+      "desc": "眼睛内部出现星形，瞳孔本身并非星形",
+      "kw": "眼里有星 / 星星眼 / 星形瞳孔 / 眼内星形 / 眼星星 / 眼中有星星 / 星光眼 / stars in eye"
+    },
+    {
+      "en": "symbol in eye",
+      "zh": "眼睛里有符号",
+      "rating": "g",
+      "count": 36304,
+      "desc": "眼睛中出现与瞳孔形状无关的符号或图案。",
+      "kw": "眼睛里符号 / 瞳孔符号 / 眼睛图案 / 眼内标志 / 眼中标记 / 眼瞳符号 / 眼睛特殊符号 / 眼睛"
+    },
+    {
+      "en": "tear troughs",
+      "zh": "泪沟",
+      "rating": "g",
+      "count": 726,
+      "desc": "眼窝下缘与鼻梁交界处形成的凹陷沟纹",
+      "kw": "泪槽 / 眼下沟 / 眼窝凹陷 / 眼袋沟 / 眼下凹槽 / 鼻颧沟 / 眼窝沟 / 面部特征"
+    },
+    {
+      "en": "thick eyelashes",
+      "zh": "浓密睫毛",
+      "rating": "g",
+      "count": 7598,
+      "desc": "比平常更浓密显眼的睫毛",
+      "kw": "浓睫毛 / 浓密眼睫毛 / 浓睫 / 粗睫毛 / 密的睫毛 / 睫毛 / 眼睛特征"
+    },
+    {
+      "en": "too many eyes",
+      "zh": "眼睛太多",
+      "rating": "s",
+      "count": 736,
+      "desc": "角色或生物身上长有过多眼睛，有时引发密集恐惧。",
+      "kw": "多眼 / 眼睛过多 / 大量眼睛 / 满身眼睛 / 密集眼睛 / 眼球过多 / 无数眼睛 / 过多的眼睛"
+    },
+    {
+      "en": "v-shaped eyes",
+      "zh": "V形眼睛",
+      "rating": "g",
+      "count": 3835,
+      "desc": "上眼睑呈V形下斜的眼睛",
+      "kw": "V字眼 / V形眼 / V字型眼睛 / V眼 / 动漫眼 / 眼睛形状"
+    },
+    {
+      "en": "very big eyes",
+      "zh": "特别大的眼睛",
+      "rating": "g",
+      "count": 532,
+      "desc": "大到占脸部一半面积以上的眼睛",
+      "kw": "超大眼 / 巨眼 / 大眼睛 / 巨大的眼睛 / 超大眼睛 / 特大眼 / 夸张大眼睛"
+    },
+    {
+      "en": "water eyes",
+      "zh": "水汪汪的眼睛",
+      "rating": "g"
+    },
+    {
+      "en": "wavy eyes",
+      "zh": "波浪眼",
+      "rating": "g",
+      "count": 2376,
+      "desc": "眼睛画成波浪形圆圈，常表现难过或撒娇",
+      "kw": "波浪形眼睛 / 波浪状眼睛 / 波浪眼睛 / 水波眼 / 波浪眼珠 / 眼睛效果 / 特殊瞳孔"
+    },
+    {
+      "en": "white eyelashes",
+      "zh": "白色睫毛",
+      "rating": "g",
+      "count": 9079,
+      "desc": "颜色为白色的睫毛",
+      "kw": "白睫毛 / 白色眼睫毛 / 银白色睫毛 / 睫毛 / 眼睛特征"
+    },
+    {
+      "en": "wide oval eyes",
+      "zh": "宽椭圆眼",
+      "rating": "g",
+      "count": 1380,
+      "desc": "画成横向白色椭圆、用于表现惊讶的眼睛",
+      "kw": "宽椭圆眼睛 / 横向椭圆眼 / 白色椭圆眼 / 惊讶椭圆眼 / 大椭圆眼 / 眼睛"
+    }
+  ]
+}

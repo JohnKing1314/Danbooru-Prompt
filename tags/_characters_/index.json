@@ -1,0 +1,35 @@
+{
+  "app": "Danbooru Prompt",
+  "version": "1.0",
+  "type": "character_tree_manifest",
+  "majors": [
+    {
+      "id": "games",
+      "name": "🎮 游戏",
+      "icon": "🎮",
+      "order": 1,
+      "file": "games.json"
+    },
+    {
+      "id": "anime",
+      "name": "📺 番剧",
+      "icon": "📺",
+      "order": 2,
+      "file": "anime.json"
+    },
+    {
+      "id": "vtuber",
+      "name": "🎤 VTuber",
+      "icon": "🎤",
+      "order": 3,
+      "file": "vtuber.json"
+    },
+    {
+      "id": "custom",
+      "name": "⭐ 自定义角色",
+      "icon": "⭐",
+      "order": 4,
+      "file": "custom.json"
+    }
+  ]
+}

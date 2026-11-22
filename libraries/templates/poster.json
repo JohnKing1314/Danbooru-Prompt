@@ -1,0 +1,15 @@
+{
+  "id": "poster",
+  "icon": "🪧",
+  "name": "活动海报（中文）",
+  "desc": "主标题 + 主视觉 + 时间地点 + CTA",
+  "tags": "1girl|一个女孩;poster illustration|海报插画;bold typography|粗体排版;text on poster|海报上的文字;flat vector illustration|扁平矢量插画;clean composition|干净构图",
+  "layout": {
+    "tpl": "poster",
+    "size": "1024x1536",
+    "title": "校园二手集市",
+    "sub": "11月15日 周六 \n 10:00-17:00 \n 大学生活动中心前广场",
+    "info": "扫码进群 免费摊位预约"
+  },
+  "builtin": true
+}

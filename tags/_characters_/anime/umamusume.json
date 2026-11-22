@@ -1,0 +1,1135 @@
+{
+  "id": "umamusume",
+  "name": "赛马娘",
+  "parentId": "games",
+  "order": 16,
+  "file": "games/umamusume.json",
+  "characters": [
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "特别周",
+      "tag": "special week (umamusume)",
+      "charZh": "特别周（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;purple eyes|紫瞳;horse ears|马耳;tail|尾巴;horse girl|马娘;white hair|白发;short hair|短发;two-tone hair|双色发;horse tail|马尾巴;ear bow|耳饰蝴蝶结;purple bow|紫色蝴蝶结",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "无声铃鹿",
+      "tag": "silence suzuka (umamusume)",
+      "charZh": "无声铃鹿（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;orange hair|橙发;horse tail|马尾巴;ear covers|马耳耳罩;blunt bangs|齐刘海;white hairband|白色发箍;blue eyes|蓝瞳;crown braid|皇冠辫;navel|肚脐;bare shoulders|露肩;hair flower|发花",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "东海帝王",
+      "tag": "tokai teio (umamusume)",
+      "charZh": "东海帝王（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;purple eyes|紫瞳;horse ears|马耳;horse girl|马娘;streaked hair|挑染;horse tail|马尾巴;blue eyes|蓝瞳;white hair|白发;long hair|长发;ponytail|马尾;hair between eyes|眼间发;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "目白麦昆",
+      "tag": "mejiro mcqueen (umamusume)",
+      "charZh": "目白麦昆（赛马娘）",
+      "auto": "grey hair|灰发;long hair|长发;horse ears|马耳;horse girl|马娘;purple hair|紫发;purple eyes|紫瞳;horse tail|马尾巴;long sleeves|长袖;ear bow|耳饰蝴蝶结;outdoors|室外;bare shoulders|露肩;necklace|项链",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "小栗帽",
+      "tag": "oguri cap (umamusume)",
+      "charZh": "小栗帽（赛马娘）",
+      "auto": "grey hair|灰发;long hair|长发;horse ears|马耳;horse girl|马娘;ahoge|呆毛;blue eyes|蓝瞳;horse tail|马尾巴;long sleeves|长袖;ear ornament|耳饰;hair between eyes|眼间发",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "黄金船",
+      "tag": "gold ship (umamusume)",
+      "charZh": "黄金船（赛马娘）",
+      "auto": "silver hair|银发;long hair|长发;horse ears|马耳;horse girl|马娘;grey hair|灰发;horse tail|马尾巴;ear bow|耳饰蝴蝶结;purple eyes|紫瞳;purple bow|紫色蝴蝶结;brown hat|棕色帽子;pillbox hat|药盒帽;sunglasses|墨镜;eyewear on head|头顶眼镜;black one-piece swimsuit|黑色连体泳装;large breasts|大胸;outdoors|室外",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "大和赤骥",
+      "tag": "daiwa scarlet (umamusume)",
+      "charZh": "大和赤骥（赛马娘）",
+      "auto": "red hair|红发;twintails|双马尾;horse ears|马耳;horse girl|马娘;brown hair|棕发;red eyes|红瞳;tiara|冠冕;hair intakes|内卷发;very long hair|超长发;horse tail|马尾巴;hair between eyes|眼间发;red dress|红色连衣裙;red gloves|红色手套;large breasts|大胸;red bikini|红色比基尼;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "伏特加",
+      "tag": "vodka (umamusume)",
+      "charZh": "伏特加（赛马娘）",
+      "auto": "black hair|黑发;short hair|短发;horse ears|马耳;horse girl|马娘;brown hair|棕发;hair over one eye|遮单眼发;horse tail|马尾巴;white hair|白发;brown eyes|棕瞳;streaked hair|挑染;long hair|长发;black jacket|黑色夹克;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "爱丽速子",
+      "tag": "agnes tachyon (umamusume)",
+      "charZh": "爱丽速子（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;red eyes|红瞳;hair between eyes|眼间发;ahoge|呆毛;lab coat|白大褂;horse tail|马尾巴;short hair|短发;single earring|单侧耳环;sleeves past fingers|过指袖;black bikini|黑色比基尼;criss-cross halter|交叉挂脖;green jacket|绿色夹克;tied jacket|系起的夹克;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "米浴",
+      "tag": "rice shower (umamusume)",
+      "charZh": "米浴（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;horse ears|马耳;blue eyes|蓝瞳;horse girl|马娘;hair over one eye|遮单眼发;long hair|长发;purple eyes|紫瞳;horse tail|马尾巴;blue rose|蓝玫瑰;tilted headwear|斜戴头饰;hat flower|帽花;long sleeves|长袖;black gloves|黑色手套;white shirt|白衬衫;frilled hairband|荷叶边发箍;puffy short sleeves|泡泡短袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "目白莱恩",
+      "tag": "mejiro ryan (umamusume)",
+      "charZh": "目白莱恩（赛马娘）",
+      "auto": "grey hair|灰发;long hair|长发;horse ears|马耳;horse girl|马娘;short hair|短发;brown hair|棕发;white hair|白发;horse tail|马尾巴;two-tone hair|双色发;midriff|腹部;navel|肚脐;white gloves|白色手套;ear piercing|耳钉;purple eyes|紫瞳;tied shirt|下摆打结衬衫",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "目白多伯",
+      "tag": "mejiro dober (umamusume)",
+      "charZh": "目白多伯（赛马娘）",
+      "auto": "grey hair|灰发;long hair|长发;horse ears|马耳;horse girl|马娘;purple eyes|紫瞳;brown hair|棕发;horse tail|马尾巴;hairclip|发夹;ear bow|耳饰蝴蝶结;hair between eyes|眼间发;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "鲁道夫象征",
+      "tag": "symboli rudolf (umamusume)",
+      "charZh": "鲁道夫象征（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;streaked hair|挑染;purple eyes|紫瞳;white hair|白发;hair between eyes|眼间发;horse tail|马尾巴;long sleeves|长袖;single earring|单侧耳环;single epaulette|单肩章",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "气槽",
+      "tag": "air groove (umamusume)",
+      "charZh": "气槽（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;short hair|短发;horse tail|马尾巴;blue eyes|蓝瞳;purple eyes|紫瞳;ear ornament|耳饰;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "富士奇迹",
+      "tag": "fuji kiseki (umamusume)",
+      "charZh": "富士奇迹（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;black hair|黑发;short hair|短发;blue eyes|蓝瞳;long sleeves|长袖;black jacket|黑色夹克;ear ornament|耳饰;ahoge|呆毛;black necktie|黑色领带;white shirt|白衬衫;center frills|胸前荷叶边;black gloves|黑色手套;white hair|白发;collared shirt|翻领衬衫",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "菱亚马逊",
+      "tag": "hishi amazon (umamusume)",
+      "charZh": "菱亚马逊（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;dark-skinned female|深肤色女性;black hair|黑发;red eyes|红瞳;horse tail|马尾巴;hair between eyes|眼间发;hairclip|发夹;very long hair|超长发;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "神鹰",
+      "tag": "el condor pasa (umamusume)",
+      "charZh": "神鹰（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;blue eyes|蓝瞳;domino mask|多米诺眼罩;horse tail|马尾巴;ponytail|马尾;hair between eyes|眼间发;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "草上飞",
+      "tag": "grass wonder (umamusume)",
+      "charZh": "草上飞（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;blue eyes|蓝瞳;horse tail|马尾巴;long sleeves|长袖;white hair|白发;streaked hair|挑染",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "千明代表",
+      "tag": "mr. c.b. (umamusume)",
+      "charZh": "千明代表（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;ahoge|呆毛;mini top hat|迷你高礼帽;hair between eyes|眼间发;hairclip|发夹;horse tail|马尾巴;long sleeves|长袖;navel|肚脐;midriff|腹部",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "丸善斯基",
+      "tag": "maruzensky (umamusume)",
+      "charZh": "丸善斯基（赛马娘）",
+      "auto": "blonde hair|金发;long hair|长发;horse ears|马耳;horse girl|马娘;brown hair|棕发;horse tail|马尾巴;hair between eyes|眼间发;ear bow|耳饰蝴蝶结;aqua eyes|青绿色眼睛;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "目白阿尔丹",
+      "tag": "mejiro ardan (umamusume)",
+      "charZh": "目白阿尔丹（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;purple eyes|紫瞳;crown braid|冠形编发;horse tail|马尾巴;ear ornament|耳饰;blue hair|蓝发;light blue hair|浅蓝发;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "目白帕尔默",
+      "tag": "mejiro palmer (umamusume)",
+      "charZh": "目白帕尔默（赛马娘）",
+      "auto": "grey hair|灰发;long hair|长发;horse ears|马耳;horse girl|马娘;brown hair|棕发;streaked hair|挑染;horse tail|马尾巴;blue eyes|蓝瞳;white hair|白发;ponytail|马尾;hair between eyes|眼间发;navel|肚脐;midriff|腹部",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "成田白仁",
+      "tag": "narita brian (umamusume)",
+      "charZh": "成田白仁（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;horse ears|马耳;horse girl|马娘;black hair|黑发;yellow eyes|黄瞳;bandaid on nose|鼻上贴创可贴;ponytail|马尾;long hair|长发;horse tail|马尾巴;ear ornament|耳饰;hair between eyes|眼间发;shimenawa|注连绳;very long hair|超长发",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "天狼星象征",
+      "tag": "sirius symboli (umamusume)",
+      "charZh": "天狼星象征（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;horse ears|马耳;horse girl|马娘;red eyes|红瞳;streaked hair|挑染;white hair|白发;hair between eyes|眼间发;ear ornament|耳饰;very long hair|超长发;horse tail|马尾巴;collared shirt|翻领衬衫",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "大树快车",
+      "tag": "taiki shuttle (umamusume)",
+      "charZh": "大树快车（赛马娘）",
+      "auto": "orange hair|橙发;long hair|长发;blue eyes|蓝瞳;horse ears|马耳;horse girl|马娘;brown hair|棕发;ponytail|马尾;star hair ornament|星形发饰;horse tail|马尾巴;hair between eyes|眼间发;bare shoulders|露肩;navel|肚脐;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "好歌剧",
+      "tag": "t.m. opera o (umamusume)",
+      "charZh": "好歌剧（赛马娘）",
+      "auto": "orange hair|橙发;long hair|长发;brown eyes|棕瞳;horse ears|马耳;horse girl|马娘;short hair|短发;purple eyes|紫瞳;long sleeves|长袖;hair between eyes|眼间发;mini crown|小皇冠;horse tail|马尾巴;pink cape|粉披风;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "爱丽数码",
+      "tag": "agnes digital (umamusume)",
+      "charZh": "爱丽数码（赛马娘）",
+      "auto": "pink hair|粉发;long hair|长发;pink eyes|粉瞳;hair bow|蝴蝶结发饰;horse girl|马娘;horse ears|马耳;blue eyes|蓝瞳;horse tail|马尾巴;small breasts|小胸;two side up|半扎双马尾",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "星云天空",
+      "tag": "seiun sky (umamusume)",
+      "charZh": "星云天空（赛马娘）",
+      "auto": "silver hair|银发;short hair|短发;yellow eyes|黄瞳;hair flower|头花;horse ears|马耳;horse girl|马娘;blue eyes|蓝瞳;horse tail|马尾巴;single ear cover|单耳耳罩;hairclip|发夹;grey hair|灰发;hair between eyes|眼间发;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "玉藻十字",
+      "tag": "tamamo cross (umamusume)",
+      "charZh": "玉藻十字（赛马娘）",
+      "auto": "silver hair|银发;short hair|短发;red eyes|红瞳;hairband|发箍;horse ears|马耳;horse girl|马娘;grey hair|灰发;blue eyes|蓝瞳;long hair|长发;horse tail|马尾巴;ear covers|马耳耳罩;hair between eyes|眼间发;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "美妙姿势",
+      "tag": "fine motion (umamusume)",
+      "charZh": "美妙姿势（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;green eyes|绿瞳;horse ears|马耳;horse girl|马娘;hair between eyes|眼间发;horse tail|马尾巴;white hair|白发;clover hair ornament|四叶草发饰;streaked hair|挑染",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "琵琶晨光",
+      "tag": "biwa hayahide (umamusume)",
+      "charZh": "琵琶晨光（赛马娘）",
+      "auto": "white hair|白发;very long hair|超长发;glasses|眼镜;yellow eyes|黄瞳;horse ears|马耳;horse girl|马娘;ahoge|呆毛;grey hair|灰发;red-framed eyewear|红框眼镜;semi-rimless eyewear|半框眼镜;horse tail|马尾巴;long hair|长发;ear ornament|耳饰;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "摩耶重炮",
+      "tag": "mayano top gun (umamusume)",
+      "charZh": "摩耶重炮（赛马娘）",
+      "auto": "orange hair|橙发;long hair|长发;yellow eyes|黄瞳;horse girl|马娘;horse ears|马耳;horse tail|马尾巴;two side up|半扎双马尾;orange eyes|橙瞳;hair between eyes|眼间发;navel|肚脐;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "曼城茶座",
+      "tag": "manhattan cafe (umamusume)",
+      "charZh": "曼城茶座（赛马娘）",
+      "auto": "black hair|黑发;long hair|长发;yellow eyes|黄瞳;hairband|发箍;horse girl|马娘;horse ears|马耳;ahoge|呆毛;hair between eyes|眼间发;single earring|单侧耳环;two-tone hair|双色发;horse tail|马尾巴;white hair|白发;grey hair|灰发;green kimono|绿色和服;single ear cover|单耳罩;long sleeves|长袖;long bangs|长刘海",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "美浦波旁",
+      "tag": "mihono bourbon (umamusume)",
+      "charZh": "美浦波旁（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;hair ribbon|发带;horse girl|马娘;horse ears|马耳;ahoge|呆毛;horse tail|马尾巴;ear ornament|耳饰;hair between eyes|眼间发;bare shoulders|露肩;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "菱曙",
+      "tag": "hishi akebono (umamusume)",
+      "charZh": "菱曙（赛马娘）",
+      "auto": "brown hair|棕发;twintails|双马尾;red eyes|红瞳;horse ears|马耳;horse girl|马娘;horse tail|马尾巴;long hair|长发;hair between eyes|眼间发;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "雪中美人",
+      "tag": "yukino bijin (umamusume)",
+      "charZh": "雪中美人（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;blue eyes|蓝瞳;hairband|发箍;horse girl|马娘;horse ears|马耳;brown eyes|棕瞳;horse tail|马尾巴;headband|头带;medium hair|中长发;crown braid|冠形编发;ear covers|马耳耳罩",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "爱丽花",
+      "tag": "ines fujin (umamusume)",
+      "charZh": "爱丽花（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;green eyes|绿瞳;hat|帽子;horse girl|马娘;horse ears|马耳;side ponytail|侧马尾;horse tail|马尾巴;visor cap|遮阳帽;freckles|雀斑;single ear cover|单耳耳罩;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "爱慕织姬",
+      "tag": "admire vega (umamusume)",
+      "charZh": "爱慕织姬（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;red eyes|红瞳;horse girl|马娘;horse ears|马耳;horse tail|马尾巴;hair between eyes|眼间发;single ear cover|单耳耳罩;purple eyes|紫瞳;low ponytail|低马尾;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "稻荷一",
+      "tag": "inari one (umamusume)",
+      "charZh": "稻荷一（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;green eyes|绿瞳;fox mask|狐狸面具;horse ears|马耳;horse girl|马娘;twintails|双马尾;horse tail|马尾巴;mask on head|头上的面具;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "胜利奖券",
+      "tag": "winning ticket (umamusume)",
+      "charZh": "胜利奖券（赛马娘）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳;hairband|发箍;horse ears|马耳;horse girl|马娘;horse tail|马尾巴;hairclip|发夹;bandaid on face|脸颊创可贴;ear ornament|耳饰;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "空中神宫",
+      "tag": "air shakur (umamusume)",
+      "charZh": "空中神宫（赛马娘）",
+      "auto": "black hair|黑发;short hair|短发;blue eyes|蓝瞳;hair ornament|发饰;horse ears|马耳;horse girl|马娘;eyebrow piercing|眉钉;yellow eyes|黄瞳;long hair|长发;horse tail|马尾巴;ear piercing|耳钉;ear ornament|耳饰;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "荣进闪耀",
+      "tag": "eishin flash (umamusume)",
+      "charZh": "荣进闪耀（赛马娘）",
+      "auto": "black hair|黑发;short hair|短发;blue eyes|蓝瞳;hair flower|头花;horse ears|马耳;horse girl|马娘;horse tail|马尾巴;hair between eyes|眼间发;bob cut|波波头;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "真机伶",
+      "tag": "curren chan (umamusume)",
+      "charZh": "真机伶（赛马娘）",
+      "auto": "silver hair|银发;short hair|短发;purple eyes|紫瞳;horse ears|马耳;horse girl|马娘;grey hair|灰发;ear covers|马耳耳罩;horse tail|马尾巴;ear bow|耳饰蝴蝶结;red bow|红色蝴蝶结;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "川上公主",
+      "tag": "kawakami princess (umamusume)",
+      "charZh": "川上公主（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;hair ribbon|发带;horse ears|马耳;horse girl|马娘;horse tail|马尾巴;ear ornament|耳饰;bare shoulders|露肩;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "黄金城",
+      "tag": "gold city (umamusume)",
+      "charZh": "黄金城（赛马娘）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;horse ears|马耳;horse girl|马娘;long sleeves|长袖;midriff|腹部;horse tail|马尾巴;blue bow|蓝色蝴蝶结;navel|肚脐;ear bow|耳饰蝴蝶结;tube top|抹胸上衣",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "樱花进王",
+      "tag": "sakura bakushin o (umamusume)",
+      "charZh": "樱花进王（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;orange eyes|橙瞳;side ponytail|侧马尾;horse girl|马娘;horse ears|马耳;ponytail|马尾;horse tail|马尾巴;flower in eye|眼内花纹;symbol in eye|眼内符号;epaulettes|肩章;symbol-shaped pupils|符号瞳",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "采珠",
+      "tag": "seeking the pearl (umamusume)",
+      "charZh": "采珠（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;sunglasses|墨镜",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "新光风",
+      "tag": "shinko windy (umamusume)",
+      "charZh": "新光风（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;purple eyes|紫瞳;horse ears|马耳;horse girl|马娘;horse tail|马尾巴;sharp teeth|尖牙;short hair|短发;white hair|白发;streaked hair|挑染;hair between eyes|眼间发;v-shaped eyebrows|V型眉",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "东商变革",
+      "tag": "sweep tosho (umamusume)",
+      "charZh": "东商变革（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;witch hat|女巫帽;horse girl|马娘;horse ears|马耳;hair rings|发环;purple eyes|紫瞳;twintails|双马尾;horse tail|马尾巴;white gloves|白色手套",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "超级小海湾",
+      "tag": "super creek (umamusume)",
+      "charZh": "超级小海湾（赛马娘）",
+      "auto": "red hair|红发;long hair|长发;blue eyes|蓝瞳;braid|麻花辫;horse girl|马娘;horse ears|马耳;brown hair|棕发;hair between eyes|眼间发;horse tail|马尾巴;very long hair|超长发;streaked hair|挑染;white hair|白发;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "醒目飞鹰",
+      "tag": "smart falcon (umamusume)",
+      "charZh": "醒目飞鹰（赛马娘）",
+      "auto": "brown hair|棕发;twintails|双马尾;orange eyes|橙瞳;star hair ornament|星形发饰;horse girl|马娘;horse ears|马耳;horse tail|马尾巴;hair bow|蝴蝶结发饰;brown eyes|棕瞳;hair between eyes|眼间发;medium hair|中长发",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "荒漠英雄",
+      "tag": "zenno rob roy (umamusume)",
+      "charZh": "荒漠英雄（赛马娘）",
+      "auto": "grey hair|灰发;long hair|长发;glasses|眼镜;blue eyes|蓝瞳;horse ears|马耳;horse girl|马娘;black hair|黑发;crown braid|冠形编发;black-framed eyewear|黑框眼镜;horse tail|马尾巴;long sleeves|长袖;ear ornament|耳饰;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "东瀛佐敦",
+      "tag": "tosen jordan (umamusume)",
+      "charZh": "东瀛佐敦（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;horse girl|马娘;horse ears|马耳;twintails|双马尾;horse tail|马尾巴;ear ornament|耳饰;multicolored nails|多彩美甲;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "中山庆典",
+      "tag": "nakayama festa (umamusume)",
+      "charZh": "中山庆典（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;red eyes|红瞳;beanie|毛线帽;horse ears|马耳;horse girl|马娘;purple eyes|紫瞳;ears through headwear|帽洞露耳;horse tail|马尾巴;hair between eyes|眼间发;grey hat|灰帽子;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "成田大进",
+      "tag": "narita taishin (umamusume)",
+      "charZh": "成田大进（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;blue eyes|蓝瞳;horse girl|马娘;horse ears|马耳;hair between eyes|眼间发;horse tail|马尾巴;long sleeves|长袖;ear ornament|耳饰;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "西野花",
+      "tag": "nishino flower (umamusume)",
+      "charZh": "西野花（赛马娘）",
+      "auto": "purple hair|紫发;short hair|短发;purple eyes|紫瞳;hair ribbon|发带;horse girl|马娘;horse ears|马耳;horse tail|马尾巴;x hair ornament|X形发饰;brown hair|棕发;ear covers|马耳耳罩",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "春乌拉拉",
+      "tag": "haru urara (umamusume)",
+      "charZh": "春乌拉拉（赛马娘）",
+      "auto": "pink hair|粉发;twintails|双马尾;pink eyes|粉瞳;hair ribbon|发带;horse girl|马娘;horse ears|马耳;ponytail|马尾;horse tail|马尾巴;long hair|长发;ear covers|马耳耳罩;flower-shaped pupils|花形瞳孔;fingerless gloves|露指手套",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "青竹回忆",
+      "tag": "bamboo memory (umamusume)",
+      "charZh": "青竹回忆（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;headband|头巾;horse ears|马耳;horse girl|马娘;short hair|短发;streaked hair|挑染;hair between eyes|眼间发;horse tail|马尾巴;white gloves|白色手套;white hair|白发;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "微光飞驹",
+      "tag": "biko pegasus (umamusume)",
+      "charZh": "微光飞驹（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;orange eyes|橙瞳;butterfly hair ornament|蝴蝶发饰",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "美丽周日",
+      "tag": "marvelous sunday (umamusume)",
+      "charZh": "美丽周日（赛马娘）",
+      "auto": "black hair|黑发;long hair|长发;orange eyes|橙瞳;horse ears|马耳;horse girl|马娘;twintails|双马尾;yellow eyes|黄瞳;horse tail|马尾巴;fang|虎牙;+ +|星星眼;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "待兼福来",
+      "tag": "matikanefukukitaru (umamusume)",
+      "charZh": "待兼福来（赛马娘）",
+      "auto": "orange hair|橙发;short hair|短发;orange eyes|橙瞳;horse girl|马娘;horse ears|马耳;single ear cover|单耳耳罩;hair between eyes|眼间发;flipped hair|外翘发尾;horse tail|马尾巴;daruma doll|达摩不倒翁;yellow eyes|黄瞳;+ +|星星眼",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "名将怒涛",
+      "tag": "meisho doto (umamusume)",
+      "charZh": "名将怒涛（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;purple eyes|紫瞳;horse ears|马耳;horse girl|马娘;ahoge|呆毛;white hair|白发;hair between eyes|眼间发;streaked hair|挑染;horse tail|马尾巴;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "优秀素质",
+      "tag": "nice nature (umamusume)",
+      "charZh": "优秀素质（赛马娘）",
+      "auto": "red hair|红发;twintails|双马尾;red eyes|红瞳;horse ears|马耳;horse girl|马娘;horse tail|马尾巴;brown hair|棕发;brown eyes|棕瞳;streaked hair|挑染;medium hair|中长发;navel|肚脐;ear covers|马耳耳罩;midriff|腹部;white skirt|白裙;blue jacket|蓝色夹克;cheerleader|啦啦队员;ponytail|马尾;white shirt|白衬衫",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "圣王光环",
+      "tag": "king halo (umamusume)",
+      "charZh": "圣王光环（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;red eyes|红瞳;hair ribbon|发带;horse girl|马娘;horse ears|马耳;ear covers|马耳耳罩;horse tail|马尾巴;bare shoulders|露肩;hair between eyes|眼间发;wavy hair|波浪发;green dress|绿色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "待兼诗歌剧",
+      "tag": "matikanetannhauser (umamusume)",
+      "charZh": "待兼诗歌剧（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;yellow eyes|黄瞳;hat|帽子;horse girl|马娘;horse ears|马耳;hairclip|发夹;horse tail|马尾巴;medium hair|中长发;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "生野狄杜斯",
+      "tag": "ikuno dictus (umamusume)",
+      "charZh": "生野狄杜斯（赛马娘）",
+      "auto": "orange hair|橙发;long hair|长发;glasses|眼镜;horse ears|马耳;horse girl|马娘;round eyewear|圆框眼镜;brown hair|棕发;horse tail|马尾巴;long sleeves|长袖;braided ponytail|麻花辫马尾;ear ornament|耳饰",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "大拓太阳神",
+      "tag": "daitaku helios (umamusume)",
+      "charZh": "大拓太阳神（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;orange eyes|橙瞳;horse ears|马耳;horse girl|马娘;blue hair|蓝发;horse tail|马尾巴;streaked hair|挑染;yellow eyes|黄瞳;ear covers|马耳耳罩;hairclip|发夹;side ponytail|侧马尾;colored inner hair|挂耳染;fang|虎牙",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "双涡轮",
+      "tag": "twin turbo (umamusume)",
+      "charZh": "双涡轮（赛马娘）",
+      "auto": "blue hair|蓝发;long hair|长发;purple eyes|紫瞳;horse girl|马娘;twintails|双马尾;horse ears|马耳;ahoge|呆毛;blue eyes|蓝瞳;heterochromia|异色瞳;sharp teeth|尖牙;crossed bangs|交叉刘海;sidelocks|鬓发;two-tone hair|双色发;aqua hair|水色头发;hair bow|蝴蝶结发饰",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "里见光钻",
+      "tag": "satono diamond (umamusume)",
+      "charZh": "里见光钻（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;red eyes|红瞳;horse girl|马娘;horse ears|马耳;hair between eyes|眼间发;horse tail|马尾巴;ear ornament|耳饰;very long hair|超长发;streaked hair|挑染;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "北部玄驹",
+      "tag": "kitasan black (umamusume)",
+      "charZh": "北部玄驹（赛马娘）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;hair ribbon|发带;horse girl|马娘;horse ears|马耳;streaked hair|挑染;ahoge|呆毛;white hair|白发;horse tail|马尾巴;short hair|短发;hair between eyes|眼间发",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "樱花千代王",
+      "tag": "sakura chiyono o (umamusume)",
+      "charZh": "樱花千代王（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;blue eyes|蓝瞳;hair flower|头花;horse ears|马耳;horse girl|马娘;hair between eyes|眼间发;horse tail|马尾巴;hair flaps|耳侧翘发;medium hair|中长发;pink hair|粉发;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "八重无敌",
+      "tag": "yaeno muteki (umamusume)",
+      "charZh": "八重无敌（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;red eyes|红瞳;horse ears|马耳;horse girl|马娘;brown eyes|棕瞳;pinwheel hair ornament|风车发饰;hair between eyes|眼间发;horse tail|马尾巴;white hair|白发;streaked hair|挑染;red gloves|红色手套",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "鹤丸刚志",
+      "tag": "tsurumaru tsuyoshi (umamusume)",
+      "charZh": "鹤丸刚志（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;purple eyes|紫瞳;horse ears|马耳;horse girl|马娘;streaked hair|挑染;hairclip|发夹;horse tail|马尾巴;purple shirt|紫衬衫",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "目白光明",
+      "tag": "mejiro bright (umamusume)",
+      "charZh": "目白光明（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;red eyes|红瞳;headdress|头饰;horse girl|马娘;horse ears|马耳;ahoge|呆毛;hair between eyes|眼间发;brown eyes|棕瞳;horse tail|马尾巴;hair ornament|发饰;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "谋勇兼备",
+      "tag": "daring tact (umamusume)",
+      "charZh": "谋勇兼备（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;headdress|头饰;horse ears|马耳;horse girl|马娘;ahoge|呆毛;black hair|黑发;hair ornament|发饰;horse tail|马尾巴;hair between eyes|眼间发;medium hair|中长发;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "樱花桂冠",
+      "tag": "sakura laurel (umamusume)",
+      "charZh": "樱花桂冠（赛马娘）",
+      "auto": "red hair|红发;short hair|短发;purple eyes|紫瞳;hair ribbon|发带;horse girl|马娘;horse ears|马耳;brown hair|棕发;horse tail|马尾巴;pink eyes|粉瞳;flower in eye|眼内花纹;symbol in eye|眼内符号;parted bangs|中分刘海",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "成田路",
+      "tag": "narita top road (umamusume)",
+      "charZh": "成田路（赛马娘）",
+      "auto": "blonde hair|金发;long hair|长发;purple eyes|紫瞳;horse girl|马娘;horse ears|马耳;horse tail|马尾巴;single ear cover|单耳耳罩;short hair|短发;ear ornament|耳饰;medium hair|中长发",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "也文摄辉",
+      "tag": "yamanin zephyr (umamusume)",
+      "charZh": "也文摄辉（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;orange eyes|橙瞳;horse girl|马娘;horse ears|马耳;low twintails|低双马尾;hair between eyes|眼间发;white hair|白发;collarbone|锁骨;detached sleeves|分离袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "吉兆",
+      "tag": "symboli kris s (umamusume)",
+      "charZh": "吉兆（赛马娘）",
+      "auto": "black hair|黑发;long hair|长发;yellow eyes|黄瞳;horse girl|马娘;horse ears|马耳;dark-skinned female|深肤色女性;blue eyes|蓝瞳;hair between eyes|眼间发;single earring|单侧耳环;horse tail|马尾巴;very long hair|超长发;ponytail|马尾;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "谷野美酒",
+      "tag": "tanino gimlet (umamusume)",
+      "charZh": "谷野美酒（赛马娘）",
+      "auto": "red hair|红发;short hair|短发;pink eyes|粉瞳;streaked hair|挑染;horse ears|马耳;horse girl|马娘;eyepatch|眼罩;yellow eyes|黄瞳;white hair|白发;brown hair|棕发;long sleeves|长袖;horse tail|马尾巴;ear ornament|耳饰",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "第一红宝石",
+      "tag": "daiichi ruby (umamusume)",
+      "charZh": "第一红宝石（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;red eyes|红瞳;hair bow|蝴蝶结发饰;horse ears|马耳;horse girl|马娘;purple eyes|紫瞳;black hair|黑发;horse tail|马尾巴;hair flower|发花;purple dress|紫色连衣裙",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "目白拉莫努",
+      "tag": "mejiro ramonu (umamusume)",
+      "charZh": "目白拉莫努（赛马娘）",
+      "auto": "black hair|黑发;streaked hair|挑染;long hair|长发;blue eyes|蓝瞳;horse ears|马耳;horse girl|马娘;purple eyes|紫瞳;white hair|白发;horse tail|马尾巴;mole under eye|眼下泪痣;ear ornament|耳饰;hair bun|圆发髻;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "阿斯顿·玛祥",
+      "tag": "aston machan (umamusume)",
+      "charZh": "阿斯顿·玛祥（赛马娘）",
+      "auto": "orange hair|橙发;short hair|短发;yellow eyes|黄瞳;horse girl|马娘;horse ears|马耳;brown hair|棕发;green eyes|绿瞳;horse tail|马尾巴;long sleeves|长袖;one side up|单侧扎发;medium hair|中长发;hair between eyes|眼间发;crown|皇冠",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "里见皇冠",
+      "tag": "satono crown (umamusume)",
+      "charZh": "里见皇冠（赛马娘）",
+      "auto": "black hair|黑发;long hair|长发;green eyes|绿瞳;hair flower|头花;horse ears|马耳;horse girl|马娘;side ponytail|侧马尾;hair between eyes|眼间发;horse tail|马尾巴;white hair|白发;streaked hair|挑染;elbow gloves|长筒手套",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "高尚骏逸",
+      "tag": "cheval grand (umamusume)",
+      "charZh": "高尚骏逸（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;hat|帽子;horse girl|马娘;horse ears|马耳;hair between eyes|眼间发;streaked hair|挑染;white hair|白发;white hat|白帽子;horse tail|马尾巴;peaked cap|大檐帽",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "极峰",
+      "tag": "verxina (umamusume)",
+      "charZh": "极峰（赛马娘）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳;hair ornament|发饰;horse girl|马娘;horse ears|马耳;hair between eyes|眼间发;purple eyes|紫瞳;mole under eye|眼下泪痣;dark blue hair|深蓝发;horse tail|马尾巴",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "强击",
+      "tag": "vivlos (umamusume)",
+      "charZh": "强击（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;star hair ornament|星形发饰;horse girl|马娘;horse ears|马耳;twintails|双马尾;hair between eyes|眼间发;purple eyes|紫瞳;horse tail|马尾巴;streaked hair|挑染",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "舞动火焰",
+      "tag": "dantsu flame (umamusume)",
+      "charZh": "舞动火焰（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;pink eyes|粉瞳;horse girl|马娘;horse ears|马耳;ahoge|呆毛;horse tail|马尾巴;brown eyes|棕瞳;ear covers|马耳耳罩;navel|肚脐;midriff|腹部;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "凯斯奇迹",
+      "tag": "k.s.miracle (umamusume)",
+      "charZh": "凯斯奇迹（赛马娘）",
+      "auto": "light blue hair|浅蓝发;long hair|长发;blue eyes|蓝瞳;horse ears|马耳;horse girl|马娘;ear covers|马耳耳罩;short hair|短发;blue hair|蓝发;hair between eyes|眼间发;long sleeves|长袖;horse tail|马尾巴",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "森林宝穴",
+      "tag": "jungle pocket (umamusume)",
+      "charZh": "森林宝穴（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;green eyes|绿瞳;horse ears|马耳;horse girl|马娘;yellow eyes|黄瞳;ahoge|呆毛;horse tail|马尾巴;notched ear|耳缺口;medium hair|中长发;hair between eyes|眼间发;long sleeves|长袖;navel|肚脐",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "小林历奇",
+      "tag": "copano rickey (umamusume)",
+      "charZh": "小林历奇（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;purple eyes|紫瞳;hair clip|发夹;horse ears|马耳;horse girl|马娘;double bun|双丸子头;ahoge|呆毛;white hair|白发;horse tail|马尾巴;ear covers|马耳耳罩;hair between eyes|眼间发;streaked hair|挑染;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "北港火山",
+      "tag": "hokko tarumae (umamusume)",
+      "charZh": "北港火山（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳;hat|帽子;horse ears|马耳;horse girl|马娘;purple eyes|紫瞳;horse tail|马尾巴;ear covers|马耳耳罩;twin braids|双辫;white hair|白发;beret|贝雷帽;streaked hair|挑染;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "奇锐骏",
+      "tag": "wonder acute (umamusume)",
+      "charZh": "奇锐骏（赛马娘）",
+      "auto": "silver hair|银发;long hair|长发;blue eyes|蓝瞳;horse ears|马耳;horse girl|马娘;grey hair|灰发;thick eyebrows|浓眉;hair between eyes|眼间发;streaked hair|挑染;horse tail|马尾巴",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "葛城王牌",
+      "tag": "katsuragi ace (umamusume)",
+      "charZh": "葛城王牌（赛马娘）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳;hair ribbon|发带;horse ears|马耳;horse girl|马娘;streaked hair|挑染;ear covers|马耳耳罩;white hair|白发;hair between eyes|眼间发;ponytail|马尾;tassel hair ornament|流苏发饰;long sleeves|长袖;medium hair|中长发;horse tail|马尾巴",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "新宇宙",
+      "tag": "neo universe (umamusume)",
+      "charZh": "新宇宙（赛马娘）",
+      "auto": "blonde hair|金发;long hair|长发;blue eyes|蓝瞳;horse girl|马娘;horse ears|马耳;ahoge|呆毛;two-tone hair|双色发;colored inner hair|挂耳染;hair between eyes|眼间发;blue hair|蓝发;horse tail|马尾巴;hair ornament|发饰;long sleeves|长袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "跳舞城",
+      "tag": "tap dance city (umamusume)",
+      "charZh": "跳舞城（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;purple eyes|紫瞳;horse ears|马耳;horse girl|马娘;bare shoulders|露肩;hair between eyes|眼间发;horse tail|马尾巴;ear ornament|耳饰;red gloves|红色手套;long sleeves|长袖;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "大鸣大放",
+      "tag": "duramente (umamusume)",
+      "charZh": "大鸣大放（赛马娘）",
+      "auto": "black hair|黑发;long hair|长发;blue eyes|蓝瞳;horse ears|马耳;horse girl|马娘;brown hair|棕发;ahoge|呆毛;streaked hair|挑染;white hair|白发;black gloves|黑色手套;horse tail|马尾巴;black jacket|黑色夹克",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "西萨里奥",
+      "tag": "cesario (umamusume)",
+      "charZh": "西萨里奥（赛马娘）",
+      "auto": "blue hair|蓝发;short hair|短发;purple eyes|紫瞳;horse ears|马耳;horse girl|马娘;crown braid|冠形编发;white hair|白发;hair between eyes|眼间发;two-tone hair|双色发;tracen school uniform|特雷森学园校服;purple shirt|紫衬衫;ear ornament|耳饰",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "迷人景致",
+      "tag": "buena vista (umamusume)",
+      "charZh": "迷人景致（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;orange eyes|橙瞳;headdress|头饰",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "黄金巨匠",
+      "tag": "orfevre (umamusume)",
+      "charZh": "黄金巨匠（赛马娘）",
+      "auto": "blonde hair|金发;long hair|长发;red eyes|红瞳;crown|王冠;horse ears|马耳;horse girl|马娘;white hair|白发;ahoge|呆毛;orange hair|橙发;single ear cover|单耳耳罩;two-tone hair|双色发;blue eyes|蓝瞳;hair intakes|内卷发;long sleeves|长袖;ear ornament|耳饰;purple eyes|紫瞳;ear bow|耳朵蝴蝶结;mouth mask|口罩;hair between eyes|眼间发;messy hair|凌乱发;horse tail|马尾巴;brown hair|棕发;purple bow|紫色蝴蝶结",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "贵妇人",
+      "tag": "gentildonna (umamusume)",
+      "charZh": "贵妇人（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;purple eyes|紫瞳;heart hair ornament|心形发饰;horse girl|马娘;horse ears|马耳;red eyes|红瞳;ear covers|马耳耳罩;horse tail|马尾巴;braided hair rings|编发圆环;hair between eyes|眼间发;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "梦之旅",
+      "tag": "dream journey (umamusume)",
+      "charZh": "梦之旅（赛马娘）",
+      "auto": "grey hair|灰发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "杏目",
+      "tag": "almond eye (umamusume)",
+      "charZh": "杏目（赛马娘）",
+      "auto": "light brown hair|浅棕发;long hair|长发;blue eyes|蓝瞳;hair bow|蝴蝶结发饰",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "旺紫丁",
+      "tag": "lucky lilac (umamusume)",
+      "charZh": "旺紫丁（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "放声欢呼",
+      "tag": "gran alegria (umamusume)",
+      "charZh": "放声欢呼（赛马娘）",
+      "auto": "brown hair|棕发;short hair|短发;red eyes|红瞳;hair ribbon|发带;streaked hair|挑染",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "创世驹",
+      "tag": "chrono genesis (umamusume)",
+      "charZh": "创世驹（赛马娘）",
+      "auto": "silver hair|银发;long hair|长发;blue eyes|蓝瞳;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "黄金旅程",
+      "tag": "stay gold (umamusume)",
+      "charZh": "黄金旅程（赛马娘）",
+      "auto": "black hair|黑发;long hair|长发;yellow eyes|黄瞳",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "青春永驻",
+      "tag": "forever young (umamusume)",
+      "charZh": "青春永驻（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;orange eyes|橙瞳;sunglasses|墨镜",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "神威启示",
+      "tag": "epiphaneia (umamusume)",
+      "charZh": "神威启示（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "比萨胜驹",
+      "tag": "victoire pisa (umamusume)",
+      "charZh": "比萨胜驹（赛马娘）",
+      "auto": "white hair|白发;long hair|长发;purple eyes|紫瞳;hair ribbon|发带",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "乐透心",
+      "tag": "efforia (umamusume)",
+      "charZh": "乐透心（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "领衔",
+      "tag": "title holder (umamusume)",
+      "charZh": "领衔（赛马娘）",
+      "auto": "black hair|黑发;long hair|长发;yellow eyes|黄瞳",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "爱如往昔",
+      "tag": "still in love (umamusume)",
+      "charZh": "爱如往昔（赛马娘）",
+      "auto": "brown hair|棕发;long hair|长发;red eyes|红眼;horse ears|马耳;veil|面纱;horse girl|马娘;hair ornament|发饰;hair between eyes|眼间发;small breasts|小胸;collarbone|锁骨;detached sleeves|分离袖",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "秋川弥生",
+      "tag": "akikawa yayoi (umamusume)",
+      "charZh": "秋川弥生 / 理事长（赛马娘）",
+      "auto": "blue eyes|蓝瞳;orange hair|橙发;long hair|长发;folding fan|折扇;white hair|白发;white hat|白帽子;streaked hair|挑染;hat flower|帽花;small breasts|小胸;horse girl|马娘",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "拜耶尔土耳其",
+      "tag": "byerley turk (umamusume)",
+      "charZh": "拜耶尔土耳其（赛马娘）",
+      "auto": "horse ears|马耳;horse girl|马娘;brown hair|棕发;scar across eye|眼部伤疤;short hair|短发;yellow jacket|黄夹克;navel|肚脐;black gloves|黑色手套;black pants|黑裤;long sleeves|长袖;midriff|腹部;open jacket|敞开的夹克;suspenders|背带;garrison cap|船形帽;yellow hat|黄帽;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "达利阿拉伯",
+      "tag": "darley arabian (umamusume)",
+      "charZh": "达利阿拉伯（赛马娘）",
+      "auto": "horse ears|马耳;horse girl|马娘;dark-skinned female|深肤色女性;green eyes|绿瞳;long hair|长发;ahoge|呆毛;horse tail|马尾巴;white hair|白发;red shirt|红色衬衫;bare shoulders|露肩;navel|肚脐;ear ornament|耳饰;off-shoulder shirt|露肩衬衫;hair between eyes|眼间发;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "高多芬巴布",
+      "tag": "godolphin barb (umamusume)",
+      "charZh": "高多芬巴布（赛马娘）",
+      "auto": "horse ears|马耳;horse girl|马娘;blue hair|蓝发;ear covers|马耳耳罩;long hair|长发;blue jacket|蓝色夹克;horse tail|马尾巴;track jacket|运动外套;long sleeves|长袖;black shorts|黑色短裤;small breasts|小胸;closed eyes|闭眼",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "菱钻奇宝",
+      "tag": "hishi miracle (umamusume)",
+      "charZh": "菱钻奇宝（赛马娘）",
+      "auto": "horse ears|马耳;horse girl|马娘;grey hair|灰发;medium hair|中长发;ear covers|马耳耳罩;horse tail|马尾巴;brown eyes|棕瞳;hair ornament|发饰;small breasts|小胸;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "莱特哈洛",
+      "tag": "light hello (umamusume)",
+      "charZh": "莱特哈洛（赛马娘）",
+      "auto": "brown hair|棕发;hairclip|发夹;long sleeves|长袖;long hair|长发;medium hair|中长发;purple eyes|紫瞳;small breasts|小胸;horse ears|马耳;horse girl|马娘;horse tail|马尾巴;large breasts|大胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "莱茵力量",
+      "tag": "rhein kraft (umamusume)",
+      "charZh": "莱茵力量（赛马娘）",
+      "auto": "horse ears|马耳;horse girl|马娘;green eyes|绿瞳;brown hair|棕发;ahoge|呆毛;medium hair|中长发;hair ornament|发饰;horse tail|马尾巴;ribbon|丝带;hair between eyes|眼间发;small breasts|小胸;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "超越",
+      "tag": "transcend (umamusume)",
+      "charZh": "超越（赛马娘）",
+      "auto": "horse girl|马娘;brown hair|棕发;horse ears|马耳;red eyes|红瞳;short hair|短发;ear ornament|耳饰;horse tail|马尾巴;long sleeves|长袖;white hair|白发;red-framed eyewear|红框眼镜;black shirt|黑衬衫;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "维纳斯帕克",
+      "tag": "venus paques (umamusume)",
+      "charZh": "维纳斯帕克（赛马娘）",
+      "auto": "horse girl|马娘;horse ears|马耳;blue eyes|蓝瞳;horse tail|马尾巴;dixie cup hat|水手白帽;ears through headwear|帽洞露耳;brown hair|棕发;white hat|白帽子;hair between eyes|眼间发;small breasts|小胸;medium breasts|中等胸",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "胜利变奏",
+      "tag": "win variation (umamusume)",
+      "charZh": "胜利变奏（赛马娘）",
+      "auto": "horse girl|马娘;horse ears|马耳;green eyes|绿瞳;low twintails|低双马尾;red hair|红发;hair between eyes|眼间发;long hair|长发;feather hair ornament|羽毛发饰;small breasts|小胸;horse tail|马尾巴",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "训练员",
+      "tag": "trainer (umamusume)",
+      "charZh": "训练员（赛马娘）",
+      "auto": "t-head trainer|T字头训练员;suit|西装;necktie|领带;white shirt|白衬衫;adult|成年人;horse girl|马娘;horse ears|马耳;brown hair|棕发;horse tail|马尾巴;long sleeves|长袖;long hair|长发;blue eyes|蓝瞳;collarbone|锁骨",
+      "subName": ""
+    },
+    {
+      "game": "赛马娘",
+      "gameTag": "umamusume",
+      "name": "女训练员",
+      "tag": "female trainer (umamusume)",
+      "charZh": "女训练员（赛马娘）",
+      "auto": "blue eyes|蓝瞳;ponytail|马尾;very long hair|超长发;black leggings|黑色打底裤;black necktie|黑色领带;blonde hair|金发;blue jacket|蓝色夹克;small breasts|小胸;shoes|鞋子;artist self-insert|作者自我插入;bad id|失效来源;bad pixiv id|Pixiv来源失效;bare shoulders|露肩;blush stickers|腮红贴纸",
+      "subName": ""
+    }
+  ],
+  "count": 125
+}

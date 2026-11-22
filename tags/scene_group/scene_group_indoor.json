@@ -1,0 +1,2285 @@
+{
+  "id": "indoor",
+  "name": "室内建筑",
+  "icon": "🏠",
+  "parentId": "scene_group",
+  "level": 2,
+  "order": 1,
+  "file": "scene_group/scene_group_indoor.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "on bed",
+      "zh": "在床上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 181011,
+      "desc": "坐在或躺在床上、被褥上",
+      "kw": "躺在床上 / 坐在床上 / 卧在床上 / 床上 / 躺床 / 场景 / ベッドの上"
+    },
+    {
+      "en": "in shower",
+      "zh": "淋浴中",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "in bath",
+      "zh": "浴缸中",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "in car",
+      "zh": "车内",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "on desk",
+      "zh": "桌上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11136,
+      "desc": "坐在、躺在或俯在书桌上",
+      "kw": "在桌子上 / 坐桌上 / 躺桌上 / 趴在桌上 / 桌面 / 位置 / sitting on desk"
+    },
+    {
+      "en": "on couch",
+      "zh": "沙发上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36604,
+      "desc": "人物坐在、躺在或靠在沙发上。",
+      "kw": "坐在沙发上 / 躺在沙发上 / 沙发坐 / 沙发躺 / 靠沙发上 / 沙发 / 室内 / on sofa / ソファの上"
+    },
+    {
+      "en": "on floor",
+      "zh": "地板上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40617,
+      "desc": "角色坐、躺或跪在地板上。",
+      "kw": "坐在地板 / 躺在地板 / 跪在地板 / 室内地板 / 位置 / 室内 / sitting on floor"
+    },
+    {
+      "en": "behind bars",
+      "zh": "铁栏后",
+      "rating": "g",
+      "nsfw": false,
+      "count": 297,
+      "desc": "角色被关在铁栏后的画面。",
+      "kw": "铁栅栏后 / 囚窗后 / 铁窗之内 / 铁栏之内 / 铁窗之后 / 铁栅栏内 / 栅栏后"
+    },
+    {
+      "en": "through bars",
+      "zh": "穿过栅栏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57,
+      "desc": "把手脚或物品伸出笼子或牢房的铁栅栏",
+      "kw": "伸出栅栏 / 透过栅栏 / 越过栅栏 / 栅栏外伸 / 伸出牢笼 / 伸出铁栏 / 从栅栏缝伸出"
+    },
+    {
+      "en": "dungeon",
+      "zh": "地牢",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1394,
+      "desc": "地下牢房或地牢场景，常见于奇幻冒险和BDSM题材",
+      "kw": "地下牢 / 牢房 / 地牢场景 / 地下监牢 / 牢狱 / 地窖 / 地下城 / 冒险"
+    },
+    {
+      "en": "in container",
+      "zh": "在容器中",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17183,
+      "desc": "角色待在某种容器里",
+      "kw": "容器内 / 待在容器里 / 装在容器里 / 容器 / 位置 / person in a container / 在里面"
+    },
+    {
+      "en": "prison",
+      "zh": "监狱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1322,
+      "desc": "关押罪犯并执行刑罚的机构",
+      "kw": "牢房 / 监牢 / 看守所 / 拘留所 / 大牢 / 班房 / 监狱牢房 / 建筑 / jail / 牢屋 / 監獄"
+    },
+    {
+      "en": "in cell",
+      "zh": "牢房内",
+      "rating": "g",
+      "nsfw": false,
+      "count": 276,
+      "desc": "角色待在监狱牢房里。",
+      "kw": "牢房中 / 监狱牢房内 / 在监牢里 / 关在牢房 / 身处牢房 / 牢房里 / 在牢房里 / 场景"
+    },
+    {
+      "en": "slave market",
+      "zh": "奴隶市场",
+      "rating": "q",
+      "nsfw": true,
+      "count": 21
+    },
+    {
+      "en": "bathtub",
+      "zh": "浴缸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13283,
+      "desc": "浴室中供泡澡使用的西式浴缸",
+      "kw": "浴盆 / 澡盆 / 西式浴缸 / 泡澡缸 / 浴槽 / 浴室用品 / 家具 / bath tub / 汤船 / 湯船 / バスタブ"
+    },
+    {
+      "en": "shower",
+      "zh": "淋浴",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cage interior",
+      "zh": "笼内",
+      "rating": "g",
+      "nsfw": false,
+      "count": 129,
+      "desc": "笼子或牢房内部的场景。",
+      "kw": "笼子里 / 牢房内 / 囚笼内 / 笼中 / 笼内部 / 笼内场景 / 笼内视角 / 牢笼内部"
+    },
+    {
+      "en": "bedroom",
+      "zh": "卧室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21502,
+      "desc": "画面场景设定在卧室，需能看到床以外的房间元素",
+      "kw": "寝室 / 卧房 / 睡房 / 卧室场景 / 卧室背景 / 室内 / 房间"
+    },
+    {
+      "en": "classroom",
+      "zh": "教室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26844,
+      "desc": "有课桌黑板的学校教室",
+      "kw": "课室 / 班级教室 / 学校教室 / 教学班教室 / 学校 / 室内场景 / class room / 교실"
+    },
+    {
+      "en": "library",
+      "zh": "图书馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7319,
+      "desc": "收藏书籍供阅览的场所",
+      "kw": "图书室 / 书库 / 藏书室 / 图书资料室 / 阅览室 / 室内 / 场景 / 建筑 / 図书室 / 図书馆 / 図書館 / 圖書館"
+    },
+    {
+      "en": "cafe",
+      "zh": "咖啡馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4775,
+      "desc": "供应咖啡、糕点及简餐的休闲餐饮场所。",
+      "kw": "咖啡厅 / 咖啡屋 / 吃茶店 / 喫茶店 / 茶座 / 轻食店 / 咖啡室 / coffee shop / カフェ"
+    },
+    {
+      "en": "kitchen",
+      "zh": "厨房",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10035,
+      "desc": "做饭用的房间，通常有灶台、水槽和橱柜",
+      "kw": "厨房场景 / 厨房空间 / 厨房室内 / 灶间 / 伙房 / 料理间 / 厨房背景 / 烹饪处 / 台所 / キッチン"
+    },
+    {
+      "en": "bathroom",
+      "zh": "浴室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16670,
+      "desc": "住宅内带马桶、洗手池，通常还有浴缸或淋浴的房间。",
+      "kw": "卫生间 / 洗手间 / 厕所 / 盥洗室 / 沐浴间 / 洗浴间 / 浴厕 / 洗面所"
+    },
+    {
+      "en": "hallway",
+      "zh": "走廊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6550,
+      "desc": "连接各房间的长形走廊",
+      "kw": "过道 / 廊下 / 楼道 / 长廊 / 室内场景 / corridor / school hall"
+    },
+    {
+      "en": "office",
+      "zh": "办公室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4365,
+      "desc": "人们办公处理业务的事务所或房间",
+      "kw": "办公间 / 办公场所 / 办公室房间 / 事务所 / 办公处 / 室内 / 场景 / オフィス / 오피스 / 辦公室"
+    },
+    {
+      "en": "laboratory",
+      "zh": "实验室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 972,
+      "desc": "科研人员进行实验与研究的场所",
+      "kw": "研究室 / 实验所 / 化验室 / 科学实验室 / 设施 / 建筑"
+    },
+    {
+      "en": "hospital room",
+      "zh": "病房",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "elevator",
+      "zh": "电梯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1612,
+      "desc": "在楼层间上下运送人或物的电梯。",
+      "kw": "升降机 / 直梯 / 载人电梯 / 升降梯 / 垂直电梯 / 建筑 / 场景 / 电梯（升降式） / エレベーター"
+    },
+    {
+      "en": "window",
+      "zh": "窗边",
+      "rating": "g",
+      "nsfw": false,
+      "count": 184506,
+      "desc": "墙上或门上用于采光通风的玻璃开口",
+      "kw": "窗 / 窗子 / 窗口 / 玻璃窗 / 光照 / 门 / 闸 / 窗辺 / 窓 / 窓辺"
+    },
+    {
+      "en": "curtained window",
+      "zh": "窗帘窗",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "castle hall",
+      "zh": "城堡大厅",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "school hallway",
+      "zh": "学校走廊",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gymnasium",
+      "zh": "体育馆",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "student council room",
+      "zh": "学生会室",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "club room",
+      "zh": "社团活动室",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "music room",
+      "zh": "音乐室",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "art room",
+      "zh": "美术室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 90,
+      "desc": "学校或机构用于美术创作与教学的房间。",
+      "kw": "美术教室 / 画室 / 艺术教室 / 绘画室 / 美工室"
+    },
+    {
+      "en": "cafeteria",
+      "zh": "食堂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 265,
+      "desc": "学校、公司等内设食堂或自助餐厅",
+      "kw": "自助餐厅 / 餐厅 / 饭堂 / 食堂餐厅 / 员工食堂 / 学校食堂 / 公共食堂 / 餐室"
+    },
+    {
+      "en": "church",
+      "zh": "教堂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5371,
+      "desc": "基督教的教堂及其内部",
+      "kw": "教会 / 礼拜堂 / 教堂建筑 / 圣堂 / 礼拜场所 / 建筑 / 宗教场所 / チャペル"
+    },
+    {
+      "en": "bookstore",
+      "zh": "书店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 326,
+      "desc": "售卖书籍的店铺。",
+      "kw": "书局 / 书屋 / 书城 / 图书店 / 书铺 / 书坊 / 图书商店 / 商店 / 本屋 / 書店 / 서점"
+    },
+    {
+      "en": "restaurant",
+      "zh": "餐馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5498,
+      "desc": "可以看菜单点单用餐的餐馆",
+      "kw": "饭店 / 饭馆 / 食肆 / 餐吧 / 食堂 / 饮食店 / 吃饭的地方 / レストラン / ファミレス / カフェ"
+    },
+    {
+      "en": "indoors",
+      "zh": "室内",
+      "rating": "g",
+      "nsfw": false,
+      "count": 567116,
+      "desc": "场景位于建筑或室内空间",
+      "kw": "屋内 / 室内场景 / 室内环境 / 房间里 / 室内背景 / 居室 / 宅内 / 场景 / 部屋 / インテリア"
+    },
+    {
+      "en": "empty room",
+      "zh": "空房间",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41
+    },
+    {
+      "en": "attic",
+      "zh": "阁楼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 97,
+      "desc": "屋顶下方紧挨屋面的阁楼空间",
+      "kw": "顶楼 / 屋顶间 / 屋顶室 / 屋根里 / 屋根里房间 / 屋顶阁楼 / 阁楼间 / 尖顶阁楼 / 屋根里部屋"
+    },
+    {
+      "en": "basement",
+      "zh": "地下室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120,
+      "desc": "位于建筑地面以下的地下室。",
+      "kw": "地窖 / 地下层 / 地库 / 地下室房间 / 地下空间"
+    },
+    {
+      "en": "staircase",
+      "zh": "楼梯",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "balcony",
+      "zh": "阳台",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4943,
+      "desc": "从墙面突出的带栏杆无顶平台",
+      "kw": "露台 / 凉台 / 晒台 / 观景阳台 / 挑出阳台 / 建筑 / 场景 / バルコニー"
+    },
+    {
+      "en": "ceiling",
+      "zh": "天花板",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8837,
+      "desc": "房间上方的天花板",
+      "kw": "天棚 / 顶棚 / 房间顶部 / 室内 / 场景 / 天井"
+    },
+    {
+      "en": "brick wall",
+      "zh": "砖墙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16616,
+      "desc": "整面由砖块砌成的墙。",
+      "kw": "砖墙壁 / 红砖墙 / 砖砌墙 / 砖头墙 / 砖块墙 / 砖墙面 / 墙面 / 建筑元素"
+    },
+    {
+      "en": "wooden floor",
+      "zh": "木地板",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41296,
+      "desc": "木板铺成的地板。",
+      "kw": "木质地板 / 木制地板 / 地板 / 木头地板 / 室内 / hardwood floor / フローリング"
+    },
+    {
+      "en": "tatami",
+      "zh": "榻榻米",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21453,
+      "desc": "日本住宅中常见的草席",
+      "kw": "草席 / 和式地板 / 榻榻米地板 / 日式草席 / 叠席 / 日本风 / 日式地板 / 家居"
+    },
+    {
+      "en": "infirmary",
+      "zh": "医务室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1819,
+      "desc": "学校或医院的医务室，常见病床与帘子",
+      "kw": "保健室 / 医护室 / 医务所 / 医疗室 / 学校医务室 / 学校设施 / 室内 / nurse office / nurse's office / 보건실"
+    },
+    {
+      "en": "science lab",
+      "zh": "科学实验室",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dormitory",
+      "zh": "宿舍",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "greenhouse",
+      "zh": "温室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 901,
+      "desc": "以玻璃和金属框架搭建、用于栽培植物的建筑。",
+      "kw": "玻璃温室 / 植物温室 / 暖房 / 花房 / 建筑 / 场景 / 植物园"
+    },
+    {
+      "en": "aquarium",
+      "zh": "水族馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2244,
+      "desc": "公开展示水生生物与水生生态的场馆",
+      "kw": "海洋馆 / 海生馆 / 水族馆设施 / 水生生物馆 / 场景 / 建筑 / 水族館"
+    },
+    {
+      "en": "museum",
+      "zh": "博物馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 413,
+      "desc": "展示文物或艺术品的场所",
+      "kw": "博物院 / 展览馆 / 博物馆场景 / 建筑 / 场所 / 博物館 / 박물관"
+    },
+    {
+      "en": "cinema",
+      "zh": "电影院",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bakery",
+      "zh": "面包店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 835,
+      "desc": "烘焙并出售面包糕点的店铺",
+      "kw": "面包房 / 烘焙坊 / 面包屋 / 面包烘焙店 / 糕点店 / 商店 / 建筑 / パン屋 / ベーカリー"
+    },
+    {
+      "en": "inn",
+      "zh": "旅馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 86,
+      "desc": "供旅人投宿的客栈",
+      "kw": "旅店 / 宿屋 / 民宿 / 客店 / 旅舍 / 驿站 / 招待所"
+    },
+    {
+      "en": "hot spring",
+      "zh": "温泉",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "onsen",
+      "zh": "温泉浴场",
+      "rating": "s",
+      "nsfw": false,
+      "count": 25403,
+      "desc": "日式温泉，分室内与露天、男汤与女汤",
+      "kw": "日式温泉 / 日本温泉 / 露天温泉 / 泡汤 / 汤池 / 温泉浴 / 风吕 / 日本风 / hotspring / hot spring / hot springs / 露天风吕"
+    },
+    {
+      "en": "public bath",
+      "zh": "公共澡堂",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "plain wall",
+      "zh": "素色墙",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hangar",
+      "zh": "机库",
+      "rating": "g",
+      "nsfw": false,
+      "count": 960,
+      "desc": "存放维修飞行器的大型库房",
+      "kw": "格纳库 / 停机库 / 维修库 / 飞机库 / 建筑 / 场景"
+    },
+    {
+      "en": "red carpet",
+      "zh": "红毯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1514,
+      "desc": "常用于颁奖典礼、首映等场合",
+      "kw": "红地毯 / 红色地毯 / 红地毡 / 红毯子 / 地毯 / 活动道具 / 欢迎仪式"
+    },
+    {
+      "en": "stage",
+      "zh": "舞台",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9725,
+      "desc": "供人公开表演或讲话的平台",
+      "kw": "戏台 / 讲台 / 表演台 / 表演 / 场所"
+    },
+    {
+      "en": "studio",
+      "zh": "录音棚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 301,
+      "desc": "用于拍摄、录音或绘画的工作室空间。",
+      "kw": "摄影棚 / 录音室 / 画室 / 创作室 / 工作间 / 演播室 / 影棚 / スタジオ"
+    },
+    {
+      "en": "in pool",
+      "zh": "泳池中",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "swimming pool",
+      "zh": "游泳池",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "dressing room",
+      "zh": "更衣室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 356,
+      "desc": "偶像或演员上台前后换装化妆的房间",
+      "kw": "化妆间 / 化妆室 / 乐屋 / 后台休息室 / 演员休息室 / 换装间 / 室内 / 楽屋"
+    },
+    {
+      "en": "aisle",
+      "zh": "过道",
+      "rating": "g",
+      "nsfw": false,
+      "count": 68,
+      "desc": "两侧座位之间的过道，常见于交通工具或剧场。",
+      "kw": "通道 / 走道 / 走廊 / 甬道 / 通路 / 座间过道 / 座位间通道"
+    },
+    {
+      "en": "ballroom",
+      "zh": "宴会厅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 309,
+      "desc": "用于舞会与宴会的宽敞厅堂。",
+      "kw": "舞会大厅 / 舞池 / 交谊厅 / 礼堂 / 宴会舞厅 / 大舞厅 / 跳舞厅"
+    },
+    {
+      "en": "shower (place)",
+      "zh": "淋浴间",
+      "rating": "s",
+      "nsfw": false,
+      "count": 4361,
+      "desc": "淋浴的房间或隔间",
+      "kw": "淋浴室 / 浴室 / 淋浴房 / 冲凉房 / 淋浴隔间 / 淋浴场所"
+    },
+    {
+      "en": "toilet stall",
+      "zh": "厕所隔间",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1949,
+      "desc": "公共厕所中隔出单马桶的小隔间",
+      "kw": "卫生间隔间 / 洗手间隔间 / 公共厕所隔间 / 厕所单间 / 卫生间单间 / 厕所小隔间 / 厕所 / 场景 / restroom stall / stall (toilet) / トイレセックス"
+    },
+    {
+      "en": "hotel room",
+      "zh": "酒店客房",
+      "rating": "g",
+      "nsfw": false,
+      "count": 843,
+      "desc": "带双床、床头柜等典型设施的旅馆客房",
+      "kw": "酒店房间 / 宾馆房间 / 旅馆客房 / 饭店房间 / 室内 / 场景 / 建筑"
+    },
+    {
+      "en": "messy room",
+      "zh": "凌乱的房间",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1915,
+      "desc": "堆满杂物的凌乱房间",
+      "kw": "杂乱房间 / 乱糟糟的房间 / 房间凌乱 / 脏乱房间 / 垃圾房 / 房间杂乱 / 室内场景 / 污部屋 / 散らかった部屋 / 汚部屋"
+    },
+    {
+      "en": "otaku room",
+      "zh": "宅房",
+      "rating": "g",
+      "nsfw": false,
+      "count": 545,
+      "desc": "堆满手办、海报、抱枕等宅物的房间",
+      "kw": "宅男房间 / 宅女房间 / 死宅房间 / 阿宅房间 / 御宅房间 / 动漫房间 / 宅物房间 / otakuroom"
+    },
+    {
+      "en": "boxing ring",
+      "zh": "拳击擂台",
+      "rating": "g",
+      "nsfw": false,
+      "count": 942,
+      "desc": "四角围绳的拳击台",
+      "kw": "拳赛场地 / 拳台 / 擂台 / 拳击赛场 / 体育设施"
+    },
+    {
+      "en": "changing room",
+      "zh": "更衣室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1034,
+      "desc": "温泉或澡堂里供人脱衣的更衣处，非试衣间",
+      "kw": "脱衣间 / 换衣间 / 温泉更衣室 / 澡堂更衣处 / 浴场更衣室 / 室内场景 / 脱衣所"
+    },
+    {
+      "en": "clubroom",
+      "zh": "部室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 439,
+      "desc": "学校中学生进行社团活动的房间",
+      "kw": "社团教室 / 社团活动教室 / 兴趣小组活动室 / 部活动室 / 社团房间 / 教室 / 室内"
+    },
+    {
+      "en": "conservatory",
+      "zh": "温室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 167,
+      "desc": "以玻璃和框架搭建的温室式起居空间",
+      "kw": "玻璃温室 / 阳光房 / 温室房 / 玻璃花房 / 建筑 / 植物园"
+    },
+    {
+      "en": "courtroom",
+      "zh": "法庭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 349,
+      "desc": "法官开庭的场所",
+      "kw": "法院 / 审判庭 / 法庭场景 / 法庭内部 / 场景 / 法律场所 / 法廷"
+    },
+    {
+      "en": "dance studio",
+      "zh": "舞蹈室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 453,
+      "desc": "铺木地板并装有整面镜子的舞蹈教室。",
+      "kw": "舞蹈教室 / 练舞室 / 舞蹈房 / 舞室 / 芭蕾舞室 / 排练厅 / 室内场景"
+    },
+    {
+      "en": "dining room",
+      "zh": "餐厅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 311,
+      "desc": "住宅中吃饭的房间，与商业餐厅区分。",
+      "kw": "家用餐厅 / 就餐区 / 用餐区 / 餐室 / 用餐室 / 餐间 / 室内场景"
+    },
+    {
+      "en": "prison cell",
+      "zh": "牢房",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1358,
+      "desc": "监狱或警局内关押囚犯的房间",
+      "kw": "监狱牢房 / 囚室 / 监室 / 拘留室 / 牢狱 / 监狱 / 室内 / jail cell / 独居房"
+    },
+    {
+      "en": "fitting room",
+      "zh": "试衣间",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1506,
+      "desc": "服装店供顾客试衣的小房间",
+      "kw": "试衣室 / 试穿间 / 更衣室 / 换衣间 / 场所 / 试着 / 试着室 / 試着室 / 試着"
+    },
+    {
+      "en": "genkan",
+      "zh": "玄关",
+      "rating": "g",
+      "nsfw": false,
+      "count": 430,
+      "desc": "日式住宅进门脱鞋的玄关",
+      "kw": "日式玄关 / 入户玄关 / 门厅 / 日式门厅 / 玄關 / 入口 / 日本风格 / 家居 / japanese entryway / 玄関"
+    },
+    {
+      "en": "fitness gym",
+      "zh": "健身房",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2008,
+      "desc": "有健身器械的室内健身房",
+      "kw": "健身馆 / 健身中心 / 体能馆 / 训练馆 / gym环境 / 运动健身房 / fitness center / fitness studio / training gym / wellness gym"
+    },
+    {
+      "en": "gym storeroom",
+      "zh": "体育器材室",
+      "rating": "s",
+      "nsfw": false,
+      "count": 3377,
+      "desc": "校内存放体育器材的仓库，常作秘密幽会场所",
+      "kw": "体育仓库 / 体育用具室 / 体育器材仓库 / 体育馆仓库 / 体育器材间 / 体育器具室 / 体育器材存放室 / 室内 / gym equipment shed / gym storage room / 体育倉庫 / 体育館倉庫"
+    },
+    {
+      "en": "locker room",
+      "zh": "更衣室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5426,
+      "desc": "设有大量储物柜、供人换衣的房间",
+      "kw": "带锁柜的更衣室 / 带储物柜的更衣室 / 锁柜间 / 更衣室（带储物柜） / 储物间更衣室 / 室内 / 场景 / ロッカールーム / 更衣室"
+    },
+    {
+      "en": "school gym",
+      "zh": "学校体育馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1106,
+      "desc": "学校内进行体育活动和集会的室内场馆",
+      "kw": "学校体育场 / 校内体育馆 / 学校运动馆 / 学校健身房 / 校园体育馆 / 学校室内体育馆 / 体育馆 / 室内运动场 / school gymnasium / 体育馆 / 全校集会 / 学校施设"
+    },
+    {
+      "en": "living room",
+      "zh": "客厅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1383,
+      "desc": "住宅中用于休息和社交的房间",
+      "kw": "起居室 / 客厅间 / 会客厅 / 休息室 / 堂屋 / 起居间 / 室内 / 家居"
+    },
+    {
+      "en": "morgue",
+      "zh": "停尸房",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34
+    },
+    {
+      "en": "cubicle",
+      "zh": "办公隔间",
+      "rating": "g",
+      "nsfw": false,
+      "count": 284,
+      "desc": "用隔板分隔的办公室隔间",
+      "kw": "隔间 / 小隔间 / 工作隔间 / 格子间 / 办公室 / 建筑 / 个室"
+    },
+    {
+      "en": "pool",
+      "zh": "泳池",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27156,
+      "desc": "供游泳和戏水的大型永久性人工水池。",
+      "kw": "游泳池 / 水池 / 室内泳池 / 户外泳池 / 游泳馆 / 地点 / 水 / swimming pool / プール"
+    },
+    {
+      "en": "public restroom",
+      "zh": "公共厕所",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1588,
+      "desc": "公共设施内带隔间的多坑位厕所",
+      "kw": "公共洗手间 / 公厕 / 公共卫生间 / 公用厕所 / 公共盥洗室 / 公厕隔间 / 厕所 / 公共设施 / restroom / public toilet"
+    },
+    {
+      "en": "sauna",
+      "zh": "桑拿",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1889,
+      "desc": "提供干热或湿热蒸汽浴的小房间",
+      "kw": "桑拿浴 / 三温暖 / 蒸汽浴 / 芬兰浴 / 浴室 / 场所 / サウナ"
+    },
+    {
+      "en": "backstage",
+      "zh": "后台",
+      "rating": "g",
+      "nsfw": false,
+      "count": 272,
+      "desc": "剧场或演唱会的后台区域",
+      "kw": "舞台后台 / 舞台侧翼 / 舞台袖 / 剧场后台 / 演唱会后台 / 幕后 / 舞台里 / 后台区域"
+    },
+    {
+      "en": "staff room",
+      "zh": "教职员室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 42
+    },
+    {
+      "en": "storage room",
+      "zh": "储藏室",
+      "rating": "g",
+      "nsfw": false,
+      "count": 202,
+      "desc": "专门用来存放物品的闲置房间",
+      "kw": "储存室 / 储物间 / 储物室 / 库房 / 储藏间 / 室内 / 场景 / 仓库"
+    },
+    {
+      "en": "armory",
+      "zh": "军械库",
+      "rating": "g",
+      "nsfw": false,
+      "count": 56,
+      "desc": "存放或展示武器、盔甲与弹药的场所。",
+      "kw": "武器库 / 军火库 / 兵甲库 / 兵器库"
+    },
+    {
+      "en": "workshop",
+      "zh": "工坊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 190,
+      "desc": "住宅内用于缝纫、绘画等手工活动的房间。",
+      "kw": "工作室 / 手工间 / 工作间 / 画室 / 制作间 / 工房 / 场景"
+    },
+    {
+      "en": "wrestling ring",
+      "zh": "摔角擂台",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1967,
+      "desc": "职业摔角使用的方形擂台，四周有围绳",
+      "kw": "摔角场 / 摔跤擂台 / 擂台 / 角力台 / 搏击擂台 / 摔跤场 / 体育设施"
+    },
+    {
+      "en": "arcade",
+      "zh": "游戏机厅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1083,
+      "desc": "以投币式街机游戏机为主的游乐场所。",
+      "kw": "游戏中心 / 电玩城 / 街机厅 / 街机游戏厅 / 大型电玩店 / 电子游戏厅 / 游乐场 / ゲームセンター / ゲーセン / アーケード"
+    },
+    {
+      "en": "archery dojo",
+      "zh": "弓道场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 109,
+      "desc": "练习射箭的道场",
+      "kw": "射箭馆 / 弓道馆 / 箭道场 / 射箭道馆 / 射箭场 / 武术道场 / 射击训练所"
+    },
+    {
+      "en": "bar (place)",
+      "zh": "酒吧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6997,
+      "desc": "以售卖酒类为主的酒吧场所",
+      "kw": "小酒馆 / 酒馆 / 酒吧间 / 酒屋 / 场所 / 室内 / bar / pub / バー / パブ"
+    },
+    {
+      "en": "izakaya",
+      "zh": "居酒屋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 440,
+      "desc": "日本提供酒菜的小酒馆。",
+      "kw": "日式小酒馆 / 日本小酒馆 / 酒屋 / 居酒屋餐厅 / 日式居酒屋 / 日本风格 / 酒吧"
+    },
+    {
+      "en": "tavern",
+      "zh": "酒馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 844,
+      "desc": "供人喝酒吃饭的中世纪风格酒馆，常见于奇幻题材",
+      "kw": "小酒馆 / 酒肆 / 酒栈 / 旅店酒馆 / 中世纪酒馆 / 建筑 / 场景 / 中世纪 / 酒场 / 酒場 / さかば"
+    },
+    {
+      "en": "bowling alley",
+      "zh": "保龄球馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 145,
+      "desc": "设有球道的保龄球馆。",
+      "kw": "保龄球场 / 保龄球场馆 / 保龄球室 / 保龄球厅 / 保龄球道 / 保龄球中心 / 娱乐场所 / 体育"
+    },
+    {
+      "en": "cat cafe",
+      "zh": "猫咪咖啡馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 52,
+      "desc": "有猫的咖啡馆。",
+      "kw": "猫咖 / 猫咖啡馆 / 猫咪咖啡厅 / 猫咖啡 / 猫咪咖啡 / 猫主题咖啡馆"
+    },
+    {
+      "en": "maid cafe",
+      "zh": "女仆咖啡厅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 533,
+      "desc": "由女仆装店员服务的咖啡馆，常供应蛋包饭",
+      "kw": "女仆咖啡馆 / 女仆餐厅 / 女佣咖啡厅 / 女佣咖啡馆 / 女仆咖啡店 / 女仆 / 场景"
+    },
+    {
+      "en": "casino",
+      "zh": "赌场",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1617,
+      "desc": "提供扑克、轮盘等赌博游戏的场所。",
+      "kw": "赌坊 / 娱乐场 / 博彩场 / 卡西诺 / 赌城 / 场景 / 赌博 / カジノ"
+    },
+    {
+      "en": "hospital",
+      "zh": "医院",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1768,
+      "desc": "医生和护士为病人提供治疗的医院",
+      "kw": "病院 / 医疗机构 / 诊所 / 医院大楼 / 医院场景 / 建筑 / 场景 / 医疗 / 병원 / 醫院"
+    },
+    {
+      "en": "love hotel",
+      "zh": "情趣酒店",
+      "rating": "q",
+      "nsfw": true,
+      "count": 829,
+      "desc": "供情侣短时间性爱住宿的旅馆。",
+      "kw": "爱情旅馆 / 情人旅馆 / 情侣旅馆 / 情趣旅馆 / 情人酒店 / 情侣宾馆 / 约会旅馆 / ラブホテル / ラブホ"
+    },
+    {
+      "en": "art gallery",
+      "zh": "美术馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 175,
+      "desc": "陈列展示视觉艺术作品的美术馆。",
+      "kw": "画廊 / 艺术馆 / 艺术画廊 / 画展 / 美术展览馆 / 美术画廊 / 展览馆 / 建筑"
+    },
+    {
+      "en": "nightclub",
+      "zh": "夜店",
+      "rating": "s",
+      "nsfw": false,
+      "count": 359,
+      "desc": "夜间营业、提供酒水音乐与舞池的娱乐场所。",
+      "kw": "夜总会 / 夜店俱乐部 / 夜总会夜店 / 迪厅 / 夜店酒吧 / 夜场 / 娱乐场所 / 夜生活 / club"
+    },
+    {
+      "en": "planetarium",
+      "zh": "天文馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 135,
+      "desc": "以穹顶放映天文与星空节目的场馆",
+      "kw": "天象馆 / 天象仪馆 / 星空剧场 / 场所 / 设施 / 天象仪"
+    },
+    {
+      "en": "candy store",
+      "zh": "糖果店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 132,
+      "desc": "专门售卖糖果的店铺。",
+      "kw": "糖果铺 / 糖果屋 / 零食店 / 糖店 / 商店 / 食品店 / 駄菓子屋"
+    },
+    {
+      "en": "convenience store",
+      "zh": "便利店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2161,
+      "desc": "营业时间长、商品有限的便利店",
+      "kw": "便利商店 / 超商 / 便利超商 / 小便利商店 / 24小时便利店 / 连锁便利店 / 小超市 / 超市 / konbini / コンビニ / コンビニエンスストア"
+    },
+    {
+      "en": "clothes shop",
+      "zh": "服装店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 423,
+      "desc": "售卖服装的店铺",
+      "kw": "服饰店 / 衣店 / 时装店 / 成衣店 / 商店 / 场景 / clothing store / 服屋"
+    },
+    {
+      "en": "flower shop",
+      "zh": "花店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 397,
+      "desc": "售卖花卉与盆栽的店铺，由花艺师经营。",
+      "kw": "鲜花店 / 花铺 / 花屋 / 花卉商店 / 花艺店 / 卖花店 / 花市 / 商店 / フラワーショップ"
+    },
+    {
+      "en": "grocery store",
+      "zh": "杂货铺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 218,
+      "desc": "主要售卖食品的零售店。",
+      "kw": "杂货店 / 副食店 / 小卖部 / 食品店 / 零售商店"
+    },
+    {
+      "en": "pharmacy",
+      "zh": "药局",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45
+    },
+    {
+      "en": "record store",
+      "zh": "唱片店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 81,
+      "desc": "出售黑胶唱片、CD、磁带等音乐制品的商店。",
+      "kw": "唱片行 / 音像店 / CD店 / 黑胶唱片店 / 音乐商店 / 唱片铺"
+    },
+    {
+      "en": "salon",
+      "zh": "沙龙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "sex shop",
+      "zh": "成人用品店",
+      "rating": "s",
+      "nsfw": false,
+      "count": 38
+    },
+    {
+      "en": "supermarket",
+      "zh": "超市",
+      "rating": "g",
+      "nsfw": false,
+      "count": 731,
+      "desc": "出售食品和日用百货的大型自选商场",
+      "kw": "超级市场 / 自选商场 / 量贩店 / 卖场 / 地点 / 食品 / 购物场所 / スーパ / スーパー / スーパーマーケット"
+    },
+    {
+      "en": "weapon shop",
+      "zh": "武器店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 48
+    },
+    {
+      "en": "soapland",
+      "zh": "泡泡浴",
+      "rating": "q",
+      "nsfw": true,
+      "count": 426,
+      "desc": "日本可让男性与性工作者共浴的风俗店",
+      "kw": "日本泡泡浴 / 泡泡浴风俗店 / 肥皂乐园 / 日式泡泡浴 / 日本风 / 服务业 / 场所 / ソープランド"
+    },
+    {
+      "en": "strip club",
+      "zh": "脱衣舞俱乐部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 94,
+      "desc": "脱衣舞娘表演脱衣舞和钢管舞的成人娱乐场所",
+      "kw": "脱衣舞厅 / 脱衣舞夜总会 / 脱衣舞酒吧 / 艳舞俱乐部 / 成人俱乐部"
+    },
+    {
+      "en": "theater",
+      "zh": "剧院",
+      "rating": "g",
+      "nsfw": false,
+      "count": 427,
+      "desc": "用于戏剧、音乐演出或放映的场所。",
+      "kw": "剧场 / 戏院 / 电影院 / 演艺厅 / 剧院建筑 / 建筑 / 舞台 / 表演场所"
+    },
+    {
+      "en": "movie theater",
+      "zh": "电影院",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1391,
+      "desc": "观众观看电影的影院",
+      "kw": "影院 / 电影馆 / 影城 / 放映厅 / 戏院 / 电影院线 / 场所 / 室内 / cinema / 映画馆 / 映画館"
+    },
+    {
+      "en": "vehicle interior",
+      "zh": "载具内景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1285,
+      "desc": "任何类型载具的内部",
+      "kw": "车内 / 车厢内部 / 交通工具内部 / 车厢内 / 车中 / 场景 / 室内 / 在车厢里 / 在车里"
+    },
+    {
+      "en": "airplane interior",
+      "zh": "飞机客舱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 725,
+      "desc": "飞机客舱或驾驶舱内部的场景",
+      "kw": "机舱内部 / 客舱内部 / 机舱场景 / 飞机舱内 / 交通场景"
+    },
+    {
+      "en": "bus interior",
+      "zh": "巴士车厢内",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1119,
+      "desc": "公交车内部的场景",
+      "kw": "巴士内部 / 公交车内 / 公共汽车内 / 公交车内景 / 客车内部 / 场景 / 车辆内部 / inside bus / 在巴士车厢里 / バス"
+    },
+    {
+      "en": "car interior",
+      "zh": "车内",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6470,
+      "desc": "汽车内部的场景",
+      "kw": "汽车内部 / 车厢内部 / 车里 / 车内场景 / 场景 / inside car / 在车里"
+    },
+    {
+      "en": "cockpit",
+      "zh": "驾驶舱",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2889,
+      "desc": "飞机或车辆中驾驶员操控的舱室。",
+      "kw": "座舱 / 驾驶室 / 机舱 / 驾驶席 / 座舱内部 / 科幻 / コックピット / コクピット"
+    },
+    {
+      "en": "spacecraft interior",
+      "zh": "飞船内部",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1117,
+      "desc": "以航天器内部为背景的场景",
+      "kw": "太空船内部 / 宇宙飞船内部 / 太空舱内部 / 航天器舱内 / 宇宙船内部 / 科幻 / 室内 / space craft interior / inside spacecraft"
+    },
+    {
+      "en": "tank interior",
+      "zh": "坦克内部",
+      "rating": "g",
+      "nsfw": false,
+      "count": 224,
+      "desc": "展示坦克内部结构的画面。",
+      "kw": "坦克内景 / 坦克舱内 / 坦克内部结构 / 战车内部 / 坦克驾驶舱 / 坦克内部环境 / 军事载具 / 内部"
+    },
+    {
+      "en": "train interior",
+      "zh": "列车车厢内部",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11829,
+      "desc": "列车车厢内部的场景，区别于外部。",
+      "kw": "车厢内 / 列车车厢 / 车厢内部 / 电车内部 / 火车内部 / 电车内 / 地点 / 火车内 / inside train / 列车 / 员电车 / 在火车车厢里"
+    },
+    {
+      "en": "diner",
+      "zh": "美式快餐店",
+      "rating": "g",
+      "nsfw": false,
+      "count": 513,
+      "desc": "供应简餐的美式小餐馆",
+      "kw": "美式小餐馆 / 美式简餐厅 / 小餐馆 / 餐车式餐厅 / 美式食堂 / 美式咖啡厅 / 路边餐厅"
+    },
+    {
+      "en": "arched window",
+      "zh": "拱形窗",
+      "rating": "g",
+      "count": 860,
+      "desc": "顶部呈拱形的窗户",
+      "kw": "拱形窗户 / 拱窗 / 圆拱窗 / 弧形窗 / 窗户 / 建筑 / 窗棂"
+    },
+    {
+      "en": "armchair",
+      "zh": "扶手椅",
+      "rating": "g",
+      "count": 8858,
+      "desc": "两侧带扶手的椅子",
+      "kw": "扶手座椅 / 单人沙发 / 带扶手椅子 / 靠背扶手椅 / 单人沙发椅 / 家具 / 沙发"
+    },
+    {
+      "en": "bamboo screen",
+      "zh": "竹屏风",
+      "rating": "g",
+      "count": 560,
+      "desc": "竹制的屏风或窗帘",
+      "kw": "竹帘 / 竹屏 / 竹制屏风 / 竹隔断 / 竹门帘 / 中国风 / 家具 / 屏风"
+    },
+    {
+      "en": "bar stool",
+      "zh": "吧台凳",
+      "rating": "g",
+      "count": 2760,
+      "desc": "吧台前使用的无靠背高脚凳",
+      "kw": "酒吧椅 / 吧台椅 / 高脚凳 / 吧凳 / 酒吧高脚凳 / 吧台高脚凳 / 凳子 / 家具"
+    },
+    {
+      "en": "bath stool",
+      "zh": "浴凳",
+      "rating": "g",
+      "count": 1296,
+      "desc": "日式浴室中使用的小凳子。",
+      "kw": "浴室凳 / 洗澡凳 / 泡澡凳 / 浴室小凳 / 浴用小凳 / 浴室用品 / 家具"
+    },
+    {
+      "en": "bathhouse",
+      "zh": "澡堂",
+      "rating": "s",
+      "count": 1261,
+      "desc": "日式公共澡堂，常指钱汤或温泉浴场",
+      "kw": "公共浴室 / 公共澡堂 / 日式澡堂 / 钱汤 / 浴池 / 大浴场 / 浴室 / 日本风格 / public bath / sento / 銭汤 / 銭湯"
+    },
+    {
+      "en": "bean bag chair",
+      "zh": "豆袋椅",
+      "rating": "g",
+      "count": 1822,
+      "desc": "内填颗粒、可随意坐躺的懒人沙发",
+      "kw": "懒人沙发 / 懒人豆袋 / 豆袋沙发 / 懒骨头沙发 / 填充豆袋椅 / 懒人椅 / 家具 / 休闲椅 / beanbag chair"
+    },
+    {
+      "en": "bed frame",
+      "zh": "床架",
+      "rating": "g",
+      "count": 741,
+      "desc": "支撑床板的床架结构",
+      "kw": "床框 / 床骨架 / 床架结构 / 家具 / 床具"
+    },
+    {
+      "en": "bed sheet",
+      "zh": "床单",
+      "rating": "g",
+      "count": 126600,
+      "desc": "铺在床上的床单。",
+      "kw": "被单 / 床罩 / 床褥单 / 铺床单 / 床单布 / 床用布单 / 床单被单 / 床上用品 / sheet / bed sheets / bedsheet / bedsheets"
+    },
+    {
+      "en": "billiard table",
+      "zh": "台球桌",
+      "rating": "g",
+      "count": 1087,
+      "desc": "打台球用的球桌。",
+      "kw": "桌球台 / 撞球桌 / 台球台 / 桌球桌 / 花式台球桌 / 运动 / 球桌 / 台球用具 / billiards table / pool table / snooker table"
+    },
+    {
+      "en": "booth seating",
+      "zh": "卡座",
+      "rating": "g",
+      "count": 1693,
+      "desc": "餐厅里带固定长椅的卡座。",
+      "kw": "雅座 / 火车座 / 餐厅卡座 / 包厢座 / 固定长椅座 / 沙发座 / 餐厅座位 / 包厢 / booth / restaurant booth"
+    },
+    {
+      "en": "brick floor",
+      "zh": "砖地面",
+      "rating": "g",
+      "count": 2417,
+      "desc": "砖块铺成的地面",
+      "kw": "砖地板 / 砖铺地面 / 红砖地面 / 砖块地面 / 铺砖地面 / 砖地 / 地板 / 背景"
+    },
+    {
+      "en": "broken wall",
+      "zh": "破墙",
+      "rating": "g",
+      "count": 741,
+      "desc": "被外力破坏的墙",
+      "kw": "碎墙 / 坏墙 / 破损的墙 / 墙壁破损 / 墙破 / 断墙 / 破壁 / 墙壁"
+    },
+    {
+      "en": "broken window",
+      "zh": "破碎的窗户",
+      "rating": "g",
+      "count": 1564,
+      "desc": "玻璃碎裂的窗户",
+      "kw": "破窗 / 碎窗 / 玻璃破碎 / 窗户破裂 / 破窗户 / 窗户玻璃破碎 / 窗户 / 破坏"
+    },
+    {
+      "en": "bunk bed",
+      "zh": "双层床",
+      "rating": "g",
+      "count": 562,
+      "desc": "上下叠放的双层床架",
+      "kw": "上下床 / 上下铺 / 高低床 / 双层床铺 / 双层上下床 / 床 / 家具 / 二段ベッド"
+    },
+    {
+      "en": "cabinet",
+      "zh": "柜子",
+      "rating": "g",
+      "count": 4174,
+      "desc": "带门和抽屉的储物柜",
+      "kw": "橱柜 / 储物柜 / 柜橱 / 壁柜 / 收纳柜 / 文件柜 / 家具 / 室内 / キャビネット"
+    },
+    {
+      "en": "canopy bed",
+      "zh": "四柱床",
+      "rating": "g",
+      "count": 1465,
+      "desc": "四角立柱可挂帐的床",
+      "kw": "四柱卧床 / 带帐床 / 柱床 / 挂帐床 / 四角柱床 / 天篷床 / 华盖床 / 家具 / four-poster bed"
+    },
+    {
+      "en": "car seat",
+      "zh": "汽车座椅",
+      "rating": "g",
+      "count": 899,
+      "desc": "汽车上的座椅，供人乘坐",
+      "kw": "车座 / 车内座椅 / 汽车座位 / 车用座椅 / 汽车椅 / 座椅 / 汽车内饰"
+    },
+    {
+      "en": "carpet",
+      "zh": "地毯",
+      "rating": "g",
+      "count": 5354,
+      "desc": "满铺到墙边的厚织地毯",
+      "kw": "地毡 / 满铺地毯 / 厚地毯 / 家居 / 地面装饰 / カーペット"
+    },
+    {
+      "en": "casino card table",
+      "zh": "赌场牌桌",
+      "rating": "g",
+      "count": 668,
+      "desc": "赌场中铺绿绒的牌桌，用于赌博游戏。",
+      "kw": "赌桌 / 牌桌 / 赌场赌桌 / 赌台 / 赌场赌台 / 绿绒赌桌 / 赌场 / 赌博道具"
+    },
+    {
+      "en": "cat tree",
+      "zh": "猫爬架",
+      "rating": "g",
+      "count": 233,
+      "desc": "供猫攀爬、磨爪的家具",
+      "kw": "猫树 / 猫跳台 / 猫抓树 / 猫塔 / 猫爬台 / 猫爬柱 / 猫玩具"
+    },
+    {
+      "en": "ceiling fan",
+      "zh": "吊扇",
+      "rating": "g",
+      "count": 521,
+      "desc": "悬挂在天花板上的电扇",
+      "kw": "吊顶风扇 / 天花板风扇 / 顶扇 / 悬挂式电扇 / 吊式风扇 / 家电 / 室内 / 天井扇 / シーリングファン"
+    },
+    {
+      "en": "chabudai",
+      "zh": "矮脚桌",
+      "rating": "g",
+      "count": 696,
+      "desc": "日式传统房屋里的矮腿桌。",
+      "kw": "日式矮桌 / 和式矮桌 / 矮腿桌 / 日式矮腿桌 / 榻榻米矮桌 / 矮脚台 / 茶几 / 家具 / chabudai (table) / 卓袱台"
+    },
+    {
+      "en": "chair",
+      "zh": "椅子",
+      "rating": "g",
+      "count": 151771,
+      "desc": "供单人坐、有靠背的椅子。",
+      "kw": "座椅 / 靠背椅 / 单人椅 / 扶手椅 / 餐椅 / 木椅 / 椅子类 / 家具 / chairs"
+    },
+    {
+      "en": "chaise longue",
+      "zh": "贵妃椅",
+      "rating": "g",
+      "count": 536,
+      "desc": "可支撑双腿的躺椅",
+      "kw": "躺椅 / 长椅 / 靠椅 / 家具 / 中国风 / 古典"
+    },
+    {
+      "en": "chaldea bedroom",
+      "zh": "迦勒底房间",
+      "rating": "g",
+      "count": 1217,
+      "desc": "Fate/Grand Order中主角的My Room",
+      "kw": "迦勒底卧室 / 迦勒底个人房间 / FGO房间 / Fate房间 / 御主房间 / 我的房间（FGO） / FGO卧室 / my room (chaldea) (fate)"
+    },
+    {
+      "en": "checkered floor",
+      "zh": "棋盘格地板",
+      "rating": "g",
+      "count": 14162,
+      "desc": "黑白等多色方格交替的地板。",
+      "kw": "方格地板 / 格子地板 / 国际象棋地板 / 棋盘地板 / 黑白格地板 / 格纹地板 / 地板 / 背景"
+    },
+    {
+      "en": "chest of drawers",
+      "zh": "五斗柜",
+      "rating": "g",
+      "count": 2673,
+      "desc": "带多个抽屉的衣物收纳柜",
+      "kw": "抽屉柜 / 衣柜 / 多屉柜 / 斗柜 / 家具 / dresser / 箪笥 / たんす"
+    },
+    {
+      "en": "claw foot bathtub",
+      "zh": "爪脚浴缸",
+      "rating": "g",
+      "count": 819,
+      "desc": "底部有兽爪形脚的可移动浴缸",
+      "kw": "猫脚浴缸 / 兽爪浴缸 / 爪足浴缸 / 古典浴缸 / 欧式浴缸 / 浴缸 / 家具 / 猫足バスタブ"
+    },
+    {
+      "en": "coffee table",
+      "zh": "茶几",
+      "rating": "g",
+      "count": 953,
+      "desc": "摆在沙发前的矮桌茶几",
+      "kw": "咖啡桌 / 矮桌 / 沙发桌 / 客厅茶几 / 家具 / 桌类"
+    },
+    {
+      "en": "couch",
+      "zh": "沙发",
+      "rating": "g",
+      "count": 79183,
+      "desc": "可供数人坐的软垫长沙发",
+      "kw": "长沙发 / 沙发椅 / 软沙发 / 皮质沙发 / 沙发床 / 家具 / sofa / settee / ソファー / ソファ"
+    },
+    {
+      "en": "cracked floor",
+      "zh": "开裂的地板",
+      "rating": "g",
+      "count": 1661,
+      "desc": "地面出现裂缝的场景",
+      "kw": "破裂的地板 / 地面开裂 / 地板裂缝 / 地面裂缝 / 裂开的地板 / 龟裂地板 / 地裂 / 地面破坏"
+    },
+    {
+      "en": "cracked wall",
+      "zh": "开裂的墙",
+      "rating": "g",
+      "count": 2246,
+      "desc": "墙面出现裂缝",
+      "kw": "裂缝墙 / 墙体开裂 / 墙壁裂缝 / 裂墙 / 碎裂的墙 / 墙面开裂 / 裂纹墙壁 / 墙壁"
+    },
+    {
+      "en": "cupboard",
+      "zh": "橱柜",
+      "rating": "g",
+      "count": 1141,
+      "desc": "存放餐具、食物的柜子",
+      "kw": "碗柜 / 餐具柜 / 食器柜 / 厨房橱柜 / 家具 / 储物柜"
+    },
+    {
+      "en": "curtains",
+      "zh": "窗帘",
+      "rating": "g",
+      "count": 94712,
+      "desc": "挂在窗上遮光与保隐私的布帘",
+      "kw": "窗布 / 帷帘 / 布帘 / 遮光帘 / 窗幔 / 家居 / 遮光布 / curtain / drapes / カーテン"
+    },
+    {
+      "en": "dark room",
+      "zh": "暗室",
+      "rating": "g",
+      "count": 1317,
+      "desc": "没有光线或光线极暗的房间。",
+      "kw": "黑暗房间 / 黑房间 / 无光房间 / 暗房 / 伸手不见五指的房间 / 无光环境"
+    },
+    {
+      "en": "display case",
+      "zh": "陈列柜",
+      "rating": "g",
+      "count": 691,
+      "desc": "带玻璃门用于展示物品的柜子",
+      "kw": "展示柜 / 玻璃展示柜 / 玻璃陈列柜 / 展柜 / 商品展示柜 / 收藏展示柜 / 家具 / 陈列"
+    },
+    {
+      "en": "door",
+      "zh": "门",
+      "rating": "g",
+      "count": 31837,
+      "desc": "建筑物入口或家具上的门",
+      "kw": "房门 / 屋门 / 大门 / 门扉 / 门扇 / 柜门 / 闸 / 出入口 / doors / 扉 / ドア"
+    },
+    {
+      "en": "door handle",
+      "zh": "门拉手",
+      "rating": "g",
+      "count": 839,
+      "desc": "拉动或推动的杠杆式长柄门把手。",
+      "kw": "门把手 / 门柄 / 长柄门把手 / 杠杆式门把手 / 门把 / 门拉柄 / 门配件 / 五金"
+    },
+    {
+      "en": "doorbell",
+      "zh": "门铃",
+      "rating": "g",
+      "count": 259,
+      "desc": "装在门口提示访客的门铃",
+      "kw": "电门铃 / 门铃按钮 / 访客门铃 / 门铃器 / 家居"
+    },
+    {
+      "en": "doorknob",
+      "zh": "球形门把手",
+      "rating": "g",
+      "count": 941,
+      "desc": "圆球形旋转式门把手。",
+      "kw": "门把 / 门把手 / 圆形门锁 / 门球 / 旋钮门把 / 家具 / 家居 / ドアノブ"
+    },
+    {
+      "en": "doorway",
+      "zh": "门口",
+      "rating": "g",
+      "count": 9504,
+      "desc": "墙上开门的空间或门框",
+      "kw": "门洞 / 门框 / 门廊 / 门道 / 入口 / 建筑 / 场景 / 戸口"
+    },
+    {
+      "en": "drain (object)",
+      "zh": "排水口",
+      "rating": "g",
+      "count": 818,
+      "desc": "水槽或浴室中排水的下水口",
+      "kw": "下水口 / 下水道口 / 地漏 / 排水孔 / 排水沟口 / 水槽排水口 / 设施"
+    },
+    {
+      "en": "drawer",
+      "zh": "抽屉",
+      "rating": "g",
+      "count": 4197,
+      "desc": "在柜子中抽拉的储物抽屉",
+      "kw": "抽屜 / 抽斗 / 柜斗 / 柜桶 / 抽屉格 / 绘师 / 画师 / drawers / 서랍 / 引き出し / 引出し"
+    },
+    {
+      "en": "easy chair",
+      "zh": "安乐椅",
+      "rating": "g",
+      "count": 568,
+      "desc": "宽大舒适的安乐椅",
+      "kw": "休闲椅 / 舒适椅 / 靠背椅 / 软椅 / 沙发椅 / 躺椅 / 家具 / 椅子 / 休闲扶手椅"
+    },
+    {
+      "en": "escalator",
+      "zh": "自动扶梯",
+      "rating": "g",
+      "count": 776,
+      "desc": "商场和车站中的自动楼梯",
+      "kw": "扶梯 / 电动扶梯 / 手扶电梯 / 自动电梯 / 扶手电梯 / 電扶梯 / 自动楼梯 / 建筑设施 / 商场电梯 / 电梯（扶手式） / エスカレーター"
+    },
+    {
+      "en": "faucet",
+      "zh": "水龙头",
+      "rating": "g",
+      "count": 3934,
+      "desc": "厨房浴室中放水的固定龙头",
+      "kw": "龙头 / 水嘴 / 水管头 / 自来水龙头 / 旋塞龙头 / 水龙头开关 / 卫浴 / 蛇口"
+    },
+    {
+      "en": "fireplace",
+      "zh": "壁炉",
+      "rating": "g",
+      "count": 2936,
+      "desc": "室内生火取暖的壁炉",
+      "kw": "火炉 / 暖炉 / 壁炉火 / 壁炉旁 / 家具 / 室内"
+    },
+    {
+      "en": "floating curtains",
+      "zh": "飘动的窗帘",
+      "rating": "g",
+      "count": 803,
+      "desc": "像被风吹起般飘动的窗帘",
+      "kw": "飘起的窗帘 / 窗帘飘动 / 窗帘漂浮 / 窗帘飞扬 / 被风吹起的窗帘 / 漂浮窗帘 / 窗帘 / 动态布料"
+    },
+    {
+      "en": "floor",
+      "zh": "地板",
+      "rating": "g",
+      "count": 6944,
+      "desc": "房间或车厢内的底面地板",
+      "kw": "室内地板 / 地面 / 地板上 / 场景"
+    },
+    {
+      "en": "folding chair",
+      "zh": "折叠椅",
+      "rating": "g",
+      "count": 3841,
+      "desc": "可折叠收纳的轻便椅子。",
+      "kw": "折椅 / 折叠椅子 / 便携折叠椅 / 折凳 / 折叠座椅 / 椅子 / 家具 / パイプ椅子"
+    },
+    {
+      "en": "folding screen",
+      "zh": "折叠屏风",
+      "rating": "g",
+      "count": 735,
+      "desc": "多扇铰链连接的折叠屏风",
+      "kw": "屏风 / 日式屏风 / 折屏 / 折叠式屏风 / 折叠屏风门 / 家具 / 中国风 / 古风 / japanese movable partition / 屏風"
+    },
+    {
+      "en": "furnace",
+      "zh": "熔炉",
+      "rating": "g",
+      "count": 253,
+      "desc": "为建筑供暖的燃气或燃油炉",
+      "kw": "炉子 / 火炉 / 锅炉 / 暖气炉 / 熔炼炉 / 加热炉 / 工业 / かまど"
+    },
+    {
+      "en": "fusuma",
+      "zh": "襖",
+      "rating": "g",
+      "count": 1106,
+      "desc": "日式建筑中不透明的纸糊拉门",
+      "kw": "日式拉门 / 和式拉门 / 纸拉门 / 袄 / 隔扇 / 障子 / 家具 / 和风 / ふすま"
+    },
+    {
+      "en": "futon",
+      "zh": "日式被褥",
+      "rating": "g",
+      "count": 11881,
+      "desc": "铺在榻榻米或地板上的日式被褥或床垫。",
+      "kw": "布团 / 地铺 / 日式床垫 / 被褥 / 睡垫 / 日式地铺 / 日式 / 床铺 / 布団 / ふとん"
+    },
+    {
+      "en": "gaming chair",
+      "zh": "电竞椅",
+      "rating": "g",
+      "count": 2672,
+      "desc": "为游戏设计的旋转椅，通常带靠枕和侧支撑",
+      "kw": "游戏椅 / 游戏专用椅 / 电竞座椅 / 电脑游戏椅 / 人体工学电竞椅 / 座椅 / 家具 / 电竞风格 / gamer chair / ゲーミングチェア"
+    },
+    {
+      "en": "getabako",
+      "zh": "鞋柜",
+      "rating": "g",
+      "count": 874,
+      "desc": "日本学校或住宅入口处的鞋柜",
+      "kw": "鞋箱 / 鞋橱 / 玄关鞋柜 / 学校鞋柜 / 家具 / 日本风格 / shoe lockers / shoe locker / 下駄箱"
+    },
+    {
+      "en": "glass door",
+      "zh": "玻璃门",
+      "rating": "g",
+      "count": 1088,
+      "desc": "全部或部分用玻璃制成的门。",
+      "kw": "玻璃门扇 / 透明门 / 玻璃推拉门 / 玻璃门板 / 门 / 建筑 / ガラス戸"
+    },
+    {
+      "en": "glass table",
+      "zh": "玻璃桌",
+      "rating": "g",
+      "count": 1012,
+      "desc": "桌面为玻璃、桌腿为金属或木料的桌子",
+      "kw": "玻璃桌子 / 玻璃茶几 / 玻璃台面桌 / 透明玻璃桌 / 玻璃台 / 家具 / 桌"
+    },
+    {
+      "en": "gym",
+      "zh": "体育馆",
+      "rating": "g",
+      "count": 1163,
+      "desc": "配备用于体能训练、举重和运动的体育设施",
+      "kw": "场所 / 建筑"
+    },
+    {
+      "en": "hammock",
+      "zh": "吊床",
+      "rating": "g",
+      "count": 1797,
+      "desc": "悬吊在两点之间供躺卧的吊床",
+      "kw": "吊椅 / 吊网床 / 悬吊床 / 家具 / 户外 / ハンモック"
+    },
+    {
+      "en": "hand grip",
+      "zh": "吊环拉手",
+      "rating": "g",
+      "count": 1814,
+      "desc": "车厢内供乘客抓握的吊环或拉手",
+      "kw": "吊环 / 拉环 / 车厢拉手 / 吊扶手 / 吊带拉手 / 公交车拉环 / 握手 / 姿势 / 吊革 / つり革"
+    },
+    {
+      "en": "headboard",
+      "zh": "床头板",
+      "rating": "g",
+      "count": 500,
+      "desc": "床头的靠板",
+      "kw": "床头靠板 / 床背板 / 床头背板 / 床头木 / 床头 / 家具 / 床具"
+    },
+    {
+      "en": "hole in wall",
+      "zh": "墙上的洞",
+      "rating": "g",
+      "count": 526,
+      "desc": "墙上破开、能透视到另一侧的洞",
+      "kw": "墙洞 / 墙壁破洞 / 墙上破洞 / 墙裂缝 / 墙上的窟窿 / 墙洞眼 / 墙壁 / 场景"
+    },
+    {
+      "en": "hospital bed",
+      "zh": "病床",
+      "rating": "g",
+      "count": 2863,
+      "desc": "可调节靠背、带护栏和滚轮的病床。",
+      "kw": "医院病床 / 医用床 / 住院床 / 医疗床 / 护理床 / 可调节床 / 家具"
+    },
+    {
+      "en": "iron bars",
+      "zh": "铁栏杆",
+      "rating": "g",
+      "count": 1136,
+      "desc": "铁或钢制成的结构条杆。",
+      "kw": "铁条 / 铁棍 / 铁柱 / 铁栅栏 / 铁窗 / 金属栏杆 / 栏杆 / 监狱 / 铁格子 / 鉄格子"
+    },
+    {
+      "en": "karaoke box",
+      "zh": "卡拉OK包厢",
+      "rating": "g",
+      "count": 695,
+      "desc": "按时间租用的卡拉OK包厢。",
+      "kw": "卡拉OK包间 / KTV包间 / KTV包厢 / 卡拉OK房间 / 卡拉OK盒子 / 日式卡拉OK包厢 / 娱乐场所 / 日本风格"
+    },
+    {
+      "en": "kindergarten",
+      "zh": "幼儿园",
+      "rating": "g",
+      "count": 651,
+      "desc": "日本三到六岁儿童的幼儿园",
+      "kw": "幼稚园 / 幼儿园学校 / 学前班 / 保育园 / 幼儿学校 / 学校 / 建筑 / preschool / 园児 / 園児 / 保育園"
+    },
+    {
+      "en": "lattice",
+      "zh": "中式窗格",
+      "rating": "g",
+      "count": 2180,
+      "desc": "中式窗户、家具上的木制格状装饰。",
+      "kw": "中式格子 / 中国格子 / 格子窗 / 窗棂 / 木格花窗 / 花格窗 / 中式窗棂 / 格子花窗 / chinese window / 中华格子 / 中華格子"
+    },
+    {
+      "en": "laundromat",
+      "zh": "自助洗衣店",
+      "rating": "g",
+      "count": 626,
+      "desc": "投币式自助洗衣店。",
+      "kw": "投币洗衣店 / 自助洗衣房 / 投币式洗衣店 / 投币式洗衣房 / 投币洗衣机店 / 场景 / 室内 / コインランドリー"
+    },
+    {
+      "en": "loaded interior",
+      "zh": "繁复室内场景",
+      "rating": "g",
+      "count": 2124,
+      "desc": "细节极为密集的室内场景",
+      "kw": "密集室内景 / 满载室内 / 细节丰富室内 / 杂乱室内 / 堆满物品室内 / 复杂室内 / 密集摆设 / 琳琅满目室内"
+    },
+    {
+      "en": "locker",
+      "zh": "储物柜",
+      "rating": "g",
+      "count": 9138,
+      "desc": "带锁的储物柜，用于存放衣物或装备",
+      "kw": "置物柜 / 更衣柜 / 寄存柜 / 储物箱 / 带锁柜 / 铁柜 / 柜子 / 家具 / lockers / ロッカー / 사물함 / 儲物櫃"
+    },
+    {
+      "en": "lounge chair",
+      "zh": "户外躺椅",
+      "rating": "g",
+      "count": 5281,
+      "desc": "可后仰躺卧的户外椅，多在海滩泳池边日光浴",
+      "kw": "日光浴躺椅 / 沙滩躺椅 / 休闲躺椅 / 折叠躺椅 / 躺椅 / 家具 / 座椅 / sun lounger / sunlounger"
+    },
+    {
+      "en": "mansion",
+      "zh": "宅邸",
+      "rating": "g",
+      "count": 1054,
+      "desc": "占地广阔的大型宅邸",
+      "kw": "豪宅 / 公馆 / 大宅 / 庄园 / 府邸 / 洋馆 / 建筑 / 场景"
+    },
+    {
+      "en": "mattress",
+      "zh": "床垫",
+      "rating": "g",
+      "count": 604,
+      "desc": "铺在床上供人躺卧的厚软垫",
+      "kw": "床褥 / 床垫子 / 席梦思 / 厚床垫 / 弹簧床垫 / 软床垫 / 家具 / 床上用品 / マットレス"
+    },
+    {
+      "en": "moon gate",
+      "zh": "月洞门",
+      "rating": "g",
+      "count": 169,
+      "desc": "中国、日本等地建筑中的圆形门洞",
+      "kw": "月亮门 / 月门 / 圆形门洞 / 月洞 / 圆洞门 / 月亮门洞 / 门 / 闸"
+    },
+    {
+      "en": "muntins",
+      "zh": "窗格条",
+      "rating": "g",
+      "count": 591,
+      "desc": "窗玻璃之间起分隔作用的窗格条",
+      "kw": "窗棂 / 窗格 / 窗框条 / 玻璃分隔条 / 窗格栅 / 窗户 / 建筑"
+    },
+    {
+      "en": "nightstand",
+      "zh": "床头柜",
+      "rating": "g",
+      "count": 1124,
+      "desc": "放在床边的小柜或小桌",
+      "kw": "床边柜 / 床头桌 / 床柜 / 夜桌 / 家具 / 室内 / night table / bedside table / ナイトテーブル"
+    },
+    {
+      "en": "office chair",
+      "zh": "办公椅",
+      "rating": "g",
+      "count": 8636,
+      "desc": "带轮可旋转、有扶手和靠背的办公椅",
+      "kw": "电脑椅 / 办公座椅 / 转椅 / 老板椅 / 办公转椅 / 椅子 / 家具 / computer chair / オフィスチェア"
+    },
+    {
+      "en": "open door",
+      "zh": "开着的门",
+      "rating": "g",
+      "count": 9578,
+      "desc": "画面中处于打开状态的门",
+      "kw": "打开的门 / 门开着 / 敞开的门 / 开门状态 / 开门 / 门 / 闸"
+    },
+    {
+      "en": "open window",
+      "zh": "打开的窗户",
+      "rating": "g",
+      "count": 3498,
+      "desc": "打开通风的窗户",
+      "kw": "开窗 / 窗户打开 / 开着的窗 / 窗子敞开 / 打开的窗 / 敞开的窗户 / 窗户 / 建筑"
+    },
+    {
+      "en": "peephole",
+      "zh": "猫眼（门镜）",
+      "rating": "g",
+      "count": 179,
+      "desc": "门上供室内向外观望的小孔，俗称猫眼",
+      "kw": "窥视孔 / 门镜 / 门上猫眼 / 门眼 / 观察孔 / 窥视眼 / 间谍孔 / 门孔"
+    },
+    {
+      "en": "piano bench",
+      "zh": "钢琴长凳",
+      "rating": "g",
+      "count": 864,
+      "desc": "弹钢琴时坐的长凳。",
+      "kw": "琴凳 / 钢琴凳 / 钢琴长椅 / 演奏凳 / 家具 / 座椅"
+    },
+    {
+      "en": "pillar",
+      "zh": "柱子",
+      "rating": "g",
+      "count": 13114,
+      "desc": "用作建筑支撑或独立纪念碑的直立柱。",
+      "kw": "柱 / 支柱 / 立柱 / 石柱 / 圆柱 / 建筑柱 / 柱状物 / 建筑 / pillars"
+    },
+    {
+      "en": "poker table",
+      "zh": "扑克桌",
+      "rating": "g",
+      "count": 1286,
+      "desc": "专门用于玩扑克的桌子。",
+      "kw": "赌桌 / 牌桌 / 扑克牌桌 / 家具"
+    },
+    {
+      "en": "pool table",
+      "zh": "台球桌",
+      "rating": "g",
+      "count": 932,
+      "desc": "用于打台球或斯诺克的桌子，边缘有多个球袋供球杆击球后落入",
+      "kw": "家具 / 游戏桌"
+    },
+    {
+      "en": "radio booth",
+      "zh": "广播亭",
+      "rating": "g",
+      "count": 136,
+      "desc": "隔音的广播专用小房间",
+      "kw": "广播室 / 播音间 / 广播隔音间 / 电台播音间 / 播音室 / 录音室 / 室内"
+    },
+    {
+      "en": "recording studio",
+      "zh": "录音室",
+      "rating": "g",
+      "count": 304,
+      "desc": "用于录制广播剧、音乐等的声音工作室。",
+      "kw": "录音棚 / 录音工作室 / 广播间 / 隔音室 / 配音间 / 音效室 / 录制工作室 / 录音房"
+    },
+    {
+      "en": "reflective floor",
+      "zh": "反光地板",
+      "rating": "g",
+      "count": 5138,
+      "desc": "能映出倒影的地板",
+      "kw": "反射地板 / 镜面地板 / 倒影地板 / 发光地板 / 光泽地板 / 反光地面 / 镜面地面 / 地板 / 反射的地面"
+    },
+    {
+      "en": "rei no pool",
+      "zh": "例之泳池",
+      "rating": "s",
+      "count": 1067,
+      "desc": "日本成人影片中反复出现的室内游泳池场景。",
+      "kw": "那个泳池 / 知名泳池 / AV泳池 / 常见泳池场景 / 惯用泳池 / 那个室内泳池 / 泳池 / 场景 / that pool / the usual pool / hanazono room / 例のプール"
+    },
+    {
+      "en": "roulette table",
+      "zh": "轮盘赌桌",
+      "rating": "g",
+      "count": 549,
+      "desc": "台面装有轮盘的赌桌",
+      "kw": "轮盘桌 / 轮盘赌台 / 轮盘赌桌子 / 轮盘台 / 赌场轮盘桌 / 转盘赌桌 / 赌场 / 赌博"
+    },
+    {
+      "en": "round table",
+      "zh": "圆桌",
+      "rating": "g",
+      "count": 3068,
+      "desc": "桌面呈圆形的桌子",
+      "kw": "圆形桌子 / 圆台桌 / 环形桌 / 圆形餐桌 / 桌子 / 家具"
+    },
+    {
+      "en": "round window",
+      "zh": "圆窗",
+      "rating": "g",
+      "count": 2492,
+      "desc": "圆形边框的窗户，常见于船只和建筑",
+      "kw": "圆形窗 / 圆形窗户 / 圆窗户 / 圆圈窗 / 窗户 / 建筑元素"
+    },
+    {
+      "en": "rug",
+      "zh": "小地毯",
+      "rating": "g",
+      "count": 5600,
+      "desc": "可移动的小块地毯，与满铺地毯不同。",
+      "kw": "小块地毯 / 垫毯 / 地垫 / 客厅地毯 / 装饰地毯 / 地毯 / 家居 / 地板覆盖 / 地毯（小）"
+    },
+    {
+      "en": "school chair",
+      "zh": "课椅",
+      "rating": "g",
+      "count": 11781,
+      "desc": "教室中学生使用的椅子",
+      "kw": "学校椅子 / 教室椅子 / 学生椅 / 课桌椅 / 课堂椅 / 学校课椅 / 家具 / 学校用品 / 椅子"
+    },
+    {
+      "en": "school desk",
+      "zh": "课桌",
+      "rating": "g",
+      "count": 26107,
+      "desc": "学生在教室使用的书桌",
+      "kw": "学校课桌 / 学生课桌 / 书桌 / 教室课桌 / 学习桌 / 学生书桌 / 家具 / 学校机 / 机（学校） / 生徒用机 / 机(学校)"
+    },
+    {
+      "en": "see-through curtains",
+      "zh": "透视窗帘",
+      "rating": "g",
+      "count": 1395,
+      "desc": "能透过看清后方人或物的半透明窗帘。",
+      "kw": "透明窗帘 / 薄纱窗帘 / 半透明窗帘 / 能看穿的窗帘 / 纱帘 / 窗帘 / transparent curtains / sheer curtains / translucent curtains"
+    },
+    {
+      "en": "shelf",
+      "zh": "架子",
+      "rating": "g",
+      "count": 13208,
+      "desc": "固定在墙上或家具中用于放置物品的平板。",
+      "kw": "搁板 / 书架 / 置物架 / 隔板 / 壁架 / 层架 / 收纳架 / 家具 / shelves / 棚 / たな / 선반"
+    },
+    {
+      "en": "shouji",
+      "zh": "障子",
+      "rating": "g",
+      "count": 7614,
+      "desc": "日式建筑木格贴半透明纸的推拉门",
+      "kw": "日式纸门 / 日式推拉门 / 纸拉门 / 和式拉门 / 障子门 / 格子纸门 / 门 / 闸 / japanese sliding door / screen door / 推拉门（日式）"
+    },
+    {
+      "en": "shower curtain",
+      "zh": "浴帘",
+      "rating": "g",
+      "count": 571,
+      "desc": "防止水溅出淋浴区的防水帘",
+      "kw": "淋浴帘 / 浴室帘 / 洗澡帘 / 浴帘布 / 浴室 / 帘子"
+    },
+    {
+      "en": "shower head",
+      "zh": "淋浴喷头",
+      "rating": "g",
+      "count": 5136,
+      "desc": "淋浴用喷水装置",
+      "kw": "花洒 / 淋浴头 / 莲蓬头 / 喷淋头 / 淋浴花洒 / 淋浴莲蓬头 / 浴室喷头 / 卫浴用品"
+    },
+    {
+      "en": "sliding doors",
+      "zh": "推拉门",
+      "rating": "g",
+      "count": 15698,
+      "desc": "横向滑开而不是靠门把开关的门",
+      "kw": "滑动门 / 移门 / 拉门 / 滑门 / 门 / 日本风 / sliding door / 引き戸"
+    },
+    {
+      "en": "spiral staircase",
+      "zh": "螺旋楼梯",
+      "rating": "g",
+      "count": 579,
+      "desc": "呈螺旋状盘旋上升的楼梯，常见于塔楼或古典建筑",
+      "kw": "旋转楼梯 / 螺旋阶梯 / 旋转阶梯 / 回旋楼梯 / 旋梯 / 盘梯 / 螺旋梯 / 楼梯"
+    },
+    {
+      "en": "sports hall",
+      "zh": "体育馆",
+      "rating": "g",
+      "count": 672,
+      "desc": "室内体育馆场景，常有篮球架、跑道等运动设施。",
+      "kw": "室内 / 场景"
+    },
+    {
+      "en": "squat toilet",
+      "zh": "蹲式厕所",
+      "rating": "g",
+      "count": 925,
+      "desc": "需要蹲着使用的厕所。",
+      "kw": "蹲便器 / 蹲坑 / 蹲厕 / 和式厕所 / 和式便器 / 日式蹲厕 / 厕所 / 卫生设施 / 和式 / 和式便所 / 和式トイレ"
+    },
+    {
+      "en": "stage curtains",
+      "zh": "舞台幕布",
+      "rating": "g",
+      "count": 1188,
+      "desc": "舞台上使用的幕布",
+      "kw": "舞台窗帘 / 舞台帷幕 / 剧场幕布 / 帷幕 / 幕布 / 舞台帘幕 / 剧场帷幕 / 舞台"
+    },
+    {
+      "en": "stained sheets",
+      "zh": "弄脏的床单",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1348,
+      "desc": "被汗液、爱液或精液弄脏的床单",
+      "kw": "被弄脏的床单 / 有污渍的床单 / 脏床单 / 污渍床单 / 床单 / 污渍 / 床上用品"
+    },
+    {
+      "en": "stairs",
+      "zh": "楼梯",
+      "rating": "g",
+      "count": 37595,
+      "desc": "连接不同高度的阶梯",
+      "kw": "台阶 / 阶梯 / 楼梯间 / 梯级 / 建筑 / 场景 / steps / stair / staircase / stairway"
+    },
+    {
+      "en": "stone floor",
+      "zh": "石板地面",
+      "rating": "g",
+      "count": 3348,
+      "desc": "由石头铺成的地面",
+      "kw": "石地板 / 石头地板 / 石板地 / 石质地面 / 地板 / 建筑"
+    },
+    {
+      "en": "stool",
+      "zh": "凳子",
+      "rating": "g",
+      "count": 17140,
+      "desc": "没有靠背和扶手的坐具",
+      "kw": "圆凳 / 方凳 / 高脚凳 / 板凳 / 家具 / 座位 / 无靠背椅子"
+    },
+    {
+      "en": "swivel chair",
+      "zh": "旋转椅",
+      "rating": "g",
+      "count": 13015,
+      "desc": "底部带轮子且可旋转的椅子。",
+      "kw": "转椅 / 旋转办公椅 / 回转椅 / 活动转椅 / 带轮转椅 / 可旋转椅子 / 家具 / 椅子 / 回転椅子"
+    },
+    {
+      "en": "tablecloth",
+      "zh": "桌布",
+      "rating": "g",
+      "count": 3444,
+      "desc": "铺盖在桌上的薄布。",
+      "kw": "台布 / 桌面布 / 桌巾 / 家居用品 / 布艺"
+    },
+    {
+      "en": "throne",
+      "zh": "宝座",
+      "rating": "g",
+      "count": 9432,
+      "desc": "统治者所坐的华丽高背座椅",
+      "kw": "王座 / 御座 / 皇座 / 帝王座 / 御椅 / 家具 / 玉座"
+    },
+    {
+      "en": "tile ceiling",
+      "zh": "瓷砖天花板",
+      "rating": "g",
+      "count": 1582,
+      "desc": "用瓷砖铺设的室内天花板",
+      "kw": "瓷砖吊顶 / 砖瓦天花板 / 磁砖天花板 / 天花板瓷砖 / 瓷砖顶棚 / 室内 / 建筑 / 天花板"
+    },
+    {
+      "en": "tile floor",
+      "zh": "瓷砖地面",
+      "rating": "g",
+      "count": 24619,
+      "desc": "用方形瓷砖铺成的室内地面。",
+      "kw": "地砖地面 / 瓷砖地板 / 地板砖地面 / 方块砖地面 / 铺砖地面 / 磁砖地面 / 地板 / 室内 / floor tiles"
+    },
+    {
+      "en": "tile wall",
+      "zh": "瓷砖墙",
+      "rating": "g",
+      "count": 12932,
+      "desc": "用方形瓷砖铺成的墙面",
+      "kw": "瓷砖墙壁 / 贴瓷砖的墙 / 方砖墙 / 瓷砖背景墙 / 墙壁 / 室内 / 背景"
+    },
+    {
+      "en": "tiles",
+      "zh": "瓷砖",
+      "rating": "g",
+      "count": 38213,
+      "desc": "铺地、墙面、屋顶用的陶土或石材方片。",
+      "kw": "磁砖 / 瓷砖片 / 地砖 / 墙砖 / 花砖 / 方砖 / 地板 / 背景 / tile / タイル"
+    },
+    {
+      "en": "toilet",
+      "zh": "马桶",
+      "rating": "g",
+      "count": 8229,
+      "desc": "用于排泄的马桶等卫浴器具",
+      "kw": "厕所 / 抽水马桶 / 坐便器 / 便器 / 卫浴器具 / 冲水马桶 / 卫生间 / 洋式 / トイレ / 洋式トイレ"
+    },
+    {
+      "en": "trap door",
+      "zh": "活板门",
+      "rating": "g",
+      "count": 139,
+      "desc": "设在地板或天花板而非墙面上的门",
+      "kw": "陷阱门 / 地板门 / 暗门 / 翻板门 / 秘密门 / 天花板暗门 / 建筑 / 机关 / trapdoor"
+    },
+    {
+      "en": "vent (object)",
+      "zh": "通风口",
+      "rating": "g",
+      "count": 511,
+      "desc": "带有格栅的通风口",
+      "kw": "通风孔 / 通风格栅 / 通气口 / 排风口 / 气窗 / 通风管道口 / 出风口 / 空调口 / air vent / 通風孔"
+    },
+    {
+      "en": "ventilation shaft",
+      "zh": "通风管道",
+      "rating": "g",
+      "count": 251,
+      "desc": "通风口后面的金属管道",
+      "kw": "通风井 / 风道 / 通风管 / 通风甬道 / 换气管道 / 通气管 / 空调管道 / 通风口管道"
+    },
+    {
+      "en": "veranda",
+      "zh": "外廊",
+      "rating": "g",
+      "count": 3058,
+      "desc": "有顶的开放式走廊或门廊，日式缘侧",
+      "kw": "阳台 / 露台 / 檐廊 / 游廊 / 回廊 / 门廊 / 缘侧 / 走廊 / verandah / engawa / 縁侧 / 縁側"
+    },
+    {
+      "en": "wall",
+      "zh": "墙壁",
+      "rating": "g",
+      "count": 5560,
+      "desc": "用于支撑和作为屏障的结构，有多种形式",
+      "kw": "墙 / 背景 / 室内"
+    },
+    {
+      "en": "wallpaper (object)",
+      "zh": "壁纸（房间装饰）",
+      "rating": "g",
+      "count": 1763,
+      "desc": "贴在房间墙面上的装饰性纸张。",
+      "kw": "墙纸 / 墙壁纸 / 贴墙纸 / 房间壁纸 / 装饰壁纸 / 室内壁纸 / 壁纸 (物体) / 家居用品"
+    },
+    {
+      "en": "wardrobe",
+      "zh": "衣柜",
+      "rating": "g",
+      "count": 510,
+      "desc": "存放衣物的可移动家具",
+      "kw": "衣橱 / 大衣柜 / 衣柜子 / 橱柜 / 储物柜 / 衣柜家具 / 衣橱柜 / 家具"
+    },
+    {
+      "en": "washing machine",
+      "zh": "洗衣机",
+      "rating": "g",
+      "count": 2543,
+      "desc": "用水和洗涤剂清洗衣物的家电",
+      "kw": "家电 / 家用电器 / 洗濯机 / 洗濯機 / 세탁기 / 洗衣機"
+    },
+    {
+      "en": "wet floor",
+      "zh": "地面湿滑",
+      "rating": "g",
+      "count": 804,
+      "desc": "明显湿漉漉的地面，旁边可能有警示牌",
+      "kw": "湿地面 / 地面积水 / 湿滑地面 / 地面潮湿 / 湿地 / 潮湿的地面 / 环境 / 地面"
+    },
+    {
+      "en": "window blinds",
+      "zh": "百叶窗",
+      "rating": "g",
+      "count": 4052,
+      "desc": "由横向叶片组成的遮光百叶窗。",
+      "kw": "百叶窗帘 / 窗帘 / 百叶窗板 / 遮光百叶 / 窗百叶 / 家居 / blinds / ブラインド"
+    },
+    {
+      "en": "windowsill",
+      "zh": "窗台",
+      "rating": "g",
+      "count": 1646,
+      "desc": "窗户底部的水平窗台",
+      "kw": "窗沿 / 窗台板 / 窗户台 / 飘窗台 / 窗边台 / 窗下台 / 窗框底边 / 建筑 / window sill / 窗辺 / 窓辺"
+    },
+    {
+      "en": "wooden ceiling",
+      "zh": "木制天花板",
+      "rating": "g",
+      "count": 658,
+      "desc": "由木板或原木梁构成的天花板",
+      "kw": "木质天花板 / 木头天花板 / 木板天花板 / 建筑 / 室内"
+    },
+    {
+      "en": "wooden chair",
+      "zh": "木椅",
+      "rating": "g",
+      "count": 2893,
+      "desc": "木头制成的椅子，通常无扶手",
+      "kw": "木制椅子 / 木头椅子 / 实木椅 / 木制座椅 / 木椅（无扶手） / 家具 / 椅子"
+    },
+    {
+      "en": "wooden door",
+      "zh": "木门",
+      "rating": "g",
+      "count": 764,
+      "desc": "主要由木头制成的门",
+      "kw": "木头门 / 木制门 / 实木门 / 木质门 / 门 / 建筑"
+    },
+    {
+      "en": "wooden table",
+      "zh": "木桌",
+      "rating": "g",
+      "count": 5119,
+      "desc": "木头制成的桌子。",
+      "kw": "木桌子 / 木头桌子 / 木制桌子 / 原木桌 / 实木桌 / 木质桌 / 桌子 / 家具"
+    },
+    {
+      "en": "wooden wall",
+      "zh": "木墙",
+      "rating": "g",
+      "count": 3944,
+      "desc": "由木板并排构成的墙面",
+      "kw": "木板墙 / 木质墙面 / 木板墙壁 / 木壁 / 原木墙 / 木板隔墙 / 木质墙 / 背景"
+    }
+  ]
+}

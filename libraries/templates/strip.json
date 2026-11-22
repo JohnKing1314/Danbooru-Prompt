@@ -1,0 +1,12 @@
+{
+  "id": "strip",
+  "icon": "📱",
+  "name": "竖排四格",
+  "desc": "适合手机看的长条四格",
+  "tags": "1girl|一个女孩;comic page layout|漫画分页;manga style|漫画风;speech bubble|对话气泡;anime coloring|动画上色",
+  "layout": {
+    "tpl": "strip",
+    "size": "1024x1536"
+  },
+  "builtin": true
+}

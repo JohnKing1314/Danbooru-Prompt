@@ -1,0 +1,842 @@
+{
+  "id": "breasts",
+  "name": "胸部",
+  "icon": "🍒",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 14,
+  "file": "character_base/character_base_breasts.json",
+  "updatedAt": "2026-11-22T12:39:36.675Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "huge breasts",
+      "zh": "巨乳",
+      "rating": "s",
+      "nsfw": false,
+      "count": 340541,
+      "desc": "比大胸更大、约与头等大但不到两倍头大的胸部。",
+      "kw": "超巨乳 / 巨大乳房 / 豪乳 / 超乳 / 巨大胸部 / 胸部 / huge boobs / huge breast / huge tits / hugeboobs"
+    },
+    {
+      "en": "large breasts",
+      "zh": "大胸",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2322830,
+      "desc": "大于普通乳房但小于爆乳，约与脸同大",
+      "kw": "丰乳 / 大奶 / 大欧派 / 大奶子 / 丰满胸部 / 豪乳 / 大胸脯 / large breast / large boobs / big breasts / large tits"
+    },
+    {
+      "en": "medium breasts",
+      "zh": "中等胸",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1243706,
+      "desc": "大小介于小胸和大胸之间",
+      "kw": "中胸 / 普通胸部 / 中等大小胸部 / 不大不小的胸 / 中间大小胸部 / 普通乳 / 中号胸部 / 中杯"
+    },
+    {
+      "en": "small breasts",
+      "zh": "小胸",
+      "rating": "s",
+      "nsfw": false,
+      "count": 739565,
+      "desc": "比平胸大比中等胸小的胸部",
+      "kw": "平胸 / 微乳 / A罩杯 / 胸部 / small boobs / smallboobs / smallbreasts / 貧乳"
+    },
+    {
+      "en": "flat chest",
+      "zh": "平胸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 241958,
+      "desc": "完全没有乳房的女性胸部",
+      "kw": "贫乳 / 平板 / 飞机场 / 太平公主 / 无乳 / 平坦胸 / 平坦胸部 / 平板胸 / pettanko / flat chested / flatchest / titty buds"
+    },
+    {
+      "en": "bare breasts",
+      "zh": "裸露胸部",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "areola",
+      "zh": "乳晕",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "long nipples",
+      "zh": "长乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 607,
+      "desc": "比正常更长的乳头",
+      "kw": "长奶头 / 长乳首 / 乳头过长 / 超长乳头 / 加长乳头 / 乳头 / 身体部位 / 長乳首"
+    },
+    {
+      "en": "breast expansion",
+      "zh": "胸部膨胀",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2696,
+      "desc": "角色胸部由小变大的过程",
+      "kw": "丰胸 / 爆乳化 / 乳房膨胀 / 胸部变大 / 巨乳化 / 乳房扩张 / 变化 / 成人 / growing breasts / 膨乳"
+    },
+    {
+      "en": "breast focus",
+      "zh": "胸部特写",
+      "rating": "s",
+      "nsfw": false,
+      "count": 4558,
+      "desc": "以胸部为画面焦点的构图，常为特写。",
+      "kw": "乳房特写 / 乳房聚焦 / 胸部聚焦 / 奶子特写 / 欧派特写 / 胸部中心 / 胸部强调 / 胸控"
+    },
+    {
+      "en": "nipple focus",
+      "zh": "乳首特写",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "breasts",
+      "zh": "胸部",
+      "rating": "s",
+      "nsfw": false,
+      "count": 5115377,
+      "desc": "胸部明显可见，不用于平胸角色",
+      "kw": "乳房 / 欧派 / 胸 / 奶子 / 双乳 / 胸脯 / 胸器 / 美胸 / boobs / tits / breast / breats"
+    },
+    {
+      "en": "gigantic breasts",
+      "zh": "超巨乳",
+      "rating": "s",
+      "nsfw": false,
+      "count": 17282,
+      "desc": "比头大两倍以上的巨大乳房，中文圈常称超乳。",
+      "kw": "超乳 / 爆乳 / 巨大乳房 / 巨型胸部 / 巨型乳房 / 超大型胸部 / 超乳胸部 / gigantic breast / k点越えおっぱい / ロリ超乳"
+    },
+    {
+      "en": "breast reduction",
+      "zh": "缩胸",
+      "rating": "s",
+      "nsfw": false,
+      "count": 124,
+      "desc": "把胸部缩小的情形",
+      "kw": "胸部缩小 / 缩乳 / 乳房缩小术 / 缩胸手术 / 变小胸 / 胸部缩减 / 罩杯缩小 / shrinking breasts"
+    },
+    {
+      "en": "breast size switch",
+      "zh": "胸部大小互换",
+      "rating": "g",
+      "nsfw": false,
+      "count": 99,
+      "desc": "两人交换胸部大小的情形",
+      "kw": "互换胸部大小 / 胸围互换 / 奶子大小互换 / 罩杯互换 / 胸部尺寸互换 / 乳量互换"
+    },
+    {
+      "en": "bust chart",
+      "zh": "胸围对比表",
+      "rating": "g",
+      "nsfw": false,
+      "count": 554,
+      "desc": "并列比较角色胸围大小的图表",
+      "kw": "胸部对比图 / 胸围比较图 / 胸部比较图 / 胸部大小排序图 / 乳量比较图 / 胸部尺寸图 / 胸围对照表 / 胸部排行图 / breast comparison / breast chart / boob chart / chichikurabe"
+    },
+    {
+      "en": "compressed breasts",
+      "zh": "挤压乳房",
+      "rating": "s",
+      "nsfw": false,
+      "count": 71,
+      "desc": "胸部被衣服挤压后显得更大的样子",
+      "kw": "挤压胸部 / 胸部被挤压 / 压胸 / 被压的胸部 / 胸部挤压"
+    },
+    {
+      "en": "convenient breasts",
+      "zh": "便利的胸部",
+      "rating": "s",
+      "nsfw": false,
+      "count": 175,
+      "desc": "胸部大小或形状反而有助于完成动作或解决问题。",
+      "kw": "方便的胸部 / 便利的欧派 / 方便的欧派 / 实用胸部 / 遮挡的胸部 / 胸部 / 构图"
+    },
+    {
+      "en": "inconvenient breasts",
+      "zh": "碍事的胸部",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1098,
+      "desc": "胸部过大挡视线、弄坏衣服或撞到东西。",
+      "kw": "麻烦的胸部 / 碍事乳房 / 胸部不便 / 巨乳困扰 / 烦人巨乳 / 妨碍巨乳 / 不便巨乳"
+    },
+    {
+      "en": "areolae",
+      "zh": "乳晕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 17660,
+      "desc": "已弃用标签，请使用其他相关标签",
+      "kw": "乳房部位"
+    },
+    {
+      "en": "dark areolae",
+      "zh": "深色乳晕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1059,
+      "desc": "颜色偏深的乳晕，常为棕黑色。",
+      "kw": "黑色乳晕 / 黑乳晕 / 暗色乳晕 / 乳晕颜色深 / 深色的乳晕 / 深色晕 / 乳晕 / 黒乳輪"
+    },
+    {
+      "en": "light areolae",
+      "zh": "浅色乳晕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2037,
+      "desc": "乳晕颜色比周围肤色更浅，常见于深色皮肤角色。",
+      "kw": "淡色乳晕 / 亮色乳晕 / 浅乳晕 / 白乳晕 / 皮肤色乳晕 / 浅色乳晕圈 / 乳晕 / 身体部位"
+    },
+    {
+      "en": "speckled areolae",
+      "zh": "乳晕斑点",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2040,
+      "desc": "乳晕上呈现不规则斑点的特征",
+      "kw": "点状乳晕 / 颗粒乳晕 / 乳晕斑 / 乳晕色素沉着 / 斑点乳晕边缘 / 斑状乳晕 / 乳晕"
+    },
+    {
+      "en": "backboob",
+      "zh": "后乳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 11696,
+      "desc": "从背后可见的乳房侧面",
+      "kw": "背乳 / 里乳 / 裏乳 / 从背后看到的胸部 / 背后可见的乳房 / 后侧乳 / 背侧乳 / 侧乳(后方视点) / back boob"
+    },
+    {
+      "en": "bursting breasts",
+      "zh": "撑破衣物的胸部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8583,
+      "desc": "胸部把紧身衣物撑破或眼看要撑破",
+      "kw": "爆乳 / 衣服被胸撑破 / 乳房呼之欲出 / 胸快撑爆 / 撑爆衣服的巨乳 / 胸部 / 巨乳 / 紧崩"
+    },
+    {
+      "en": "cleavage",
+      "zh": "乳沟",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1460245,
+      "desc": "女性胸部之间露出的沟壑",
+      "kw": "胸沟 / 奶沟 / 事业线 / 乳间 / 乳沟线 / 胸部沟壑 / 深沟 / 沟沟 / clevage / overboob / 胸の谷間 / 魅惑の谷間"
+    },
+    {
+      "en": "nipples",
+      "zh": "乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1170098,
+      "desc": "乳房/胸部上可见的乳头本身",
+      "kw": "奶头 / 乳首 / 乳头突起 / 胸部乳头 / 乳房乳头 / 乳尖 / 裸乳头 / 胸部 / nipple"
+    },
+    {
+      "en": "dark nipples",
+      "zh": "深色乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 10353,
+      "desc": "颜色偏深（棕至黑）的乳头",
+      "kw": "深色奶头 / 黑乳头 / 黑乳首 / 深色乳首 / 深色奶首 / 乳头 / 身体部位 / 黒乳首"
+    },
+    {
+      "en": "gaping nipples",
+      "zh": "扩张乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 27
+    },
+    {
+      "en": "huge nipples",
+      "zh": "巨乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8690,
+      "desc": "粗度约为拇指两倍的巨大乳头",
+      "kw": "巨大乳头 / 大奶头 / 巨型乳头 / 巨乳首 / 乳头 / 身体部位 / large nipples / 長乳首"
+    },
+    {
+      "en": "nipple indents",
+      "zh": "乳头凹陷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2867,
+      "desc": "尖端有凹陷或小孔的乳头（非乳头内陷）。",
+      "kw": "乳头凹点 / 乳头坑 / 乳头凹陷尖端 / 乳头小洞 / 乳头有凹 / 乳头凸显 / 乳头凸起 / 身体细节 / innie nipples"
+    },
+    {
+      "en": "colored nipples",
+      "zh": "异色乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3015,
+      "desc": "乳头颜色非正常肤色范围，如蓝、绿、紫等",
+      "kw": "非自然色乳头 / 奇怪颜色乳头 / 彩色奶头 / 异色奶头 / 乳头 / 身体特征"
+    },
+    {
+      "en": "nipple hair",
+      "zh": "乳晕毛",
+      "rating": "q",
+      "nsfw": true,
+      "count": 173,
+      "desc": "乳头周围长出的体毛。",
+      "kw": "乳头毛发 / 乳头上的毛 / 乳头周围毛 / 乳头周边体毛 / 体毛"
+    },
+    {
+      "en": "sideboob",
+      "zh": "侧乳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 161221,
+      "desc": "衣服缝隙露出乳房外侧，不露乳头。",
+      "kw": "侧胸 / 乳房外侧 / 横乳 / 腋乳 / 露侧乳 / 边乳 / 侧边胸部 / 胸侧 / side boob / side boobs / sideboobs / よこちち"
+    },
+    {
+      "en": "underboob",
+      "zh": "下乳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 130550,
+      "desc": "衣服下缘露出乳房下半部，乳头不可见。",
+      "kw": "南半球 / 下胸 / 下半球 / 乳房下缘 / 胸下 / 奶下 / 底乳 / 胸部 / under boob / underbreast / underboobs / 下パイ"
+    },
+    {
+      "en": "asymmetrical breasts",
+      "zh": "不对称乳房",
+      "rating": "s",
+      "nsfw": false,
+      "count": 377,
+      "desc": "一侧乳房明显大于或小于另一侧。",
+      "kw": "左右乳房不对称 / 乳房大小不一 / 乳房不对称 / 大小胸 / 胸部不对称 / 乳房不匀称 / 乳房 / 身体 / lopsided breasts"
+    },
+    {
+      "en": "breasts apart",
+      "zh": "乳房间距宽",
+      "rating": "s",
+      "nsfw": false,
+      "count": 63847,
+      "desc": "两乳向两侧分开、露出胸骨",
+      "kw": "胸部外扩 / 双乳分开 / 两乳分开 / 外扩胸 / 八字奶 / 外八奶 / 胸骨露出 / 乳房间距大"
+    },
+    {
+      "en": "floating breasts",
+      "zh": "浮动乳房",
+      "rating": "s",
+      "nsfw": false,
+      "count": 383,
+      "desc": "漂浮在水中或空中的乳房",
+      "kw": "漂浮的乳房 / 水上浮乳 / 水中浮乳 / 飘浮乳房 / 乳房漂浮 / 浮着的乳房 / 悬浮乳房 / 乳房"
+    },
+    {
+      "en": "hanging breasts",
+      "zh": "垂乳",
+      "rating": "s",
+      "nsfw": false,
+      "count": 29031,
+      "desc": "身体前倾时乳房自然下垂",
+      "kw": "下垂的胸部 / 胸部下垂 / 垂胸 / 垂奶 / 下坠胸 / 前倾垂乳 / 乳房 / 动态乳房 / hanging boob / hangingboob / 逆乳 / 垂れ乳"
+    },
+    {
+      "en": "perky breasts",
+      "zh": "挺拔乳房",
+      "rating": "s",
+      "nsfw": false,
+      "count": 5594,
+      "desc": "自然向上挺翘、不下垂的乳房",
+      "kw": "挺翘的乳房 / 坚挺乳房 / 上翘乳房 / 翘乳 / 挺乳 / 弹性乳房 / 富有弹性的乳房 / beckoning breasts"
+    },
+    {
+      "en": "sagging breasts",
+      "zh": "下垂乳房",
+      "rating": "s",
+      "nsfw": false,
+      "count": 10521,
+      "desc": "乳房形状明显下垂，而非自然悬垂。",
+      "kw": "乳房下垂 / 垂乳 / 长乳 / 下坠乳房 / 软垂乳房 / 乳房 / 身体 / 垂れ乳 / 長乳"
+    },
+    {
+      "en": "unaligned breasts",
+      "zh": "高低乳",
+      "rating": "s",
+      "nsfw": false,
+      "count": 7085,
+      "desc": "两乳朝相反方向或角度不一致",
+      "kw": "双乳不齐 / 乳房方向不一 / 乳房动态不一致 / 两边胸不齐 / 不对称乳房 / 胸部"
+    },
+    {
+      "en": "veiny breasts",
+      "zh": "青筋乳",
+      "rating": "s",
+      "nsfw": false,
+      "count": 5198,
+      "desc": "可见静脉的乳房。",
+      "kw": "乳房青筋 / 胸部青筋 / 乳房静脉 / 暴青筋的乳房 / 青筋暴起的胸部 / 乳房爆青筋 / 乳房细节 / 青筋 / 血管 / 乳房の青筋"
+    },
+    {
+      "en": "pointy breasts",
+      "zh": "尖头乳房",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2341,
+      "desc": "向前突出呈锥形的乳房，常因穿子弹胸罩造成",
+      "kw": "尖胸 / 尖奶 / 锥形乳房 / 子弹胸 / 尖挺乳房 / 火箭奶 / 尖乳 / 乳房形状 / very perky breasts / torpedo breasts / 长乳 / 長乳"
+    },
+    {
+      "en": "cinderella bust",
+      "zh": "灰姑娘胸围",
+      "rating": "s",
+      "nsfw": false,
+      "count": 281,
+      "desc": "面向小胸女性的带褶边和颈链式胸罩的内衣系列",
+      "kw": "灰姑娘胸衣 / 灰姑娘系列内衣 / 灰姑娘风格内衣 / 小胸向灰姑娘内衣 / 辛德瑞拉挤胸 / 乳沟 / 低胸 / 服装 / シンデレラバスト"
+    },
+    {
+      "en": "framed breasts",
+      "zh": "胸部勾勒",
+      "rating": "s",
+      "nsfw": false,
+      "count": 7539,
+      "desc": "衣服用不同材质将胸部框出",
+      "kw": "框胸 / 衣服框胸 / 布料框胸 / 胸部框出 / 框出胸部 / 乳房框出 / 异材质框胸 / 强调胸部 / 框缚胸部"
+    },
+    {
+      "en": "alternate breast size",
+      "zh": "改变乳房大小",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1075,
+      "desc": "已弃用，请使用具体的alternate size标签。",
+      "kw": "乳房大小变体 / 艺术表现 / 胸部 / 异体 / 大小变化"
+    },
+    {
+      "en": "alternate breast size (larger)",
+      "zh": "巨乳化",
+      "rating": "s",
+      "nsfw": false,
+      "count": 107259,
+      "desc": "角色胸部被画得比官方设定更大。",
+      "kw": "胸部加大 / 胸部变大 / 大胸化 / 胸部尺寸增大 / 比原作胸大 / 胸部比原作更大 / 胸部增幅 / larger breasts than canon"
+    },
+    {
+      "en": "alternate breast size (smaller)",
+      "zh": "胸部缩小（非官方）",
+      "rating": "s",
+      "nsfw": false,
+      "count": 3602,
+      "desc": "角色胸部被画得比官方设定更小。",
+      "kw": "胸围比原作小 / 缩胸 / 胸部缩小 / 比原作胸小 / 胸围偏小 / 小胸化 / 替代乳量 (变小) / 小胸 / smaller breasts than canon"
+    },
+    {
+      "en": "breast implants",
+      "zh": "隆胸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 72,
+      "desc": "植入的隆胸假体",
+      "kw": "乳房假体 / 隆胸植入物 / 胸部假体 / 丰胸假体 / 豊胸手术"
+    },
+    {
+      "en": "male with breasts",
+      "zh": "男性乳房",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1210,
+      "desc": "拥有男性身体面貌却长有女性乳房的角色",
+      "kw": "男体女乳 / 男巨乳 / 伪娘乳房 / 男娘巨乳 / 男性女乳 / 男身女乳 / 巨乳男子 / 男子おっぱい / ショタ巨乳 / 巨乳男子"
+    },
+    {
+      "en": "mole on breast",
+      "zh": "乳痣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 60958,
+      "desc": "乳房皮肤上长的痣",
+      "kw": "胸部痣 / 乳房痣 / 胸痣 / 乳房上的痣 / 胸部上的痣 / 奶痣 / 胸部 / 痣 / 乳ぼくろ"
+    },
+    {
+      "en": "powerful breasts",
+      "zh": "强力的乳房",
+      "rating": "s",
+      "nsfw": false,
+      "count": 327,
+      "desc": "被描绘得异常强大的胸部，能发射能量。",
+      "kw": "强力胸部 / 胸部能量 / 乳房炮 / 巨乳能量 / 胸部光束 / 爆乳炮 / 乳房"
+    },
+    {
+      "en": "chest focus",
+      "zh": "胸口特写",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "pectorals",
+      "zh": "胸肌",
+      "rating": "s",
+      "nsfw": false,
+      "count": 134559,
+      "desc": "男性胸部的胸肌。",
+      "kw": "胸大肌 / 男性胸肌 / 男乳 / 雄乳 / 大胸肌 / 胸部肌肉 / 身体部位 / 性行为 / pecs / male chest / 胸筋 / 雄っぱい"
+    },
+    {
+      "en": "extra breasts",
+      "zh": "多乳",
+      "rating": "q",
+      "nsfw": true,
+      "count": 348,
+      "desc": "角色拥有超过两个的乳房。",
+      "kw": "多乳房 / 复乳 / 额外乳房 / 多个乳房 / 多对乳房 / 附加乳房 / 第三乳房 / polymastia / multiple breasts / multibreast / 複乳たん"
+    },
+    {
+      "en": "large areolae",
+      "zh": "大乳晕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 51961,
+      "desc": "占据乳房一半以上的大乳晕",
+      "kw": "巨乳晕 / 大乳轮 / 大乳首晕 / 超大乳晕 / 乳晕过大 / 乳晕 / 巨乳 / 成人 / large areola / big areolae / big areola / 巨乳輪"
+    },
+    {
+      "en": "glands of montgomery",
+      "zh": "蒙哥马利腺",
+      "rating": "q",
+      "nsfw": true,
+      "count": 488,
+      "desc": "乳晕上出现的小凸起",
+      "kw": "乳晕腺 / 乳晕小突起 / 乳晕颗粒 / 蒙哥马利腺体 / 人体部位 / areolar glands"
+    },
+    {
+      "en": "covered nipples",
+      "zh": "隔衣凸显乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 207885,
+      "desc": "乳头在衣服下顶出的凸起",
+      "kw": "乳头凸起 / 凸点 / 乳头顶起 / 衣服凸点 / 激凸 / 乳房凸点 / 顶胸 / 乳头凸出 / perky nipples / erect nipple / erect nipples / erect nipples under clothes"
+    },
+    {
+      "en": "inverted nipples",
+      "zh": "乳头内陷",
+      "rating": "q",
+      "nsfw": true,
+      "count": 22989,
+      "desc": "乳头凹陷缩进乳房而非凸出。",
+      "kw": "凹陷乳头 / 乳头凹陷 / 内凹乳头 / 缩陷乳头 / 乳头 / 身体 / sunken nipples / 陥没乳首"
+    },
+    {
+      "en": "no nipples",
+      "zh": "无乳头",
+      "rating": "s",
+      "nsfw": false,
+      "count": 8695,
+      "desc": "角色裸露胸部且无遮挡，但没有画出乳头",
+      "kw": "没有乳头 / 没画乳头 / 乳头缺失 / 未画乳头 / 身体细节 / nippleless"
+    },
+    {
+      "en": "puffy nipples",
+      "zh": "肿胀乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 50608,
+      "desc": "乳头和乳晕明显肿胀凸出于乳房轮廓。",
+      "kw": "凸起乳头 / 乳头肿胀 / 乳晕肿胀 / 浮肿乳头 / 乳头凸起 / 乳晕鼓起 / 肿胀乳晕 / 乳头 / puffy nipple / puffy areolae / パフィーニップル"
+    },
+    {
+      "en": "small nipples",
+      "zh": "小乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 833,
+      "desc": "乳头或乳晕明显小于正常。",
+      "kw": "娇小乳头 / 小奶头 / 乳头小 / 小乳晕 / 乳晕小 / 迷你乳头 / 微小乳头 / 乳头"
+    },
+    {
+      "en": "one breast out",
+      "zh": "单乳露出",
+      "rating": "q",
+      "nsfw": true,
+      "count": 19559,
+      "desc": "一侧乳房裸露而另一侧仍被衣物遮住",
+      "kw": "一侧乳房露出 / 露单乳 / 单乳外露 / 半露乳 / 单乳裸露 / 半边胸露出 / 单侧乳房外露 / breast outside / 片乳"
+    },
+    {
+      "en": "breast slip",
+      "zh": "乳房走光",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3936,
+      "desc": "乳房无意间从衣物中滑出",
+      "kw": "乳房滑出 / 露点 / 走光 / 露奶 / 乳房滑露 / 露胸 / 胸部露出 / 乳房 / boob slip / 胸部滑露 / ポロリ / 極上のポロリ"
+    },
+    {
+      "en": "breasts out",
+      "zh": "双乳露出",
+      "rating": "q",
+      "nsfw": true,
+      "count": 90807,
+      "desc": "双乳从衣服上方或开口处拉出露出的状态，非全裸或掀衣。",
+      "kw": "露奶 / 露胸 / 掏奶 / 奶子露出 / 双乳外露 / 乳房外露 / 奶子外露 / breasts out of clothes / breasts outside / 乳だけ出してる"
+    },
+    {
+      "en": "areola slip",
+      "zh": "露乳晕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 78234,
+      "desc": "乳晕从衣物边缘滑露，乳头未露出",
+      "kw": "乳晕走光 / 乳晕滑出 / 乳晕外露 / 乳晕微露 / areolae slip / 輪チラ"
+    },
+    {
+      "en": "nipple slip",
+      "zh": "乳头走光",
+      "rating": "q",
+      "nsfw": true,
+      "count": 22767,
+      "desc": "因衣服宽松或姿势意外露出乳头，不同于透视或湿身",
+      "kw": "乳头滑出 / 露乳头 / 奶头走光 / 乳首走光 / 走光露乳头 / 意外露点 / 乳头意外露出 / nipslip / nippleslip / nip slip / 胸チラ"
+    },
+    {
+      "en": "food between breasts",
+      "zh": "乳沟夹食物",
+      "rating": "q",
+      "nsfw": true,
+      "count": 768,
+      "desc": "夹在双乳之间的固体食物",
+      "kw": "双乳夹食物 / 乳房夹食物 / 胸夹食物 / 夹在双乳间的食物 / 胸间食物 / 食物 / 姿势"
+    },
+    {
+      "en": "bouncing breasts",
+      "zh": "乳摇",
+      "rating": "q",
+      "nsfw": true,
+      "count": 40380,
+      "desc": "胸部摇动，多在动画中表现。",
+      "kw": "胸部晃动 / 乳房弹跳 / 奶子晃动 / 摇乳 / 胸部抖动 / 摇晃的乳房 / 乳房 / 乳揺れ / 荒ぶるおっぱい / アニぱい / 乳揺れ(うごイラ)"
+    },
+    {
+      "en": "bust cup",
+      "zh": "乳沟酒",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1218,
+      "desc": "用双乳夹住盛放酒液的容器。",
+      "kw": "胸间酒 / 胸夹酒杯 / 胸夹杯 / 乳夹酒杯 / 双乳夹杯 / 乳沟杯 / 谷间酒 / 胸部 / breast cup / breasts cup / alcohol between breasts / 谷間酒"
+    },
+    {
+      "en": "chocolate on breasts",
+      "zh": "胸部巧克力",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2564,
+      "desc": "融化的巧克力涂抹在胸部上。",
+      "kw": "巧克力抹胸 / 巧克力涂胸 / 胸上融化的巧克力 / 巧克力涂抹胸部 / 巧克力倒在胸部 / 胸部上的巧克力 / 食物 / チョコぱい / チョコがけ / 裸チョコ"
+    },
+    {
+      "en": "food on breasts",
+      "zh": "胸部上的食物",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1909,
+      "desc": "食物放置在角色乳房上。",
+      "kw": "胸上食物 / 胸部放食物 / 乳房上放食物 / 奶上食物 / 食物 / 身体"
+    },
+    {
+      "en": "lipstick mark on breast",
+      "zh": "胸口唇印",
+      "rating": "q",
+      "nsfw": true,
+      "count": 652,
+      "desc": "乳房上的口红印",
+      "kw": "乳房上的口红印 / 胸部口红印 / 奶子口红印 / 胸脯口红印 / 胸部的口红印 / 标记 / 身体标记"
+    },
+    {
+      "en": "alternate pectoral size",
+      "zh": "替换胸肌尺寸",
+      "rating": "g",
+      "count": 964,
+      "desc": "胸肌大小与官方设定不同",
+      "kw": "胸肌大小变化 / 胸肌尺寸不同 / 胸肌尺寸修改 / 胸肌替换大小 / 非原版胸肌大小 / 胸肌尺寸差异 / 身体特征 / 肌肉大小差异"
+    },
+    {
+      "en": "bare pectorals",
+      "zh": "裸露的胸肌",
+      "rating": "g",
+      "count": 19208,
+      "desc": "穿着上衣但胸肌裸露的状态",
+      "kw": "袒露胸肌 / 露胸肌 / 胸肌外露 / 光膀子胸肌 / 袒胸露乳 / 露出胸肌 / 胸肌裸露 / 裸露胸肌 / bare pecs / pectorals out of clothes / 袒胸露腹"
+    },
+    {
+      "en": "big breasts",
+      "zh": "大胸部",
+      "rating": "s"
+    },
+    {
+      "en": "blood on breasts",
+      "zh": "乳房上的血液",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1470,
+      "desc": "乳房上沾有血迹。",
+      "kw": "胸部血迹 / 乳房血迹 / 乳房上有血 / 胸前血液 / 血沾在乳房上 / 乳房沾血 / 血染乳房 / 胸上的血 / bloody breasts"
+    },
+    {
+      "en": "blue nipples",
+      "zh": "蓝色乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1123,
+      "desc": "乳头被画成蓝色",
+      "kw": "蓝色奶头 / 蓝乳首 / 蓝奶头 / 蓝色樱桃 / 蓝色乳尖 / 乳头 / 身体部位"
+    },
+    {
+      "en": "breast freckles",
+      "zh": "胸部雀斑",
+      "rating": "s",
+      "count": 827,
+      "desc": "胸部乳房上分布的雀斑",
+      "kw": "乳房雀斑 / 奶子雀斑 / 胸雀斑 / 乳房上的雀斑 / 胸部斑点 / 奶上雀斑 / 雀斑 / 身体细节"
+    },
+    {
+      "en": "breasts outside",
+      "zh": "露出的乳房",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "bursting pectorals",
+      "zh": "胸肌爆衣",
+      "rating": "s",
+      "count": 643,
+      "desc": "男性胸肌过大撑破衣物的走光情形",
+      "kw": "破裂的胸部 / 爆胸 / 胸肌撑破衣服 / 撑破胸肌 / 胸肌爆裂 / 爆肌 / 胸肌裂衣 / 爆裂胸肌 / bursting pecs"
+    },
+    {
+      "en": "chocolate on nipples",
+      "zh": "乳头上的巧克力",
+      "rating": "q",
+      "nsfw": true,
+      "count": 776,
+      "desc": "巧克力直接放在乳头上",
+      "kw": "巧克力放在乳头上 / 乳头涂巧克力 / 乳头巧克力 / 乳头上的巧克力酱 / 乳头上沾巧克力 / 食物 / 身体装饰"
+    },
+    {
+      "en": "covered underboob",
+      "zh": "遮下乳",
+      "rating": "s",
+      "count": 598,
+      "desc": "外层衣下露出被内层衣物遮住的乳下缘",
+      "kw": "遮住下乳 / 下乳被遮 / 乳下被遮 / 遮乳下缘 / 下乳遮挡 / 遮住的下乳 / 覆盖下乳"
+    },
+    {
+      "en": "full cleavage",
+      "zh": "全露乳沟",
+      "rating": "s",
+      "count": 21844,
+      "desc": "从锁骨到胸下完全无遮挡的乳沟",
+      "kw": "完整乳沟 / 完全乳沟 / 全胸沟 / 深乳沟 / 完全露出乳沟 / 全露胸口 / 全乳沟 / 深度乳沟"
+    },
+    {
+      "en": "huge pectorals",
+      "zh": "巨大胸肌",
+      "rating": "g",
+      "count": 1953,
+      "desc": "比头部还大的夸张胸肌。",
+      "kw": "超大胸肌 / 巨胸肌 / 大胸肌 / 硕大胸肌 / 巨大胸部肌肉 / 胸肌巨大 / 硕大的胸肌 / 胸肌"
+    },
+    {
+      "en": "large pectorals",
+      "zh": "大胸肌",
+      "rating": "g",
+      "count": 57851,
+      "desc": "明显发达的男性或角色胸肌。",
+      "kw": "巨胸 / 胸肌发达 / 大胸肌男 / 雄肌 / 胸大肌 / 魁梧胸肌 / 壮硕胸肌 / 大胸 / 大胸筋 / 雄っぱい"
+    },
+    {
+      "en": "looming nipples",
+      "zh": "隐约可见的乳头",
+      "rating": "s"
+    },
+    {
+      "en": "manboobs",
+      "zh": "男乳",
+      "rating": "s",
+      "count": 900,
+      "desc": "男性胸部脂肪堆积形成的乳房状",
+      "kw": "男性乳房肥大 / 男性巨乳 / 男乳症 / 肥男乳 / 大胸男性 / 男性乳房 / 胸部 / 身体部位"
+    },
+    {
+      "en": "pectoral cleavage",
+      "zh": "胸肌缝",
+      "rating": "g",
+      "count": 20595,
+      "desc": "男性上衣敞开时露出的胸肌之间的沟。",
+      "kw": "胸肌沟 / 胸肌中缝 / 胸沟 / 男性乳沟 / 胸肌线 / 胸膛沟 / 胸肌缝隙 / 胸肌 / cleavage (male) / male cleavage"
+    },
+    {
+      "en": "puffy chest",
+      "zh": "男性隆起胸部",
+      "rating": "s",
+      "count": 1141,
+      "desc": "男性胸部隆起如青春期女性胸部的样子。",
+      "kw": "男性隆胸 / 胸部隆起 / 男乳隆起 / 肥厚胸部 / 大胸男性 / 男性大胸 / 挺胸 / 姿势"
+    },
+    {
+      "en": "purple nipples",
+      "zh": "紫色乳头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 677,
+      "desc": "紫色的乳头，与蓝、红乳头标签有重叠",
+      "kw": "紫乳头 / 紫色奶头 / 紫奶头 / 紫色乳首 / 紫乳首 / 乳头 / 身体部位"
+    },
+    {
+      "en": "scar on breast",
+      "zh": "乳房伤疤",
+      "rating": "s",
+      "count": 918,
+      "desc": "角色乳房上带有伤疤。",
+      "kw": "胸部疤痕 / 乳房上的伤痕 / 胸部伤疤 / 乳房疤痕 / 胸部伤痕 / 身体伤痕 / 胸疤 / scar on breasts"
+    },
+    {
+      "en": "scar on breasts",
+      "zh": "胸部伤痕",
+      "rating": "s",
+      "count": 735,
+      "desc": "位于角色胸部某处的伤疤",
+      "kw": "伤疤 / 身体标记"
+    },
+    {
+      "en": "sweaty breasts",
+      "zh": "胸部出汗",
+      "rating": "s",
+      "count": 4095,
+      "desc": "明显覆盖着汗水的胸部区域。",
+      "kw": "汗湿胸部 / 乳房出汗 / 胸部汗湿 / 出汗的乳房 / 胸部汗水 / 汗淋淋的胸部 / 汗湿的胸部 / 汗水"
+    },
+    {
+      "en": "tiny breasts",
+      "zh": "微乳",
+      "rating": "s"
+    },
+    {
+      "en": "weapon between breasts",
+      "zh": "乳间夹武器",
+      "rating": "s",
+      "count": 604,
+      "desc": "武器被夹在双乳之间",
+      "kw": "双乳夹武器 / 胸部夹武器 / 乳沟夹武器 / 乳房夹武器 / 胸夹剑 / 武器夹在乳沟间 / 乳沟藏武器 / 胸间武器"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "key": "p80",
+  "id": "p80",
+  "name": "信息图",
+  "desc": "左侧标题、右侧三栏要点，配图标",
+  "cat": "版式海报",
+  "tags": "infographic layout|信息图版式;data visualization|数据可视化;headline text|主标题文字;body copy block|正文文字块;flat vector illustration|扁平矢量插画;logo mark|标识图形;clean composition|干净构图",
+  "builtin": true
+}

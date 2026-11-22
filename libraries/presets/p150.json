@@ -1,0 +1,9 @@
+{
+  "key": "p150",
+  "id": "p150",
+  "name": "水下光纹",
+  "desc": "水面的波纹投影",
+  "cat": "光影",
+  "tags": "1girl|一个女孩;underwater|水下;caustics|焦散;blue lighting|蓝光;floating|漂浮;reflection|倒影",
+  "builtin": true
+}

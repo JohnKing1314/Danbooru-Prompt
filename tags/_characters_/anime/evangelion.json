@@ -1,0 +1,73 @@
+{
+  "id": "evangelion",
+  "name": "新世纪福音战士",
+  "parentId": "anime",
+  "order": 15,
+  "file": "anime/evangelion.json",
+  "characters": [
+    {
+      "game": "新世纪福音战士",
+      "gameTag": "anime",
+      "name": "绫波丽",
+      "tag": "ayanami rei",
+      "charZh": "绫波丽（新世纪福音战士）",
+      "auto": "blue hair|蓝发;short hair|短发;red eyes|红瞳;plugsuit|战斗服",
+      "subName": ""
+    },
+    {
+      "game": "新世纪福音战士",
+      "gameTag": "anime",
+      "name": "明日香·兰格雷·惣流",
+      "tag": "souryuu asuka langley",
+      "charZh": "明日香·兰格雷·惣流（新世纪福音战士）",
+      "auto": "red hair|红发;long hair|长发;blue eyes|蓝瞳;plugsuit|战斗服",
+      "subName": ""
+    },
+    {
+      "game": "新世纪福音战士",
+      "gameTag": "anime",
+      "name": "葛城美里",
+      "tag": "katsuragi misato",
+      "charZh": "葛城美里（新世纪福音战士）",
+      "auto": "purple hair|紫发;long hair|长发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "新世纪福音战士",
+      "gameTag": "anime",
+      "name": "赤木律子",
+      "tag": "akagi ritsuko",
+      "charZh": "赤木律子（新世纪福音战士）",
+      "auto": "blonde hair|金发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "新世纪福音战士",
+      "gameTag": "anime",
+      "name": "碇真嗣",
+      "tag": "ikari shinji",
+      "charZh": "碇真嗣（新世纪福音战士）",
+      "auto": "brown hair|棕发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "新世纪福音战士",
+      "gameTag": "anime",
+      "name": "渚薰",
+      "tag": "nagisa kaworu",
+      "charZh": "渚薰（新世纪福音战士）",
+      "auto": "silver hair|银发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "新世纪福音战士",
+      "gameTag": "anime",
+      "name": "真希波·玛丽",
+      "tag": "makinami mari illustrious",
+      "charZh": "真希波·玛丽（新世纪福音战士）",
+      "auto": "brown hair|棕发;long hair|长发;glasses|眼镜",
+      "subName": ""
+    }
+  ],
+  "count": 7
+}

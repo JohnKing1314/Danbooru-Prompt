@@ -1,0 +1,9 @@
+{
+  "key": "p170",
+  "id": "p170",
+  "name": "框式构图",
+  "desc": "用门框/窗户框住主体",
+  "cat": "构图镜头",
+  "tags": "1girl|一个女孩;frame within a frame|画中画框;window|窗户;depth of field|景深;cinematic framing|电影构图",
+  "builtin": true
+}

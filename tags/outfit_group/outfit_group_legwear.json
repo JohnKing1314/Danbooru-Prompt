@@ -1,0 +1,2118 @@
+{
+  "id": "legwear",
+  "name": "腿部",
+  "icon": "🧦",
+  "parentId": "outfit_group",
+  "level": 2,
+  "order": 11,
+  "file": "outfit_group/outfit_group_legwear.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "toe seam",
+      "zh": "趾缝线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1301,
+      "desc": "裤袜或袜子在脚趾处的横向缝线。",
+      "kw": "袜头缝线 / 脚尖缝线 / 脚趾处缝线 / 袜子细节 / 脚部"
+    },
+    {
+      "en": "stockings with a small run in them",
+      "zh": "丝袜上有一道小小的抽丝",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tabi",
+      "zh": "足袋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25643,
+      "desc": "拇趾分开的日式袜子，常搭配草履穿",
+      "kw": "分趾袜 / 日式分趾袜 / 二趾袜 / 分趾鞋袜 / 日本足袋 / 足袋袜 / 分趾足袋 / 日本风格"
+    },
+    {
+      "en": "stockings",
+      "zh": "长袜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "black pantyhose",
+      "zh": "黑色连裤袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 306707,
+      "desc": "连裆包裹双腿的黑色连裤袜，常称黑丝。",
+      "kw": "黑丝 / 黑色丝袜 / 黑色裤袜 / 黑连裤袜 / 黑裤袜 / 黑丝袜 / 黑色打底裤袜 / 连裤袜 / 黒スト / 黒ストッキング / 黒タイツ"
+    },
+    {
+      "en": "fishnets",
+      "zh": "网袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 96383,
+      "desc": "菱形网眼的材料，常用于袜类",
+      "kw": "渔网 / 网眼 / 渔网袜 / 渔网丝袜 / 网眼丝袜 / 渔网服 / 网眼服 / fishnet / 渔网服饰"
+    },
+    {
+      "en": "torn pantyhose",
+      "zh": "破损连裤袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 46443,
+      "desc": "被撕破的连裤袜",
+      "kw": "撕破的连裤袜 / 破洞丝袜 / 破丝袜 / 烂丝袜 / 抽丝裤袜 / 腿部穿戴 / 破损 / 撕裂"
+    },
+    {
+      "en": "socks",
+      "zh": "袜子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 595282,
+      "desc": "穿在鞋内脚部，长度从脚踝到膝盖",
+      "kw": "短袜 / 棉袜 / 船袜 / 及踝袜 / 中筒袜 / 及膝袜 / 袜子类 / 普通袜 / sock / naked socks / leghighs / 生靴下"
+    },
+    {
+      "en": "kneehighs",
+      "zh": "及膝袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 171355,
+      "desc": "长度及膝或略低于膝的袜子",
+      "kw": "膝盖袜 / 中筒袜 / 小腿袜 / 膝下袜 / 及膝长袜 / 半筒袜 / 袜子 / kneesocks / knee socks / kneehigh socks / knee highs"
+    },
+    {
+      "en": "over-kneehighs",
+      "zh": "过膝袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10064,
+      "desc": "长度刚好过膝、比大腿袜短的袜子",
+      "kw": "及膝袜 / 短过膝袜 / 膝上短袜 / 过膝短袜 / 刚过膝袜 / 袜子 / 腿部服饰 / オーバーニー / オーバーニーソックス / オーバーニーハイ / ニーハイソックス"
+    },
+    {
+      "en": "thighhighs",
+      "zh": "大腿袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1566914,
+      "desc": "覆盖从脚到大腿的袜子，由大腿环固定",
+      "kw": "长筒袜 / 高筒袜 / 过膝长袜 / 及大腿袜 / 长筒丝袜 / 高腿袜 / 过膝大腿袜 / stocking / stockings / naked thighhighs / nude thighhighs"
+    },
+    {
+      "en": "hiphighs",
+      "zh": "超长筒袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4406,
+      "desc": "高到胯部或大腿根的长袜",
+      "kw": "齐胯袜 / 齐臀袜 / 高胯袜 / 髋部高袜 / 大腿根袜 / 超长过膝袜 / 大腿袜 / 过膝袜"
+    },
+    {
+      "en": "pantyhose",
+      "zh": "连裤袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 755225,
+      "desc": "从腰到脚尖的透明袜",
+      "kw": "裤袜 / 丝袜 / 透明裤袜 / 紧身裤袜 / 足部 / 服装 / 腿部穿戴 / tights / panty hose / タイツ / 黒タイツ"
+    },
+    {
+      "en": "leggings",
+      "zh": "打底裤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25086,
+      "desc": "紧贴腿部、不覆盖脚部的下装，类似连裤袜但露脚。",
+      "kw": "紧身裤 / 内搭裤 / 贴身长裤 / 弹力裤 / 束腿裤 / 瑜伽裤 / 打底袜 / 裤袜式紧身裤 / レギンス"
+    },
+    {
+      "en": "detached leggings",
+      "zh": "分离式打底裤",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1503,
+      "desc": "不覆盖脚部的过膝袜套，类似分离袖",
+      "kw": "无脚袜套 / 分离式袜套 / 不包脚过膝袜 / 过膝袜套 / 分体袜套 / 无脚过膝袜 / 腿套 / 袜套"
+    },
+    {
+      "en": "gradient legwear",
+      "zh": "渐变色腿部服饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2070,
+      "desc": "带有一种或多种渐变颜色的腿部穿着",
+      "kw": "渐变色腿袜 / 渐变丝袜 / 渐变袜子 / 渐变长袜 / 腿部服饰 / 渐变 / gradient kneehighs / gradient leggings / gradient pantyhose / gradient socks"
+    },
+    {
+      "en": "multicolored leggings",
+      "zh": "多色紧身裤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 170,
+      "desc": "有多种颜色设计的打底裤，分体式应使用 multicolored_thighhighs",
+      "kw": "多彩打底裤 / 彩色打底裤 / 多色内搭裤 / 彩色紧身裤 / 多色腿部紧身裤 / 紧身裤 / 服装"
+    },
+    {
+      "en": "multicolored leg warmers",
+      "zh": "多色腿套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120,
+      "desc": "有两种以上颜色的腿套。",
+      "kw": "彩色腿套 / 多色腿袜 / 彩色腿袜 / 多彩腿套 / 多色护腿 / 多色袜套 / 腿部穿戴 / 彩色袜套"
+    },
+    {
+      "en": "multicolored pantyhose",
+      "zh": "多色连裤袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 917,
+      "desc": "有多种颜色的连裤袜。",
+      "kw": "彩色连裤袜 / 多色丝袜 / 彩色丝袜 / 多色裤袜 / 多色打底袜 / 混色连裤袜 / 连裤袜 / 彩色袜"
+    },
+    {
+      "en": "multicolored socks",
+      "zh": "拼色袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 583,
+      "desc": "有两种或以上颜色的袜子",
+      "kw": "彩色袜子 / 多色袜 / 混色袜子 / 拼色袜子 / 杂色袜子 / 袜子 / 服装"
+    },
+    {
+      "en": "multicolored thighhighs",
+      "zh": "多色过膝袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5061,
+      "desc": "有两种以上明显颜色且两腿图案一致的过膝袜。",
+      "kw": "多色长筒袜 / 彩色过膝袜 / 两色过膝袜 / 混色过膝袜 / 多色高筒袜 / 彩色袜子 / 腿部服饰"
+    },
+    {
+      "en": "two-tone legwear",
+      "zh": "双色腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2064,
+      "desc": "恰好由两种颜色构成的腿部服饰",
+      "kw": "两色腿饰 / 双色腿部服饰 / 双色袜子 / 两色袜 / 双色裤袜 / 双色腿套 / 双色腿部穿着"
+    },
+    {
+      "en": "american flag legwear",
+      "zh": "星条旗纹腿袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4806,
+      "desc": "美国国旗配色（蓝底星、红白条纹）的腿部穿着",
+      "kw": "美国国旗袜 / 星条旗腿部穿着 / 美国国旗纹样袜子 / 星条旗袜子 / 美国国旗丝袜 / 星条旗丝袜 / 美国国旗裤袜 / 星条旗腿袜"
+    },
+    {
+      "en": "camouflage legwear",
+      "zh": "迷彩腿部装束",
+      "rating": "g",
+      "nsfw": false,
+      "count": 82,
+      "desc": "迷彩图案的腿部穿着（袜、裤袜等）",
+      "kw": "迷彩腿衣 / 迷彩裤袜 / 迷彩袜 / 迷彩丝袜 / 迷彩长袜 / 迷彩腿套 / 迷彩紧身裤 / 迷彩护腿"
+    },
+    {
+      "en": "checkered legwear",
+      "zh": "格纹袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 822,
+      "desc": "格纹图案的腿部服饰",
+      "kw": "格纹腿饰 / 格纹腿袜 / 格纹过膝袜 / 格纹连裤袜 / 格纹袜子 / 方格腿部服饰 / 格纹腿装 / 格子袜"
+    },
+    {
+      "en": "diagonal-striped legwear",
+      "zh": "斜条纹袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 61,
+      "desc": "斜条纹图案的袜子等腿饰。",
+      "kw": "斜纹腿饰 / 斜条纹袜子 / 斜条纹丝袜 / 斜条纹裤袜 / 斜纹袜"
+    },
+    {
+      "en": "gingham legwear",
+      "zh": "格纹腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "polka dot leggings",
+      "zh": "波点紧身裤",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "polka dot pantyhose",
+      "zh": "波点连裤袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 647,
+      "desc": "带圆点图案的连裤袜",
+      "kw": "圆点丝袜 / 波点丝袜 / 点状连裤袜 / 圆点裤袜 / 波点裤袜 / 圆点连裤丝袜 / 斑点连裤袜"
+    },
+    {
+      "en": "polka dot socks",
+      "zh": "圆点袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 673,
+      "desc": "带圆点图案的袜子",
+      "kw": "波点袜 / 波尔卡圆点袜 / 圆点图案袜 / 水玉袜子 / 点点袜 / 圆点及膝袜 / 波点长袜 / 圆点短袜"
+    },
+    {
+      "en": "polka dot thighhighs",
+      "zh": "波点过膝袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 870,
+      "desc": "带圆点图案的过膝袜",
+      "kw": "点点过膝袜 / 圆点长筒袜 / 波点长筒袜 / 圆点过膝长袜 / 水玉过膝袜 / 过膝袜 / 袜子"
+    },
+    {
+      "en": "rainbow legwear",
+      "zh": "彩虹色腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37
+    },
+    {
+      "en": "animal ear legwear",
+      "zh": "兽耳袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2692,
+      "desc": "上缘带动物图案（通常为耳朵）的腿部穿着",
+      "kw": "动物耳腿袜 / 兽耳长袜 / 动物耳长筒袜 / 兽耳过膝袜 / 动物耳饰腿袜 / 兽耳大腿袜 / 袜子 / animal band legwear"
+    },
+    {
+      "en": "bat legwear",
+      "zh": "蝙蝠图案腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10
+    },
+    {
+      "en": "bear band legwear",
+      "zh": "熊耳袜带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21
+    },
+    {
+      "en": "rabbit ear legwear",
+      "zh": "兔耳袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 263,
+      "desc": "上缘带兔耳设计的袜子等腿部服饰",
+      "kw": "兔耳形袜 / 兔耳长袜 / 兔耳过膝袜 / 兔耳大腿袜 / 兔耳朵腿套 / 兔耳腿套 / 袜子 / bunny band legwear / bunny ear legwear"
+    },
+    {
+      "en": "cat ear legwear",
+      "zh": "猫耳袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2004,
+      "desc": "上缘带猫耳设计的腿部服饰",
+      "kw": "猫耳腿衣 / 猫耳过膝袜 / 猫耳腿饰 / 猫耳长袜 / 袜子 / 腿饰 / 可爱风 / cat band legwear"
+    },
+    {
+      "en": "horn band legwear",
+      "zh": "角饰袜圈",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22
+    },
+    {
+      "en": "aran legwear",
+      "zh": "阿兰纹袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 124,
+      "desc": "质感类似阿兰毛衣的针织腿套，常与露肩毛衣搭配。",
+      "kw": "阿兰花纹腿套 / 阿兰针织袜 / 阿兰风针织袜 / 阿伦针织腿套 / 绞花针织腿套 / 爱尔兰花纹针织腿套 / 阿兰袜 / 袜子"
+    },
+    {
+      "en": "armored legwear",
+      "zh": "铠甲护腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 595,
+      "desc": "带装甲的过膝袜式腿甲",
+      "kw": "装甲过膝袜 / 装甲腿甲 / 装甲袜 / 铠甲腿饰 / 装甲腿部 / 铠甲 / 护腿"
+    },
+    {
+      "en": "bow legwear",
+      "zh": "蝴蝶结袜饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5250,
+      "desc": "带有蝴蝶结装饰的袜类。",
+      "kw": "带蝴蝶结的袜子 / 蝴蝶结腿袜 / 蝴蝶结长袜 / 蝴蝶结过膝袜 / 蝴蝶结短袜 / 蝴蝶结装饰袜 / 腿饰 / 袜子 / bow thighhighs / thighhigh bow / sock bow / bow socks"
+    },
+    {
+      "en": "cross-laced legwear",
+      "zh": "交叉系带腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1502,
+      "desc": "带交叉系带或绑带的腿部服饰",
+      "kw": "交叉绑带腿饰 / 交叉系带袜 / 交叉带腿饰 / 绑带腿袜 / 交叉带袜 / 系带腿套 / 交叉系带过膝袜 / 十字系带腿饰"
+    },
+    {
+      "en": "fishnet leggings",
+      "zh": "渔网紧身裤",
+      "rating": "s",
+      "nsfw": false,
+      "count": 98,
+      "desc": "渔网材质的紧身裤",
+      "kw": "渔网袜裤 / 网眼紧身裤 / 渔网打底裤 / 渔网裤袜"
+    },
+    {
+      "en": "fishnet pantyhose",
+      "zh": "渔网连裤袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 40438,
+      "desc": "渔网材质的连裤袜。",
+      "kw": "网袜连裤袜 / 渔网袜 / 网眼连裤袜 / 网纹连裤袜 / 渔网裤袜 / 鱼网连裤袜 / 连裤袜 / 丝袜 / 网袜 / 網タイツ"
+    },
+    {
+      "en": "fishnet socks",
+      "zh": "渔网短袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2373,
+      "desc": "用渔网布料制成的短袜，非连裤袜。",
+      "kw": "渔网袜 / 网眼短袜 / 网格短袜 / 网纹短袜 / 渔网及踝袜 / 渔网棉袜 / 网袜 / 袜子"
+    },
+    {
+      "en": "fishnet thighhighs",
+      "zh": "渔网过膝袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 26517,
+      "desc": "渔网材质的过膝袜",
+      "kw": "渔网长筒袜 / 网袜过膝 / 渔网袜过膝 / 鱼网过膝袜 / 网眼过膝袜 / 渔网袜 / 过膝袜 / 袜子 / 渔网袜 / 網タイツ"
+    },
+    {
+      "en": "fluffy legwear",
+      "zh": "毛绒腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 333,
+      "desc": "像动物毛皮般蓬松的袜类。",
+      "kw": "毛绒袜 / 绒绒腿袜 / 蓬松腿套 / 毛茸茸腿衣 / 绒毛腿饰 / 蓬松袜类 / 毛绒腿套 / 毛茸茸的腿部饰物"
+    },
+    {
+      "en": "knit leg warmers",
+      "zh": "针织护腿袜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "knit socks",
+      "zh": "针织袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12
+    },
+    {
+      "en": "knit thighhighs",
+      "zh": "针织过膝袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "knit pantyhose",
+      "zh": "针织连裤袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28
+    },
+    {
+      "en": "lace pantyhose",
+      "zh": "蕾丝连裤袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 849,
+      "desc": "完全由蕾丝制成的连裤袜。",
+      "kw": "蕾丝丝袜 / 蕾丝裤袜 / 全蕾丝连裤袜 / 花边连裤袜 / 蕾丝紧身袜 / 连裤袜 / 袜子 / 蕾丝"
+    },
+    {
+      "en": "lace socks",
+      "zh": "蕾丝袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 286,
+      "desc": "用蕾丝制成的袜子",
+      "kw": "花边袜 / 蕾丝短袜 / 蕾丝长袜 / 蕾丝边袜 / 腿部穿戴 / 袜子"
+    },
+    {
+      "en": "lace thighhighs",
+      "zh": "蕾丝过膝袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1101,
+      "desc": "整双袜子全部由蕾丝制成的过膝袜。",
+      "kw": "全蕾丝过膝袜 / 蕾丝长筒袜 / 蕾丝大腿袜 / 蕾丝过膝长袜 / 透明蕾丝过膝袜 / 腿部穿戴 / 过膝袜 / 蕾丝袜"
+    },
+    {
+      "en": "lace-up legwear",
+      "zh": "系带腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 116,
+      "desc": "用系带作为固定方式的腿部衣物",
+      "kw": "系带腿袜 / 系带长袜 / 绑带腿衣 / 绑带腿袜 / 系带式腿衣 / 腿饰 / 袜子"
+    },
+    {
+      "en": "lace-trimmed leggings",
+      "zh": "蕾丝边打底裤",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "lace-trimmed leg warmers",
+      "zh": "蕾丝边袜套",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "lace-trimmed pantyhose",
+      "zh": "蕾丝边连裤袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 38
+    },
+    {
+      "en": "lace-trimmed socks",
+      "zh": "蕾丝花边袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 358,
+      "desc": "袜口或袜身带蕾丝花边的袜子",
+      "kw": "蕾丝边袜 / 花边袜子 / 蕾丝装饰袜 / 蕾丝边短袜 / 蕾丝边长袜 / 袜子 / 服装"
+    },
+    {
+      "en": "lace-trimmed thighhighs",
+      "zh": "蕾丝边过膝袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 17400,
+      "desc": "袜口带蕾丝边的过膝袜",
+      "kw": "蕾丝袜口过膝袜 / 花边过膝袜 / 蕾丝边大腿袜 / 腿部穿戴 / 蕾丝袜边"
+    },
+    {
+      "en": "latex legwear",
+      "zh": "乳胶腿袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1961,
+      "desc": "用乳胶制成的腿部穿着，通常闪亮黑色。",
+      "kw": "乳胶腿部穿着 / 乳胶袜 / 乳胶长袜 / 乳胶过膝袜 / 乳胶连裤袜 / 乳胶紧身裤 / 胶衣腿套"
+    },
+    {
+      "en": "legwear bell",
+      "zh": "腿部铃铛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15
+    },
+    {
+      "en": "o-ring legwear",
+      "zh": "O型环袜带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 268,
+      "desc": "带O形环或由O形环固定的腿部服饰",
+      "kw": "O形环袜类 / O环腿饰 / O形环腿部服饰 / O环袜子 / O型环腿饰 / O环丝袜 / 袜带"
+    },
+    {
+      "en": "ribbed leg warmers",
+      "zh": "罗纹腿套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 123,
+      "desc": "带罗纹纹理的腿套/暖腿套",
+      "kw": "罗纹针织腿套 / 罗纹暖腿套 / 罗纹护腿 / 罗纹袜子腿套 / 罗纹编织腿套 / 腿部穿戴 / 条纹腿套"
+    },
+    {
+      "en": "ribbed pantyhose",
+      "zh": "螺纹裤袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 186,
+      "desc": "带罗纹纹理的连裤袜",
+      "kw": "竖纹连裤袜 / 罗纹丝袜 / 条纹连裤袜 / 棱纹连裤袜 / 裤袜 / 袜子 / 服装"
+    },
+    {
+      "en": "ribbed socks",
+      "zh": "罗纹袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4539,
+      "desc": "具有罗纹竖条纹的袜子。",
+      "kw": "螺纹袜 / 竖条纹袜 / 罗纹长袜 / 罗纹短袜 / 针织罗纹袜 / 袜子"
+    },
+    {
+      "en": "ribbed thighhighs",
+      "zh": "罗纹过膝袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2613,
+      "desc": "有罗纹竖条纹理的过膝袜",
+      "kw": "罗纹大腿袜 / 棱纹过膝袜 / 罗纹长筒袜 / 凸条过膝袜 / 罗纹丝袜 / 腿部穿戴 / 竖纹过膝袜"
+    },
+    {
+      "en": "seamed legwear",
+      "zh": "竖缝袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4173,
+      "desc": "腿部有纵向接缝的裤袜、大腿袜或其他腿部衣袜。",
+      "kw": "接缝丝袜 / 背缝丝袜 / 前缝丝袜 / 侧缝丝袜 / 拼缝裤袜 / 有缝连裤袜 / 有接缝袜 / 袜子"
+    },
+    {
+      "en": "back-seamed legwear",
+      "zh": "后缝线袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1849,
+      "desc": "腿后有一条竖直缝线的袜类。",
+      "kw": "后缝袜 / 背缝线袜 / 后缝丝袜 / 后缝线丝袜 / 背缝丝袜 / 后竖线袜 / 袜子 / 腿部服饰 / back seamed legwear / バックシーム"
+    },
+    {
+      "en": "front-seamed legwear",
+      "zh": "前缝线袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1347,
+      "desc": "腿前有竖向缝线的裤袜或过膝袜",
+      "kw": "前缝腿部服饰 / 前缝丝袜 / 前缝连裤袜 / 前缝过膝袜 / 前接缝袜 / 前缝腿袜 / 袜子"
+    },
+    {
+      "en": "side-seamed legwear",
+      "zh": "侧缝线腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 619,
+      "desc": "侧面有一条竖直缝线的裤袜或袜类",
+      "kw": "侧缝丝袜 / 侧边缝线袜 / 侧缝裤袜 / 侧线袜 / 侧面直缝袜 / 侧边缝合袜 / 裤 / 腿部服装"
+    },
+    {
+      "en": "see-through legwear",
+      "zh": "透视腿部装束",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3731,
+      "desc": "非常透明、几乎不带自身颜色的腿部衣袜",
+      "kw": "透明腿部衣袜 / 透视腿袜 / 透明腿袜 / 透视腿部穿着 / 透明丝袜 / 透肉腿袜 / 透明袜子 / 透肉连裤袜 / sheer legwear / transparent legwear"
+    },
+    {
+      "en": "shiny legwear",
+      "zh": "亮面腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1918,
+      "desc": "有光泽感的丝袜、裤袜或紧身裤",
+      "kw": "闪亮丝袜 / 亮丝 / 光泽丝袜 / 发光丝袜 / 亮面裤袜 / 光泽裤袜 / 闪亮紧身裤 / 亮面腿袜"
+    },
+    {
+      "en": "side-tie legwear",
+      "zh": "侧系带腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 54,
+      "desc": "两侧用系带固定的腿部服饰",
+      "kw": "侧系带袜子 / 侧绑带腿饰 / 侧面系带袜 / 侧系带长袜 / 侧系带腿套 / 侧边系带袜"
+    },
+    {
+      "en": "spiked legwear",
+      "zh": "带刺腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 100,
+      "desc": "带尖刺的腿部服饰",
+      "kw": "尖刺腿套 / 尖刺袜子 / 带刺长袜 / 带刺腿部服饰 / 刺状腿饰 / 腿部穿戴 / 尖刺腿饰"
+    },
+    {
+      "en": "studded legwear",
+      "zh": "铆钉腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 33
+    },
+    {
+      "en": "toeless legwear",
+      "zh": "露趾袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29318,
+      "desc": "包住脚部但露出脚趾的腿部服饰。",
+      "kw": "无趾袜 / 露脚趾袜 / 露趾腿部衣物 / 露脚趾裤袜 / 足部 / 腿部穿戴 / 露趾长袜 / toeless socks"
+    },
+    {
+      "en": "bridal legwear",
+      "zh": "新娘腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1975,
+      "desc": "以脚趾环固定的婚纱风格袜类，露脚跟和脚趾。",
+      "kw": "新娘袜套 / 婚纱腿套 / 婚嫁腿饰 / 新娘足套 / 婚礼腿袜 / 新娘腿衣 / 婚嫁袜套 / 婚纱脚饰"
+    },
+    {
+      "en": "stirrup legwear",
+      "zh": "踩脚袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15889,
+      "desc": "脚底有踩环、露出脚跟脚趾的裤袜",
+      "kw": "踩脚裤 / 踩脚连裤袜 / 踩脚丝袜 / 蹬脚袜 / 脚蹬袜 / 有踩环的连裤袜 / 露脚跟裤袜 / 露趾踩脚袜 / トレンカ / トレンカソックス"
+    },
+    {
+      "en": "zipper legwear",
+      "zh": "拉链袜套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 56,
+      "desc": "带有拉链的腿部服饰",
+      "kw": "带拉链腿部服饰 / 拉链腿饰 / 拉链腿部穿着 / 拉链腿套 / 拉链腿套袜 / 带拉链腿饰"
+    },
+    {
+      "en": "fur-trimmed legwear",
+      "zh": "毛边护腿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3151,
+      "desc": "边缘带毛皮镶边的袜子或腿饰。",
+      "kw": "毛边腿袜 / 毛边袜 / 毛绒边袜子 / 毛绒边腿袜 / 皮草边袜 / 毛皮边袜 / 带毛边袜子"
+    },
+    {
+      "en": "ribbon-trimmed legwear",
+      "zh": "丝带边饰丝袜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "alternate legwear",
+      "zh": "替换腿部装束",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3916,
+      "desc": "角色穿上平时不穿的腿部穿着",
+      "kw": "腿部穿着变化 / 换穿腿饰 / 替换腿部穿着 / 异样腿装 / 换腿袜 / 不同腿袜 / 腿装变化 / 换穿袜子"
+    },
+    {
+      "en": "uneven legwear",
+      "zh": "长短腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19882,
+      "desc": "左右腿袜或护腿长度不同",
+      "kw": "不对称腿部穿着 / 不对称腿袜 / 左右腿袜不等 / 不对称袜子 / 腿部穿着不对称 / 腿袜不对称 / 长短袜 / 左右腿袜长度不同 / asymmetrical legwear"
+    },
+    {
+      "en": "dirty legwear",
+      "zh": "脏污腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 93,
+      "desc": "袜子、丝袜等腿部服饰上有污渍或弄脏。",
+      "kw": "脏腿袜 / 弄脏的袜子 / 脏丝袜 / 污渍腿衣 / 弄脏的腿装 / 脏裤袜 / 脏腿饰"
+    },
+    {
+      "en": "in legwear",
+      "zh": "穿着腿部服饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "layered legwear",
+      "zh": "叠穿腿部服饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 679,
+      "desc": "两层或以上腿衣叠穿",
+      "kw": "叠穿腿衣 / 多层腿衣 / 叠加腿装 / 腿上多层穿着 / 分层腿部服饰 / 腿饰 / 袜子"
+    },
+    {
+      "en": "pantyhose under shorts",
+      "zh": "短裤外穿连裤袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17883,
+      "desc": "在短裤里面穿连裤袜。",
+      "kw": "短裤内连裤袜 / 短裤配连裤袜 / 短裤下连裤袜 / 连裤袜配短裤 / 裤袜短裤 / 短裤里面穿连裤袜 / 短裤下的连裤袜 / 连裤袜 / legwear under shorts / 短裤下的连裤袜"
+    },
+    {
+      "en": "mismatched legwear",
+      "zh": "不对称腿饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23867,
+      "desc": "左右袜品的颜色或图案不同，长度不同另计。",
+      "kw": "不同腿袜 / 左右不同袜 / 异色腿袜 / 鸳鸯袜 / 混搭腿袜 / 双色腿袜 / 不对称袜子 / 左右异色丝袜"
+    },
+    {
+      "en": "missing legwear",
+      "zh": "未穿腿部衣物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5755,
+      "desc": "角色平时穿腿部衣物（如丝袜、过膝袜）但图中未穿。",
+      "kw": "没穿袜子 / 光腿 / 裸腿 / 不穿袜 / 未穿丝袜 / 缺袜 / 没有裤袜 / 不穿过膝袜 / no legwear"
+    },
+    {
+      "en": "torn leggings",
+      "zh": "破洞打底裤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 727,
+      "desc": "被撕破的紧身打底裤。",
+      "kw": "破洞紧身裤 / 撕裂打底裤 / 破洞内搭裤 / 有破洞的打底裤 / 烂打底裤 / 撕裂的紧身裤 / 服装 / 破损 / ripped leggings"
+    },
+    {
+      "en": "torn leg warmers",
+      "zh": "破损针织袜",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "torn socks",
+      "zh": "破损袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1242,
+      "desc": "被撕破的袜子或及膝袜",
+      "kw": "破袜子 / 撕裂的袜子 / 破洞丝袜 / 破损袜子 / 烂袜子 / 撕破的袜子 / 袜子 / 破损服装"
+    },
+    {
+      "en": "torn thighhighs",
+      "zh": "破损过膝袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 26195,
+      "desc": "被撕破的过膝袜",
+      "kw": "撕破过膝袜 / 破洞过膝袜 / 破过膝袜 / 烂过膝袜 / 撕裂过膝袜 / 腿部穿戴 / 破洞丝袜 / 撕裂长袜 / 破洞丝袜"
+    },
+    {
+      "en": "ankle garter",
+      "zh": "脚踝吊袜带",
+      "rating": "s",
+      "nsfw": false,
+      "count": 972,
+      "desc": "脚踝上的花边松紧带",
+      "kw": "踝部袜带 / 脚踝蕾丝带 / 脚踝松紧带 / 脚踝饰带 / 踝环 / 护踝袜带 / 袜带"
+    },
+    {
+      "en": "anklet",
+      "zh": "脚链",
+      "rating": "q",
+      "nsfw": true,
+      "count": 30430,
+      "desc": "戴在脚踝上的链状饰品",
+      "kw": "脚环 / 脚镯 / 踝链 / 脚腕链 / 脚踝链 / 配饰 / 首饰 / anklets / ankle bracelet / ankle bracelets / lower leg bracelet"
+    },
+    {
+      "en": "calflet",
+      "zh": "小腿环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 154,
+      "desc": "戴在小腿上的装饰性金属环",
+      "kw": "小腿环饰 / 腿部金属环 / 小腿脚环 / 小腿装饰环 / 小腿箍 / 腿环 / 配饰"
+    },
+    {
+      "en": "knee strap",
+      "zh": "膝带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 496,
+      "desc": "缠绕在膝盖部位的绑带或皮带",
+      "kw": "膝盖皮带 / 膝部皮带 / 膝上绑带 / 护膝绑带 / 膝部绑带 / 膝盖束带 / 膝盖带 / 绑带"
+    },
+    {
+      "en": "leg ribbon",
+      "zh": "腿部丝带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18084,
+      "desc": "缠在腿上的丝带或缎带。",
+      "kw": "腿带 / 腿饰带 / 腿上丝带 / 绑腿带 / 腿环缎带 / 腿系带 / 腿部蝴蝶结"
+    },
+    {
+      "en": "thigh ribbon",
+      "zh": "大腿丝带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4118,
+      "desc": "系在角色大腿上的缎带。",
+      "kw": "大腿绑带 / 腿部缎带 / 大腿蝴蝶结丝带 / 腿环缎带 / 配饰 / 丝带 / thigh lace-up"
+    },
+    {
+      "en": "thighlet",
+      "zh": "大腿环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23034,
+      "desc": "戴在大腿上的金属环饰，常金或银制，区别于大腿绑带。",
+      "kw": "腿环 / 大腿金属环饰 / 大腿镯 / 大腿金环 / 大腿银环 / 腿饰 / 配饰 / upper leg bracelet / thigh ring"
+    },
+    {
+      "en": "leg warmers",
+      "zh": "腿套",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26893,
+      "desc": "套在小腿上保暖的无底袜套",
+      "kw": "腿暖套 / 暖腿套 / 护腿 / 小腿套 / 腿部保暖套 / 袜套 / 腿部服饰 / 保暖 / legwarmers / レッグウォーマー"
+    },
+    {
+      "en": "thighband pantyhose",
+      "zh": "大腿束带连裤袜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 37594,
+      "desc": "连裤袜大腿处有仿大腿环的条纹。",
+      "kw": "大腿环丝袜 / 大腿带连裤袜 / 环带连裤袜 / 大腿环纹连裤袜 / 大腿带丝袜 / 连裤袜 / 腿部服装 / ランガード"
+    },
+    {
+      "en": "ankle socks",
+      "zh": "踝袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11057,
+      "desc": "长及脚踝上方、未到小腿的短袜",
+      "kw": "及踝袜 / 脚踝袜 / 短袜 / 踝上袜 / 低帮袜 / 服装 / 中筒袜 / anklehighs / short socks"
+    },
+    {
+      "en": "bobby socks",
+      "zh": "翻边短袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11903,
+      "desc": "袜口翻折的复古短袜，常见于1940-50年代风格。",
+      "kw": "卷边短袜 / 翻口短袜 / 美式短袜 / 波比袜 / 复古翻边袜 / 翻边踝袜 / 折口短袜 / 袜子"
+    },
+    {
+      "en": "loose socks",
+      "zh": "泡泡袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23790,
+      "desc": "松垮堆叠在小腿处的袜子，常见于校服和辣妹风。",
+      "kw": "堆堆袜 / 大象袜 / 松垮袜 / 泡泡短袜 / 皱皱袜 / 堆积袜 / 宽松短袜 / 袜子 / baggy socks / ルーズソックス"
+    },
+    {
+      "en": "toe socks",
+      "zh": "五指袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 129,
+      "desc": "每根脚趾都被单独包住的袜子，似手套。",
+      "kw": "五趾袜 / 脚趾袜 / 分趾袜 / 脚趾分开袜 / 每趾分开的袜子 / 趾套袜 / 袜子 / 足部服饰"
+    },
+    {
+      "en": "tube socks",
+      "zh": "筒袜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 296,
+      "desc": "无跟无趾、松紧通用的直筒袜，常见于运动，袜口有条纹带。",
+      "kw": "无跟袜 / 运动直筒袜 / 条纹运动袜 / 无跟直筒袜 / 美式筒袜 / 松紧口直筒袜 / 运动长筒袜"
+    },
+    {
+      "en": "ankle strap",
+      "zh": "脚踝带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3988,
+      "desc": "绕脚踝一圈、多连在凉鞋或高跟上的带子",
+      "kw": "踝带 / 脚踝束带 / 鞋踝带 / 踝部带 / 脚踝绑带 / 凉鞋踝带 / 高跟踝带 / 脚踝扣带"
+    },
+    {
+      "en": "knee pads",
+      "zh": "护膝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19166,
+      "desc": "跪地防冲击的护膝",
+      "kw": "护膝垫 / 护膝套 / 膝盖护具 / 膝垫 / 跪膝垫 / 护具 / 膝部护具 / kneepads / knee pad / kneepad"
+    },
+    {
+      "en": "leg belt",
+      "zh": "腿带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4055,
+      "desc": "系在腿上的带子。",
+      "kw": "腿部皮带 / 大腿皮带 / 腿环带 / 绑带 / 配饰 / 腿部饰品"
+    },
+    {
+      "en": "legwear garter",
+      "zh": "袜带",
+      "rating": "s",
+      "nsfw": false,
+      "count": 5480,
+      "desc": "吊住袜子或过膝袜的腿上吊带",
+      "kw": "吊袜带 / 袜子固定带 / 过膝袜吊带 / 大腿袜带 / 袜夹 / 袜圈 / 饰品 / sock garters / thighhigh garter / ガーターソックス"
+    },
+    {
+      "en": "shin strap",
+      "zh": "护胫带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 564,
+      "desc": "缠绕在小腿上的皮带",
+      "kw": "小腿皮带 / 胫部皮带 / 腿部绑带 / 小腿绑带 / 胫骨绑带 / 护胫皮带 / 护具"
+    },
+    {
+      "en": "thigh strap",
+      "zh": "腿环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 259538,
+      "desc": "缠绕大腿的布/皮革带，不含金属。",
+      "kw": "大腿环 / 大腿带 / 腿带 / 大腿束带 / 大腿皮带 / 大腿绑带 / 绑带 / thigh straps / thigh band / thighband / legband"
+    },
+    {
+      "en": "zettai ryouiki",
+      "zh": "绝对领域",
+      "rating": "s",
+      "nsfw": false,
+      "count": 173554,
+      "desc": "短裙与过膝袜之间露出的大腿部分",
+      "kw": "过膝袜绝对领域 / 裙袜绝对领域 / 短裙过膝袜绝对领域 / 裸露 / 大腿 / 过膝袜 / zettai ryouki / absolute territory / 绝対领域 / 絶対領域"
+    },
+    {
+      "en": "single knee pad",
+      "zh": "单侧护膝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1963,
+      "desc": "只戴在一侧膝盖上的护膝。",
+      "kw": "单膝盖垫 / 单膝护膝 / 单侧膝盖护具 / 单边护膝 / 一只护膝 / 单腿护膝 / 护膝 / 护具"
+    },
+    {
+      "en": "shin guards",
+      "zh": "护胫",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2838,
+      "desc": "保护小腿胫骨的运动护具。",
+      "kw": "护腿板 / 护小腿 / 小腿护具 / 护胫甲 / 胫骨护具 / 足球护腿板 / 护腿 / 护腿保护 / leg guards / すね当て"
+    },
+    {
+      "en": "frilled thigh strap",
+      "zh": "荷叶边腿带",
+      "rating": "s",
+      "nsfw": false,
+      "count": 22510,
+      "desc": "带荷叶边的装饰性大腿带，不用于固定长袜",
+      "kw": "褶边大腿带 / 荷叶边腿环 / 褶边腿环 / 花边大腿环 / 带荷叶边的大腿带 / 装饰大腿带 / 蕾丝大腿袜带 / 袜带 / leg garter / thigh garter / bridal garter / 褶边腿带"
+    },
+    {
+      "en": "ankle bow",
+      "zh": "脚踝蝴蝶结",
+      "rating": "g",
+      "count": 1801,
+      "desc": "系在脚踝上的蝴蝶结",
+      "kw": "踝部蝴蝶结 / 脚腕蝴蝶结 / 脚踝结 / 脚踝缎带结 / 配饰 / 蝴蝶结"
+    },
+    {
+      "en": "ankle cuffs",
+      "zh": "脚踝环扣",
+      "rating": "s",
+      "count": 4260,
+      "desc": "戴在脚踝上的环扣，可能是装饰或束缚",
+      "kw": "脚环 / 脚踝扣环 / 脚镣环 / 脚踝环 / 脚铐环 / 脚踝饰品环 / 脚镣 / 束缚"
+    },
+    {
+      "en": "ankle flower",
+      "zh": "脚踝花",
+      "rating": "g",
+      "count": 711,
+      "desc": "附在脚链或脚踝上的花饰。",
+      "kw": "脚链花 / 踝花 / 脚踝花朵 / 脚环花 / 足踝花 / 脚踝花饰 / 踝部花朵 / 花朵"
+    },
+    {
+      "en": "ankle ribbon",
+      "zh": "脚踝缎带",
+      "rating": "g",
+      "count": 4844,
+      "desc": "系在脚踝上的装饰缎带",
+      "kw": "脚踝丝带 / 踝部缎带 / 脚踝蝴蝶结 / 脚腕缎带 / 踝带 / 丝带 / 配饰"
+    },
+    {
+      "en": "ankle scrunchie",
+      "zh": "脚踝大肠发圈",
+      "rating": "g",
+      "count": 535,
+      "desc": "当作脚环戴的大肠发圈",
+      "kw": "脚踝发圈 / 脚踝大肠圈 / 脚踝发绳 / 脚环发圈 / 踝部大肠发圈 / 脚腕大肠发圈 / 脚踝头绳 / 配饰"
+    },
+    {
+      "en": "ankle wrap",
+      "zh": "脚踝绑带",
+      "rating": "g",
+      "count": 1182,
+      "desc": "缠绕在脚踝上的布条或绑带",
+      "kw": "脚踝包裹 / 踝部裹布 / 脚踝布条 / 护踝 / 脚踝绷带 / 脚踝缠绕 / 脚踝绑布 / ankle wraps"
+    },
+    {
+      "en": "aqua pantyhose",
+      "zh": "水色连裤袜",
+      "rating": "s",
+      "count": 713,
+      "desc": "水色（蓝绿色）的连裤袜。",
+      "kw": "水色裤袜 / 蓝绿色连裤袜 / 水色丝袜 / 水色连体袜 / 浅蓝色连裤袜 / 水蓝色连裤袜 / 连裤袜 / 服装"
+    },
+    {
+      "en": "aqua socks",
+      "zh": "水色袜子",
+      "rating": "g",
+      "count": 783,
+      "desc": "水色（浅蓝绿色）的袜子，常为过膝长度。",
+      "kw": "水色过膝袜 / 水色长袜 / 浅蓝绿色袜子 / 蓝绿色袜子 / 水色高筒袜 / 水色及膝袜 / 水色半高筒袜 / 潜水袜 / aqua kneehighs"
+    },
+    {
+      "en": "aqua thighhighs",
+      "zh": "水色过膝袜",
+      "rating": "s",
+      "count": 1569,
+      "desc": "水色（蓝绿色）的过膝袜",
+      "kw": "水色高筒袜 / 水色过膝长袜 / 水蓝色过膝袜 / 水绿色过膝袜 / 水色长筒袜 / 水色高筒过膝袜 / 过膝袜 / 袜子"
+    },
+    {
+      "en": "argyle pantyhose",
+      "zh": "菱格连裤袜",
+      "rating": "s",
+      "count": 6235,
+      "desc": "带菱形格纹的连裤袜",
+      "kw": "菱形格纹连裤袜 / 菱纹连裤袜 / 阿盖尔连裤袜 / 格纹连裤袜 / 菱形格纹裤袜 / 裤袜 / 格纹 / 服装"
+    },
+    {
+      "en": "argyle socks",
+      "zh": "菱格袜",
+      "rating": "g",
+      "count": 766,
+      "desc": "呈斜向棋盘状菱形格纹的袜子",
+      "kw": "菱形格纹袜 / 阿盖尔袜 / 菱格纹袜子 / 斜格袜 / 袜子 / 图案袜"
+    },
+    {
+      "en": "argyle thighhighs",
+      "zh": "菱格过膝袜",
+      "rating": "s",
+      "count": 3032,
+      "desc": "带菱形格纹的过膝袜。",
+      "kw": "阿盖尔过膝袜 / 菱形格纹过膝袜 / 菱格及膝袜 / 菱格长筒袜 / 菱形格长袜 / 菱格高筒袜 / 菱格长袜 / 菱形纹袜"
+    },
+    {
+      "en": "asymmetrical legwear",
+      "zh": "不对称腿饰",
+      "rating": "s",
+      "count": 58409,
+      "desc": "左右腿穿着长度、颜色或款式不同的袜类/腿饰。",
+      "kw": "不对称袜类 / 不对称袜子 / 左右不同袜 / 不对称裤袜 / 不对称长袜 / 不对称腿套 / 单腿穿袜 / 不对称腿部装扮"
+    },
+    {
+      "en": "black garter belt",
+      "zh": "黑色吊袜腰带",
+      "rating": "s",
+      "count": 4907,
+      "desc": "系在腰间、用吊带固定袜子的黑色腰带",
+      "kw": "黑色吊袜带 / 黑吊袜带 / 黑色吊带袜腰带 / 黑色腿环带 / 黑色大腿袜带 / 吊袜带 / 内衣"
+    },
+    {
+      "en": "black garter straps",
+      "zh": "黑色吊袜带",
+      "rating": "s",
+      "count": 7391,
+      "desc": "黑色的吊袜带，用于夹住袜子。",
+      "kw": "黑吊袜带 / 黑色吊带袜夹 / 黑色袜夹 / 黑色吊带夹 / 黑色吊带 / 黑吊带袜夹 / 黑色吊袜夹 / 吊袜带"
+    },
+    {
+      "en": "black hiphighs",
+      "zh": "黑色及臀长袜",
+      "rating": "s",
+      "count": 1473,
+      "desc": "黑色及臀长袜，长度达到臀部。",
+      "kw": "黑色及臀袜 / 黑色过臀袜 / 黑及臀袜 / 黑及臀长袜 / 黑色及臀丝袜 / 黑色高筒袜 / 黑色及胯袜 / 袜子"
+    },
+    {
+      "en": "black leg warmers",
+      "zh": "黑色腿套",
+      "rating": "g",
+      "count": 2650,
+      "desc": "包裹小腿的黑色腿套/护腿",
+      "kw": "黑色护腿 / 黑色暖腿套 / 黑色腿暖 / 黑色长袜套 / 黑色小腿套 / 黑色脚套 / 黑色暖腿袜 / 腿部配饰"
+    },
+    {
+      "en": "black leggings",
+      "zh": "黑色打底裤",
+      "rating": "g",
+      "count": 9574,
+      "desc": "黑色紧身打底裤",
+      "kw": "黑色紧身裤 / 黑色内搭裤 / 黑色贴身裤 / 黑色九分裤 / 黑色运动紧身裤 / 黑连裤袜 / 紧身裤 / 下装"
+    },
+    {
+      "en": "black socks",
+      "zh": "黑色袜子",
+      "rating": "g",
+      "count": 152440,
+      "desc": "黑色袜子或小腿袜。",
+      "kw": "黑袜 / 黑色短袜 / 黑短袜 / 黑色小腿袜 / 黑小腿袜 / 黑色及膝袜 / 黑筒袜 / 黑色中筒袜 / black kneehighs / 黑生 / 黑靴下 / 黒ハイソックス"
+    },
+    {
+      "en": "black thighhighs",
+      "zh": "黑色过膝袜",
+      "rating": "s",
+      "count": 519927,
+      "desc": "高过膝盖的黑色长袜",
+      "kw": "黑过膝袜 / 黑大腿袜 / 黑色大腿袜 / 黑高筒袜 / 黑色高筒袜 / 黑长袜 / 黑色长袜 / 黑丝 / 黒ニーソックス / 黒ニーソ / 黒ニーハイ / 黒ストッキング"
+    },
+    {
+      "en": "blue leg warmers",
+      "zh": "蓝色护腿",
+      "rating": "g",
+      "count": 678,
+      "desc": "套在小腿上的蓝色暖腿套",
+      "kw": "蓝色腿套 / 蓝色暖腿套 / 蓝色袜套 / 蓝色护腿套 / 蓝色暖腿 / 蓝色腿暖套 / 腿暖袜 / 配饰"
+    },
+    {
+      "en": "blue leggings",
+      "zh": "蓝色紧身裤",
+      "rating": "g",
+      "count": 672,
+      "desc": "紧贴腿部的蓝色紧身裤",
+      "kw": "蓝色打底裤 / 蓝色弹力裤 / 蓝色裤袜 / 蓝紧身裤 / 紧身裤 / 裤子 / 下装"
+    },
+    {
+      "en": "blue pantyhose",
+      "zh": "蓝色连裤袜",
+      "rating": "s",
+      "count": 8664,
+      "desc": "连裆包裹双腿的蓝色连裤袜",
+      "kw": "蓝丝 / 蓝色丝袜 / 蓝连裤袜 / 蓝色裤袜 / 蓝裤袜 / 蓝色打底裤袜 / 连裤袜 / 腿部服饰"
+    },
+    {
+      "en": "blue socks",
+      "zh": "蓝色袜子",
+      "rating": "g",
+      "count": 14898,
+      "desc": "蓝色的袜子或及膝袜",
+      "kw": "蓝袜子 / 蓝色短袜 / 蓝色及膝袜 / 蓝短袜 / 蓝色中筒袜 / 蓝色长袜 / 蓝色棉袜 / 袜子 / blue kneehighs"
+    },
+    {
+      "en": "blue thighhighs",
+      "zh": "蓝色过膝袜",
+      "rating": "s",
+      "count": 26157,
+      "desc": "过膝的蓝色长筒袜",
+      "kw": "蓝色长筒袜 / 蓝过膝袜 / 蓝长筒袜 / 蓝色过膝长袜 / 过膝袜 / 腿部服饰"
+    },
+    {
+      "en": "brown pantyhose",
+      "zh": "棕色连裤袜",
+      "rating": "s",
+      "count": 61868,
+      "desc": "棕色连裤袜，连裆包裹双腿的薄袜",
+      "kw": "棕色裤袜 / 棕裤袜 / 棕连裤袜 / 棕色丝袜 / 棕丝 / 咖啡色连裤袜 / 咖啡色丝袜 / 深棕连裤袜"
+    },
+    {
+      "en": "brown socks",
+      "zh": "棕色袜子",
+      "rating": "g",
+      "count": 5805,
+      "desc": "棕色的袜子或及膝袜。",
+      "kw": "棕袜子 / 咖啡色袜子 / 棕色短袜 / 棕色及膝袜 / 棕色长袜 / 袜子 / 服装 / brown kneehighs"
+    },
+    {
+      "en": "brown thighhighs",
+      "zh": "棕色过膝袜",
+      "rating": "s",
+      "count": 35223,
+      "desc": "棕色过膝袜，袜口高于膝盖。",
+      "kw": "棕色大腿袜 / 棕色高筒袜 / 棕色过膝长袜 / 棕色长筒袜 / 棕色高筒过膝袜 / 过膝袜 / 袜子 / 腿部"
+    },
+    {
+      "en": "condom thigh strap",
+      "zh": "安全套腿带",
+      "rating": "q",
+      "nsfw": true,
+      "count": 584,
+      "desc": "把用过的避孕套串在腿环上",
+      "kw": "避孕套腿环 / 套套腿带 / 用过的避孕套腿带 / 大腿绑安全套 / 套套绑腿 / 避孕套大腿带 / 大腿带 / 情趣"
+    },
+    {
+      "en": "cow print thighhighs",
+      "zh": "奶牛纹过膝袜",
+      "rating": "s",
+      "count": 10894,
+      "desc": "带奶牛斑纹的过膝袜",
+      "kw": "奶牛斑纹过膝袜 / 奶牛纹长筒袜 / 奶牛纹高筒袜 / 奶牛花纹过膝袜 / 乳牛纹过膝袜 / 奶牛印花大腿袜 / 动物纹 / 过膝袜"
+    },
+    {
+      "en": "frilled garter",
+      "zh": "荷叶边吊袜带",
+      "rating": "s",
+      "count": 625,
+      "desc": "带荷叶边的吊袜带，系在大腿上。",
+      "kw": "荷叶边袜带 / 花边吊袜带 / 褶边吊袜带 / 荷叶边腿环 / 荷叶边袜圈 / 皱褶吊袜带 / 裙边吊袜带 / 吊袜带"
+    },
+    {
+      "en": "frilled socks",
+      "zh": "荷叶边袜",
+      "rating": "g",
+      "count": 8865,
+      "desc": "袜口带荷叶边装饰的袜子",
+      "kw": "荷叶边袜子 / 花边袜 / 褶边袜 / 褶皱袜子 / 荷叶边短袜 / 花边短袜 / 褶边短袜 / 褶皱边袜"
+    },
+    {
+      "en": "frilled thighhighs",
+      "zh": "荷叶边过膝袜",
+      "rating": "s",
+      "count": 14395,
+      "desc": "袜口带荷叶边的过膝袜/大腿袜。",
+      "kw": "花边过膝袜 / 褶边过膝袜 / 荷叶边大腿袜 / 花边大腿袜 / 荷叶边长筒袜 / 褶边大腿袜 / 过膝袜 / 袜子"
+    },
+    {
+      "en": "fur-trimmed thighhighs",
+      "zh": "毛边过膝袜",
+      "rating": "s",
+      "count": 2724,
+      "desc": "顶端带毛皮镶边的过膝袜",
+      "kw": "皮草边过膝袜 / 毛绒边过膝袜 / 毛皮饰边过膝袜 / 毛口过膝袜 / 毛边大腿袜 / 皮草边大腿袜 / 过膝袜 / 袜子"
+    },
+    {
+      "en": "gold thighhighs",
+      "zh": "金色过膝袜",
+      "rating": "s",
+      "count": 675,
+      "desc": "呈金色、到大腿的过膝袜",
+      "kw": "金色大腿袜 / 金色长筒袜 / 金色过膝长袜 / 金丝过膝袜 / 金色高筒袜 / 金色过膝丝袜 / 袜子 / 长袜"
+    },
+    {
+      "en": "gold thighlet",
+      "zh": "金色腿环",
+      "rating": "s",
+      "count": 2140,
+      "desc": "黄金制成的腿环",
+      "kw": "金腿环 / 黄金腿环 / 金色大腿环 / 金色腿带 / 金色绑腿环 / 金色大腿带 / 腿环 / 配饰"
+    },
+    {
+      "en": "gradient thighhighs",
+      "zh": "渐变过膝袜",
+      "rating": "s",
+      "count": 600,
+      "desc": "带渐变色的过膝袜",
+      "kw": "渐变色过膝袜 / 渐层过膝袜 / 渐变色长筒袜 / 渐变长袜 / 过膝袜 / 袜子"
+    },
+    {
+      "en": "green pantyhose",
+      "zh": "绿色连裤袜",
+      "rating": "s",
+      "count": 2877,
+      "desc": "连及腰部的绿色连裤袜。",
+      "kw": "绿色裤袜 / 绿色丝袜 / 绿色连体袜 / 绿连裤袜 / 绿裤袜 / 连裤袜 / 腿部服装"
+    },
+    {
+      "en": "green socks",
+      "zh": "绿色袜子",
+      "rating": "g",
+      "count": 5238,
+      "desc": "绿色的袜子或半筒袜。",
+      "kw": "绿色短袜 / 绿色中筒袜 / 绿色半筒袜 / 绿袜子 / 绿色及膝袜 / 袜子 / 服装 / green kneehighs"
+    },
+    {
+      "en": "green thighhighs",
+      "zh": "绿色过膝袜",
+      "rating": "s",
+      "count": 8373,
+      "desc": "颜色为绿色的过膝袜",
+      "kw": "绿色大腿袜 / 绿色长筒袜 / 绿色过膝长袜 / 绿色绝对领域袜 / 绿过膝袜 / 过膝袜 / 袜子"
+    },
+    {
+      "en": "grey leg warmers",
+      "zh": "灰色腿套",
+      "rating": "g",
+      "count": 623,
+      "desc": "穿在小腿上保暖的灰色腿套或袜套",
+      "kw": "灰色护腿 / 灰色袜套 / 灰色暖腿套 / 灰色腿部保暖套 / 灰色脚套 / 灰色护腿袜 / 灰色暖腿 / 腿部服饰"
+    },
+    {
+      "en": "grey pantyhose",
+      "zh": "灰色连裤袜",
+      "rating": "s",
+      "count": 14895,
+      "desc": "颜色为灰色的连裤袜",
+      "kw": "灰色裤袜 / 灰丝 / 灰色丝袜 / 灰裤袜 / 灰色连裤丝袜 / 灰色薄丝 / 裤袜 / 腿部服装 / gray pantyhose"
+    },
+    {
+      "en": "grey socks",
+      "zh": "灰色袜子",
+      "rating": "g",
+      "count": 11213,
+      "desc": "颜色为灰色的袜子或及膝袜",
+      "kw": "灰袜子 / 灰色短袜 / 灰色及膝袜 / 灰短袜 / 灰及膝袜 / 袜子 / 灰色系 / grey kneehighs / gray socks"
+    },
+    {
+      "en": "grey thighhighs",
+      "zh": "灰色过膝袜",
+      "rating": "s",
+      "count": 17074,
+      "desc": "颜色为灰色的过膝袜，长度通常到膝盖以上大腿。",
+      "kw": "灰色长筒袜 / 灰色过膝长袜 / 灰过膝袜 / 灰色大腿袜 / 灰色长袜 / 灰色过膝丝袜 / 灰色长筒丝袜 / 灰色膝上袜 / gray thighhighs"
+    },
+    {
+      "en": "high-waist pantyhose",
+      "zh": "高腰连裤袜",
+      "rating": "s",
+      "count": 2138,
+      "desc": "腰线偏高的高腰连裤袜",
+      "kw": "高腰裤袜 / 高腰丝袜 / 高腰连裤丝袜 / 高腰袜 / 高腰长袜 / 高腰紧身袜 / 高腰打底袜 / 连裤袜"
+    },
+    {
+      "en": "knee armor",
+      "zh": "膝甲",
+      "rating": "g",
+      "count": 634,
+      "desc": "覆盖膝盖的护甲部件",
+      "kw": "膝盖护甲 / 护膝甲 / 膝部护甲 / 膝盖甲 / 护膝装甲 / 铠甲护膝 / 护甲 / 盔甲"
+    },
+    {
+      "en": "lace-trimmed garter belt",
+      "zh": "蕾丝边吊袜带",
+      "rating": "s",
+      "count": 607,
+      "desc": "带蕾丝边的吊袜带",
+      "kw": "蕾丝吊袜带 / 蕾丝花边吊袜带 / 花边吊袜带 / 蕾丝边袜带 / 内衣 / 吊带袜"
+    },
+    {
+      "en": "laddered pantyhose",
+      "zh": "抽丝连裤袜",
+      "rating": "s",
+      "count": 554,
+      "desc": "出现梯状脱丝的破损连裤袜",
+      "kw": "破洞连裤袜 / 梯状抽丝连裤袜 / 连裤袜抽丝 / 丝袜抽丝 / 连裤袜破洞 / 破丝袜 / 梯状破洞连裤袜 / 丝袜破损"
+    },
+    {
+      "en": "latex thighhighs",
+      "zh": "乳胶过膝袜",
+      "rating": "s",
+      "count": 1557,
+      "desc": "用乳胶制成或看起来像乳胶的过膝袜",
+      "kw": "乳胶长筒袜 / 乳胶大腿袜 / 胶质过膝袜 / 亮面过膝袜 / 胶衣过膝袜 / 过膝袜 / 乳胶服装"
+    },
+    {
+      "en": "leg armor",
+      "zh": "腿部装甲",
+      "rating": "g",
+      "count": 3934,
+      "desc": "保护腿部的甲具",
+      "kw": "腿甲 / 护腿甲 / 腿部护甲 / 腿铠 / 腿部盔甲 / 腿甲片 / 护腿铠甲 / 盔甲"
+    },
+    {
+      "en": "leg wrap",
+      "zh": "绑腿",
+      "rating": "g",
+      "count": 2579,
+      "desc": "缠绕在小腿上的布条或绷带",
+      "kw": "绑腿布 / 小腿绑带 / 腿部缠布 / 绑腿带 / 腿缠带 / 缠腿布 / 护腿绷带 / 腿部绷带 / leg wraps"
+    },
+    {
+      "en": "leggings under shorts",
+      "zh": "短裤内搭打底裤",
+      "rating": "g",
+      "count": 1389,
+      "desc": "在短裤内穿着并露出的打底裤或紧身裤。",
+      "kw": "短裤内穿打底裤 / 短裤里搭打底裤 / 打底裤外穿短裤 / 短裤配打底裤 / 短裤内搭紧身裤 / 短裤里穿紧身裤 / 短裤下穿打底裤 / 服装"
+    },
+    {
+      "en": "lifebuoy anklet",
+      "zh": "救生圈脚环",
+      "rating": "g",
+      "count": 543,
+      "desc": "救生圈造型的脚环",
+      "kw": "救生圈脚链 / 泳圈脚环 / 游泳圈脚环 / 救生圈造型脚环 / 救生圈脚镯 / 脚链 / 配饰 / 救生圈"
+    },
+    {
+      "en": "loose thighhigh",
+      "zh": "松垮过膝袜",
+      "rating": "s",
+      "count": 762,
+      "desc": "一侧过膝袜松脱或滑落下来的样子",
+      "kw": "过膝袜滑落 / 滑落的过膝袜 / 掉筒过膝袜 / 过膝袜松脱 / 松脱的过膝袜 / 大腿袜滑落 / 过膝袜掉下来 / 滑脱过膝袜"
+    },
+    {
+      "en": "mismatched socks",
+      "zh": "不配对袜子",
+      "rating": "g",
+      "count": 698,
+      "desc": "左右袜子的颜色、图案或设计不同。",
+      "kw": "鸳鸯袜 / 左右不同袜子 / 不成对袜子 / 混搭袜子 / 不对称袜子 / 异色袜 / 鸳鸯袜子 / 左右异色袜"
+    },
+    {
+      "en": "mismatched thighhighs",
+      "zh": "不成对过膝袜",
+      "rating": "s",
+      "count": 1613,
+      "desc": "左右过膝袜颜色/图案/设计不同",
+      "kw": "不对称过膝袜 / 左右不同过膝袜 / 异色过膝袜 / 混搭过膝袜 / 一只一样过膝袜 / 不同款过膝袜 / 过膝袜 / 不对称袜子"
+    },
+    {
+      "en": "multiple thigh straps",
+      "zh": "多条腿带",
+      "rating": "s",
+      "count": 1521,
+      "desc": "同一条腿上佩戴多条腿带",
+      "kw": "大腿绑带 / 大腿环 / 多条腿环 / 腿部绑带 / 大腿束带 / 腿环 / 大腿带 / 多重腿带"
+    },
+    {
+      "en": "no legwear",
+      "zh": "未穿袜/光腿",
+      "rating": "g",
+      "count": 5377,
+      "desc": "角色通常穿着裤袜或大腿袜时却露出光腿",
+      "kw": "没穿腿部服饰"
+    },
+    {
+      "en": "no socks",
+      "zh": "没穿袜子",
+      "rating": "g",
+      "count": 9001,
+      "desc": "穿鞋但不穿袜子",
+      "kw": "不穿袜子 / 无袜 / 光脚穿鞋 / 裸足穿鞋 / 未穿袜子 / 没袜子 / 光脚 / 赤足穿鞋 / 素足履き / 素足に上履き"
+    },
+    {
+      "en": "o-ring thigh strap",
+      "zh": "O形环大腿绑带",
+      "rating": "s",
+      "count": 10300,
+      "desc": "带O形环的大腿绑带",
+      "kw": "O型环大腿绑带 / O环大腿带 / 大腿O环带 / O形环腿环 / O型环腿环 / O型环大腿带 / 大腿带 / 束带"
+    },
+    {
+      "en": "orange pantyhose",
+      "zh": "橙色连裤袜",
+      "rating": "s",
+      "count": 3107,
+      "desc": "包裹腰腹到脚趾的橙色连裤袜",
+      "kw": "橙色裤袜 / 橘色连裤袜 / 橘色裤袜 / 橙色丝袜 / 连裤袜 / 袜子"
+    },
+    {
+      "en": "orange socks",
+      "zh": "橙色袜子",
+      "rating": "g",
+      "count": 2536,
+      "desc": "橙色的袜子或及膝袜",
+      "kw": "橙色短袜 / 橙色及膝袜 / 橘色袜子 / 橘色及膝袜 / 橙袜 / 橘袜 / 袜子 / 服装 / orange kneehighs"
+    },
+    {
+      "en": "orange thighhighs",
+      "zh": "橙色过膝袜",
+      "rating": "s",
+      "count": 4348,
+      "desc": "橙色的过膝袜或更长的长筒袜",
+      "kw": "橙色长筒袜 / 橘色过膝袜 / 橙过膝袜 / 橙长袜 / 橙色大腿袜 / 橘色长袜 / 过膝袜 / 袜子"
+    },
+    {
+      "en": "pantyhose only",
+      "zh": "仅穿连裤袜",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1267,
+      "desc": "只穿连裤袜，除连裤袜外无其他衣物",
+      "kw": "只穿连裤袜 / 光穿连裤袜 / 仅裤袜 / 只穿裤袜 / 只穿连裤袜不穿内裤 / 连裤袜 / 下着 / only pantyhose"
+    },
+    {
+      "en": "pantyhose under swimsuit",
+      "zh": "泳衣下穿连裤袜",
+      "rating": "s",
+      "count": 1082,
+      "desc": "在泳衣里面穿连裤袜的搭配。",
+      "kw": "泳衣内穿连裤袜 / 泳装内搭连裤袜 / 泳装连裤袜 / 死库水连裤袜 / 泳衣配连裤袜 / 泳装裤袜 / 泳装下穿连裤袜 / 泳装 / スク水タイツ / 競水タイツ / 競泳タイツ / 水着タイツ"
+    },
+    {
+      "en": "patterned legwear",
+      "zh": "带图案的腿部服饰",
+      "rating": "g",
+      "count": 879,
+      "desc": "带有图案的袜子等腿部服饰",
+      "kw": "图案腿部服饰 / 花腿部服饰 / 花纹腿部服饰 / 有图案的袜子 / 花纹腿部穿着 / 腿饰 / 图案 / 袜子"
+    },
+    {
+      "en": "pink leg warmers",
+      "zh": "粉色腿套",
+      "rating": "g",
+      "count": 1585,
+      "desc": "套在小腿上的粉色腿套",
+      "kw": "粉色护腿 / 粉红腿套 / 粉色暖腿套 / 粉色暖腿 / 腿暖器 / 配饰"
+    },
+    {
+      "en": "pink pantyhose",
+      "zh": "粉色连裤袜",
+      "rating": "s",
+      "count": 4833,
+      "desc": "包裹腰腹到脚趾的粉色连裤袜",
+      "kw": "粉红色连裤袜 / 粉连裤袜 / 粉色裤袜 / 粉红裤袜 / 粉色丝袜 / 粉红丝袜 / 裤袜 / 腿部服饰"
+    },
+    {
+      "en": "pink socks",
+      "zh": "粉色袜子",
+      "rating": "g",
+      "count": 7343,
+      "desc": "粉色或粉红色的袜子，常为及膝袜。",
+      "kw": "粉红色袜子 / 粉红袜子 / 粉袜 / 粉色及膝袜 / 粉红及膝袜 / 粉色长袜 / 粉红长袜 / 粉色短袜 / pink kneehighs"
+    },
+    {
+      "en": "pink thighhighs",
+      "zh": "粉色过膝袜",
+      "rating": "s",
+      "count": 19905,
+      "desc": "长及大腿的粉色袜子，通常为过膝长度",
+      "kw": "粉色长筒袜 / 粉色大腿袜 / 粉过膝袜 / 粉色过膝长袜 / 粉色长袜 / 粉红过膝袜 / 粉色高筒袜 / 粉红大腿袜"
+    },
+    {
+      "en": "pinstripe pantyhose",
+      "zh": "细条纹连裤袜",
+      "rating": "s",
+      "count": 662,
+      "desc": "带有细窄条纹图案的连裤袜",
+      "kw": "细条纹裤袜 / 铅笔条纹连裤袜 / 细直条纹连裤袜 / 细条纹丝袜 / 细条纹连裤丝袜 / 连裤袜 / 条纹"
+    },
+    {
+      "en": "plaid socks",
+      "zh": "格子袜",
+      "rating": "g",
+      "count": 788,
+      "desc": "带格纹图案的袜子",
+      "kw": "格纹袜 / 格子图案袜 / 苏格兰格袜 / 花格袜 / 方格袜 / 格子短袜 / 格子长袜 / 袜子"
+    },
+    {
+      "en": "print leggings",
+      "zh": "印花打底裤",
+      "rating": "g",
+      "count": 155,
+      "desc": "印有心形、星星等图案的紧身裤",
+      "kw": "印花紧身裤 / 图案打底裤 / 花色打底裤 / 花纹打底裤 / 裤子 / 服装 / 印花"
+    },
+    {
+      "en": "print pantyhose",
+      "zh": "印花连裤袜",
+      "rating": "s",
+      "count": 9490,
+      "desc": "印有心形、星星等图案的连裤袜。",
+      "kw": "印花丝袜 / 印花裤袜 / 图案连裤袜 / 花案连裤袜 / 带图案连裤袜 / 连裤袜 / 袜子"
+    },
+    {
+      "en": "print socks",
+      "zh": "印花袜子",
+      "rating": "g",
+      "count": 1035,
+      "desc": "印有图案的袜子，常见心形、星星等。",
+      "kw": "印花袜 / 图案袜子 / 花袜子 / 印图袜子 / 花色袜子 / 袜子 / 服装 / 图案"
+    },
+    {
+      "en": "print thighhighs",
+      "zh": "印花过膝袜",
+      "rating": "s",
+      "count": 17319,
+      "desc": "印有独特图案（如心形、星星、动物纹）的过膝袜。",
+      "kw": "图案过膝袜 / 印花长筒袜 / 花过膝袜 / 图案长筒袜 / 印花大腿袜 / 印花过膝长袜 / 有图案过膝袜 / 带图案过膝袜"
+    },
+    {
+      "en": "purple garter straps",
+      "zh": "紫色袜带",
+      "rating": "s",
+      "count": 505,
+      "desc": "从腰带垂下、固定长袜的紫色袜带。",
+      "kw": "紫色吊袜带 / 紫袜带 / 紫色袜夹 / 紫色吊带袜夹 / 紫色筒袜带 / 紫色吊带 / 紫色袜夹带 / 吊袜带"
+    },
+    {
+      "en": "purple pantyhose",
+      "zh": "紫色连裤袜",
+      "rating": "s",
+      "count": 12706,
+      "desc": "紫色连裤袜，从腰包覆到脚",
+      "kw": "紫色丝袜 / 紫色裤袜 / 紫丝 / 紫连裤袜 / 连裤袜 / 腿部服饰"
+    },
+    {
+      "en": "purple socks",
+      "zh": "紫色袜子",
+      "rating": "g",
+      "count": 4059,
+      "desc": "紫色的袜子，包括及膝款式",
+      "kw": "紫袜子 / 紫色短袜 / 紫色及膝袜 / 紫短袜 / 紫及膝袜 / 袜子 / 紫色 / 服装 / purple kneehighs"
+    },
+    {
+      "en": "purple thighhighs",
+      "zh": "紫色过膝袜",
+      "rating": "s",
+      "count": 30631,
+      "desc": "紫色过膝袜，长及大腿根部",
+      "kw": "紫过膝袜 / 紫色大腿袜 / 紫大腿袜 / 紫色长筒袜 / 紫长筒袜 / 袜子"
+    },
+    {
+      "en": "red garter straps",
+      "zh": "红色吊袜带",
+      "rating": "s",
+      "count": 581,
+      "desc": "红色的吊袜带夹带。",
+      "kw": "红色吊袜夹带 / 红色袜带 / 红色吊带袜带 / 红色腿环带 / 红色吊袜扣带 / 内衣 / 配饰"
+    },
+    {
+      "en": "red leg warmers",
+      "zh": "红色暖腿套",
+      "rating": "g",
+      "count": 500,
+      "desc": "套在小腿上的红色暖腿套",
+      "kw": "红色腿套 / 红色护腿袜 / 红暖腿套 / 红色针织腿套 / 红色小腿套 / 红色护腿 / 护腿 / 运动服"
+    },
+    {
+      "en": "red pantyhose",
+      "zh": "红色连裤袜",
+      "rating": "s",
+      "count": 8844,
+      "desc": "红色连裤袜，连腰包住双腿",
+      "kw": "红色丝袜 / 红色裤袜 / 红连裤袜 / 红色连裤丝袜 / 红色紧身袜 / 连裤袜 / 红色"
+    },
+    {
+      "en": "red socks",
+      "zh": "红袜子",
+      "rating": "g",
+      "count": 9743,
+      "desc": "红色的袜子或及膝袜",
+      "kw": "红色袜子 / 红短袜 / 红及膝袜 / 红长袜 / 红袜 / 袜子 / 红色 / red kneehighs"
+    },
+    {
+      "en": "red thighhighs",
+      "zh": "红色过膝袜",
+      "rating": "s",
+      "count": 28848,
+      "desc": "红色过膝袜或大腿袜",
+      "kw": "红色大腿袜 / 红过膝袜 / 红大腿袜 / 红丝袜 / 红色长筒袜 / 长袜 / 腿饰"
+    },
+    {
+      "en": "ribbon-trimmed socks",
+      "zh": "缎带边袜子",
+      "rating": "g",
+      "count": 835,
+      "desc": "袜口或边缘镶缎带的袜子",
+      "kw": "缎带饰边袜子 / 缎带花边袜 / 缎带边饰袜 / 丝带边袜子 / 缎带装饰袜 / 缎带点缀袜子 / 袜子 / 饰品"
+    },
+    {
+      "en": "ribbon-trimmed thighhighs",
+      "zh": "缎带边过膝袜",
+      "rating": "s",
+      "count": 6825,
+      "desc": "边缘镶有缎带的过膝袜",
+      "kw": "缎带过膝袜 / 丝带边过膝袜 / 带缎带过膝袜 / 缎带装饰过膝袜 / 缎带滚边过膝袜 / 缎带花边过膝袜 / 丝带装饰过膝袜 / 过膝袜"
+    },
+    {
+      "en": "see-through pantyhose",
+      "zh": "透视连裤袜",
+      "rating": "s",
+      "count": 1121,
+      "desc": "透明或薄纱材质的连裤袜",
+      "kw": "透明连裤袜 / 薄纱连裤袜 / 丝袜透肉 / 透明裤袜 / 薄丝连裤袜 / 连裤袜 / 透明丝袜 / sheer pantyhose"
+    },
+    {
+      "en": "see-through thighhighs",
+      "zh": "透明过膝袜",
+      "rating": "s",
+      "count": 1311,
+      "desc": "透明或半透明材质的过膝袜。",
+      "kw": "透视过膝袜 / 薄纱过膝袜 / 透肉过膝袜 / 透明长筒袜 / 半透明过膝袜 / 隐约透肉过膝袜 / 透明丝过膝袜 / 透肉大腿袜 / transparent thighhighs"
+    },
+    {
+      "en": "single fishnet legwear",
+      "zh": "单腿渔网袜",
+      "rating": "s",
+      "count": 1847,
+      "desc": "只穿在一条腿上的渔网袜",
+      "kw": "单腿网袜 / 单只渔网袜 / 单边渔网袜 / 只穿一边渔网袜 / 单腿渔网裤袜 / 单条渔网袜 / 渔网袜 / 袜子"
+    },
+    {
+      "en": "single garter strap",
+      "zh": "单条吊袜带",
+      "rating": "s",
+      "count": 3692,
+      "desc": "只在一条腿上佩戴的吊袜带。",
+      "kw": "单只吊袜带 / 单腿吊袜带 / 一条吊袜带 / 单边吊袜带 / 吊袜带 / 配饰"
+    },
+    {
+      "en": "single kneehigh",
+      "zh": "单只及膝袜",
+      "rating": "g",
+      "count": 6119,
+      "desc": "只在一只腿上穿的及膝袜",
+      "kw": "单边及膝袜 / 单腿及膝袜 / 只穿一只及膝袜 / 不对称及膝袜 / 单只膝袜 / 单只过膝袜 / 袜子 / 腿部服饰 / one kneehigh"
+    },
+    {
+      "en": "single leg pantyhose",
+      "zh": "单腿连裤袜",
+      "rating": "s",
+      "count": 13519,
+      "desc": "只覆盖一条腿的连裤袜或丝袜",
+      "kw": "单边连裤袜 / 单腿丝袜 / 单边丝袜 / 单腿裤袜 / 单腿穿着连裤袜 / 连裤袜 / 腿部服饰 / 袜子 / single legging / single pantyhose leg"
+    },
+    {
+      "en": "single leg warmer",
+      "zh": "单只暖腿套",
+      "rating": "g",
+      "count": 650,
+      "desc": "只穿在一只腿上的暖腿套",
+      "kw": "单腿暖腿套 / 单脚暖腿套 / 单边腿套 / 一只暖腿套 / 单腿护腿 / 单只腿套 / 单腿保暖套 / 单边暖腿套"
+    },
+    {
+      "en": "single legwear garter",
+      "zh": "单腿袜带",
+      "rating": "s",
+      "count": 658,
+      "desc": "只戴一个的袜带",
+      "kw": "单只袜带 / 单腿吊带袜 / 单边袜带 / 单脚袜带 / 单吊带袜 / 单腿袜圈 / 单腿腿环 / 单边腿环 / single garter"
+    },
+    {
+      "en": "single over-kneehigh",
+      "zh": "单只过膝袜",
+      "rating": "s",
+      "count": 681,
+      "desc": "只在一侧腿穿过膝袜",
+      "kw": "单腿过膝袜 / 单只过膝长袜 / 单腿过膝长袜 / 一只过膝袜 / 单侧过膝袜 / 不对称过膝袜 / 单穿一只过膝袜 / 过膝袜 / 片足オーバーニー / 片足オーバーニーソックス"
+    },
+    {
+      "en": "single sock",
+      "zh": "单只袜子",
+      "rating": "g",
+      "count": 13779,
+      "desc": "只在一只脚上穿袜子",
+      "kw": "单只袜 / 一只袜子 / 单脚袜子 / 单边袜子 / 只穿一只袜子 / 单袜 / 袜子 / one sock"
+    },
+    {
+      "en": "single thighhigh",
+      "zh": "单只过膝袜",
+      "rating": "s",
+      "count": 85252,
+      "desc": "只在一只腿上穿过膝袜/大腿袜，另一腿无。",
+      "kw": "单腿过膝袜 / 单边过膝袜 / 一只过膝袜 / 单只大腿袜 / 单腿大腿袜 / 单边长筒袜 / 单只长筒袜 / 单腿长袜 / one thighhigh / thighhigh / 片足ニーハイ / 片足ニーソ"
+    },
+    {
+      "en": "socks over pantyhose",
+      "zh": "袜子套在连裤袜外",
+      "rating": "s",
+      "count": 771,
+      "desc": "在连裤袜外再穿袜子的穿法",
+      "kw": "连裤袜外穿袜子 / 裤袜外套袜 / 短袜叠穿裤袜 / 丝袜外套短袜 / 袜子外穿 / 袜套穿在连裤袜外 / 袜子 / 连裤袜"
+    },
+    {
+      "en": "spiked anklet",
+      "zh": "尖刺脚链",
+      "rating": "g",
+      "count": 837,
+      "desc": "带有一个或多个尖刺的脚链",
+      "kw": "带刺脚链 / 尖刺脚环 / 尖刺脚镯 / 带尖刺脚链 / 朋克尖刺脚链 / 脚链 / 配饰"
+    },
+    {
+      "en": "stirrup footwear",
+      "zh": "踩脚袜",
+      "rating": "s",
+      "count": 1666,
+      "desc": "脚底有踩环、露出脚趾脚跟的袜子",
+      "kw": "马镫袜 / 踩脚裤袜 / 踩脚连裤袜 / 踩脚紧身袜 / 马镫型袜子 / 踩脚印袜 / 踏脚裤 / 袜子"
+    },
+    {
+      "en": "striped leg warmers",
+      "zh": "条纹护腿",
+      "rating": "g",
+      "count": 1196,
+      "desc": "带条纹图案的护腿套",
+      "kw": "条纹腿套 / 条纹袜套 / 带条纹护腿 / 横纹护腿 / 条纹暖腿套 / 条纹护膝套 / 条纹护腿袜 / 腿部服饰"
+    },
+    {
+      "en": "striped leggings",
+      "zh": "条纹紧身裤",
+      "rating": "g",
+      "count": 641,
+      "desc": "带条纹图案的紧身裤",
+      "kw": "条纹打底裤 / 条纹裤袜 / 条纹内搭裤 / 打底裤 / 裤子 / 条纹"
+    },
+    {
+      "en": "striped pantyhose",
+      "zh": "条纹连裤袜",
+      "rating": "s",
+      "count": 13802,
+      "desc": "带条纹图案的连裤袜",
+      "kw": "条纹丝袜 / 条纹裤袜 / 条纹长袜 / 条纹连袜裤 / 条纹打底袜 / 横纹连裤袜 / 竖纹连裤袜 / 条纹紧身袜"
+    },
+    {
+      "en": "striped socks",
+      "zh": "条纹袜子",
+      "rating": "g",
+      "count": 12962,
+      "desc": "带条纹图案的袜子或及膝袜。",
+      "kw": "条纹袜 / 横纹袜子 / 条纹及膝袜 / 条纹长袜 / 条纹短袜 / 条纹中筒袜 / 斑纹袜子 / 袜子 / striped kneehighs / ストライプソックス"
+    },
+    {
+      "en": "striped thighhighs",
+      "zh": "条纹过膝袜",
+      "rating": "s",
+      "count": 73175,
+      "desc": "带条纹图案的过膝袜。",
+      "kw": "横条纹过膝袜 / 条纹长筒袜 / 条纹大腿袜 / 条纹高筒袜 / 条纹膝上袜 / 条纹及膝袜 / 条纹长袜 / 过膝袜 / 横条纹长筒袜 / 縞ニーソ"
+    },
+    {
+      "en": "suneate",
+      "zh": "臑当",
+      "rating": "g",
+      "count": 777,
+      "desc": "用铁片连缀成、绑在小腿上的日本传统胫甲",
+      "kw": "胫甲 / 护胫 / 小腿甲 / 日式胫甲 / 日本护胫 / 胫当 / 铠甲 / 护腿"
+    },
+    {
+      "en": "thigh belt",
+      "zh": "大腿皮带",
+      "rating": "g",
+      "count": 12281,
+      "desc": "用作大腿环的皮带。",
+      "kw": "大腿环 / 腿环皮带 / 大腿束带 / 皮带腿环 / 大腿带 / 配饰 / 腿饰"
+    },
+    {
+      "en": "thigh bow",
+      "zh": "大腿蝴蝶结",
+      "rating": "g",
+      "count": 1093,
+      "desc": "系在大腿上的装饰蝴蝶结，常连在大腿环上。",
+      "kw": "腿环蝴蝶结 / 大腿装饰蝴蝶结 / 大腿上蝴蝶结 / 系腿蝴蝶结 / 腿部蝴蝶结 / 蝴蝶结 / 腿饰 / 配饰"
+    },
+    {
+      "en": "thighhighs over pantyhose",
+      "zh": "过膝袜套连裤袜",
+      "rating": "s",
+      "count": 2022,
+      "desc": "在连裤袜外面再穿穿过膝袜",
+      "kw": "裤袜外穿过膝袜 / 连裤袜外穿过膝袜 / 过膝袜叠穿连裤袜 / 过膝袜套裤袜 / 过膝袜加连裤袜 / 裤袜加过膝袜 / 过膝袜外穿 / 连裤袜上穿过膝袜"
+    },
+    {
+      "en": "thighhighs under boots",
+      "zh": "靴内过膝袜",
+      "rating": "s",
+      "count": 9573,
+      "desc": "在靴子里面穿着过膝袜",
+      "kw": "靴子内穿过膝袜 / 长靴配过膝袜 / 靴下过膝袜 / 靴子与过膝袜 / 过膝袜 / 袜子 / 服装"
+    },
+    {
+      "en": "torn bodystocking",
+      "zh": "撕裂的连体袜",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1977,
+      "desc": "被撕破或撕裂的连体丝袜。",
+      "kw": "撕破的连体袜 / 破洞连体袜 / 破裂连体袜 / 撕裂连体衣 / 破损连体袜 / 撕烂的连体袜 / 破损的连体袜 / 连体袜"
+    },
+    {
+      "en": "two-tone leggings",
+      "zh": "双色打底裤",
+      "rating": "g",
+      "count": 567,
+      "desc": "由两种颜色构成的打底裤",
+      "kw": "双色紧身裤 / 拼色打底裤 / 两色打底裤 / 服装 / 裤子"
+    },
+    {
+      "en": "two-tone pantyhose",
+      "zh": "双色连裤袜",
+      "rating": "s",
+      "count": 902,
+      "desc": "由两种颜色构成的连裤袜",
+      "kw": "两色连裤袜 / 双色丝袜 / 双色裤袜 / 双色连裤丝袜 / 连裤袜 / 袜子"
+    },
+    {
+      "en": "two-tone socks",
+      "zh": "双色袜子",
+      "rating": "g",
+      "count": 694,
+      "desc": "由两种颜色组成的袜子",
+      "kw": "双色袜 / 两色袜子 / 二色袜子 / 拼色袜子 / 双色长袜 / 双色短袜 / 两款颜色袜子 / 袜子"
+    },
+    {
+      "en": "two-tone thighhighs",
+      "zh": "双色过膝袜",
+      "rating": "s",
+      "count": 2964,
+      "desc": "由两种基本颜色构成的过膝袜。",
+      "kw": "双色长筒袜 / 两色过膝袜 / 双色大腿袜 / 双色膝上袜 / 二色过膝袜 / 过膝袜 / 袜子"
+    },
+    {
+      "en": "unworn legwear",
+      "zh": "未穿着的腿饰袜套",
+      "rating": "s",
+      "count": 585,
+      "desc": "袜子、过膝袜或连裤袜处于未穿着的状态。请使用以下更具体的标签。参见“missing legwear”用于角色通常穿戴的腿部衣物完全缺失的情况。",
+      "kw": "未穿的腿袜 / 腿部穿戴 / 袜子 / 过膝袜"
+    },
+    {
+      "en": "unworn pantyhose",
+      "zh": "未穿的连裤袜",
+      "rating": "s",
+      "count": 618,
+      "desc": "可见但无人穿着的连裤袜。",
+      "kw": "脱下的连裤袜 / 没穿的连裤袜 / 闲置连裤袜 / 连裤袜未穿着 / 脱掉连裤袜 / 被脱下的连裤袜 / 连裤袜脱下状态 / 服装 / pantyhose removed"
+    },
+    {
+      "en": "unworn socks",
+      "zh": "未穿的袜子",
+      "rating": "g",
+      "count": 3659,
+      "desc": "画面中出现但无人穿着的袜子。",
+      "kw": "脱下的袜子 / 没穿袜子 / 无人穿着的袜子 / 闲置袜子 / 摘下的袜子 / 袜子 / 服饰 / socks off / socks removed"
+    },
+    {
+      "en": "unworn thighhighs",
+      "zh": "未穿的过膝袜",
+      "rating": "s",
+      "count": 1217,
+      "desc": "画面中出现但无人穿着的过膝袜",
+      "kw": "脱下的过膝袜 / 闲置过膝袜 / 脱掉的过膝袜 / 未穿过膝袜 / 没穿上的过膝袜 / 过膝袜 / 服装 / thighhighs removed"
+    },
+    {
+      "en": "vertical-striped pantyhose",
+      "zh": "竖条纹连裤袜",
+      "rating": "s",
+      "count": 3966,
+      "desc": "带竖条纹的连裤袜",
+      "kw": "垂直条纹连裤袜 / 竖纹丝袜 / 直条纹裤袜 / 连裤袜 / 袜子"
+    },
+    {
+      "en": "vertical-striped socks",
+      "zh": "竖条纹袜子",
+      "rating": "g",
+      "count": 1647,
+      "desc": "带竖条纹的袜子",
+      "kw": "垂直条纹袜子 / 纵向条纹袜 / 竖条袜 / 竖纹袜 / 竖向条纹袜 / 带竖条纹的袜子 / 竖条纹袜 / 袜子 / vertical-striped kneehighs"
+    },
+    {
+      "en": "vertical-striped thighhighs",
+      "zh": "竖条纹过膝袜",
+      "rating": "s",
+      "count": 11857,
+      "desc": "带竖条纹图案的过膝袜或长筒袜。",
+      "kw": "竖纹过膝袜 / 竖条过膝袜 / 纵向条纹过膝袜 / 竖条纹长筒袜 / 竖纹长筒袜 / 竖条长筒袜 / 过膝袜 / 条纹袜"
+    },
+    {
+      "en": "weapon in garters",
+      "zh": "吊袜带中的武器",
+      "rating": "s",
+      "count": 845,
+      "desc": "用大腿绑带或长袜固定在大腿内侧的武器。",
+      "kw": "大腿绑带中的武器 / 袜带中的武器 / 腿环中的武器 / 大腿袜中的武器 / 长袜中的武器 / 吊带袜中的武器 / 武器插在袜带里 / 吊袜带武器"
+    },
+    {
+      "en": "wet pantyhose",
+      "zh": "湿连裤袜",
+      "rating": "s",
+      "count": 622,
+      "desc": "被水浸湿的连裤袜",
+      "kw": "湿透的连裤袜 / 湿裤袜 / 浸湿的丝袜 / 湿掉的连裤袜 / 湿身连裤袜 / 连裤袜 / 湿衣"
+    },
+    {
+      "en": "wet thighhighs",
+      "zh": "湿透的过膝袜",
+      "rating": "s",
+      "count": 551,
+      "desc": "被水浸湿的过膝袜",
+      "kw": "湿过膝袜 / 湿透过膝袜 / 湿大腿袜 / 湿润过膝袜 / 湿透的过膝长袜 / 被水浸湿的过膝袜 / 湿过膝长袜 / 过膝袜"
+    },
+    {
+      "en": "white garter belt",
+      "zh": "白色吊袜带",
+      "rating": "s",
+      "count": 2757,
+      "desc": "用于固定长筒袜的白色吊袜带",
+      "kw": "白色吊带袜带 / 白色袜带 / 白色吊带 / 白吊袜带 / 吊袜带 / 内衣"
+    },
+    {
+      "en": "white garter straps",
+      "zh": "白色吊袜带条",
+      "rating": "s",
+      "count": 5611,
+      "desc": "白色的吊袜带条，用于连接袜子和内衣。",
+      "kw": "白色吊袜带 / 白色袜带 / 白吊袜带 / 白色吊带 / 白袜带 / 吊袜带 / 内衣配件"
+    },
+    {
+      "en": "white leg warmers",
+      "zh": "白色腿套",
+      "rating": "g",
+      "count": 7584,
+      "desc": "套在小腿上的白色针织保暖套，不覆盖脚掌。",
+      "kw": "白色腿袜套 / 白色护腿 / 白色暖腿套 / 白色毛线腿套 / 白色针织腿套 / 白色袜套 / 白色腿暖 / 白色护腿袜"
+    },
+    {
+      "en": "white leggings",
+      "zh": "白色紧身裤",
+      "rating": "g",
+      "count": 3275,
+      "desc": "白色的紧身打底裤。",
+      "kw": "白色打底裤 / 白色内搭裤 / 白色踩脚裤 / 白色弹力裤 / 裤子 / 下装"
+    },
+    {
+      "en": "white pantyhose",
+      "zh": "白色连裤袜",
+      "rating": "s",
+      "count": 93635,
+      "desc": "包裹双腿与脚部、连至腰部的白色薄袜",
+      "kw": "白丝 / 白色丝袜 / 白连裤袜 / 白裤袜 / 白色裤袜 / 白色连裤丝袜 / 奶白丝袜 / 纯白丝袜 / 白タイツ / 白ストッキング / しろたいちゅ❤️"
+    },
+    {
+      "en": "white socks",
+      "zh": "白袜",
+      "rating": "g",
+      "count": 232370,
+      "desc": "白色的短袜或及膝袜",
+      "kw": "白色袜子 / 白袜子 / 白色短袜 / 白短袜 / 白色长袜 / 白长袜 / 白色及膝袜 / 白及膝袜 / white kneehighs / 白靴下 / 白ソックス / 白ハイソックス"
+    },
+    {
+      "en": "white thighhighs",
+      "zh": "白色过膝袜",
+      "rating": "s",
+      "count": 360670,
+      "desc": "白色的过膝长袜，常称为白丝。",
+      "kw": "白丝 / 白色过膝长袜 / 白过膝袜 / 白色长筒袜 / 白长筒袜 / 白色长袜 / 白色大腿袜 / 过膝袜 / 白丝袜 / 白ニーソックス / 白ニーソ / 白ニーハイ"
+    },
+    {
+      "en": "yellow pantyhose",
+      "zh": "黄色连裤袜",
+      "rating": "s",
+      "count": 2106,
+      "desc": "黄色连裤袜，包裹双腿和脚部并连至腰部",
+      "kw": "黄丝 / 黄色裤袜 / 黄连裤袜 / 黄色丝袜 / 黄丝袜 / 连裤袜 / 袜子"
+    },
+    {
+      "en": "yellow socks",
+      "zh": "黄色袜子",
+      "rating": "g",
+      "count": 4155,
+      "desc": "黄色的袜子或及膝袜。",
+      "kw": "黄袜 / 黄色及膝袜 / 黄及膝袜 / 黄色短袜 / 黄色长袜 / 袜子 / 腿部服饰 / yellow kneehighs"
+    },
+    {
+      "en": "yellow thighhighs",
+      "zh": "黄色过膝袜",
+      "rating": "s",
+      "count": 5363,
+      "desc": "过膝、及大腿的黄色长袜",
+      "kw": "黄色大腿袜 / 黄过膝袜 / 黄色长筒袜 / 黄色过膝长袜 / 黄大腿袜 / 袜子 / 腿饰"
+    }
+  ]
+}

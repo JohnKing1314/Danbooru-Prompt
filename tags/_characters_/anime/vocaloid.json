@@ -1,0 +1,135 @@
+{
+  "id": "vocaloid",
+  "name": "VOCALOID",
+  "parentId": "games",
+  "order": 12,
+  "file": "games/vocaloid.json",
+  "characters": [
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "初音未来",
+      "tag": "hatsune miku",
+      "charZh": "初音未来（VOCALOID）",
+      "auto": "teal hair|青绿发;twintails|双马尾;blue eyes|蓝瞳;detached sleeves|分离袖;skirt|短裙",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "镜音铃",
+      "tag": "kagamine rin",
+      "charZh": "镜音铃（VOCALOID）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳;hair bow|蝴蝶结发饰",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "镜音连",
+      "tag": "kagamine len",
+      "charZh": "镜音连（VOCALOID）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "巡音流歌",
+      "tag": "megurine luka",
+      "charZh": "巡音流歌（VOCALOID）",
+      "auto": "pink hair|粉发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "KAITO",
+      "tag": "kaito (vocaloid)",
+      "charZh": "KAITO（VOCALOID）",
+      "auto": "blue hair|蓝发;short hair|短发;blue eyes|蓝瞳;scarf|围巾",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "MEIKO",
+      "tag": "meiko (vocaloid)",
+      "charZh": "MEIKO（VOCALOID）",
+      "auto": "brown hair|棕发;short hair|短发;brown eyes|棕瞳",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "GUMI",
+      "tag": "gumi (vocaloid)",
+      "charZh": "GUMI（VOCALOID）",
+      "auto": "green hair|绿发;short hair|短发;green eyes|绿瞳",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "重音teto",
+      "tag": "kasane teto",
+      "charZh": "重音teto（VOCALOID）",
+      "auto": "red hair|红发;twintails|双马尾;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "IA",
+      "tag": "ia (vocaloid)",
+      "charZh": "IA（VOCALOID）",
+      "auto": "white hair|白发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "v flower",
+      "tag": "v flower",
+      "charZh": "v flower（VOCALOID）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "结月缘",
+      "tag": "yuzuki yukari",
+      "charZh": "结月缘（VOCALOID）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "神威乐步",
+      "tag": "gakupo (vocaloid)",
+      "charZh": "神威乐步（VOCALOID）",
+      "auto": "purple hair|紫发;long hair|长发;samurai|武士",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "音街鳗",
+      "tag": "una (vocaloid)",
+      "charZh": "音街鳗（VOCALOID）",
+      "auto": "blonde hair|金发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "VOCALOID",
+      "gameTag": "vocaloid",
+      "name": "东北俊子",
+      "tag": "zunko (vocaloid)",
+      "charZh": "东北俊子（VOCALOID）",
+      "auto": "green hair|绿发;long hair|长发",
+      "subName": ""
+    }
+  ]
+}

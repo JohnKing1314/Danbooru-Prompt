@@ -1,0 +1,1821 @@
+{
+  "id": "composition",
+  "name": "构图",
+  "icon": "🖼",
+  "parentId": "style_group",
+  "level": 2,
+  "order": 3,
+  "file": "style_group/style_group_composition.json",
+  "updatedAt": "2026-11-22T12:39:36.683Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "wide establishing shot",
+      "zh": "全景建立镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "over-the-shoulder shot",
+      "zh": "过肩镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "eye-level shot",
+      "zh": "平视镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "key visual composition",
+      "zh": "主视觉构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "four-panel layout",
+      "zh": "四格版面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "comic page layout",
+      "zh": "漫画分页",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "character turnaround",
+      "zh": "角色三视图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "reference sheet layout",
+      "zh": "设定集版式",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "concept art sheet",
+      "zh": "概念设定图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "storyboard frame",
+      "zh": "分镜画面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "upper body",
+      "zh": "上半身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1233411,
+      "desc": "从腰部/肚脐以上取景的人物构图",
+      "kw": "半身 / 上身 / 上身特写 / 上半身特写 / 腰部以上 / 半身像 / 胸像 / 半身构图 / bust / 中近景镜头"
+    },
+    {
+      "en": "lower body",
+      "zh": "下半身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8371,
+      "desc": "画面聚焦腰部以下的下半身",
+      "kw": "腿部特写 / 下半身构图 / 腿部焦点 / 身体部位 / legs only"
+    },
+    {
+      "en": "cowboy shot",
+      "zh": "七分身构图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 878908,
+      "desc": "从大腿以上取景，腿部在画面下方截断",
+      "kw": "大腿以上构图 / 牛仔镜头 / 七分身 / 七分身镜头 / 中景 / 构图 / 中景镜头"
+    },
+    {
+      "en": "full body",
+      "zh": "全身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1325530,
+      "desc": "角色全身完整入镜并占据画面主要部分",
+      "kw": "全身像 / 全身图 / 全身立绘 / 完整全身 / 全身照 / 全身入镜 / 整个人物 / 全身画面 / 全景镜头 / 全身绘 / 全身絵"
+    },
+    {
+      "en": "close-up",
+      "zh": "特写",
+      "rating": "g",
+      "nsfw": false,
+      "count": 65182,
+      "desc": "被摄主体非常靠近镜头的特写",
+      "kw": "大特写 / 近景 / 近距离 / 面部特写 / 局部特写 / 特写镜头 / 大头特写 / 贴近拍摄 / closeup / close up"
+    },
+    {
+      "en": "extreme close-up",
+      "zh": "极端特写",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "medium shot",
+      "zh": "中景",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wide shot",
+      "zh": "远景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24551,
+      "desc": "人物全身可见但占画面比例很小的远景构图。",
+      "kw": "全景镜头 / 远景镜头 / 大远景 / 广角镜头 / 广角 / 摄影视角 / 大全景镜头"
+    },
+    {
+      "en": "very wide shot",
+      "zh": "大远景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2313,
+      "desc": "主体极小、几乎不可辨别的超远景构图",
+      "kw": "超远景 / 极远镜头 / 超远镜头 / 超远景构图 / 极远景镜头 / 超远距离镜头 / 极大远景 / 远景"
+    },
+    {
+      "en": "long shot",
+      "zh": "长镜头构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "establishing shot",
+      "zh": "场景全景",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "from front",
+      "zh": "正面视角",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "from side",
+      "zh": "侧面视角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 350320,
+      "desc": "从侧面观察角色或主体的视角。",
+      "kw": "侧面 / 侧视 / 侧身 / 侧颜 / 横颜 / 侧面构图 / 侧视图 / side / side view / viewed from side / 从侧面"
+    },
+    {
+      "en": "from behind",
+      "zh": "背面视角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 338383,
+      "desc": "从被摄对象背后观察的视角。",
+      "kw": "背影 / 背面 / 后视图 / 从背后看 / 身后视角 / 从后方 / 背后视角 / viewed from behind / back turned / back view / from back"
+    },
+    {
+      "en": "from above",
+      "zh": "俯视视角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 150331,
+      "desc": "从上方俯视被摄对象的视角。",
+      "kw": "俯瞰 / 从上方看 / 鸟瞰 / 高角度 / 自上而下视角 / 顶视图 / 俯视图 / view from above / aerial view / viewed from above / 从上方"
+    },
+    {
+      "en": "from below",
+      "zh": "仰视视角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 123147,
+      "desc": "从下方向上仰视角色的视角",
+      "kw": "仰视角 / 低角度 / 从下往上 / 仰视构图 / 由下往上视角 / 低机位 / 视角 / view from below / low angle / viewed from below / 从下面"
+    },
+    {
+      "en": "dutch angle",
+      "zh": "倾斜构图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 166228,
+      "desc": "画面倾斜取景的荷兰角",
+      "kw": "倾斜视角 / 倾斜角度 / 荷兰角 / 德国角 / 斜角 / 倾斜取景 / 荷式仰角 / ダッチアングル"
+    },
+    {
+      "en": "straight-on",
+      "zh": "平视视角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 64988,
+      "desc": "人物以0度角正对观看者、头身髋均朝向正面",
+      "kw": "正面 / 正面朝向 / 正对镜头 / 正对观众 / 正脸 / 绝对正面 / 正视视角 / 正面角度 / head-on / 从正面 / 真正面 / 直视"
+    },
+    {
+      "en": "three-quarter view",
+      "zh": "四分之三侧面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bird's-eye view",
+      "zh": "鸟瞰视角",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "worm's-eye view",
+      "zh": "虫眼视角",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "high angle",
+      "zh": "高角度",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "low angle",
+      "zh": "低角度",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "eye level",
+      "zh": "视平线高度",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "aerial view",
+      "zh": "空中视角",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "top-down view",
+      "zh": "正俯视",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "scenery",
+      "zh": "风景构图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 76445,
+      "desc": "着重描绘场景或景观、淡化人物的图像",
+      "kw": "风景图 / 场景 / 景观 / 背景 / 风景画 / 环境 / 风光 / 景色 / scenic / 風景 / ファンタジー風景 / 背景イラスト"
+    },
+    {
+      "en": "landscape",
+      "zh": "横向构图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10437,
+      "desc": "森林山野湖泊等自然景色为主的画面，通常有地平线。",
+      "kw": "风景 / 景观 / 自然景色 / 山水风景 / 野外风光 / 背景 / 景観 / 风景画 / 風景画"
+    },
+    {
+      "en": "portrait orientation",
+      "zh": "纵向构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "square format",
+      "zh": "方形构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "panoramic",
+      "zh": "全景画幅",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cinematic framing",
+      "zh": "电影式构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "rule of thirds",
+      "zh": "三分法构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "centered composition",
+      "zh": "中心构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "symmetrical composition",
+      "zh": "对称构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "asymmetrical composition",
+      "zh": "非对称构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "diagonal composition",
+      "zh": "对角线构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "golden ratio",
+      "zh": "黄金比例构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "negative space",
+      "zh": "留白构图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1850,
+      "desc": "画面中刻意留白、无物体的区域",
+      "kw": "留白 / 画面留白 / 空白区域 / 负形 / 留白区域 / 构图 / 背景 / 余白"
+    },
+    {
+      "en": "foreground",
+      "zh": "前景",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "depth layers",
+      "zh": "层次纵深",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "silhouette",
+      "zh": "剪影构图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23583,
+      "desc": "只有轮廓、内部无细节的剪影。",
+      "kw": "轮廓 / 黑影 / 逆光剪影 / 黑色剪影 / 人影 / 影子轮廓 / 投影 / 艺术 / シルエット"
+    },
+    {
+      "en": "framing",
+      "zh": "框景构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "head out of frame",
+      "zh": "头部出框",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29866,
+      "desc": "头部被裁出画面但躯干在框内，强调躯干",
+      "kw": "头被裁出画面 / 头部裁切 / 头出画面 / 裁掉头部 / 头部不在画框内 / 构图 / 裁剪 / cropped head / eyes out of frame / 目元より下で切り出すとエロいらしい / 目元より下で切り出すとエ口いらしい"
+    },
+    {
+      "en": "feet out of frame",
+      "zh": "脚部出框",
+      "rating": "g",
+      "nsfw": false,
+      "count": 246083,
+      "desc": "双脚被裁出画面但膝盖仍在画面内",
+      "kw": "脚在画外 / 双脚在画外 / 脚在画面外 / 裁脚 / 脚被裁掉 / 双脚被裁 / 脚部被裁 / 小全景镜头"
+    },
+    {
+      "en": "cropped",
+      "zh": "局部裁切",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16159,
+      "desc": "原图被裁切后只剩局部的图片",
+      "kw": "裁剪 / 截切 / 裁图 / 裁剪图 / 切图 / 抠图"
+    },
+    {
+      "en": "close framing",
+      "zh": "紧凑构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wide framing",
+      "zh": "宽松构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "solo",
+      "zh": "单人构图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7232464,
+      "desc": "画面中只有一个人物",
+      "kw": "单人图 / 单独一人 / 一个人 / 单独人物 / 单角色 / 独自一人 / 单一人 / 单人画面 / female solo / solo female / ソロ / ひとり"
+    },
+    {
+      "en": "duo",
+      "zh": "双人构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "group",
+      "zh": "群像构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "multiple views",
+      "zh": "多视角并列",
+      "rating": "g",
+      "nsfw": false,
+      "count": 281808,
+      "desc": "同一角色多张不同角度/服装/姿势的图拼成一张。",
+      "kw": "多视图 / 三视图 / 摸鱼页 / 组合页 / 多角度图 / 多视角图 / 角色设定图 / 多面图 / multiple angles / 3面図 / 三面図"
+    },
+    {
+      "en": "character sheet",
+      "zh": "角色设定图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "reference sheet",
+      "zh": "参考设定图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23291,
+      "desc": "从多个角度展示角色或物体设计的设定图，常附有细节注释。",
+      "kw": "设定图 / 设定画 / 人设图 / 角色设定 / 设定资料 / 参考图 / 设计图 / 多角度设定图 / character sheet / design sheet / settei / referencesheet"
+    },
+    {
+      "en": "collage layout",
+      "zh": "拼贴排版",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "comic panel",
+      "zh": "漫画分格",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "split screen",
+      "zh": "分屏构图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3050,
+      "desc": "画面被一条线分成两半的构图。",
+      "kw": "分屏画面 / 分割画面 / 画面分割 / 左右分屏 / 双画面 / 分格画面 / 分屏显示 / 分镜"
+    },
+    {
+      "en": "pov",
+      "zh": "第一人称视角",
+      "rating": "s",
+      "nsfw": false,
+      "count": 208218,
+      "desc": "观看者第一人称视角的构图",
+      "kw": "主观视角 / 主视角 / 一人称视角 / 第一人视角 / 主观视点 / 第一人称视点 / 主角视角 / 观看者视角 / male pov / 一人称视点 / 主観视点 / 自分视点"
+    },
+    {
+      "en": "over-the-shoulder",
+      "zh": "过肩视角",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "facing viewer",
+      "zh": "面向观者",
+      "rating": "g",
+      "nsfw": false,
+      "count": 107099,
+      "desc": "闭眼或视线他处时面朝观者",
+      "kw": "面朝观众 / 面向观众 / 正对观者 / 面朝外 / 面向画面外 / 朝前 / 正面 / 视角"
+    },
+    {
+      "en": "isometric view",
+      "zh": "等距视角",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "forced perspective",
+      "zh": "强制透视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 305,
+      "desc": "利用远近比例制造错觉的摄影/绘画技法",
+      "kw": "错位摄影 / 透视错觉 / 远近错觉 / 错位透视 / 透视 / 摄影技巧"
+    },
+    {
+      "en": "vanishing point",
+      "zh": "消失点构图",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1582,
+      "desc": "画面线条向中心一点汇聚的透视构图",
+      "kw": "消失点透视 / 透视消失点 / 汇聚点 / 中心消失点 / 灭点 / 透视点 / 透视"
+    },
+    {
+      "en": "leading lines",
+      "zh": "引导线构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "frame within a frame",
+      "zh": "画中画构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "subject in center",
+      "zh": "主体居中",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "off-center subject",
+      "zh": "主体偏移",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "full scene",
+      "zh": "完整场景",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "distant figure",
+      "zh": "远景人物",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "album cover",
+      "zh": "专辑封面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10296,
+      "desc": "音乐专辑或单曲的封面。",
+      "kw": "唱片封面 / 音乐专辑封面 / CD封面 / 专辑封面图 / 音乐封面 / 封面 / 音乐 / album / cd cover / disc cover / cdアルバム"
+    },
+    {
+      "en": "clean composition",
+      "zh": "干净构图",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "game ui",
+      "zh": "游戏界面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "inverted",
+      "zh": "上下颠倒",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "magazine cover",
+      "zh": "杂志封面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6339,
+      "desc": "杂志封面或仿制的杂志封面",
+      "kw": "期刊封面 / 杂志封皮 / 杂志封面页 / 封面图 / 封面 / 布局"
+    },
+    {
+      "en": "movie poster",
+      "zh": "电影海报",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "speed lines",
+      "zh": "速度线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14758,
+      "desc": "表现高速运动的线条，常环绕角色或整个背景",
+      "kw": "运动线 / 疾速线 / 动感线条 / 高速线 / 速度线条 / 快速移动线 / 动感线 / 动态线"
+    },
+    {
+      "en": "weightless",
+      "zh": "失重",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "perspective",
+      "zh": "透视画法",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9975,
+      "desc": "强调三维纵深、采用强烈透视角度作画",
+      "kw": "透视感 / 强烈透视 / 空间透视 / 三点透视 / 鱼眼透视 / 极致透视 / 透视角度 / パース"
+    },
+    {
+      "en": "cross-section",
+      "zh": "断面图",
+      "rating": "q",
+      "nsfw": true,
+      "count": 19234,
+      "desc": "展示物体内部结构或性交内部解剖的剖面图",
+      "kw": "截面图 / 剖面图 / 解剖图 / 内部结构图 / 截面示意 / 切面 / 内部视图 / crosssection / crossection / cross section / 断面"
+    },
+    {
+      "en": "x-ray",
+      "zh": "透视",
+      "rating": "q",
+      "nsfw": true,
+      "count": 18169,
+      "desc": "像X光一样看到物体内部，常用于性交内部场景。",
+      "kw": "X光透视 / 截面透视 / 内部透视 / 透视图 / 透视效果 / 看到内部 / 剖面透视 / X光 / xray / x ray / 截面 / 透視"
+    },
+    {
+      "en": "phallic symbol",
+      "zh": "男根象征",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2836,
+      "desc": "形状或含义暗示阴茎的无害物品，如香蕉、蘑菇、茄子等。",
+      "kw": "阴茎象征 / 阴茎暗示 / 阳具隐喻 / 形状像阴茎 / 像鸡鸡 / 性暗示物体 / 阳物象征 / 鸡鸡形状 / phallic object"
+    },
+    {
+      "en": "yonic symbol",
+      "zh": "女性象征符号",
+      "rating": "q",
+      "nsfw": true,
+      "count": 249,
+      "desc": "暗指女性生殖器的无害物体或手势",
+      "kw": "女阴象征 / 阴门象征 / 女性生殖器象征 / 模拟性行为 / 象征符号"
+    },
+    {
+      "en": "portrait",
+      "zh": "肖像",
+      "rating": "g",
+      "nsfw": false,
+      "count": 149316,
+      "desc": "以角色面部为主的构图，通常不越过胸部。",
+      "kw": "头像 / 大头 / 肖像画 / 脸部特写 / 面部构图 / 胸部以上 / 近景头像 / headshot (composition) / 似颜绘 / 近特写镜头 / ポートレート"
+    },
+    {
+      "en": "profile",
+      "zh": "侧脸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 186976,
+      "desc": "只露出角色脸部一侧的侧面像。",
+      "kw": "侧面 / 侧颜 / 侧脸照 / 半侧面 / 视角 / in profile / 横颜 / 横顔"
+    },
+    {
+      "en": "drama layer",
+      "zh": "戏剧图层",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18
+    },
+    {
+      "en": "text focus",
+      "zh": "文字焦点",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20095,
+      "desc": "文字是画面的主要部分或唯一重点。",
+      "kw": "文字为主 / 突出文字 / 大字报 / 文字核心 / 文本主体 / 文字 / text"
+    },
+    {
+      "en": "chibi inset",
+      "zh": "Q版插入",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34596,
+      "desc": "非Q版画面中插入的Q版小图，常作搞笑用",
+      "kw": "Q版插图 / Q版小插图 / Q版插画 / Q版小插画 / 插入的Q版 / Q版小图插入 / 卡通 / 小图"
+    },
+    {
+      "en": "imageboard colors",
+      "zh": "图床板配色",
+      "rating": "g",
+      "nsfw": false,
+      "count": 587,
+      "desc": "模仿4chan等贴图版底色的背景配色，常用来模拟透明背景",
+      "kw": "图像板颜色 / 贴图版颜色 / 匿名版配色 / 贴图板配色 / 匿名论坛配色 / 配色方案"
+    },
+    {
+      "en": "zoom layer",
+      "zh": "缩放图层",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41832,
+      "desc": "插画中局部放大的附加图层。",
+      "kw": "放大图层 / 局部放大 / 特写放大层 / 放大特写图层 / 缩放层 / 特效 / 图像效果 / zoomlayer / 虚影"
+    },
+    {
+      "en": "clothes on and off",
+      "zh": "穿脱对比",
+      "rating": "q",
+      "nsfw": true,
+      "count": 794,
+      "desc": "同一角色同时展示穿衣和裸体状态",
+      "kw": "穿衣脱衣对比 / 穿衣与裸体对比 / 着衣与脱衣对比 / 穿衣和裸体并存 / 穿衣与脱光对比 / 穿脱并存 / 穿脱衣服对比图 / 多视角 / clothes on/clothes off / dressed and undressed"
+    },
+    {
+      "en": "food focus",
+      "zh": "美食特写",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17475,
+      "desc": "以食物或饮品为画面主体的作品。",
+      "kw": "食物为主 / 美食插画 / 食物主体 / 美食图 / 美食画 / 食物焦点 / 食物 / drink focus / 美食 / なにこれ美味しそう / 食べ物"
+    },
+    {
+      "en": "foreshortening",
+      "zh": "透视收缩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 71828,
+      "desc": "把物体画得比实际更短的透视技法，表现特殊角度下的视觉扭曲。",
+      "kw": "前缩透视 / 透视前缩 / 前后缩法 / 短缩透视 / 透视变形 / 透视法 / 技法"
+    },
+    {
+      "en": "no humans",
+      "zh": "无人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 242485,
+      "desc": "画面中没有人类或类人角色",
+      "kw": "没有人 / 不含人类 / 没有人类 / 无人物 / 无人出镜 / 画面无人 / 无人场景 / no human / 誰もいない"
+    },
+    {
+      "en": "panorama",
+      "zh": "全景",
+      "rating": "g",
+      "nsfw": false,
+      "count": 148,
+      "desc": "画面呈现超出人眼单次视域的宽广视野，常有透视变形。",
+      "kw": "全景图 / 宽景 / 全景视角 / 广角全景 / 环景 / 全景照片 / 风景 / 摄影"
+    },
+    {
+      "en": "the last supper",
+      "zh": "最后的晚餐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 124,
+      "desc": "达·芬奇绘于米兰圣玛利亚感恩教堂的壁画",
+      "kw": "最后的晚餐（达芬奇） / 耶稣最后的晚餐 / 绘画 / 宗教艺术"
+    },
+    {
+      "en": "1koma",
+      "zh": "单格漫画",
+      "rating": "g",
+      "count": 6824,
+      "desc": "只有一格的单幅漫画",
+      "kw": "单格 / 一格漫画 / 单幅漫画 / 一页漫画 / 漫画 / 单幅 / 1panel / 1格漫画 / 1コマ / 1コマ漫画"
+    },
+    {
+      "en": "2koma",
+      "zh": "二格漫画",
+      "rating": "g",
+      "count": 52693,
+      "desc": "由两格组成的连续漫画",
+      "kw": "两格漫画 / 双格漫画 / 二格 / 两格 / 2格漫画 / 二格漫 / 两格漫 / 漫画 / 2コマ / 即オチ2コマ"
+    },
+    {
+      "en": "3koma",
+      "zh": "三格漫画",
+      "rating": "g",
+      "count": 27971,
+      "desc": "三格组成的连续漫画，通常为竖向排列。",
+      "kw": "三格连环画 / 3格漫画 / 三格条漫 / 三段漫画 / 三格小剧场 / 漫画 / 分格 / 3コマ"
+    },
+    {
+      "en": "4koma",
+      "zh": "四格漫画",
+      "rating": "g",
+      "count": 119560,
+      "desc": "由四格组成的连续漫画",
+      "kw": "四格 / 4格漫画 / 四格漫 / 四格短漫 / 漫画 / 日漫风格 / 4coma / yonkoma / 4コマ漫画 / 4コマ"
+    },
+    {
+      "en": "5koma",
+      "zh": "五格漫画",
+      "rating": "g",
+      "count": 4825,
+      "desc": "由五格组成的连续漫画",
+      "kw": "五格短漫 / 五格 / 5格漫画 / 五格连环画 / 漫画 / 分镜 / 5コマ"
+    },
+    {
+      "en": "a world underneath",
+      "zh": "表面之下的世界",
+      "rating": "g",
+      "count": 559,
+      "desc": "衣物或头发表面下显现另一个世界。",
+      "kw": "表层下的世界 / 底下的世界 / 里世界 / 下层世界 / 内部世界 / 地下世界 / 场景"
+    },
+    {
+      "en": "absurdly detailed composition",
+      "zh": "超精细构图",
+      "rating": "g",
+      "count": 3337,
+      "desc": "塞满大量角色与细节的超精细构图",
+      "kw": "极精细构图 / 复杂构图 / 高密度细节构图 / 细节爆炸构图 / 信息量巨大构图 / 极度精细构图 / 艺术风格 / 精细构图 / intricate composition / busy composition / cluttered composition"
+    },
+    {
+      "en": "age comparison",
+      "zh": "年龄对比",
+      "rating": "g",
+      "count": 2293,
+      "desc": "同一角色以不同年龄同框对比",
+      "kw": "年龄比较 / 不同年龄同框 / 年龄差对比 / 幼年成年对比 / 年龄变化对比 / 年龄对照 / 对比"
+    },
+    {
+      "en": "age progression",
+      "zh": "成长过程",
+      "rating": "g",
+      "count": 4630,
+      "desc": "同一画面中展示角色不同年龄阶段的变化。",
+      "kw": "成长图 / 年龄变化 / 年龄成长 / 成长记录 / 年龄进展 / 年龄渐变 / 年龄段展现 / 成長過程 / ageprogression / 急成长 / 成長過程"
+    },
+    {
+      "en": "anime screenshot inset",
+      "zh": "动画截图小窗",
+      "rating": "g",
+      "count": 891,
+      "desc": "画面中小窗嵌入的动画截图",
+      "kw": "动画截图嵌入 / 动画画面小窗 / 动画截图窗口 / 动画 / 截图 / 嵌入"
+    },
+    {
+      "en": "aqua border",
+      "zh": "水色边框",
+      "rating": "g",
+      "count": 520,
+      "desc": "画面带有水色（蓝绿色）边框",
+      "kw": "水蓝色边框 / 浅蓝绿色边框 / 水蓝边框 / 水色框 / 水色边线 / 天蓝边框"
+    },
+    {
+      "en": "arm out of frame",
+      "zh": "手臂伸出画框",
+      "rating": "g",
+      "count": 571,
+      "desc": "手臂伸出画面之外",
+      "kw": "手臂伸出画面 / 手伸出画框 / 手在画框外 / 手臂在画框外 / 手臂出框 / 手臂在画面外 / 构图 / 画面"
+    },
+    {
+      "en": "arms out of frame",
+      "zh": "手臂超出画框",
+      "rating": "g"
+    },
+    {
+      "en": "art program in frame",
+      "zh": "画面内绘画软件界面",
+      "rating": "g",
+      "count": 9479,
+      "desc": "画面中保留绘画软件界面元素。",
+      "kw": "绘画软件界面 / 带软件界面 / 画图软件界面 / 保留软件界面 / 截图带绘画软件 / 画框中的绘图软件 / 数字艺术 / 画中画"
+    },
+    {
+      "en": "art tools in frame",
+      "zh": "画面内绘画工具",
+      "rating": "g",
+      "count": 4696,
+      "desc": "画面中可见创作该作品所用工具的实拍图",
+      "kw": "画材入镜 / 绘画工具入镜 / 作画工具入镜 / 画面中有绘画工具 / 画材在画面中 / 画具入镜 / 绘画工具在画面内 / 画面内含画具"
+    },
+    {
+      "en": "artist's hand in frame",
+      "zh": "画师之手入镜",
+      "rating": "g",
+      "count": 681,
+      "desc": "实拍图中出现画师自己的手。",
+      "kw": "画师的手入镜 / 画师手部入镜 / 作者手入镜 / 画师自拍手 / 画面中出现画师的手 / 元艺术"
+    },
+    {
+      "en": "back cover",
+      "zh": "封底",
+      "rating": "g",
+      "count": 652,
+      "desc": "同人志或小说的封底",
+      "kw": "封底页 / 后封 / 书底 / 里表纸 / 书籍 / 封面"
+    },
+    {
+      "en": "black border",
+      "zh": "黑色边框",
+      "rating": "g",
+      "count": 26589,
+      "desc": "四周带黑色边框的图像",
+      "kw": "黑边 / 黑色框 / 黑边框 / 黑框 / 边框"
+    },
+    {
+      "en": "blue border",
+      "zh": "蓝色边框",
+      "rating": "g",
+      "count": 5079,
+      "desc": "图片四周为蓝色的边框。",
+      "kw": "蓝边框 / 蓝色边框线 / 蓝边 / 蓝色画框 / 边框 / 装饰 / 蓝色"
+    },
+    {
+      "en": "borderless panels",
+      "zh": "无边框分格",
+      "rating": "g",
+      "count": 2163,
+      "desc": "漫画分格之间无框线，以空隙分隔。",
+      "kw": "无框漫画格 / 无边框漫画分格 / 无框线分格 / 无边框漫画 / 无框分镜 / 漫画分镜 / 无边框 / 面板"
+    },
+    {
+      "en": "brown border",
+      "zh": "棕色边框",
+      "rating": "g",
+      "count": 2880,
+      "desc": "图片四周的棕色边框",
+      "kw": "棕框 / 棕色画框 / 棕色边缘 / 棕色相框 / 棕边框 / 边框 / 棕色"
+    },
+    {
+      "en": "cellphone photo",
+      "zh": "手机照片",
+      "rating": "g",
+      "count": 5473,
+      "desc": "手机屏幕上显示的照片",
+      "kw": "手机屏幕上的照片 / 手机显示的照片 / 手机屏幕照片 / 手机上的图片 / 手机内照片 / 手机拍摄 / 照片 / cellphone picture / スマホ差分"
+    },
+    {
+      "en": "character chart",
+      "zh": "角色一览图",
+      "rating": "g",
+      "count": 144,
+      "desc": "介绍作品多名角色信息的图表",
+      "kw": "角色表 / 人物关系图 / 角色介绍图 / 角色设定表 / 人物一览图 / 角色信息图 / 角色关系图 / 图表"
+    },
+    {
+      "en": "chart",
+      "zh": "图表",
+      "rating": "g",
+      "count": 2355,
+      "desc": "以表格或并列面板排列信息以便对照的图，如表情表、身高对照图。",
+      "kw": "对照表 / 表格 / 一览表 / 信息图 / 图示 / 对照面板 / 统计图表 / 数据可视化 / 填表 / 表 / 図"
+    },
+    {
+      "en": "clone",
+      "zh": "克隆",
+      "rating": "g",
+      "count": 9676,
+      "desc": "同一角色以完全相同形象同时出现多次",
+      "kw": "克隆体 / 复制体 / 分身 / 复制人 / 替身 / 科幻 / 复制 / clones"
+    },
+    {
+      "en": "column lineup",
+      "zh": "立绘排列",
+      "rating": "g",
+      "count": 3646,
+      "desc": "多个角色立绘排列成列或行，常有分隔线。",
+      "kw": "立绘并列 / 立绘列队 / 多角色立绘排布 / 立绘阵容 / 角色立绘排列 / 立绘队列 / 分栏排版 / 布局 / 多列排布"
+    },
+    {
+      "en": "convenient arm",
+      "zh": "遮住关键部位的手臂",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3390,
+      "desc": "用手臂或手恰好遮住敏感部位形成打码",
+      "kw": "遮羞手臂 / 用手臂遮挡 / 手臂遮挡关键部位 / 手臂遮点 / 手臂打码 / 手臂遮胸 / 方便的手臂 / 遮挡手臂"
+    },
+    {
+      "en": "convenient censoring",
+      "zh": "巧妙遮挡",
+      "rating": "q",
+      "nsfw": true,
+      "count": 51511,
+      "desc": "用蒸汽、衣物等碰巧位置遮挡私处",
+      "kw": "遮挡性打码 / 便利遮挡 / 刚好挡住 / 神遮挡 / 碰巧遮挡 / 巧妙打码 / 天然打码 / 便捷遮挡 / convenient censorship / 物件遮挡 / 見えない構図"
+    },
+    {
+      "en": "convenient head",
+      "zh": "头部遮挡",
+      "rating": "q",
+      "nsfw": true,
+      "count": 236,
+      "desc": "用另一角色的头部挡住私处，也包括兽耳。",
+      "kw": "用头遮挡私处 / 人头遮挡 / 头部挡私处 / 借头遮挡 / 用头遮羞 / 便利首 / 便利头 / 头部"
+    },
+    {
+      "en": "convenient leg",
+      "zh": "挡住关键部位的腿",
+      "rating": "q",
+      "nsfw": true,
+      "count": 9915,
+      "desc": "用腿挡住私处以避免露出的姿势",
+      "kw": "防守腿 / 铁壁腿 / 挡住私处的腿 / 防御腿 / 掩护腿 / 防走光腿 / 左腿遮挡 / 右腿遮挡 / ディフェンスに定評のある左足 / ディフェンスに定評のある右足 / 鉄壁の左足 / 鉄壁の右足"
+    },
+    {
+      "en": "convenient skirt",
+      "zh": "铁壁裙",
+      "rating": "s",
+      "count": 727,
+      "desc": "裙摆恰好遮住裆部形成打码的裙子",
+      "kw": "便利裙 / 铁壁短裙 / 打码裙 / 遮裆裙 / 齐B裙 / 绝对领域裙 / 裙子 / 服装 / teppeki skirt / magic skirt / 鉄壁スカート / ディフェンスに定評のあるスカート"
+    },
+    {
+      "en": "convenient tail",
+      "zh": "尾巴遮羞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2947,
+      "desc": "尾巴恰好遮住私处或乳头，避免露出",
+      "kw": "遮挡关键部位的尾巴 / 尾巴打码 / 尾巴遮挡 / 尾巴挡私处 / 用尾巴遮住私处 / 方便尾巴 / 尾巴圣光 / 尾巴遮点 / tail censor"
+    },
+    {
+      "en": "creature and personification",
+      "zh": "生物与拟人化",
+      "rating": "g",
+      "count": 4417,
+      "desc": "动物或生物与其拟人化形象同时出现",
+      "kw": "拟人化对比 / 兽人对比 / 本物与拟人 / 生物拟人同框 / 原型与拟人 / 动物和拟人化 / 生物和拟人化同框 / 生物与拟人 / 馬とウマ / けものとフレンズ"
+    },
+    {
+      "en": "cropped arms",
+      "zh": "手臂未画全",
+      "rating": "g",
+      "count": 2266,
+      "desc": "角色手臂未完整画出，非单纯出画",
+      "kw": "手臂不完整 / 手臂截断 / 手臂缺画 / 手臂未画完整 / 手臂画不全 / 手臂出画 / 构图"
+    },
+    {
+      "en": "cropped head",
+      "zh": "头部被截断",
+      "rating": "g",
+      "count": 2901,
+      "desc": "只画头部与颈部、与身体断开悬浮的构图。",
+      "kw": "断头构图 / 头身分离 / 悬浮头部 / 独立头部 / 头部悬浮 / 无身体头部 / 头部裁剪 / 仅头部"
+    },
+    {
+      "en": "cropped legs",
+      "zh": "腿部裁切",
+      "rating": "g",
+      "count": 74160,
+      "desc": "角色腿部在画面内被截断，与画面边缘留有空隙，注意与七分身和脚出画区分。",
+      "kw": "腿部出画 / 裁腿 / 腿部截断 / 截腿 / 腿被裁切 / 腿部被截 / 腿出画 / 画面截腿 / cropped feet"
+    },
+    {
+      "en": "cropped shoulders",
+      "zh": "肩部裁切",
+      "rating": "g",
+      "count": 9398,
+      "desc": "画面在颈部或肩上淡出，不画出躯干。",
+      "kw": "裁肩 / 肩部被裁掉 / 肩部淡出 / 肩部消失 / 只画到肩部 / 露肩 / 肩部 / 服装 / 肩下裁切"
+    },
+    {
+      "en": "cropped torso",
+      "zh": "腰部以上构图",
+      "rating": "g",
+      "count": 77705,
+      "desc": "只画到腰部以上，下身在画面内被截断",
+      "kw": "齐腰裁剪 / 半身像 / 只画上半身 / 腰部以上 / 齐腰裁切 / 下半身裁切 / 躯干截断 / 构图 / 下身裁切"
+    },
+    {
+      "en": "cut-in",
+      "zh": "切入",
+      "rating": "g",
+      "count": 804,
+      "desc": "被另一图像切入分割的动态效果",
+      "kw": "切入镜头 / 插入画面 / 分割切入 / 画面切入 / 切镜 / 拼贴切入 / 特写插画 / 游戏特写"
+    },
+    {
+      "en": "diagram",
+      "zh": "示意图",
+      "rating": "g",
+      "count": 820,
+      "desc": "用符号和简短文字表示流程或关系的图",
+      "kw": "图解 / 图表 / 简图 / 图示 / 图像 / 数据 / 図面"
+    },
+    {
+      "en": "different reflection",
+      "zh": "镜像不符",
+      "rating": "g",
+      "count": 5389,
+      "desc": "镜中映出的影像与本人不符",
+      "kw": "镜像不同 / 镜中影像不同 / 映照异常 / 镜像异常 / 反射不同 / 镜映不同 / 异象镜映 / 不一致的镜像"
+    },
+    {
+      "en": "different shadow",
+      "zh": "不同的阴影",
+      "rating": "g",
+      "count": 1517,
+      "desc": "影子与角色外形不一致，暗示另一面",
+      "kw": "不同的影子 / 影子不一致 / 影子不匹配 / 阴影不一致 / 异影 / 影子异常 / 阴影异常 / 艺术效果"
+    },
+    {
+      "en": "different zoom layer",
+      "zh": "不同缩放图层",
+      "rating": "g",
+      "count": 916,
+      "desc": "放大图层与原图在表情或配色上有差异",
+      "kw": "不同放大倍率图层 / 不同缩放倍率图层 / 不同缩放层 / 差异缩放图层 / 绘画技巧 / 层级"
+    },
+    {
+      "en": "distortion",
+      "zh": "画面扭曲",
+      "rating": "g",
+      "count": 1738,
+      "desc": "画面被刻意扭曲处理的效果",
+      "kw": "失真 / 图像扭曲 / 变形 / 扭曲效果 / 画面变形 / 扭曲 / 变形效果"
+    },
+    {
+      "en": "doodle inset",
+      "zh": "涂鸦小窗",
+      "rating": "g",
+      "count": 2721,
+      "desc": "填补画面空白的涂鸦小图。",
+      "kw": "涂鸦小图 / 涂鸦插图 / 涂鸦角落 / 手绘小图 / 涂鸦补白 / 小涂鸦 / 涂鸦插画 / 艺术风格"
+    },
+    {
+      "en": "emphasis lines",
+      "zh": "强调线",
+      "rating": "g",
+      "count": 48907,
+      "desc": "从画面重点向外放射以吸引注意力的线条。",
+      "kw": "集中线 / 放射线 / 突出线 / 视线引导线 / 漫画强调线 / 线条 / 漫画效果 / 集中線"
+    },
+    {
+      "en": "eyes out of frame",
+      "zh": "眼睛在画面外",
+      "rating": "g",
+      "count": 14789,
+      "desc": "头部仍在画面内但眼睛被裁剪在画面外",
+      "kw": "眼睛出画 / 裁掉眼睛 / 眼睛被裁剪 / 眼睛出框 / 眼睛在画外 / 眼睛不见 / 出框眼 / 构图 / cutting out below the eyes is hot (meme)"
+    },
+    {
+      "en": "fading border",
+      "zh": "渐隐边框",
+      "rating": "g",
+      "count": 1105,
+      "desc": "图片边框逐渐淡出而非清晰收边。",
+      "kw": "边缘渐隐 / 边框淡出 / 淡出边框 / 边缘渐隐边框 / 渐淡边框 / 边界渐隐 / 渐变边界 / 边框 / fading borders"
+    },
+    {
+      "en": "fake phone screenshot",
+      "zh": "仿手机截图",
+      "rating": "g",
+      "count": 6238,
+      "desc": "整张图伪造为手机屏幕截图",
+      "kw": "伪造手机截图 / 假手机截图 / 手机屏幕截图伪造 / 伪装手机截图 / 手机锁屏图 / 手机屏幕图 / 手机截图伪造 / 假截图 / lock screen / phone screen / 閉じ込めてみた"
+    },
+    {
+      "en": "flashback",
+      "zh": "回忆场景",
+      "rating": "g",
+      "count": 2250,
+      "desc": "突然回想起过去事件的画面",
+      "kw": "回忆 / 闪回 / 回想 / 回忆画面 / 过往片段 / 叙事 / 回想シーン"
+    },
+    {
+      "en": "foot out of frame",
+      "zh": "单脚出框",
+      "rating": "g",
+      "count": 43634,
+      "desc": "全身构图但一只脚在画面外，膝盖仍在画面内。",
+      "kw": "一只脚出画 / 单脚出画 / 脚在画面外 / 脚出框 / 单脚在框外 / 一只脚在画面外 / 脚部不在画面内 / 构图"
+    },
+    {
+      "en": "framed",
+      "zh": "画框",
+      "rating": "g",
+      "count": 2851,
+      "desc": "用于表示边框、画框或类似框架结构的标签。",
+      "kw": "边框 / 构图"
+    },
+    {
+      "en": "full page comic",
+      "zh": "整页漫画",
+      "rating": "g",
+      "count": 2828,
+      "desc": "整页为一张完整插画的漫画页。",
+      "kw": "整页插画漫画 / 单页漫画 / 全页漫画 / 整页图 / 漫画整页 / 完整一页漫画 / 漫画 / 全页 / splash page"
+    },
+    {
+      "en": "game screenshot inset",
+      "zh": "游戏截图小窗",
+      "rating": "g",
+      "count": 3849,
+      "desc": "作为参考嵌入画面的游戏截图",
+      "kw": "游戏截图嵌入 / 游戏画面截图 / 内嵌游戏截图 / 游戏截图插画 / 游戏UI / 截图"
+    },
+    {
+      "en": "gold border",
+      "zh": "金色边框",
+      "rating": "g",
+      "count": 584,
+      "desc": "图片四周的金色边框",
+      "kw": "金边 / 金色框 / 金边框 / 镶金边框 / 金色描边 / 黄金边框 / 装饰 / 边框"
+    },
+    {
+      "en": "gradient border",
+      "zh": "渐变边框",
+      "rating": "g",
+      "count": 878,
+      "desc": "带渐变色效果的图片边框",
+      "kw": "渐变色边框 / 渐变框 / 渐边 / 边框特效 / 颜色渐变"
+    },
+    {
+      "en": "green border",
+      "zh": "绿色边框",
+      "rating": "g",
+      "count": 2201,
+      "desc": "图片四周的绿色边框。",
+      "kw": "绿色边 / 绿色框 / 绿边框 / 绿色边线 / 绿框 / 边框"
+    },
+    {
+      "en": "grey border",
+      "zh": "灰色边框",
+      "rating": "g",
+      "count": 6467,
+      "desc": "图像四周带有灰色边框",
+      "kw": "灰边框 / 灰色边 / 灰色描边 / 边框 / gray border"
+    },
+    {
+      "en": "group picture",
+      "zh": "合影",
+      "rating": "g",
+      "count": 5184,
+      "desc": "至少三人且各占相近画面比例的合影。",
+      "kw": "集体照 / 合照 / 团体照 / 群像 / 集体合影 / 多人物 / 照片 / group shot / 集合写真"
+    },
+    {
+      "en": "group profile",
+      "zh": "全员侧面图",
+      "rating": "g",
+      "count": 218,
+      "desc": "全员或多数角色以侧面入画的合影",
+      "kw": "全体侧面图 / 全员侧脸图 / 角色侧面合影 / 团体侧面像 / 全员侧面照 / 侧面全员图 / 全员侧影 / 众角色侧面图"
+    },
+    {
+      "en": "hands out of frame",
+      "zh": "手超出画框",
+      "rating": "g"
+    },
+    {
+      "en": "height chart",
+      "zh": "身高对比图",
+      "rating": "g",
+      "count": 1667,
+      "desc": "并排比较多个角色身高的对照图。",
+      "kw": "身高对照图 / 身高比较图 / 身高表 / 身高差对比 / 角色身高图 / 身高比较 / 身高对比 / 角色身高 / heightchart / 身长比较 / 身長比較"
+    },
+    {
+      "en": "high up",
+      "zh": "高处",
+      "rating": "g",
+      "count": 615,
+      "desc": "视点或主体处于高处的构图",
+      "kw": "高空 / 高处视角 / 高空视角 / 居高临下 / 位置 / high altitude"
+    },
+    {
+      "en": "inset",
+      "zh": "画中画",
+      "rating": "g",
+      "count": 2712,
+      "desc": "在主图像中嵌入其他图片（主要是角色照片或肖像）的图片。",
+      "kw": "内嵌 / 图像特效 / 嵌入"
+    },
+    {
+      "en": "inset border",
+      "zh": "内嵌边框",
+      "rating": "g",
+      "count": 5676,
+      "desc": "从画面边缘内缩的细线边框。",
+      "kw": "内缩边框 / 内框 / 插画边框 / 内嵌框 / 画面内边框 / 嵌框 / 构图 / 边框"
+    },
+    {
+      "en": "invisible floor",
+      "zh": "看不见的地板",
+      "rating": "g",
+      "count": 3786,
+      "desc": "角色站在没有可见地面的位置。",
+      "kw": "隐形地板 / 无地板 / 没有地面 / 透明地板 / 地板 / 特效"
+    },
+    {
+      "en": "isometric",
+      "zh": "等距投影",
+      "rating": "g",
+      "count": 1510,
+      "desc": "平行线不汇聚的等距投影画法",
+      "kw": "等角投影 / 等距视图 / 等轴测图 / 轴测图 / 等比投影 / 游戏视角 / アイソメトリック"
+    },
+    {
+      "en": "juxtaposition",
+      "zh": "并置对比",
+      "rating": "g",
+      "count": 2156,
+      "desc": "同一角色在照片或录像中与另一情境并置对比",
+      "kw": "对比图 / 对照 / 并置组合 / 拼图对比 / 同角色对比 / 差分对比 / 前后对比 / 并置图像 / スマホ差分"
+    },
+    {
+      "en": "knees out of frame",
+      "zh": "膝盖在画外",
+      "rating": "g",
+      "count": 2069,
+      "desc": "上身与大小腿都在画面内，唯独膝盖被裁出画外",
+      "kw": "膝盖出框 / 膝盖在画面外 / 膝盖被裁掉 / 截膝 / 膝盖未入画 / 构图 / 裁剪"
+    },
+    {
+      "en": "lace border",
+      "zh": "蕾丝边框",
+      "rating": "g",
+      "count": 952,
+      "desc": "图像外缘以蕾丝作为边框",
+      "kw": "花边边框 / 蕾丝花边 / 花边边界 / 蕾丝花边边框 / 蕾丝边 / 装饰元素 / 花边 / 边框"
+    },
+    {
+      "en": "left-to-right manga",
+      "zh": "从左往右读的漫画",
+      "rating": "g",
+      "count": 3042,
+      "desc": "分镜与文字从左往右阅读的日式漫画",
+      "kw": "左读漫画 / 左至右漫画 / 左开漫画 / 左翻漫画 / 从左至右漫画 / 漫画 / 阅读方向 / left-to-right / left to right manga"
+    },
+    {
+      "en": "mtu virus",
+      "zh": "Mtu风格裙底",
+      "rating": "s",
+      "count": 1184,
+      "desc": "模仿画师Mtu的双层裙底构图风格",
+      "kw": "Mtu病毒 / Mtu裙底 / Mtu双层裙底 / Mtu风裙底 / Mtu画风裙底 / Mtu裙底构图 / MTU病毒 / 病毒 / mtuウィルス"
+    },
+    {
+      "en": "multiple 4koma",
+      "zh": "多列四格漫画",
+      "rating": "g",
+      "count": 6562,
+      "desc": "一张图中包含两组以上四格漫画。",
+      "kw": "多组四格 / 多则四格漫画 / 多个四格漫画 / 多幅四格漫画 / 多列四格 / 多格漫画 / 四格漫画 / 漫画形式"
+    },
+    {
+      "en": "multiple cutouts",
+      "zh": "多个剪影",
+      "rating": "g",
+      "count": 923,
+      "desc": "图中多个裁切剪影式的人物或图形",
+      "kw": "多剪影 / 多个抠图 / 多重剪影 / 复数剪影 / 多个剪纸图案 / 多重切片 / 剪影 / 图形元素"
+    },
+    {
+      "en": "multiple monochrome",
+      "zh": "多块单色拼接",
+      "rating": "g",
+      "count": 2058,
+      "desc": "图像由多个单色块组成，每个块只用一种颜色。",
+      "kw": "多块单色区域拼接 / 多色单色块 / 多单色区域 / 分区单色 / 多单色 / 多色块 / 单色分区 / 多个单色图"
+    },
+    {
+      "en": "numbered panels",
+      "zh": "编号分格",
+      "rating": "g",
+      "count": 669,
+      "desc": "漫画分格带有编号提示阅读顺序",
+      "kw": "带编号的漫画格 / 顺序编号分格 / 编号格子 / 序号分镜 / 有编号的画格 / 漫画 / 分镜"
+    },
+    {
+      "en": "official art inset",
+      "zh": "官方插图嵌入",
+      "rating": "g",
+      "count": 3519,
+      "desc": "画面中嵌入了官方插画作为参考小图。",
+      "kw": "官方图嵌入 / 官方立绘嵌入 / 内嵌官方图 / 官方插画小图 / 官方图小窗 / 官方图小图 / 官方原画嵌入 / 官方设定图嵌入"
+    },
+    {
+      "en": "optical illusion",
+      "zh": "光学错觉",
+      "rating": "g",
+      "count": 558,
+      "desc": "欺骗大脑、让人看到与实物不同内容的图像",
+      "kw": "视错觉 / 错视 / 视觉错觉 / 错觉图 / 视觉幻象 / 错觉 / 视觉效果 / 錯視"
+    },
+    {
+      "en": "orange border",
+      "zh": "橙色边框",
+      "rating": "g",
+      "count": 1389,
+      "desc": "图像四周带有橙色边框。",
+      "kw": "橙色框 / 橙边框 / 橘色边框 / 橙色边 / 边框"
+    },
+    {
+      "en": "ornate border",
+      "zh": "华丽边框",
+      "rating": "g",
+      "count": 5180,
+      "desc": "带复杂纹样、几何图案或附加图形的边框。",
+      "kw": "精美边框 / 复杂边框 / 装饰边框 / 花纹边框 / 繁复边框 / 构图 / detailed border / complex border"
+    },
+    {
+      "en": "outside border",
+      "zh": "画出画框外",
+      "rating": "g",
+      "count": 105787,
+      "desc": "角色或物体被画在画面边框之外的构图。",
+      "kw": "出框 / 破框 / 越出边框 / 超出边框 / 画出框外 / 框外 / 突破画框 / 构图 / out of border / outside of border / cropped background"
+    },
+    {
+      "en": "photo inset",
+      "zh": "照片嵌入",
+      "rating": "g",
+      "count": 5542,
+      "desc": "嵌入画面中的照片小图",
+      "kw": "照片嵌图 / 嵌入照片 / 照片小图 / 照片插图 / 小照片 / 照片贴图 / 画中画照片 / 插图"
+    },
+    {
+      "en": "pillarboxed",
+      "zh": "左右黑边",
+      "rating": "g",
+      "count": 9719,
+      "desc": "画面左右加竖黑边的处理，与信箱模式相反",
+      "kw": "竖向黑边 / 柱状黑边 / 画幅左右黑边 / 竖屏左右留黑 / 竖屏 / 黑边 / pillarbox"
+    },
+    {
+      "en": "pink border",
+      "zh": "粉红色边框",
+      "rating": "g",
+      "count": 5263,
+      "desc": "图像四周的粉色边框。",
+      "kw": "粉色边框 / 粉边 / 粉红色框 / 浅粉边框 / 粉色边线 / 边框 / 粉色"
+    },
+    {
+      "en": "pointing out the details",
+      "zh": "细节图解",
+      "rating": "g",
+      "count": 3171,
+      "desc": "用多个标注指出画面对象各部位的图解。",
+      "kw": "标注细节 / 指点细节 / 细节说明 / 详细标注 / 图解标注 / 手势 / 动作"
+    },
+    {
+      "en": "postcard",
+      "zh": "明信片（构图）",
+      "rating": "g",
+      "count": 403,
+      "desc": "角色呈现在明信片式构图中，或画面中出现明信片",
+      "kw": "明信片式构图 / 明信片风格 / 明信片画面 / 明信片 / 卡片 / 纸制品 / ポストカード"
+    },
+    {
+      "en": "purple border",
+      "zh": "紫色边框",
+      "rating": "g",
+      "count": 2078,
+      "desc": "图像四周带有紫色边框，常用于装饰或强调。",
+      "kw": "紫边框 / 紫色框 / 紫边 / 紫色边框线 / 紫色相框边 / 边框 / 装饰"
+    },
+    {
+      "en": "rainbow order",
+      "zh": "彩虹顺序排列",
+      "rating": "g",
+      "count": 2957,
+      "desc": "按七色光谱顺序排列人物或物品",
+      "kw": "彩虹色序排列 / 彩虹色排列 / 彩虹顺序 / 七色顺序排列 / 光谱顺序 / 按彩虹颜色排列 / 七彩排列 / 彩虹"
+    },
+    {
+      "en": "recurring image",
+      "zh": "重复图像",
+      "rating": "g",
+      "count": 1056,
+      "desc": "画师把画面的一部分复制粘贴、重复用在多处",
+      "kw": "复制粘贴 / 重复画面 / 图片重复 / 粘贴重复 / 图案重复 / 复制粘贴图像 / 循环出现的图像 / 艺术手法 / copy-pasting / copy-pasted / copy-paste"
+    },
+    {
+      "en": "red border",
+      "zh": "红色边框",
+      "rating": "g",
+      "count": 3452,
+      "desc": "图片外圈为红色边框，旧时用于标记待删除帖。",
+      "kw": "红色外框 / 红边框 / 红边 / 红色描边 / 红框线 / 红色边线 / 红色边框线 / 装饰"
+    },
+    {
+      "en": "reference inset",
+      "zh": "参考插图",
+      "rating": "g",
+      "count": 15585,
+      "desc": "画面中嵌入用于参考的小图，常为照片或原画。",
+      "kw": "参考小图 / 参考图 / 参照图 / 嵌入参考图 / 角落参考图 / 参考图片 / 参考资料图 / 对比图"
+    },
+    {
+      "en": "relationship graph",
+      "zh": "关系图",
+      "rating": "g",
+      "count": 466,
+      "desc": "梳理角色之间关系的图解",
+      "kw": "人物关系图 / 角色关系图 / 人际关系图 / 关系图表 / 人物关系表 / 图表 / relationship chart / 人物相関図 / 相関図 / 関系図"
+    },
+    {
+      "en": "request inset",
+      "zh": "请求截图嵌入",
+      "rating": "g",
+      "count": 7362,
+      "desc": "把点图请求截图直接放在成品图上",
+      "kw": "请求留言小窗 / 点图请求截图 / 委托请求截图 / 请求截图小窗 / 请求插图 / 画中画 / 粉丝请求 / 嵌入图"
+    },
+    {
+      "en": "right-to-left comic",
+      "zh": "右起排版漫画",
+      "rating": "g",
+      "count": 1649,
+      "desc": "按从右到左顺序排版阅读的非日式漫画",
+      "kw": "从右到左漫画 / 右向左漫画 / 右开漫画 / 右翻漫画 / 右起阅读漫画 / 右起版漫画 / 逆序漫画 / 从右至左阅读漫画"
+    },
+    {
+      "en": "rotational symmetry",
+      "zh": "旋转对称构图",
+      "rating": "g",
+      "count": 3542,
+      "desc": "两名角色上下颠倒相对摆放形成的旋转对称构图",
+      "kw": "旋转对称 / 上下颠倒构图 / 倒立对称 / 对称旋转 / 点对称 / 构图 / 对称构图 / 点対称 / 百合太极図 / 互"
+    },
+    {
+      "en": "round border",
+      "zh": "圆形边框",
+      "rating": "g",
+      "count": 4346,
+      "desc": "画面外缘呈圆形的边框",
+      "kw": "圆形框 / 圆框 / 圆形画框 / 圆形边界 / 圆形边框线 / 圆边 / 圆形画幅 / 画框样式 / circular border / circular image / round image / tondo"
+    },
+    {
+      "en": "round image",
+      "zh": "圆形裁剪图像",
+      "rating": "g",
+      "count": 2682,
+      "desc": "被圆形或椭圆形边框包围的艺术作品。",
+      "kw": "圆形图像 / 圆形构图 / 图像效果"
+    },
+    {
+      "en": "rounded corners",
+      "zh": "圆角",
+      "rating": "g",
+      "count": 1800,
+      "desc": "图像边框四角被处理成圆弧形",
+      "kw": "圆角边框 / 圆角边 / 圆角处理 / 圆弧角 / 圆角图片 / 构图 / 圆角效果"
+    },
+    {
+      "en": "screenshot inset",
+      "zh": "截图嵌入",
+      "rating": "g",
+      "count": 7290,
+      "desc": "作为小窗嵌在画面中的截图",
+      "kw": "截图小窗 / 嵌入截图 / 画面中截图 / 截图插图 / 截图画中画 / 画中画截图 / 画面效果 / screencap inset"
+    },
+    {
+      "en": "segmented comic",
+      "zh": "分格漫画",
+      "rating": "g",
+      "count": 6301,
+      "desc": "各分格作为单张图片分别投稿的连载漫画",
+      "kw": "分段漫画 / 分割漫画 / 分格投稿 / 分格式漫画 / 分段连载漫画 / 分格图 / 漫画"
+    },
+    {
+      "en": "sideways",
+      "zh": "画面横置",
+      "rating": "g",
+      "count": 6453,
+      "desc": "画面旋转约90度横向呈现的构图",
+      "kw": "横向画面 / 横向构图 / 侧向画面 / 图像侧置 / 侧向 / 侧面 / 视角"
+    },
+    {
+      "en": "silent comic",
+      "zh": "无声漫画",
+      "rating": "g",
+      "count": 29519,
+      "desc": "没有对话或语言的漫画。",
+      "kw": "无对白漫画 / 沉默漫画 / 无台词漫画 / 漫画风格 / 无台词 / サイレント漫画"
+    },
+    {
+      "en": "sketch inset",
+      "zh": "草图小窗",
+      "rating": "g",
+      "count": 504,
+      "desc": "成图一旁附加的草稿小图",
+      "kw": "草图小图 / 草稿小窗 / 线稿小图 / 草图附图 / 草稿附图 / 草图缩略图 / 附草图 / 插图草稿"
+    },
+    {
+      "en": "snapchat",
+      "zh": "Snapchat风格",
+      "rating": "g",
+      "count": 851,
+      "desc": "模仿Snapchat截图、带半透明黑条字幕的图像",
+      "kw": "Snapchat截图 / Snapchat界面 / Snapchat模式 / Snapchat / 社交应用"
+    },
+    {
+      "en": "social media composition",
+      "zh": "社交媒体构图",
+      "rating": "g",
+      "count": 159,
+      "desc": "模仿社交平台缩略图拼接、留白割裂的构图",
+      "kw": "社交平台构图 / 社交媒体拼贴构图 / 社媒构图 / 社交媒体排版 / 社交平台排版 / 缩略图拼接构图 / 社交媒体风格 / 构图"
+    },
+    {
+      "en": "split crop",
+      "zh": "分割裁图",
+      "rating": "g",
+      "count": 660,
+      "desc": "从中间裁切只露出角色一侧的构图",
+      "kw": "半裁 / 中分割裁切 / 对半裁切 / 单侧构图 / 分割构图 / 半身裁图 / 中间裁切 / 露腹短上衣"
+    },
+    {
+      "en": "split theme",
+      "zh": "拆分主题",
+      "rating": "g",
+      "count": 2703,
+      "desc": "同一画面表现两种对比主题。",
+      "kw": "主题对比 / 分割主题 / 双主题 / 对比主题 / 分裂主题 / 画面分割 / 构图"
+    },
+    {
+      "en": "square 4koma",
+      "zh": "方块四格漫画",
+      "rating": "g",
+      "count": 4567,
+      "desc": "以2×2排列的四格漫画。",
+      "kw": "方形四格 / 四方四格 / 2x2四格漫画 / 方四格漫画 / 方块四格 / 四格漫画 / 漫画"
+    },
+    {
+      "en": "stick poster",
+      "zh": "细长竖幅海报",
+      "rating": "g",
+      "count": 607,
+      "desc": "比一般海报更细长的竖幅海报",
+      "kw": "细长海报 / 竖长海报 / 长条海报 / 条幅海报 / 长条形海报 / 贴纸海报 / 海报 / 装饰"
+    },
+    {
+      "en": "stitched",
+      "zh": "拼接图",
+      "rating": "g",
+      "count": 3596,
+      "desc": "将多张图拼接成一张的作品。",
+      "kw": "缝合图 / 拼贴图 / 拼接作品 / 图片拼接 / 多图拼接 / stitch / stiched"
+    },
+    {
+      "en": "symmetry",
+      "zh": "左右对称",
+      "rating": "g",
+      "count": 3842,
+      "desc": "画面可分成两半、左右对称的构图",
+      "kw": "对称构图 / 镜面对称 / 对称画面 / 左右对称构图 / 完美对称 / 对称 / 构图 / 对称性 / symmetrical / 左右対称 / シンメトリー"
+    },
+    {
+      "en": "tachi-e",
+      "zh": "立绘",
+      "rating": "g",
+      "count": 83194,
+      "desc": "视觉小说中常见的正面角色立绘，常为全身站立、背景简单",
+      "kw": "角色立绘 / 视觉小说立绘 / 站立立绘 / 全身立绘 / 正面立绘 / 立绘风格 / 图像构成 / 游戏美术 / 立ち絵"
+    },
+    {
+      "en": "tall image",
+      "zh": "竖长图",
+      "rating": "g",
+      "count": 18019,
+      "desc": "高度至少1024像素且长宽比达4:1以上的竖长图",
+      "kw": "竖图 / 长图 / 纵向长图 / 高图 / 竖版长图 / 超高图 / 纵向构图 / 竖幅长图"
+    },
+    {
+      "en": "tarot",
+      "zh": "塔罗牌",
+      "rating": "g",
+      "count": 4830,
+      "desc": "塔罗牌，或模仿塔罗牌构图的画面",
+      "kw": "塔罗 / 塔罗牌风 / 塔罗牌构图 / 塔罗牌画面 / 塔罗卡 / 卡牌 / 占卜 / tarot card / tarot cards / タロット / タロット風"
+    },
+    {
+      "en": "thumbnail collage",
+      "zh": "缩略图拼贴",
+      "rating": "g",
+      "count": 852,
+      "desc": "多张帖子缩略图拼成完整画面的图组",
+      "kw": "缩略图拼图 / 缩略图拼接 / 缩略图合成 / 帖子缩略图拼贴 / 社交平台缩略图拼贴 / twitter thumbnail collage"
+    },
+    {
+      "en": "title screen",
+      "zh": "标题画面",
+      "rating": "g",
+      "count": 123,
+      "desc": "游戏开始前显示标题与菜单的画面",
+      "kw": "标题界面 / 游戏标题画面 / 开始界面 / 标题页 / 标题屏幕 / 游戏界面"
+    },
+    {
+      "en": "transparent border",
+      "zh": "透明边框",
+      "rating": "g",
+      "count": 1175,
+      "desc": "图像边缘带透明或半透明边框。",
+      "kw": "透明边 / 半透明边框 / 透明框 / 透明边界 / 半透明边 / 边框 / 图像效果"
+    },
+    {
+      "en": "turnaround",
+      "zh": "角色多角度视图",
+      "rating": "g",
+      "count": 5015,
+      "desc": "同一角色多角度并排展示的设定图",
+      "kw": "三视图 / 多角度视图 / 角色设定图 / 三面图 / 正背面图 / 多视角视图 / 角色多视图 / 前后视图 / 三面図"
+    },
+    {
+      "en": "twitter banner",
+      "zh": "Twitter横幅",
+      "rating": "g",
+      "count": 117,
+      "desc": "画师Twitter主页的横幅图",
+      "kw": "推特横幅 / 推特封面 / Twitter页眉"
+    },
+    {
+      "en": "variations",
+      "zh": "多版本对比图",
+      "rating": "g",
+      "count": 3834,
+      "desc": "同一角色不同服装或造型并列展示的对比图。",
+      "kw": "差分 / 变体 / 版本差异 / 多种造型对比 / 服装差分 / 角色变种对比 / 单图多造型 / 变种对比图 / 单图差分 / 变化 / 变种"
+    },
+    {
+      "en": "vertical scroll comic",
+      "zh": "竖版条漫",
+      "rating": "g",
+      "count": 2161,
+      "desc": "以单条纵向长图发布的条漫，便于手机阅读",
+      "kw": "纵向条漫 / 竖屏漫画 / 长条漫画 / 滚动条漫 / 条漫 / webtoon / 竖版漫画 / 滚动漫画"
+    },
+    {
+      "en": "wide image",
+      "zh": "横长图",
+      "rating": "g",
+      "count": 2579,
+      "desc": "宽至少1024像素且长宽比达4:1以上的横长图。",
+      "kw": "超宽图 / 宽幅图 / 横向长图 / 横长图片 / 宽高比大图 / 超宽幅图"
+    },
+    {
+      "en": "yellow border",
+      "zh": "黄色边框",
+      "rating": "g",
+      "count": 3313,
+      "desc": "图片四周带黄色边框。",
+      "kw": "黄色框 / 黄框 / 黄边框 / 黄色边缘 / 边框 / 装饰"
+    },
+    {
+      "en": "afterimage",
+      "zh": "残影",
+      "rating": "g",
+      "count": 19135,
+      "desc": "表现物体运动轨迹的残影或残像效果",
+      "kw": "残像 / 运动残影 / 拖影 / 幻影 / 残影效果 / 影像残留 / 残像效果 / 运动模糊 / 乳分身 / 잔상"
+    },
+    {
+      "en": "motion lines",
+      "zh": "动作线",
+      "rating": "g",
+      "count": 127973,
+      "desc": "漫画中表示物体快速移动的抽象线条。",
+      "kw": "速度线 / 运动线 / 动态线 / 动作线条 / 运动线条 / 漫符速度线 / 速度效果线 / 动态线条"
+    },
+    {
+      "en": "notice lines",
+      "zh": "察觉线",
+      "rating": "g",
+      "count": 55512,
+      "desc": "角色头部周围表示察觉或注意的放射状线条。",
+      "kw": "注意线 / 警觉线 / 发现线 / 吃惊线 / 惊叹线 / 集中线 / 放射线 / 冲击线 / realization lines / 注意到"
+    },
+    {
+      "en": "shout lines",
+      "zh": "喊叫效果线",
+      "rating": "g",
+      "count": 1123,
+      "desc": "从头部向外发散、带锯齿的漫画喊叫效果线。",
+      "kw": "喊叫线 / 愤怒线 / 叫喊效果线 / 怒吼线 / 发怒线 / 声音效果线 / 叫喊线条 / 呼喊线 / anger lines"
+    },
+    {
+      "en": "upskirt",
+      "zh": "裙底",
+      "rating": "q",
+      "nsfw": true,
+      "count": 40315,
+      "desc": "从下往上看进裙内的视角。",
+      "kw": "裙底风光 / 裙底视角 / 走光 / 露底 / 偷拍 / 逆さ撮り"
+    },
+    {
+      "en": "expression chart",
+      "zh": "表情练习表",
+      "rating": "g",
+      "nsfw": false,
+      "count": 974,
+      "desc": "网格状排列多种表情的图",
+      "kw": "表情集 / 表情练习 / 多表情图 / 表情一览 / 表情图表 / 表情展示图 / 九宫格表情 / 表情模板 / 表情練習"
+    }
+  ]
+}

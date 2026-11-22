@@ -1,0 +1,822 @@
+{
+  "id": "touhou_project",
+  "name": "东方Project",
+  "parentId": "games",
+  "order": 9,
+  "file": "games/touhou_project.json",
+  "characters": [
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "博丽灵梦",
+      "tag": "hakurei reimu",
+      "charZh": "博丽灵梦（东方Project）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;miko|巫女;detached sleeves|分离袖;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "雾雨魔理沙",
+      "tag": "kirisame marisa",
+      "charZh": "雾雨魔理沙（东方Project）",
+      "auto": "blonde hair|金发;long hair|长发;yellow eyes|黄瞳;witch hat|女巫帽;broom|扫帚",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "琪露诺",
+      "tag": "cirno",
+      "charZh": "琪露诺（东方Project）",
+      "auto": "blue hair|蓝发;short hair|短发;blue eyes|蓝瞳;wings|翅膀;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "十六夜咲夜",
+      "tag": "izayoi sakuya",
+      "charZh": "十六夜咲夜（东方Project）",
+      "auto": "silver hair|银发;short hair|短发;blue eyes|蓝瞳;maid|女仆;maid headdress|女仆头饰",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "蕾米莉亚·斯卡雷特",
+      "tag": "remilia scarlet",
+      "charZh": "蕾米莉亚·斯卡雷特（东方Project）",
+      "auto": "light blue hair|浅蓝发;short hair|短发;red eyes|红瞳;bat wings|蝙蝠翅膀;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "芙兰朵露·斯卡雷特",
+      "tag": "flandre scarlet",
+      "charZh": "芙兰朵露·斯卡雷特（东方Project）",
+      "auto": "blonde hair|金发;side ponytail|侧马尾;red eyes|红瞳;wings|翅膀",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "帕秋莉·诺蕾姬",
+      "tag": "patchouli knowledge",
+      "charZh": "帕秋莉·诺蕾姬（东方Project）",
+      "auto": "purple hair|紫发;long hair|长发;purple eyes|紫瞳;witch hat|女巫帽",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "魂魄妖梦",
+      "tag": "konpaku youmu",
+      "charZh": "魂魄妖梦（东方Project）",
+      "auto": "silver hair|银发;short hair|短发;green eyes|绿瞳;katana|武士刀",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "西行寺幽幽子",
+      "tag": "saigyouji yuyuko",
+      "charZh": "西行寺幽幽子（东方Project）",
+      "auto": "pink hair|粉发;short hair|短发;red eyes|红瞳;kimono|和服",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "东风谷早苗",
+      "tag": "kochiya sanae",
+      "charZh": "东风谷早苗（东方Project）",
+      "auto": "green hair|绿发;long hair|长发;green eyes|绿瞳;miko|巫女",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "古明地恋",
+      "tag": "komeiji koishi",
+      "charZh": "古明地恋（东方Project）",
+      "auto": "green hair|绿发;short hair|短发;green eyes|绿瞳;third eye|第三只眼",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "古明地觉",
+      "tag": "komeiji satori",
+      "charZh": "古明地觉（东方Project）",
+      "auto": "pink hair|粉发;short hair|短发;purple eyes|紫瞳;third eye|第三只眼",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "铃仙·优昙华院·因幡",
+      "tag": "reisen udongein inaba",
+      "charZh": "铃仙·优昙华院·因幡（东方Project）",
+      "auto": "purple hair|紫发;long hair|长发;red eyes|红瞳;rabbit ears|兔耳",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "因幡帝",
+      "tag": "inaba tewi",
+      "charZh": "因幡帝（东方Project）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳;rabbit ears|兔耳",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "蓬莱山辉夜",
+      "tag": "houraisan kaguya",
+      "charZh": "蓬莱山辉夜（东方Project）",
+      "auto": "black hair|黑发;very long hair|超长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "藤原妹红",
+      "tag": "fujiwara no mokou",
+      "charZh": "藤原妹红（东方Project）",
+      "auto": "white hair|白发;long hair|长发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "爱丽丝·玛格特罗伊德",
+      "tag": "alice margatroid",
+      "charZh": "爱丽丝·玛格特罗伊德（东方Project）",
+      "auto": "blonde hair|金发;short hair|短发;blue eyes|蓝瞳;doll|人偶",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "八云紫",
+      "tag": "yakumo yukari",
+      "charZh": "八云紫（东方Project）",
+      "auto": "blonde hair|金发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "八云蓝",
+      "tag": "yakumo ran",
+      "charZh": "八云蓝（东方Project）",
+      "auto": "blonde hair|金发;long hair|长发;fox ears|狐耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "橙",
+      "tag": "chen (touhou)",
+      "charZh": "橙（东方Project）",
+      "auto": "black hair|黑发;short hair|短发;cat ears|猫耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "河城荷取",
+      "tag": "kawashiro nitori",
+      "charZh": "河城荷取（东方Project）",
+      "auto": "blue hair|蓝发;long hair|长发;green eyes|绿瞳;backpack|背包",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "比那名居天子",
+      "tag": "hinanawi tenshi",
+      "charZh": "比那名居天子（东方Project）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳;hat|帽子",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "泄矢诹访子",
+      "tag": "moriya suwako",
+      "charZh": "泄矢诹访子（东方Project）",
+      "auto": "blonde hair|金发;long hair|长发;hat|帽子",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "灵乌路空",
+      "tag": "reiuji utsuho",
+      "charZh": "灵乌路空（东方Project）",
+      "auto": "black hair|黑发;long hair|长发;red eyes|红瞳;wings|翅膀",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "火焰猫燐",
+      "tag": "kaenbyou rin",
+      "charZh": "火焰猫燐（东方Project）",
+      "auto": "red hair|红发;long hair|长发;cat ears|猫耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "露米娅",
+      "tag": "rumia (touhou)",
+      "charZh": "露米娅（东方Project）",
+      "auto": "blonde hair|金发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "红美铃",
+      "tag": "hong meiling",
+      "charZh": "红美铃（东方Project）",
+      "auto": "red hair|红发;long hair|长发;chinese clothes|中式服装;hat|帽子",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "小恶魔",
+      "tag": "koakuma",
+      "charZh": "小恶魔（东方Project）",
+      "auto": "red hair|红发;short hair|短发;wings|翅膀;small breasts|小胸",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "蕾蒂·怀特洛克",
+      "tag": "letty whiterock",
+      "charZh": "蕾蒂·怀特洛克（东方Project）",
+      "auto": "blue hair|蓝发;long hair|长发;blue eyes|蓝瞳",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "大妖精",
+      "tag": "daiyousei",
+      "charZh": "大妖精（东方Project）",
+      "auto": "green hair|绿发;short hair|短发;dress|连衣裙;wings|翅膀",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "风见幽香",
+      "tag": "kazami yuuka",
+      "charZh": "风见幽香（东方Project）",
+      "auto": "green hair|绿发;long hair|长发;red eyes|红瞳;parasol|阳伞",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "八意永琳",
+      "tag": "yagokoro eirin",
+      "charZh": "八意永琳（东方Project）",
+      "auto": "silver hair|银发;long hair|长发;blue eyes|蓝瞳;hair ornament|发饰",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "上白泽慧音",
+      "tag": "kamishirasawa keine",
+      "charZh": "上白泽慧音（东方Project）",
+      "auto": "silver hair|银发;long hair|长发;hat|帽子",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "米斯蒂娅·萝蕾拉",
+      "tag": "mystia lorelei",
+      "charZh": "米斯蒂娅·萝蕾拉（东方Project）",
+      "auto": "pink hair|粉发;short hair|短发;wings|翅膀",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "射命丸文",
+      "tag": "shameimaru aya",
+      "charZh": "射命丸文（东方Project）",
+      "auto": "black hair|黑发;short hair|短发;hat|帽子;camera|相机",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "八坂神奈子",
+      "tag": "yasaka kanako",
+      "charZh": "八坂神奈子（东方Project）",
+      "auto": "blue hair|蓝发;long hair|长发;purple eyes|紫瞳",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "永江衣玖",
+      "tag": "nagae iku",
+      "charZh": "永江衣玖（东方Project）",
+      "auto": "blue hair|蓝发;long hair|长发;hat|帽子",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "星熊勇仪",
+      "tag": "hoshiguma yuugi",
+      "charZh": "星熊勇仪（东方Project）",
+      "auto": "blonde hair|金发;horns|角;muscular|肌肉",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "伊吹萃香",
+      "tag": "ibuki suika",
+      "charZh": "伊吹萃香（东方Project）",
+      "auto": "brown hair|棕发;horns|角;gourd|葫芦",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "小野冢小町",
+      "tag": "onozuka komachi",
+      "charZh": "小野冢小町（东方Project）",
+      "auto": "red hair|红发;long hair|长发;red eyes|红瞳;scythe|镰刀",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "四季映姬",
+      "tag": "shiki eiki",
+      "charZh": "四季映姬（东方Project）",
+      "auto": "blue hair|蓝发;long hair|长发;hat|帽子",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "圣白莲",
+      "tag": "hijiri byakuren",
+      "charZh": "圣白莲（东方Project）",
+      "auto": "blonde hair|金发;long hair|长发;multicolored hair|多色发;nun|修女",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "丰聪耳神子",
+      "tag": "toyosatomimi no miko",
+      "charZh": "丰聪耳神子（东方Project）",
+      "auto": "blonde hair|金发;short hair|短发;cape|披风",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "寅丸星",
+      "tag": "toramaru shou",
+      "charZh": "寅丸星（东方Project）",
+      "auto": "blonde hair|金发;long hair|长发;tiger|老虎",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "封兽鵺",
+      "tag": "houjuu nue",
+      "charZh": "封兽鵺（东方Project）",
+      "auto": "black hair|黑发;short hair|短发;wings|翅膀",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "多多良小伞",
+      "tag": "tatara kogasa",
+      "charZh": "多多良小伞（东方Project）",
+      "auto": "purple hair|紫发;short hair|短发;umbrella|雨伞",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "云居一轮",
+      "tag": "kumoi ichirin",
+      "charZh": "云居一轮（东方Project）",
+      "auto": "blue hair|蓝发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "娜兹玲",
+      "tag": "nazrin",
+      "charZh": "娜兹玲（东方Project）",
+      "auto": "grey hair|灰发;short hair|短发;animal ears|兽耳;tail|尾巴",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "鬼人正邪",
+      "tag": "kijin seija",
+      "charZh": "鬼人正邪（东方Project）",
+      "auto": "black hair|黑发;short hair|短发;red eyes|红瞳",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "秦心",
+      "tag": "hata no kokoro",
+      "charZh": "秦心（东方Project）",
+      "auto": "pink hair|粉发;short hair|短发;mask|口罩",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "物部布都",
+      "tag": "mononobe no futo",
+      "charZh": "物部布都（东方Project）",
+      "auto": "black hair|黑发;long hair|长发;chinese clothes|中式服装",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "苏我屠自古",
+      "tag": "soga no tojiko",
+      "charZh": "苏我屠自古（东方Project）",
+      "auto": "blue hair|蓝发;short hair|短发",
+      "subName": ""
+    },
+    {
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "name": "霍青娥",
+      "tag": "kaku seiga",
+      "charZh": "霍青娥（东方Project）",
+      "auto": "green hair|绿发;long hair|长发",
+      "subName": ""
+    },
+    {
+      "name": "犬走椛",
+      "tag": "inubashiri momiji",
+      "charZh": "犬走椛",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;wolf ears|狼耳;wolf tail|狼尾;red eyes|红瞳;short hair|短发;white hair|白发;tokin hat|头襟帽;pom pom (clothes)|毛绒球;detached sleeves|分离袖"
+    },
+    {
+      "name": "水桥帕露西",
+      "tag": "mizuhashi parsee",
+      "charZh": "水桥帕露西",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;pointy ears|尖耳;green eyes|绿瞳;blonde hair|金发;short hair|短发;arm warmers|袖套"
+    },
+    {
+      "name": "键山雏",
+      "tag": "kagiyama hina",
+      "charZh": "键山雏",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;green hair|绿发;long hair|长发;front ponytail|前马尾;hair ribbon|发带;hair bow|蝴蝶结发饰"
+    },
+    {
+      "name": "森近霖之助",
+      "tag": "morichika rinnosuke",
+      "charZh": "森近霖之助",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1boy|一个男孩;yellow eyes|黄瞳;glasses|眼镜;grey hair|灰发;white hair|白发;ahoge|呆毛"
+    },
+    {
+      "name": "宇佐见莲子",
+      "tag": "usami renko",
+      "charZh": "宇佐见莲子",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;brown eyes|棕瞳;brown hair|棕发;short hair|短发;hat bow|帽子蝴蝶结;white shirt|白衬衫;white bow|白色蝴蝶结"
+    },
+    {
+      "name": "莉格露·奈特巴格",
+      "tag": "wriggle nightbug",
+      "charZh": "莉格露·奈特巴格",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;green hair|绿发;short hair|短发;cape|披风;antennae|触角"
+    },
+    {
+      "name": "上海人偶",
+      "tag": "shanghai doll",
+      "charZh": "上海人偶",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;blonde hair|金发;short hair|短发;long hair|长发;hair bow|蝴蝶结发饰;hairband|发箍;capelet|小披肩;doll|人偶"
+    },
+    {
+      "name": "玛艾露贝莉·赫恩",
+      "tag": "maribel hearn",
+      "charZh": "玛艾露贝莉·赫恩",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;purple eyes|紫瞳;blonde hair|金发;short hair|短发;long hair|长发;mob cap|女仆帽;purple dress|紫色连衣裙"
+    },
+    {
+      "name": "今泉影狼",
+      "tag": "imaizumi kagerou",
+      "charZh": "今泉影狼",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;wolf ears|狼耳;wolf tail|狼尾;red eyes|红瞳;brown hair|棕发;long hair|长发;small breasts|小胸;long sleeves|长袖;brooch|胸针"
+    },
+    {
+      "name": "姬海棠果",
+      "tag": "himekaidou hatate",
+      "charZh": "姬海棠果",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;pointy ears|尖耳;brown eyes|棕瞳;purple eyes|紫瞳;brown hair|棕发;long hair|长发;twintails|双马尾;tokin hat|头襟帽;checkered clothes|棋盘格衣物;checkered skirt|格子裙;cellphone|手机"
+    },
+    {
+      "name": "村纱水蜜",
+      "tag": "murasa minamitsu",
+      "charZh": "村纱水蜜",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;short hair|短发;black hair|黑发;sailor hat|水手帽;sailor|水手;anchor"
+    },
+    {
+      "name": "茨木华扇",
+      "tag": "ibaraki kasen",
+      "charZh": "茨木华扇",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;pink eyes|粉瞳;red eyes|红瞳;pink hair|粉发;short hair|短发;double bun|双丸子头;bun cover|发髻装饰;small breasts|小胸;bandages|绷带;chinese clothes|中式服装;shackles|枷锁;tabard|罩袍;bandaged arm|缠着绷带的手臂"
+    },
+    {
+      "name": "宫古芳香",
+      "tag": "miyako yoshika",
+      "charZh": "宫古芳香",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;short hair|短发;blue hair|蓝发;star hat ornament|星形帽饰;hat|帽子;jiangshi|僵尸;ofuda|符纸"
+    },
+    {
+      "name": "黑谷山女",
+      "tag": "kurodani yamame",
+      "charZh": "黑谷山女",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;brown eyes|棕瞳;yellow eyes|黄瞳;blonde hair|金发;short hair|短发;ponytail|马尾;hair bow|蝴蝶结发饰"
+    },
+    {
+      "name": "幽谷响子",
+      "tag": "kasodani kyouko",
+      "charZh": "幽谷响子",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;animal ears|兽耳;dog ears|狗耳;green eyes|绿瞳;green hair|绿发;short hair|短发"
+    },
+    {
+      "name": "克劳恩皮丝",
+      "tag": "clownpiece",
+      "charZh": "克劳恩皮丝",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;red eyes|红瞳;blonde hair|金发;very long hair|超长发;long hair|长发;jester cap|小丑帽;american flag dress|美国国旗连衣裙;striped clothes|条纹衣;short sleeves|短袖;fairy wings|妖精翅膀;neck ruff|拉夫领"
+    },
+    {
+      "name": "赤蛮奇",
+      "tag": "sekibanki",
+      "charZh": "赤蛮奇",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;red eyes|红瞳;red hair|红发;short hair|短发;hair bow|蝴蝶结发饰;cape|披风;long sleeves|长袖;blue bow|蓝色蝴蝶结"
+    },
+    {
+      "name": "秋穰子",
+      "tag": "aki minoriko",
+      "charZh": "秋穰子",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;red eyes|红瞳;blonde hair|金发;short hair|短发;hat|帽子;mob cap|女仆帽"
+    },
+    {
+      "name": "稗田阿求",
+      "tag": "hieda no akyuu",
+      "charZh": "稗田阿求",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;purple eyes|紫瞳;purple hair|紫发;short hair|短发;hair flower|发花;kimono|和服"
+    },
+    {
+      "name": "少名针妙丸",
+      "tag": "sukuna shinmyoumaru",
+      "charZh": "少名针妙丸",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;purple eyes|紫瞳;red eyes|红瞳;purple hair|紫发;short hair|短发;kimono|和服;red kimono|红色和服;bowl hat|碗帽;wide sleeves|宽袖;long sleeves|长袖;mini person|迷你小人;minigirl|迷你女孩;obi|和服腰带"
+    },
+    {
+      "name": "二岩猯藏",
+      "tag": "futatsuiwa mamizou",
+      "charZh": "二岩猯藏",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;raccoon ears|浣熊耳;raccoon tail|浣熊尾巴;brown eyes|棕瞳;glasses|眼镜;brown hair|棕发;short hair|短发;leaf on head|头上叶子"
+    },
+    {
+      "name": "秋静叶",
+      "tag": "aki shizuha",
+      "charZh": "秋静叶",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;yellow eyes|黄瞳;blonde hair|金发;short hair|短发;leaf hair ornament|叶片发饰"
+    },
+    {
+      "name": "赫卡提亚",
+      "tag": "hecatia lapislazuli",
+      "charZh": "赫卡提亚",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;red eyes|红瞳;hair between eyes|眼间发;red hair|红发;long hair|长发;medium hair|中长发;medium breasts|中等胸;small breasts|小胸;clothes writing|衣服上的文字;black shirt|黑衬衫;off-shoulder shirt|露肩衬衫;t-shirt|T恤;multicolored skirt|多色裙;bare shoulders|露肩;short sleeves|短袖;earth (ornament)|地球装饰品;moon (ornament)|月亮装饰;chain|锁链"
+    },
+    {
+      "name": "上白泽慧音（白泽）",
+      "tag": "ex-keine",
+      "charZh": "上白泽慧音（白泽）",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;horns|犄角;tail|尾巴;horn ribbon|角上缎带;red eyes|红瞳;long hair|长发;green hair|绿发"
+    },
+    {
+      "name": "若鹭姬",
+      "tag": "wakasagihime",
+      "charZh": "若鹭姬",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;blue hair|蓝发;short hair|短发;drill hair|钻头卷;green kimono|绿色和服;long sleeves|长袖;wide sleeves|宽袖;head fins|头鳍;mermaid|人鱼;obi|和服腰带"
+    },
+    {
+      "name": "稀神探女",
+      "tag": "kishin sagume",
+      "charZh": "稀神探女",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;red eyes|红瞳;hair between eyes|眼间发;short hair|短发;grey hair|灰发;white hair|白发;french braid|法式辫;purple dress|紫色连衣裙;long sleeves|长袖;single wing|单翼;feathered wings|羽毛翅膀;white wings|白翼"
+    },
+    {
+      "name": "莉莉白",
+      "tag": "lily white",
+      "charZh": "莉莉白",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;blonde hair|金发;long hair|长发;hat|帽子;white dress|白色连衣裙;long sleeves|长袖;fairy wings|妖精翅膀;fairy|妖精"
+    },
+    {
+      "name": "琪斯美",
+      "tag": "kisume",
+      "charZh": "琪斯美",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;green hair|绿发;short hair|短发;twintails|双马尾;hair bobbles|球形发圈;wooden bucket|木桶"
+    },
+    {
+      "name": "梅蒂欣·梅兰可莉",
+      "tag": "medicine melancholy",
+      "charZh": "梅蒂欣·梅兰可莉",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;blonde hair|金发;short hair|短发;hair ribbon|发带"
+    },
+    {
+      "name": "哆来咪·苏伊特",
+      "tag": "doremy sweet",
+      "charZh": "哆来咪·苏伊特",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;tapir tail|貘尾;blue eyes|蓝瞳;blue hair|蓝发;short hair|短发;pom pom (clothes)|毛绒球;red headwear;dream soul;nightcap|睡帽"
+    },
+    {
+      "name": "露娜萨·普莉兹姆利巴",
+      "tag": "lunasa prismriver",
+      "charZh": "露娜萨·普莉兹姆利巴",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;yellow eyes|黄瞳;blonde hair|金发;short hair|短发;hat|帽子"
+    },
+    {
+      "name": "本居小铃",
+      "tag": "motoori kosuzu",
+      "charZh": "本居小铃",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;red eyes|红瞳;short hair|短发;red hair|红发;orange hair|橙发;two side up|半扎双马尾;hair bell|铃铛发饰;checkered kimono|方格和服;apron|围裙;checkered clothes|棋盘格衣物;wide sleeves|宽袖;long sleeves|长袖;jingle bell|球形铃铛"
+    },
+    {
+      "name": "宇佐见堇子",
+      "tag": "usami sumireko",
+      "charZh": "宇佐见堇子",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;brown eyes|棕瞳;glasses|眼镜;red-framed eyewear|红框眼镜;under-rim eyewear|下框眼镜;brown hair|棕发;short hair|短发;low twintails|低双马尾;hat bow|帽子蝴蝶结;long sleeves|长袖"
+    },
+    {
+      "name": "依神紫苑",
+      "tag": "yorigami shion",
+      "charZh": "依神紫苑",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;hair between eyes|眼间发;blue hair|蓝发;very long hair|超长发;long hair|长发;hair bow|蝴蝶结发饰;barefoot|赤脚;blue skirt|蓝裙;grey hoodie|灰色连帽衫;blue bow|蓝色蝴蝶结;short sleeves|短袖;bangle|手镯"
+    },
+    {
+      "name": "斯塔萨菲雅",
+      "tag": "star sapphire",
+      "charZh": "斯塔萨菲雅",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;brown eyes|棕瞳;long hair|长发;brown hair|棕发;black hair|黑发;very long hair|超长发;blunt bangs|齐刘海;hair bow|蝴蝶结发饰;blue dress|蓝色连衣裙;blue bow|蓝色蝴蝶结;fairy wings|妖精翅膀;fairy|妖精"
+    },
+    {
+      "name": "瓢太",
+      "tag": "pyonta",
+      "charZh": "瓢太",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;yellow eyes|黄瞳;blue eyes|蓝瞳;blonde hair|金发;short hair|短发;hat|帽子"
+    },
+    {
+      "name": "露娜切露德",
+      "tag": "luna child",
+      "charZh": "露娜切露德",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;red eyes|红瞳;blonde hair|金发;drill hair|钻头卷;short hair|短发;hat|帽子;fairy wings|妖精翅膀"
+    },
+    {
+      "name": "桑尼米尔克",
+      "tag": "sunny milk",
+      "charZh": "桑尼米尔克",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;fang|虎牙;blue eyes|蓝瞳;short hair|短发;blonde hair|金发;orange hair|橙发;two side up|半扎双马尾;twintails|双马尾;fairy wings|妖精翅膀;fairy|妖精;headdress|头饰"
+    },
+    {
+      "name": "依神女苑",
+      "tag": "yorigami jo'on",
+      "charZh": "依神女苑",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;orange eyes|橙瞳;eyewear on head|头顶眼镜;round eyewear|圆框眼镜;orange hair|橙发;light brown hair|浅棕发;long hair|长发;twintails|双马尾;hair bow|蝴蝶结发饰;sunglasses|墨镜;hat bow|帽子蝴蝶结;white dress|白色连衣裙;top hat|高礼帽;black headwear;purple coat|紫色外套;long sleeves|长袖;earrings|耳环;ring|戒指;necklace|项链;twin drills|双钻卷;pendant|吊坠;bangle|手镯"
+    },
+    {
+      "name": "云山",
+      "tag": "unzan",
+      "charZh": "云山",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;blue hair|蓝发;short hair|短发;hood|兜帽"
+    },
+    {
+      "name": "摩多罗隐岐奈",
+      "tag": "matara okina",
+      "charZh": "摩多罗隐岐奈",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;yellow eyes|黄瞳;hair between eyes|眼间发;blonde hair|金发;long hair|长发;medium breasts|中等胸;hat|帽子;black headwear;green skirt|绿色裙子;white shirt|白衬衫;brown headwear;wide sleeves|宽袖;long sleeves|长袖;detached sleeves|分离袖;orange sleeves|橙色袖子;tabard|罩袍;black hat|黑帽"
+    },
+    {
+      "name": "梅露兰·普莉兹姆利巴",
+      "tag": "merlin prismriver",
+      "charZh": "梅露兰·普莉兹姆利巴",
+      "game": "东方Project",
+      "gameTag": "touhou project",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;short hair|短发;blue hair|蓝发;small breasts|小胸;hat|帽子;trumpet|小号"
+    }
+  ]
+}

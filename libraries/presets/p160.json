@@ -1,0 +1,9 @@
+{
+  "key": "p160",
+  "id": "p160",
+  "name": "大特写",
+  "desc": "脸部占满画面",
+  "cat": "构图镜头",
+  "tags": "1girl|一个女孩;extreme close-up|大特写;detailed face|精细面部;depth of field|景深;soft lighting|柔光;looking at viewer|看向观者",
+  "builtin": true
+}

@@ -1,0 +1,249 @@
+{
+  "id": "feet",
+  "name": "脚",
+  "icon": "🦶",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 21,
+  "file": "character_base/character_base_feet.json",
+  "updatedAt": "2026-11-18T05:36:30.170Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "bare feet",
+      "zh": "赤足",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "feet",
+      "zh": "脚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 280152,
+      "desc": "明显展示或细致刻画的脚，可被袜子等覆盖。",
+      "kw": "足 / 脚部 / 足部 / 双脚 / 双足 / 身体部位 / foot / 足フェチ"
+    },
+    {
+      "en": "barefoot",
+      "zh": "赤脚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 514321,
+      "desc": "双脚完全裸露，未穿鞋袜",
+      "kw": "光脚 / 裸足 / 素足 / 玉足 / 光脚丫 / 光着脚 / 没穿鞋 / bare feet / bare foot / barefeet / 生足"
+    },
+    {
+      "en": "soles",
+      "zh": "脚底",
+      "rating": "s",
+      "nsfw": false,
+      "count": 153420,
+      "desc": "脚底可见。",
+      "kw": "脚掌 / 足底 / 脚底板 / 脚心 / 足掌 / 光脚底 / 足弓 / 足部 / sole / 足里 / 足裏 / 裸足裏"
+    },
+    {
+      "en": "arched soles",
+      "zh": "足弓",
+      "rating": "g",
+      "nsfw": false,
+      "count": 426,
+      "desc": "脚底呈拱形弯曲的姿势",
+      "kw": "拱足 / 脚底拱起 / 拱形脚底 / 弓足 / 足底弯曲 / 脚弓 / 脚部 / 足底"
+    },
+    {
+      "en": "light-skinned soles",
+      "zh": "浅色脚底",
+      "rating": "g",
+      "nsfw": false,
+      "count": 362,
+      "desc": "脚底肤色比身体其他部位更浅",
+      "kw": "脚底浅肤色 / 浅肤色脚底 / 脚底颜色浅 / 脚底浅色 / 脚底肤色浅 / 脚底 / 脚部"
+    },
+    {
+      "en": "toes",
+      "zh": "脚趾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 246001,
+      "desc": "脚前端的趾头",
+      "kw": "脚趾头 / 足趾 / 趾头 / 脚指 / 脚指头 / 脚趾丫 / 足部 / 足指 / 足の指"
+    },
+    {
+      "en": "greek toe",
+      "zh": "希腊脚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1989,
+      "desc": "第二脚趾比大脚趾长的脚型，又称莫顿趾",
+      "kw": "莫顿趾 / 希腊型脚 / 希腊脚型 / 第二趾长 / 二趾长 / 长二趾 / 脚型 / ギリシャ型"
+    },
+    {
+      "en": "between toes",
+      "zh": "趾间",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1807,
+      "desc": "某物夹在脚趾之间",
+      "kw": "脚趾缝 / 脚趾间 / 趾缝 / 脚部 / 身体部位"
+    },
+    {
+      "en": "toe cleavage",
+      "zh": "露趾沟",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1384,
+      "desc": "穿鞋时从鞋面开口露出的脚趾根部缝隙",
+      "kw": "脚趾缝 / 趾间缝隙 / 露趾缝 / 脚趾沟 / 趾沟 / 趾间沟 / 脚趾 / 暴露"
+    },
+    {
+      "en": "toenails",
+      "zh": "脚趾甲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 76656,
+      "desc": "画面中清晰可见、并非圆钝的脚趾甲",
+      "kw": "脚指甲 / 趾甲 / 脚趾盖 / 脚甲 / 脚部 / toenail"
+    },
+    {
+      "en": "long toenails",
+      "zh": "长趾甲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1160,
+      "desc": "脚趾甲超过约1厘米",
+      "kw": "长脚指甲 / 脚趾甲过长 / 脚部细节 / long nails (toes)"
+    },
+    {
+      "en": "feet only",
+      "zh": "足部特写",
+      "rating": "s",
+      "nsfw": false,
+      "count": 1178,
+      "desc": "画面仅呈现双脚特写",
+      "kw": "双脚特写 / 双足特写 / 脚部特写 / 只有双脚 / 仅脚部 / 脚 / 局部"
+    },
+    {
+      "en": "dirty feet",
+      "zh": "脏脚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1656,
+      "desc": "赤脚走路弄脏的脚",
+      "kw": "脚脏了 / 沾满泥土的脚 / 满是灰尘的脚 / 脏脚丫 / 脚底脏 / 脏脚底 / 脚底沾灰 / 足裏汚れ"
+    },
+    {
+      "en": "ninja toes",
+      "zh": "忍者足",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40
+    },
+    {
+      "en": "toenail polish",
+      "zh": "脚趾甲油",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41034,
+      "desc": "涂在脚趾甲上的指甲油。",
+      "kw": "趾甲油 / 脚指甲油 / 脚趾甲彩绘 / 足部美甲 / 美甲 / ペディキュア"
+    },
+    {
+      "en": "foot focus",
+      "zh": "脚部特写",
+      "rating": "s",
+      "nsfw": false,
+      "count": 39127,
+      "desc": "以脚为画面主体或特写，常靠近镜头或展示给观者。",
+      "kw": "脚特写 / 足控视角 / 脚部聚焦 / 足部聚焦 / 构图 / 焦点 / 景深 / feet focus / pov feet / 足控"
+    },
+    {
+      "en": "sharp toenails",
+      "zh": "尖锐脚趾甲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2353,
+      "desc": "尖锐的脚趾甲，区别于爪子",
+      "kw": "尖脚趾甲 / 尖锐趾甲 / 尖趾甲 / 锋利脚趾甲 / 脚趾甲 / 身体部位 / pointy toenails"
+    },
+    {
+      "en": "lipstick mark on foot",
+      "zh": "足部唇印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20
+    },
+    {
+      "en": "animal feet",
+      "zh": "兽足",
+      "rating": "g",
+      "count": 9403,
+      "desc": "人形角色长着动物后脚",
+      "kw": "兽脚 / 动物脚 / 动物足 / 兽类脚 / 动物后足 / 动物特征 / 兽化 / ケモ足"
+    },
+    {
+      "en": "cat feet",
+      "zh": "猫足",
+      "rating": "g",
+      "count": 207,
+      "desc": "画面中露出猫的脚掌或肉球",
+      "kw": "猫脚 / 猫爪 / 猫掌 / 肉球 / 猫肉球 / 猫爪垫 / 猫脚掌 / 兽耳特征"
+    },
+    {
+      "en": "mechanical foot",
+      "zh": "机械脚",
+      "rating": "g",
+      "count": 152,
+      "desc": "以机械足替代人脚的脚部",
+      "kw": "机械足 / 机械义足 / 机器人脚 / 假肢脚 / 义足 / 机械脚部 / 义肢 / 科幻"
+    },
+    {
+      "en": "no feet",
+      "zh": "无脚",
+      "rating": "g",
+      "count": 4608,
+      "desc": "角色天生没有正常的脚，腿末端呈尖状等",
+      "kw": "没有脚 / 没脚 / 无足 / 缺脚 / 无脚角色 / 腿无脚 / 缺失 / 肢体缺失"
+    },
+    {
+      "en": "pawpads",
+      "zh": "肉垫",
+      "rating": "g",
+      "count": 11053,
+      "desc": "动物脚掌柔软的肉垫",
+      "kw": "肉球 / 爪垫 / 脚掌肉垫 / 掌心肉垫 / 掌球 / 肉掌 / 肉垫爪 / 动物特征 / toe beans"
+    },
+    {
+      "en": "red feet",
+      "zh": "红色的脚",
+      "rating": "g",
+      "count": 725,
+      "desc": "颜色为红色的脚",
+      "kw": "红脚 / 红色脚部 / 红色双足 / 红足 / 赤红的脚 / 红色脚掌 / 红颜色的脚 / 脚部"
+    },
+    {
+      "en": "single bare foot",
+      "zh": "单只裸足",
+      "rating": "g",
+      "count": 3057,
+      "desc": "一只脚穿鞋袜、另一只脚完全赤足",
+      "kw": "单脚赤足 / 一只脚光脚 / 单脚光脚 / 单裸足 / 单脚裸足 / 一只脚赤脚 / 单边裸足 / single barefoot"
+    },
+    {
+      "en": "sweaty feet",
+      "zh": "汗湿的脚",
+      "rating": "s",
+      "count": 641,
+      "desc": "出汗而潮湿的脚",
+      "kw": "汗脚 / 出汗的脚 / 湿脚 / 汗淋淋的脚 / 脚汗 / 恋足 / 湿润脚部 / sweaty foot"
+    },
+    {
+      "en": "webbed feet",
+      "zh": "蹼足",
+      "rating": "g",
+      "count": 549,
+      "desc": "趾间长有蹼的脚，见于鸭蛙等水栖动物",
+      "kw": "鸭蹼脚 / 蛙蹼脚 / 带蹼的脚 / 蹼脚 / 动物特征 / 水生"
+    }
+  ]
+}

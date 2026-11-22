@@ -1,0 +1,875 @@
+{
+  "id": "camera",
+  "name": "镜头",
+  "icon": "📷",
+  "parentId": "style_group",
+  "level": 2,
+  "order": 4,
+  "file": "style_group/style_group_camera.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "35mm film photo",
+      "zh": "35mm 胶片照片",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "medium format photo",
+      "zh": "中画幅照片",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wide-angle shot",
+      "zh": "广角镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "telephoto shot",
+      "zh": "长焦压缩",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "macro shot",
+      "zh": "微距特写",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "depth of field",
+      "zh": "景深",
+      "rating": "g",
+      "nsfw": false,
+      "count": 126999,
+      "desc": "部分画面失焦模糊，模仿摄影景深效果。",
+      "kw": "景深效果 / 背景虚化 / 前景虚化 / 浅景深 / 焦点模糊 / 虚化效果 / 对焦模糊 / 摄影 / focus blur / 被写界深度 / 피사계심도 / 虚化背景"
+    },
+    {
+      "en": "shallow depth of field",
+      "zh": "浅景深",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "deep depth of field",
+      "zh": "深景深",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bokeh",
+      "zh": "虚化光斑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10864,
+      "desc": "背景中圆形失焦光斑的摄影效果",
+      "kw": "焦外成像 / 焦外 / 背景虚化 / 光斑 / 圆形光斑 / 散焦 / 摄影效果 / ボケ表現 / シャロー・フォーカス"
+    },
+    {
+      "en": "motion blur",
+      "zh": "动态模糊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35788,
+      "desc": "为表现快速移动而使画面部分产生模糊。",
+      "kw": "运动模糊 / 速度模糊 / 残影模糊 / 动画模糊 / 动态残影 / 快速移动模糊 / 模糊特效 / 构图 / モーションブラー"
+    },
+    {
+      "en": "film grain",
+      "zh": "胶片颗粒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 27513,
+      "desc": "胶片照片特有的颗粒状噪点质感。",
+      "kw": "胶片颗粒感 / 胶片噪点 / 颗粒噪点 / 胶片质感 / 颗粒感 / 噪点颗粒 / 噪点 / 效果 / grainy / noise (visual) / 噪点 / 粒状フィルム"
+    },
+    {
+      "en": "ray tracing",
+      "zh": "光线追踪",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "chromatic aberration",
+      "zh": "色差",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39739,
+      "desc": "图像边缘出现彩色重影或光晕的色差效果。",
+      "kw": "色散 / 色收差 / 彩色边缘 / 色差效果 / 色散效果 / 彩色重影 / 镜头效果 / 特效 / 色収差"
+    },
+    {
+      "en": "fisheye lens",
+      "zh": "鱼眼镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wide angle lens",
+      "zh": "广角镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "telephoto lens",
+      "zh": "长焦镜头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17
+    },
+    {
+      "en": "macro lens",
+      "zh": "微距镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "85mm lens",
+      "zh": "85毫米镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "50mm lens",
+      "zh": "50毫米镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "35mm lens",
+      "zh": "35毫米镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "24mm lens",
+      "zh": "24毫米镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sharp focus",
+      "zh": "锐利对焦",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "soft focus",
+      "zh": "柔焦",
+      "rating": "g",
+      "nsfw": false,
+      "count": 287,
+      "desc": "模拟镜头柔焦、主体清晰而边缘模糊的手法",
+      "kw": "柔焦效果 / 软焦点 / 柔焦摄影 / 柔和聚焦 / 边缘模糊 / 柔焦滤镜 / 柔焦画面 / 摄影效果"
+    },
+    {
+      "en": "out of focus",
+      "zh": "失焦",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cinematic rendering",
+      "zh": "电影感渲染",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hdr",
+      "zh": "高动态范围",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tonemapping",
+      "zh": "色调映射",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ambient occlusion",
+      "zh": "环境光遮蔽",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "global illumination",
+      "zh": "全局光照",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "screen space reflections",
+      "zh": "屏幕空间反射",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "anamorphic lens",
+      "zh": "变形镜头",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "lens distortion",
+      "zh": "镜头畸变",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "vignetting",
+      "zh": "暗角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2892,
+      "desc": "画面四周比中心更暗的效果",
+      "kw": "画面暗角 / 照片暗角 / 渐晕 / 晕影 / 边缘暗角 / 四角暗角 / 暗角效果"
+    },
+    {
+      "en": "tilt-shift",
+      "zh": "移轴效果",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "long exposure",
+      "zh": "长曝光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29
+    },
+    {
+      "en": "high shutter speed",
+      "zh": "高速快门",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "low shutter speed",
+      "zh": "低速快门",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "film photography",
+      "zh": "胶片摄影感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "polaroid",
+      "zh": "拍立得质感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dslr",
+      "zh": "单反画质",
+      "rating": "g",
+      "nsfw": false,
+      "count": 122,
+      "desc": "可换镜头的数码单反相机",
+      "kw": "数码单反 / 单反数码相机 / 单反相机 / 数码单镜头反光相机 / 相机 / 摄影器材"
+    },
+    {
+      "en": "smartphone photo",
+      "zh": "手机摄影感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "analog photo",
+      "zh": "模拟照片质感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cgi render",
+      "zh": "CG渲染",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "3d render",
+      "zh": "三维渲染",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "octane render",
+      "zh": "Octane渲染",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "unreal engine",
+      "zh": "虚幻引擎画质",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "photorealistic",
+      "zh": "照片级真实",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1833,
+      "desc": "逼真到几乎看不出是画作",
+      "kw": "超写实 / 逼真 / 照片级 / 拟真 / 写实派 / 超真实 / 像照片一样 / 照片质感 / 写真かと思った"
+    },
+    {
+      "en": "hyperdetailed",
+      "zh": "超精细",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "posterized",
+      "zh": "色调分层",
+      "rating": "g",
+      "nsfw": false,
+      "count": 68,
+      "desc": "由少量纯色块组成、没有渐变和阴影的图。",
+      "kw": "色彩分离 / 海报化 / 平涂色块 / 纯色块风格"
+    },
+    {
+      "en": "color grading",
+      "zh": "调色处理",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "double exposure",
+      "zh": "多重曝光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1128,
+      "desc": "两张或多张影像叠加的效果，常用于轮廓内嵌入",
+      "kw": "二次曝光 / 影像叠加 / 轮廓填充 / 负空间剪影 / 叠影 / 双重曝光效果 / 构图 / image fill / 多重露光"
+    },
+    {
+      "en": "lens compression",
+      "zh": "长焦压缩感",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "high fps capture",
+      "zh": "高帧率抓拍",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "candid",
+      "zh": "抓拍",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "side view",
+      "zh": "侧视",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "shallow depth of field with bokeh lights",
+      "zh": "浅景深带着散景光斑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "faint film grain and slight vignette",
+      "zh": "轻微的胶片颗粒与暗角",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "selfie",
+      "zh": "自拍",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32910,
+      "desc": "用相机或手机拍摄自己",
+      "kw": "自拍照 / 自拍相 / 自摄 / 自拍照片 / 自拍图 / 摄影 / self shot / 自分撮り / 自画撮り / 自撮り"
+    },
+    {
+      "en": "subsurface scattering",
+      "zh": "次表面散射",
+      "rating": "g",
+      "nsfw": false,
+      "count": 294,
+      "desc": "光线透过半透明物体内部散射的渲染效果。",
+      "kw": "子面散射 / 次表面散射效果 / 半透明散射 / 渲染 / 光效"
+    },
+    {
+      "en": "female pov",
+      "zh": "女性视角",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9447,
+      "desc": "以女性角色为第一人称的视角。",
+      "kw": "女性第一人称视角 / 女主视角 / 女性主观视角 / 女性视点 / 第一人称视角 / POV / 女性主観视点 / 谷间本人视点 / 女性主観視点 / 谷間本人視点"
+    },
+    {
+      "en": "action shot",
+      "zh": "动作镜头",
+      "rating": "g",
+      "count": 2927,
+      "desc": "具有戏剧性动作的图像，例如杂技、追逐、动态射击或古怪姿势。",
+      "kw": "动态镜头 / 动作场景 / 动感画面"
+    },
+    {
+      "en": "animal focus",
+      "zh": "动物特写",
+      "rating": "g",
+      "count": 48394,
+      "desc": "以一只或多只动物为画面主体的作品，不用于兽人角色。",
+      "kw": "动物主体 / 动物为主 / 动物中心 / 动物主题 / 动物特写镜头 / 动物焦点 / 动物 / 特写 / animal art / animalart / animalillustration / 动物"
+    },
+    {
+      "en": "blurry edges",
+      "zh": "边缘模糊",
+      "rating": "g",
+      "count": 804,
+      "desc": "画面四角模糊，引导视线集中到中心",
+      "kw": "模糊边缘 / 四角模糊 / 画面边缘模糊 / 周边模糊 / 四周模糊 / 柔焦边缘 / 特效 / 画面"
+    },
+    {
+      "en": "blurry foreground",
+      "zh": "模糊前景",
+      "rating": "g",
+      "count": 42792,
+      "desc": "前景失焦模糊，常用于突出主体。",
+      "kw": "前景模糊 / 前景虚化 / 虚化前景 / 前景失焦 / 景深效果"
+    },
+    {
+      "en": "book focus",
+      "zh": "书本特写",
+      "rating": "g",
+      "count": 382,
+      "desc": "书本作为画面主体的特写",
+      "kw": "书为主体 / 书本主体 / 以书为主 / 书本焦点 / 书籍特写 / 书本占主体 / 书本为主 / 书籍焦点"
+    },
+    {
+      "en": "clothes focus",
+      "zh": "服装聚焦",
+      "rating": "g",
+      "count": 764,
+      "desc": "画面主要表现服装或头饰，人物常不完整。",
+      "kw": "服装特写 / 衣物特写 / 服装展示 / 只看衣服 / 衣服特写 / 服装为主体 / 服饰聚焦 / clothes only"
+    },
+    {
+      "en": "cloud focus",
+      "zh": "以云为主体",
+      "rating": "g",
+      "count": 402,
+      "desc": "画面以云为主要表现对象或主题。",
+      "kw": "云为主体 / 云特写 / 云主题 / 突出云 / 云景主体 / 云作为主体 / 云焦点 / 云主要表现"
+    },
+    {
+      "en": "creature focus",
+      "zh": "生物聚焦",
+      "rating": "g",
+      "count": 2087,
+      "desc": "以一只或多只生物为主体的构图",
+      "kw": "生物特写 / 生物焦点 / 生物主体 / 动物聚焦 / 怪兽聚焦 / 以生物为主 / 构图"
+    },
+    {
+      "en": "crotch focus",
+      "zh": "裆部聚焦",
+      "rating": "s",
+      "count": 2087,
+      "desc": "构图以人物裆部为视觉中心或强调部位。",
+      "kw": "裆部特写 / 裆部强调 / 胯下视角 / 裤裆特写 / 下体聚焦 / 重点裆部 / 局部特写"
+    },
+    {
+      "en": "fisheye",
+      "zh": "鱼眼",
+      "rating": "g",
+      "count": 6908,
+      "desc": "模拟鱼眼镜头夸张畸变的画面",
+      "kw": "鱼眼透视 / 鱼眼畸变 / 广角畸变 / 鱼眼效果 / 镜头效果 / 摄影 / 広角 / 鱼眼 / 魚眼レンズ / 魚眼"
+    },
+    {
+      "en": "flower focus",
+      "zh": "花朵特写",
+      "rating": "g",
+      "count": 1030,
+      "desc": "以花朵为主要表现对象的作品",
+      "kw": "花特写 / 聚焦花朵 / 花朵聚焦 / 花卉聚焦 / 以花为主 / 花朵主体 / 摄影 / 特写"
+    },
+    {
+      "en": "footwear focus",
+      "zh": "鞋类聚焦",
+      "rating": "g",
+      "count": 1164,
+      "desc": "以鞋类为画面主体",
+      "kw": "鞋子特写 / 聚焦鞋袜 / 以鞋为主 / 鞋类特写 / 鞋袜焦点 / 鞋子主体 / 鞋子中心 / 鞋子"
+    },
+    {
+      "en": "from inside",
+      "zh": "由内向外视角",
+      "rating": "g",
+      "count": 982,
+      "desc": "从室内/内部向外的视角",
+      "kw": "从内部视角 / 室内视角 / 从室内向外看 / 内向外视角 / 内部视角 / 室内看向室外 / 从里向外"
+    },
+    {
+      "en": "from outside",
+      "zh": "窗外视角",
+      "rating": "g",
+      "count": 2916,
+      "desc": "从室外向室内看的视角，常通过窗户或入口",
+      "kw": "从外向里看 / 室外看向室内 / 从室外看室内 / 户外看向室内 / 从外向里 / 构图 / 外部视角 / 透视 / 从外向里"
+    },
+    {
+      "en": "futanari pov",
+      "zh": "扶她视角",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1498,
+      "desc": "以扶她角色为第一人称视角。",
+      "kw": "扶他视角 / 扶她第一人称视角 / 扶她主观视角 / 扶他第一人称视角 / 扶她视角画面 / 双性角色视角 / 扶他第一视角 / 扶她 / futa pov"
+    },
+    {
+      "en": "hair focus",
+      "zh": "头发特写",
+      "rating": "g",
+      "count": 931,
+      "desc": "以头发为表现重点的图。",
+      "kw": "头发焦点 / 以头发为焦点 / 发丝特写 / 头发重点 / 秀发特写 / 头发细节 / 头发为主 / 头发中心"
+    },
+    {
+      "en": "heavy film grain",
+      "zh": "重胶片颗粒",
+      "rating": "g",
+      "count": 539,
+      "desc": "颗粒感特别强的胶片颗粒效果",
+      "kw": "重度胶片颗粒 / 重颗粒感 / 强胶片颗粒 / 胶片颗粒滥用 / 浓重颗粒 / 噪点 / 胶片效果 / 摄影 / film grain abuse"
+    },
+    {
+      "en": "hidden camera",
+      "zh": "隐藏的相机",
+      "rating": "s",
+      "count": 588,
+      "desc": "角色被隐藏的摄像头偷拍而不知情。",
+      "kw": "隐藏摄像头 / 偷拍摄像头 / 针孔摄像头 / 隐藏摄影机 / 偷拍相机 / 隐藏镜头 / 隐藏摄像机 / 监视器 / spycam"
+    },
+    {
+      "en": "hip focus",
+      "zh": "臀部特写",
+      "rating": "s",
+      "count": 16301,
+      "desc": "臀部或胯部成为画面重点的构图",
+      "kw": "胯部特写 / 臀部焦点 / 臀部重点 / 屁股特写 / 腰胯特写 / 翘臀特写 / 臀部突出 / 臀部聚焦 / hips"
+    },
+    {
+      "en": "implied pantyshot",
+      "zh": "暗示裙底",
+      "rating": "s",
+      "count": 795,
+      "desc": "画面内角色能看到走光但观者看不到",
+      "kw": "暗示走光 / 间接裙底 / 角色可见的裙底 / 非直接内裤走光 / 暗示内裤 / 内裤 / 粉丝服务"
+    },
+    {
+      "en": "kanji focus",
+      "zh": "汉字聚焦",
+      "rating": "g",
+      "count": 228,
+      "desc": "以汉字作为画面设计元素或视觉焦点",
+      "kw": "汉字特写 / 汉字焦点 / 汉字视觉焦点 / 以汉字为主体 / 汉字为中心 / 汉字强调 / 突出汉字 / 汉字设计元素"
+    },
+    {
+      "en": "leg focus",
+      "zh": "腿部聚焦",
+      "rating": "s",
+      "count": 870,
+      "desc": "画面以角色的腿部为焦点",
+      "kw": "腿部特写 / 腿聚焦 / 重点在腿 / 腿部重点 / 美腿聚焦 / 焦点 / 景深 / 腿"
+    },
+    {
+      "en": "mecha focus",
+      "zh": "机甲特写",
+      "rating": "g",
+      "count": 14879,
+      "desc": "以机甲为主要表现对象的图片",
+      "kw": "机甲主体 / 以机甲为主 / 机甲焦点 / 机器人特写 / 机甲核心 / 机甲为重点 / 机甲重点 / 机甲"
+    },
+    {
+      "en": "monster focus",
+      "zh": "怪物聚焦",
+      "rating": "g",
+      "count": 1852,
+      "desc": "以一只或多只怪物为主体的图",
+      "kw": "以怪物为主体 / 怪物中心 / 怪物主角 / 聚焦怪物 / 怪物特写 / 构图"
+    },
+    {
+      "en": "mountain focus",
+      "zh": "以山为主体",
+      "rating": "g",
+      "count": 445,
+      "desc": "以山脉为画面主体的图",
+      "kw": "山景主体 / 山为主景 / 以山脉为主体 / 山景焦点 / 山岳主体 / 以山为中心 / 山脉焦点 / 山脉"
+    },
+    {
+      "en": "mouth focus",
+      "zh": "嘴部特写",
+      "rating": "g",
+      "count": 476,
+      "desc": "以角色嘴部为主的特写",
+      "kw": "嘴巴特写 / 唇部特写 / 嘴部聚焦 / 口部特写 / 嘴唇特写 / 嘴 / 面部特写"
+    },
+    {
+      "en": "navel focus",
+      "zh": "肚脐特写",
+      "rating": "s",
+      "count": 845,
+      "desc": "画面重点放在肚脐、腹部或腹肌上。",
+      "kw": "肚脐焦点 / 腹部特写 / 肚脐特写镜头 / 肚脐聚焦 / 腹肌特写 / 肚子特写 / 肚脐强调 / 肚脐"
+    },
+    {
+      "en": "neck focus",
+      "zh": "颈部特写",
+      "rating": "g",
+      "count": 183,
+      "desc": "画面重点放在角色的脖子上。",
+      "kw": "脖子特写 / 颈部焦点 / 颈部聚焦 / 脖子焦点 / 脖颈特写 / 特写 / 身体部位"
+    },
+    {
+      "en": "object focus",
+      "zh": "物品聚焦",
+      "rating": "g",
+      "count": 3094,
+      "desc": "除武器车衣食物外的无生物为画面焦点",
+      "kw": "物件聚焦 / 物品特写 / 物件特写 / 物品焦点 / 静物聚焦 / 物体焦点 / 物体聚焦 / 摄影"
+    },
+    {
+      "en": "other focus",
+      "zh": "其他角色聚焦",
+      "rating": "g",
+      "count": 34489,
+      "desc": "画面以无性别或性别不明角色为主。",
+      "kw": "其他聚焦 / 无性别角色聚焦 / 性别不明角色聚焦 / 其他人物聚焦 / 无性别角色为主 / 他者焦点 / 焦点 / 构图"
+    },
+    {
+      "en": "partially underwater shot",
+      "zh": "半水下镜头",
+      "rating": "g",
+      "count": 2911,
+      "desc": "画面被水面分成上下两半",
+      "kw": "半水下画面 / 水面分割镜头 / 半水面镜头 / 水中半潜镜头 / 水下半潜镜头 / 半水下构图 / 构图 / 水下"
+    },
+    {
+      "en": "pectoral focus",
+      "zh": "胸肌焦点",
+      "rating": "s",
+      "count": 1252,
+      "desc": "构图特写强调胸肌，尤其男性。",
+      "kw": "胸肌特写 / 胸部焦点 / 胸肌重点 / 胸膛特写 / 胸大肌焦点 / 胸肌强调 / 男性胸肌 / 胸肌视角"
+    },
+    {
+      "en": "plant focus",
+      "zh": "植物聚焦",
+      "rating": "g",
+      "count": 938,
+      "desc": "以植物为主要表现对象的帖子",
+      "kw": "以植物为主 / 植物特写 / 植物中心 / 植物主体 / 植物为主 / 植物 / 焦点"
+    },
+    {
+      "en": "pokemon focus",
+      "zh": "宝可梦特写",
+      "rating": "g",
+      "count": 50598,
+      "desc": "以一只或多只宝可梦为画面主体的作品。",
+      "kw": "宝可梦主体 / 宝可梦为主 / 神奇宝贝特写 / 口袋妖怪特写 / 宝可梦中心 / 以宝可梦为主 / 宝可梦 / 焦点"
+    },
+    {
+      "en": "pov across bed",
+      "zh": "同床对视的第一人称视角",
+      "rating": "s",
+      "count": 1280,
+      "desc": "角色躺在床上与观看者对视的第一人称视角",
+      "kw": "床上对视视角 / 同床对视 / 床对面视角 / 躺在床上对视 / 第一人称同床 / 隔床视角 / POV / 床上视角"
+    },
+    {
+      "en": "pov across table",
+      "zh": "隔桌视角",
+      "rating": "g",
+      "count": 3647,
+      "desc": "观看者与角色隔着桌子对坐的视角。",
+      "kw": "对面桌视角 / 隔着桌子看 / 桌对面视角 / 面对面隔桌视角 / 隔桌视点 / 视角 / POV"
+    },
+    {
+      "en": "pov breasts",
+      "zh": "胸部视角",
+      "rating": "s",
+      "count": 1318,
+      "desc": "观看者自己胸部入镜的第一人称视角",
+      "kw": "第一人称胸部 / 胸角度 / 看胸视角 / 主观视角胸部 / 胸前视角 / 第一人称看胸 / 乳视角 / 第一视角胸部"
+    },
+    {
+      "en": "pov crotch",
+      "zh": "第一人称胯部视角",
+      "rating": "s",
+      "count": 33489,
+      "desc": "观看者自己胯部入镜的第一人称视角",
+      "kw": "第一人称裆部视角 / 主观胯部视角 / POV胯下视角 / 胯下视角 / 胯部视角 / POV / 视角"
+    },
+    {
+      "en": "pov doorway",
+      "zh": "门口视角",
+      "rating": "g",
+      "count": 3833,
+      "desc": "从门口或开门处看过去的第一人称视角",
+      "kw": "门口POV / 门缝视角 / 开门视角 / 从门口看 / 门内视角 / 门口视点 / 视角 / POV"
+    },
+    {
+      "en": "pov hands",
+      "zh": "第一人称视角的手",
+      "rating": "g",
+      "count": 50579,
+      "desc": "观看者自己的手出现在画面中的第一人称视角。",
+      "kw": "第一视角手 / 主观视角手 / 观众手 / 入镜的手 / 第一人称手 / 第一视角手部 / POV / 视角 / hand pov"
+    },
+    {
+      "en": "pov legs",
+      "zh": "主观视角腿",
+      "rating": "g",
+      "count": 878,
+      "desc": "观看者自己的腿或脚入镜的构图",
+      "kw": "第一人称视角腿 / 第一人称腿 / 视角腿 / 主观腿部 / 主视角腿 / POV 腿部 / 视角 / 腿部 / pov feet"
+    },
+    {
+      "en": "pov peephole",
+      "zh": "猫眼视角",
+      "rating": "g",
+      "count": 1114,
+      "desc": "透过门镜猫眼看出去的鱼眼视角。",
+      "kw": "门镜视角 / 窥视孔视角 / 偷窥孔视角 / 门孔视角 / 猫眼窥视 / 鱼眼窥视 / 门洞视角 / 视角"
+    },
+    {
+      "en": "pov shadow",
+      "zh": "视角阴影",
+      "rating": "g",
+      "count": 626,
+      "desc": "画面中出现观看者投下的影子。",
+      "kw": "观看者影子 / 第一人称影子 / 观众影子 / 旁观者影子 / 观察者影子 / 人影投射 / 自己的影子 / POV 影子"
+    },
+    {
+      "en": "pov stomped",
+      "zh": "被踩视角",
+      "rating": "s",
+      "count": 761,
+      "desc": "第一人称视角下被脚踩踏的场景。",
+      "kw": "POV / 踩踏"
+    },
+    {
+      "en": "reflection focus",
+      "zh": "倒影聚焦",
+      "rating": "g",
+      "count": 6148,
+      "desc": "主体几乎被遮挡、主要靠倒影传达信息的画面",
+      "kw": "反射聚焦 / 倒影为主体 / 反射主体 / 镜面倒影聚焦 / 倒影突出 / 光效 / 摄影"
+    },
+    {
+      "en": "sky focus",
+      "zh": "天空聚焦",
+      "rating": "g",
+      "count": 1219,
+      "desc": "天空占主导或为画面唯一焦点",
+      "kw": "天空焦点 / 天空特写 / 以天空为主 / 天空主导 / 天空景色 / 天际"
+    },
+    {
+      "en": "steppee focus",
+      "zh": "被踩者主体",
+      "rating": "s",
+      "count": 673,
+      "desc": "画面焦点在被踩或被跪坐的对象上。",
+      "kw": "以被踩者为主体 / 被踩者特写 / 受踩者焦点 / 被踩者视角 / 视角 / 特写"
+    },
+    {
+      "en": "taker pov",
+      "zh": "受方视角",
+      "rating": "q",
+      "nsfw": true,
+      "count": 866,
+      "desc": "以性行为中被动或被插入一方视角呈现的画面",
+      "kw": "受视角 / 被插入方视角 / 被动方视角 / 被插方视角 / 挨草视角 / 接受者视角 / 被插入者视角 / 正面向き前傾ペニス"
+    },
+    {
+      "en": "tree focus",
+      "zh": "树木特写",
+      "rating": "g",
+      "count": 258,
+      "desc": "以某棵特定树木为画面主景的作品",
+      "kw": "树特写 / 树木焦点 / 以树为主 / 树木主体 / 树木特写画面 / 树木前景 / 树木聚焦 / 单树焦点"
+    },
+    {
+      "en": "upshirt",
+      "zh": "从衬衫下方看",
+      "rating": "s",
+      "count": 1681,
+      "desc": "从下往上看进衬衫内部的视角。",
+      "kw": "衬衫下摆视角 / 从下往上看衬衫 / 衬衫内窥 / 下摆内视 / 衬衫底下走光 / 向上看衬衫 / 衬衫下摆内看 / 掀起上衣"
+    },
+    {
+      "en": "upshorts",
+      "zh": "短裤下窥视",
+      "rating": "s",
+      "count": 1861,
+      "desc": "从下方窥视短裤内部",
+      "kw": "从短裤下方窥视 / 短裤下走光 / 短裤底视角 / 从短裤下往上看 / 短裤内视角 / 短裤底见 / 短裤 / 暴露"
+    },
+    {
+      "en": "vehicle focus",
+      "zh": "载具特写",
+      "rating": "g",
+      "count": 15535,
+      "desc": "以载具为画面主要焦点的图",
+      "kw": "载具焦点 / 车辆特写 / 车辆焦点 / 汽车特写 / 交通工具特写 / 载具主体 / 车图 / 车车图 / tank focus / カーイラスト / ウマ娘モータリゼーション / 艦これモータリゼーション"
+    },
+    {
+      "en": "view between legs",
+      "zh": "双腿之间视角",
+      "rating": "s",
+      "count": 774,
+      "desc": "从角色双腿之间取景的构图",
+      "kw": "腿间视角 / 胯下视角 / 双腿间的构图 / 从腿间看 / 裆下视角 / 双腿间视角 / 低角度 / 双腿之间视图 / アーチフェラ"
+    },
+    {
+      "en": "viewfinder",
+      "zh": "相机取景框",
+      "rating": "g",
+      "count": 11155,
+      "desc": "画面四角出现相机取景框线条，表示被拍摄",
+      "kw": "取景框 / 相机取景框线 / 相机边框 / 摄影取景框 / 录像取景框 / 取景器 / 相机 / 摄影 / camera frame / camcorder interface / 撮影"
+    },
+    {
+      "en": "weapon focus",
+      "zh": "武器特写",
+      "rating": "g",
+      "count": 1357,
+      "desc": "画面以武器为主要焦点",
+      "kw": "武器聚焦 / 武器特写镜头 / 武器焦点 / 武器主题 / 特写 / weapon sheet / 武器画"
+    },
+    {
+      "en": "worm's eye view",
+      "zh": "仰视视角",
+      "rating": "g",
+      "count": 536,
+      "desc": "极低角度仰视构图，与鸟瞰相反",
+      "kw": "虫视视角 / 虫瞰视角 / 极低角度仰视 / 低角度仰视 / 仰视图 / 虫眼视角 / 贴地仰视 / 仰视角度 / 虫瞰"
+    },
+    {
+      "en": "crosshair",
+      "zh": "准星",
+      "rating": "g",
+      "count": 991,
+      "desc": "狙击镜等瞄具中看到的十字准线",
+      "kw": "十字准星 / 准心 / 瞄准线 / 十字线 / 十字瞄准线 / 狙击镜准星 / 瞄准点 / 瞄准器 / crosshairs / reticle"
+    }
+  ]
+}

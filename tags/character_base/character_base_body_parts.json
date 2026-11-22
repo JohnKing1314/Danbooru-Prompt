@@ -1,0 +1,2095 @@
+{
+  "id": "body_parts",
+  "name": "其他身体部位",
+  "icon": "🫀",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 22,
+  "file": "character_base/character_base_body_parts.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "mechanical parts",
+      "zh": "机械部件",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sharp fingernails",
+      "zh": "尖指甲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 35487,
+      "desc": "尖锐但不属于爪子的手指甲。",
+      "kw": "尖锐指甲 / 利甲 / 长尖指甲 / 尖甲 / 锋利指甲 / 尖指 / 尖爪指甲 / 指甲 / pointy fingernails"
+    },
+    {
+      "en": "claws",
+      "zh": "利爪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 84320,
+      "desc": "动物或兽人手脚上的尖爪。",
+      "kw": "尖爪 / 钩爪 / 兽爪 / 爪 / 锐爪 / 动物特征 / claw / 鉤爪"
+    },
+    {
+      "en": "tattoo",
+      "zh": "纹身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 219395,
+      "desc": "在皮肤上永久着色绘成的图案或符号",
+      "kw": "刺青 / 纹身图案 / 纹身花纹 / 刺花 / 纹身彩绘 / 纹绘 / 身体装饰 / 文身 / tattoos / tatoo / タトゥー"
+    },
+    {
+      "en": "navel",
+      "zh": "肚脐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1646926,
+      "desc": "露出肚脐",
+      "kw": "肚脐眼 / 肚脐露出 / 露脐 / 露肚脐 / 腹部肚脐 / 脐眼 / 腹部 / belly button / bellybutton / へそ / 臍"
+    },
+    {
+      "en": "shadow hands",
+      "zh": "暗影之手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 528,
+      "desc": "通常为黑色半透明、没有身体的手",
+      "kw": "影子手 / 黑暗之手 / 黑色手影 / 暗影手 / 阴影中的手 / 幽暗之手 / 阴影 / 手部"
+    },
+    {
+      "en": "wing tattoo",
+      "zh": "翅膀纹身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 216,
+      "desc": "常纹在背后、形似翅膀的纹身",
+      "kw": "翅膀刺青 / 翼形纹身 / 羽翼纹身 / 背翅纹身 / 纹身 / 身体艺术"
+    },
+    {
+      "en": "bare stomach",
+      "zh": "裸露腹部",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "mole",
+      "zh": "痣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 414918,
+      "desc": "皮肤上的深色小斑点，常作美人痣",
+      "kw": "美人痣 / 黑痣 / 痣点 / 皮肤痣 / 身体标记 / 皮肤斑点 / beauty mark / ほくろ / ホクロ"
+    },
+    {
+      "en": "body hair",
+      "zh": "体毛",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2448,
+      "desc": "头部和脸部以外的体毛",
+      "kw": "身体毛发 / 体毛重 / 汗毛 / 体毛多 / 毛发 / 身体特征"
+    },
+    {
+      "en": "armpit",
+      "zh": "腋下",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "armpits",
+      "zh": "腋窝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 340659,
+      "desc": "手臂与躯干连接处下方的腋窝。",
+      "kw": "胳肢窝 / 胳膊窝 / 咯吱窝 / 腋 / 腋巫女 / 身体部位 / 裸露 / armpit / showing armpits / 腋乳 / 腋巫女"
+    },
+    {
+      "en": "hand focus",
+      "zh": "手部特写",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2903,
+      "desc": "图片以角色手部为主要焦点",
+      "kw": "手部聚焦 / 手部重点 / 手部特写镜头 / 聚焦手部 / 手部中心 / 手部主体 / 手部突出 / 手部为主 / hands focus / 手 / ハンド"
+    },
+    {
+      "en": "fingers",
+      "zh": "手指",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "veiny",
+      "zh": "青筋",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "stomach focus",
+      "zh": "腹部特写",
+      "rating": "s",
+      "nsfw": false,
+      "count": 331,
+      "desc": "腹部是画面主要看点。",
+      "kw": "腹部焦点 / 腹部集中 / 肚腹特写 / 腹部重点 / 腹部突出 / 小腹特写 / 腹部聚焦 / 聚焦"
+    },
+    {
+      "en": "groin",
+      "zh": "腹股沟",
+      "rating": "q",
+      "nsfw": true,
+      "count": 192447,
+      "desc": "腹部与大腿交界的腹股沟沟线部位。",
+      "kw": "鼠蹊部 / 鼠蹊 / 大腿根部 / 腹股沟线 / V线 / 人鱼线 / 胯部 / 身体部位 / mound of venus / hip lines / adonis belt / 耻丘"
+    },
+    {
+      "en": "crotch",
+      "zh": "裆部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6740,
+      "desc": "双腿与躯干连接的区域",
+      "kw": "胯部 / 身体部位 / 股间 / 下体"
+    },
+    {
+      "en": "armpit focus",
+      "zh": "腋下特写",
+      "rating": "s",
+      "nsfw": false,
+      "count": 4550,
+      "desc": "以腋下为画面主要焦点的构图，常用于特写。",
+      "kw": "腋下聚焦 / 腋窝特写 / 腋窝聚焦 / 腋下焦点 / 腋部特写 / 腋下重点 / 腋下强调 / 腋控 / 腋は性器"
+    },
+    {
+      "en": "waist focus",
+      "zh": "腰部特写",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "back focus",
+      "zh": "背部特写",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2908,
+      "desc": "以角色上背部为主要焦点的构图。",
+      "kw": "背部焦点 / 后背聚焦 / 美背 / 背部中心 / 上背部特写 / 后景聚焦 / 摄影 / 魅惑の背中"
+    },
+    {
+      "en": "shoulder blades",
+      "zh": "肩胛骨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21255,
+      "desc": "背部上方两侧的三角形扁骨，体表可见",
+      "kw": "肩胛 / 琵琶骨 / 蝴蝶骨 / 背部肩胛 / 肩胛骨突出 / 身体部位 / 背部 / scapula / 肩甲骨"
+    },
+    {
+      "en": "pregnant belly",
+      "zh": "孕肚",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "pubic tattoo",
+      "zh": "私处纹身",
+      "rating": "q",
+      "nsfw": true,
+      "count": 20333,
+      "desc": "位于阴部或耻骨上方的纹身，常称为淫纹。",
+      "kw": "淫纹 / 耻丘纹身 / 下腹纹身 / 子宫纹身 / 小腹纹身 / 纹身 / 身体艺术 / crotch tattoo / womb tattoo / 淫紋"
+    },
+    {
+      "en": "womb tattoo",
+      "zh": "子宫纹身",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "tramp stamp",
+      "zh": "腰臀纹身",
+      "rating": "q",
+      "nsfw": true,
+      "count": 476,
+      "desc": "位于后腰或股沟上方的纹身",
+      "kw": "后腰刺青 / 臀部上方纹身 / 腰窝纹身 / 股沟纹身 / 下背纹身 / 腰间纹身 / 腰后纹身 / 纹身"
+    },
+    {
+      "en": "body freckles",
+      "zh": "身体雀斑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6505,
+      "desc": "散布在身体上的雀斑",
+      "kw": "身上雀斑 / 全身雀斑 / 皮肤雀斑 / 体表雀斑 / 身体上的雀斑 / 雀斑 / 皮肤特征"
+    },
+    {
+      "en": "stretch marks",
+      "zh": "妊娠纹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 212,
+      "desc": "身体快速生长时皮肤撕裂留下的红白条纹",
+      "kw": "生长纹 / 肥胖纹 / 膨胀纹 / 皮肤纹理 / 身体标记 / 妊娠线"
+    },
+    {
+      "en": "nape",
+      "zh": "后颈",
+      "rating": "s",
+      "nsfw": false,
+      "count": 4609,
+      "desc": "脖子的后部，日本画中传统的美感焦点",
+      "kw": "脖颈 / 颈后 / 后脖颈 / 后颈肉 / 项 / 颈背 / 脖子 / 身体部位 / kubisuji / うなじ"
+    },
+    {
+      "en": "spanked",
+      "zh": "屁股巴掌印",
+      "rating": "q",
+      "nsfw": true,
+      "count": 7154,
+      "desc": "臀部因被打而留下的掌印或红痕",
+      "kw": "臀部被打 / 屁股红印 / 被打出掌印 / 打屁股痕迹 / 打屁股 / 惩罚 / red butt / slap mark on ass / 屁股上的巴掌印 / スパンキング"
+    },
+    {
+      "en": "tally",
+      "zh": "正字标记",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5988,
+      "desc": "用来计数的记号，西方用四竖加一斜线，东亚用正字",
+      "kw": "正字 / 画正字 / 计分记号 / 计数记号 / 正字计数 / 划记 / 划线计数 / 五划计数 / tallies / tally marks / 正の字"
+    },
+    {
+      "en": "anatomy",
+      "zh": "解剖学",
+      "rating": "g",
+      "nsfw": false,
+      "count": 548,
+      "desc": "着重表现骨骼或内脏等结构的图",
+      "kw": "解构图 / 结构图 / 内部结构 / 骨骼肌肉图 / 身体构造图 / 内脏图 / 解剖 / 解剖"
+    },
+    {
+      "en": "conjoined",
+      "zh": "连体",
+      "rating": "g",
+      "nsfw": false,
+      "count": 455,
+      "desc": "两个以上的人连在一起",
+      "kw": "连体人 / 连体双胞胎 / 连体儿 / 连体婴儿 / 融合 / 畸形 / siamese twins / 结合双生児 / 結合双生児 / シャム双生児"
+    },
+    {
+      "en": "double amputee",
+      "zh": "双肢残缺",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1492,
+      "desc": "因伤或病失去两条肢体（双臂、双腿或一臂一腿）的角色",
+      "kw": "双肢截肢者 / 双重截肢 / 双肢截肢 / 双侧截肢者 / 两肢截除者 / 双残肢 / 残疾 / 身体状态"
+    },
+    {
+      "en": "quadruple amputee",
+      "zh": "四肢截肢",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1466,
+      "desc": "四肢均被截肢的人。",
+      "kw": "四肢切断 / 四肢缺失 / 四肢全无 / 四肢被截 / 四肢欠损 / 四肢截断者 / 残疾 / 达磨 / 四肢欠損 / 達磨"
+    },
+    {
+      "en": "triple amputee",
+      "zh": "三肢截断",
+      "rating": "q",
+      "nsfw": true,
+      "count": 332,
+      "desc": "因伤或病失去三条肢体（部分或全部）的角色",
+      "kw": "三肢截肢 / 失去三肢 / 三肢缺失 / 三重截肢 / 三肢截肢者 / 截肢 / 身体状态"
+    },
+    {
+      "en": "body writing",
+      "zh": "身体书写",
+      "rating": "q",
+      "nsfw": true,
+      "count": 15978,
+      "desc": "写在人体上的文字或数字",
+      "kw": "身体涂鸦 / 身体文字 / 体写 / 身上写字 / 体表写字 / 身体涂写 / 涂鸦 / writing on body / text on body / 身体に落書き / 体に落書き"
+    },
+    {
+      "en": "amputee",
+      "zh": "截肢者",
+      "rating": "q",
+      "nsfw": true,
+      "count": 11218,
+      "desc": "缺失部分或全部肢体的角色",
+      "kw": "截肢 / 断肢者 / 肢体残缺者 / 缺肢者 / 肢体缺失 / 少肢 / 断肢 / 残疾 / missing limb / 只脚 / 四肢欠损 / 欠损少女"
+    },
+    {
+      "en": "branded",
+      "zh": "烙印",
+      "rating": "q",
+      "nsfw": true,
+      "count": 626,
+      "desc": "人或动物身上带有烙印标记。",
+      "kw": "火印 / 烙痕 / 烫印 / 被打烙印 / 有烙印 / 烙印标记 / 烙铁印"
+    },
+    {
+      "en": "burn scar",
+      "zh": "烧伤疤痕",
+      "rating": "s",
+      "nsfw": false,
+      "count": 7330,
+      "desc": "严重烧伤愈合后留下的不规则疤痕",
+      "kw": "烧伤瘢痕 / 烫伤疤痕 / 火伤疤痕 / 灼伤疤痕 / 疤痕 / 火伤 / 火伤痕"
+    },
+    {
+      "en": "bruise",
+      "zh": "淤青",
+      "rating": "s",
+      "nsfw": false,
+      "count": 13859,
+      "desc": "钝击致皮下毛细血管破裂形成的淤血斑",
+      "kw": "瘀青 / 青紫 / 乌青 / 紫斑 / 挫伤 / 皮下淤血 / 瘀伤 / 伤痕 / bruises / bruised / 青痣"
+    },
+    {
+      "en": "scar",
+      "zh": "伤疤",
+      "rating": "s",
+      "nsfw": false,
+      "count": 176802,
+      "desc": "伤口、烧伤等愈合后皮肤上留下的痕迹",
+      "kw": "疤痕 / 伤痕 / 疤 / 伤迹 / 刀疤 / 伤口疤痕 / 烧伤疤 / BDSM / scars / 傷跡"
+    },
+    {
+      "en": "shibari marks",
+      "zh": "绳痕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 55,
+      "desc": "绳缚后皮肤上的绳索勒痕",
+      "kw": "捆绑痕迹 / 勒痕 / 绳子勒痕 / 束缚痕迹 / 龟甲缚痕迹"
+    },
+    {
+      "en": "blood in hair",
+      "zh": "发间血迹",
+      "rating": "s",
+      "nsfw": false,
+      "count": 4313,
+      "desc": "沾在头发上的血",
+      "kw": "头发上的血液 / 头发有血 / 头发沾血 / 血在头发上 / 发丝带血 / 头发染血 / 头发里的血迹 / 血迹 / blood on hair / bloody hair"
+    },
+    {
+      "en": "collarbone",
+      "zh": "锁骨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1133592,
+      "desc": "锁骨明显可见/突出的样子",
+      "kw": "锁骨凸显 / 锁骨突出 / 锁骨线条 / 锁骨显露 / 锁骨特征 / 锁骨部位 / 锁骨可见 / 裸锁骨 / collarbones / clavicle / clavicles / 鎖骨"
+    },
+    {
+      "en": "mechanical hands",
+      "zh": "机械手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4988,
+      "desc": "装有机械手的角色",
+      "kw": "机械手掌 / 机器手 / 机械手部 / 机器人手 / 义肢 / 科幻 / robot hands"
+    },
+    {
+      "en": "body horror",
+      "zh": "肉体恐怖",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2201,
+      "desc": "展示身体畸变与破坏的恐怖子类型",
+      "kw": "身体畸变 / 肉体畸变 / 血肉恐怖 / 躯体恐怖 / 恐怖身体 / 变异恐怖 / 血肉模糊"
+    },
+    {
+      "en": "finger tattoo",
+      "zh": "手指纹身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1067,
+      "desc": "位于手指上的纹身。",
+      "kw": "手指刺青 / 指上纹身 / 指节纹身 / 手指上的纹身 / 指部纹身 / 指头纹身 / 纹身 / 身体艺术"
+    },
+    {
+      "en": "hand jewel",
+      "zh": "手背宝石",
+      "rating": "g",
+      "nsfw": false,
+      "count": 800,
+      "desc": "镶在手背上的宝石，可单独或作为手套/婚纱长手套的一部分",
+      "kw": "手部宝石 / 手背镶宝石 / 手部首饰 / 手背装饰宝石 / 手背镶嵌宝石 / 手背珠宝 / 饰品 / 手部穿戴"
+    },
+    {
+      "en": "material growth",
+      "zh": "异物生长",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13302,
+      "desc": "角色皮肤表面长出水晶、石头、骨头等异物",
+      "kw": "异物增生 / 体表结晶 / 皮肤长出异物 / 异质增生 / 体量增长 / 身体变化"
+    },
+    {
+      "en": "hand tattoo",
+      "zh": "手部纹身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4547,
+      "desc": "纹在手部的纹身。",
+      "kw": "手纹身 / 手上纹身 / 手背纹身 / 手心纹身 / 手掌纹身 / 手部刺青 / 手上刺青 / 纹身"
+    },
+    {
+      "en": "henna",
+      "zh": "海娜纹身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 73,
+      "desc": "指甲花，可用于染发或身体彩绘",
+      "kw": "海娜 / 海娜花 / 散沫花 / 指甲花染料 / 指甲花染剂"
+    },
+    {
+      "en": "hand hair",
+      "zh": "手背毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 867,
+      "desc": "手背上长出的体毛。",
+      "kw": "手部体毛 / 手上毛 / 手毛多 / 体毛 / hairy hands"
+    },
+    {
+      "en": "knuckle hair",
+      "zh": "指节毛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 366,
+      "desc": "手指上指关节以外长的体毛，暗示多毛",
+      "kw": "手指毛 / 手背毛 / 指背毛 / 指骨毛 / 手指汗毛 / 指关节外手毛 / 体毛 / 毛发"
+    },
+    {
+      "en": "whip marks",
+      "zh": "鞭痕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1233,
+      "desc": "被鞭打后留在皮肤上的鞭痕",
+      "kw": "鞭打痕迹 / 鞭伤 / 鞭痕印记 / 抽打伤痕 / 鞭笞痕 / 伤痕 / whipmarks / 鞭迹"
+    },
+    {
+      "en": "large hands",
+      "zh": "大手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2958,
+      "desc": "与头部差不多大的大手",
+      "kw": "巨手 / 大手掌 / 超大双手 / 大号手 / 手部 / yaoi hands"
+    },
+    {
+      "en": "small hands",
+      "zh": "小手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 173,
+      "desc": "手相对身体比例过小，常为绘画失误。",
+      "kw": "手画小了 / 小手比例 / 小于身体比例的手 / 手部比例失调 / 手部 / 身体特征"
+    },
+    {
+      "en": "neck",
+      "zh": "颈部",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3267,
+      "desc": "已弃用，请参考以下标签之一：",
+      "kw": "身体部位 / 颈饰"
+    },
+    {
+      "en": "waist",
+      "zh": "腰部",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bare midriff",
+      "zh": "露腰",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "midriff",
+      "zh": "腹部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 413405,
+      "desc": "因上衣过短而裸露的腹部/腰部",
+      "kw": "露腰 / 露腹 / 露肚子 / 露小腹 / 短上衣露腰 / 露脐装 / 露腹装 / 腹部暴露 / 小腹 / 肚子 / 腹部 / へそ出し"
+    },
+    {
+      "en": "belly",
+      "zh": "小腹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24173,
+      "desc": "略微圆润但不大的肚子，与巨腹区分。",
+      "kw": "微凸的肚子 / 微胖的肚子 / 略胖的腹部 / 小肚腩 / 微微隆起的小腹 / 软肚子 / 圆润的肚子 / イカ腹"
+    },
+    {
+      "en": "back",
+      "zh": "背部",
+      "rating": "g",
+      "nsfw": false,
+      "count": 123285,
+      "desc": "画面以人物背部为重点的构图。",
+      "kw": "背面 / 背影 / 后背 / 美背 / 背部特写 / 露背 / 后视图 / 视角 / 背中 / 魅惑の背中 / ぱっくり背中 / せなか"
+    },
+    {
+      "en": "shoulders",
+      "zh": "肩膀",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "strong arms",
+      "zh": "结实手臂",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "slender arms",
+      "zh": "纤细手臂",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "long fingers",
+      "zh": "修长手指",
+      "rating": "g",
+      "nsfw": false,
+      "count": 915,
+      "desc": "明显强调长度的手指",
+      "kw": "手指修长 / 细长手指 / 长指 / 指纤长 / 手部 / 身体特征"
+    },
+    {
+      "en": "scale",
+      "zh": "鳞片",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "median furrow",
+      "zh": "背沟",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16348,
+      "desc": "人体背部正中的纵向凹线",
+      "kw": "美人沟 / 脊柱沟 / 背部中缝 / 背正中沟 / 背部中线 / 身体部位 / 脊柱"
+    },
+    {
+      "en": "long neck",
+      "zh": "长脖子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2035,
+      "desc": "超出人体解剖可能的超长脖子",
+      "kw": "超长脖子 / 细长脖子 / 身体部位 / 颈部 / 颈饰 / 天鹅颈"
+    },
+    {
+      "en": "ribs",
+      "zh": "肋骨",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17263,
+      "desc": "透过皮肤可见的肋骨轮廓",
+      "kw": "肋骨轮廓 / 可见肋骨 / 肋线 / 身体部位 / ribcage"
+    },
+    {
+      "en": "linea alba",
+      "zh": "腹白线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13928,
+      "desc": "肚脐上方的白色腹中线，腹肌定义未完全显现时可见",
+      "kw": "腹部白线 / 腹中线 / 肚脐上方白线 / 身体部位 / 腹正中线 / 腹部线条"
+    },
+    {
+      "en": "stomach",
+      "zh": "腹部",
+      "rating": "g",
+      "nsfw": false,
+      "count": 431978,
+      "desc": "裸露的腹部，肚脐周围至腹股沟上方，需突出可见",
+      "kw": "肚子 / 小腹 / 下腹 / 肚皮 / 腹 / 腹部裸露 / 露腹 / 身体部位 / お腹 / おなか / いいおなかの日"
+    },
+    {
+      "en": "covered navel",
+      "zh": "隔衣显肚脐",
+      "rating": "s",
+      "nsfw": false,
+      "count": 203995,
+      "desc": "紧身衣物下透出的肚脐形状，非直接裸露。",
+      "kw": "肚脐轮廓 / 衣服下肚脐 / 遮肚脐 / 隐藏肚脐 / 若隐若现肚脐 / 紧身衣透出肚脐 / 透出肚脐 / 遮盖肚脐 / clothed navel / 被遮盖的肚脐 / 透视肚脐 / 透けへそ"
+    },
+    {
+      "en": "obliques",
+      "zh": "腹外斜肌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4426,
+      "desc": "腹部两侧明显发达的腹斜肌。",
+      "kw": "侧腹肌 / 外斜肌 / 侧腰肌 / 腹侧肌 / 腹肌侧线 / 斜肌 / 腹肌"
+    },
+    {
+      "en": "thick arms",
+      "zh": "粗壮手臂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2275,
+      "desc": "画得比平常粗的手臂",
+      "kw": "粗手臂 / 手臂粗壮 / 粗胳膊 / 粗臂 / 壮实手臂 / 粗大手臂 / 粗壮的手臂 / 肌肉手臂 / 粗壮的手臂"
+    },
+    {
+      "en": "biceps",
+      "zh": "肱二头肌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17854,
+      "desc": "上臂前侧隆起的肱二头肌。",
+      "kw": "上臂二头肌 / 上腕二头肌 / 手臂肌肉 / 二头肌肉 / 肌肉 / 上腕二头筋 / 上腕二頭筋"
+    },
+    {
+      "en": "palms",
+      "zh": "手掌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3362,
+      "desc": "重点展示手掌或手掌出现在不寻常位置",
+      "kw": "掌心 / 手心 / 手掌特写 / 手掌朝外 / 露手掌 / 手掌摊开 / 身体部位 / 掌 / 手のひら"
+    },
+    {
+      "en": "doll joints",
+      "zh": "球形关节",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14845,
+      "desc": "角色身上带人偶般球状关节，常见于蔷薇少女风",
+      "kw": "球体关节 / 人偶球形关节 / 球型关节 / 关节人偶 / 娃娃关节 / 球状关节 / 人形体关节 / dolljoints / ball joints / 人形 / 球体関节"
+    },
+    {
+      "en": "robot joints",
+      "zh": "机械关节",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14446,
+      "desc": "手臂或腿部关节呈金属机械构造。",
+      "kw": "机甲关节 / 机器关节 / 机械骨骼关节 / 机器人关节（四肢） / 机器人 / 机械 / 科幻"
+    },
+    {
+      "en": "hand eye",
+      "zh": "手眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 228,
+      "desc": "长在手掌或手部的眼球或视窗。",
+      "kw": "掌心眼 / 手心眼 / 手上眼睛 / 掌中眼 / 手掌眼睛 / 手部长眼 / 手心眼球 / 手部 / eye in hand / eye in palm"
+    },
+    {
+      "en": "hand mouth",
+      "zh": "手掌口",
+      "rating": "g",
+      "nsfw": false,
+      "count": 344,
+      "desc": "长在手掌上的嘴",
+      "kw": "掌心嘴 / 手嘴 / 手掌嘴巴 / 手中嘴 / 手掌上的嘴 / 捂嘴 / 手势"
+    },
+    {
+      "en": "fingernails",
+      "zh": "指甲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 283584,
+      "desc": "画面中明显画出的手指甲。",
+      "kw": "手指甲 / 指甲盖 / 指甲片 / 指爪 / 服装 / fingernail / finger nails / 爪 / 손톱"
+    },
+    {
+      "en": "lipstick mark on neck",
+      "zh": "脖子上的口红印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 686,
+      "desc": "脖子被亲吻后留下的口红唇印。",
+      "kw": "脖子上的唇印 / 颈部口红印 / 脖子唇印 / 吻痕口红印 / 口红印 / 痕迹"
+    },
+    {
+      "en": "lipstick mark on shoulder",
+      "zh": "肩部唇印",
+      "rating": "s",
+      "nsfw": false,
+      "count": 223,
+      "desc": "肩膀上的口红印",
+      "kw": "肩部口红印 / 肩膀口红印 / 肩上唇印 / 肩膀上有口红印 / 肩头口红印 / 肩膀上的唇印 / 唇印"
+    },
+    {
+      "en": "lipstick mark on armpit",
+      "zh": "腋下唇印",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "lipstick mark on arm",
+      "zh": "手臂上的唇印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 199,
+      "desc": "手臂被亲吻后留下的口红唇印",
+      "kw": "胳膊上的口红印 / 手臂唇印 / 手臂口红痕迹 / 臂上口红印 / 口红印 / 标记"
+    },
+    {
+      "en": "lipstick mark on hand",
+      "zh": "手背唇印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 58,
+      "desc": "手上有口红印。",
+      "kw": "手上有口红印 / 口红印在手上 / 唇印在手 / 手部唇印 / 手上有唇印 / 口红印手上 / 唇印在手上"
+    },
+    {
+      "en": "lipstick mark on chest",
+      "zh": "胸口唇印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 360,
+      "desc": "留在胸部的口红印",
+      "kw": "胸口口红印 / 胸部唇印 / 胸前口红印 / 胸部口红印 / 胸口的唇印 / 唇印 / 身体标记"
+    },
+    {
+      "en": "lipstick mark on back",
+      "zh": "背部唇印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40
+    },
+    {
+      "en": "lipstick mark on stomach",
+      "zh": "腹部唇印",
+      "rating": "q",
+      "nsfw": true,
+      "count": 552,
+      "desc": "腹部上的口红印",
+      "kw": "腹部的口红印 / 肚子上的口红印 / 肚皮口红印 / 肚子上唇印 / 腹部口红痕迹 / 肚子上的唇印 / 唇印"
+    },
+    {
+      "en": "lipstick mark on collarbone",
+      "zh": "锁骨唇印",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "long fingernails",
+      "zh": "长指甲",
+      "rating": "g",
+      "nsfw": false,
+      "count": 57668,
+      "desc": "超过指尖的较长指甲。",
+      "kw": "长甲 / 指甲长 / 长手指甲 / 美甲长 / 尖指甲 / 长指甲片 / 长指甲女 / 化妆 / long nails (fingers)"
+    },
+    {
+      "en": "bare arms",
+      "zh": "裸露手臂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 195825,
+      "desc": "手臂从上臂到手腕无衣物遮盖。",
+      "kw": "露手臂 / 光手臂 / 裸臂 / 手臂裸露 / 无袖露臂 / 露胳膊 / 手臂 / 裸露"
+    },
+    {
+      "en": "bare back",
+      "zh": "露背",
+      "rating": "s",
+      "nsfw": false,
+      "count": 23210,
+      "desc": "后背至少四分之三裸露的穿着，非裸体或上身裸露。",
+      "kw": "裸背装 / 露背装 / 光背 / 背部裸露 / 大露背 / 裸露 / 背部 / ベアバック"
+    },
+    {
+      "en": "extra arms",
+      "zh": "多臂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16382,
+      "desc": "角色长有三条以上的手臂",
+      "kw": "额外手臂 / 多条手臂 / 三头六臂 / 四手 / 多手 / 六臂 / 多腕 / 第三只手 / polymelia / multiple arms / four arms / 六本腕"
+    },
+    {
+      "en": "food on body",
+      "zh": "食物沾身",
+      "rating": "s",
+      "nsfw": false,
+      "count": 7790,
+      "desc": "食物沾在或铺在身上。",
+      "kw": "身上有食物 / 食物放在身上 / 食物铺身 / 食物涂抹 / 身体摆食物 / 食物在身体上 / 食物置于身上"
+    },
+    {
+      "en": "chocolate on body",
+      "zh": "身上沾有巧克力",
+      "rating": "s",
+      "nsfw": false,
+      "count": 3598,
+      "desc": "巧克力沾在或涂在身体上。",
+      "kw": "巧克力在身体上 / 身上有巧克力 / 身体涂巧克力 / 巧克力涂身 / 巧克力抹身 / 巧克力 / 身体涂抹"
+    },
+    {
+      "en": "cream on body",
+      "zh": "身上沾满奶油",
+      "rating": "s",
+      "nsfw": false,
+      "count": 605,
+      "desc": "身体多部位沾满奶油",
+      "kw": "身上涂满奶油 / 奶油涂身 / 全身奶油 / 身体沾奶油 / 奶油抹身体 / 涂奶油在身上 / 身上沾着奶油 / 食物"
+    },
+    {
+      "en": "lipstick mark",
+      "zh": "唇印",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9296,
+      "desc": "接吻后留在表面的唇形口红印",
+      "kw": "口红痕迹 / 唇膏印 / 口印 / 吻痕 / 唇彩印 / 红唇印 / 痕迹 / キスマーク"
+    },
+    {
+      "en": "too many lipstick marks",
+      "zh": "唇印过多",
+      "rating": "q",
+      "nsfw": true,
+      "count": 174,
+      "desc": "被亲得满身口红印的角色",
+      "kw": "满身口红印 / 大量口红印 / 许多口红印 / 唇印 / 痕迹"
+    },
+    {
+      "en": "lipstick writing",
+      "zh": "口红字",
+      "rating": "g",
+      "nsfw": false,
+      "count": 104,
+      "desc": "用口红写出的文字",
+      "kw": "用口红写字 / 口红涂写 / 口红书写的文字 / 口红字迹 / 口红 / 文字"
+    },
+    {
+      "en": "bare shoulders",
+      "zh": "露肩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1434367,
+      "desc": "肩膀因衣物设计或滑落而裸露",
+      "kw": "露肩装 / 裸肩 / 香肩 / 露肩膀 / 光肩 / 肩部裸露 / 无肩带 / 滑落露肩 / bare shoulder / bareshoulders / 肩出し / ベアトップ"
+    },
+    {
+      "en": "heart (organ)",
+      "zh": "心脏（器官）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2340,
+      "desc": "作为器官的心脏，而非爱心符号",
+      "kw": "心脏 / 心（真实器官） / 人体心脏 / 心脏器官 / 真实心脏 / 心脏 (器官) / 器官 / 解剖 / 心臓 / しんぞう"
+    },
+    {
+      "en": "lungs",
+      "zh": "肺",
+      "rating": "q",
+      "nsfw": true,
+      "count": 223,
+      "desc": "负责呼吸、交换氧气的器官",
+      "kw": "肺部 / 肺脏 / 肺叶 / 双肺 / 器官 / 内脏 / lung"
+    },
+    {
+      "en": "cloaca",
+      "zh": "泄殖腔",
+      "rating": "q",
+      "nsfw": true,
+      "count": 336,
+      "desc": "鸟类、爬行类等动物共用的排泄生殖腔。",
+      "kw": "总排出腔 / 总泄殖腔 / 共泄腔 / 泄殖孔 / 动物泄殖腔 / 解剖 / 动物特征"
+    },
+    {
+      "en": "intestines",
+      "zh": "肠道",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2132,
+      "desc": "从胃延伸到肛门的消化器官",
+      "kw": "肠 / 大小肠 / 肠管 / 肚肠 / 内脏 / 器官 / 腸 / はらわた"
+    },
+    {
+      "en": "liver",
+      "zh": "肝脏",
+      "rating": "q",
+      "nsfw": true,
+      "count": 108,
+      "desc": "帮助消化的楔形器官肝脏",
+      "kw": "肝 / 肝臓 / 肝脏器官 / 身体部位 / 器官 / 内脏"
+    },
+    {
+      "en": "stomach (organ)",
+      "zh": "胃（器官）",
+      "rating": "q",
+      "nsfw": true,
+      "count": 202,
+      "desc": "消化系统内的胃器官，注意与腹部区分",
+      "kw": "胃袋 / 胃部器官 / 胃脏 / 胃体 / 消化器官胃 / 胃 (器官) / 身体部位 / 器官 / 胃"
+    },
+    {
+      "en": "bleeding",
+      "zh": "流血",
+      "rating": "s",
+      "nsfw": false,
+      "count": 8617,
+      "desc": "伤口流出血的状态",
+      "kw": "出血中 / 流血中 / 鲜血直流 / 受伤"
+    },
+    {
+      "en": "adam's apple",
+      "zh": "喉结",
+      "rating": "g",
+      "count": 6205,
+      "desc": "喉部甲状软骨形成的隆起，男性更明显",
+      "kw": "喉头隆起 / 喉头结节 / 喉核 / 喉头 / 喉部隆起 / 亚当的苹果 / 身体部位 / 男性特征 / 喉仏 / のどぼとけ / 喉頭隆起"
+    },
+    {
+      "en": "animal hands",
+      "zh": "兽爪",
+      "rating": "g",
+      "count": 48544,
+      "desc": "人形角色长着动物般的手或爪子。",
+      "kw": "动物爪子 / 动物手 / 肉球手 / 毛爪 / 兽类手掌 / 肉球 / 兽手 / 动物手掌 / paw / animal paws / paws / 人的动物手掌"
+    },
+    {
+      "en": "archon mark",
+      "zh": "贤者纹身（最终幻想14）",
+      "rating": "g",
+      "count": 975,
+      "desc": "FF14萨雷安贤者颈部的魔法纹章",
+      "kw": "贤者印记 / 贤者之印 / 贤者纹章 / 萨雷安贤者纹身 / FF14贤者纹身 / 颈部贤者印记 / 执政官标志 / 印记"
+    },
+    {
+      "en": "arm fins",
+      "zh": "手臂鳍",
+      "rating": "g",
+      "count": 520,
+      "desc": "长在手臂上的鳍",
+      "kw": "手臂鱼鳍 / 胳膊鳍 / 臂鳍 / 前肢鳍 / 手臂鳍片 / 手鳍 / 上肢鳍 / 怪物特征"
+    },
+    {
+      "en": "arm hair",
+      "zh": "手臂毛",
+      "rating": "g",
+      "count": 9014,
+      "desc": "上臂或前臂的体毛，不含肩部",
+      "kw": "手臂汗毛 / 胳膊毛 / 手毛 / 臂毛 / 前臂毛 / 上臂汗毛 / 体毛 / hairy arms / hairy forearms"
+    },
+    {
+      "en": "arm markings",
+      "zh": "手臂标记",
+      "rating": "g",
+      "count": 533,
+      "desc": "手臂上的花纹或标记",
+      "kw": "手臂花纹 / 手臂纹样 / 臂部标记 / 胳膊标记 / 手臂图案 / 手臂印记 / 手臂纹路 / 纹身"
+    },
+    {
+      "en": "arm tattoo",
+      "zh": "手臂纹身",
+      "rating": "g",
+      "count": 43559,
+      "desc": "纹在手臂上的纹身。",
+      "kw": "胳膊纹身 / 手臂刺青 / 胳膊刺青 / 臂纹 / 臂部纹身 / 花臂 / 纹身"
+    },
+    {
+      "en": "armpit hair",
+      "zh": "腋毛",
+      "rating": "s",
+      "count": 10746,
+      "desc": "腋下生长的毛发",
+      "kw": "腋下毛发 / 胳肢窝毛 / 腋窝毛 / 腋下毛 / 体毛 / 胁毛 / 腋毛差分 / 脇毛"
+    },
+    {
+      "en": "armpit hair peek",
+      "zh": "隐约腋毛",
+      "rating": "s",
+      "count": 1253,
+      "desc": "手臂垂下时隐约可见的腋毛",
+      "kw": "腋毛露出 / 腋下毛若隐若现 / 腋毛微露 / 漏腋毛 / 腋毛 / 体毛"
+    },
+    {
+      "en": "arrow in body",
+      "zh": "箭射入身体",
+      "rating": "q",
+      "nsfw": true,
+      "count": 997,
+      "desc": "箭射入人体，多在胸背",
+      "kw": "中箭 / 身上插箭 / 被箭射中 / 箭插在身体上 / 中箭受伤 / 身上有箭 / 身上插着箭 / 受伤"
+    },
+    {
+      "en": "arthropod limbs",
+      "zh": "节肢动物四肢",
+      "rating": "g",
+      "count": 3298,
+      "desc": "人类角色长有节肢动物般的四肢",
+      "kw": "节肢动物肢体 / 节肢四肢 / 虫肢 / 昆虫腿 / 蜘蛛腿 / 节肢腿 / 节肢手臂 / 节肢动物附肢 / insect legs / spider legs / arthropod legs / insect arms"
+    },
+    {
+      "en": "automail",
+      "zh": "机械铠",
+      "rating": "g",
+      "count": 415,
+      "desc": "《钢之炼金术师》中的机械义肢。",
+      "kw": "机械义肢 / 钢炼机械铠 / 机械铠义肢 / 钢之炼金术师机械铠 / 钢炼机械义肢 / 机械铠甲 / 义肢 / 科幻 / 機械鎧 / オートメイル"
+    },
+    {
+      "en": "back tattoo",
+      "zh": "背部纹身",
+      "rating": "g",
+      "count": 5926,
+      "desc": "纹在背部的纹身",
+      "kw": "背纹身 / 后背纹身 / 背部刺青 / 背后纹身 / 背部纹身图案 / 纹身 / 身体标记 / 装饰"
+    },
+    {
+      "en": "ball hands",
+      "zh": "球状手",
+      "rating": "g",
+      "count": 1312,
+      "desc": "画成圆球状的手，常见于Q版",
+      "kw": "圆球手 / 圆手 / 球手 / 馒头手 / 团子手 / Q版手 / 圆形手 / 手部"
+    },
+    {
+      "en": "barcode tattoo",
+      "zh": "条形码纹身",
+      "rating": "g",
+      "count": 5274,
+      "desc": "条形码图案的纹身",
+      "kw": "条码纹身 / 条形码刺青 / 条码刺青 / 纹身"
+    },
+    {
+      "en": "bear paws",
+      "zh": "熊掌",
+      "rating": "g",
+      "count": 547,
+      "desc": "熊的脚掌，常出现在动物或兽人角色上。",
+      "kw": "熊爪 / 熊脚掌 / 熊的爪垫 / 熊肉掌 / 熊掌肉垫 / 食物 / 动物部位"
+    },
+    {
+      "en": "black claws",
+      "zh": "黑爪",
+      "rating": "g",
+      "count": 1108,
+      "desc": "黑色的尖锐兽爪或指甲",
+      "kw": "黑色爪子 / 黑色兽爪 / 黑兽爪 / 黑色利爪 / 黑色尖爪 / 爪子 / 怪物特征"
+    },
+    {
+      "en": "blood on arm",
+      "zh": "手臂沾血",
+      "rating": "s",
+      "count": 3641,
+      "desc": "手臂表面沾有血迹。",
+      "kw": "手臂上的血 / 手臂有血 / 胳膊沾血 / 手臂血迹 / 血染手臂 / 血迹 / 受伤 / bloody arm"
+    },
+    {
+      "en": "blood on hand",
+      "zh": "手上血迹",
+      "rating": "s",
+      "count": 19063,
+      "desc": "手指或手掌沾有血迹",
+      "kw": "手上的血 / 手沾血 / 血手 / 沾血的手 / 手指血迹 / 手掌血迹 / 血染的手 / 血迹 / blood on fingers / blood on hands / bloody fingers / bloody hands"
+    },
+    {
+      "en": "blood on hands",
+      "zh": "手上有血",
+      "rating": "s",
+      "count": 4777,
+      "desc": "手上沾有血迹，可能来自受伤或其他来源。",
+      "kw": "血迹 / 恐怖"
+    },
+    {
+      "en": "blowhole",
+      "zh": "鲸鱼呼吸孔",
+      "rating": "g",
+      "count": 916,
+      "desc": "鲸类头顶用于呼吸的孔。",
+      "kw": "鲸鱼气孔 / 喷气孔 / 呼吸孔 / 鲸类呼吸孔 / 鲸鱼鼻孔 / 鲸鱼喷水孔 / 鲸鱼头顶孔 / 动物特征 / 喷気孔"
+    },
+    {
+      "en": "bone",
+      "zh": "骨头",
+      "rating": "g",
+      "count": 10136,
+      "desc": "构成骨骼的骨头",
+      "kw": "骨骼 / 白骨 / 骸骨 / 骨 / 道具 / bones"
+    },
+    {
+      "en": "brain",
+      "zh": "大脑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2089,
+      "desc": "颅骨内的大脑器官",
+      "kw": "脑 / 脑子 / 脑部 / 脑组织 / 大脑器官 / 器官 / 脑髓 / 脳 / 髄 / ブレーン"
+    },
+    {
+      "en": "breast tattoo",
+      "zh": "胸部纹身",
+      "rating": "s",
+      "count": 9205,
+      "desc": "位于乳房上的纹身",
+      "kw": "乳房纹身 / 胸口纹身 / 胸部刺青 / 乳房刺青 / 奶子纹身 / 胸纹 / 胸口刺青 / 纹身 / tattooed breast"
+    },
+    {
+      "en": "bruise on arm",
+      "zh": "手臂淤青",
+      "rating": "s",
+      "count": 606,
+      "desc": "手臂上出现的淤青",
+      "kw": "手臂瘀青 / 胳膊淤青 / 手臂瘀伤 / 手上淤青 / 胳膊瘀青 / 手臂上的淤青 / 手臂伤痕 / 淤伤"
+    },
+    {
+      "en": "butterfly tattoo",
+      "zh": "蝴蝶纹身",
+      "rating": "g",
+      "count": 1492,
+      "desc": "蝴蝶图案的纹身",
+      "kw": "蝴蝶刺青 / 蝴蝶纹绣 / 蝴蝶图腾 / 纹身 / 身体装饰"
+    },
+    {
+      "en": "cheek tattoo",
+      "zh": "脸颊纹身",
+      "rating": "g",
+      "count": 1017,
+      "desc": "脸颊或眼睛下方的纹身图案。",
+      "kw": "眼下纹身 / 脸部纹身 / 面颊纹身 / 颧骨纹身 / 脸颊刺青 / 脸部刺青 / 面部纹身 / 纹身 / tattoo under eye"
+    },
+    {
+      "en": "chest eye",
+      "zh": "胸口眼",
+      "rating": "g",
+      "count": 1573,
+      "desc": "长在胸口/胸部的第三只眼",
+      "kw": "胸眼 / 胸部眼睛 / 胸口上的眼睛 / 胸上眼睛 / 胸口第三只眼 / 胸部第三只眼 / 胸部之眼 / 第三眼 / third eye on chest"
+    },
+    {
+      "en": "chest hair",
+      "zh": "胸毛",
+      "rating": "g",
+      "count": 14524,
+      "desc": "长在胸部的体毛。",
+      "kw": "胸部体毛 / 胸口的毛 / 胸毛（男性居多） / 胸毛旺盛 / 胸部毛发 / 体毛 / hairy chest"
+    },
+    {
+      "en": "chest tattoo",
+      "zh": "胸口纹身",
+      "rating": "g",
+      "count": 21148,
+      "desc": "位于上胸部的纹身，男性可延伸至腹部。",
+      "kw": "胸部纹身 / 前胸纹身 / 胸膛纹身 / 上胸纹身 / 胸口刺青 / 胸部刺青 / 纹身 / 身体装饰"
+    },
+    {
+      "en": "cloud tattoo",
+      "zh": "云纹身",
+      "rating": "g",
+      "count": 1171,
+      "desc": "云朵图案的纹身",
+      "kw": "云朵纹身 / 云彩纹身 / 云图案纹身 / 云纹刺青 / 祥云纹身 / 云团纹身 / 纹身"
+    },
+    {
+      "en": "colored blood",
+      "zh": "异色血液",
+      "rating": "s",
+      "count": 8119,
+      "desc": "非正常红色的异色血液",
+      "kw": "异色血 / 彩色血液 / 非红血液 / 颜色血液 / 异色血迹"
+    },
+    {
+      "en": "command spell",
+      "zh": "令咒",
+      "rating": "g",
+      "count": 7623,
+      "desc": "《Fate》系列中御主控制从者的红色纹样",
+      "kw": "令呪 / 咒令 / 命令咒 / 令咒纹样 / 红令咒 / Fate / 魔法纹章"
+    },
+    {
+      "en": "cross scar",
+      "zh": "交叉疤痕",
+      "rating": "g",
+      "count": 9109,
+      "desc": "十字或X形状的疤痕",
+      "kw": "十字疤痕 / 十字伤 / X形疤痕 / 交叉伤疤 / 十字刀疤 / 疤痕 / 伤痕 / x scar"
+    },
+    {
+      "en": "cross tattoo",
+      "zh": "十字纹身",
+      "rating": "g",
+      "count": 1150,
+      "desc": "十字形状的纹身。",
+      "kw": "十字形纹身 / 十字刺青 / 十字架纹身 / 十字图案纹身 / 横竖纹身 / 纹身 / 宗教"
+    },
+    {
+      "en": "deep wound",
+      "zh": "深伤口",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1024,
+      "desc": "深到露出皮下组织的严重伤口",
+      "kw": "深伤 / 严重伤口 / 深可见骨的伤口 / 重创 / 深创 / 伤痕 / 暴力 / wound / 伤口 / 重伤 / 傷口"
+    },
+    {
+      "en": "disembodied hand",
+      "zh": "浮空手",
+      "rating": "g",
+      "count": 23642,
+      "desc": "单独漂浮出现的手，无身体。",
+      "kw": "无身体的手 / 离体手 / 漂浮的手 / 单独的手 / 悬空手 / 无主之手 / 分离的手 / 只有手 / floating hand / detached hand / disembodied hands / disembodied limb"
+    },
+    {
+      "en": "dog paws",
+      "zh": "狗爪",
+      "rating": "g",
+      "count": 638,
+      "desc": "狗爪形状的手部或手套",
+      "kw": "狗爪手套 / 狗爪手 / 犬爪 / 狗爪形状 / 狗狗爪子 / 爪子 / 动物爪"
+    },
+    {
+      "en": "dorsal fin",
+      "zh": "背鳍",
+      "rating": "g",
+      "count": 2343,
+      "desc": "鱼或海兽背上的背鳍",
+      "kw": "脊鳍 / 鱼背鳍 / 鱼类特征 / 动物部位 / 背鰭 / せびれ"
+    },
+    {
+      "en": "dragon tattoo",
+      "zh": "龙纹身",
+      "rating": "g",
+      "count": 1127,
+      "desc": "龙图案的纹身",
+      "kw": "龙纹 / 龙纹刺青 / 龙形纹身 / 龙图案纹身 / 龙刺青 / 中国龙纹身 / 纹身 / 中国风"
+    },
+    {
+      "en": "exposed bone",
+      "zh": "外露骨骼",
+      "rating": "q",
+      "nsfw": true,
+      "count": 998,
+      "desc": "骨头刺出皮肤或缺少外层覆盖而外露。",
+      "kw": "裸骨 / 露出骨头 / 骨头外露 / 骨头暴露 / 露出的骨头 / 骨骼 / 骷髅"
+    },
+    {
+      "en": "exposed brain",
+      "zh": "暴露的大脑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 679,
+      "desc": "大脑暴露在颅骨之外",
+      "kw": "露出大脑 / 大脑外露 / 脑外露 / 暴露脑 / 外露大脑 / 脑子露出来 / 脑 / 恐怖"
+    },
+    {
+      "en": "exposed muscle",
+      "zh": "暴露的肌肉",
+      "rating": "q",
+      "nsfw": true,
+      "count": 908,
+      "desc": "因受伤或无皮肤而露出的肌肉组织",
+      "kw": "外露肌肉 / 肌肉暴露 / 裸露肌肉 / 露出肌肉 / 肌肉外露 / 露出的肌肉 / 肌肉 / 身体"
+    },
+    {
+      "en": "extra hands",
+      "zh": "额外的手",
+      "rating": "g",
+      "count": 572,
+      "desc": "角色拥有超过两只的手",
+      "kw": "多手 / 额外手臂 / 多余的手 / 第三只手 / 多只手 / 异常"
+    },
+    {
+      "en": "eye tattoo",
+      "zh": "眼睛纹身",
+      "rating": "g",
+      "count": 748,
+      "desc": "眼睛图案的纹身",
+      "kw": "眼球纹身 / 眼睛图案纹身 / 眼睛刺青 / 眼部纹身 / 纹身 / 身体标记"
+    },
+    {
+      "en": "finger claws",
+      "zh": "指爪",
+      "rating": "g",
+      "count": 911,
+      "desc": "长在手指上的爪",
+      "kw": "手指爪 / 爪子手指 / 手爪 / 利爪 / 怪物"
+    },
+    {
+      "en": "fins",
+      "zh": "鳍",
+      "rating": "g",
+      "count": 53318,
+      "desc": "鱼等水生动物用于游动的鳍。",
+      "kw": "鱼鳍 / 鳍片 / 鳍状物 / 水生动物鳍 / 尾鳍 / fin / ヒレ"
+    },
+    {
+      "en": "flesh",
+      "zh": "血肉",
+      "rating": "q",
+      "nsfw": true,
+      "count": 858,
+      "desc": "脱离身体的成块人或动物组织",
+      "kw": "肉块 / 生肉 / 肉体组织 / 尸肉 / 肉 / 肉体 / 身体 / 皮肤"
+    },
+    {
+      "en": "flower tattoo",
+      "zh": "花纹身",
+      "rating": "g",
+      "count": 4955,
+      "desc": "花朵形状的纹身图案",
+      "kw": "花朵纹身 / 花形刺青 / 刺花 / 花卉纹身 / 纹身 / 花纹"
+    },
+    {
+      "en": "forehead tattoo",
+      "zh": "额头纹身",
+      "rating": "g",
+      "count": 4140,
+      "desc": "刺在额头上的纹身",
+      "kw": "额纹身 / 额头刺青 / 额刺青 / 额上纹身 / 前额纹身 / 额部刺青 / 纹身 / 面部装饰"
+    },
+    {
+      "en": "full-body tattoo",
+      "zh": "全身纹身",
+      "rating": "g",
+      "count": 2758,
+      "desc": "覆盖身体三分之二以上的纹身",
+      "kw": "全身刺青 / 通体纹身 / 大面积纹身 / 满身纹身 / 全身纹绣 / 纹身 / 身体标记 / full body tattoo"
+    },
+    {
+      "en": "ghost hands",
+      "zh": "鬼手",
+      "rating": "g",
+      "count": 423,
+      "desc": "半透明或飘忽如幽灵的手。",
+      "kw": "幽灵手 / 鬼魂之手 / 幽灵之手 / 半透明的手 / 幽灵手臂 / 灵异 / 超自然"
+    },
+    {
+      "en": "gills",
+      "zh": "鱼鳃",
+      "rating": "g",
+      "count": 2189,
+      "desc": "水生动物从水中呼吸的鳃",
+      "kw": "鳃 / 腮 / 水生动物鳃 / 鱼类特征 / 生物 / 鰓 / えら / エラ"
+    },
+    {
+      "en": "glowing hand",
+      "zh": "发光的手",
+      "rating": "g",
+      "count": 1347,
+      "desc": "单只手发出光芒，常表现施法",
+      "kw": "发光手 / 手发光 / 发光手部 / 手部 / 发光"
+    },
+    {
+      "en": "glowing lines",
+      "zh": "发光线",
+      "rating": "g",
+      "count": 728,
+      "desc": "横过身体、发光的线条。",
+      "kw": "发光线条 / 发光纹路 / 发光条纹 / 光线条 / 荧光线条 / 特效 / 光效"
+    },
+    {
+      "en": "glowing markings",
+      "zh": "发光纹路",
+      "rating": "g",
+      "count": 1045,
+      "desc": "身上发光的纹路或标记",
+      "kw": "发光标记 / 发光斑纹 / 发光纹身 / 发光图案 / 荧光标记 / 发光符文 / 发光印记 / 纹身"
+    },
+    {
+      "en": "glowing tattoo",
+      "zh": "发光纹身",
+      "rating": "g",
+      "count": 2245,
+      "desc": "发出光芒的纹身",
+      "kw": "发光刺青 / 荧光纹身 / 亮纹身 / 夜光纹身 / 发光刺身 / 荧光刺青 / 纹身 / 魔法效果"
+    },
+    {
+      "en": "golden arms",
+      "zh": "黄金手臂",
+      "rating": "g",
+      "count": 905,
+      "desc": "黄金制成的手臂",
+      "kw": "金手臂 / 黄金双臂 / 金子手臂 / 金色手臂 / 手臂饰品"
+    },
+    {
+      "en": "hairy",
+      "zh": "多毛",
+      "rating": "g",
+      "count": 7777,
+      "desc": "身体可见多处体毛。",
+      "kw": "毛多 / 体毛多 / 多毛体质 / 毛发浓密 / 体毛旺盛 / 毛发多 / 毛茸茸 / 多毛的 / 毛深い"
+    },
+    {
+      "en": "head tattoo",
+      "zh": "头部纹身",
+      "rating": "g",
+      "count": 594,
+      "desc": "纹在头部皮肤上的纹身",
+      "kw": "头皮纹身 / 头纹 / 头顶纹身 / 头部刺青 / 头发下的纹身 / 纹身 / 身体装饰"
+    },
+    {
+      "en": "heart tattoo",
+      "zh": "心形纹身",
+      "rating": "g",
+      "count": 6897,
+      "desc": "爱心形状的纹身",
+      "kw": "爱心纹身 / 心型纹身 / 爱心刺青 / 心形刺青 / 爱心标志纹身 / 纹身"
+    },
+    {
+      "en": "hip tattoo",
+      "zh": "臀部纹身",
+      "rating": "s",
+      "count": 954,
+      "desc": "位于胯侧腰臀部位的纹身。",
+      "kw": "胯部纹身 / 腰臀纹身 / 臀部刺青 / 髋部纹身 / 纹身 / 身体部位"
+    },
+    {
+      "en": "hole in chest",
+      "zh": "胸口洞",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1820,
+      "desc": "胸口有一个贯穿的洞",
+      "kw": "胸口孔 / 胸口穿孔 / 胸腔洞 / 胸前开洞 / 胸口有洞 / 胸口的洞 / 伤口"
+    },
+    {
+      "en": "injury",
+      "zh": "受伤",
+      "rating": "s",
+      "count": 41617,
+      "desc": "角色受到打击或创伤而受伤。",
+      "kw": "伤 / 伤势 / 创伤 / 战损 / 负伤 / 伤口 / 受伤状态 / injuries / injured / wounded / wounds"
+    },
+    {
+      "en": "joints",
+      "zh": "关节接缝",
+      "rating": "g",
+      "count": 30388,
+      "desc": "人造手臂或腿部的接缝关节",
+      "kw": "关节 / 接缝关节 / 机械关节 / 球形关节 / 人造关节 / 身体部位 / 関节 / 関節"
+    },
+    {
+      "en": "leg tattoo",
+      "zh": "腿部纹身",
+      "rating": "g",
+      "count": 15815,
+      "desc": "位于腿部的纹身",
+      "kw": "腿纹身 / 大腿纹身 / 小腿纹身 / 腿部刺青 / 纹身 / 身体装饰 / thigh tattoo"
+    },
+    {
+      "en": "magic arm",
+      "zh": "魔化手臂",
+      "rating": "g",
+      "count": 961,
+      "desc": "与另一只明显不同、外观奇异的手臂",
+      "kw": "魔臂 / 魔法手臂 / 恶魔手臂 / 异形手臂 / 机械臂 / 机械 / 科幻"
+    },
+    {
+      "en": "mastectomy scar",
+      "zh": "乳房切除疤痕",
+      "rating": "s",
+      "count": 484,
+      "desc": "乳房全部或部分切除手术留下的胸部疤痕",
+      "kw": "乳腺切除疤痕 / 平胸手术疤痕 / 胸部手术疤痕 / 切胸疤痕 / 乳房切除术疤痕 / 疤痕 / 医疗 / top surgery scar"
+    },
+    {
+      "en": "mechabare",
+      "zh": "露出机械结构",
+      "rating": "g",
+      "count": 5117,
+      "desc": "露出机器人或改造人内部机械",
+      "kw": "机械暴露 / 露机械 / 机械内构 / 机械内部 / 露出机械 / 机械构造外露 / 机体裸露 / 露出机械部件 / mechanical organs / mechanical parts / メカバレ"
+    },
+    {
+      "en": "mechanical arms",
+      "zh": "机械手臂",
+      "rating": "g",
+      "count": 25957,
+      "desc": "以机械臂替代人臂的角色或机器人手臂",
+      "kw": "机械臂 / 机器手臂 / 机器人手臂 / 义肢手臂 / 机械义肢 / 机械手 / 机甲臂 / 铁臂 / robotic arms / robot arms / 义肢拘束 / 机械腕"
+    },
+    {
+      "en": "mechanical spine",
+      "zh": "机械脊柱",
+      "rating": "g",
+      "count": 716,
+      "desc": "以机械结构构成的脊柱或脊椎",
+      "kw": "机械脊椎 / 机械脊椎骨 / 人造脊柱 / 机械背骨 / 机械脊椎结构 / 义体 / 科幻 / mechanical backbone"
+    },
+    {
+      "en": "mole on armpit",
+      "zh": "腋下痣",
+      "rating": "s",
+      "count": 1414,
+      "desc": "腋下皮肤上长的痣。",
+      "kw": "腋窝的痣 / 胳肢窝痣 / 腋下黑痣 / 腋下美人痣 / 腋窝痣 / 腋下有痣 / 痣 / 身体标记 / mole on armpits"
+    },
+    {
+      "en": "multiple scars",
+      "zh": "多处疤痕",
+      "rating": "s",
+      "count": 6963,
+      "desc": "身上有多处疤痕。",
+      "kw": "多处伤疤 / 多个疤痕 / 浑身伤痕 / 多处伤痕 / 许多疤痕 / 疤痕累累 / 伤疤 / 身体标记"
+    },
+    {
+      "en": "muscular arms",
+      "zh": "肌肉手臂",
+      "rating": "g",
+      "count": 4774,
+      "desc": "明显粗壮发达的手臂",
+      "kw": "肌肉臂 / 健壮手臂 / 粗壮手臂 / 发达手臂 / 手臂肌肉 / 麒麟臂 / 肌肉发达的手臂 / 强壮胳膊"
+    },
+    {
+      "en": "navel hair",
+      "zh": "肚脐毛",
+      "rating": "s",
+      "count": 10285,
+      "desc": "肚脐周围向下延伸至阴部的体毛。",
+      "kw": "脐毛 / 脐下毛 / 腹毛 / 肚脐下毛 / 腹中线毛 / 体毛 / 身体部位 / happy trail"
+    },
+    {
+      "en": "neck tattoo",
+      "zh": "脖子纹身",
+      "rating": "g",
+      "count": 13473,
+      "desc": "位于脖子或颈部的纹身",
+      "kw": "颈部纹身 / 脖颈纹身 / 颈纹身 / 脖子刺青 / 颈部刺青 / 纹身"
+    },
+    {
+      "en": "no tattoo",
+      "zh": "无纹身",
+      "rating": "g",
+      "count": 227,
+      "desc": "通常有纹身的角色被画成无纹身。",
+      "kw": "没有纹身 / 去除纹身 / 抹去纹身 / 无刺青 / 没有刺青 / 纹身缺失 / 无纹身版本 / 无标记"
+    },
+    {
+      "en": "number tattoo",
+      "zh": "编号纹身",
+      "rating": "g",
+      "count": 15786,
+      "desc": "以数字为图案的纹身",
+      "kw": "数字刺青 / 号码纹身 / 数字图案纹身 / 数字文身 / 数字纹身图案 / 纹身 / 身体装饰"
+    },
+    {
+      "en": "object through head",
+      "zh": "物体穿头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3330,
+      "desc": "物体穿透头部的状态",
+      "kw": "穿头 / 头部贯穿 / 物体贯穿头部 / 头部被物体穿过 / 物体插入头部 / 头部穿刺 / 头部插着东西 / 头部被刺穿"
+    },
+    {
+      "en": "organs",
+      "zh": "内脏器官",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1287,
+      "desc": "暴露在体外、可见的内脏器官",
+      "kw": "内脏 / 暴露内脏 / 人体器官 / 体内器官外露 / 器官 / 解剖"
+    },
+    {
+      "en": "pink claws",
+      "zh": "粉色爪",
+      "rating": "g",
+      "count": 660,
+      "desc": "手指或脚趾上粉色的尖爪",
+      "kw": "粉色爪子 / 粉爪 / 粉红爪 / 粉色利爪 / 粉红爪子 / 粉红色爪 / 爪子"
+    },
+    {
+      "en": "pink tattoo",
+      "zh": "粉色纹身",
+      "rating": "g",
+      "count": 666,
+      "desc": "粉色线条的刺青，纹在皮肤上作装饰",
+      "kw": "粉红色纹身 / 粉色刺青 / 粉红色刺青 / 粉色纹身图案 / 粉色刺身 / 纹身"
+    },
+    {
+      "en": "prosthesis",
+      "zh": "假肢",
+      "rating": "g",
+      "count": 13235,
+      "desc": "替代缺失肢体的人造装置",
+      "kw": "义肢 / 义手 / 义足 / 假手 / 假腿 / 人造肢体 / 机械假肢 / 义体 / prosthetic limb / 義肢 / 義手 / 義足"
+    },
+    {
+      "en": "pubic tattoo through clothing",
+      "zh": "透衣阴部纹身",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1074,
+      "desc": "通过薄衣隐约透出的阴部纹身图案。",
+      "kw": "透衣淫纹 / 纹身 / 透视"
+    },
+    {
+      "en": "pubic tattoo visible through clothes",
+      "zh": "透衣阴部纹身",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1340,
+      "desc": "透过衣服可见的阴部纹身，常称淫纹",
+      "kw": "透衣淫纹 / 阴部纹身透衣 / 下体纹身透出 / 淫纹透衣 / 淫纹 / 耻骨纹身 / 透明纹身 / 性感纹身 / pubic tattoo through clothing / 淫纹"
+    },
+    {
+      "en": "red claws",
+      "zh": "红色的爪",
+      "rating": "g",
+      "count": 597,
+      "desc": "角色手部或动物爪子呈现红色的尖爪",
+      "kw": "红爪 / 红色爪子 / 红色利爪 / 红色兽爪 / 红色尖爪 / 红尖爪 / 利爪 / 红色"
+    },
+    {
+      "en": "red tattoo",
+      "zh": "红色纹身",
+      "rating": "g",
+      "count": 5866,
+      "desc": "颜色为红色的纹身",
+      "kw": "红色刺青 / 红纹身 / 红刺青 / 红色纹身图案 / 纹身 / 身体装饰"
+    },
+    {
+      "en": "scar on arm",
+      "zh": "手臂伤疤",
+      "rating": "g",
+      "count": 14497,
+      "desc": "位于手臂上的伤疤。",
+      "kw": "胳膊上的伤疤 / 手臂疤痕 / 手臂伤痕 / 臂上疤痕 / 疤痕 / 手臂 / 身体标记 / arm scar"
+    },
+    {
+      "en": "scar on back",
+      "zh": "背部的伤疤",
+      "rating": "g",
+      "count": 1828,
+      "desc": "位于背部的伤疤",
+      "kw": "背部伤痕 / 背上疤痕 / 背伤疤 / 背后的伤疤 / 疤痕 / 伤痕"
+    },
+    {
+      "en": "scar on chest",
+      "zh": "胸部疤痕",
+      "rating": "g",
+      "count": 13193,
+      "desc": "位于胸部的伤疤。",
+      "kw": "胸口伤疤 / 胸前疤痕 / 胸疤 / 胸部伤疤 / 胸口疤 / 胸口伤痕 / 伤疤 / 身体标记 / chest scar"
+    },
+    {
+      "en": "scar on hand",
+      "zh": "手上的伤疤",
+      "rating": "g",
+      "count": 2689,
+      "desc": "位于手部的伤疤。",
+      "kw": "手部伤疤 / 手背疤痕 / 手上有疤 / 手部疤痕 / 手上的疤痕 / 疤痕 / 伤痕"
+    },
+    {
+      "en": "scar on neck",
+      "zh": "脖子伤疤",
+      "rating": "g",
+      "count": 5590,
+      "desc": "位于脖子上的伤疤",
+      "kw": "颈部伤疤 / 脖子的疤痕 / 脖子疤痕 / 颈疤 / 脖颈疤痕 / 喉咙疤痕 / 颈部疤痕 / 颈子上伤疤 / neck scar"
+    },
+    {
+      "en": "scar on shoulder",
+      "zh": "肩部伤疤",
+      "rating": "g",
+      "count": 2831,
+      "desc": "位于肩部的伤疤。",
+      "kw": "肩膀上的疤 / 肩伤疤 / 肩膀疤痕 / 肩部疤痕 / 肩上的伤疤 / 伤疤 / 疤痕"
+    },
+    {
+      "en": "scar on stomach",
+      "zh": "腹部疤痕",
+      "rating": "g",
+      "count": 4915,
+      "desc": "位于腹部的伤疤",
+      "kw": "腹部伤疤 / 肚子上的疤痕 / 小腹疤痕 / 肚皮疤痕 / 腹伤疤 / 伤疤"
+    },
+    {
+      "en": "scars all over",
+      "zh": "布满伤疤",
+      "rating": "s",
+      "count": 1668,
+      "desc": "身体多处遍布伤疤",
+      "kw": "满身伤疤 / 全身伤疤 / 伤疤累累 / 多处伤疤 / 疤痕遍布 / 全身伤痕 / 创伤痕迹 / too many scars"
+    },
+    {
+      "en": "scrape",
+      "zh": "擦伤",
+      "rating": "s",
+      "count": 641,
+      "desc": "皮肤表层被擦掉的轻微外伤",
+      "kw": "擦破皮 / 蹭伤 / 皮肤擦伤 / 轻微外伤 / 伤痕"
+    },
+    {
+      "en": "self-harm scar",
+      "zh": "自残疤痕",
+      "rating": "s",
+      "count": 1974,
+      "desc": "过去自残行为留下的疤痕，常见于手腕等处。",
+      "kw": "自伤疤痕 / 割腕疤痕 / 自残伤疤 / 自伤痕迹 / 手腕割痕 / 自残伤痕 / 伤疤 / 身体标记 / wrist cutting scar"
+    },
+    {
+      "en": "severed limb",
+      "zh": "断肢",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1753,
+      "desc": "图中可见被切断脱离身体的肢体",
+      "kw": "断手断脚 / 切肢 / 残肢 / 被切断的肢体 / 离断肢体 / 肢体 / 伤口 / 恐怖 / severed limbs"
+    },
+    {
+      "en": "shark fin",
+      "zh": "鲨鱼鳍",
+      "rating": "g",
+      "count": 1298,
+      "desc": "角色身上的鲨鱼鳍，常为鲨鱼角色或装饰。",
+      "kw": "鲨鱼背鳍 / 鲨鱼翅 / 鲨鱼鳍状物 / 鱼鳍 / 动物"
+    },
+    {
+      "en": "shoulder tattoo",
+      "zh": "肩部纹身",
+      "rating": "g",
+      "count": 26874,
+      "desc": "位于肩膀或上臂处的纹身",
+      "kw": "肩膀纹身 / 肩上纹身 / 肩头纹身 / 肩部刺青 / 纹身"
+    },
+    {
+      "en": "single bare arm",
+      "zh": "单臂裸露",
+      "rating": "g",
+      "count": 1111,
+      "desc": "只有一只手臂裸露，另一只至少四分之三被遮住",
+      "kw": "单只裸臂 / 单个裸手臂 / 一只手臂裸露 / 单侧裸臂 / 露单臂 / 只露一只手臂 / 裸露 / 手臂"
+    },
+    {
+      "en": "single mechanical arm",
+      "zh": "单机械臂",
+      "rating": "g",
+      "count": 11698,
+      "desc": "只有一只手臂是机械臂",
+      "kw": "单机械手臂 / 单臂机械 / 一只机械臂 / 单侧机械臂 / 机械义肢 / 机械手 / 机器人手臂 / 机械臂 / robot arm / mechanical arm / robot arms / robotic arms"
+    },
+    {
+      "en": "single mechanical hand",
+      "zh": "单机械手",
+      "rating": "g",
+      "count": 1144,
+      "desc": "只有一只手为机械手",
+      "kw": "单只机械手 / 单手机械手 / 机械手（单只） / 一只机械手 / 义肢 / 机械 / mechanical hand"
+    },
+    {
+      "en": "skull tattoo",
+      "zh": "骷髅纹身",
+      "rating": "g",
+      "count": 524,
+      "desc": "骷髅图案的纹身",
+      "kw": "骷髅刺青 / 骷髅头纹身 / 骷髅头刺青 / 骷髅图案纹身 / 骷髅图案刺青 / 纹身 / 骷髅"
+    },
+    {
+      "en": "snake tattoo",
+      "zh": "蛇纹身",
+      "rating": "g",
+      "count": 1139,
+      "desc": "蛇形图案的纹身。",
+      "kw": "蛇形纹身 / 蛇刺青 / 蛇图案纹身 / 蛇纹身图案 / 蛇形刺青 / 纹身 / 蛇"
+    },
+    {
+      "en": "spade tattoo",
+      "zh": "黑桃纹身",
+      "rating": "g",
+      "count": 1184,
+      "desc": "黑桃形状或图案的纹身。",
+      "kw": "黑桃刺青 / 黑桃图案纹身 / 黑桃形状纹身 / 黑桃纹章 / ♠纹身 / 纹身 / 标记"
+    },
+    {
+      "en": "sparse arm hair",
+      "zh": "稀疏臂毛",
+      "rating": "g",
+      "count": 1000,
+      "desc": "手臂上稀疏细淡的体毛",
+      "kw": "手臂汗毛稀疏 / 稀少的臂毛 / 细疏臂毛 / 淡臂毛 / 手臂汗毛淡 / 稀疏手毛 / 稀疏的臂毛 / 体毛"
+    },
+    {
+      "en": "sparse chest hair",
+      "zh": "稀疏胸毛",
+      "rating": "g",
+      "count": 2201,
+      "desc": "胸部仅上方或中部可见的稀疏胸毛",
+      "kw": "胸毛稀少 / 稀薄胸毛 / 少胸毛 / 零散胸毛 / 胸口稀毛 / 胸毛 / 体毛"
+    },
+    {
+      "en": "sparse navel hair",
+      "zh": "稀疏脐毛",
+      "rating": "g",
+      "count": 898,
+      "desc": "肚脐周围稀疏的体毛",
+      "kw": "肚脐稀疏毛发 / 稀少脐毛 / 肚脐毛稀疏 / 稀疏的肚脐毛 / 体毛"
+    },
+    {
+      "en": "spider tattoo",
+      "zh": "蜘蛛纹身",
+      "rating": "g",
+      "count": 525,
+      "desc": "蜘蛛图案的纹身",
+      "kw": "蜘蛛刺青 / 蜘蛛图案纹身 / 蜘蛛图案刺青 / 蜘蛛纹身图案 / 纹身 / 蜘蛛图案"
+    },
+    {
+      "en": "spine",
+      "zh": "脊柱",
+      "rating": "g",
+      "count": 3249,
+      "desc": "人体的脊椎骨，骨架主要组成部分",
+      "kw": "脊椎 / 脊椎骨 / 背骨 / 龙骨 / 脊梁骨 / 脊骨 / 椎骨 / 脊柱骨"
+    },
+    {
+      "en": "spines",
+      "zh": "棘刺",
+      "rating": "g",
+      "count": 1448,
+      "desc": "动物身上硬而尖的突起，如豪猪刺",
+      "kw": "尖刺 / 刺 / 棘 / 尖棘 / 硬刺 / 动物刺 / 脊刺 / 背刺"
+    },
+    {
+      "en": "sprain",
+      "zh": "扭伤",
+      "rating": "g",
+      "count": 290,
+      "desc": "因关节扭动导致韧带关节囊损伤，尤其脚踝。",
+      "kw": "关节扭伤 / 脚踝扭伤 / 韧带拉伤 / 崴脚 / 扭到脚 / 扭伤关节 / 挫伤 / 伤势"
+    },
+    {
+      "en": "stab",
+      "zh": "刺伤",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3645,
+      "desc": "被刀剑等尖锐物刺入造成的伤口。",
+      "kw": "被刺 / 刀伤 / 剑伤 / 刺入伤口 / 刺中 / 暴力 / 伤口 / stabbed / stabbing"
+    },
+    {
+      "en": "star tattoo",
+      "zh": "星形纹身",
+      "rating": "g",
+      "count": 2471,
+      "desc": "纹在身上的星形图案",
+      "kw": "星星纹身 / 星形刺青 / 星星刺青 / 五角星纹身 / 星状纹身 / 星形纹身图案 / 纹身 / 星星"
+    },
+    {
+      "en": "stitches",
+      "zh": "缝合线/缝针",
+      "rating": "s",
+      "count": 20021,
+      "desc": "身体或布偶上可见的缝合线",
+      "kw": "缝线 / 针脚 / 线缝 / 线迹 / 缝痕 / 缝合痕迹 / 缝补线 / 针线痕迹 / 縫い目"
+    },
+    {
+      "en": "stomach hair",
+      "zh": "腹部体毛",
+      "rating": "g",
+      "count": 569,
+      "desc": "生长在腹部上的体毛",
+      "kw": "肚毛 / 腹毛 / 肚子上的毛 / 腹部毛发 / 体毛"
+    },
+    {
+      "en": "stomach tattoo",
+      "zh": "腹部纹身",
+      "rating": "s",
+      "count": 10012,
+      "desc": "纹在腹部而非耻骨上方的纹身",
+      "kw": "腹纹身 / 肚子纹身 / 腹部刺青 / 小腹纹身 / 肚皮纹身 / 腹上纹身 / 肚脐周围纹身 / 纹身"
+    },
+    {
+      "en": "suction cups",
+      "zh": "吸盘",
+      "rating": "g",
+      "count": 8009,
+      "desc": "章鱼等头足类触手上的吸盘",
+      "kw": "吸附盘 / 吸嘴 / 吸口 / 吸附杯 / 吸盤 / 触手吸盘 / 吸附 / 吸盤"
+    },
+    {
+      "en": "sun tattoo",
+      "zh": "太阳纹身",
+      "rating": "g",
+      "count": 1997,
+      "desc": "太阳符号形状的纹身。",
+      "kw": "太阳纹 / 日纹身 / 太阳图腾纹身 / 旭日纹身 / 日光纹身 / 太阳刺青 / 纹身太阳 / 纹身 / sun tattoos"
+    },
+    {
+      "en": "surgical scar",
+      "zh": "手术疤痕",
+      "rating": "s",
+      "count": 592,
+      "desc": "手术后留下的通常带缝合痕迹的长疤",
+      "kw": "手术伤疤 / 手术后疤痕 / 开刀疤痕 / 缝合疤痕 / 手术切口疤痕 / 术后疤痕 / 疤痕 / 手术"
+    },
+    {
+      "en": "tacet mark (wuthering waves)",
+      "zh": "声痕",
+      "rating": "g",
+      "count": 16328,
+      "desc": "鸣潮中所有共鸣者身上、可激发异能的特殊印记",
+      "kw": "鸣潮声痕 / 共鸣印记 / 声痕印记 / 共鸣器印记 / 声骸印记 (鸣潮) / 标记 / 纹身 / 游戏元素"
+    },
+    {
+      "en": "tattoo sleeve",
+      "zh": "花臂",
+      "rating": "g",
+      "count": 512,
+      "desc": "覆盖手臂或腿部大部分的大面积纹身",
+      "kw": "花臂纹身 / 满臂纹身 / 纹身袖 / 手臂大面积纹身 / 纹身花臂 / 纹身 / 全臂纹身"
+    },
+    {
+      "en": "teardrop tattoo",
+      "zh": "泪珠纹身",
+      "rating": "g",
+      "count": 2039,
+      "desc": "泪滴形状的纹身，常暗示入狱或杀人记录。",
+      "kw": "泪滴纹身 / 泪痕纹身 / 眼泪纹身 / 泪珠刺青 / 泪滴刺青 / 哭泣纹身 / 泪痕刺青 / 纹身"
+    },
+    {
+      "en": "thick arm hair",
+      "zh": "浓密臂毛",
+      "rating": "g",
+      "count": 1081,
+      "desc": "手臂上浓密明显的体毛。",
+      "kw": "手臂浓密毛发 / 浓密手毛 / 臂毛浓密 / 手毛浓密 / 手臂多毛 / 浓密的臂毛 / 体毛 / 毛发"
+    },
+    {
+      "en": "thick chest hair",
+      "zh": "浓密胸毛",
+      "rating": "g",
+      "count": 1284,
+      "desc": "覆盖大部分胸部的浓密胸毛。",
+      "kw": "厚胸毛 / 浓胸毛 / 胸毛浓密 / 一片胸毛 / 多毛胸部 / 浓密的胸毛 / 体毛"
+    },
+    {
+      "en": "thick leg hair",
+      "zh": "浓密腿毛",
+      "rating": "g",
+      "count": 658,
+      "desc": "浓密且覆盖大部分腿部的腿毛",
+      "kw": "腿毛浓密 / 粗腿毛 / 大量腿毛 / 浓密的腿毛 / 腿毛 / 体毛"
+    },
+    {
+      "en": "thick navel hair",
+      "zh": "浓密脐毛",
+      "rating": "g",
+      "count": 974,
+      "desc": "肚脐周围浓密的体毛",
+      "kw": "浓密肚脐毛 / 肚脐浓毛 / 浓脐毛 / 密脐毛 / 肚脐毛多 / 浓密的肚脐毛 / 体毛"
+    },
+    {
+      "en": "tiger paws",
+      "zh": "虎爪",
+      "rating": "g",
+      "count": 652,
+      "desc": "长着老虎爪子或戴虎爪手套的角色",
+      "kw": "老虎爪子 / 虎爪手套 / 虎掌 / 老虎爪 / 虎手 / 虎爪手 / 兽爪 / 动物纹"
+    },
+    {
+      "en": "tribal tattoo",
+      "zh": "部落纹身",
+      "rating": "g",
+      "count": 1694,
+      "desc": "部落风格的纹身。",
+      "kw": "部落图腾纹身 / 原始部落刺青 / 部落风格纹身 / 原住民纹身 / 部落刺青 / 纹身 / 部落风格"
+    },
+    {
+      "en": "triceps",
+      "zh": "三头肌",
+      "rating": "g",
+      "count": 771,
+      "desc": "上臂背侧的肌肉，俗称三头肌。",
+      "kw": "肱三头肌 / 上臂三头肌 / 三头筋 / 肌肉 / 手臂 / 上腕三头筋"
+    },
+    {
+      "en": "turtle shell",
+      "zh": "龟壳",
+      "rating": "g",
+      "count": 4598,
+      "desc": "乌龟的甲壳，也可指拟人角色的背壳",
+      "kw": "乌龟壳 / 龟甲 / 甲壳 / 背壳 / 龟背 / 乌龟背壳 / 龟甲壳 / 乌龟 / 亀甲"
+    },
+    {
+      "en": "veins",
+      "zh": "青筋",
+      "rating": "g",
+      "count": 66972,
+      "desc": "皮肤下凸起的粗大血管",
+      "kw": "血管 / 静脉 / 筋脉 / 浮筋 / 血筋 / 凸起的血管 / 暴起的青筋 / 青筋暴起 / vein / veiny / 脈 / 脉"
+    },
+    {
+      "en": "veiny arms",
+      "zh": "青筋手臂",
+      "rating": "g",
+      "count": 5817,
+      "desc": "青筋明显的手臂，多见于肌肉发达角色。",
+      "kw": "手臂青筋 / 青筋暴起 / 血管明显的手臂 / 静脉凸起的手臂 / 筋络分明的手臂 / 青筋暴露的手臂 / 肌肉手臂"
+    },
+    {
+      "en": "veiny hands",
+      "zh": "青筋手",
+      "rating": "g",
+      "count": 1690,
+      "desc": "手背血管明显凸起的手。",
+      "kw": "手背青筋 / 血管凸起的手 / 青筋暴起的手 / 筋脉分明的手 / 青筋暴露的手 / 手显青筋 / 手部 / 细节"
+    },
+    {
+      "en": "very hairy",
+      "zh": "体毛浓密",
+      "rating": "g",
+      "count": 860,
+      "desc": "体毛浓密到几乎覆盖全身",
+      "kw": "毛发旺盛 / 体毛旺盛 / 多毛 / 浓密体毛 / 体毛"
+    },
+    {
+      "en": "very long fingernails",
+      "zh": "非常长的指甲",
+      "rating": "g",
+      "count": 4672,
+      "desc": "超出指尖一厘米以上的长指甲",
+      "kw": "超长指甲 / 极长指甲 / 长指甲 / 巨长指甲 / 超长美甲 / 美甲 / 尖指甲"
+    },
+    {
+      "en": "webbed hands",
+      "zh": "蹼手",
+      "rating": "g",
+      "count": 1445,
+      "desc": "指间由皮肤相连成蹼的手，多见于水生角色。",
+      "kw": "蹼状手 / 有蹼的手 / 手指有蹼 / 蹼手畸形 / 水蹼手 / 蹼状手指 / 手部 / 动物特征 / 水かき"
+    },
+    {
+      "en": "winged heart tattoo",
+      "zh": "带翼心形纹身",
+      "rating": "g",
+      "count": 1725,
+      "desc": "带翅膀心形图案的纹身",
+      "kw": "翅膀心形纹身 / 带翅膀爱心纹身 / 飞翔心纹身 / 天使心纹身 / 带翅膀的心形纹身 / 纹身 / 图案"
+    },
+    {
+      "en": "wolf paws",
+      "zh": "狼爪",
+      "rating": "g",
+      "count": 795,
+      "desc": "狼的爪子，也可用于兽人角色",
+      "kw": "狼爪子 / 狼的爪子 / 狼脚爪 / 狼的前爪 / 狼的后爪 / 动物爪 / 兽化"
+    },
+    {
+      "en": "scratches",
+      "zh": "抓痕/划痕",
+      "rating": "g",
+      "count": 6007,
+      "desc": "物体表面因意外或磨损留下的浅划痕",
+      "kw": "刮痕 / 擦痕 / 划伤 / 刮擦痕迹 / 磨损痕迹 / 浅划痕 / 表面划痕 / 抓痕 / scratch"
+    }
+  ]
+}

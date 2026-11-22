@@ -1,0 +1,792 @@
+{
+  "id": "effect_element",
+  "name": "元素与特效",
+  "icon": "✨",
+  "color": "#64748b",
+  "majorId": "uncategorized_group",
+  "majorName": "未分类",
+  "tags": [
+    {
+      "en": "air bubble",
+      "zh": "气泡",
+      "rating": "g",
+      "count": 20485,
+      "desc": "水中或固体中包裹空气的气泡。",
+      "kw": "水泡 / 气泡效果 / 水中气泡 / 泡沫 / 空气泡 / 泡泡 / 效果 / 気泡 / 泡"
+    },
+    {
+      "en": "aura",
+      "zh": "气场",
+      "rating": "g",
+      "count": 19383,
+      "desc": "角色体内能量外溢形成的气场光环",
+      "kw": "灵气 / 斗气 / 气息 / 能量场 / 光环 / 气势 / 霸气 / 灵压 / ki / 波动 / 霊気 / 気"
+    },
+    {
+      "en": "beam",
+      "zh": "光束",
+      "rating": "g",
+      "count": 551,
+      "desc": "模糊标签，建议使用更具体的描述性标签",
+      "kw": "梁 / 光线 / 效果"
+    },
+    {
+      "en": "black blood",
+      "zh": "黑血",
+      "rating": "s",
+      "count": 727,
+      "desc": "颜色为黑色的血液",
+      "kw": "黑色血液 / 黑红色血液 / 墨色血 / 血液 / 效果"
+    },
+    {
+      "en": "black fire",
+      "zh": "黑火",
+      "rating": "g",
+      "count": 421,
+      "desc": "颜色为黑色的火焰。",
+      "kw": "黑色火焰 / 黑炎 / 暗黑火焰 / 黑焰 / 火焰 / 特效 / black flame"
+    },
+    {
+      "en": "blood",
+      "zh": "血液",
+      "rating": "s",
+      "count": 197301,
+      "desc": "流出体外的红色血液。",
+      "kw": "流血 / 出血 / 血迹 / 鲜血 / 血渍 / 血痕 / 血腥 / 流血注意 / 血腥"
+    },
+    {
+      "en": "blood drip",
+      "zh": "滴血",
+      "rating": "s",
+      "count": 2224,
+      "desc": "血液滴落的画面",
+      "kw": "血液滴落 / 流血滴落 / 血滴 / 滴落的血 / 血迹 / 伤口 / dripping blood"
+    },
+    {
+      "en": "blood splatter",
+      "zh": "溅血",
+      "rating": "q",
+      "nsfw": true,
+      "count": 12671,
+      "desc": "飞溅在表面的血迹",
+      "kw": "血溅 / 鲜血飞溅 / 喷溅血 / 血迹飞溅 / 血花四溅 / 溅血效果 / 血浆飞溅 / 血液喷溅 / blood spatter / スプラッタ / スプラッター"
+    },
+    {
+      "en": "blood spray",
+      "zh": "血液喷溅",
+      "rating": "q",
+      "nsfw": true,
+      "count": 987,
+      "desc": "血液喷涌而出的画面",
+      "kw": "喷血 / 血溅 / 血花飞溅 / 血液飞溅 / 血雾 / 血柱 / 血沫飞溅 / 溅血 / 血飞沫 / 血しぶき / 血飛沫"
+    },
+    {
+      "en": "blood stain",
+      "zh": "血迹",
+      "rating": "s",
+      "count": 3993,
+      "desc": "血渗进布料等材质后留下的暗红印记",
+      "kw": "血渍 / 血污 / 血痕 / 血印 / 血斑 / 暗红印记 / 血染痕迹 / 污渍 / blood stains / bloodstains / bloodstain"
+    },
+    {
+      "en": "blood trail",
+      "zh": "血痕",
+      "rating": "s",
+      "count": 513,
+      "desc": "沿路径连续延伸的血迹拖痕",
+      "kw": "血迹 / 血痕拖尾 / 血路 / 血线 / 血滴痕迹 / 血迹轨迹 / 拖血痕 / 血液"
+    },
+    {
+      "en": "blue blood",
+      "zh": "蓝色血液",
+      "rating": "s",
+      "count": 1096,
+      "desc": "呈蓝色而非红色的血液。",
+      "kw": "蓝血 / 蓝色血 / 蓝血人 / 血液蓝色 / 血液 / 液体"
+    },
+    {
+      "en": "blue fire",
+      "zh": "蓝色火焰",
+      "rating": "g",
+      "count": 13645,
+      "desc": "蓝色的火焰，常见于超自然或魔法场景",
+      "kw": "蓝焰 / 蓝火 / 苍焰 / 青色火焰 / 苍火 / 特效 / 火焰 / blue flame / 青い炎"
+    },
+    {
+      "en": "colored smoke",
+      "zh": "彩色烟雾",
+      "rating": "g",
+      "count": 912,
+      "desc": "非白灰黑色的有色烟雾。",
+      "kw": "有色烟 / 彩色烟 / 蓝烟 / 绿烟 / 粉烟 / 红烟 / 彩色烟气 / 烟雾 / blue smoke / green smoke / pink smoke / red smoke"
+    },
+    {
+      "en": "condensation",
+      "zh": "凝结水珠",
+      "rating": "g",
+      "count": 2242,
+      "desc": "冷物体表面凝结的小水珠",
+      "kw": "结露 / 水珠 / 冷凝水珠 / 水汽凝结 / 冷表面水珠 / 凝结水滴 / 冷凝 / 效果 / 凝缩"
+    },
+    {
+      "en": "dark aura",
+      "zh": "暗色气场",
+      "rating": "g",
+      "count": 3547,
+      "desc": "以暗色调表现愤怒或杀意的气场",
+      "kw": "黑暗气场 / 黑色气场 / 黑气 / 暗黑气场 / 邪气 / 煞气 / 暗色气息 / 负能量气场"
+    },
+    {
+      "en": "devil fruit power",
+      "zh": "恶魔果实能力",
+      "rating": "g",
+      "count": 2172,
+      "desc": "展示或发动恶魔果实能力的场面。",
+      "kw": "果实能力 / 恶魔果实力量 / 恶魔之力 / 恶魔果实技能 / 能力发动 / 海贼王 / 超能力"
+    },
+    {
+      "en": "electricity",
+      "zh": "电流",
+      "rating": "g",
+      "count": 28082,
+      "desc": "由角色或武器放出的电流",
+      "kw": "电击 / 电光 / 雷电 / 电火花 / 电气 / 电流效果 / 电力 / 特效 / 电撃 / 电気 / 電気 / 電撃"
+    },
+    {
+      "en": "energy ball",
+      "zh": "能量球",
+      "rating": "g",
+      "count": 3989,
+      "desc": "由能量凝聚成的球体",
+      "kw": "光球 / 能量弹 / 气功球 / 魔法球 / 能量光球 / 球形能量 / 力场球 / 魔法 / エネルギー弾"
+    },
+    {
+      "en": "energy barrier",
+      "zh": "能源屏障",
+      "rating": "g",
+      "count": 883,
+      "desc": "由能量形成的透明屏障",
+      "kw": "能量屏障 / 力场 / 能量护盾 / 能量壁 / 防护罩 / 能量力场 / 科幻 / 防护 / force field"
+    },
+    {
+      "en": "energy beam",
+      "zh": "能量光束",
+      "rating": "g",
+      "count": 2307,
+      "desc": "以光束形式射出的能量",
+      "kw": "能量射线 / 能量束 / 光束炮 / 能量炮 / 光束 / 科幻 / 能量"
+    },
+    {
+      "en": "explosion",
+      "zh": "爆炸",
+      "rating": "g",
+      "count": 16069,
+      "desc": "由炸药或化学反应引起的巨大火球与碎片",
+      "kw": "爆破 / 炸裂 / 爆炸场面 / 爆炸效果 / 特效 / 战斗场景 / 爆発 / ばくはつ"
+    },
+    {
+      "en": "fireball",
+      "zh": "火球",
+      "rating": "g",
+      "count": 1166,
+      "desc": "由火焰构成的球体，常见于技能特效",
+      "kw": "火焰球 / 火焰弹 / 火球术 / 火炎弹 / 火弹 / 鬼火 / 火焰团 / 赤炎弹 / fire ball / fireball (fire) / fireballs / 火炎弾"
+    },
+    {
+      "en": "fume",
+      "zh": "冒烟",
+      "rating": "g",
+      "count": 614,
+      "desc": "已弃用标签，请使用其他替代标签。",
+      "kw": "愤怒 / 表情"
+    },
+    {
+      "en": "gate of babylon (fate)",
+      "zh": "王之财宝",
+      "rating": "g",
+      "count": 640,
+      "desc": "《Fate》中吉尔伽美什射出宝具的宝库",
+      "kw": "巴比伦之门 / 王之宝库 / 王财 / 吉尔伽美什的宝库 / 王之财宝 (Fate) / 宝具 / 技能 / gates of babylon / gate of babylon / 王の財宝"
+    },
+    {
+      "en": "green fire",
+      "zh": "绿火",
+      "rating": "g",
+      "count": 1509,
+      "desc": "以绿色为主的火焰",
+      "kw": "绿色火焰 / 绿色火 / 翠绿火焰 / 青火 / 火焰 / 绿色"
+    },
+    {
+      "en": "handprint",
+      "zh": "手印",
+      "rating": "g",
+      "count": 1949,
+      "desc": "手接触表面后留下的痕迹",
+      "kw": "手掌印 / 手痕 / 掌印 / 手印痕迹 / 痕迹 / hand print"
+    },
+    {
+      "en": "happy aura",
+      "zh": "喜悦气场",
+      "rating": "g",
+      "count": 1763,
+      "desc": "用弧线或花朵表现喜悦的气场",
+      "kw": "开心气场 / 快乐气场 / 幸福气场 / 喜悦光环 / 快乐氛围 / 开心氛围 / 氛围 / 快乐"
+    },
+    {
+      "en": "hemokinesis",
+      "zh": "血液操控",
+      "rating": "q",
+      "nsfw": true,
+      "count": 796,
+      "desc": "以魔法或超能力操控血液",
+      "kw": "血液控制 / 血魔法 / 控血术 / 血液操纵 / 血之操控 / 御血能力 / 超能力 / 血控 / blood magic / blood manipulation"
+    },
+    {
+      "en": "hydrokinesis",
+      "zh": "水流操控",
+      "rating": "g",
+      "count": 2909,
+      "desc": "用魔法或超能力操控水。",
+      "kw": "控水 / 操控水 / 水魔法 / 水属性 / 水能力 / 御水 / 水之操纵 / 控水能力 / water magic / water manipulation / water bending / 泡属性"
+    },
+    {
+      "en": "ice crystal",
+      "zh": "冰晶",
+      "rating": "g",
+      "count": 712,
+      "desc": "水凝结成的晶体状冰，多呈棱角或霜花状",
+      "kw": "冰晶体 / 冰结晶体 / 冰晶石 / 冰花 / 霜花晶体 / 晶体 / 冰元素"
+    },
+    {
+      "en": "kamehameha (dragon ball)",
+      "zh": "龟派气功（龙珠）",
+      "rating": "g",
+      "count": 711,
+      "desc": "《龙珠》中龟仙流的绝招气功波",
+      "kw": "龟派气功 / 龟波气功 / 龟派气功波 / 龟波功 / 龟元气功 / 龙珠 / 技能 / 气功 / kamehameha / かめはめ波"
+    },
+    {
+      "en": "laser",
+      "zh": "激光",
+      "rating": "g",
+      "count": 3102,
+      "desc": "用于切割或瞄准的高能光束",
+      "kw": "激光束 / 雷射 / 镭射 / 激光光束 / 雷射光 / 激光射线 / 特效 / 科幻 / laser beam / lasers / レーザー / レーザービーム"
+    },
+    {
+      "en": "loving aura",
+      "zh": "爱意气场",
+      "rating": "g",
+      "count": 3151,
+      "desc": "角色头部周围环绕漂浮爱心的氛围",
+      "kw": "爱心气场 / 爱心氛围 / 恋爱气场 / 爱心环绕 / 爱心飘飘 / 爱意氛围 / 爱心环 / 爱心光环"
+    },
+    {
+      "en": "master spark",
+      "zh": "极限火花",
+      "rating": "g",
+      "count": 531,
+      "desc": "东方Project中雾雨魔理沙的强力符卡攻击",
+      "kw": "魔炮 / 恋符极限火花 / 大师火花 / Master Spark / 极限火花 (Master Spark) / 技能 / 东方 / マスタースパーク / 恋符「マスタースパーク」 / マスパ"
+    },
+    {
+      "en": "originium arts (arknights)",
+      "zh": "源石技艺",
+      "rating": "g",
+      "count": 921,
+      "desc": "《明日方舟》中相当于魔法的源石技艺。",
+      "kw": "源石技艺（明日方舟） / 源石法术 / 源石魔法 / 源石技能 / 源石术式 / 源石能力 / 源石技艺(明日方舟) / 源石技艺 (明日方舟)"
+    },
+    {
+      "en": "paint splatter",
+      "zh": "颜料飞溅",
+      "rating": "g",
+      "count": 7526,
+      "desc": "彩色颜料飞溅形成的背景或图案",
+      "kw": "油漆飞溅 / 涂料飞溅 / 颜料泼溅 / 彩漆飞溅 / 飞溅的颜料 / 溅漆 / 油漆渍 / 喷溅颜料"
+    },
+    {
+      "en": "pink blood",
+      "zh": "粉红色的血",
+      "rating": "s",
+      "count": 4333,
+      "desc": "呈粉红色而非红色的血，常用于淡化血腥",
+      "kw": "粉红血 / 粉色血液 / 粉血 / 粉红血液 / 粉红色血液 / 血迹 / 幻想"
+    },
+    {
+      "en": "pink fire",
+      "zh": "粉红色的火",
+      "rating": "g",
+      "count": 1100,
+      "desc": "以粉色为主的火焰。",
+      "kw": "粉色火焰 / 粉焰 / 粉红色火焰 / 桃色火焰 / 粉火 / 粉红色的火焰 / 粉色火 / 火焰 / pink flame"
+    },
+    {
+      "en": "plasma",
+      "zh": "等离子体",
+      "rating": "g",
+      "count": 177,
+      "desc": "通常指科幻能量等离子体或发光效果。",
+      "kw": "等离子态 / 电浆 / 等离子体效果 / 等离子光效 / plasma / 科幻 / 能量"
+    },
+    {
+      "en": "pool of blood",
+      "zh": "血泊",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2337,
+      "desc": "地面上的大片血液，暗示惨案",
+      "kw": "血池 / 血滩 / 血液积成的一滩 / 一滩血 / 血泊中的血液 / 血流满地 / 血迹 / 恐怖 / blood pool / puddle of blood / 血だまり / 血の海"
+    },
+    {
+      "en": "projectile trail",
+      "zh": "弹道轨迹",
+      "rating": "g",
+      "count": 514,
+      "desc": "显示弹丸飞行路径的可见轨迹。",
+      "kw": "弹道 / 弹丸轨迹 / 子弹轨迹 / 飞行轨迹 / 弹丸拖尾 / 炮弹轨迹 / 曳光弹道 / 弹道尾迹 / bullet trail / tracer fire"
+    },
+    {
+      "en": "puff of air",
+      "zh": "喷出的一团气",
+      "rating": "g",
+      "count": 21270,
+      "desc": "卡通中从头部冒出的气团，表示愤怒、烦恼或叹息",
+      "kw": "喷气 / 呼气 / 气团 / 冒气 / 叹气气团 / 怒气气团 / 白气 / 哈气 / =3 / 气息 / 气流 / フンス"
+    },
+    {
+      "en": "purple fire",
+      "zh": "紫色的火",
+      "rating": "g",
+      "count": 4102,
+      "desc": "以紫色为主的火焰。",
+      "kw": "紫火 / 紫色火焰 / 紫焰 / 火焰 / 魔法 / purple flame"
+    },
+    {
+      "en": "pyrokinesis",
+      "zh": "火焰操控",
+      "rating": "g",
+      "count": 5207,
+      "desc": "以超能力生成或操控火焰",
+      "kw": "控火 / 火焰控制 / 操纵火焰 / 火能力 / 火系能力 / 火焰魔法 / 火魔法 / 炎属性 / fire magic / fire manipulation / pyromancy / fire bending"
+    },
+    {
+      "en": "reflective liquid",
+      "zh": "反光液面",
+      "rating": "g",
+      "count": 8282,
+      "desc": "能映出倒影的水面或其他液面",
+      "kw": "反射水面 / 镜面液面 / 倒影水面 / 水镜 / 反光水面 / 液面倒影 / 反光液体 / 液体 / reflective water / 反射（水面） / 水面"
+    },
+    {
+      "en": "ropiness",
+      "zh": "粘性的丝",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "slime (substance)",
+      "zh": "粘液（物质）",
+      "rating": "g",
+      "count": 10504,
+      "desc": "人体以外分泌的黏稠滑腻液体",
+      "kw": "粘液 / 黏液 / 粘稠液体 / 滑腻液体 / 史莱姆粘液 / 粘液物质 / 粘稠物 / 史莱姆 / goo / slime / 史莱姆 / スライム"
+    },
+    {
+      "en": "smoke trail",
+      "zh": "烟雾轨迹",
+      "rating": "g",
+      "count": 4232,
+      "desc": "画面中可见的烟雾轨迹",
+      "kw": "烟迹 / 烟雾痕迹 / 烟痕 / 烟雾拖尾 / 烟雾 / 特效 / 烟雾"
+    },
+    {
+      "en": "soap bubbles",
+      "zh": "肥皂泡",
+      "rating": "g",
+      "count": 8872,
+      "desc": "肥皂或洗涤剂产生的泡泡",
+      "kw": "肥皂泡沫 / 泡泡 / 泡沫 / 沐浴泡 / 香皂泡 / 洗涤剂泡 / 特效 / suds / 泡 / シャボン玉"
+    },
+    {
+      "en": "sparkling aura",
+      "zh": "闪光气场",
+      "rating": "g",
+      "count": 3340,
+      "desc": "角色或物体周围环绕多个闪光点",
+      "kw": "闪光光环 / 闪闪发光 / 闪耀气场 / 星光点点 / 闪光点 / 光点环绕 / 闪烁光环 / 闪光氛围"
+    },
+    {
+      "en": "suggestive fluid",
+      "zh": "可疑液体",
+      "rating": "q",
+      "nsfw": true,
+      "count": 9406,
+      "desc": "看似精液但暧昧不明的白色液体",
+      "kw": "暗示性白浊液 / 谜之白液 / 不明白色液体 / 性暗示液体 / 白浊液（暗示） / 不明液体 / 暗示性液体 / 体液 / ambiguous white liquid / 可疑的白色液体 / 謎の白い液体 / 白くべたつくなにか"
+    },
+    {
+      "en": "water drop",
+      "zh": "水滴",
+      "rating": "g",
+      "count": 35263,
+      "desc": "靠表面张力聚成的水滴，多呈球形或泪滴形。",
+      "kw": "水珠 / 露珠 / 雨滴 / 小水滴 / 水滴状 / 水珠滴 / 滴落水珠 / 液体 / rain drop / raindrops / rain drops / raindrop"
+    },
+    {
+      "en": "white fire",
+      "zh": "白火",
+      "rating": "g",
+      "count": 170,
+      "desc": "以白色为主的火焰",
+      "kw": "白色火焰 / 白色火 / 苍白火焰 / 白焰 / 火焰 / 效果"
+    },
+    {
+      "en": "will-o'-the-wisp (mythology)",
+      "zh": "鬼火",
+      "rating": "g",
+      "count": 694,
+      "desc": "夜间沼泽附近出现的无源蓝绿色鬼火",
+      "kw": "磷火 / 狐火 / 怪火 / 鬼火神话 / 鬼火传说 / 幽灵火 / 神秘 / 传说"
+    },
+    {
+      "en": "yellow blood",
+      "zh": "黄色的血",
+      "rating": "s",
+      "count": 767,
+      "desc": "画成黄色而非红色的血",
+      "kw": "黄色血液 / 黄血 / 金色血液 / 血液 / 特殊效果"
+    },
+    {
+      "en": "aerial fireworks",
+      "zh": "空中烟花",
+      "rating": "g",
+      "count": 13112,
+      "desc": "夜空中绽放的烟花。",
+      "kw": "高空烟花 / 礼花 / 花火 / 烟火 / 绽放的烟花 / 烟花大会 / 焰火 / 烟花 / 花火大会 / 打ち上げ花火"
+    },
+    {
+      "en": "blood on ground",
+      "zh": "地面上的血",
+      "rating": "s",
+      "count": 2991,
+      "desc": "地面上的血迹或血泊",
+      "kw": "地上血迹 / 地面血迹 / 地上的血 / 地面血泊 / 血迹在地面 / 血迹 / 地面 / bloody ground / blood on floor"
+    },
+    {
+      "en": "blood on wall",
+      "zh": "墙上血迹",
+      "rating": "s",
+      "count": 1206,
+      "desc": "墙面溅上或留下血迹",
+      "kw": "墙上的血 / 墙上血 / 墙壁血迹 / 墙上溅血 / 血溅墙壁 / 墙上有血 / 血腥墙壁 / 血迹 / bloody wall"
+    },
+    {
+      "en": "dust cloud",
+      "zh": "烟尘",
+      "rating": "g",
+      "count": 3222,
+      "desc": "移动时扬起的尘土",
+      "kw": "尘土 / 灰尘 / 尘雾 / 扬尘 / 灰尘云 / 尘土飞扬 / 尘烟 / 飞尘 / 土埃 / 土烟 / 土煙"
+    },
+    {
+      "en": "fire on chest",
+      "zh": "胸口火焰",
+      "rating": "g",
+      "count": 1592,
+      "desc": "角色胸口上燃着的火焰",
+      "kw": "胸前火焰 / 胸口着火 / 胸膛火焰 / 胸口燃焰 / 胸部火焰 / 胸前有火 / 火焰效果 / 特效"
+    },
+    {
+      "en": "head steam",
+      "zh": "头上冒蒸汽",
+      "rating": "g",
+      "count": 1655,
+      "desc": "因情绪激动头上冒出蒸汽",
+      "kw": "头冒蒸汽 / 头顶蒸汽 / 头上冒热气 / 脑袋冒蒸汽 / 头顶冒热气 / 效果"
+    },
+    {
+      "en": "hologram",
+      "zh": "全息影像",
+      "rating": "g",
+      "count": 2145,
+      "desc": "悬浮空中的立体影像。",
+      "kw": "全息投影 / 全息图 / 立体影像 / 虚拟立体影像 / 科幻 / 特效 / 立体映像 / ホログラム"
+    },
+    {
+      "en": "light in heart",
+      "zh": "心口发光",
+      "rating": "g",
+      "count": 518,
+      "desc": "胸口或心脏部位出现发光的光点或光芒",
+      "kw": "心中之光 / 胸口发光 / 心发光 / 心口光 / 胸中光 / 心中的光 / 效果 / 光芒 / 心の光"
+    },
+    {
+      "en": "pee puddle",
+      "zh": "尿液水洼",
+      "rating": "q",
+      "nsfw": true,
+      "count": 713,
+      "desc": "由尿液积成的水洼",
+      "kw": "尿坑 / 尿池 / 尿水洼 / 小便水洼 / 尿渍 / 尿液 / 水洼 / 污渍"
+    },
+    {
+      "en": "wet spot",
+      "zh": "湿痕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 847,
+      "desc": "家具或物品上被汗液、爱液、精液等弄湿的痕迹",
+      "kw": "湿渍 / 水渍 / 体液痕迹 / 爱液痕迹 / 精液痕迹 / 汗渍 / 湿斑 / 湿迹"
+    },
+    {
+      "en": "cum",
+      "zh": "精液",
+      "rating": "e",
+      "nsfw": true,
+      "count": 352998,
+      "desc": "男性射出的精液。",
+      "kw": "精子 / 白浊 / 精 / 雄汁 / 射精 / 性行为 / 体液 / cumshot / semen / sperm / 정액"
+    },
+    {
+      "en": "cum pool",
+      "zh": "精液池",
+      "rating": "e",
+      "nsfw": true,
+      "count": 6986,
+      "desc": "精液在地面淌成一小滩",
+      "kw": "一滩精液 / 精液水洼 / 精液滩 / 精液积成的小池 / 精液 / 液体 / cumpool / cum puddle"
+    },
+    {
+      "en": "cum string",
+      "zh": "精液丝",
+      "rating": "e",
+      "nsfw": true,
+      "count": 12673,
+      "desc": "两点之间拉出的精液丝",
+      "kw": "拉丝精液 / 精液桥 / 精液连线 / 拉丝 / 精液黏连 / 精液丝线 / 精子拉丝 / cumstring / cum trail / ザーメンブリッジ"
+    },
+    {
+      "en": "cum drip",
+      "zh": "精液滴落",
+      "rating": "e",
+      "nsfw": true
+    },
+    {
+      "en": "cumdrip",
+      "zh": "精液滴落",
+      "rating": "q",
+      "nsfw": true,
+      "count": 44768,
+      "desc": "阴茎拔出后精液从穴口滴落",
+      "kw": "精液外流 / 溢精 / 滴精 / 事后精液流出 / 精液滴下 / 精液溢出 / 精液 / 液体 / cum drip / 精液溢出（事后） / 溢れ精液"
+    },
+    {
+      "en": "cum puddle",
+      "zh": "精液水洼",
+      "rating": "e",
+      "nsfw": true,
+      "count": 7069,
+      "desc": "滴落在平坦表面上的精液水洼。若精液多到可以涉足或部分浸没其中，请参见精液浴。",
+      "kw": "性行为 / 精液 / 体液"
+    },
+    {
+      "en": "cum bubble",
+      "zh": "精液泡",
+      "rating": "e",
+      "nsfw": true,
+      "count": 1043,
+      "desc": "由精液形成的气泡",
+      "kw": "精液气泡 / 精液泡泡 / 精泡 / 精子泡 / 体液 / 效果"
+    },
+    {
+      "en": "cum overflow",
+      "zh": "精液溢出",
+      "rating": "e",
+      "nsfw": true,
+      "count": 42482,
+      "desc": "阴茎还插着时精液从穴口溢出。",
+      "kw": "精液外溢 / 溢出精液 / 精液流出 / 精液满溢 / 精液 / overflow / 精液溢出（插入） / 溢れ精液"
+    },
+    {
+      "en": "bubble",
+      "zh": "泡泡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47482,
+      "desc": "肥皂泡或水中的气泡",
+      "kw": "肥皂泡 / 泡沫 / 水泡 / 效果 / bubbles / 気泡 / 泡 / シャボン玉"
+    },
+    {
+      "en": "bubbles",
+      "zh": "气泡",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dust",
+      "zh": "尘埃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4242,
+      "desc": "落在地面或空气中的灰尘",
+      "kw": "尘土 / 扬尘 / 浮尘 / 灰土 / 粉尘 / 粒子 / 环境 / 砂尘"
+    },
+    {
+      "en": "sparkle",
+      "zh": "闪光",
+      "rating": "g",
+      "nsfw": false,
+      "count": 238480,
+      "desc": "短促闪烁的星形反光点",
+      "kw": "闪光点 / 星星闪光 / 亮晶晶 / 闪闪发光 / 闪亮 / 星光 / 光点 / sparkles / sparkling / キラキラ"
+    },
+    {
+      "en": "sparks",
+      "zh": "火花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4132,
+      "desc": "敲击或燃烧时迸出的小火花。",
+      "kw": "火星 / 火星子 / 小火花 / 飞溅火花 / 火花四溅 / 特效 / 效果 / spark"
+    },
+    {
+      "en": "splashing",
+      "zh": "水花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13399,
+      "desc": "液体（多指水）被溅起的动态场景",
+      "kw": "水花飞溅 / 溅起 / 泼洒 / 溅水 / 水花四溅 / 液体飞溅 / 效果 / splash / しぶき / 水しぶき"
+    },
+    {
+      "en": "splashing water",
+      "zh": "水花飞溅",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dripping",
+      "zh": "滴落",
+      "rating": "s",
+      "nsfw": false,
+      "count": 13112,
+      "desc": "含义模糊的液体滴落标签，更具体时请使用流汗、流血等。",
+      "kw": "滴液 / 液体滴落 / 滴下 / 滴水 / 滴流 / 滴淌 / 垂滴 / 流淌"
+    },
+    {
+      "en": "drying",
+      "zh": "晾干中",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3793,
+      "desc": "用毛巾等把水分擦干",
+      "kw": "抹干 / 弄干 / 擦身 / 用毛巾擦干 / 正在晾干 / 动作 / toweling off"
+    },
+    {
+      "en": "melting",
+      "zh": "融化",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4656,
+      "desc": "物体或角色正在融化滴落的状态",
+      "kw": "熔化 / 化掉 / 化开 / 融化滴落 / 溶解 / 融化效果 / 特殊效果 / 冰解 / 溶融 / 解冻 / 氷解"
+    },
+    {
+      "en": "spilling",
+      "zh": "溢出",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4347,
+      "desc": "液体从容器中洒出的动作",
+      "kw": "倒出 / 洒出 / 泼洒 / 弄洒 / 液体洒落 / 倾倒液体 / 液体 / こぼす"
+    },
+    {
+      "en": "spraying",
+      "zh": "喷射",
+      "rating": "g",
+      "nsfw": false,
+      "count": 806,
+      "desc": "用喷罐或水管喷洒液体；也指武器快速射击",
+      "kw": "喷涂 / 喷溅 / 喷水 / 喷洒液体 / 喷淋 / 扫射 / 动作"
+    },
+    {
+      "en": "burning",
+      "zh": "燃烧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5287,
+      "desc": "物体正在被火焰燃烧。",
+      "kw": "着火 / 起火 / 焚烧 / 烧起来 / 在燃烧 / 燃着 / 火焰 / on fire"
+    },
+    {
+      "en": "dissolving",
+      "zh": "溶解",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1514,
+      "desc": "角色或物体溶入液体或化为烟雾",
+      "kw": "液化 / 溶解中 / 化为液体 / 融入液体 / 融化效果"
+    },
+    {
+      "en": "fading",
+      "zh": "消散",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1123,
+      "desc": "角色身体逐渐变透明直至消失",
+      "kw": "淡出 / 消逝 / 消失中 / 身体透明化 / 逐渐透明 / 渐渐消失 / 化为虚无"
+    },
+    {
+      "en": "rotting",
+      "zh": "腐烂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 220,
+      "desc": "生物或有机物正在腐烂分解的状态。",
+      "kw": "腐败 / 腐坏 / 溃烂 / 朽烂 / 变质 / 烂掉 / 动词 / 动名词 / rot / rotten"
+    },
+    {
+      "en": "flying button",
+      "zh": "崩飞的纽扣",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1001,
+      "desc": "衣服纽扣被崩飞，常带速度线",
+      "kw": "扣子崩飞 / 纽扣崩飞 / 纽扣飞溅 / 扣子飞脱 / 衣服纽扣崩开 / 纽扣弹飞 / 纽扣飞出 / 飞出的纽扣"
+    },
+    {
+      "en": "gold",
+      "zh": "金色",
+      "rating": "g",
+      "count": 17415,
+      "desc": "黄金的颜色或材质",
+      "kw": "黄金色 / 金黄色 / 黄金 / 金 / 颜色 / ゴールド / 금 / 黄金化"
+    },
+    {
+      "en": "disintegration",
+      "zh": "解体",
+      "rating": "g",
+      "count": 674,
+      "desc": "角色或物体碎成碎片消散",
+      "kw": "崩解 / 瓦解 / 碎散 / 消散 / 分解 / 崩坏 / 破坏 / 特效"
+    },
+    {
+      "en": "petrification",
+      "zh": "石化",
+      "rating": "g",
+      "count": 814,
+      "desc": "身体变成石头或金属，也指把人变成雕像的性癖",
+      "kw": "岩化 / 石化症 / 变成石头 / 石化性癖 / 石像化 / 雕像化 / 石化表现 / 魔法效果 / 固め / チョコ化 / 黄金化"
+    },
+    {
+      "en": "transformation",
+      "zh": "变形",
+      "rating": "g",
+      "count": 8265,
+      "desc": "角色身体发生实际变化的过程图",
+      "kw": "变身 / 形态变化 / 转化 / 变异 / 身体变化 / 变身过程 / 形态转换 / 特效 / transforming / 变化 / 状態変化 / 狀態變化"
+    }
+  ],
+  "updatedAt": "2026-11-22T14:04:42.467Z"
+}

@@ -1,0 +1,2108 @@
+{
+  "id": "expression",
+  "name": "表情",
+  "icon": "😊",
+  "parentId": "character_base",
+  "level": 2,
+  "order": 11,
+  "file": "character_base/character_base_expression.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": ">_<",
+      "zh": "紧闭双眼（>_<）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 97234,
+      "desc": "眼睛紧闭成 >_< 形状，通常表示高兴或痛苦",
+      "kw": "闭眼 / 眯眼 / 紧闭双眼 / >_<脸 / 颜文字闭眼 / 挤压眼 / 痛苦闭眼 / 高兴闭眼 / >< / 不等号目"
+    },
+    {
+      "en": "x3",
+      "zh": "x3（表情）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1395,
+      "desc": "结合>_<眼睛与:3笑容的表情符号，表示忍笑或觉得可爱",
+      "kw": "X3脸 / >_<加:3 / 忍笑表情 / 可爱表情 / X3颜 / x3"
+    },
+    {
+      "en": "x<",
+      "zh": "闭眼皱眉（X<）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 49
+    },
+    {
+      "en": "xd",
+      "zh": "XD（表情）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11874,
+      "desc": "结合>_<眼睛和张嘴大笑的表情符号，表示开心大笑。",
+      "kw": "大笑表情 / 笑到眯眼 / 张大嘴笑 / 开心大笑表情 / 眯眼大笑 / XD颜文字 / 表情 / 颜文字"
+    },
+    {
+      "en": "dx",
+      "zh": "Dx表情",
+      "rating": "g",
+      "nsfw": false,
+      "count": 734,
+      "desc": "由>_<眼睛与D:嘴组成的表情",
+      "kw": "DX脸 / 张嘴痛苦表情 / 难受表情 / >_<加D表情 / 痛苦张嘴表情 / 抽动表情 / 豪华版 / 特典"
+    },
+    {
+      "en": "^_^",
+      "zh": "闭眼笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 160715,
+      "desc": "闭眼呈上弯形，通常伴随微笑。",
+      "kw": "弯眼笑 / ^_^表情 / 弯眉笑眼 / 上弯眼 / 幸福闭眼笑 / 眯眯眼 / 笑眼弯弯 / ^^"
+    },
+    {
+      "en": "^v^",
+      "zh": "颜文字_^v^",
+      "rating": "g",
+      "nsfw": false,
+      "count": 97,
+      "desc": "闭眼配v形嘴的笑脸",
+      "kw": "^v^脸 / ^v^表情 / 尖眼V嘴笑脸 / 眯眼V形嘴 / 尖眼V嘴表情 / V字嘴笑脸 / ^v^笑容"
+    },
+    {
+      "en": "^q^",
+      "zh": "开心流口水（^q^）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 289,
+      "desc": "^_^眼配q形嘴表示流口水的表情",
+      "kw": "^q^脸 / q嘴表情 / 流口水表情 / 呆萌张嘴流口水 / 滴口水呆脸 / ^p^表情 / ^q^ / 表情 / ^p^"
+    },
+    {
+      "en": "0",
+      "zh": "眯眼表情",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "<",
+      "zh": "单眼紧闭（;<）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": ">",
+      "zh": "眨眼笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "o",
+      "zh": "眨眼圆嘴脸",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wince",
+      "zh": "畏缩",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17357,
+      "desc": "因疼痛、惊讶或尴尬而不由自主畏缩的表情。",
+      "kw": "皱眉 / 呲牙 / 龇牙 / 呲牙咧嘴 / 因痛畏缩 / 退缩表情 / 面部扭曲 / 面部 / cringe / 眉をひそめる / しかめっ面"
+    },
+    {
+      "en": "laughing",
+      "zh": "大笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23546,
+      "desc": "因滑稽而发出笑声、表情欢快的状态。",
+      "kw": "笑 / 欢笑 / 发笑 / 哈哈大笑 / 笑出声 / 笑容 / 乐 / 大笑表情 / laugh / 腹筋崩壊"
+    },
+    {
+      "en": "crying",
+      "zh": "哭泣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 118656,
+      "desc": "流泪哭泣的状态",
+      "kw": "哭 / 流泪 / 掉眼泪 / 大哭 / 抽泣 / 悲伤 / 表情 / cry"
+    },
+    {
+      "en": "shocked",
+      "zh": "震惊",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "tired",
+      "zh": "疲惫",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "yandere",
+      "zh": "病娇",
+      "rating": "s",
+      "nsfw": false,
+      "count": 9811,
+      "desc": "对爱慕对象极度执着、可能暴力疯狂的病娇角色",
+      "kw": "养得累 / 病娇娘 / 病娇女 / 病態娇 / 黑娇 / 痴女 / 性格 / ヤンデレ / 病んでれ / 病んだ恋の瞳 / ヤンこれ"
+    },
+    {
+      "en": "puzzled",
+      "zh": "疑惑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "curious",
+      "zh": "好奇",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1289,
+      "desc": "因好奇而流露兴趣的神情。",
+      "kw": "好奇的 / 好奇心 / 好奇心旺盛 / 感兴趣 / 探究心 / 兴致勃勃 / 感到好奇 / 求知欲 / curiosity"
+    },
+    {
+      "en": "proud",
+      "zh": "自豪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 211,
+      "desc": "表情或姿态显得自豪得意。",
+      "kw": "得意 / 骄傲 / 神气 / 洋洋得意 / 自豪的 / 表情 / 姿势"
+    },
+    {
+      "en": "relieved",
+      "zh": "放松",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "calm",
+      "zh": "平静",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gentle smile",
+      "zh": "温柔微笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "soft smile",
+      "zh": "浅笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "forced smile",
+      "zh": "强颜欢笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1380,
+      "desc": "勉强的笑，或被人用手指撑起嘴角的笑",
+      "kw": "强迫微笑 / 被迫微笑 / 强笑 / 苦笑 / 勉强的笑 / 被撑起嘴角的笑 / 假笑 / 笑颜强制 / 笑顔強制"
+    },
+    {
+      "en": "bitter smile",
+      "zh": "苦笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "sad smile",
+      "zh": "凄笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1333,
+      "desc": "表情悲伤却带着微笑",
+      "kw": "苦笑 / 忧伤的微笑 / 含泪的微笑 / 强颜欢笑 / 哀伤的微笑 / 悲伤表情 / 微笑"
+    },
+    {
+      "en": "wry smile",
+      "zh": "无奈笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "evil grin",
+      "zh": "邪恶笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9980,
+      "desc": "露出牙齿、显得阴险恶意的笑",
+      "kw": "邪恶露齿笑 / 阴险咧嘴笑 / 狞笑 / 奸笑 / 恶意露齿笑 / 邪恶咧嘴 / 坏笑咧嘴 / 邪恶露牙笑"
+    },
+    {
+      "en": "maniacal laugh",
+      "zh": "狂笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "nervous smile",
+      "zh": "紧张微笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12458,
+      "desc": "紧张时露出的微笑",
+      "kw": "尴尬微笑 / 勉强微笑 / 不安的笑 / 紧张的笑容 / 紧张的微笑 / 表情 / 紧张的笑 / 引きつった笑顔 / 作り笑い"
+    },
+    {
+      "en": "heavy blush",
+      "zh": "满脸通红",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "light blush",
+      "zh": "微红",
+      "rating": "g",
+      "nsfw": false,
+      "count": 130550,
+      "desc": "非常淡的浅红晕。",
+      "kw": "浅红晕 / 轻微脸红 / 淡红脸 / 微红晕 / 淡淡红晕 / 一点点脸红 / 轻红晕"
+    },
+    {
+      "en": "terrified",
+      "zh": "惊恐",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "disgusted",
+      "zh": "厌恶",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "irritated",
+      "zh": "恼火",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "melancholic",
+      "zh": "忧郁",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "thoughtful",
+      "zh": "若有所思",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dreamy",
+      "zh": "出神",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dazed",
+      "zh": "恍惚",
+      "rating": "s",
+      "nsfw": false,
+      "count": 459,
+      "desc": "被击打后恍惚、无法清晰思考的状态。",
+      "kw": "发愣 / 发呆 / 晕眩 / 头晕 / 神志不清 / 迷迷糊糊 / 昏昏沉沉 / 表情"
+    },
+    {
+      "en": "absent-minded",
+      "zh": "心不在焉",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "deadpan",
+      "zh": "冷面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 227,
+      "desc": "以平淡冷静的口气应对本该有情绪的场合",
+      "kw": "面无表情 / 面瘫 / 扑克脸 / 冷淡 / 冷漠 / 无表情 / 面不改色 / 冷面滑稽"
+    },
+    {
+      "en": "stoic",
+      "zh": "坚毅",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "condescending",
+      "zh": "居高临下",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "arrogant",
+      "zh": "傲慢",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "playful",
+      "zh": "俏皮",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "mischievous",
+      "zh": "调皮",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "giggling",
+      "zh": "咯咯笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 620,
+      "desc": "低声轻笑，常以手掩口",
+      "kw": "咯咯地笑 / 吃吃地笑 / 傻笑 / 低声笑 / 轻笑 / 掩口笑 / 偷笑 / 笑 / giggle"
+    },
+    {
+      "en": "chuckling",
+      "zh": "轻笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "snickering",
+      "zh": "窃笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "smiling at viewer",
+      "zh": "对观众微笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "embarrassed smile",
+      "zh": "羞涩笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "slight smile",
+      "zh": "微微一笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "angelic smile",
+      "zh": "天使般微笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gentle expression",
+      "zh": "温柔表情",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "cold expression",
+      "zh": "冷漠表情",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "stern expression",
+      "zh": "严厉表情",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "anxious",
+      "zh": "焦虑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "hopeful",
+      "zh": "期待",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "grateful",
+      "zh": "感激",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "surprised smile",
+      "zh": "惊喜",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "overwhelmed",
+      "zh": "不知所措",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "crying smile",
+      "zh": "含泪微笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "daydreaming",
+      "zh": "做白日梦",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "focus",
+      "zh": "专注",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "multiple expressions",
+      "zh": "多表情",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14903,
+      "desc": "同一角色多种不同表情的组合图，常见表情表",
+      "kw": "表情集 / 多表情图 / 表情变化 / 表情差分 / 表情一览 / 表情合集 / 表情表 / 表情组图 / facial expressions / expressions / 表情"
+    },
+    {
+      "en": "angry",
+      "zh": "愤怒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 63998,
+      "desc": "生气愤怒的表情",
+      "kw": "发怒 / 怒 / 恼怒 / 生气表情 / 怒颜 / 愤怒表情 / 气鼓鼓 / mad / anger / 怒り"
+    },
+    {
+      "en": "annoyed",
+      "zh": "恼火",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21092,
+      "desc": "因他人烦扰而感到烦躁或不快，程度轻于愤怒",
+      "kw": "烦躁 / 恼怒 / 生气 / 不快 / 心烦 / 不耐烦 / 懊恼 / 愠怒 / irritated"
+    },
+    {
+      "en": "scowl",
+      "zh": "皱眉不悦",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6709,
+      "desc": "表示不满、厌烦或愤怒的阴沉表情。",
+      "kw": "怒视 / 不悦的表情 / 阴沉着脸 / 眉头紧锁 / 脸色难看 / 嫌弃脸 / 不满表情 / 生气皱眉 / 不情愿 / 不满 / 嫌弃 / ニラマレ"
+    },
+    {
+      "en": "blush",
+      "zh": "脸红",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4206915,
+      "desc": "脸颊泛起红晕，常表害羞或兴奋",
+      "kw": "红晕 / 脸泛红 / 羞涩脸红 / 羞红 / 颊染 / 赤面 / 红潮 / 面红 / blushing / flush / flushed / 頬染め"
+    },
+    {
+      "en": "blush stickers",
+      "zh": "腮红贴纸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 164526,
+      "desc": "画成实心圆或椭圆的块状腮红",
+      "kw": "贴纸腮红 / 块状腮红 / 圆形腮红 / 卡通腮红 / 脸红贴图 / 贴纸 / 脸部装饰 / blush sticker"
+    },
+    {
+      "en": "embarrassed",
+      "zh": "羞赧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 146717,
+      "desc": "因难为情而局促不安、脸红害羞的表情。",
+      "kw": "尴尬 / 害羞 / 羞涩 / 羞耻 / 脸红 / 不好意思 / 害臊 / 羞怯 / embarrassing / embarrassment / shame (embarassment) / embarassed"
+    },
+    {
+      "en": "full-face blush",
+      "zh": "满脸通红",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31580,
+      "desc": "红晕从额头延伸到嘴部的满脸泛红",
+      "kw": "全脸红晕 / 满脸红晕 / 满面通红 / 面红耳赤 / 脸红 / 害羞 / full face blush"
+    },
+    {
+      "en": "bored",
+      "zh": "无聊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2126,
+      "desc": "无所事事、对周围不感兴趣的表情。",
+      "kw": "无聊的 / 烦闷 / 百无聊赖 / 无趣 / 表情 / 面部表情 / 退屈"
+    },
+    {
+      "en": "confident",
+      "zh": "自信",
+      "rating": "g",
+      "nsfw": false,
+      "count": 788,
+      "desc": "自信甚至自负的神情",
+      "kw": "自信的神情 / 自信满满 / 胸有成竹 / 信心十足 / 自信的表情 / 自得 / 表情 / 姿势"
+    },
+    {
+      "en": "confused",
+      "zh": "困惑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6213,
+      "desc": "表情困惑不解、常配问号",
+      "kw": "疑惑 / 迷茫 / 不解 / 困惑表情 / 问号脸 / 满脸问号 / 面部 / 混乱"
+    },
+    {
+      "en": "crazy",
+      "zh": "疯狂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2037,
+      "desc": "角色表现出精神失常或疯狂状态；如因爱痴狂则用病娇。",
+      "kw": "疯癫 / 狂气 / 失常 / 精神错乱 / 发疯 / 歇斯底里 / 狂人 / 表情 / yangire / insane / 病态 / 病んでる"
+    },
+    {
+      "en": "despair",
+      "zh": "绝望",
+      "rating": "g",
+      "nsfw": false,
+      "count": 907,
+      "desc": "希望全无、极度绝望的精神状态",
+      "kw": "绝望感 / 绝境 / 无助绝望 / 深陷绝望 / 绝望状态 / 表情 / 情绪 / 负面情绪"
+    },
+    {
+      "en": "determined",
+      "zh": "坚毅",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2889,
+      "desc": "表现出坚定意志和决心的神情。",
+      "kw": "决心坚定 / 意志坚定 / 下定决心的 / 果断 / 决然 / 表情 / 坚定 / 坚定"
+    },
+    {
+      "en": "disappointed",
+      "zh": "失望",
+      "rating": "g",
+      "nsfw": false,
+      "count": 734,
+      "desc": "因期望落空而失落难过",
+      "kw": "失望的 / 沮丧 / 失落 / 灰心 / 气馁 / 扫兴 / 面部 / 面部表情"
+    },
+    {
+      "en": "disdain",
+      "zh": "轻蔑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 416,
+      "desc": "认为对方低劣的轻蔑神情",
+      "kw": "鄙视 / 不屑 / 看不起 / 藐视 / 轻视 / 羞辱 / 表情 / 傲慢"
+    },
+    {
+      "en": "disgust",
+      "zh": "厌恶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4337,
+      "desc": "表示强烈厌恶或嫌弃的表情",
+      "kw": "嫌弃 / 嫌恶 / 厌恶脸 / 嫌弃脸 / 厌恶表情 / 恶心 / 反感 / 鄙视 / disgusted / 嫌悪 / 養豚場の豚を見るような目 / ゴミを見るような目"
+    },
+    {
+      "en": "distress",
+      "zh": "苦恼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 537,
+      "desc": "表现恐惧或无助的神情",
+      "kw": "受困 / 危难 / 痛苦 / 惊恐 / 无助 / 慌张 / 求救"
+    },
+    {
+      "en": "drunk",
+      "zh": "醉酒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20700,
+      "desc": "饮酒过量后醉醺醺的状态",
+      "kw": "喝醉 / 醉醺醺 / 烂醉 / 酒醉 / 酩酊大醉 / 醉态 / 微醺 / 酒后状态 / 泥酔 / 酔って / 酔っ払い"
+    },
+    {
+      "en": "ecstasy",
+      "zh": "狂喜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 169,
+      "desc": "角色露出极度喜悦、陶醉忘我的表情。",
+      "kw": "销魂 / 陶醉 / 忘我 / 极乐 / 出神 / 极度喜悦 / 狂喜表情 / 面部"
+    },
+    {
+      "en": "envy",
+      "zh": "嫉妒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 274,
+      "desc": "对他人拥有之物的羡慕与渴求，区别于“不愿分享”的jealous",
+      "kw": "羡慕 / 艳羡 / 眼红 / 妒忌 / 忌妒 / 七宗罪 / 钢炼"
+    },
+    {
+      "en": "excited",
+      "zh": "兴奋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3749,
+      "desc": "充满热情与期待的兴奋神情",
+      "kw": "激动 / 兴奋不已 / 兴高采烈 / 兴奋表情 / 兴奋状态 / 亢奋 / 热情高涨"
+    },
+    {
+      "en": "exhausted",
+      "zh": "精疲力竭",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3916,
+      "desc": "因剧烈运动或体力劳动极度疲惫",
+      "kw": "精疲力尽 / 筋疲力竭 / 疲惫不堪 / 累趴 / 体力耗尽 / 虚脱 / 快累死 / 疲惫 / tired (fatigue) / 疲労 / 精疲力竭"
+    },
+    {
+      "en": "expressionless",
+      "zh": "无表情",
+      "rating": "g",
+      "nsfw": false,
+      "count": 186327,
+      "desc": "脸上毫无情绪波动的样子。",
+      "kw": "面瘫 / 冷漠脸 / 扑克脸 / 毫无表情 / 呆滞 / 表情 / emotionless / neutral expression / unexpressive / 平然"
+    },
+    {
+      "en": "flustered",
+      "zh": "慌乱",
+      "rating": "s",
+      "nsfw": false,
+      "count": 7715,
+      "desc": "因突然意外或暧昧情境而慌乱",
+      "kw": "慌张 / 手足无措 / 局促不安 / 害羞慌乱 / 心神不宁 / 慌张失措 / 表情 / shame (flustered) / 慌てる"
+    },
+    {
+      "en": "frustrated",
+      "zh": "沮丧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 877,
+      "desc": "因无法达成目的而烦躁沮丧，常表现为捂脸",
+      "kw": "沮丧的 / 挫败 / 挫折 / 烦躁 / 懊恼 / 郁闷 / 表情 / 不満"
+    },
+    {
+      "en": "grimace",
+      "zh": "痛苦表情",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5130,
+      "desc": "因痛苦、愤怒或不适而扭曲面部，常龇牙。",
+      "kw": "鬼脸 / 龇牙咧嘴 / 面部扭曲 / 苦相 / 做怪相 / 面部 / 厌恶"
+    },
+    {
+      "en": "guilt",
+      "zh": "内疚",
+      "rating": "g",
+      "nsfw": false,
+      "count": 52,
+      "desc": "角色表现出内疚或罪恶感。",
+      "kw": "负罪感 / 罪疚感 / 愧疚 / 自责"
+    },
+    {
+      "en": "happy",
+      "zh": "开心",
+      "rating": "g",
+      "nsfw": false,
+      "count": 143072,
+      "desc": "表现开心满足的表情，常通过笑或张嘴笑体现。",
+      "kw": "高兴 / 快乐 / 愉快 / 欢喜 / 愉悦 / 兴高采烈 / 乐呵呵 / 喜笑颜开 / ハッピー"
+    },
+    {
+      "en": "kubrick stare",
+      "zh": "库布里克凝视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 110,
+      "desc": "角色低头向上凝视，令人不安",
+      "kw": "库布里克式凝视 / 斯坦利·库布里克凝视 / 库布里克眼神 / 库布里克盯视 / 表情 / 凝视"
+    },
+    {
+      "en": "lonely",
+      "zh": "孤独",
+      "rating": "g",
+      "nsfw": false,
+      "count": 781,
+      "desc": "角色因被孤立而感到寂寞",
+      "kw": "寂寞 / 孤单 / 孤寂 / 落寞 / 孤零零 / 形单影只 / 面部 / 面部表情"
+    },
+    {
+      "en": "nervous",
+      "zh": "紧张",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18856,
+      "desc": "角色显得不安、颤抖或脸红",
+      "kw": "紧张不安 / 焦虑 / 不安 / 忐忑 / 紧张兮兮 / 心神不宁 / 局促不安 / 面部"
+    },
+    {
+      "en": "pout",
+      "zh": "嘟嘴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 39449,
+      "desc": "撅起嘴唇以表达不满。",
+      "kw": "撅嘴 / 噘嘴 / 撇嘴 / 鼓起嘴 / 生气嘴 / 表情 / 嘴巴 / pouting / ふくれっ面"
+    },
+    {
+      "en": "puffy cheeks",
+      "zh": "鼓起脸颊",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2688,
+      "desc": "两颊鼓起或鼓腮的样子",
+      "kw": "鼓腮 / 鼓腮帮 / 鼓腮帮子 / 脸颊鼓起 / 气鼓鼓 / 鼓脸 / 嘟嘴鼓腮 / 鼓起腮帮 / puffing cheek / puffed cheeks"
+    },
+    {
+      "en": "rape face",
+      "zh": "凌辱脸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 796,
+      "desc": "像要强奸或杀人般的凶恶表情，常配淫笑与斜眼",
+      "kw": "强奸颜 / 强暴脸 / 淫邪脸 / 恶棍脸 / 犯罪脸 / 凶恶淫笑 / 颜艺脸 / 表情 / rapeface"
+    },
+    {
+      "en": "sad",
+      "zh": "悲伤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18464,
+      "desc": "表现悲伤或不快的情绪",
+      "kw": "难过 / 伤心 / 哀伤 / 忧郁 / 悲哀 / 沮丧 / 忧伤 / 悲痛 / sadness / 悲しい / 憂い / 哀しい"
+    },
+    {
+      "en": "depressed",
+      "zh": "抑郁",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1253,
+      "desc": "情绪低落抑郁的状态或抑郁症",
+      "kw": "沮丧 / 消沉 / 情绪低落 / 忧郁 / 不开心 / 郁闷 / 压抑 / 面部 / 郁病 / 抑うつ / うつ病 / 鬱病"
+    },
+    {
+      "en": "frown",
+      "zh": "皱眉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 157780,
+      "desc": "嘴角下垂、眉头皱起的不悦表情。",
+      "kw": "蹙眉 / 愁眉苦脸 / 不悦 / 苦脸 / 眉头紧锁 / 皱眉头 / 拉下脸 / 皱起眉头 / :( / frowning / :{ / しかめっ面"
+    },
+    {
+      "en": "gloom (expression)",
+      "zh": "沮丧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7497,
+      "desc": "因失望而明显消沉的表情",
+      "kw": "忧郁表情 / 沮丧表情 / 失落表情 / 垂头丧气 / 阴郁表情 / 情绪低落 / 黯然表情 / 忧郁 / gloomy / 忧郁"
+    },
+    {
+      "en": "tears",
+      "zh": "眼泪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 300458,
+      "desc": "眼睛分泌的泪水，通常在哭或笑时流出。",
+      "kw": "泪水 / 泪 / 泪珠 / 哭泣眼泪 / 泪滴 / 哭泣 / 表情 / tear / 涙"
+    },
+    {
+      "en": "scared",
+      "zh": "恐惧",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22535,
+      "desc": "角色处于恐惧情绪中，常伴随颤抖、瞪眼等表现",
+      "kw": "惊恐 / 受惊 / 惊慌 / 畏惧 / 胆怯 / 吓到 / 恐惧表情 / fear / afraid / dread / terrified"
+    },
+    {
+      "en": "panicking",
+      "zh": "惊慌",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2155,
+      "desc": "角色表现出明显慌乱的状态",
+      "kw": "恐慌 / 慌乱 / 慌张 / 惊惶 / 手足无措 / 六神无主 / 惊恐 / 失措 / panic / 惊慌的"
+    },
+    {
+      "en": "worried",
+      "zh": "忧虑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6322,
+      "desc": "因真实或假想的问题而焦虑担心的表情",
+      "kw": "担忧 / 焦虑 / 不安 / 忧心 / 操心 / 忧心忡忡 / 面部 / concerned / 心配 / 悩み"
+    },
+    {
+      "en": "serious",
+      "zh": "严肃",
+      "rating": "g",
+      "nsfw": false,
+      "count": 40803,
+      "desc": "神情严肃庄重的角色。",
+      "kw": "认真表情 / 神情严肃 / 郑重 / 板着脸 / 表情 / stern / 真剣"
+    },
+    {
+      "en": "shaded face",
+      "zh": "脸部阴影",
+      "rating": "g",
+      "nsfw": false,
+      "count": 84501,
+      "desc": "无具体光源，面部（尤其眼周）被阴影遮盖。",
+      "kw": "阴影脸 / 脸被阴影遮挡 / 上半脸阴影 / 眼部阴影 / 阴影遮脸 / 阴脸 / 黑脸 / 面部 / shadow over eyes / shaded eyes / 厌恶脸 / 嫌弃脸"
+    },
+    {
+      "en": "shy",
+      "zh": "害羞",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15007,
+      "desc": "性格腼腆，容易害羞的表现。",
+      "kw": "羞涩 / 羞怯 / 腼腆 / 含羞 / 怕羞 / 不好意思 / 羞答答 / 害羞的表情 / 人見知り / はにかみ / 恥ずかしがる"
+    },
+    {
+      "en": "skeptical",
+      "zh": "怀疑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 220,
+      "desc": "角色心存怀疑、一脸不信任的表情",
+      "kw": "狐疑 / 半信半疑 / 将信将疑 / 不信任 / 疑心 / 质疑 / 疑惑 / 怀疑的表情 / doubtful / suspicious / 懐疑 / 懐疑的"
+    },
+    {
+      "en": "sleepy",
+      "zh": "困倦",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13705,
+      "desc": "感到困倦想睡觉，常表现为一只眼闭、打哈欠等",
+      "kw": "想睡 / 昏昏欲睡 / 困乏 / 打瞌睡 / 困意 / 倦怠 / 瞌睡 / tired (drowsy)"
+    },
+    {
+      "en": "sulking",
+      "zh": "生闷气",
+      "rating": "g",
+      "nsfw": false,
+      "count": 410,
+      "desc": "以沉默或低气压表达不满",
+      "kw": "闷闷不乐 / 赌气 / 闹别扭 / 怄气 / 闹情绪 / 撅嘴生气 / 不开心 / 耍小脾气 / 拗ねる"
+    },
+    {
+      "en": "surprised",
+      "zh": "惊讶",
+      "rating": "g",
+      "nsfw": false,
+      "count": 76235,
+      "desc": "因意外而吃惊的表情，如扬眉、瞪眼、张嘴",
+      "kw": "吃惊 / 惊吓 / 惊愕 / 震惊 / 目瞪口呆 / 讶异 / 惊奇 / 惊讶表情 / shock / shocked / surprise / startled"
+    },
+    {
+      "en": "thinking",
+      "zh": "思考",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8797,
+      "desc": "脸上露出沉思表情",
+      "kw": "沉思 / 思索 / 考虑 / 动脑 / 想事情 / 表情"
+    },
+    {
+      "en": "pensive",
+      "zh": "沉思",
+      "rating": "g",
+      "nsfw": false,
+      "count": 407,
+      "desc": "若有所思、陷入沉思的神态",
+      "kw": "沉思的 / 若有所思 / 陷入沉思 / 冥想 / 心事重重 / 思考中 / 深思 / 表情"
+    },
+    {
+      "en": "unamused",
+      "zh": "不屑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6346,
+      "desc": "面无表情地呆看，常带「……什么鬼」的意味",
+      "kw": "冷漠 / 面无表情 / 不感兴趣 / 不为所动 / 冷淡 / 无感 / 不觉得好笑 / 冷脸 / 退屈"
+    },
+    {
+      "en": "aroused",
+      "zh": "性兴奋",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8249,
+      "desc": "角色处于性兴奋状态，常伴脸红、出汗、喘气",
+      "kw": "性唤起 / 性欲高涨 / 发情 / 被挑逗 / 欲火焚身 / 性冲动 / 面部 / 情欲 / horny"
+    },
+    {
+      "en": "ohhoai",
+      "zh": "心形瞳孔表情",
+      "rating": "q",
+      "nsfw": true,
+      "count": 67,
+      "desc": "绝顶表情：吐舌、一只眼半闭、另一只眼心形瞳孔。",
+      "kw": "高潮脸 / 绝顶脸 / 哦吼表情 / 哦吼高潮表情 / 哦吼高潮脸"
+    },
+    {
+      "en": "ohogao",
+      "zh": "绝顶颜",
+      "rating": "q",
+      "nsfw": true,
+      "count": 481,
+      "desc": "绝顶时斗鸡眼的表情",
+      "kw": "绝顶脸 / 高潮脸 / 斗鸡眼高潮脸 / 翻白眼绝顶脸 / 阿嘿颜变种 / ahegao"
+    },
+    {
+      "en": "seductive smile",
+      "zh": "诱惑微笑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 16386,
+      "desc": "眯眼微笑、充满挑逗与邀请意味的表情",
+      "kw": "诱惑的笑容 / 挑逗的笑 / 魅惑微笑 / 妖媚的笑容 / 勾人的笑 / 媚笑 / 妩媚的笑 / 勾魂笑 / 妖姿媚态 / 诱惑的笑"
+    },
+    {
+      "en": "smile",
+      "zh": "微笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4285018,
+      "desc": "嘴角上扬表示愉悦或开心",
+      "kw": "笑容 / 笑颜 / 笑意 / 微笑表情 / 嘴角上扬 / 莞尔 / 浅笑 / 轻笑 / smiling / :) / :} / 笑い"
+    },
+    {
+      "en": ":d",
+      "zh": "开口大笑（:D）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 873067,
+      "desc": "表示张大嘴的开心笑容",
+      "kw": "大笑 / 张嘴笑 / 咧嘴笑 / 开怀笑 / D字笑 / 张口笑 / 面部 / 笑容"
+    },
+    {
+      "en": "crazy smile",
+      "zh": "狂气笑容",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5959,
+      "desc": "不露齿、嘴角上挑的疯狂微笑，常见于病娇或狂气角色",
+      "kw": "疯狂微笑 / 疯狂笑容 / 病态微笑 / 邪笑 / 疯狂的笑 / 狂气微笑 / 扭曲微笑 / 病娇笑"
+    },
+    {
+      "en": "evil smile",
+      "zh": "邪恶的笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 23604,
+      "desc": "阴险恶意的微笑，露齿时也含邪恶咧嘴笑。",
+      "kw": "邪恶微笑 / 阴险笑容 / 坏笑 / 奸笑 / 邪笑 / 狞笑 / 腹黑笑 / 不怀好意的笑 / 邪恶的笑 / 黒い笑顔 / 黒い笑み"
+    },
+    {
+      "en": "glasgow smile",
+      "zh": "格拉斯哥微笑",
+      "rating": "q",
+      "nsfw": true,
+      "count": 992,
+      "desc": "嘴角被割开形成恐怖笑容的伤口",
+      "kw": "切尔西微笑 / 格拉斯哥笑容 / 裂口微笑 / 嘴角割裂 / 小丑式微笑 / 裂口女微笑 / 疤痕 / 表情 / chelsea smile / グラスゴースマイル"
+    },
+    {
+      "en": "grin",
+      "zh": "露齿笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 368779,
+      "desc": "露出牙齿的咧嘴笑，与咬牙笑区分",
+      "kw": "咧嘴 / 露齿而笑 / 灿烂笑 / 开口笑 / 笑容 / 表情 / grinning / 輝く白い歯"
+    },
+    {
+      "en": "light smile",
+      "zh": "浅笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 112467,
+      "desc": "类似蒙娜丽莎的浅浅微笑",
+      "kw": "轻笑 / 微微一笑 / 淡淡微笑 / 柔和微笑 / 浅浅笑容 / 微笑 / 表情 / faint smile / slight smile / soft smile"
+    },
+    {
+      "en": "stifled laugh",
+      "zh": "憋笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 569,
+      "desc": "捂住嘴忍住不笑出声",
+      "kw": "忍笑 / 憋住笑 / 捂住嘴笑 / 偷笑 / 强忍笑意 / 表情"
+    },
+    {
+      "en": "smug",
+      "zh": "得意",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37389,
+      "desc": "对自己或处境感到自满、略带优越感的表情。",
+      "kw": "得意脸 / 优越脸 / 欠揍脸 / 自满 / 嚣张 / 神气 / 臭屁脸 / 得瑟 / どや顔 / ドヤ顔 / どや乳"
+    },
+    {
+      "en": "doyagao",
+      "zh": "得意脸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3414,
+      "desc": "得意自满、嚣张臭屁的表情，常见于搞笑场景。",
+      "kw": "自满脸 / 嚣张脸 / 洋洋得意脸 / 耀武扬威脸 / 臭屁脸 / 拽脸 / 得意表情 / 满足得意脸 / doya-gao / 满足的笑 / ドヤ顔 / どや顔"
+    },
+    {
+      "en": "smirk",
+      "zh": "得意笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37508,
+      "desc": "单侧嘴角上扬的得意笑容，常带挑衅意味。",
+      "kw": "得意的笑 / 邪笑 / 奸笑 / 单边笑 / 歪嘴笑 / 嗤笑 / 表情 / 微笑"
+    },
+    {
+      "en": "troll face",
+      "zh": "嘲讽脸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1126,
+      "desc": "半闭眼坏笑、故意惹人生气的表情。",
+      "kw": "贱笑脸 / 欠揍脸 / 欠扁脸 / 挑衅脸 / 巨魔脸 / 贱笑 / 暴走脸 / trollface"
+    },
+    {
+      "en": "^^^",
+      "zh": "惊讶符号",
+      "rating": "g",
+      "nsfw": false,
+      "count": 68097,
+      "desc": "画在头旁的尖角符号，表惊讶或理解。",
+      "kw": "理解符号 / 恍然大悟符号 / 头顶尖角 / 尖角符号 / 顿悟标记 / 理解标记 / 惊讶标记 / realization crown"
+    },
+    {
+      "en": "color drain",
+      "zh": "色彩褪去",
+      "rating": "g",
+      "nsfw": false,
+      "count": 514,
+      "desc": "角色因震惊等情绪变成黑白",
+      "kw": "褪色 / 颜色抽离 / 变黑白 / 失去颜色 / 黑白化 / 色彩流失 / 特效 / 脱色"
+    },
+    {
+      "en": "horrified",
+      "zh": "惊恐",
+      "rating": "g",
+      "nsfw": false,
+      "count": 849,
+      "desc": "角色表现出极度惊恐或厌恶的表情",
+      "kw": "恐惧表情 / 吓坏了 / 惊骇 / 惊惧 / 恐慌 / 吓得魂飞魄散 / 表情 / 恐惧 / horror (expression) / 恐惧 / 恐ろしい"
+    },
+    {
+      "en": "sobbing",
+      "zh": "抽泣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 897,
+      "desc": "角色放声痛哭、涕泪横流的样子。",
+      "kw": "痛哭 / 哭嚎 / 嚎啕大哭 / 大声哭泣 / 痛哭流涕 / 哭喊 / 泪崩"
+    },
+    {
+      "en": "traumatized",
+      "zh": "精神创伤",
+      "rating": "g",
+      "nsfw": false,
+      "count": 538,
+      "desc": "经历创伤事件后处于精神受创状态的角色",
+      "kw": "受创伤 / 受创 / 创伤后应激 / 心理阴影 / 精神受创 / 创伤表情 / 惊恐"
+    },
+    {
+      "en": "turn pale",
+      "zh": "脸色苍白",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10944,
+      "desc": "因震惊、恐惧等脸色发白",
+      "kw": "面色苍白 / 脸色发白 / 脸色煞白 / 脸色惨白 / 面色发青 / 苍白 / 面部表情 / 惊恐 / pale face / 颜面苍白 / 顔面蒼白"
+    },
+    {
+      "en": ")",
+      "zh": "眨眼笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "d",
+      "zh": "眨眼咧嘴笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "d:",
+      "zh": "沮丧表情",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11598,
+      "desc": "嘴角平张、显得不高兴的表情符号，与:D相反",
+      "kw": "D:表情 / 张嘴不高兴 / 沮丧张嘴 / 不开心张嘴 / 嘴巴大张的沮丧脸 / 难受张嘴 / 丧气张嘴 / 大笑脸"
+    },
+    {
+      "en": ">:)",
+      "zh": "得意坏笑",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17025,
+      "desc": "V形眉配闭嘴微笑，或表得意",
+      "kw": "V形眉笑 / 得意笑 / 自信闭嘴笑 / 邪恶笑 / 坏笑"
+    },
+    {
+      "en": ">:(",
+      "zh": "愤怒表情",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7371,
+      "desc": "V形眉配闭嘴皱眉，常表愤怒",
+      "kw": "皱眉生气 / 怒颜 / 生气颜 / 愤怒颜 / 怒脸 / V字眉生气 / 愤怒面孔 / 表情"
+    },
+    {
+      "en": "\\(^o^)/",
+      "zh": "人生完蛋了（颜文字）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 106,
+      "desc": "表示绝望或“人生完了”的2ch梗颜文字。",
+      "kw": "绝望颜文字 / 人生完了 / 完蛋了 / 人生结束 / 欢呼 (表情) / 表情 / 手势 / owata"
+    },
+    {
+      "en": ">_@",
+      "zh": "单眼眩晕（>_@）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12
+    },
+    {
+      "en": "t t",
+      "zh": "T_T（哭泣）",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "angry dog noises (meme)",
+      "zh": "愤怒狗叫声（梗）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 44
+    },
+    {
+      "en": "awesome face",
+      "zh": "滑稽脸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 121,
+      "desc": "源自Something Awful论坛的咧嘴斜眼表情",
+      "kw": "很棒的脸 / 斜眼咧嘴笑 / 奇怪笑脸 / 翻白眼咧嘴笑 / Awesome脸 / 面部 / 搞怪脸 / 表情包"
+    },
+    {
+      "en": "essex face",
+      "zh": "埃塞克斯脸（碧蓝航线）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "excalibur face",
+      "zh": "圣剑脸（噬魂师）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 26
+    },
+    {
+      "en": "face of the people who sank all their money into the fx (meme)",
+      "zh": "FX战士久留美颜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 289,
+      "desc": "源自《Ai Mai Mii》Ponoka前辈的呆滞大眼瞪眼梗脸",
+      "kw": "外汇亏光脸 / 炒外汇赔光脸 / FX亏光脸 / 呆滞大眼瞪眼脸 / 瞪眼呆脸 / 梗脸 / meme / face of the people who sank all their money into the fx / fxで有り金全部溶かす人の顔 / fxで有り金全部溶かした人の顔"
+    },
+    {
+      "en": "abyaa face",
+      "zh": "崩溃颜",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "gyate gyate",
+      "zh": "呀得呀得",
+      "rating": "g",
+      "nsfw": false,
+      "count": 447,
+      "desc": "源自东方角色幽谷响子某张恶搞表情的梗。",
+      "kw": "粗乃玩 / 盖特盖特 / 盖特·盖特 / GYATE GYATE表情 / 拟声词 / ohayou (meme) / ぎゃてコラ / 볼짤"
+    },
+    {
+      "en": "smiley face",
+      "zh": "笑脸符号",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4219,
+      "desc": "黄色圆圈加两点眼睛与一条弧线嘴巴的笑脸图案",
+      "kw": "笑脸图案 / 微笑脸 / 经典笑脸 / 黄色笑脸 / 笑脸表情 / 笑脸标志 / 表情"
+    },
+    {
+      "en": "uso da",
+      "zh": "骗人的！",
+      "rating": "g",
+      "nsfw": false,
+      "count": 61,
+      "desc": "出自《寒蝉鸣泣之时》龙宫礼奈的台词，常用于表情包。",
+      "kw": "是假的 / 撒谎 / 说谎 / 你骗人 / 骗人 / 骗人的吧"
+    },
+    {
+      "en": "foodgasm",
+      "zh": "食色高潮",
+      "rating": "q",
+      "nsfw": true,
+      "count": 909,
+      "desc": "吃到美味食物时陶醉的表情，类似高潮般的愉悦。",
+      "kw": "食物高潮 / 美味高潮 / 吃到陶醉 / 美食兴奋 / 味觉高潮 / 美食爽到 / 美食性高潮 / 表情"
+    },
+    {
+      "en": "food awe",
+      "zh": "美食惊叹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 37
+    },
+    {
+      "en": "muscle awe",
+      "zh": "肌肉崇拜",
+      "rating": "s",
+      "nsfw": false,
+      "count": 114,
+      "desc": "角色对他人肌肉表示惊叹或羡慕。",
+      "kw": "肌肉欣赏 / 羡慕肌肉 / 肌肉惊叹 / 赞叹肌肉 / 羡慕别人的肌肉 / 健身崇拜 / 身体崇拜"
+    },
+    {
+      "en": "penis awe",
+      "zh": "阴茎敬畏",
+      "rating": "q",
+      "nsfw": true,
+      "count": 8629,
+      "desc": "看到阴茎或阴茎状物品时惊叹的样子",
+      "kw": "看到阴茎震惊 / 对丁丁惊叹 / 对巨根惊叹 / 鸡巴震惊 / 阴茎崇拜 / 性幻想 / cock shock / 見せ槍"
+    },
+    {
+      "en": "pleading eyes",
+      "zh": "恳求的眼神",
+      "rating": "s",
+      "nsfw": false,
+      "count": 794,
+      "desc": "为讨要东西而露出的水汪汪狗狗眼",
+      "kw": "狗狗眼 / 求人的眼神 / 卖萌眼神 / 泪眼汪汪 / 可怜巴巴的眼神 / 乞求的眼神 / 表情 / 眼神 / puppy dog eyes / ぴえん / 訴えるような目"
+    },
+    {
+      "en": "breast conscious",
+      "zh": "在意胸部",
+      "rating": "s",
+      "nsfw": false,
+      "count": 2407,
+      "desc": "角色在意自己胸部的大小，可能因过大或过小而不满。",
+      "kw": "胸部自卑 / 胸部焦虑 / 胸部情结 / 对胸部敏感 / 胸部自我意识 / 对胸在意 / 乳房勾勒"
+    },
+    {
+      "en": "breast envy",
+      "zh": "胸部嫉妒",
+      "rating": "s",
+      "nsfw": false,
+      "count": 8221,
+      "desc": "对他人更大胸部的羡慕",
+      "kw": "胸器嫉妒 / 羡慕大胸 / 嫉妒胸大 / 胸部自卑 / 胸部羡慕 / 胸围嫉妒 / 贫乳嫉妒 / 表情 / 尺寸嫉妒（胸部） / 胸囲の格差社会"
+    },
+    {
+      "en": "breast awe",
+      "zh": "对胸部的惊叹",
+      "rating": "s",
+      "nsfw": false,
+      "count": 808,
+      "desc": "看到胸部而惊叹着迷，不一定带有嫉妒",
+      "kw": "胸部惊叹 / 对乳房着迷 / 惊叹胸部 / 乳房着迷 / 胸部敬畏 / 巨乳崇拜 / 乳房崇拜 / 表情"
+    },
+    {
+      "en": "flat envy",
+      "zh": "贫乳嫉妒",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15
+    },
+    {
+      "en": "seductive",
+      "zh": "诱惑",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "lewd",
+      "zh": "色气",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "naughty smile",
+      "zh": "坏笑",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "grinning with a hint of mischief",
+      "zh": "带着一点坏心眼地咧嘴笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "smiling gently with eyes slightly closed",
+      "zh": "微微闭眼温柔地笑着",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "laughing out loud with head tilted back",
+      "zh": "仰头大笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "blushing furiously while looking away",
+      "zh": "脸红得厉害别过头去",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "pouting with puffed out cheeks",
+      "zh": "鼓起脸颊撅着嘴",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "eyes wide open in surprise with mouth slightly open",
+      "zh": "惊讶地睁大眼睛微微张嘴",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "frowning slightly with a worried look",
+      "zh": "微微皱眉神情担忧",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "smirking with one eyebrow raised",
+      "zh": "挑着一边眉毛坏笑",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "teary eyes holding back tears",
+      "zh": "眼里含泪强忍着不哭",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "closing eyes peacefully as if sleeping",
+      "zh": "安详地闭着眼像是睡着了",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "looking down with a melancholic expression",
+      "zh": "低头神情忧郁",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "smiling brightly with eyes curved into crescents",
+      "zh": "笑得灿烂眼睛弯成月牙",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "expressionless face hiding inner feelings",
+      "zh": "面无表情掩藏着内心情绪",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "soft smile with a faint blush on cheeks",
+      "zh": "浅浅地笑脸颊泛着淡红",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "determined look with clenched jaw",
+      "zh": "咬紧牙关露出坚定的神色",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sleepy expression with half-lidded eyes",
+      "zh": "睡眼惺忪半睁着眼",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ahegao",
+      "zh": "阿黑颜",
+      "rating": "q",
+      "nsfw": true,
+      "count": 29384,
+      "desc": "翻白眼、张嘴吐舌的绝顶表情。",
+      "kw": "高潮脸 / 失神脸 / 绝顶表情 / 阿嘿颜 / 翻白眼吐舌 / 表情 / 痴态 / アヘ顔 / アヘ顔ダブルピース / アホ顔"
+    },
+    {
+      "en": ":>=",
+      "zh": "真空口交颜",
+      "rating": "e",
+      "nsfw": true,
+      "count": 7397,
+      "desc": "侧面视角吸吮时嘴唇前伸的表情，多指口交",
+      "kw": "口交脸 / 吸吮表情 / 真空口交脸 / 嘬嘴脸 / 吸住脸 / 口活脸 / 吸吮嘴型 / 傲慢面孔 / blowjob face / vacuum fellatio / ひょっとこフェラ / バキュームフェラ"
+    },
+    {
+      "en": "fucked silly",
+      "zh": "玩坏",
+      "rating": "q",
+      "nsfw": true,
+      "count": 10788,
+      "desc": "被性爱做到精神恍惚、极度愉悦或疲惫",
+      "kw": "被肏到恍惚 / 被操傻 / 被干到失神 / 被操到恍惚 / 爽到失神 / 高潮到失神 / 被肏得神志不清 / 被干到翻白眼 / 极致高潮脸 / んほぉ系"
+    },
+    {
+      "en": "torogao",
+      "zh": "失神脸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 12686,
+      "desc": "因快感而恍惚失神、脸颊泛红的安静陶醉表情",
+      "kw": "托罗颜 / 恍惚脸 / 陶醉表情 / 色气脸 / 高潮脸 / 淫荡表情 / 爽脸 / 平淡高潮 / トロ顔"
+    },
+    {
+      "en": "naughty face",
+      "zh": "调皮表情",
+      "rating": "s",
+      "nsfw": false,
+      "count": 36972,
+      "desc": "带坏笑、显得调皮挑逗的表情。",
+      "kw": "色气的脸 / 挑逗表情 / 坏笑脸 / 狡黠表情 / 不正经脸 / 调皮脸 / 面部 / naughty smile / 调皮脸"
+    },
+    {
+      "en": "mind break",
+      "zh": "精神崩坏",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1572,
+      "desc": "精神崩溃，常表现为受害者开始享受侵犯",
+      "kw": "精神崩溃 / 心智崩坏 / 脑子坏掉 / 理智蒸发 / 脑破坏 / 意识崩溃 / 心态崩坏"
+    },
+    {
+      "en": "pain",
+      "zh": "疼痛",
+      "rating": "s",
+      "nsfw": false,
+      "count": 3927,
+      "desc": "因受伤或身体痛苦而表现出的疼痛感",
+      "kw": "痛苦 / 疼 / 疼痛表情 / 伤痛 / 疼痛感 / 吃痛 / 剧痛 / 痛楚 / ouch / 怪我 / 负伤 / 負傷"
+    },
+    {
+      "en": ";d",
+      "zh": "眨眼吐舌(;d)",
+      "rating": "g",
+      "nsfw": false,
+      "count": 97392,
+      "desc": "一只眼闭合的开口大笑表情",
+      "kw": "眨眼笑 / 眨眼大笑 / 俏皮笑 / 单眼眨眼笑 / 眨眼张口笑 / 俏皮大笑 / 眨眼咧嘴 / 微笑"
+    },
+    {
+      "en": "hungry",
+      "zh": "饥饿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1548,
+      "desc": "角色表现出饥饿或想吃东西",
+      "kw": "饿 / 肚子饿 / 饥饿的 / 空腹 / 想吃东西 / 饥饿感 / 表情 / 状态"
+    },
+    {
+      "en": "hunger hallucination",
+      "zh": "饥饿幻觉",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "concentrating",
+      "zh": "集中精神",
+      "rating": "g",
+      "nsfw": false,
+      "count": 895,
+      "desc": "全神贯注于某项任务",
+      "kw": "集中 / 全神贯注 / 聚精会神 / 集中注意力 / 专注中 / 表情"
+    },
+    {
+      "en": "dreaming",
+      "zh": "梦境",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4068,
+      "desc": "角色睡眠中梦见的画面。",
+      "kw": "梦 / 睡梦 / 梦中 / 做梦场景 / 幻想 / dream / 梦想 / 夢"
+    },
+    {
+      "en": "imagining",
+      "zh": "想象",
+      "rating": "g",
+      "nsfw": false,
+      "count": 8489,
+      "desc": "将角色内心想象或妄想具象化",
+      "kw": "妄想 / 脑补 / 脑内想象 / 幻想画面 / 内心画面 / 想像 / 动词 / imagination / daydreaming / day dreaming / 想像"
+    },
+    {
+      "en": "+_+",
+      "zh": "星星眼",
+      "rating": "g",
+      "count": 42991,
+      "desc": "眼睛发光、瞳孔呈黄色四角星的表情。",
+      "kw": "闪光眼 / 发光眼 / 眼睛发光 / 眼睛闪光 / 四角星瞳 / 闪亮眼睛 / 面部 / 眼睛 / star eyes / starry eyes / cross-shaped pupils / 目がしいたけ"
+    },
+    {
+      "en": ";)",
+      "zh": "眨眼微笑",
+      "rating": "g",
+      "count": 34211,
+      "desc": "一只眼闭合的闭嘴微笑。",
+      "kw": "眨眼笑 / 单眼微笑 / 抛媚眼 / 眨眼表情 / 单眼闭笑 / 媚眼 / ;) / 表情"
+    },
+    {
+      "en": ";3",
+      "zh": ";3表情",
+      "rating": "g",
+      "count": 5666,
+      "desc": "表示猫式笑脸:3并同时眨眼的表情。",
+      "kw": "眨眼猫嘴 / 眨眼猫笑脸 / 猫嘴眨眼 / ;3脸 / 眨眼:3 / 猫笑脸眨眼 / ;3 / 猫嘴表情"
+    },
+    {
+      "en": ";<",
+      "zh": "眨眼皱眉",
+      "rating": "g",
+      "count": 714,
+      "desc": "类似:<的皱眉表情，但带眨眼",
+      "kw": "闭一只眼皱眉 / 挤眼皱眉 / 皱眉眨眼 / 单眼皱眉 / ;<"
+    },
+    {
+      "en": ";>",
+      "zh": "眨眼微笑",
+      "rating": "g",
+      "count": 452,
+      "desc": "一只眼闭合的V形微笑表情。",
+      "kw": "单眼笑 / 得意笑 / 眨眼笑脸 / 坏笑脸 / 眨眼斜笑 / 表情 / 笑脸"
+    },
+    {
+      "en": ";o",
+      "zh": "眨眼张嘴表情",
+      "rating": "g",
+      "count": 13967,
+      "desc": "一只眼闭合的圆形张嘴，常见于打哈欠或挤眼",
+      "kw": "单眼闭张嘴 / 眯眼张嘴 / 挤眼张嘴 / 打哈欠表情 / 张嘴眨眼 / 单眼张嘴 / 单眼闭圆嘴 / 眨眼圆嘴"
+    },
+    {
+      "en": ";p",
+      "zh": "眨眼吐舌",
+      "rating": "g",
+      "count": 10804,
+      "desc": "眨眼并向下吐舌的表情",
+      "kw": "眨眼伸舌 / 单眼眨眼吐舌 / 做鬼脸眨眼吐舌 / 吐舌眨眼 / 吐舌头 / 表情 / 调皮 / 眨眼"
+    },
+    {
+      "en": ";q",
+      "zh": "眨眼吐舌",
+      "rating": "g",
+      "count": 6661,
+      "desc": "眨眼并向上吐出舌头。",
+      "kw": "挤眼吐舌 / 眨单眼吐舌 / 吐舌眨眼 / 向上吐舌眨眼 / 面部 / 俏皮 / 吐舌"
+    },
+    {
+      "en": ";t",
+      "zh": "眨眼鼓脸颊",
+      "rating": "g",
+      "count": 637,
+      "desc": "颜文字；表示眨眼并鼓起一侧脸颊的表情",
+      "kw": "眨眼鼓起一侧脸颊 / 挤眼鼓腮 / 眨眼鼓脸 / wink鼓脸颊 / 单眨眼鼓脸 / ;t / 表情"
+    },
+    {
+      "en": "=_=",
+      "zh": "眯眼",
+      "rating": "g",
+      "count": 35305,
+      "desc": "眼睛眯成线的表情，表满足、无奈等。",
+      "kw": "眯眼笑 / 眯着眼睛 / 眯眼笑脸 / 眯眼表情 / 眯眼无奈 / 眯眯眼 / 无语 / 表情 / 帘目 / コメくいてー顔 / 糸目"
+    },
+    {
+      "en": "anya's heh face (meme)",
+      "zh": "阿尼亚的得意脸",
+      "rating": "g",
+      "count": 731,
+      "desc": "间谍过家家阿尼亚得意表情梗",
+      "kw": "阿尼亚的heh脸 / 阿尼亚得意表情 / 安雅得意脸 / 阿尼亚呵呵脸 / 阿尼亚笑容 / 阿尼亚表情包 / 间谍过家家阿尼亚脸 / 阿尼亚的呵脸 (Meme) / よゆうのえみ / アーニャスマイル"
+    },
+    {
+      "en": "blank stare",
+      "zh": "呆滞眼神",
+      "rating": "g",
+      "count": 2531,
+      "desc": "毫无情绪的呆滞凝视表情",
+      "kw": "眼神放空 / 空洞眼神 / 茫然凝视 / 无神眼神 / 呆滞凝视 / 发呆眼神 / 呆滞的目光 / 无神"
+    },
+    {
+      "en": "blush visible through hair",
+      "zh": "透过头发可见脸红",
+      "rating": "g",
+      "count": 637,
+      "desc": "脸红在头发缝隙间可见。",
+      "kw": "头发下脸红 / 头发遮不住脸红 / 脸红透出头发 / 透过发丝脸红 / 发间红晕 / 透过头发看到腮红 / 头发间可见脸红 / 发间透出的红晕"
+    },
+    {
+      "en": "brain freeze",
+      "zh": "冰淇淋头痛",
+      "rating": "g",
+      "count": 500,
+      "desc": "吃冰太快引起的头痛",
+      "kw": "冰头痛 / 脑冻结 / 吃冰头痛 / 冻脑 / 冰头痛症 / 冰淇淋头疼 / 冷饮头痛 / 脑鸣 / brainfreeze / アイスクリーム頭痛"
+    },
+    {
+      "en": "come hither",
+      "zh": "勾人的目光",
+      "rating": "s",
+      "count": 5466,
+      "desc": "向观看者投来的勾人目光",
+      "kw": "勾引的目光 / 诱惑的目光 / 色诱目光 / 勾人眼神 / 魅惑眼神 / 挑逗眼神 / 诱惑眼神 / 撩人眼神 / 勾引 / 色诱 / 诱惑 / 据え膳"
+    },
+    {
+      "en": "comedic sweatdrop",
+      "zh": "夸张汗滴",
+      "rating": "g",
+      "count": 1617,
+      "desc": "夸张的大汗滴，用于表现尴尬或紧张",
+      "kw": "搞笑汗滴 / 大汗珠 / 漫画汗滴 / 巨大汗滴 / 汗滴标记 / 尴尬汗滴 / 冷汗 / 汗滴 / 汗マーク"
+    },
+    {
+      "en": "comically serious",
+      "zh": "一本正经的搞笑",
+      "rating": "g",
+      "count": 510,
+      "desc": "身陷滑稽场面却一脸严肃。",
+      "kw": "严肃搞笑 / 冷面搞笑 / 一本正经搞笑 / 故作严肃 / 板着脸搞笑 / 反差严肃 / 搞笑式严肃 / 严肃喜感"
+    },
+    {
+      "en": "contempt",
+      "zh": "蔑视",
+      "rating": "g"
+    },
+    {
+      "en": "crazy grin",
+      "zh": "疯狂的笑容",
+      "rating": "g",
+      "count": 766,
+      "desc": "露出牙齿的疯狂、夸张的笑容。",
+      "kw": "狂笑 / 疯笑 / 疯狂咧嘴笑 / 狰狞笑容 / 病态笑容 / 疯狂露齿笑 / 狂气笑容 / 疯狂笑容"
+    },
+    {
+      "en": "crying with eyes open",
+      "zh": "睁着眼落泪",
+      "rating": "g",
+      "count": 57460,
+      "desc": "睁着眼睛流下眼泪",
+      "kw": "张眼哭泣 / 开眼落泪 / 睁眼流泪 / 哭着睁眼 / 眼睛睁开流泪 / 睁眼哭 / 哭泣 / 表情"
+    },
+    {
+      "en": "dark persona",
+      "zh": "黑化",
+      "rating": "g",
+      "count": 17649,
+      "desc": "角色的黑暗或邪恶的另一面形态。",
+      "kw": "暗黑形态 / 恶堕 / 黑暗形态 / 暗人格 / 邪恶形态 / 堕落形态 / 暗黑人格 / 堕落 / 黒化 / 闇堕ち / 悪堕ち"
+    },
+    {
+      "en": "dizzy",
+      "zh": "头晕",
+      "rating": "g",
+      "count": 524,
+      "desc": "感到天旋地转、头昏眼花",
+      "kw": "头昏 / 眩晕 / 眼花 / 头晕目眩 / 状态 / 表情"
+    },
+    {
+      "en": "do not want",
+      "zh": "抗拒",
+      "rating": "g",
+      "count": 1727,
+      "desc": "夸张地表现强烈抗拒或厌恶，多用于搞笑",
+      "kw": "不要 / 拒绝 / 强烈抗拒 / 我不要 / 抵死不从 / 拒绝反应 / 不想 / 不想要"
+    },
+    {
+      "en": "drugged",
+      "zh": "被下药",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1521,
+      "desc": "角色被下药而失去抵抗能力或意识模糊",
+      "kw": "下药 / 药晕 / 药物迷晕 / 被迷晕 / 迷药 / 药物麻醉 / 神志不清 / 被灌药 / 薬漬け / キメセク"
+    },
+    {
+      "en": "ear blush",
+      "zh": "耳朵红晕",
+      "rating": "g",
+      "count": 20592,
+      "desc": "耳朵泛红，表示极度害羞。",
+      "kw": "耳朵泛红 / 耳朵红 / 耳红 / 双耳泛红 / 耳尖红 / 耳朵发红 / 脸红 / 害羞"
+    },
+    {
+      "en": "embarrass",
+      "zh": "害羞尴尬",
+      "rating": "g"
+    },
+    {
+      "en": "endured face",
+      "zh": "忍耐的表情",
+      "rating": "s"
+    },
+    {
+      "en": "expressions",
+      "zh": "表情差分",
+      "rating": "g"
+    },
+    {
+      "en": "false smile",
+      "zh": "假笑",
+      "rating": "g",
+      "count": 5130,
+      "desc": "表面微笑内心并非如此",
+      "kw": "虚假的微笑 / 虚伪的笑 / 勉强笑容 / 皮笑肉不笑 / 装笑 / 社交微笑 / 不真诚的笑 / 虚假笑容 / fake smile / 目が笑ってない / 怖い笑顔 / 笑顔が怖い"
+    },
+    {
+      "en": "female orgasm",
+      "zh": "女性高潮/绝顶",
+      "rating": "q",
+      "nsfw": true,
+      "count": 15317,
+      "desc": "女性角色达到性高潮的状态或表现。",
+      "kw": "女性性高潮 / 女高潮 / 女人高潮 / 女性绝顶 / 女角色高潮 / 高潮中的女性 / 女性达到高潮 / 高潮 / 高潮（女性）"
+    },
+    {
+      "en": "flying sweatdrops",
+      "zh": "飞舞汗滴",
+      "rating": "g",
+      "count": 131452,
+      "desc": "汗滴从身体飞溅，表示紧张或无语。",
+      "kw": "飞汗 / 汗滴飞溅 / 飞溅的汗珠 / 汗珠飞起 / 汗滴飘飞 / 汗水飞溅 / 飞溅汗滴 / 飞溅的汗滴 / flying sweatdrop / 汗マーク / ぼのぼの汗"
+    },
+    {
+      "en": "gesugao",
+      "zh": "阴险脸",
+      "rating": "g",
+      "count": 1042,
+      "desc": "轻蔑、阴险或疯狂的表情，常见于反派或崩坏角色",
+      "kw": "鬼畜脸 / 猥琐脸 / 下流脸 / 恶心脸 / 人渣脸 / 恶人脸 / 邪恶脸 / 阴险表情 / ゲス顔"
+    },
+    {
+      "en": "happy tears",
+      "zh": "喜极而泣",
+      "rating": "g",
+      "count": 4377,
+      "desc": "因喜悦而非悲伤流下的眼泪",
+      "kw": "开心的眼泪 / 喜悦的泪水 / 高兴泪 / 感动泪 / 幸福泪 / 喜泪 / 表情 / 泪水 / 嬉し涙"
+    },
+    {
+      "en": "homu",
+      "zh": "嘟嘴|抿嘴",
+      "rating": "g",
+      "count": 706,
+      "desc": "《魔法少女小圆》焰发出的“吼姆”叫声梗",
+      "kw": "吼姆声 / 焰的口癖 / 吼姆叫 / 吼姆音 / 焰的叫声 / 角色 / 人物 / ほむ"
+    },
+    {
+      "en": "jealous",
+      "zh": "嫉妒",
+      "rating": "g",
+      "count": 5862,
+      "desc": "因爱情或占有欲产生的嫉妒情绪",
+      "kw": "吃醋 / 妒忌 / 嫉妒心 / 醋意 / 眼红 / 表情 / 情绪 / jealousy / 嫉妬 / やきもち"
+    },
+    {
+      "en": "light frown",
+      "zh": "轻皱眉",
+      "rating": "g",
+      "count": 25629,
+      "desc": "轻微而不明显的皱眉表情",
+      "kw": "微皱眉 / 轻微皱眉 / 浅皱眉 / 略皱眉 / 眉微蹙 / 轻蹙眉 / 微颦眉 / 表情"
+    },
+    {
+      "en": "lovestruck",
+      "zh": "神魂颠倒",
+      "rating": "g",
+      "count": 1826,
+      "desc": "表情和举止流露出强烈迷恋",
+      "kw": "恋爱迷醉 / 花痴 / 坠入爱河 / 春心荡漾 / 恋爱脑上头 / 陷入爱河 / 恋爱脸 / 爱慕 / 心动 / 恋する乙女 / メスの顔"
+    },
+    {
+      "en": "major injury underreaction",
+      "zh": "重伤无反应",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1020,
+      "desc": "角色受重伤却毫无痛苦反应、若无其事",
+      "kw": "重伤却无反应 / 重伤淡然 / 重伤面不改色 / 受重伤不以为意 / 重伤无痛感 / 重伤反应平淡 / 受伤 / 无动于衷"
+    },
+    {
+      "en": "male yandere",
+      "zh": "男性病娇",
+      "rating": "g",
+      "count": 508,
+      "desc": "爱得偏执极端、兼具病态与痴情的男性角色",
+      "kw": "男病娇 / 病娇男 / 男性病态娇 / 男性偏执狂 / 男版病娇 / 病娇 / 男性 / 角色"
+    },
+    {
+      "en": "mixed signals",
+      "zh": "口是心非",
+      "rating": "g",
+      "count": 749,
+      "desc": "角色言语与表情或内心想法相矛盾",
+      "kw": "心口不一 / 言行不一 / 矛盾信号 / 心口相违 / 言不由衷 / 表情 / 心理"
+    },
+    {
+      "en": "motherly",
+      "zh": "母性",
+      "rating": "g",
+      "count": 1585,
+      "desc": "角色表现出慈母般的关爱举动",
+      "kw": "母亲般的 / 慈母 / 母爱 / 母性光辉 / 妈妈感 / 温柔贤惠 / 慈母心 / 气质"
+    },
+    {
+      "en": "naughty",
+      "zh": "淘气",
+      "rating": "s"
+    },
+    {
+      "en": "o_o",
+      "zh": "圈圈眼",
+      "rating": "g",
+      "count": 29497,
+      "desc": "眼睛画成白色圆圈加粗黑边，表示惊讶。",
+      "kw": "圆形眼 / 惊讶眼 / 白色圆圈眼 / 黑边圆眼 / o_o / 表情 / 惊讶 / o.o / 〇目 / 丸目"
+    },
+    {
+      "en": "pouted lips",
+      "zh": "撅起的嘴唇",
+      "rating": "g"
+    },
+    {
+      "en": "pouty lips",
+      "zh": "嘟嘴",
+      "rating": "g",
+      "count": 1113,
+      "desc": "嘴唇撅起的表情，建议使用更具体的嘴唇相关标签",
+      "kw": "撅嘴 / 表情 / 嘴唇"
+    },
+    {
+      "en": "puckered lips",
+      "zh": "撅唇",
+      "rating": "g",
+      "count": 7498,
+      "desc": "嘴唇收拢前伸，像准备接吻",
+      "kw": "嘟嘴 / 撅嘴 / 噘嘴 / 嘴唇前伸 / 索吻唇 / 亲吻嘴型 / 表情 / 嘴部动作"
+    },
+    {
+      "en": "pursed lips",
+      "zh": "抿紧的嘴唇",
+      "rating": "g",
+      "count": 2054,
+      "desc": "嘴唇抿紧表示不满的表情",
+      "kw": "抿嘴 / 抿唇 / 抿紧嘴 / 紧闭嘴唇 / 撇嘴 / 绷紧嘴唇 / 撅嘴 / 表情"
+    },
+    {
+      "en": "small sweatdrop",
+      "zh": "小汗滴",
+      "rating": "g",
+      "count": 15529,
+      "desc": "角色脸上表示无奈或惊讶的小汗滴",
+      "kw": "小汗珠 / 汗滴 / 一滴汗 / 冷汗 / 小冷汗 / 表情"
+    },
+    {
+      "en": "striped blush",
+      "zh": "条纹腮红",
+      "rating": "g",
+      "count": 1183,
+      "desc": "脸上画着条纹状的红晕",
+      "kw": "条纹红晕 / 条纹脸红 / 条纹脸泛红 / 条纹腮红标记 / 条状腮红 / 斜纹腮红 / 线条腮红 / 条纹羞涩"
+    },
+    {
+      "en": "t_t",
+      "zh": "流泪表情",
+      "rating": "g",
+      "count": 400,
+      "desc": "表示泪流满面大哭的颜文字/表情，如 T_T。",
+      "kw": "哭脸表情 / 泪流满面表情 / 泪目表情 / 哭哭表情 / 流泪颜文字 / 大哭表情 / 哭泣表情 / 悲伤"
+    },
+    {
+      "en": "tearing up",
+      "zh": "含泪",
+      "rating": "g",
+      "count": 76123,
+      "desc": "眼中泛起但未落下的泪水，多因哭泣、大笑或刚醒来",
+      "kw": "泪目 / 泪眼 / 眼眶湿润 / 眼含泪花 / 泪水打转 / 泪光 / 泛泪 / 涙目 / 哭泣之前 / 流泪 / 涙目 / 泣き顔"
+    },
+    {
+      "en": "tsundere",
+      "zh": "傲娇",
+      "rating": "g",
+      "count": 6463,
+      "desc": "外冷内热、逐渐展现温柔的性格",
+      "kw": "蹭得累 / 外冷内热 / 娇蛮 / 性格 / 萌属性 / ツンデレ / つんでれ / デレツン / ツンだ、デレない"
+    },
+    {
+      "en": "unhappy",
+      "zh": "不开心",
+      "rating": "g",
+      "count": 993,
+      "desc": "角色皱眉半眯眼、显得沮丧不悦的表情",
+      "kw": "不高兴 / 沮丧 / 失落 / 忧郁 / 难过 / 消沉 / 愁眉苦脸 / 不开心的表情"
+    },
+    {
+      "en": "x_x",
+      "zh": "X形眼",
+      "rating": "g",
+      "count": 3309,
+      "desc": "角色双眼画成X形，表示昏迷、死亡或极度疲惫。",
+      "kw": "X眼 / 双眼X / 叉叉眼 / 眼睛X / X形眼睛 / 叉眼 / 叉号眼 / x眼"
+    },
+    {
+      "en": "giving up the ghost",
+      "zh": "灵魂出窍",
+      "rating": "g",
+      "count": 2617,
+      "desc": "表现角色灵魂离体升起的滑稽演出。",
+      "kw": "升天 / 吐魂 / 幽体离脱 / 灵魂离体 / 魂飞了 / 魂飘出 / 表情 / 动作 / 幽体離脱"
+    },
+    {
+      "en": "puffing up",
+      "zh": "炸毛威吓",
+      "rating": "g",
+      "count": 190,
+      "desc": "动物为威吓或保暖而竖起毛发/羽毛使身体显得更大。",
+      "kw": "炸毛 / 鼓胀身体 / 蓬起身体 / 竖起毛发威吓 / 膨起身体 / 鼓毛威吓 / 鼓起脸颊 / 鼓脸 / raised hackles"
+    },
+    {
+      "en": "flying teardrops",
+      "zh": "飞散的泪珠",
+      "rating": "g",
+      "count": 1224,
+      "desc": "从眼睛向外飞散的泪珠。",
+      "kw": "飞溅的眼泪 / 飞出的泪滴 / 泪珠飞散 / 眼泪飞溅 / 飞泪 / 飞溅的泪水 / 眼泪 / 效果"
+    },
+    {
+      "en": "single tear",
+      "zh": "一滴泪",
+      "rating": "g",
+      "count": 2090,
+      "desc": "只流下一滴眼泪，多为单侧脸颊。",
+      "kw": "单泪 / 单行泪 / 一滴眼泪 / 单边眼泪 / 单眼流泪 / 泪滴 / 眼下泪滴 / 泪水"
+    },
+    {
+      "en": "streaming tears",
+      "zh": "泪流不止",
+      "rating": "g",
+      "count": 13757,
+      "desc": "眼泪呈两道柱状流下或向两侧喷出的表现",
+      "kw": "泪流满面 / 泪流成行 / 泪流成柱 / 眼泪直流 / 流眼泪 / 眼泪汪汪 / 泪如泉涌 / 泪水直流"
+    },
+    {
+      "en": "teardrop",
+      "zh": "泪珠",
+      "rating": "g",
+      "count": 10607,
+      "desc": "漫画式夸张表现哭泣的单颗泪滴",
+      "kw": "泪滴 / 眼泪 / 泪滴形 / 单颗泪珠 / 泪滴状 / 表情 / 涙滴型 / 涙の雫 / なみだのしずく / 涙"
+    },
+    {
+      "en": "tears from one eye",
+      "zh": "单眼流泪",
+      "rating": "g",
+      "count": 514,
+      "desc": "只有一只眼睛流泪，常用于表现隐忍的悲伤",
+      "kw": "单眼哭泣 / 一只眼流泪 / 只淌一只眼 / 单眼落泪 / 一眼流泪 / 独眼流泪 / 泪眼 / 表情 / crying with one eye"
+    },
+    {
+      "en": "teary eyes",
+      "zh": "含泪",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sweating",
+      "zh": "流汗",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "sweatdrop",
+      "zh": "汗滴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 337788,
+      "desc": "漫画中表示紧张或尴尬的一大滴汗。",
+      "kw": "大汗滴 / 冒汗 / 冷汗 / 尴尬汗 / 表情符号 / 害羞 / sweat drop / sweatdrops / sweat drops / 汗マーク"
+    },
+    {
+      "en": "nervous sweat",
+      "zh": "冷汗",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sweaty",
+      "zh": "出汗",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "sweat on body",
+      "zh": "身体出汗",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "sweat",
+      "zh": "流汗",
+      "rating": "q",
+      "nsfw": true,
+      "count": 795081,
+      "desc": "身体上的汗珠",
+      "kw": "汗 / 汗珠 / 大汗淋漓 / 汗液 / 身体液体 / sweating / 汗液 / 汗だく"
+    }
+  ]
+}

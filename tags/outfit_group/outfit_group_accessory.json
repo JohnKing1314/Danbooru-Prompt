@@ -1,0 +1,2337 @@
+{
+  "id": "accessory",
+  "name": "配饰",
+  "icon": "💍",
+  "parentId": "outfit_group",
+  "level": 2,
+  "order": 13,
+  "file": "outfit_group/outfit_group_accessory.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "jewelry",
+      "zh": "珠宝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1649054,
+      "desc": "戒指、项链、耳环等装饰性首饰",
+      "kw": "珠宝首饰 / 饰品 / 宝石饰品 / 装饰品 / 首饰类 / 珠宝饰物 / 佩戴饰品 / jewelery / jewellery / 宝饰品 / ジュエリー"
+    },
+    {
+      "en": "ear piercing",
+      "zh": "耳钉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 111940,
+      "desc": "打在耳垂以外部位（如耳骨）的耳洞",
+      "kw": "耳骨洞 / 耳骨钉 / 耳软骨穿孔 / 耳轮穿孔 / 耳部穿孔 / 非耳垂耳洞 / 耳洞 / 耳穿孔 / pierced ears / pierced ear / 耳洞"
+    },
+    {
+      "en": "earrings",
+      "zh": "耳环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 882673,
+      "desc": "戴在耳垂或耳洞上的饰品",
+      "kw": "耳饰 / 耳坠 / 耳钉 / 耳坠子 / 配饰 / 首饰 / earring / ear ring / aqua earrings / black earrings"
+    },
+    {
+      "en": "single earring",
+      "zh": "单侧耳环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 74144,
+      "desc": "只在一只耳朵上戴的耳环",
+      "kw": "单耳环 / 一只耳环 / 单边耳环 / 耳饰（单只） / 单耳坠 / 耳环 / 首饰 / one earring"
+    },
+    {
+      "en": "object behind ear",
+      "zh": "耳后物品",
+      "rating": "g",
+      "nsfw": false,
+      "count": 246,
+      "desc": "将笔、烟等物品夹在耳后的动作。",
+      "kw": "耳后夹物 / 耳后夹东西 / 耳后别东西 / 耳后夹烟 / 耳后夹笔 / 配件位置 / behind ear"
+    },
+    {
+      "en": "bandaid on face",
+      "zh": "脸部创可贴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41016,
+      "desc": "脸上贴着创可贴。",
+      "kw": "脸上创口贴 / 面部创可贴 / 脸贴创可贴 / 脸上贴创可贴 / 脸上的创可贴 / 创可贴 / 伤口"
+    },
+    {
+      "en": "eyebrow piercing",
+      "zh": "眉钉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6427,
+      "desc": "穿过眉毛的穿刺饰钉",
+      "kw": "眉环 / 眉毛穿刺 / 穿眉 / 眉部穿刺 / 眉毛钉 / 穿孔饰品 / 首饰"
+    },
+    {
+      "en": "bow on wing",
+      "zh": "翅膀上的蝴蝶结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 120,
+      "desc": "翅膀上系着蝴蝶结",
+      "kw": "翅膀蝴蝶结 / 羽翼蝴蝶结 / 翅膀系蝴蝶结 / 翅膀装饰"
+    },
+    {
+      "en": "wing piercing",
+      "zh": "翅膀穿孔",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1061,
+      "desc": "翅膀或头翼上有穿刺饰品。",
+      "kw": "翅膀穿刺 / 羽翼穿孔 / 翅膀打孔 / 翅膀环 / 翅膀穿刺饰品 / 翼穿孔 / 翅膀戴环 / 翅膀"
+    },
+    {
+      "en": "pierced wings",
+      "zh": "翅膀穿孔",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "wing ribbon",
+      "zh": "羽翼缎带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 104,
+      "desc": "翅膀形状或系在翅膀上的丝带",
+      "kw": "翅膀缎带 / 翅膀形丝带 / 羽翼丝带 / 翅膀飘带 / 羽翼状缎带 / 翅膀 / 翼状缎带 / 翅膀装饰"
+    },
+    {
+      "en": "wind glider (genshin impact)",
+      "zh": "风之翼（原神）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 103,
+      "desc": "《原神》中的滑翔道具",
+      "kw": "滑翔翼 / 风翼 / 翅膀 / 原神 / 道具"
+    },
+    {
+      "en": "wing-shaped bow",
+      "zh": "翼状蝴蝶结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 115,
+      "desc": "形似翅膀的蝴蝶结",
+      "kw": "翅膀蝴蝶结 / 翅膀形状蝴蝶结 / 羽翼蝴蝶结 / 翅膀结 / 翼型蝴蝶结 / 羽翼形蝴蝶结 / 翅膀"
+    },
+    {
+      "en": "clitoral piercing",
+      "zh": "阴蒂穿环",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2518,
+      "desc": "穿过阴蒂或阴蒂包皮的穿孔。",
+      "kw": "阴蒂穿刺 / 阴蒂打孔 / 阴蒂钉 / 阴蒂环 / 阴蒂饰钉 / 阴蒂体环 / 阴部穿刺 / clit piercing / clitoris piercing"
+    },
+    {
+      "en": "clitoris ring",
+      "zh": "阴蒂环",
+      "rating": "q",
+      "nsfw": true,
+      "count": 951,
+      "desc": "穿刺阴蒂佩戴的环",
+      "kw": "阴蒂穿刺环 / 阴蒂饰品环 / 阴蒂环饰 / 阴部 / 穿环 / 阴蒂穿孔"
+    },
+    {
+      "en": "pierced navel",
+      "zh": "脐环",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "pierced tongue",
+      "zh": "舌环",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "pockets",
+      "zh": "口袋",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "straps",
+      "zh": "束带",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "suspender straps",
+      "zh": "背带",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "keychain",
+      "zh": "钥匙扣",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bandage",
+      "zh": "绷带",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "bindi",
+      "zh": "吉祥痣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2090,
+      "desc": "印度教徒点在额心的圆点额饰",
+      "kw": "红点 / 额饰 / 朱砂痣 / 眉心点 / 印度额点 / 提拉克 / 朱砂 / 饰品"
+    },
+    {
+      "en": "ear ornament",
+      "zh": "耳饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 34955,
+      "desc": "系在兽耳上的装饰。",
+      "kw": "耳朵装饰 / 兽耳装饰 / 兽耳挂饰 / 动物耳饰 / 耳朵挂饰 / 饰品 / 耳装饰"
+    },
+    {
+      "en": "aiguillette",
+      "zh": "饰绪",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12507,
+      "desc": "军服肩部的穗状饰绳",
+      "kw": "穗带 / 饰带 / 军服饰绪 / 肩穗 / 军饰 / 配饰 / 肩章 / aiguillettes / 飾緒 / 金モール / 銀モール"
+    },
+    {
+      "en": "bandolier",
+      "zh": "弹药带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2121,
+      "desc": "斜挂肩胸用于插子弹的带子。",
+      "kw": "弹带 / 子弹袋 / 斜挂弹带 / 子弹背带 / 饰品 / 肩带 / 弹药夹 / 弾帯"
+    },
+    {
+      "en": "boutonniere",
+      "zh": "襟花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1330,
+      "desc": "别在西装翻领扣眼上的花，正式场合佩戴。",
+      "kw": "西装胸花 / 翻领花 / 扣眼花 / 男士胸花 / 配饰 / 胸饰 / lapel flower / ブートニア"
+    },
+    {
+      "en": "corsage",
+      "zh": "胸花",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1616,
+      "desc": "女性别在胸前或系在腕上的装饰花",
+      "kw": "襟花 / 花饰 / 手腕花 / 女式胸花 / 装饰花 / 胸针花 / 配饰 / flower in breast pocket / コサージュ"
+    },
+    {
+      "en": "fake tail",
+      "zh": "假尾巴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 55163,
+      "desc": "用物件模拟的尾巴。",
+      "kw": "假尾 / 假动物尾巴 / 仿制尾巴 / 装饰尾巴 / 人造尾巴 / 假尾饰 / 模拟尾巴 / 尾巴 / fake animal tail"
+    },
+    {
+      "en": "harness",
+      "zh": "束缚带/背带",
+      "rating": "q",
+      "nsfw": true,
+      "count": 26463,
+      "desc": "马具式或束带式的皮带装具",
+      "kw": "束缚带 / 吊带束具 / 身体束带 / 马具式束带 / 皮革束带 / 束缚皮带 / 背带 / 束缚 / ボディハーネス"
+    },
+    {
+      "en": "pocket square",
+      "zh": "口袋巾",
+      "rating": "g",
+      "nsfw": false,
+      "count": 722,
+      "desc": "插在西装胸袋里作装饰的折叠方巾",
+      "kw": "胸袋巾 / 胸袋方巾 / 西装口袋巾 / 胸袋手帕 / 西装胸袋巾 / 胸前袋巾 / 口袋手帕 / handkerchief in breast pocket / ポケットスクエア"
+    },
+    {
+      "en": "shimenawa",
+      "zh": "注连绳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 17700,
+      "desc": "神道教中用于净化的稻草绳。",
+      "kw": "稻草绳 / 七五三绳 / 标绳 / 神道绳 / 驱邪绳 / 日本风 / 神道饰品 / braided rice rope / 七五三縄 / 标縄 / 注连縄"
+    },
+    {
+      "en": "shirt stay",
+      "zh": "衬衫固定带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 52,
+      "desc": "用于固定衬衫下摆的带子。",
+      "kw": "衬衫夹 / 衬衣固定带 / 衬衫吊带 / 衬衫绑带 / 衬衫保持带"
+    },
+    {
+      "en": "suspenders",
+      "zh": "背带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 98850,
+      "desc": "跨过肩膀用来固定裤子、短裤或裙子的带子。",
+      "kw": "吊带 / 背带裤吊带 / 裤子背带 / 吊裤带 / 肩带 / 背带夹 / 吊带裤 / 裤子 / suspender / 服装吊带 / サスペンダー"
+    },
+    {
+      "en": "bling",
+      "zh": "金饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 106,
+      "desc": "夸张耀眼的金链钻石等首饰。",
+      "kw": "珠光宝气 / 闪亮首饰 / 奢华首饰 / 炫富首饰 / 饰品 / 珠宝 / 嘻哈"
+    },
+    {
+      "en": "body jewelry",
+      "zh": "身体饰品",
+      "rating": "s",
+      "nsfw": false,
+      "count": 469,
+      "desc": "用珠宝/金链覆盖私密部位的穿着",
+      "kw": "身体首饰 / 珠宝装 / 身体链 / 宝石链 / 私密部位珠宝 / 珠宝比基尼 / 链式珠宝装 / 首饰"
+    },
+    {
+      "en": "brooch",
+      "zh": "胸针",
+      "rating": "g",
+      "nsfw": false,
+      "count": 95789,
+      "desc": "别在衣物上的装饰性别针，常镶有宝石",
+      "kw": "别针 / 饰针 / 襟针 / 领针 / 宝石胸针 / 胸花 / 配饰 / 首饰 / broach / 宝石扣 / ブローチ"
+    },
+    {
+      "en": "cameo (jewelry)",
+      "zh": "浮雕珠宝",
+      "rating": "g",
+      "nsfw": false,
+      "count": 29
+    },
+    {
+      "en": "grills",
+      "zh": "牙饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 180,
+      "desc": "套在牙齿上的金属饰套",
+      "kw": "牙套 / 金牙套 / 金属牙饰 / 钻牙套 / 镶牙套 / 牙齿饰品"
+    },
+    {
+      "en": "medallion",
+      "zh": "奖章吊坠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2341,
+      "desc": "形似奖章、常作吊坠佩戴的饰物",
+      "kw": "大奖章吊坠 / 奖章饰品 / 圆形挂坠 / 纪念章吊坠 / 奖章状饰品 / 奖章形挂饰 / 奖章 / 饰品"
+    },
+    {
+      "en": "norigae",
+      "zh": "韩式佩饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 41
+    },
+    {
+      "en": "badge",
+      "zh": "徽章",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16812,
+      "desc": "标明身份、地位或所属组织的徽章，常为金属或布制。",
+      "kw": "徽标 / 胸章 / 识别章 / 标牌 / 徽记 / 金属徽章 / 身份徽章 / 徽章牌 / badges / バッジ"
+    },
+    {
+      "en": "bandages",
+      "zh": "绷带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 135054,
+      "desc": "用于医疗或服饰的带状布条，常缠绕身体。",
+      "kw": "绷带缠绕 / 绷带装 / 绷带衣 / 纱布 / 包扎绷带 / 医疗绷带 / 弹性绷带 / 绷带包裹 / bandage / 包帯 / 包帯少女 / 包扎"
+    },
+    {
+      "en": "bandaid",
+      "zh": "创可贴",
+      "rating": "g",
+      "nsfw": false,
+      "count": 101027,
+      "desc": "覆盖小伤口的创可贴。",
+      "kw": "创口贴 / OK绷 / 止血贴 / 伤口贴 / 医用胶布 / 创可帖 / 绷带 / 医疗 / bandaids / band-aid / band aids / 绊创膏"
+    },
+    {
+      "en": "magatama",
+      "zh": "勾玉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14777,
+      "desc": "逗号形状的弯曲玉石饰品，常见于日本古代",
+      "kw": "曲玉 / 月牙玉 / 日本勾玉 / 古代玉饰 / 勾玉饰品 / 勾玉形玉 / 日本风格 / 首饰"
+    },
+    {
+      "en": "bell",
+      "zh": "铃铛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 166830,
+      "desc": "敲击后发出金属声的空心乐器",
+      "kw": "铃 / 铃儿 / 铜铃 / 铃铛饰 / 铃铛响铃 / 配饰 / bells / ベル"
+    },
+    {
+      "en": "jingle bell",
+      "zh": "球形铃铛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 59938,
+      "desc": "内有小球能发出叮当声的铃铛",
+      "kw": "响铃 / 叮当铃 / 圣诞铃铛 / 猫铃铛 / 小铃铛 / 饰品 / 圣诞风 / jinglebell / jinglebells / jingle bells / cat bell"
+    },
+    {
+      "en": "bow",
+      "zh": "蝴蝶结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1780275,
+      "desc": "打成两个环和两端的蝴蝶结",
+      "kw": "蝴蝶结饰 / 蝴蝶结带 / 蝴蝶结装饰 / 蝶结 / 蝴蝶结配件 / 蝴蝶结点缀 / 饰品 / bows / 蝶結び / 蝶々結び"
+    },
+    {
+      "en": "buckle",
+      "zh": "扣环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 76069,
+      "desc": "扣住腰带两端的金属扣，也用于衣物配件",
+      "kw": "皮带扣 / 腰带扣 / 搭扣 / 卡扣 / 带扣 / 锁扣 / 金属扣 / 配件 / buckles / バックル"
+    },
+    {
+      "en": "buttons",
+      "zh": "纽扣",
+      "rating": "g",
+      "nsfw": false,
+      "count": 223752,
+      "desc": "衣服上的纽扣",
+      "kw": "扣子 / 钮扣 / 衣扣 / 扣 / 服装配件 / 按钮 / button / 釦 / 鈕扣 / 단추"
+    },
+    {
+      "en": "charm (object)",
+      "zh": "挂件",
+      "rating": "g",
+      "nsfw": false,
+      "count": 20842,
+      "desc": "挂在手机、书包等上面的小装饰挂件",
+      "kw": "小挂饰 / 手机链 / 钥匙扣 / 挂坠 / 装饰挂件 / 小饰物 / 手机挂饰 / keychain / 挂饰 / 根付 / キーホルダー"
+    },
+    {
+      "en": "gem",
+      "zh": "宝石",
+      "rating": "g",
+      "nsfw": false,
+      "count": 122825,
+      "desc": "光滑的宝石，常用于制作首饰",
+      "kw": "珠宝 / 晶石 / 玉石 / 宝石类 / 饰品 / jewel / jewels / gems / precious stone"
+    },
+    {
+      "en": "rhinestone",
+      "zh": "水钻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 165,
+      "desc": "仿制钻石制成的水钻饰品",
+      "kw": "莱茵石 / 仿制钻石 / 人造钻 / 水晶钻 / 玻璃钻 / 水钻饰品 / 晶钻 / 莱茵石装饰"
+    },
+    {
+      "en": "o-ring",
+      "zh": "O型环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 80770,
+      "desc": "衣物上用的大号O形环连接件",
+      "kw": "O环 / 圆形环 / 金属环 / 衣物O环 / 连接环 / 配饰 / 扣件 / o ring"
+    },
+    {
+      "en": "pocket",
+      "zh": "口袋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 62769,
+      "desc": "缝在衣物上用来装小物件的口袋",
+      "kw": "衣兜 / 兜 / 衣袋 / 裤兜 / 口袋细节 / 贴袋 / 插袋 / 服装 / pockets"
+    },
+    {
+      "en": "ribbon",
+      "zh": "丝带",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1491626,
+      "desc": "用于系扎或装饰的细长缎带",
+      "kw": "发带 / 彩带 / 束带 / 飘带 / 系带 / 装饰带 / 缎带丝带 / ribbons / リボン / 리본 / 絲帶"
+    },
+    {
+      "en": "spikes",
+      "zh": "尖刺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 69188,
+      "desc": "物体表面用于防御或装饰的尖锐突起。",
+      "kw": "刺钉 / 尖角 / 尖突 / 锐刺 / 利刺 / 钉子 / 棘刺 / spike"
+    },
+    {
+      "en": "studs",
+      "zh": "铆钉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11939,
+      "desc": "附着在衣物上的小型金属或塑料装饰钉。",
+      "kw": "金属铆钉 / 钉饰 / 铆钉装饰 / 尖钉装饰 / 朋克铆钉 / 小金属钉 / 装饰 / 金属饰品 / studded"
+    },
+    {
+      "en": "tassel",
+      "zh": "流苏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 100837,
+      "desc": "由一束下垂丝线组成的绳端装饰。",
+      "kw": "穗子 / 穗饰 / 流苏装饰 / 吊穗 / 缨穗 / 穗带 / 绳穗 / 中国风 / tassels / tassle / タッセル"
+    },
+    {
+      "en": "zipper",
+      "zh": "拉链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 58600,
+      "desc": "画面中特意描绘的醒目拉链。",
+      "kw": "拉锁 / 拉链头 / 拉链齿 / 拉链元素 / 显眼拉链 / 拉链细节 / 服装配件 / zippers / ジッパー"
+    },
+    {
+      "en": "zipper pull tab",
+      "zh": "拉链头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 31750,
+      "desc": "拉链上用于拉动开合的拉片",
+      "kw": "拉链拉片 / 拉链拉环 / 拉链柄 / 配件 / 拉链"
+    },
+    {
+      "en": "cellphone strap",
+      "zh": "手机挂件",
+      "rating": "g",
+      "nsfw": false,
+      "count": 258,
+      "desc": "手机上的挂绳或腕带",
+      "kw": "手机带 / 手机绳 / 手机链 / 挂绳式手机带 / 手机腕带 / 手机吊坠 / 手机配件 / 挂饰"
+    },
+    {
+      "en": "tail ornament",
+      "zh": "尾饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32532,
+      "desc": "挂在尾巴上的装饰物",
+      "kw": "尾巴装饰 / 尾巴饰品 / 尾巴挂饰 / 尾挂 / 尾巴装饰物 / 装饰品"
+    },
+    {
+      "en": "plugsuit harness",
+      "zh": "紧身束缚带",
+      "rating": "s",
+      "nsfw": false
+    },
+    {
+      "en": "piercing",
+      "zh": "身体穿孔",
+      "rating": "q",
+      "nsfw": true,
+      "count": 182233,
+      "desc": "脸部或身体穿孔佩戴饰品，不含普通耳环",
+      "kw": "穿刺 / 体环 / 身体穿刺 / 面部穿刺 / 穿环 / 打孔 / 穿洞 / piercings / pierced / ピアス / ボディピアス"
+    },
+    {
+      "en": "ear cuffs",
+      "zh": "耳骨夹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 212,
+      "desc": "不需要耳洞，夹在耳廓上的耳饰",
+      "kw": "耳夹 / 夹式耳环 / 耳扣 / 耳挂 / 非穿孔耳环 / 耳圈夹 / 耳廓夹 / 配饰"
+    },
+    {
+      "en": "lapel pin",
+      "zh": "翻领别针",
+      "rating": "g",
+      "nsfw": false,
+      "count": 4168,
+      "desc": "别在翻领上的小徽章，可作装饰或身份标识。",
+      "kw": "领针 / 西服领针 / 衣领徽章 / 领角徽章 / 翻领胸针 / 襟章 / 配饰 / 胸针 / ラペルピン"
+    },
+    {
+      "en": "button badge",
+      "zh": "圆形徽章",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7255,
+      "desc": "别在衣服上的圆形徽章，俗称吧唧。",
+      "kw": "吧唧 / 徽章 / 胸章 / 别针徽章 / 扣针徽章 / 马口铁徽章 / 铁皮徽章 / 圆徽章 / button badges / pin-back button / pinback button / pin button"
+    },
+    {
+      "en": "sweater guard",
+      "zh": "开衫夹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 799,
+      "desc": "横过胸前固定衣物或起装饰作用的链子",
+      "kw": "毛衣链 / 开衫夹链 / 开衫链 / 防滑夹 / 毛衣夹 / 胸前链 / 卡迪根夹 / 配饰 / カーディガンクリップ"
+    },
+    {
+      "en": "chinese knot",
+      "zh": "中国结",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5910,
+      "desc": "中国传统装饰结，常见红色",
+      "kw": "中国結 / 中国绳结 / 中式绳结 / 中国结饰品 / 吉祥结 / 中国风 / 挂饰 / 中國結"
+    },
+    {
+      "en": "amulet",
+      "zh": "护身符",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1968,
+      "desc": "挂在颈上的护身符。",
+      "kw": "护符 / 符咒 / 护身符坠 / 平安符 / 护身符挂件 / 幸运符 / 辟邪符 / 守护符"
+    },
+    {
+      "en": "friendship charm",
+      "zh": "友谊护身吊坠",
+      "rating": "g",
+      "nsfw": false,
+      "count": 11
+    },
+    {
+      "en": "pentacle",
+      "zh": "五芒星护符",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2082,
+      "desc": "施法用的护符，常作吊坠佩戴",
+      "kw": "五芒星吊坠 / 五角星护符 / 魔法护符 / 五芒星印记 / 六芒星护符 / 五芒星护身符 / 五芒星 / 魔法符号 / ペンタクル"
+    },
+    {
+      "en": "watch fob",
+      "zh": "怀表链饰",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "dress flower",
+      "zh": "裙装花饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9118,
+      "desc": "装饰在连衣裙上的花朵",
+      "kw": "裙上花朵 / 裙子上的花 / 衣服装饰花 / 连衣裙装饰花 / 裙装花朵 / 裙身花朵 / 裙装上的花 / 花朵"
+    },
+    {
+      "en": "hoop earrings",
+      "zh": "圆环耳环",
+      "rating": "g",
+      "nsfw": false,
+      "count": 48770,
+      "desc": "大圆环形的耳环",
+      "kw": "圆圈耳环 / 环形耳环 / 大圆耳环 / 圈圈耳环 / 圆环耳饰 / 环状耳环 / 耳环 / 首饰 / hoop earring"
+    },
+    {
+      "en": "stud earrings",
+      "zh": "耳钉",
+      "rating": "g",
+      "nsfw": false,
+      "count": 45498,
+      "desc": "紧贴耳垂的钉状耳饰",
+      "kw": "耳钉饰 / 耳环钉 / 耳垂钉 / 耳饰钉 / 耳钉式耳环 / 小型耳钉 / 首饰 / 配饰 / ear stud / ear studs"
+    },
+    {
+      "en": "earclip",
+      "zh": "耳夹",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16283,
+      "desc": "夹在耳朵上而非穿孔的耳饰",
+      "kw": "夹式耳环 / 耳夹式耳饰 / 免耳洞耳环 / 夹耳环 / 耳饰 / 首饰 / ear clip"
+    },
+    {
+      "en": "ear chain",
+      "zh": "耳链",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2179,
+      "desc": "连接耳朵两处穿孔的细链",
+      "kw": "耳挂链 / 耳部链饰 / 耳环链 / 穿耳链 / 耳骨链 / 耳饰链 / 耳饰 / 首饰"
+    },
+    {
+      "en": "face chain",
+      "zh": "面部链饰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 64,
+      "desc": "横跨脸颊和鼻梁的面部链饰",
+      "kw": "脸部链条 / 面部链子 / 脸链 / 面链 / 面部珠宝链 / 脸颊链 / 鼻梁链 / 脸上面链"
+    },
+    {
+      "en": "anchor earrings",
+      "zh": "锚耳环",
+      "rating": "g",
+      "count": 861,
+      "desc": "带锚形坠饰的耳环",
+      "kw": "船锚耳环 / 锚形耳环 / 锚形耳饰 / 锚状耳环 / 锚型耳环 / 耳环 / 首饰 / 配饰"
+    },
+    {
+      "en": "anchor ornament",
+      "zh": "锚形装饰",
+      "rating": "g",
+      "count": 1344,
+      "desc": "做成船锚形状的装饰品",
+      "kw": "锚点装饰 / 锚型装饰 / 锚饰品 / 船锚装饰物 / 锚形饰品 / 锚装饰 / 船锚配饰"
+    },
+    {
+      "en": "animal ear earrings",
+      "zh": "兽耳耳环",
+      "rating": "g",
+      "count": 514,
+      "desc": "造型类似动物耳朵的耳环。",
+      "kw": "动物耳朵耳饰 / 耳形耳环"
+    },
+    {
+      "en": "animal ear piercing",
+      "zh": "兽耳穿孔",
+      "rating": "g",
+      "count": 24260,
+      "desc": "兽耳上的穿孔饰品。",
+      "kw": "兽耳耳钉 / 兽耳耳环 / 动物耳朵穿孔 / 兽耳穿刺 / 兽耳打洞 / 耳饰 / 兽耳"
+    },
+    {
+      "en": "ankle bell",
+      "zh": "脚踝铃",
+      "rating": "g",
+      "count": 506,
+      "desc": "系在脚踝上的铃铛",
+      "kw": "脚铃 / 脚踝铃铛 / 脚环铃 / 脚链铃 / 足铃 / 踝铃 / 脚腕铃 / 铃铛"
+    },
+    {
+      "en": "anti-eyebrow piercing",
+      "zh": "眉下穿孔",
+      "rating": "g",
+      "count": 517,
+      "desc": "位于眉毛下方或颧骨上方的穿孔",
+      "kw": "颧骨穿孔 / 眼下穿孔 / 反眉穿孔 / 反眉钉 / 面颊上部穿孔 / 眼睑下穿孔 / 穿孔 / 饰品"
+    },
+    {
+      "en": "arm sling",
+      "zh": "手臂吊带",
+      "rating": "g",
+      "count": 973,
+      "desc": "骨折或受伤时托住前臂的吊带",
+      "kw": "手臂悬带 / 吊臂带 / 臂吊带 / 手臂三角巾 / 医疗吊带 / 医疗 / 绷带 / sling (medical)"
+    },
+    {
+      "en": "bag charm",
+      "zh": "包包挂饰",
+      "rating": "g",
+      "count": 7351,
+      "desc": "挂在包上的小装饰",
+      "kw": "包挂 / 背包挂件 / 包包挂件 / 包包吊饰 / 包包装饰挂件 / 挂饰 / 配饰"
+    },
+    {
+      "en": "bandage on cheek",
+      "zh": "脸颊绷带",
+      "rating": "g",
+      "count": 754,
+      "desc": "脸颊上贴着绷带或创可贴。",
+      "kw": "脸颊贴绷带 / 脸上绷带 / 面部绷带 / 脸颊创可贴 / 脸贴胶布 / 脸颊贴胶布 / 脸上贴绷带 / 绷带"
+    },
+    {
+      "en": "bandage on face",
+      "zh": "脸上贴绷带",
+      "rating": "g",
+      "count": 4979,
+      "desc": "脸部缠着绷带的角色",
+      "kw": "脸上缠绷带 / 脸部绷带 / 面部绷带 / 脸上贴着绷带 / 脸部缠着绷带 / 面部缠绷带 / 脸上缠着绷带 / 绷带"
+    },
+    {
+      "en": "bandaged arm",
+      "zh": "缠着绷带的手臂",
+      "rating": "g",
+      "count": 47973,
+      "desc": "至少一只手臂缠满绷带",
+      "kw": "绷带手臂 / 手臂缠绷带 / 裹绷带的手臂 / 臂部绷带 / 包扎的手臂 / 绷带 / 受伤 / bandaged arms"
+    },
+    {
+      "en": "bandaged fingers",
+      "zh": "手指缠绷带",
+      "rating": "g",
+      "count": 1596,
+      "desc": "手指缠有绷带，手背未缠",
+      "kw": "手指绑绷带 / 手指裹绷带 / 绷带手指 / 指部绷带 / 手指受伤缠绷带 / 缠绷带的手指 / 绷带 / 手部"
+    },
+    {
+      "en": "bandaged foot",
+      "zh": "缠绷带的脚",
+      "rating": "g",
+      "count": 1408,
+      "desc": "脚上缠着绷带",
+      "kw": "绷带脚 / 绷带缠脚 / 缠着绷带的脚 / 脚部绷带 / 足部缠绷带 / 绑绷带的脚 / 裹着绷带的脚 / 绷带 / bandaged feet"
+    },
+    {
+      "en": "bandaged head",
+      "zh": "头部绷带",
+      "rating": "g",
+      "count": 8767,
+      "desc": "头部全部或部分缠着绷带",
+      "kw": "头缠绷带 / 头部缠绷带 / 头绑绷带 / 绷带头 / 头裹绷带 / 缠着绷带的头 / 绷带 / 受伤 / 頭の包帯"
+    },
+    {
+      "en": "bandaged leg",
+      "zh": "缠绷带的腿",
+      "rating": "g",
+      "count": 23161,
+      "desc": "至少一条腿缠着绷带",
+      "kw": "腿部缠绷带 / 腿上缠绷带 / 绷带腿 / 缠绷带的腿部 / 腿上有绷带 / 缠着绷带的腿 / 腿部绷带 / 受伤"
+    },
+    {
+      "en": "bandaged neck",
+      "zh": "脖子缠绷带",
+      "rating": "g",
+      "count": 7075,
+      "desc": "脖子上缠着绷带",
+      "kw": "颈部绷带 / 脖缠绷带 / 脖子绑绷带 / 颈部缠绷带 / 绷带脖子 / 缠绷带的脖子 / 绷带 / 受伤"
+    },
+    {
+      "en": "bandaged torso",
+      "zh": "躯干缠绷带",
+      "rating": "s",
+      "count": 1365,
+      "desc": "整个躯干缠着绷带。",
+      "kw": "身体缠绷带 / 躯干绷带 / 上半身缠绷带 / 绷带裹身 / 躯干包绷带 / 绷带躯干 / 包扎 / 躯干包扎"
+    },
+    {
+      "en": "bandaged wrist",
+      "zh": "手腕绷带",
+      "rating": "g",
+      "count": 3029,
+      "desc": "手腕缠着绷带，未及手肘",
+      "kw": "绷带手腕 / 手腕缠绷带 / 腕部绷带 / 手缠绷带 / 手腕绑绷带 / 缠绷带的手腕 / 绷带 / 手部"
+    },
+    {
+      "en": "bandages over clothes",
+      "zh": "绷带缠在衣服外",
+      "rating": "g",
+      "count": 1098,
+      "desc": "绷带缠在衣服外面，而非直接接触皮肤。",
+      "kw": "衣服外缠绷带 / 绷带绑在衣服外 / 绷带缠衣物外 / 衣物外绷带 / 绷带覆盖在衣服上 / 绷带包衣服 / 衣服外绑绷带 / 缠在衣服外的绷带"
+    },
+    {
+      "en": "bandaid on arm",
+      "zh": "手臂贴着创可贴",
+      "rating": "g",
+      "count": 6120,
+      "desc": "手臂上贴有创可贴",
+      "kw": "手臂创可贴 / 胳膊上贴创可贴 / 手臂上贴创可贴 / 手臂贴创可贴 / 手臂有创可贴 / OK绷在手臂上 / 手臂贴OK绷 / 手臂上的绷带 / bandaid on elbow"
+    },
+    {
+      "en": "bandaid on cheek",
+      "zh": "脸颊贴创可贴",
+      "rating": "g",
+      "count": 11548,
+      "desc": "脸颊上贴着创可贴",
+      "kw": "脸颊上的创可贴 / 脸上创可贴 / 面颊创可贴 / 贴脸创可贴 / 脸部创可贴 / 面部创可贴 / 创可贴"
+    },
+    {
+      "en": "bandaid on chest",
+      "zh": "胸口创可贴",
+      "rating": "s",
+      "count": 598,
+      "desc": "胸口贴着创可贴。",
+      "kw": "胸部创可贴 / 胸前创可贴 / 胸口贴创可贴 / 胸贴创可贴 / 胸口胶布 / 伤口贴 / 医疗用品"
+    },
+    {
+      "en": "bandaid on ear",
+      "zh": "耳朵贴创可贴",
+      "rating": "g",
+      "count": 214,
+      "desc": "耳朵上贴着创可贴",
+      "kw": "耳部创可贴 / 耳上创可贴 / 耳朵有创可贴 / 耳朵创可贴 / 创可贴 / 伤口"
+    },
+    {
+      "en": "bandaid on finger",
+      "zh": "手指创可贴",
+      "rating": "g",
+      "count": 1017,
+      "desc": "手指上贴着创可贴",
+      "kw": "手指创口贴 / 指头创可贴 / 手指上贴创可贴 / 指头贴创可贴 / 手指OK绷 / 手指胶布 / 手指上的创可贴 / 创可贴"
+    },
+    {
+      "en": "bandaid on forehead",
+      "zh": "额头贴创可贴",
+      "rating": "g",
+      "count": 2082,
+      "desc": "额头上贴着创可贴",
+      "kw": "额头创可贴 / 额头贴胶布 / 额头贴创口贴 / 额头上创可贴 / 额头有创可贴 / 额头上的绷带 / 绷带"
+    },
+    {
+      "en": "bandaid on head",
+      "zh": "头顶创可贴",
+      "rating": "g",
+      "count": 1640,
+      "desc": "头顶贴着创可贴",
+      "kw": "头上创可贴 / 头顶贴创可贴 / 头部创可贴 / 脑门创可贴 / 头上的创可贴 / 创可贴 / 绷带 / 伤口"
+    },
+    {
+      "en": "bandaid on knee",
+      "zh": "膝盖贴创可贴",
+      "rating": "g",
+      "count": 12211,
+      "desc": "膝盖上有创可贴。",
+      "kw": "膝盖上贴创可贴 / 膝盖贴着创可贴 / 膝上创可贴 / 膝盖上的创可贴 / 绷带 / 医疗 / 膝绊创膏 / 膝絆創膏"
+    },
+    {
+      "en": "bandaid on leg",
+      "zh": "腿上贴创可贴",
+      "rating": "g",
+      "count": 24972,
+      "desc": "腿上贴着创可贴。",
+      "kw": "腿部创可贴 / 大腿创可贴 / 小腿创可贴 / 腿上创口贴 / 腿上OK绷 / 腿上的创可贴 / 创可贴"
+    },
+    {
+      "en": "bandaid on neck",
+      "zh": "脖子上贴着创可贴",
+      "rating": "g",
+      "count": 1543,
+      "desc": "脖子上贴着创可贴",
+      "kw": "脖子上的创可贴 / 颈部创可贴 / 脖子贴创可贴 / 颈部创口贴 / 脖子贴OK绷 / 创可贴 / 伤痕"
+    },
+    {
+      "en": "bandaid on nose",
+      "zh": "鼻上贴创可贴",
+      "rating": "g",
+      "count": 14760,
+      "desc": "鼻梁上贴着创可贴，常表现运动或活泼",
+      "kw": "鼻梁创可贴 / 鼻子上贴创可贴 / 鼻贴创可贴 / 鼻子上的创口贴 / 鼻梁上创可贴 / 鼻梁贴 / 创可贴 / 伤痕"
+    },
+    {
+      "en": "bandaid on shoulder",
+      "zh": "肩膀贴创可贴",
+      "rating": "g",
+      "count": 990,
+      "desc": "肩膀上贴着创可贴",
+      "kw": "肩膀上贴创可贴 / 肩部创可贴 / 肩膀有创可贴 / 肩贴创可贴 / 创可贴在肩 / 肩上的绷带 / 绷带 / 医疗用品"
+    },
+    {
+      "en": "bandaid on stomach",
+      "zh": "肚子上的创可贴",
+      "rating": "g",
+      "count": 641,
+      "desc": "肚子上贴着创可贴",
+      "kw": "腹部创可贴 / 肚皮上的创可贴 / 肚子上贴创可贴 / 医疗用品 / 伤口"
+    },
+    {
+      "en": "bandaid on thigh",
+      "zh": "大腿上的创可贴",
+      "rating": "s",
+      "count": 2659,
+      "desc": "大腿上贴着创可贴。",
+      "kw": "大腿创可贴 / 大腿贴创可贴 / 创可贴在大腿上 / 大腿上贴着创可贴 / 大腿上的绷带 / 创可贴 / 伤痕"
+    },
+    {
+      "en": "barbell piercing",
+      "zh": "杠铃穿环",
+      "rating": "g",
+      "count": 14259,
+      "desc": "两端带圆珠的直杆形穿刺饰品",
+      "kw": "杠铃钉 / 杠铃穿刺 / 直杆穿刺环 / 杠铃环 / 杠铃脐环 / 穿孔 / 身体饰品"
+    },
+    {
+      "en": "bat ornament",
+      "zh": "蝙蝠装饰",
+      "rating": "g",
+      "count": 886,
+      "desc": "外形像蝙蝠的装饰物",
+      "kw": "蝙蝠饰物 / 蝙蝠饰品 / 蝙蝠挂饰 / 蝙蝠装饰品 / 饰品 / 挂饰"
+    },
+    {
+      "en": "bead anklet",
+      "zh": "珠脚链",
+      "rating": "g",
+      "count": 719,
+      "desc": "用珠子串成的脚链或脚环",
+      "kw": "珠子脚链 / 串珠脚链 / 脚链 / 脚踝珠链 / 珠串脚链 / 串珠脚环 / 配饰 / 首饰"
+    },
+    {
+      "en": "bell earrings",
+      "zh": "铃铛耳环",
+      "rating": "g",
+      "count": 1179,
+      "desc": "铃铛形状的耳环",
+      "kw": "铃铛耳饰 / 铃铛耳坠 / 铃铛耳钉 / 铃铛耳夹 / 铃铛形状耳环 / 耳环 / 首饰 / 配饰 / bell earring"
+    },
+    {
+      "en": "belt buckle",
+      "zh": "腰带扣",
+      "rating": "g",
+      "count": 56315,
+      "desc": "扣紧腰带的金属带扣",
+      "kw": "皮带扣 / 腰带扣环 / 皮带扣环 / 裤带扣 / 腰带金属扣 / 搭扣 / 带扣 / 腰带"
+    },
+    {
+      "en": "black bandages",
+      "zh": "黑色绷带",
+      "rating": "g",
+      "count": 895,
+      "desc": "缠绕在身体上的黑色绷带",
+      "kw": "黑绷带 / 黑色纱布绷带 / 绷带"
+    },
+    {
+      "en": "black gem",
+      "zh": "黑色宝石",
+      "rating": "g",
+      "count": 666,
+      "desc": "黑色的宝石或宝石状装饰",
+      "kw": "黑宝石 / 黑钻 / 黑色晶石 / 黑色宝石装饰 / 黑色珠宝 / 宝石 / 矿物 / black gemstone"
+    },
+    {
+      "en": "blake bloom (wuthering waves)",
+      "zh": "布莱克花（鸣潮）",
+      "rating": "g",
+      "count": 1842,
+      "desc": "《鸣潮》中黑海岸成员佩戴的黑色花朵。",
+      "kw": "布莱克花 / 黑海岸花 / 鸣潮布莱克花 / 黑花 (鸣潮) / 鸣潮 / 黑海岸组织"
+    },
+    {
+      "en": "blood on bandages",
+      "zh": "染血的绷带",
+      "rating": "s",
+      "count": 2033,
+      "desc": "绷带上沾有血迹",
+      "kw": "绷带沾血 / 绷带染血 / 绷带血渍 / 血染绷带 / 绷带上的血迹 / 伤口 / 血迹 / bloody bandages"
+    },
+    {
+      "en": "blue gem",
+      "zh": "蓝色宝石",
+      "rating": "g",
+      "count": 30669,
+      "desc": "蓝色的宝石，如蓝宝石",
+      "kw": "蓝宝石 / 青玉 / 蓝宝 / 蓝色玉石 / 宝石 / 饰品 / blue gemstone"
+    },
+    {
+      "en": "bow earrings",
+      "zh": "蝴蝶结耳环",
+      "rating": "g",
+      "count": 4484,
+      "desc": "带蝴蝶结装饰的耳环。",
+      "kw": "蝴蝶结耳饰 / 蝴蝶结耳坠 / 蝴蝶结耳钉 / 缎带耳环 / 结饰耳环 / 耳环 / 首饰 / 配饰"
+    },
+    {
+      "en": "bridge piercing",
+      "zh": "鼻梁穿孔",
+      "rating": "g",
+      "count": 679,
+      "desc": "穿在鼻梁部位的穿孔。",
+      "kw": "鼻梁钉 / 鼻桥穿孔 / 鼻梁穿刺 / 穿孔 / 饰品"
+    },
+    {
+      "en": "butterfly brooch",
+      "zh": "蝴蝶胸针",
+      "rating": "g",
+      "count": 1437,
+      "desc": "蝴蝶造型的胸针。",
+      "kw": "蝴蝶别针 / 蝴蝶胸饰 / 蝴蝶饰针 / 蝴蝶领针 / 蝴蝶胸花 / 胸针 / 首饰 / 配饰"
+    },
+    {
+      "en": "butterfly earrings",
+      "zh": "蝴蝶耳环",
+      "rating": "g",
+      "count": 1437,
+      "desc": "蝴蝶造型的耳环",
+      "kw": "蝴蝶耳饰 / 蝴蝶耳钉 / 蝴蝶造型耳环 / 蝴蝶耳坠 / 蝴蝶耳夹 / 耳环 / 首饰 / 配饰"
+    },
+    {
+      "en": "butterfly ornament",
+      "zh": "蝴蝶装饰",
+      "rating": "g",
+      "count": 1824,
+      "desc": "蝴蝶形状的装饰物",
+      "kw": "蝴蝶饰品 / 蝴蝶饰物 / 蝴蝶装饰品 / 蝴蝶形状装饰 / 蝶饰 / 蝴蝶挂饰 / 配饰 / 饰品"
+    },
+    {
+      "en": "captive bead ring",
+      "zh": "固珠环",
+      "rating": "g",
+      "count": 1252,
+      "desc": "带固定小珠的穿刺环。",
+      "kw": "固定珠环 / 锁珠环 / 带珠环 / 穿刺珠环 / 球闭合环 / 珠子固定环 / 固珠穿刺环 / 闭口环"
+    },
+    {
+      "en": "cat earrings",
+      "zh": "猫耳环",
+      "rating": "g",
+      "count": 355,
+      "desc": "猫形状的耳环，挂在耳垂上",
+      "kw": "猫形耳环 / 猫咪耳环 / 猫耳坠 / 猫耳饰 / 小猫耳环 / 耳环 / 首饰 / 配饰"
+    },
+    {
+      "en": "cat ornament",
+      "zh": "猫装饰",
+      "rating": "g",
+      "count": 535,
+      "desc": "猫形状的装饰品",
+      "kw": "猫饰品 / 猫形装饰 / 猫咪装饰品 / 猫挂饰 / 猫玩偶装饰 / 猫摆件 / 饰品 / 挂饰"
+    },
+    {
+      "en": "chain earrings",
+      "zh": "链条耳环",
+      "rating": "g",
+      "count": 681,
+      "desc": "耳垂上挂着链环的耳环。",
+      "kw": "链环耳环 / 链式耳环 / 耳链 / 链坠耳环 / 耳环 / 配饰 / 首饰"
+    },
+    {
+      "en": "cheek piercing",
+      "zh": "脸颊穿孔",
+      "rating": "g",
+      "count": 523,
+      "desc": "脸颊部位的穿孔饰品",
+      "kw": "脸颊穿刺 / 脸颊穿环 / 脸颊钉 / 脸部穿孔 / 脸蛋穿孔 / 穿孔 / 身体饰品"
+    },
+    {
+      "en": "cherry earrings",
+      "zh": "樱桃耳环",
+      "rating": "g",
+      "count": 785,
+      "desc": "樱桃造型的耳环",
+      "kw": "樱桃耳坠 / 樱桃耳饰 / 樱桃造型耳环 / 樱桃耳钉 / 首饰 / 耳环 / cherry earring"
+    },
+    {
+      "en": "chin piercing",
+      "zh": "下巴穿孔",
+      "rating": "g",
+      "count": 651,
+      "desc": "打在下巴上的穿孔",
+      "kw": "下巴穿刺 / 下巴刺穿 / 下巴钉 / 下颚穿孔 / 下颌穿孔 / 颏穿孔 / 下巴穿环 / 下巴穿钉"
+    },
+    {
+      "en": "clitoris piercing",
+      "zh": "阴蒂环",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2137,
+      "desc": "穿过阴蒂的穿刺饰品。",
+      "kw": "阴蒂穿环 / 穿环 / 身体改造"
+    },
+    {
+      "en": "clown nose",
+      "zh": "小丑鼻子",
+      "rating": "g",
+      "count": 1811,
+      "desc": "小丑戴的球形红鼻子",
+      "kw": "小丑红鼻 / 红鼻子 / 小丑鼻 / 球形红鼻子 / 圆鼻头 / 马戏团小丑鼻 / 道具 / 化妆 / ピエロ鼻"
+    },
+    {
+      "en": "cold pack",
+      "zh": "冷敷贴",
+      "rating": "g",
+      "count": 655,
+      "desc": "贴在额头退热降温的冷敷贴",
+      "kw": "退热贴 / 冰贴 / 降温贴 / 退烧贴 / 冷却贴 / 冷感贴 / 凉贴 / 冷敷袋 / cooling pad / cold compress / 冷えピタ / 熱さまシート"
+    },
+    {
+      "en": "corset piercing",
+      "zh": "束腰穿刺",
+      "rating": "q",
+      "nsfw": true,
+      "count": 732,
+      "desc": "用缎带穿过成排穿孔模拟束腰效果",
+      "kw": "紧身胸衣穿刺 / 胸衣穿刺 / 束身衣穿孔 / 束腰式穿孔 / 胸衣穿环 / 穿孔束腰 / 束身衣式穿孔 / 身体穿孔 / コルセットピアス"
+    },
+    {
+      "en": "covered piercing",
+      "zh": "被衣物遮盖的穿孔",
+      "rating": "s",
+      "count": 617,
+      "desc": "隔着衣物能看出穿孔痕迹",
+      "kw": "遮盖的穿孔 / 被衣服遮住的穿孔 / 遮住的穿孔 / 衣物下的穿孔 / 隐现的穿孔 / 穿孔痕迹 / 穿孔饰品 / 身体饰品"
+    },
+    {
+      "en": "crescent earrings",
+      "zh": "月牙耳环",
+      "rating": "g",
+      "count": 7304,
+      "desc": "新月形状的耳环。",
+      "kw": "新月耳环 / 月牙形耳环 / 月亮耳环 / 弯月耳环 / 月牙耳坠 / 月牙耳饰 / 月牙耳钉 / 耳环 / crescent earring"
+    },
+    {
+      "en": "crescent pin",
+      "zh": "新月别针",
+      "rating": "g",
+      "count": 6461,
+      "desc": "新月形状的别针或胸饰",
+      "kw": "月牙别针 / 新月形别针 / 月形别针 / 弯月胸针 / 月牙发夹 / 发夹 / 发饰 / crescent moon pin"
+    },
+    {
+      "en": "criss-cross strings",
+      "zh": "交叉细带",
+      "rating": "g",
+      "count": 590,
+      "desc": "交叉成X形的细绳或系带",
+      "kw": "交叉系带 / 交叉绳带 / 交叉绑带 / X形细带 / 十字交叉带 / 交叉细绳 / 交叉带子 / 系带"
+    },
+    {
+      "en": "cross earrings",
+      "zh": "十字架耳环",
+      "rating": "g",
+      "count": 14795,
+      "desc": "十字形状的耳环",
+      "kw": "十字耳环 / 十字架耳饰 / 十字耳坠 / 十字形耳环 / 十字耳钉 / 十字架耳钉 / 耳环 / 首饰"
+    },
+    {
+      "en": "cross ornament",
+      "zh": "十字装饰",
+      "rating": "g",
+      "count": 941,
+      "desc": "十字形状的装饰物。",
+      "kw": "十字架装饰 / 十字形装饰 / 十字饰品 / 十字装饰品 / 十字挂件 / 十字吊坠 / 十字饰物 / 十字造型装饰"
+    },
+    {
+      "en": "crossed bandaids",
+      "zh": "交叉的创可贴",
+      "rating": "g",
+      "count": 5661,
+      "desc": "两片创可贴交叉贴成十字或X形。",
+      "kw": "交叉创可贴 / X形创可贴 / 十字创可贴 / 交叉邦迪 / 创可贴交叉 / 交叉胶布 / 创可贴 / 医疗 / x bandaids"
+    },
+    {
+      "en": "crystal earrings",
+      "zh": "水晶耳环",
+      "rating": "g",
+      "count": 2856,
+      "desc": "菱形水晶样式的耳环。",
+      "kw": "水晶耳饰 / 水晶耳坠 / 菱形水晶耳环 / 透明耳环 / 水晶体耳环 / 水晶耳钉 / 耳环 / 首饰"
+    },
+    {
+      "en": "dangle earrings",
+      "zh": "悬垂耳环",
+      "rating": "g",
+      "count": 1525,
+      "desc": "带下垂饰件、会晃动的耳环。",
+      "kw": "悬挂耳环 / 垂坠耳环 / 吊坠耳环 / 下垂耳环 / 长耳环 / 流苏耳环 / 垂吊耳环"
+    },
+    {
+      "en": "diamond button",
+      "zh": "菱形纽扣",
+      "rating": "g",
+      "count": 10580,
+      "desc": "菱形形状的纽扣。",
+      "kw": "菱形扣子 / 钻石形纽扣 / 菱格纽扣 / 菱形钮扣 / 菱形按钮 / 按钮 / 服装配件 / diamond shaped buttons"
+    },
+    {
+      "en": "diamond-shaped earrings",
+      "zh": "菱形耳环",
+      "rating": "g",
+      "count": 1918,
+      "desc": "菱形形状的耳环或耳饰。",
+      "kw": "菱形耳饰 / 菱形耳钉 / 钻石形耳环 / 菱形耳坠 / 耳环 / 首饰 / 配饰"
+    },
+    {
+      "en": "drawstring",
+      "zh": "抽绳",
+      "rating": "g",
+      "count": 41196,
+      "desc": "可抽紧衣物的束带绳。",
+      "kw": "束带 / 拉绳 / 松紧绳 / 系带 / 收腰绳 / 服装细节 / drawstrings / 松紧带绳子 / ドローストリング"
+    },
+    {
+      "en": "earth (ornament)",
+      "zh": "地球装饰品",
+      "rating": "g",
+      "count": 2413,
+      "desc": "地球形状的装饰物",
+      "kw": "地球装饰 / 地球形状装饰 / 地球模型装饰 / 地球摆件 / 地球饰品 / 地球挂件 / 地球仪 / 装饰品"
+    },
+    {
+      "en": "eyelash ornament",
+      "zh": "睫毛装饰",
+      "rating": "g",
+      "count": 1885,
+      "desc": "睫毛上的小珠子等装饰物。",
+      "kw": "睫毛饰物 / 睫毛挂饰 / 睫毛珠饰 / 睫毛点缀 / 装饰 / 睫毛"
+    },
+    {
+      "en": "face piercing",
+      "zh": "面部穿孔",
+      "rating": "g",
+      "count": 20886,
+      "desc": "位于面部的穿刺饰品。",
+      "kw": "脸部穿孔 / 面部穿刺 / 脸部穿刺 / 面部穿环 / 脸部穿环 / 面部钉 / 饰品 / face piercings"
+    },
+    {
+      "en": "fake beard",
+      "zh": "假胡须",
+      "rating": "g",
+      "count": 670,
+      "desc": "用来扮成胡须的假发或道具",
+      "kw": "假胡子 / 假胡茬 / 粘贴胡子 / 道具胡子 / 道具 / 伪装"
+    },
+    {
+      "en": "fake facial hair",
+      "zh": "假胡须",
+      "rating": "g",
+      "count": 3677,
+      "desc": "明显是假的道具胡须，如假八字胡。",
+      "kw": "假胡子 / 假八字胡 / 道具胡须 / 假胡茬 / 贴的胡子 / 妆容胡须 / 道具 / 假发饰"
+    },
+    {
+      "en": "fake mustache",
+      "zh": "假胡子",
+      "rating": "g",
+      "count": 3155,
+      "desc": "用毛絮等做成假胡子，常见于女性角色。",
+      "kw": "假八字胡 / 假小胡子 / 假胡须 / 毛絮胡子 / 假髭 / 伪装胡子 / mustached girl / fake moustache"
+    },
+    {
+      "en": "feather earrings",
+      "zh": "羽毛耳环",
+      "rating": "g",
+      "count": 6220,
+      "desc": "用羽毛装饰的耳环",
+      "kw": "羽毛耳饰 / 羽毛耳坠 / 羽毛耳钉 / 羽毛吊坠耳环 / 羽饰耳环 / 耳环 / 首饰 / 配饰 / feather earring"
+    },
+    {
+      "en": "floating earrings",
+      "zh": "漂浮耳环",
+      "rating": "g",
+      "count": 13784,
+      "desc": "看似不接触耳朵、悬浮在耳边的耳环",
+      "kw": "飘浮的耳环 / 悬浮耳环 / 悬空耳环 / 漂浮耳饰 / 浮空耳环 / 耳环 / 配饰 / 首饰 / floating earring"
+    },
+    {
+      "en": "flower brooch",
+      "zh": "花胸针",
+      "rating": "g",
+      "count": 3039,
+      "desc": "花朵形状的胸针。",
+      "kw": "花朵胸针 / 花卉胸针 / 花型胸针 / 花形胸针 / 花胸饰 / 花别针 / 花胸花 / 花朵别针"
+    },
+    {
+      "en": "flower earrings",
+      "zh": "花耳环",
+      "rating": "g",
+      "count": 8812,
+      "desc": "花朵形状的耳环",
+      "kw": "花朵耳环 / 花形耳环 / 鲜花耳环 / 花朵耳饰 / 耳环 / 首饰 / 配饰 / flower earring / rose earrings"
+    },
+    {
+      "en": "flower on chest",
+      "zh": "胸前花朵",
+      "rating": "g",
+      "count": 956,
+      "desc": "胸前装饰或生长花朵。",
+      "kw": "胸口花 / 胸前花饰 / 胸花 / 胸部鲜花 / 胸前的花 / 服饰装饰"
+    },
+    {
+      "en": "flower ornament",
+      "zh": "花朵饰品",
+      "rating": "g",
+      "count": 6570,
+      "desc": "花朵形状或带花的通用装饰品",
+      "kw": "花装饰品 / 花饰 / 花朵装饰 / 花形饰品 / 花型饰品 / 花卉装饰 / 饰品"
+    },
+    {
+      "en": "food-themed earrings",
+      "zh": "食物主题耳环",
+      "rating": "g",
+      "count": 3002,
+      "desc": "食物造型的耳环",
+      "kw": "食物造型耳环 / 美食耳环 / 食品耳环 / 食物耳饰 / 食品主题耳饰 / 食物款耳环 / 食物饰品 / 耳饰 / food themed earrings"
+    },
+    {
+      "en": "forehead jewel",
+      "zh": "额头宝石",
+      "rating": "g",
+      "count": 29753,
+      "desc": "嵌在额头上的宝石。",
+      "kw": "额饰宝石 / 额上宝石 / 额头宝珠 / 前额宝石 / 额前宝石 / 额饰 / 眉心宝石 / forehead gem"
+    },
+    {
+      "en": "gauze",
+      "zh": "纱布",
+      "rating": "g",
+      "count": 5072,
+      "desc": "覆盖伤口用的纱布",
+      "kw": "医用纱布 / 绷带纱布 / 消毒纱布 / 纱布片 / 医疗用品 / ガーゼ / 거즈 / 紗布"
+    },
+    {
+      "en": "gauze on cheek",
+      "zh": "脸颊纱布",
+      "rating": "g",
+      "count": 2927,
+      "desc": "脸颊上贴着纱布",
+      "kw": "脸颊贴纱布 / 面颊纱布 / 脸上贴纱布 / 脸颊上有纱布 / 纱布贴脸 / 脸颊上的纱布 / 纱布 / 伤口"
+    },
+    {
+      "en": "gauze on face",
+      "zh": "脸上纱布",
+      "rating": "g",
+      "count": 2783,
+      "desc": "纱布贴在或覆盖在角色脸部伤处。",
+      "kw": "面部贴纱布 / 脸有纱布 / 脸上贴纱布 / 脸部纱布 / 贴纱布在脸上 / 纱布 / 绷带 / 医疗"
+    },
+    {
+      "en": "gold anklet",
+      "zh": "金脚链",
+      "rating": "g",
+      "count": 1259,
+      "desc": "黄金制成的脚环",
+      "kw": "金脚环 / 黄金脚链 / 金制脚环 / 金色脚链 / 脚环 / 脚链 / 首饰 / 配饰"
+    },
+    {
+      "en": "gold buckle",
+      "zh": "金色带扣",
+      "rating": "g",
+      "count": 1087,
+      "desc": "各类带扣中呈金色的那种。",
+      "kw": "金扣 / 金色扣环 / 黄金带扣 / 金色皮带扣 / 金带扣 / 配饰 / 扣子 / 五金"
+    },
+    {
+      "en": "gold buttons",
+      "zh": "金色纽扣",
+      "rating": "g",
+      "count": 2696,
+      "desc": "金色的服装纽扣",
+      "kw": "金色按钮 / 金钮扣 / 纽扣 / 装饰"
+    },
+    {
+      "en": "gold chain",
+      "zh": "金链子",
+      "rating": "g",
+      "count": 8491,
+      "desc": "黄金制成的链条",
+      "kw": "金链 / 黄金链 / 金项链 / 金色链子 / 黄金项链 / 首饰 / 链子 / 金属饰品"
+    },
+    {
+      "en": "gold earrings",
+      "zh": "金色耳环",
+      "rating": "g",
+      "count": 16319,
+      "desc": "黄金制成的耳环",
+      "kw": "金耳环 / 黄金耳环 / 金色耳饰 / 金质耳环 / 耳环 / 首饰 / 配饰"
+    },
+    {
+      "en": "gold jewelry",
+      "zh": "黄金首饰",
+      "rating": "g",
+      "count": 1009,
+      "desc": "黄金制成的首饰",
+      "kw": "金首饰 / 金色首饰 / 金饰 / 黄金饰品 / 金质首饰 / 首饰 / 配饰 / 珠宝"
+    },
+    {
+      "en": "hanafuda earrings",
+      "zh": "花札耳环",
+      "rating": "g",
+      "count": 1102,
+      "desc": "花札图案或造型的耳环",
+      "kw": "花牌耳环 / 花扎耳环 / 花札图案耳环 / 花札造型耳饰 / 花札耳饰 / 耳环 / 首饰 / 日本风"
+    },
+    {
+      "en": "hearing aid",
+      "zh": "助听器",
+      "rating": "g",
+      "count": 653,
+      "desc": "帮助听障人士听声的助听器",
+      "kw": "助听设备 / 耳聋机 / 辅助听力装置 / 助听耳机 / 医疗器械 / 配饰"
+    },
+    {
+      "en": "heart brooch",
+      "zh": "心形胸针",
+      "rating": "g",
+      "count": 14181,
+      "desc": "心形主题的胸针",
+      "kw": "心形别针 / 爱心胸针 / 心型胸针 / 心形胸饰 / 心形装饰别针 / 爱心别针 / 心形胸扣 / 心形领针"
+    },
+    {
+      "en": "heart button",
+      "zh": "心形纽扣",
+      "rating": "g",
+      "count": 5456,
+      "desc": "心形的纽扣，常与古明地觉关联",
+      "kw": "心形扣子 / 爱心纽扣 / 爱心扣子 / 心型纽扣 / 心形纽 / 纽扣 / 服装配件 / heart-shaped buttons"
+    },
+    {
+      "en": "heart ear ornament",
+      "zh": "心形耳饰",
+      "rating": "g",
+      "count": 1419,
+      "desc": "心形造型的耳部装饰。",
+      "kw": "心形耳部装饰 / 心形耳挂 / 心形耳夹 / 心形耳部饰物 / 耳饰品 / 心形饰品 / 耳环"
+    },
+    {
+      "en": "heart earrings",
+      "zh": "心形耳环",
+      "rating": "g",
+      "count": 19818,
+      "desc": "心形或带心形吊坠的耳环",
+      "kw": "爱心耳环 / 心型耳环 / 心形耳坠 / 心形耳饰 / 爱心耳坠 / 心形耳钉 / 心型耳坠 / 爱心耳饰 / heart earring"
+    },
+    {
+      "en": "heart o-ring",
+      "zh": "心形O环",
+      "rating": "g",
+      "count": 7860,
+      "desc": "连接衣物两端或作装饰的心形O型环。",
+      "kw": "心形环 / 爱心环 / 心型环 / 心形圆环 / 心形金属环 / 心形连接环 / 心形O型环 / O环 / heart ring"
+    },
+    {
+      "en": "heart ornament",
+      "zh": "心形装饰",
+      "rating": "g",
+      "count": 1222,
+      "desc": "呈心形的装饰物，可作配件或点缀",
+      "kw": "心形饰品 / 爱心装饰 / 心形挂饰 / 爱心挂件 / 心形吊饰 / 心形饰物 / 爱心饰品 / 饰品"
+    },
+    {
+      "en": "heart-shaped buckle",
+      "zh": "心形带扣",
+      "rating": "g",
+      "count": 2639,
+      "desc": "心形的带扣/皮带扣",
+      "kw": "心形扣 / 心形皮带扣 / 心型扣 / 心形扣环 / 爱心扣 / 爱心带扣 / 心形腰带扣 / 心形搭扣 / heart buckle / heart belt / heart belt buckle"
+    },
+    {
+      "en": "heart-shaped ornament",
+      "zh": "心形装饰",
+      "rating": "g",
+      "count": 1715,
+      "desc": "心形的装饰物，无更具体标签时使用",
+      "kw": "心形饰物 / 爱心装饰 / 心型装饰 / 桃心装饰 / 心形饰品 / 心形挂件 / 心形配饰 / 心形小物"
+    },
+    {
+      "en": "horn piercing",
+      "zh": "角穿孔",
+      "rating": "g",
+      "count": 501,
+      "desc": "在角上穿孔并佩戴饰品",
+      "kw": "角饰穿孔 / 角部穿孔 / 角上打孔 / 角钉饰 / 角环 / 角上饰品 / 角穿环 / 穿孔饰品"
+    },
+    {
+      "en": "horn ring",
+      "zh": "角环",
+      "rating": "g",
+      "count": 2038,
+      "desc": "戴在角上的环状装饰物。",
+      "kw": "角箍 / 角饰环 / 角上的环 / 角环饰 / 角圈 / 饰品 / 幻想饰 / 角饰"
+    },
+    {
+      "en": "horseshoe ornament",
+      "zh": "马蹄形装饰",
+      "rating": "g",
+      "count": 8292,
+      "desc": "任何马蹄铁形状的装饰物",
+      "kw": "马蹄铁装饰 / U形装饰 / 马蹄装饰品 / 马蹄铁饰品 / 马蹄形饰品 / 马蹄装饰 / 饰品 / 挂饰"
+    },
+    {
+      "en": "industrial piercing",
+      "zh": "工业穿刺",
+      "rating": "g",
+      "count": 4801,
+      "desc": "贯穿耳上部两处穿孔的横杆耳饰",
+      "kw": "工业耳洞 / 工业穿环 / 横杆耳饰 / 工业耳钉 / 双孔横杆 / 耳桥 / 工业耳穿 / 耳环"
+    },
+    {
+      "en": "infection monitor (arknights)",
+      "zh": "感染监控装置（明日方舟）",
+      "rating": "g",
+      "count": 15437,
+      "desc": "《明日方舟》中监测矿石病感染的医疗装置",
+      "kw": "感染监控装置 / 矿石病监测器 / 源石病监测器 / 矿石病检测环 / 感染检测环 / 方舟感染监控 / 罗德岛监测装置 / 矿石病抑制器 / oripathy monitor (arknights) / 抑制器 / 检测环 / 特殊抑制器"
+    },
+    {
+      "en": "insignia",
+      "zh": "徽章",
+      "rating": "g",
+      "count": 4195,
+      "desc": "表示身份或所属的徽记，常为军事徽章",
+      "kw": "徽记 / 证章 / 军衔徽章 / 识别徽章 / 勋章 / 领章 / 臂章 / 胸章 / military insignia"
+    },
+    {
+      "en": "key earrings",
+      "zh": "钥匙耳环",
+      "rating": "g",
+      "count": 2746,
+      "desc": "钥匙形状的耳环",
+      "kw": "钥匙耳钉 / 钥匙耳饰 / 钥匙形状耳环 / 钥匙造型耳环 / 钥匙耳坠 / 耳环 / 首饰 / 配饰"
+    },
+    {
+      "en": "labia piercing",
+      "zh": "阴唇穿刺",
+      "rating": "q",
+      "nsfw": true,
+      "count": 577,
+      "desc": "穿过阴唇的穿刺",
+      "kw": "阴唇穿孔 / 阴唇环 / 阴唇钉 / 穿刺阴唇 / 阴唇穿环 / 穿孔 / 身体改造 / 阴部穿孔 / pierced labia"
+    },
+    {
+      "en": "labret piercing",
+      "zh": "唇下钉",
+      "rating": "g",
+      "count": 1935,
+      "desc": "下唇下方与下巴之间的穿刺，属唇部穿刺的一种。",
+      "kw": "下唇钉 / 唇下穿刺 / 下唇穿刺 / 唇下环 / 下唇环 / 唇下饰钉 / 身体穿孔 / 饰品"
+    },
+    {
+      "en": "ladybug ornament",
+      "zh": "瓢虫装饰",
+      "rating": "g",
+      "count": 525,
+      "desc": "瓢虫造型的装饰",
+      "kw": "瓢虫饰品 / 瓢虫挂饰 / 瓢虫装饰物 / 瓢虫小装饰 / 瓢虫摆件 / 装饰 / 饰品"
+    },
+    {
+      "en": "leaf earrings",
+      "zh": "叶子耳环",
+      "rating": "g",
+      "count": 1199,
+      "desc": "带有叶子造型装饰的耳环",
+      "kw": "叶耳环 / 叶片耳环 / 叶形耳环 / 树叶耳环 / 叶子状耳环 / 树叶造型耳环 / 叶子耳坠 / 耳环"
+    },
+    {
+      "en": "lifebuoy ornament",
+      "zh": "救生圈装饰品",
+      "rating": "g",
+      "count": 946,
+      "desc": "模仿船舶救生圈的装饰环。",
+      "kw": "救生圈装饰 / 救生圈饰品 / 泳圈装饰 / 救生环装饰 / 救生圈挂饰 / 饰品 / 救生圈"
+    },
+    {
+      "en": "lightning bolt earrings",
+      "zh": "闪电耳环",
+      "rating": "g",
+      "count": 677,
+      "desc": "闪电形状的耳环",
+      "kw": "雷电耳环 / 闪电形状耳环 / 闪电耳饰 / 电光耳环 / 闪电造型耳环 / 闪电耳坠 / 耳环 / 配饰"
+    },
+    {
+      "en": "linked piercing",
+      "zh": "连环穿孔",
+      "rating": "s",
+      "count": 4065,
+      "desc": "两个穿刺孔用链条相连",
+      "kw": "链式穿刺 / 链条穿刺 / 相连穿孔 / 链接穿刺 / 双孔链 / 穿孔链条 / 链式穿孔 / 穿孔饰品 / linked piercings"
+    },
+    {
+      "en": "lip piercing",
+      "zh": "唇钉",
+      "rating": "g",
+      "count": 5252,
+      "desc": "穿过嘴唇的穿刺饰品。",
+      "kw": "嘴唇穿刺 / 唇环 / 嘴钉 / 下唇钉 / 唇部穿孔 / 唇穿孔 / 穿孔 / 饰品"
+    },
+    {
+      "en": "lip ring",
+      "zh": "唇环",
+      "rating": "g",
+      "count": 556,
+      "desc": "唇部穿刺后佩戴的环形饰物",
+      "kw": "嘴唇环 / 唇钉环 / 唇部环饰 / 唇穿刺环 / 嘴环 / 唇部穿刺环 / 唇部饰品 / 穿孔饰品"
+    },
+    {
+      "en": "magatama earrings",
+      "zh": "勾玉耳环",
+      "rating": "g",
+      "count": 2250,
+      "desc": "勾玉形状的耳环",
+      "kw": "勾玉耳饰 / 勾玉耳坠 / 曲玉耳环 / 勾玉耳钉 / 勾玉耳环饰品 / 耳环 / 首饰 / 日本风 / magatama earring"
+    },
+    {
+      "en": "military rank insignia",
+      "zh": "军衔徽章",
+      "rating": "g",
+      "count": 1474,
+      "desc": "标示军人军衔等级的徽章。",
+      "kw": "军衔章 / 军阶徽章 / 军阶章 / 军衔标志 / 军衔领章 / 军衔肩章 / 军衔臂章 / 军衔等级标志 / 阶级章 / 階級章"
+    },
+    {
+      "en": "mismatched ear covers",
+      "zh": "左右不同的耳罩",
+      "rating": "g",
+      "count": 1566,
+      "desc": "所戴耳罩左右颜色或设计不同",
+      "kw": "不对称耳罩 / 两只不同耳罩 / 异耳罩 / 左右耳罩不同 / 双色耳罩 / 不同颜色耳罩 / 混搭耳罩 / 耳饰"
+    },
+    {
+      "en": "mismatched earrings",
+      "zh": "不对称耳环",
+      "rating": "g",
+      "count": 2142,
+      "desc": "左右耳环颜色或样式不同。",
+      "kw": "耳环不匹配 / 左右耳环不同 / 异色耳环 / 不对称耳饰 / 耳环 / 配饰 / 首饰 / asymmetrical earrings"
+    },
+    {
+      "en": "moon (ornament)",
+      "zh": "月亮装饰",
+      "rating": "g",
+      "count": 2624,
+      "desc": "月亮形状的装饰物",
+      "kw": "月牙装饰 / 月亮饰品 / 月形装饰 / 月牙饰品 / 月亮挂饰 / 月形摆件 / 月牙挂件 / 饰品"
+    },
+    {
+      "en": "mouth piercing",
+      "zh": "嘴部穿孔",
+      "rating": "g",
+      "count": 2236,
+      "desc": "嘴唇或嘴部周围的穿孔饰品",
+      "kw": "唇环 / 口部穿孔 / 嘴环 / 唇钉 / 嘴钉 / 口部穿环 / 嘴唇穿孔 / 穿孔"
+    },
+    {
+      "en": "multicolored buttons",
+      "zh": "多色纽扣",
+      "rating": "g",
+      "count": 914,
+      "desc": "颜色各异的纽扣。",
+      "kw": "彩色纽扣 / 多色扣子 / 多彩纽扣 / 彩色扣子 / 杂色纽扣 / 五颜六色纽扣 / 各色纽扣 / 纽扣"
+    },
+    {
+      "en": "multiple earrings",
+      "zh": "多个耳环",
+      "rating": "g",
+      "count": 10006,
+      "desc": "同一只耳朵上穿有多个耳环",
+      "kw": "多耳环 / 多耳钉 / 多个耳饰 / 一耳多环 / 双耳多环 / 耳环叠戴 / 多层耳环 / 多枚耳环"
+    },
+    {
+      "en": "multiple piercings",
+      "zh": "多个穿孔",
+      "rating": "g",
+      "count": 5070,
+      "desc": "同一部位佩戴多个穿刺饰品",
+      "kw": "多穿孔 / 多重穿环 / 多孔穿刺 / 多个穿饰 / 多穿刺 / 多个穿刺孔 / 多处穿孔 / 穿孔"
+    },
+    {
+      "en": "musical note earrings",
+      "zh": "音符耳环",
+      "rating": "g",
+      "count": 974,
+      "desc": "音符形状的耳环",
+      "kw": "音符耳饰 / 音符耳坠 / 音乐耳环 / 音符耳钉 / 耳环 / 首饰"
+    },
+    {
+      "en": "name tag",
+      "zh": "姓名牌",
+      "rating": "g",
+      "count": 29950,
+      "desc": "缝在或别在衣服上的姓名标牌",
+      "kw": "名牌 / 姓名标牌 / 名字牌 / 姓名标签 / 名签 / 名札 / 文字 / 胸牌 / nametag / 名札 / ネームプレート / ネーム"
+    },
+    {
+      "en": "navel piercing",
+      "zh": "脐钉",
+      "rating": "s",
+      "count": 20138,
+      "desc": "在肚脐上打孔佩戴饰品",
+      "kw": "肚脐环 / 脐环 / 肚脐钉 / 肚脐穿环 / 肚脐穿刺 / 脐部穿孔 / 穿脐环 / bellybutton piercing / navel ring / へそピアス / 臍ピアス"
+    },
+    {
+      "en": "navel piercings",
+      "zh": "肚脐钉(多个)",
+      "rating": "s"
+    },
+    {
+      "en": "nipple jewelry",
+      "zh": "乳头首饰",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1920,
+      "desc": "挂在乳头上的装饰性首饰，如链子、宝石等。",
+      "kw": "乳头装饰 / 乳饰 / 乳头挂饰 / 乳头链 / 乳环饰品 / 乳头饰品 / 乳环 / 身体饰品"
+    },
+    {
+      "en": "no earrings",
+      "zh": "没有耳环",
+      "rating": "g",
+      "count": 377,
+      "desc": "常戴耳环的角色没有戴耳环",
+      "kw": "未戴耳环 / 不戴耳环 / 没戴耳环 / 摘掉耳环 / 无耳环 / 耳环不见了 / 缺少耳环 / 首饰"
+    },
+    {
+      "en": "nose piercing",
+      "zh": "鼻部穿孔",
+      "rating": "g",
+      "count": 5758,
+      "desc": "在鼻部打孔的穿孔，含鼻中隔与鼻翼。",
+      "kw": "鼻环 / 鼻钉 / 鼻子穿孔 / 鼻翼穿孔 / 鼻中隔穿孔 / 鼻孔环 / 鼻穿刺 / 首饰 / 鼻轮 / 鼻輪 / 鼻環"
+    },
+    {
+      "en": "nose ring",
+      "zh": "鼻环",
+      "rating": "g",
+      "count": 2388,
+      "desc": "佩戴在鼻部穿孔上的环状饰品",
+      "kw": "鼻钉 / 鼻环饰品 / 穿鼻环 / 牛鼻环 / 配饰 / 首饰 / septum piercing / 鼻轮 / 鼻輪"
+    },
+    {
+      "en": "pankou",
+      "zh": "盘扣",
+      "rating": "g",
+      "count": 1656,
+      "desc": "中式服装上使用的布制盘花纽扣。",
+      "kw": "盘花扣 / 盘纽 / 花纽 / 中国结扣 / 唐装扣 / 旗袍扣 / 青蛙扣 / 盘花纽 / frog button / chinese knot button / 盘花纽"
+    },
+    {
+      "en": "parallel piercings",
+      "zh": "平行穿孔",
+      "rating": "g",
+      "count": 2963,
+      "desc": "两个以上互相平行的穿孔",
+      "kw": "平行穿刺 / 平行穿环 / 并列穿孔 / 双排穿孔 / 平行耳洞 / 穿孔 / 对称穿孔"
+    },
+    {
+      "en": "pearl earrings",
+      "zh": "珍珠耳环",
+      "rating": "g",
+      "count": 6880,
+      "desc": "镶有珍珠的耳环",
+      "kw": "珍珠耳饰 / 珠耳环 / 珍珠耳坠 / 珍珠耳钉 / 珠耳坠 / 耳环 / 珍珠饰品"
+    },
+    {
+      "en": "pendant earrings",
+      "zh": "吊坠耳环",
+      "rating": "g",
+      "count": 783,
+      "desc": "呈垂坠吊坠形状的耳环",
+      "kw": "坠式耳环 / 垂坠耳环 / 耳坠 / 坠耳环 / 吊耳环 / 长耳环 / 吊坠耳饰 / 链坠耳环 / pendant earring"
+    },
+    {
+      "en": "pendant watch",
+      "zh": "吊坠手表",
+      "rating": "g",
+      "count": 947,
+      "desc": "像吊坠一样挂在脖子上的表",
+      "kw": "挂表吊坠 / 项链手表 / 怀表吊坠 / 挂脖手表 / 配饰 / 首饰 / 怀表"
+    },
+    {
+      "en": "penis piercing",
+      "zh": "阴茎穿孔",
+      "rating": "q",
+      "nsfw": true,
+      "count": 740,
+      "desc": "在阴茎上打孔佩戴饰钉",
+      "kw": "阴茎穿刺 / 阴茎打孔 / 丁丁穿孔 / 阴部穿孔 / 阴茎饰钉 / 身体改造 / 穿孔"
+    },
+    {
+      "en": "penis ribbon",
+      "zh": "阴茎丝带",
+      "rating": "q",
+      "nsfw": true,
+      "count": 639,
+      "desc": "阴茎上缠着丝带，常见于伪娘",
+      "kw": "丁丁丝带 / 鸡巴丝带 / 肉棒丝带 / 小鸡丝带 / 阳具丝带 / 阴茎系带 / 成人 / 装饰 / ちんちんリボン"
+    },
+    {
+      "en": "piercing through clothes",
+      "zh": "隔衣穿孔",
+      "rating": "q",
+      "nsfw": true,
+      "count": 539,
+      "desc": "穿孔饰品同时穿过衣物和身体",
+      "kw": "隔衣穿刺 / 穿透衣物穿孔 / 穿孔穿过衣物 / 衣物穿刺 / 隔衣服穿孔 / 穿刺衣物 / 穿透衣服的穿孔 / 穿刺"
+    },
+    {
+      "en": "pill earrings",
+      "zh": "药丸耳环",
+      "rating": "g",
+      "count": 1494,
+      "desc": "药丸或胶囊形状的耳环",
+      "kw": "药丸形耳环 / 胶囊耳环 / 药片耳环 / 药丸耳坠 / 药丸状耳饰 / 药丸耳钉 / 耳环 / 首饰"
+    },
+    {
+      "en": "planet earrings",
+      "zh": "行星耳环",
+      "rating": "g",
+      "count": 674,
+      "desc": "形似行星的耳环",
+      "kw": "星球耳环 / 行星耳坠 / 星球耳坠 / 行星耳饰 / 星球耳饰 / 土星耳环 / 耳环 / 首饰"
+    },
+    {
+      "en": "plug (piercing)",
+      "zh": "耳扩",
+      "rating": "g",
+      "count": 1354,
+      "desc": "直径较大的圆柱形穿刺饰品，可扩开耳垂等部位",
+      "kw": "扩孔穿刺塞 / 扩孔耳钉 / 扩耳器 / 耳洞扩大器 / 隧道耳环 / 扩孔饰品 / 扩耳 / 耳饰 / gauge (piercing)"
+    },
+    {
+      "en": "police badge",
+      "zh": "警察徽章",
+      "rating": "g",
+      "count": 2455,
+      "desc": "象征警察身份的徽章",
+      "kw": "警徽 / 警官徽章 / 警员徽章 / 警察证章 / 警徽章 / 警察胸章 / 徽章 / 配饰"
+    },
+    {
+      "en": "pom pom earrings",
+      "zh": "绒球耳环",
+      "rating": "g",
+      "count": 1785,
+      "desc": "用绒球做成或模仿绒球造型的耳环。",
+      "kw": "毛球耳环 / 绒球耳饰 / 球球耳环 / 毛绒球耳环 / 绒线球耳环 / 毛绒耳环 / 毛球耳坠 / 耳环"
+    },
+    {
+      "en": "popped button",
+      "zh": "绷开的纽扣",
+      "rating": "s",
+      "count": 1572,
+      "desc": "因衣服太紧或胸部过大而绷开的纽扣",
+      "kw": "纽扣崩开 / 扣子崩开 / 纽扣绷开 / 扣子弹开 / 衣服绷开 / 纽扣飞出 / 扣子绷开 / 纽扣爆开 / popped buttons / button pop / ボタン飛ばし"
+    },
+    {
+      "en": "potara earrings",
+      "zh": "波塔拉耳环",
+      "rating": "g",
+      "count": 2415,
+      "desc": "《龙珠》中界王神佩戴、可用于合体的耳环",
+      "kw": "合体耳环 / 界王神耳环 / 波特拉耳环 / 坡塔拉耳环 / 波塔拉合体耳环 / 巴特拉耳环 / 耳环 / 首饰 / ポタラ / ポタライヤリング / ポタラ合体"
+    },
+    {
+      "en": "purity seal",
+      "zh": "纯洁封印",
+      "rating": "g",
+      "count": 560,
+      "desc": "贴在盔甲或武器上的蜡封印记，表示纯洁。",
+      "kw": "纯洁印记 / 净化封印 / 圣洁封印 / 蜡封印记 / 纯洁蜡封 / 封印 / 圣物 / 战锤"
+    },
+    {
+      "en": "pussy piercing",
+      "zh": "阴部穿孔",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2937,
+      "desc": "阴蒂或阴唇等私处穿孔",
+      "kw": "阴道穿孔 / 阴蒂穿孔 / 阴唇穿孔 / 私处穿孔 / 下体穿孔 / 穴环 / 穿孔 / 阴部穿刺"
+    },
+    {
+      "en": "rabbit earrings",
+      "zh": "兔子耳环",
+      "rating": "g",
+      "count": 505,
+      "desc": "带兔子装饰的耳环",
+      "kw": "兔耳环 / 兔子耳饰 / 小兔耳环 / 兔兔耳环 / 兔子造型耳环 / 耳环 / 配饰 / 首饰 / bunny earrings"
+    },
+    {
+      "en": "rabbit ornament",
+      "zh": "兔子装饰",
+      "rating": "g",
+      "count": 773,
+      "desc": "兔子造型或兔子主题的装饰品。",
+      "kw": "兔子饰品 / 兔兔装饰 / 兔耳装饰 / 兔形装饰 / 小兔子装饰 / 兔子挂饰 / 兔子摆件 / 饰品 / bunny ornament"
+    },
+    {
+      "en": "rectangular earrings",
+      "zh": "长方形耳环",
+      "rating": "g",
+      "count": 760,
+      "desc": "外形为长方形或方柱状的耳环",
+      "kw": "矩形耳环 / 方柱耳环 / 长条耳环 / 方块耳环 / 方型耳环 / 配饰 / 首饰"
+    },
+    {
+      "en": "red bandage",
+      "zh": "红色绷带",
+      "rating": "g",
+      "count": 694,
+      "desc": "缠绕在伤口或身体部位的红色绷带。",
+      "kw": "红绷带 / 红色绑带 / 红色医疗绷带 / 赤色绷带 / 鲜红绷带 / 绷带 / 医疗"
+    },
+    {
+      "en": "red buttons",
+      "zh": "红色纽扣",
+      "rating": "g",
+      "count": 846,
+      "desc": "衣物上的红色纽扣。不要与大型红色按钮混淆。",
+      "kw": "服装配件 / 纽扣 / 红色衣服装饰"
+    },
+    {
+      "en": "ribbon bar",
+      "zh": "勋表",
+      "rating": "g",
+      "count": 506,
+      "desc": "军警制服胸前佩戴的彩色勋表条",
+      "kw": "勋条 / 勋略 / 略章 / 勋略章 / 勋章略章 / 彩色勋条 / 军服勋表 / 奖章勋表"
+    },
+    {
+      "en": "ribbon earrings",
+      "zh": "缎带耳环",
+      "rating": "g",
+      "count": 1210,
+      "desc": "带有缎带或丝带装饰的耳环。",
+      "kw": "丝带耳环 / 蝴蝶结耳环 / 飘带耳环 / 缎带耳饰 / 带缎带的耳环 / 布条耳环 / 彩带耳环 / 缎带坠耳环"
+    },
+    {
+      "en": "ribbon of saint george",
+      "zh": "圣乔治丝带",
+      "rating": "g",
+      "count": 165,
+      "desc": "黑橙条纹的俄罗斯军事纪念丝带",
+      "kw": "圣乔治绶带 / 圣乔治勋章带 / 乔治丝带 / 黑橙条纹丝带 / 俄罗斯军符 / 黑橙丝带"
+    },
+    {
+      "en": "ring piercing",
+      "zh": "环状穿刺",
+      "rating": "g",
+      "count": 9291,
+      "desc": "呈闭合环状的穿刺饰品",
+      "kw": "圆环穿刺 / 环形穿刺 / 环状饰品 / 圆形穿刺 / 环穿 / 环形穿孔 / 穿孔 / 饰品"
+    },
+    {
+      "en": "safety pin",
+      "zh": "安全别针",
+      "rating": "g",
+      "count": 5128,
+      "desc": "带弹簧扣的安全别针",
+      "kw": "别针 / 保险别针 / 扣针 / 安全扣针 / 弹簧别针 / 锁针 / 配饰 / 固定器 / 回形针 / 安全ピン"
+    },
+    {
+      "en": "septum piercing",
+      "zh": "鼻中隔穿刺",
+      "rating": "g",
+      "count": 515,
+      "desc": "穿在鼻孔之间鼻中隔上的环状穿孔饰品",
+      "kw": "鼻中隔穿孔 / 鼻中隔环 / 牛鼻环 / 鼻中隔穿环 / 鼻中隔钉 / 鼻环 / 身体穿孔"
+    },
+    {
+      "en": "shell earrings",
+      "zh": "贝壳耳环",
+      "rating": "g",
+      "count": 894,
+      "desc": "带有贝壳装饰的耳环",
+      "kw": "贝壳耳饰 / 海贝壳耳环 / 螺贝耳环 / 贝壳耳坠 / 耳环 / 首饰 / 配饰 / seashell earring / seashell earrings"
+    },
+    {
+      "en": "sheriff badge",
+      "zh": "警长徽章",
+      "rating": "g",
+      "count": 887,
+      "desc": "警长佩戴的星形金属徽章",
+      "kw": "警徽 / 星形警徽 / 治安官徽章 / 警长星徽 / 警长徽 / 徽章 / 配饰 / 西部风格"
+    },
+    {
+      "en": "silver earrings",
+      "zh": "银耳环",
+      "rating": "g",
+      "count": 1053,
+      "desc": "银色外观的耳环",
+      "kw": "银色耳环 / 银耳饰 / 银色耳饰 / 银制耳环 / 耳环 / 配饰 / 首饰"
+    },
+    {
+      "en": "single blush sticker",
+      "zh": "单个腮红贴",
+      "rating": "g",
+      "count": 2371,
+      "desc": "脸上只贴了一个腮红贴纸",
+      "kw": "单侧腮红贴纸 / 单个腮红贴纸 / 脸颊单个红晕贴 / 腮红贴纸（单个） / 单片腮红贴纸 / 化妆品 / 贴纸"
+    },
+    {
+      "en": "single nipple piercing",
+      "zh": "单侧乳钉",
+      "rating": "q",
+      "nsfw": true,
+      "count": 555,
+      "desc": "只在一侧乳头上戴乳环",
+      "kw": "单侧乳环 / 单乳钉 / 单侧乳头穿孔 / 单边乳环 / 一只乳钉 / 单侧穿环 / 单乳环 / 单侧乳饰"
+    },
+    {
+      "en": "skull brooch",
+      "zh": "骷髅胸针",
+      "rating": "g",
+      "count": 652,
+      "desc": "骷髅造型的胸针",
+      "kw": "头骨胸针 / 骷髅头胸针 / 髑髅胸针 / 死人头胸针 / 胸针 / 首饰 / 哥特风"
+    },
+    {
+      "en": "skull earrings",
+      "zh": "骷髅耳环",
+      "rating": "g",
+      "count": 3538,
+      "desc": "骷髅造型的一对耳环",
+      "kw": "骷髅耳饰 / 骷髅耳钉 / 骷髅耳坠 / 耳环 / 首饰 / skull earring"
+    },
+    {
+      "en": "skull ornament",
+      "zh": "骷髅装饰",
+      "rating": "g",
+      "count": 2665,
+      "desc": "骷髅形状的装饰品",
+      "kw": "骷髅饰品 / 骷髅装饰品 / 头骨饰品 / 颅骨装饰 / 骷髅头饰物 / 骷髅挂件 / 饰品 / 哥特"
+    },
+    {
+      "en": "snake earrings",
+      "zh": "蛇耳环",
+      "rating": "g",
+      "count": 1993,
+      "desc": "蛇形耳环，常见于波雅·汉库克。",
+      "kw": "蛇形耳环 / 蛇耳饰 / 蛇形耳坠 / 金蛇耳环 / 蛇造型耳环 / 耳环 / 首饰"
+    },
+    {
+      "en": "snakebite (piercing)",
+      "zh": "蛇咬唇钉",
+      "rating": "g",
+      "count": 660,
+      "desc": "下唇两侧对称穿孔的一种唇钉",
+      "kw": "蛇咬钉 / 双下唇钉 / 蛇咬唇环 / 蛇咬穿环 / 唇钉 / 穿孔 / 饰品"
+    },
+    {
+      "en": "snowflake earrings",
+      "zh": "雪花耳环",
+      "rating": "g",
+      "count": 599,
+      "desc": "雪花形状的耳环",
+      "kw": "雪花耳饰 / 雪花耳坠 / 雪花耳钉 / 雪花耳坠子 / 耳环 / 首饰 / 配饰 / snowflake earring"
+    },
+    {
+      "en": "snowflake ornament",
+      "zh": "雪花装饰",
+      "rating": "g",
+      "count": 519,
+      "desc": "雪花形状的装饰品",
+      "kw": "雪花饰品 / 雪花装饰品 / 雪花挂件 / 雪花吊饰 / 雪花饰物 / 雪花造型装饰 / 雪花挂饰 / 饰品"
+    },
+    {
+      "en": "sphere earrings",
+      "zh": "球形耳环",
+      "rating": "g",
+      "count": 9788,
+      "desc": "呈球形的耳环，属耳钉一类",
+      "kw": "球状耳环 / 圆球耳环 / 球型耳环 / 珠子耳环 / 耳环 / 首饰 / 配饰"
+    },
+    {
+      "en": "spiked ear piercing",
+      "zh": "尖刺耳钉",
+      "rating": "g",
+      "count": 2827,
+      "desc": "带尖刺的耳部穿孔饰品",
+      "kw": "尖刺耳环 / 尖刺耳饰 / 带尖刺的耳钉 / 尖刺穿耳 / 尖刺耳部饰品 / 耳环 / 首饰"
+    },
+    {
+      "en": "spr",
+      "zh": "肚脐链",
+      "rating": "s"
+    },
+    {
+      "en": "star brooch",
+      "zh": "星星胸针",
+      "rating": "g",
+      "count": 4299,
+      "desc": "星形主题的胸针",
+      "kw": "星形胸针 / 星型胸针 / 星胸针 / 五角星胸针 / 胸针 / 配饰 / 首饰"
+    },
+    {
+      "en": "star earrings",
+      "zh": "星星耳环",
+      "rating": "g",
+      "count": 21331,
+      "desc": "五角星形状的耳环",
+      "kw": "星形耳环 / 五角星耳环 / 星星耳坠 / 星型耳饰 / 星形耳钉 / 星星耳钉 / 五角星耳饰 / 耳环 / star earring"
+    },
+    {
+      "en": "sun earrings",
+      "zh": "太阳耳环",
+      "rating": "g",
+      "count": 1178,
+      "desc": "太阳形状的耳环",
+      "kw": "太阳耳饰 / 太阳耳坠 / 太阳形状耳环 / 日形耳环 / 太阳耳钉 / 耳环 / 首饰 / 配饰"
+    },
+    {
+      "en": "tail bell",
+      "zh": "尾巴铃铛",
+      "rating": "g",
+      "count": 3577,
+      "desc": "作为装饰挂在尾巴上的铃铛。",
+      "kw": "尾铃 / 尾巴系铃 / 尾上铃铛 / 挂尾铃 / 尾饰铃铛 / 铃铛 / 饰品 / tailbell / tailbells / tail bells"
+    },
+    {
+      "en": "tail belt",
+      "zh": "尾巴腰带",
+      "rating": "g",
+      "count": 621,
+      "desc": "环绕尾巴佩戴的腰带",
+      "kw": "系在尾巴上的腰带 / 尾带 / 绑尾带 / 尾巴上的带子 / 尾巴系带 / 尾部腰带 / 腰带 / 配饰"
+    },
+    {
+      "en": "tail flower",
+      "zh": "尾巴花",
+      "rating": "g",
+      "count": 556,
+      "desc": "挂在角色尾巴上的花朵",
+      "kw": "尾上花 / 尾巴上的花 / 尾部的花 / 尾饰花 / 尾花 / 系尾花 / 尾部花朵 / 尾饰"
+    },
+    {
+      "en": "tail piercing",
+      "zh": "尾巴穿环",
+      "rating": "g",
+      "count": 2772,
+      "desc": "在尾巴上打孔佩戴的穿孔饰品。",
+      "kw": "尾巴穿孔 / 尾钉 / 尾环穿刺 / 尾巴穿刺 / 穿孔 / 饰品"
+    },
+    {
+      "en": "tail ring",
+      "zh": "尾环",
+      "rating": "g",
+      "count": 2785,
+      "desc": "固定在尾巴上的环，或环绕尾尖的小光环。",
+      "kw": "尾巴环 / 尾环饰品 / 尾巴套环 / 尾上环 / 配饰 / 尾巴饰品"
+    },
+    {
+      "en": "tassel earrings",
+      "zh": "流苏耳环",
+      "rating": "g",
+      "count": 16566,
+      "desc": "下端垂挂流苏的耳饰",
+      "kw": "流苏耳饰 / 穗子耳环 / 流苏坠耳环 / 流苏耳坠 / 穗耳环 / 长流苏耳环 / 耳环 / 首饰"
+    },
+    {
+      "en": "teardrop earrings",
+      "zh": "水滴形耳环",
+      "rating": "g",
+      "count": 5623,
+      "desc": "泪滴形状的耳环",
+      "kw": "水滴耳环 / 泪滴耳环 / 泪珠耳环 / 水滴耳坠 / 水滴型耳环 / 水滴状耳环 / 泪滴形耳环 / 水珠耳环 / tear drop earrings / droplet earrings"
+    },
+    {
+      "en": "tied drawstring",
+      "zh": "系起的抽绳",
+      "rating": "g",
+      "count": 579,
+      "desc": "已系好的抽绳，勿与颈部缎带混淆",
+      "kw": "系好的抽绳 / 打结抽绳 / 抽绳系起 / 系带 / 抽绳打结 / 绑好的抽绳 / 绑着的抽绳 / 抽绳"
+    },
+    {
+      "en": "tongue piercing",
+      "zh": "舌钉",
+      "rating": "g",
+      "count": 7508,
+      "desc": "穿过舌头的穿孔",
+      "kw": "舌环 / 舌头穿孔 / 穿舌 / 舌部穿孔 / 打舌钉 / 穿孔饰品 / 配饰 / 舌ピアス"
+    },
+    {
+      "en": "tooth earrings",
+      "zh": "牙齿耳环",
+      "rating": "g",
+      "count": 1135,
+      "desc": "牙齿或仿牙形状的耳环。",
+      "kw": "牙齿形状耳环 / 牙形耳环 / 兽牙耳环 / 骨牙耳环 / 尖牙耳饰 / 耳环 / 首饰 / 配饰"
+    },
+    {
+      "en": "transformation brooch (sailor moon)",
+      "zh": "变身胸针（美少女战士）",
+      "rating": "g",
+      "count": 678,
+      "desc": "《美少女战士》中月野兔的变身胸针。",
+      "kw": "美少女战士变身胸针 / 月野兔变身胸针 / 水手月亮变身胸针 / 银水晶胸针 / 变身胸针 (美少女战士) / 变身道具 / 胸针"
+    },
+    {
+      "en": "triangle earrings",
+      "zh": "三角耳环",
+      "rating": "g",
+      "count": 7079,
+      "desc": "三角形形状的耳环",
+      "kw": "三角形耳环 / 三角耳饰 / 三角耳坠 / 耳环 / 配饰 / 首饰"
+    },
+    {
+      "en": "unworn jewelry",
+      "zh": "未戴的首饰",
+      "rating": "g",
+      "count": 1321,
+      "desc": "画面中出现但无人佩戴的首饰",
+      "kw": "摘下的首饰 / 脱下的首饰 / 未佩戴的首饰 / 放置的首饰 / 散落的首饰 / 摘掉的首饰 / 首饰 / 饰品 / jewelry removed"
+    },
+    {
+      "en": "wing brooch",
+      "zh": "翼胸针",
+      "rating": "g",
+      "count": 2023,
+      "desc": "翅膀造型的胸针",
+      "kw": "翅膀胸针 / 羽翼胸针 / 翼形胸针 / 翅膀别针 / 天使翅膀胸针 / 飞翼胸针 / 翼饰胸针 / 胸针"
+    },
+    {
+      "en": "wing ornament",
+      "zh": "翅膀装饰",
+      "rating": "g",
+      "count": 10284,
+      "desc": "佩戴在翅膀上的装饰物。",
+      "kw": "翅膀饰品 / 羽翼装饰 / 翼部装饰 / 翅膀挂饰 / 饰品 / 翼饰 / wing decorations"
+    },
+    {
+      "en": "yin yang pin",
+      "zh": "阴阳鱼别针",
+      "rating": "g",
+      "count": 532,
+      "desc": "阴阳鱼（太极）图案的别针或徽章",
+      "kw": "阴阳别针 / 太极别针 / 太极鱼别针 / 阴阳徽章 / 太极徽章 / 阴阳发夹 / 中国风 / 发饰"
+    },
+    {
+      "en": "nipple piercing",
+      "zh": "乳头穿孔",
+      "rating": "q",
+      "nsfw": true,
+      "count": 25029,
+      "desc": "穿过乳头的穿孔，常见乳钉或乳环。",
+      "kw": "乳钉 / 乳环 / 穿乳环 / 穿乳钉 / 乳头穿刺 / 乳头打洞 / 乳首穿刺 / 身体穿孔 / pierced nipples / nipple piercings / piercednipples / 乳首ピアス"
+    },
+    {
+      "en": "areola piercing",
+      "zh": "乳晕穿孔",
+      "rating": "q",
+      "nsfw": true,
+      "count": 289,
+      "desc": "穿过乳晕而非乳头的穿孔",
+      "kw": "乳晕环 / 乳晕饰钉 / 乳晕打孔 / 晕部穿刺 / 穿孔饰品 / 身体穿刺"
+    },
+    {
+      "en": "nipple rings",
+      "zh": "乳环",
+      "rating": "q",
+      "nsfw": true,
+      "count": 6443,
+      "desc": "在乳头上形成闭合环形的乳环",
+      "kw": "乳头环 / 乳首环 / 乳头圈 / 首饰 / 穿环 / nipple ring"
+    },
+    {
+      "en": "nipple chain",
+      "zh": "乳头链",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1525,
+      "desc": "连接两侧乳钉的链子",
+      "kw": "乳链 / 乳头环链 / 乳环链 / 乳头饰链 / 奶头链 / 乳夹 / SM"
+    },
+    {
+      "en": "pelt",
+      "zh": "毛皮",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1558,
+      "desc": "死去动物带毛的整张皮",
+      "kw": "动物毛皮 / 整张兽皮 / 皮毛 / 兽毛皮 / 带毛兽皮 / 材质 / animal pelt"
+    }
+  ]
+}

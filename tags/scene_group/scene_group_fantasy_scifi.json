@@ -1,0 +1,580 @@
+{
+  "id": "fantasy_scifi",
+  "name": "奇幻科幻",
+  "icon": "🏰",
+  "parentId": "scene_group",
+  "level": 2,
+  "order": 4,
+  "file": "scene_group/scene_group_fantasy_scifi.json",
+  "updatedAt": "2026-11-18T05:36:30.210Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "shrine",
+      "zh": "神社",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6363,
+      "desc": "神道教的参拜场所，含路边小神社",
+      "kw": "神道神社 / 小神社 / 建筑 / 日本风格 / jinja"
+    },
+    {
+      "en": "spaceship interior",
+      "zh": "飞船内部",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "ruins",
+      "zh": "废墟",
+      "rating": "g",
+      "nsfw": false,
+      "count": 15277,
+      "desc": "因废弃而破败的人造建筑，常见于末世题材。",
+      "kw": "遗迹 / 废墟遗址 / 残垣断壁 / 荒废建筑 / 废弃建筑 / 破败建筑 / 遗构 / 废址 / ruin / 廃墟"
+    },
+    {
+      "en": "temple",
+      "zh": "寺庙",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1316,
+      "desc": "除教堂、清真寺、神社等以外的宗教礼拜建筑",
+      "kw": "庙宇 / 寺院 / 佛寺 / 道观 / 宫观 / 神殿 / 庙 / 寺 / 堂塔 / 神社"
+    },
+    {
+      "en": "castle",
+      "zh": "城堡",
+      "rating": "g",
+      "nsfw": false,
+      "count": 10775,
+      "desc": "有厚墙和塔楼的设防大型建筑",
+      "kw": "古堡 / 要塞 / 城郭 / 堡垒 / 建筑 / 背景 / 城"
+    },
+    {
+      "en": "palace",
+      "zh": "宫殿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 314,
+      "desc": "王室/贵族居住的宏伟建筑。",
+      "kw": "王宫 / 皇宫 / 宫 / 宫殿建筑 / 大宫殿 / 建筑 / 宮殿"
+    },
+    {
+      "en": "cyberpunk city",
+      "zh": "赛博城市",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "futuristic city",
+      "zh": "未来都市",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "magic circle",
+      "zh": "魔法阵",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13338,
+      "desc": "绘有文字、符号或几何图形的魔法阵，常用于施法",
+      "kw": "魔法阵图 / 魔法圆阵 / 法阵 / 咒术阵 / 魔法圈 / 魔法円 / 魔法 / magical circle / magical circles / magic circles / mahoujin"
+    },
+    {
+      "en": "outer space",
+      "zh": "外太空",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "planet",
+      "zh": "行星",
+      "rating": "g",
+      "nsfw": false,
+      "count": 14945,
+      "desc": "从太空或邻近星球表面看到的行星",
+      "kw": "星球 / 外星球 / 类地行星 / 气态巨行星 / 系外行星 / 天体 / 宇宙 / planets / 惑星"
+    },
+    {
+      "en": "galaxy",
+      "zh": "银河",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2062,
+      "desc": "由恒星、行星和尘埃靠引力聚集的星系",
+      "kw": "银河系 / 恒星系 / 星团 / 宇宙星系 / 星河 / 宇宙 / galaxies / 銀河"
+    },
+    {
+      "en": "floating island",
+      "zh": "浮空岛",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1782,
+      "desc": "漂浮在天空中的自然陆地",
+      "kw": "漂浮岛 / 空中浮岛 / 浮游岛 / 悬空岛 / 幻想 / 风景 / 浮島"
+    },
+    {
+      "en": "floating city",
+      "zh": "空中城市",
+      "rating": "g",
+      "nsfw": false,
+      "count": 210,
+      "desc": "建在浮空岛或漂浮在空中的城市。",
+      "kw": "浮动城市 / 漂浮城市 / 浮游城市 / 天空城 / 悬浮城市 / 科幻 / 建筑"
+    },
+    {
+      "en": "floating castle",
+      "zh": "浮空城",
+      "rating": "g",
+      "nsfw": false,
+      "count": 197,
+      "desc": "建在浮空岛上或整体悬空的城堡",
+      "kw": "浮动城堡 / 天空之城 / 空中城堡 / 悬浮城堡 / 城堡 / 幻想建筑"
+    },
+    {
+      "en": "megastructure",
+      "zh": "巨型结构",
+      "rating": "g",
+      "nsfw": false,
+      "count": 267,
+      "desc": "规模极其庞大的巨型人工建筑或天体级构造",
+      "kw": "巨大构造物 / 超级建筑 / 巨型建筑 / 泰坦结构 / 建筑 / 科幻 / メガストラクチャー"
+    },
+    {
+      "en": "space elevator",
+      "zh": "太空电梯",
+      "rating": "g",
+      "nsfw": false,
+      "count": 127,
+      "desc": "从地面直达太空的电梯系统",
+      "kw": "空间电梯 / 轨道电梯 / 天梯 / 宇宙电梯 / 通天电梯 / 科幻 / 太空设施 / 建筑 / orbital elevator"
+    },
+    {
+      "en": "stonehenge turret network",
+      "zh": "巨石阵炮台网络（皇牌空战）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 19
+    },
+    {
+      "en": "kame house",
+      "zh": "龟仙屋",
+      "rating": "g",
+      "nsfw": false,
+      "count": 84,
+      "desc": "《龙珠》中龟仙人居住的小岛小屋",
+      "kw": "龟仙人屋 / 龟仙人的房子 / 龟仙人的家"
+    },
+    {
+      "en": "namek",
+      "zh": "那美克星",
+      "rating": "g",
+      "nsfw": false,
+      "count": 114,
+      "desc": "《龙珠》中那美克星人的故乡星球。",
+      "kw": "那美克星球 / 新那美克星 / 娜美克星 / 那美克星人 / 龙珠 / 绿色行星"
+    },
+    {
+      "en": "seitei jujiryou",
+      "zh": "圣帝十字陵（北斗神拳）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13
+    },
+    {
+      "en": "aincrad",
+      "zh": "艾恩葛朗特（刀剑神域）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 74,
+      "desc": "《刀剑神域》中的浮游城，需展现城堡外部",
+      "kw": "浮游城艾恩葛朗特 / SAO的城堡 / 空中城堡 / 浮游城 / 阿恩葛朗特"
+    },
+    {
+      "en": "tower of salvation (tales)",
+      "zh": "救赎之塔（传说系列）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12
+    },
+    {
+      "en": "chireiden",
+      "zh": "地灵殿",
+      "rating": "g",
+      "nsfw": false,
+      "count": 304,
+      "desc": "《东方地灵殿》中的地灵殿场景。",
+      "kw": "东方地灵殿 / 旧地狱地灵殿 / 古明地觉的住所 / 东方Project地灵殿 / 东方Project / 建筑 / 地霊殿"
+    },
+    {
+      "en": "divine spirit mausoleum",
+      "zh": "梦殿大祀庙（东方Project）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50,
+      "desc": "东方神灵庙中的地点，丰聪耳神子之墓。",
+      "kw": "神灵庙 / 神圣灵庙 / 神子陵墓 / 东方神灵庙地点 / 丰聪耳神子墓 / yumedono daishibyou"
+    },
+    {
+      "en": "eientei",
+      "zh": "永远亭（东方Project）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 169,
+      "desc": "东方project中的月人宅邸",
+      "kw": "东方永远亭 / 东方Project / 幻想乡 / 月之都"
+    },
+    {
+      "en": "forest of magic",
+      "zh": "魔法森林（东方Project）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 108,
+      "desc": "《东方Project》中的魔法森林",
+      "kw": "东方魔法森林 / 幻想乡魔法森林 / 魔法森林 (东方Project) / 东方Project / 幻想场景"
+    },
+    {
+      "en": "former capital",
+      "zh": "旧都（东方Project）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 50,
+      "desc": "东方Project中旧地狱的城镇",
+      "kw": "旧地狱旧都 / 旧都街道"
+    },
+    {
+      "en": "garden of the sun",
+      "zh": "太阳花田",
+      "rating": "g",
+      "nsfw": false,
+      "count": 231,
+      "desc": "东方Project中风见幽香守护的巨大向日葵田",
+      "kw": "向日葵田 / 向日葵畑 / 太阳之田 / 太阳的田野 / 阳光花园 / 风见幽香的花田 / 东方Project / 场景 / 太陽の畑"
+    },
+    {
+      "en": "hakugyokurou",
+      "zh": "白玉楼（东方Project）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 272,
+      "desc": "东方Project中冥界的白玉楼，幽幽子和妖梦的住所。",
+      "kw": "冥界白玉楼 / 东方白玉楼 / 西行寺家 / 幽幽子住所 / 东方Project / 幻想建筑"
+    },
+    {
+      "en": "hakurei shrine",
+      "zh": "博丽神社",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1286,
+      "desc": "东方Project中灵梦居住的神社。",
+      "kw": "博麗神社 / 灵梦的神社 / 东方博丽神社 / 幻想乡博丽神社 / 神社 / 日本风 / 东方"
+    },
+    {
+      "en": "hokkai",
+      "zh": "法界（东方Project）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 36
+    },
+    {
+      "en": "kourindou",
+      "zh": "香霖堂",
+      "rating": "g",
+      "nsfw": false,
+      "count": 480,
+      "desc": "《东方Project》森近霖之助的古道具店香霖堂",
+      "kw": "森近霖之助的店 / 古道具店香霖堂 / 东方香霖堂 / 东方 / 店铺"
+    },
+    {
+      "en": "makai (touhou)",
+      "zh": "魔界（东方Project）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 86,
+      "desc": "东方Project中由神绮统治的恶魔世界。",
+      "kw": "魔界 / 东方魔界 / 东方Project魔界"
+    },
+    {
+      "en": "misty lake",
+      "zh": "雾之湖",
+      "rating": "g",
+      "nsfw": false,
+      "count": 257,
+      "desc": "《东方Project》中的湖泊",
+      "kw": "雾湖 / 雾之湖（东方） / 东方雾之湖 / 雾之湖区域 / 东方Project / 场景 / 霧の湖"
+    },
+    {
+      "en": "moriya shrine",
+      "zh": "守矢神社",
+      "rating": "g",
+      "nsfw": false,
+      "count": 275,
+      "desc": "《东方Project》中东风谷早苗所在的守矢神社",
+      "kw": "守矢社 / 东方守矢神社 / 泄矢神社 / 守矢神社（东方） / 东方守矢社 / 神社 / 日本风"
+    },
+    {
+      "en": "myouren temple",
+      "zh": "命莲寺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 144,
+      "desc": "东方Project中的佛教寺院命莲寺",
+      "kw": "东方命莲寺 / 命莲寺庙 / 命莲寺（东方Project） / 命莲寺场景 / 东方Project / 寺庙"
+    },
+    {
+      "en": "nameless hill",
+      "zh": "无名之丘",
+      "rating": "g",
+      "nsfw": false,
+      "count": 47
+    },
+    {
+      "en": "palanquin ship",
+      "zh": "圣辇船",
+      "rating": "g",
+      "nsfw": false,
+      "count": 315,
+      "desc": "《东方Project》中白莲创造的飞行船。",
+      "kw": "聖輦船 / 圣辇 / 圣輦 / 东方圣辇船 / 船娘 / 幻想船"
+    },
+    {
+      "en": "scarlet devil mansion",
+      "zh": "红魔馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2382,
+      "desc": "《东方Project》中的西式洋馆，位于雾之湖畔。",
+      "kw": "红魔公馆 / 红魔洋馆 / 红魔邸 / 斯卡雷特宅邸 / 红魔馆别墅 / 东方Project / 建筑 / 紅魔館"
+    },
+    {
+      "en": "shining needle castle",
+      "zh": "辉针城",
+      "rating": "g",
+      "nsfw": false,
+      "count": 145,
+      "desc": "《东方辉针城》中的舞台，一座被逆转的针之城。",
+      "kw": "东方辉针城 / 逆转的针之城 / 东方辉针城地点 / 辉针城（东方） / 东方Project / 幻想"
+    },
+    {
+      "en": "voile",
+      "zh": "伏瓦鲁魔法图书馆",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1107,
+      "desc": "东方Project中红魔馆的魔法图书馆，常称为伏瓦鲁图书馆",
+      "kw": "巴瓦鲁魔法图书馆 / 伏瓦鲁图书馆 / 巴瓦鲁图书馆 / 瓦鲁魔法图书馆 / 红魔馆图书馆 / 帕秋莉的图书馆 / 帕秋莉图书馆 (Voile) / 东方Project"
+    },
+    {
+      "en": "youkai mountain",
+      "zh": "妖怪之山（东方Project）",
+      "rating": "g",
+      "nsfw": false,
+      "count": 99,
+      "desc": "东方Project中妖怪居住的山",
+      "kw": "妖怪山 / 妖怪之岳 / 妖怪山岳"
+    },
+    {
+      "en": "space",
+      "zh": "太空",
+      "rating": "g",
+      "nsfw": false,
+      "count": 25200,
+      "desc": "以宇宙太空为背景的场景",
+      "kw": "宇宙 / 外太空 / 星际 / 宇宙空间 / 太空背景 / 外层空间 / 地点 / 科技 / outer space"
+    },
+    {
+      "en": "asteroid",
+      "zh": "小行星",
+      "rating": "g",
+      "nsfw": false,
+      "count": 898,
+      "desc": "环绕恒星运行、没有大气的小天体",
+      "kw": "小惑星 / 微型行星 / 小行星体 / 地点 / 天体 / 小行星带"
+    },
+    {
+      "en": "in orbit",
+      "zh": "轨道上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 840,
+      "desc": "以天体轨道为背景的场景。",
+      "kw": "卫星轨道 / 行星轨道 / 太空轨道 / 绕轨 / 轨道飞行 / 在轨 / 太空 / orbit"
+    },
+    {
+      "en": "space station",
+      "zh": "空间站",
+      "rating": "g",
+      "nsfw": false,
+      "count": 616,
+      "desc": "太空中的人造设施",
+      "kw": "太空站 / 宇宙空间站 / 航天站 / 太空基地 / 轨道站 / 科幻 / 太空 / 宇宙ステーション"
+    },
+    {
+      "en": "underwater city",
+      "zh": "海底城市",
+      "rating": "g",
+      "nsfw": false,
+      "count": 145,
+      "desc": "位于水下的城市",
+      "kw": "水下都市 / 海底都市 / 深海城市 / 科幻"
+    },
+    {
+      "en": "dimensional gap",
+      "zh": "次元裂缝",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "moon surface",
+      "zh": "月球表面",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "heaven condition",
+      "zh": "天堂状态",
+      "rating": "g",
+      "nsfw": false,
+      "count": 96,
+      "desc": "彩虹闪耀背景表示极度幸福",
+      "kw": "天堂状况 / 升天状态 / 极乐状态 / 彩虹闪耀背景 / 天堂背景"
+    },
+    {
+      "en": "biopunk",
+      "zh": "生物朋克",
+      "rating": "g",
+      "count": 228,
+      "desc": "以生物技术为核心的科幻朋克流派",
+      "kw": "生化朋克 / 生体朋克 / 视觉美学 / 科幻美学 / 生物科技"
+    },
+    {
+      "en": "black hole",
+      "zh": "黑洞",
+      "rating": "g",
+      "count": 1487,
+      "desc": "连光也无法逃逸的黑洞",
+      "kw": "宇宙黑洞 / 天体黑洞 / 黑洞天体 / 引力奇点 / 宇宙天体 / ブラックホール"
+    },
+    {
+      "en": "death star",
+      "zh": "死星",
+      "rating": "g",
+      "count": 104,
+      "desc": "《星球大战》中可毁灭行星的帝国空间站",
+      "kw": "死亡之星 / 帝国死星 / 死星（星球大战） / 科技 / 科幻 / 太空武器"
+    },
+    {
+      "en": "earth (planet)",
+      "zh": "地球",
+      "rating": "g",
+      "count": 7736,
+      "desc": "从太空看到的地球。",
+      "kw": "地球（行星） / 行星地球 / 蓝色星球 / 地球全景 / 行星 / 宇宙 / earth"
+    },
+    {
+      "en": "field of blades",
+      "zh": "剑冢",
+      "rating": "g",
+      "count": 672,
+      "desc": "大量武器（多为剑）插在地上的场面",
+      "kw": "剑之原野 / 刀剑之野 / 剑塚 / 插满剑的场地 / 剑林 / 剑山 / 万剑插地 / 剑原"
+    },
+    {
+      "en": "floating rock",
+      "zh": "浮空岩石",
+      "rating": "g",
+      "count": 1234,
+      "desc": "看似悬浮在空中的岩石",
+      "kw": "漂浮岩石 / 悬浮岩石 / 浮石 / 飘浮石头 / 悬空岩石 / 浮空石 / 岩石 / 幻想"
+    },
+    {
+      "en": "liminal space",
+      "zh": "阈限空间",
+      "rating": "g",
+      "count": 946,
+      "desc": "空旷诡异、呈过渡状态的封闭空间",
+      "kw": "过渡空间 / 临界空间 / 阈限感空间 / 过渡性空间 / 诡异空旷空间 / 氛围 / 空间 / liminalspace"
+    },
+    {
+      "en": "planetary ring",
+      "zh": "行星环",
+      "rating": "g",
+      "count": 910,
+      "desc": "环绕行星运行的碎片环",
+      "kw": "星环 / 行星光环 / 光环 / 天体 / 宇宙"
+    },
+    {
+      "en": "portal (object)",
+      "zh": "传送门（物品）",
+      "rating": "g",
+      "count": 2558,
+      "desc": "连接两个遥远地点的魔法或科技传送门",
+      "kw": "传送门 / 时空门 / 空间门 / 异次元门 / 维度门 / 魔法门 / 光门 / 门户 / dimensional hole"
+    },
+    {
+      "en": "post-apocalypse",
+      "zh": "后启示录",
+      "rating": "g",
+      "count": 1862,
+      "desc": "全球性灾难后的荒废世界",
+      "kw": "废土 / 末日之后 / 末日世界 / 后末日 / 启示录后 / 科幻 / post-apocalyptic / 废土世界 / 终末世界 / ポストアポカリプス"
+    },
+    {
+      "en": "ring of light (blue archive)",
+      "zh": "光之环（蔚蓝档案）",
+      "rating": "g",
+      "count": 1289,
+      "desc": "蔚蓝档案基沃托斯天空中巨大的光环状光体",
+      "kw": "光轮 / 光环 / 蔚蓝档案光轮 / 碧蓝档案光之环 / 光环 (蔚蓝档案) / 光晕 / 光圈"
+    },
+    {
+      "en": "saturn (planet)",
+      "zh": "土星（行星）",
+      "rating": "g",
+      "count": 837,
+      "desc": "太阳系行星，以美丽的光环闻名",
+      "kw": "土星 / 行星土星 / 行星 / 天体"
+    },
+    {
+      "en": "solarpunk",
+      "zh": "太阳朋克",
+      "rating": "g",
+      "count": 186,
+      "desc": "强调可持续、环保与乐观未来的科幻流派",
+      "kw": "太阳能朋克 / 阳光朋克 / 绿色朋克 / 环保朋克 / 科幻风格 / 环保未来"
+    },
+    {
+      "en": "space habitat",
+      "zh": "太空居住区",
+      "rating": "g",
+      "count": 271,
+      "desc": "太空中供永久居住的大型居住设施",
+      "kw": "太空殖民地 / 太空栖息地 / 宇宙殖民地 / 空间居住设施 / 太空定居点 / 太空城 / 科幻 / 太空站 / space colony"
+    },
+    {
+      "en": "stasis tank",
+      "zh": "休眠舱",
+      "rating": "g",
+      "count": 771,
+      "desc": "透明壁液体容器，用于休眠、克隆培养或疗养",
+      "kw": "培养槽 / 静止舱 / 维生舱 / 克隆舱 / 疗养舱 / 液体舱 / 生物培养槽 / 培养舱 / lab vat / cloning tank / stasis tube / cloning vat"
+    },
+    {
+      "en": "unlimited blade works (reality marble)",
+      "zh": "无限剑制（固有结界）",
+      "rating": "g",
+      "count": 557,
+      "desc": "《Fate》中Archer的固有结界，插满无数剑的荒野",
+      "kw": "无限剑制 / 固有结界·无限剑制 / 固有结界无限剑制 / 无限剑制固有结界 / 无限之剑制 / UBW / 固有结界 / Fate魔术 / unlimited blade works (fate)"
+    },
+    {
+      "en": "virtual reality",
+      "zh": "虚拟现实",
+      "rating": "g",
+      "count": 748,
+      "desc": "通过头显或科幻设备接入虚拟现实",
+      "kw": "虚拟实境 / VR虚拟现实 / 虚拟现实技术 / 灵境 / 沉浸式虚拟现实 / 科技 / 科幻 / 仮想现実"
+    }
+  ]
+}

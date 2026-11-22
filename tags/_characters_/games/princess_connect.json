@@ -1,0 +1,441 @@
+{
+  "id": "princess_connect",
+  "name": "公主连结",
+  "parentId": "games",
+  "order": 20,
+  "file": "games/princess_connect.json",
+  "characters": [
+    {
+      "game": "公主连结",
+      "gameTag": "princess connect!",
+      "name": "佩可莉姆",
+      "tag": "pecorine (princess connect!)",
+      "charZh": "佩可莉姆（公主连结）",
+      "auto": "blonde hair|金发;long hair|长发;1girl|一个女孩;ahoge|呆毛;orange hair|橙发;blue eyes|蓝瞳;large breasts|大胸;tiara|冠冕;very long hair|超长发;navel|肚脐;hair ribbon|发带;hair between eyes|眼间发",
+      "subName": ""
+    },
+    {
+      "game": "公主连结",
+      "gameTag": "princess connect!",
+      "name": "可可萝",
+      "tag": "kokkoro (princess connect!)",
+      "charZh": "可可萝（公主连结）",
+      "auto": "white hair|白发;short hair|短发;pointy ears|尖耳;1girl|一个女孩;elf|精灵;hair between eyes|眼间发;hair flower|发花;antenna hair|触角呆毛;grey hair|灰发;pink eyes|粉瞳;small breasts|小胸;white flower|白花",
+      "subName": ""
+    },
+    {
+      "game": "公主连结",
+      "gameTag": "princess connect!",
+      "name": "凯露",
+      "tag": "karyl (princess connect!)",
+      "charZh": "凯露（公主连结）",
+      "auto": "black hair|黑发;long hair|长发;cat ears|猫耳;tail|尾巴;cat girl|猫娘;1girl|一个女孩;green eyes|绿瞳;streaked hair|挑染;animal ear fluff|兽耳绒毛;white hair|白发;cat tail|猫尾;very long hair|超长发;low twintails|低双马尾;detached sleeves|分离袖",
+      "subName": ""
+    },
+    {
+      "name": "茜里",
+      "tag": "akari (princess connect!)",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;grey hair|灰发;short hair|短发;short twintails|短双马尾;demon horns|恶魔角;demon wings|恶魔翼;black horns|黑色角;navel|肚脐;demon tail|恶魔尾;midriff|腹部;large breasts|大胸",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "茜里（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "秋乃",
+      "tag": "akino (princess connect!)",
+      "auto": "1girl|一个女孩;red hair|红发;purple eyes|紫瞳;long hair|长发;hair bow|蝴蝶结发饰;large breasts|大胸;white bow|白色蝴蝶结;parted bangs|中分刘海;ponytail|马尾;sidelocks|鬓发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "秋乃（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "杏奈",
+      "tag": "anna (princess connect!)",
+      "auto": "1girl|一个女孩;red scarf|红色围巾;red eyes|红瞳;heterochromia|异色瞳;black horns|黑色角;aqua hair|水色头发;hair between eyes|眼间发;yellow eyes|黄瞳;facial mark|脸部标记;very long hair|超长发;bandaged arm|缠着绷带的手臂;detached sleeves|分离袖",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "杏奈（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "碧",
+      "tag": "aoi (princess connect!)",
+      "auto": "1girl|一个女孩;elf|精灵;green hair|绿发;hair over one eye|遮单眼发;green eyes|绿瞳;short hair|短发;beret|贝雷帽;hat feather|帽饰羽毛;green hat|绿色帽子;white shirt|白衬衫;green scarf|绿色围巾",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "碧（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "绫音",
+      "tag": "ayane (princess connect!)",
+      "auto": "1girl|一个女孩;twintails|双马尾;green eyes|绿瞳;red hair|红发;teddy bear|泰迪熊;long hair|长发;hair ornament|发饰;brown gloves|棕色手套;sleeveless dress|无袖连衣裙",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "绫音（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "切噜",
+      "tag": "chieru (princess connect!)",
+      "auto": "1girl|一个女孩;star in eye|眼睛里的星星;star hair ornament|星形发饰;yellow eyes|黄瞳;ahoge|呆毛;pink hair|粉发;short hair|短发;bow hairband|蝴蝶结发箍;plaid clothes|格纹衣服;collared shirt|翻领衬衫",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "切噜（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "千歌",
+      "tag": "chika (princess connect!)",
+      "auto": "1girl|一个女孩;hair flower|发花;blue eyes|蓝瞳;green hair|绿发;twin braids|双辫;long hair|长发;sidelocks|鬓发;elbow gloves|长筒手套;white flower|白花;white gloves|白色手套",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "千歌（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "克莉丝提娜",
+      "tag": "christina (princess connect!)",
+      "auto": "1girl|一个女孩;blonde hair|金发;long hair|长发;ponytail|马尾;large breasts|大胸;yellow eyes|黄瞳;hair between eyes|眼间发;parted bangs|中分刘海",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "克莉丝提娜（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "惠理子",
+      "tag": "eriko (princess connect!)",
+      "auto": "broken horn|断角;purple eyes|紫瞳;short hair|短发;large breasts|大胸;1girl|一个女孩;demon horns|恶魔角;demon girl|恶魔娘;spiked tail|带刺的尾巴;brown hair|棕发;black gloves|黑色手套;red capelet|红色短斗篷;black bra|黑色胸罩",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "惠理子（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "初音",
+      "tag": "hatsune (princess connect!)",
+      "auto": "1girl|一个女孩;pink hair|粉发;star hair ornament|星形发饰;hair rings|环形发髻;elf|精灵;purple eyes|紫瞳;large breasts|大胸;sidelocks|鬓发;long hair|长发;hair ribbon|发带;very long hair|超长发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "初音（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "日和莉",
+      "tag": "hiyori (princess connect!)",
+      "auto": "1girl|一个女孩;cat girl|猫娘;animal ear fluff|兽耳绒毛;cat ears|猫耳;hairclip|发夹;cat tail|猫尾;short hair|短发;orange hair|橙发;paw gloves|兽爪手套;cat paws|猫爪;navel|肚脐;blonde hair|金发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "日和莉（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "伊莉亚",
+      "tag": "illya (princess connect!)",
+      "auto": "1girl|一个女孩;red eyes|红瞳;black hair|黑发;hair between eyes|眼间发;elbow gloves|长筒手套;bonnet|系带软帽;white gloves|白色手套;large breasts|大胸;very long hair|超长发;long hair|长发;fur-trimmed gloves|毛边手套",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "伊莉亚（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "伊绪",
+      "tag": "io (princess connect!)",
+      "auto": "1girl|一个女孩;demon horns|恶魔角;long hair|长发;large breasts|大胸;demon girl|恶魔娘;demon tail|恶魔尾;curled horns|卷曲的角;red eyes|红瞳;pink hair|粉发;elbow gloves|长筒手套;red hair|红发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "伊绪（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "纯",
+      "tag": "jun (princess connect!)",
+      "auto": "1girl|一个女孩;parted bangs|中分刘海;short hair|短发;purple hair|紫发;purple eyes|紫瞳;bad id|失效来源;bad pixiv id|Pixiv来源失效;braid|单辫;navel|肚脐;bikini armor|比基尼铠甲",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "纯（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "香织",
+      "tag": "kaori (princess connect!)",
+      "auto": "1girl|一个女孩;brown hair|棕发;large breasts|大胸;fang|虎牙;navel|肚脐;dark-skinned female|深肤色女性;very long hair|超长发;paw gloves|兽爪手套;antenna hair|触角呆毛;long hair|长发;fur collar|毛领",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "香织（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "霞",
+      "tag": "kasumi (princess connect!)",
+      "auto": "1girl|一个女孩;dog ears|狗耳;dog girl|犬娘;purple eyes|紫瞳;blunt bangs|齐刘海;purple hair|紫发;extra ears|多余耳朵;animal ear fluff|兽耳绒毛;long hair|长发;very long hair|超长发;black gloves|黑色手套",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "霞（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "镜华",
+      "tag": "kyoka (princess connect!)",
+      "auto": "1girl|一个女孩;elf|精灵;purple hair|紫发;twintails|双马尾;very long hair|超长发;long sleeves|长袖;wide sleeves|宽袖;hair ribbon|发带;brown eyes|棕瞳;blue ribbon|蓝色缎带;sidelocks|鬓发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "镜华（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "拉比林斯达",
+      "tag": "labyrista (princess connect!)",
+      "auto": "1girl|一个女孩;red hair|红发;glasses|眼镜;under-rim eyewear|下框眼镜;blue eyes|蓝瞳;very long hair|超长发;ponytail|马尾;floating hair|飘发;black-framed eyewear|黑框眼镜;hair between eyes|眼间发;large breasts|大胸",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "拉比林斯达（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "莉玛",
+      "tag": "lima (princess connect!)",
+      "auto": "1girl|一个女孩;llama girl|羊驼娘;animal ears|兽耳;brown eyes|棕瞳;white skirt|白裙;hair bow|蝴蝶结发饰;black gloves|黑色手套;elbow gloves|长筒手套;very long hair|超长发;pleated skirt|百褶裙;red bow|红色蝴蝶结;long hair|长发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "莉玛（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "真步",
+      "tag": "maho (princess connect!)",
+      "auto": "1girl|一个女孩;fox girl|狐娘;fox ears|狐耳;green eyes|绿瞳;blunt bangs|齐刘海;fox tail|狐尾;animal ear fluff|兽耳绒毛;very long hair|超长发;brown hair|棕发;wide sleeves|宽袖;long sleeves|长袖;light brown hair|浅棕发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "真步（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "真琴",
+      "tag": "makoto (princess connect!)",
+      "auto": "1girl|一个女孩;wolf girl|狼娘;wolf ears|狼耳;purple hair|紫发;animal ear fluff|兽耳绒毛;wolf tail|狼尾;large breasts|大胸;yellow eyes|黄瞳;navel|肚脐;long hair|长发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "真琴（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "美冬",
+      "tag": "mifuyu (princess connect!)",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;hair between eyes|眼间发;very long hair|超长发;ponytail|马尾;purple hair|紫发;blue hair|蓝发;sidelocks|鬓发;hair ribbon|发带;blue ribbon|蓝色缎带",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "美冬（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "美美",
+      "tag": "mimi (princess connect!)",
+      "auto": "1girl|一个女孩;pink hair|粉发;twin braids|双辫;rabbit ears|兔耳;rabbit hat|兔耳帽;rabbit hair ornament|兔子发饰;buttons|纽扣;hair flower|发花;fur-trimmed capelet|毛边短斗篷;button eyes|纽扣眼;very long hair|超长发;pink capelet|粉色短斗篷",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "美美（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "美咲",
+      "tag": "misaki (princess connect!)",
+      "auto": "1girl|一个女孩;purple eyes|紫瞳;two-tone hair|双色发;twintails|双马尾;heterochromia|异色瞳;purple hair|紫发;very long hair|超长发;hairclip|发夹;heart hair ornament|心形发饰;red eyes|红瞳;hair ribbon|发带;navel|肚脐",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "美咲（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "美里",
+      "tag": "misato (princess connect!)",
+      "auto": "1girl|一个女孩;elf|精灵;blue eyes|蓝瞳;large breasts|大胸;red hair|红发;navel|肚脐;visor cap|遮阳帽;long hair|长发;black bikini|黑色比基尼;blue hat|蓝色帽子;dolphin shorts|海豚短裤",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "美里（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "未奏希",
+      "tag": "misogi (princess connect!)",
+      "auto": "1girl|一个女孩;side ponytail|侧马尾;orange hair|橙发;orange leotard|橙色紧身连体衣;ribbed leotard|罗纹连体衣;brown eyes|棕瞳;brown hair|棕发;fishnet thighhighs|渔网过膝袜;orange eyes|橙瞳;black gloves|黑色手套;hood down|兜帽放下",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "未奏希（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "宫子",
+      "tag": "miyako (princess connect!)",
+      "auto": "1girl|一个女孩;blue hair|蓝发;sleeves past fingers|过指袖;very long hair|超长发;long sleeves|长袖;red eyes|红瞳;two side up|半扎双马尾;black pantyhose|黑色连裤袜;pudding|布丁;parted bangs|中分刘海",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "宫子（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "望",
+      "tag": "nozomi (princess connect!)",
+      "auto": "1girl|一个女孩;brown hair|棕发;brown eyes|棕瞳;two side up|半扎双马尾;long hair|长发;hair between eyes|眼间发;navel|肚脐;very long hair|超长发;hair ribbon|发带;large breasts|大胸",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "望（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "怜",
+      "tag": "rei (princess connect!)",
+      "auto": "1girl|一个女孩;demon horns|恶魔角;demon girl|恶魔娘;long hair|长发;blue hair|蓝发;purple eyes|紫瞳;medium breasts|中等胸;navel|肚脐;purple hair|紫发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "怜（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "璃乃",
+      "tag": "rino (princess connect!)",
+      "auto": "1girl|一个女孩;green eyes|绿瞳;hair rings|环形发髻;brown hair|棕发;medium hair|中长发;red capelet|红色短斗篷;red skirt|红裙;hair ornament|发饰;orange hair|橙发;pleated skirt|百褶裙;detached sleeves|分离袖;black shorts|黑色短裤",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "璃乃（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "铃",
+      "tag": "rin (princess connect!)",
+      "auto": "1girl|一个女孩;brown hair|棕发;squirrel girl|松鼠女孩;squirrel ears|松鼠耳;squirrel tail|松鼠尾巴;very long hair|超长发;purple eyes|紫瞳;low-tied long hair|低扎长发;navel|肚脐;jingle bell|球形铃铛;frills|荷叶边",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "铃（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "流夏",
+      "tag": "ruka (princess connect!)",
+      "auto": "1girl|一个女孩;hair flower|发花;yellow eyes|黄瞳;brown hair|棕发;very long hair|超长发;navel|肚脐;large breasts|大胸;medium breasts|中等胸;long hair|长发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "流夏（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "咲恋",
+      "tag": "saren (princess connect!)",
+      "auto": "1girl|一个女孩;blonde hair|金发;blue eyes|蓝瞳;hair bow|蝴蝶结发饰;black bow|黑色蝴蝶结;long hair|长发;elf|精灵;large breasts|大胸;blunt bangs|齐刘海;navel|肚脐;sidelocks|鬓发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "咲恋（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "忍",
+      "tag": "shinobu (princess connect!)",
+      "auto": "1girl|一个女孩;purple hair|紫发;hair between eyes|眼间发;black horns|黑色角;short hair|短发;red eyes|红瞳;mole under eye|眼下泪痣;broken horn|断角;parted lips|微张嘴;crossed bangs|交叉刘海;chain|锁链;skull|骷髅",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "忍（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "栞",
+      "tag": "shiori (princess connect!)",
+      "auto": "1girl|一个女孩;tiger girl|虎娘;tiger ears|虎耳;hair between eyes|眼间发;black hair|黑发;long hair|长发;animal ear fluff|兽耳绒毛;tiger tail|虎尾;yellow eyes|黄瞳;navel|肚脐;gradient hair|渐变发;fur capelet|毛皮短斗篷",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "栞（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "静流",
+      "tag": "shizuru (princess connect!)",
+      "auto": "1girl|一个女孩;hair between eyes|眼间发;purple hair|紫发;blue eyes|蓝瞳;large breasts|大胸;long hair|长发;navel|肚脐;white bikini|白色比基尼",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "静流（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "铃莓",
+      "tag": "suzume (princess connect!)",
+      "auto": "brown hair|棕发;1girl|一个女孩;double bun|双丸子头;brown eyes|棕瞳;sidelocks|鬓发;large breasts|大胸;day|白天;long hair|长发;arm garter|臂箍",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "铃莓（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "铃奈",
+      "tag": "suzuna (princess connect!)",
+      "auto": "1girl|一个女孩;pink hair|粉发;demon horns|恶魔角;blue eyes|蓝瞳;navel|肚脐;sidelocks|鬓发;medium breasts|中等胸;long hair|长发;very long hair|超长发;side ponytail|侧马尾;one side up|单侧扎发",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "铃奈（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "珠希",
+      "tag": "tamaki (princess connect!)",
+      "auto": "1girl|一个女孩;cat girl|猫娘;cat ears|猫耳;animal ear fluff|兽耳绒毛;cat tail|猫尾;purple eyes|紫瞳;jingle bell|球形铃铛;short hair|短发;fang|虎牙",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "珠希（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "智",
+      "tag": "tomo (princess connect!)",
+      "auto": "1girl|一个女孩;ahoge|呆毛;hair between eyes|眼间发;blue eyes|蓝瞳;grey hair|灰发;very long hair|超长发;medium breasts|中等胸;white hair|白发;navel|肚脐;long hair|长发;black shorts|黑色短裤;short shorts|超短裤",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "智（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "纺希",
+      "tag": "tsumugi (princess connect!)",
+      "auto": "1girl|一个女孩;pink hair|粉发;purple eyes|紫瞳;twintails|双马尾;long hair|长发;large breasts|大胸;beret|贝雷帽;hair between eyes|眼间发;cleavage cutout|乳沟镂空;heart cutout|心形镂空;pink dress|粉色连衣裙",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "纺希（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "依里",
+      "tag": "yori (princess connect!)",
+      "auto": "1girl|一个女孩;blue eyes|蓝瞳;grey hair|灰发;pink dress|粉色连衣裙;black horns|黑色角;sleeveless dress|无袖连衣裙;black wings|黑翼;demon tail|恶魔尾;demon wings|恶魔翼;short hair|短发;tail ring|尾环;bridal gauntlets|新娘手套",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "依里（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "优衣",
+      "tag": "yui (princess connect!)",
+      "auto": "1girl|一个女孩;pink hair|粉发;blue eyes|蓝瞳;short hair|短发;large breasts|大胸;navel|肚脐;hair between eyes|眼间发;hair ornament|发饰",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "优衣（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "由加莉",
+      "tag": "yukari (princess connect!)",
+      "auto": "1girl|一个女孩;blonde hair|金发;parted bangs|中分刘海;elf|精灵;purple eyes|紫瞳;sidelocks|鬓发;long hair|长发;holding cup|拿着杯子;very long hair|超长发;large breasts|大胸;medium breasts|中等胸",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "由加莉（公主连结）",
+      "subName": ""
+    },
+    {
+      "name": "佑树",
+      "tag": "yuuki (princess connect!)",
+      "auto": "1girl|一个女孩;hair between eyes|眼间发;antenna hair|触角呆毛;grey hair|灰发;short hair|短发;hair flower|发花;elf|精灵;red eyes|红瞳;detached sleeves|分离袖;character doll|角色玩偶;white flower|白花;puffy long sleeves|泡泡长袖",
+      "gameTag": "princess connect!",
+      "game": "公主连结",
+      "charZh": "佑树（公主连结）",
+      "subName": ""
+    }
+  ]
+}

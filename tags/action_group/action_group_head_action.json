@@ -1,0 +1,944 @@
+{
+  "id": "head_action",
+  "name": "头部动作",
+  "icon": "🗣️",
+  "parentId": "action_group",
+  "level": 2,
+  "order": 2,
+  "file": "action_group/action_group_head_action.json",
+  "updatedAt": "2026-11-22T14:04:42.467Z",
+  "children": [],
+  "tags": [
+    {
+      "en": "looking away",
+      "zh": "视线偏移",
+      "rating": "g",
+      "nsfw": false,
+      "count": 32540,
+      "desc": "角色没有看向观众或其他人，方向模糊。",
+      "kw": "望向别处 / 侧视 / 回避视线 / 表情"
+    },
+    {
+      "en": "blinking",
+      "zh": "眨眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 13462,
+      "desc": "动图中角色双眼闭合再睁开的动作",
+      "kw": "眨眼睛 / 眨眼动作 / 眨眼瞬间 / 眨了一下眼 / 表情 / blink"
+    },
+    {
+      "en": "sideways glance",
+      "zh": "侧目",
+      "rating": "g",
+      "nsfw": false,
+      "count": 52037,
+      "desc": "用眼角向侧方或身后看去",
+      "kw": "横目 / 斜眼 / 侧眼 / 瞟视 / 瞥视 / 斜眼看 / 侧目而视 / side glance / 流し目"
+    },
+    {
+      "en": "squinting",
+      "zh": "眯眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2719,
+      "desc": "半闭眼睛，常因强光、想看清或瞥视。",
+      "kw": "半闭眼 / 眯缝眼 / 眯起眼睛 / 眯眼表情 / 半眯着眼 / 表情 / 眼部 / squint / squinted eyes"
+    },
+    {
+      "en": "staring",
+      "zh": "凝视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6453,
+      "desc": "长时间直视某处，日语常写作“じ～”",
+      "kw": "盯着看 / 盯着 / 盯 / 注视 / 注目 / 紧盯着 / 凝望 / 目不转睛 / stare"
+    },
+    {
+      "en": "wink",
+      "zh": "眨眼",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "glaring",
+      "zh": "怒视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 12848,
+      "desc": "眯起眼睛、带愤怒或厌恶的注视",
+      "kw": "怒目而视 / 瞪视 / 瞪眼 / 怒瞪 / 狠狠瞪 / 生气瞪视 / 怒目 / 凶眼 / glare / ニラマレ / ジト目"
+    },
+    {
+      "en": "rolling eyes",
+      "zh": "翻白眼",
+      "rating": "q",
+      "nsfw": true,
+      "count": 24132,
+      "desc": "眼珠向上翻起的表情，常与高潮脸或失神相关。",
+      "kw": "眼珠上翻 / 白眼 / 眼球上翻 / 上翻眼 / 眼神上飘 / 翻眼 / 眼睛上吊 / 白目 / eye roll / rolleyes / rolled eyes / eyeroll"
+    },
+    {
+      "en": "breast pillow",
+      "zh": "乳枕",
+      "rating": "q",
+      "nsfw": true,
+      "count": 812,
+      "desc": "把头枕在女性胸部上的行为。",
+      "kw": "乳房枕头 / 奶枕 / 酥胸枕头 / 胸部枕头 / 把胸当枕头 / 身体枕 / 亲密 / ちちまくら / おっぱいまくら / おっぱい枕"
+    },
+    {
+      "en": "breasts on head",
+      "zh": "胸部压头",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3077,
+      "desc": "把胸部搁在别人头顶",
+      "kw": "胸部放在头上 / 乳房压头 / 胸部搁头 / 奶子压头 / 胸部贴头 / 姿势 / headboob / 胸部贴在头上 / のせてんのよ / 乗せてんのよ"
+    },
+    {
+      "en": "face to breasts",
+      "zh": "脸贴胸部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3815,
+      "desc": "角色的脸贴在对方胸部或乳房上。",
+      "kw": "埋胸 / 脸埋胸部 / 脸贴胸 / 脸对乳房 / 脸埋进胸部 / 脸靠在胸前 / 亲密姿势 / 脸对胸部"
+    },
+    {
+      "en": "face to pecs",
+      "zh": "脸贴胸肌",
+      "rating": "q",
+      "nsfw": true,
+      "count": 470,
+      "desc": "角色的脸贴在另一角色的胸肌上",
+      "kw": "脸埋在胸肌 / 脸贴胸 / 把脸贴在胸肌上 / 脸靠胸肌 / 面部贴胸肌 / 姿势 / 身体接触"
+    },
+    {
+      "en": "head between breasts",
+      "zh": "埋胸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4669,
+      "desc": "头埋在他人双乳之间",
+      "kw": "头埋在双乳间 / 头夹在胸部之间 / 脸埋胸 / 胸夹头 / 脑袋夹在奶子中间 / 姿势 / 拥抱 / head in breasts / かまくらぱふぱふ"
+    },
+    {
+      "en": "face between breasts",
+      "zh": "脸埋胸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 2052,
+      "desc": "脸埋在对方双乳之间",
+      "kw": "乳间埋脸 / 洗面奶 / 胸埋 / 脸埋双乳间 / 乳房之间的脸 / 乳夹脸 / 姿势 / motorboating / face in breasts / 脸埋在胸部之间 / ぱふぱふ"
+    },
+    {
+      "en": "smelling ass",
+      "zh": "闻屁股",
+      "rating": "q",
+      "nsfw": true,
+      "count": 515,
+      "desc": "凑近去闻屁股或肛门",
+      "kw": "闻肛门 / 闻屁眼 / 嗅屁股 / 闻臀部 / 闻菊 / 闻屁屁 / 闻臀 / 性行为 / ass sniffing / smelling anus / smelling butt / sniffing ass"
+    },
+    {
+      "en": "head on ass",
+      "zh": "头枕臀部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 524,
+      "desc": "头压在他人臀部上，非脸埋股间",
+      "kw": "头靠臀部 / 头枕屁股 / 头靠在屁股上 / 头枕臀 / 尻枕 / 头靠屁股 / 姿势 / head on butt / ass pillow / buttsnuggle"
+    },
+    {
+      "en": "reading",
+      "zh": "阅读",
+      "rating": "g",
+      "nsfw": false,
+      "count": 24399,
+      "desc": "正在阅读书籍、漫画等印刷物。",
+      "kw": "读书 / 看书 / 阅书 / 阅读中 / 阅读书籍 / 动作 / 日常 / 読书 / 読書"
+    },
+    {
+      "en": "nodding",
+      "zh": "点头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 548,
+      "desc": "角色头部上下摆动，通常表示同意",
+      "kw": "首肯 / 颔首 / 点头示意 / 点头同意 / 点头动作 / 动作 / 表情"
+    },
+    {
+      "en": "staring blankly into space",
+      "zh": "呆呆地望着前方发呆",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "glancing sideways at something off screen",
+      "zh": "斜眼看向画面外的某处",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "gazing at the viewer through strands of hair",
+      "zh": "透过发丝凝视着观者",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "squinting against bright sunlight",
+      "zh": "被阳光晃得眯起眼睛",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "sitting on head",
+      "zh": "坐在头上",
+      "rating": "g",
+      "nsfw": false,
+      "count": 626,
+      "desc": "坐在他人头顶或头上",
+      "kw": "坐头 / 坐在头顶 / 骑在头上 / 坐在人头上 / 坐头上 / 姿势 / 互动 / head sitting"
+    },
+    {
+      "en": "head rest",
+      "zh": "托腮倚头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 46433,
+      "desc": "把头或下巴搭在某物上休息",
+      "kw": "头靠 / 下巴靠 / 托腮 / 手托头 / 枕着头 / 头搭在 / 手部 / 姿势 / chin rest / 頬杖"
+    },
+    {
+      "en": "looking to the side",
+      "zh": "看向侧边",
+      "rating": "g",
+      "nsfw": false,
+      "count": 290909,
+      "desc": "视线转向角色自己侧方，而非观众视角。",
+      "kw": "看向旁边 / 侧视 / 看旁边 / 视线转向侧方 / 目光向侧 / 斜眼看 / 向侧面看 / looking to side / looking aside"
+    },
+    {
+      "en": "looking afar",
+      "zh": "远眺",
+      "rating": "g",
+      "nsfw": false,
+      "count": 28812,
+      "desc": "视线投向远处，不聚焦近处物体。",
+      "kw": "望向远方 / 看向远处 / 眺望 / 凝视远方 / 遥望 / 望向远处 / 注视远方"
+    },
+    {
+      "en": "head down",
+      "zh": "低头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3910,
+      "desc": "头部向下低垂的姿态",
+      "kw": "低着头 / 垂头 / 头低垂 / 头部向下 / 低头姿势 / 垂首 / 姿势 / 俯首"
+    },
+    {
+      "en": "head tilt",
+      "zh": "歪头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 176424,
+      "desc": "把头歪向一侧的动作",
+      "kw": "歪着头 / 头部倾斜 / 头倾斜 / 侧头 / 偏头 / 歪头杀 / 动作姿势 / 首傾げ"
+    },
+    {
+      "en": "head back",
+      "zh": "头部后仰",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7132,
+      "desc": "头向后仰露出下巴下方，常见于高潮",
+      "kw": "仰头 / 后仰头 / 头后仰 / 仰起头 / 向后仰头 / 仰首 / 姿势 / 仰け反り絶頂"
+    },
+    {
+      "en": "akanbe",
+      "zh": "吐舌翻眼",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2598,
+      "desc": "拉下眼睑并吐舌的鬼脸。",
+      "kw": "拉眼睑 / 吐舌拉眼睑 / 拉下眼皮 / 眼睑下拉鬼脸 / 拉眼皮吐舌 / 吐舌头翻眼皮 / 表情 / 调皮脸 / eyelid pull / あっかんべー"
+    },
+    {
+      "en": "cheek-to-breast",
+      "zh": "脸贴胸",
+      "rating": "q",
+      "nsfw": true,
+      "count": 228,
+      "desc": "脸颊贴着他人的胸部",
+      "kw": "脸颊至胸 / 脸颊贴乳房 / 脸贴乳房 / 脸贴在胸上 / 亲密接触"
+    },
+    {
+      "en": "cheek-to-cheek",
+      "zh": "脸贴脸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7699,
+      "desc": "两名以上角色脸颊相贴表示亲密",
+      "kw": "贴脸 / 脸颊相贴 / 面颊相贴 / 脸靠脸 / 脸颊贴脸颊 / 亲密 / 姿势 / cheek to cheek"
+    },
+    {
+      "en": "eye contact",
+      "zh": "对视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 71711,
+      "desc": "两个角色直接对视，非单纯面对面或看向观众。",
+      "kw": "眼神接触 / 目光交汇 / 四目相对 / 视线相交 / 互相凝视 / 目光对视 / 彼此注视 / 眼睛 / 見つめ合う"
+    },
+    {
+      "en": "face-to-face",
+      "zh": "面对面",
+      "rating": "g",
+      "nsfw": false,
+      "count": 22418,
+      "desc": "两个角色近距离相对而立",
+      "kw": "相对而立 / 面对面互视 / 面对面站着 / 面对面姿势 / 相视而立 / 姿势 / 互动 / face to face / 対面侧位 / 面と向かって / 顔を合わせて"
+    },
+    {
+      "en": "forehead-to-forehead",
+      "zh": "额头贴额头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2881,
+      "desc": "两人的额头相互贴上",
+      "kw": "额头相抵 / 额头对额头 / 顶额头 / 额头靠额头 / 额头相贴 / 额头贴在一起 / 亲密姿势 / forehead to forehead"
+    },
+    {
+      "en": "head on chest",
+      "zh": "头枕胸口",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2211,
+      "desc": "头靠在他人胸口",
+      "kw": "头靠在胸口 / 头伏胸口 / 头贴胸口 / 靠在胸前 / 头枕在胸口 / 拥抱姿势 / 亲密 / head on another's chest"
+    },
+    {
+      "en": "heads together",
+      "zh": "头碰头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 16272,
+      "desc": "多个角色的头互相靠在一起",
+      "kw": "头顶头 / 脑袋靠在一起 / 头挨着头 / 头靠头 / 额头相抵 / 姿势 / 亲密 / head to head / head-to-head"
+    },
+    {
+      "en": "noses touching",
+      "zh": "鼻尖相触",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1606,
+      "desc": "两人鼻尖相触的亲密动作，又称碰鼻礼",
+      "kw": "碰鼻礼 / 鼻子碰鼻子 / 鼻尖触碰 / 贴鼻 / 爱斯基摩吻 / 鼻吻 / 鼻子相触 / 鼻尖贴鼻尖 / nose to nose / nose touching / nose-to-nose / eskimo kiss"
+    },
+    {
+      "en": "looking outside",
+      "zh": "望向窗外",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2664,
+      "desc": "从室内向外看，常通过窗户。",
+      "kw": "看外面 / 向窗外看 / 向外看 / 朝外看 / 看着外面 / 从室内向外看 / 望向外头 / looking out window"
+    },
+    {
+      "en": "turning head over shoulder to look back",
+      "zh": "转头回望身后",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "looking up at the sky with a dreamy gaze",
+      "zh": "仰望天空眼神迷离",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "looking directly into the camera with intense gaze",
+      "zh": "直直望进镜头目光强烈",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "eyes following something moving past",
+      "zh": "目光追随着移动的东西",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "looking down at own hands quietly",
+      "zh": "安静地低头看着自己的手",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "looking out of a train window at passing scenery",
+      "zh": "望着车窗外掠过的风景",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "leaning head on the other person shoulder",
+      "zh": "把头靠在对方肩上",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "smelling hair",
+      "zh": "闻头发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 476,
+      "desc": "角色嗅闻自己或他人头发的动作",
+      "kw": "嗅头发 / 闻发香 / 闻头发气味 / 嗅闻发丝 / 闻发丝 / 动作 / 嗅觉 / 亲密"
+    },
+    {
+      "en": "ear wiggle",
+      "zh": "抖耳",
+      "rating": "g",
+      "nsfw": false,
+      "count": 3052,
+      "desc": "耳朵左右摆动或抖动。",
+      "kw": "耳朵抖动 / 耳朵抽动 / 耳朵甩动 / 耳朵颤动 / 耳朵晃悠 / 动耳朵 / 耳朵摇摆 / 耳朵扑动 / ear twitch / ears wagging"
+    },
+    {
+      "en": "looking at another",
+      "zh": "注视他人",
+      "rating": "g",
+      "nsfw": false,
+      "count": 454836,
+      "desc": "看着另一个角色；两人直接对视时用对视标签",
+      "kw": "看着他人 / 望向他人 / 看着别人 / 看向别人 / 望着别人 / 凝视他人 / 视线"
+    },
+    {
+      "en": "looking at hand",
+      "zh": "注视手部",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1827,
+      "desc": "角色看着自己或他人的一只手",
+      "kw": "看自己的手 / 注视手 / 盯着手 / 看手部 / 望向手 / 观察手 / 姿势 / 手部"
+    },
+    {
+      "en": "looking at penis",
+      "zh": "注视阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 12801,
+      "desc": "角色直接注视阴茎，通常不带惊讶",
+      "kw": "盯着阴茎 / 凝视阴茎 / 望向肉棒 / 视线 / 性器官"
+    },
+    {
+      "en": "looking at phone",
+      "zh": "看手机",
+      "rating": "g",
+      "nsfw": false,
+      "count": 9385,
+      "desc": "角色低头注视手机屏幕。",
+      "kw": "观看手机 / 低头看手机 / 注视手机 / 盯着手机看 / 看手机屏幕 / 动作"
+    },
+    {
+      "en": "looking at hands",
+      "zh": "看着手",
+      "rating": "g",
+      "nsfw": false,
+      "count": 508,
+      "desc": "看着自己或他人的双手；只看单手另有标签",
+      "kw": "看双手 / 注视双手 / 望着双手 / 看着自己的手 / 盯着双手 / 瞧双手 / 姿势"
+    },
+    {
+      "en": "looking at crotch",
+      "zh": "盯着胯部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 236,
+      "desc": "盯着他人或自己的裆部",
+      "kw": "注视裆部 / 盯着裆部 / 看向裆部 / 望着裆部 / 目光看向下体 / 视线 / 动作"
+    },
+    {
+      "en": "looking at object",
+      "zh": "注视物体",
+      "rating": "g",
+      "nsfw": false,
+      "count": 18662,
+      "desc": "注视画面中可见的某个物体",
+      "kw": "望着物体 / 盯着物体 / 看东西 / 看向物品 / 目视物体 / 凝视物体 / 看向某物"
+    },
+    {
+      "en": "looking at breasts",
+      "zh": "盯着胸部看",
+      "rating": "q",
+      "nsfw": true,
+      "count": 3287,
+      "desc": "角色视线明显聚焦于他人胸部",
+      "kw": "看胸 / 瞄着乳房 / 盯着胸部 / 注视乳房 / 凝视乳房 / 盯着奶子 / 看奶 / 目不转睛看胸 / staring at breasts"
+    },
+    {
+      "en": "looking at mirror",
+      "zh": "照镜子",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5785,
+      "desc": "通过镜子注视自己。",
+      "kw": "对照镜子 / 看镜中自己 / 注视镜子 / 镜前自照 / 姿势 / 镜子"
+    },
+    {
+      "en": "looking at pussy",
+      "zh": "注视阴部",
+      "rating": "q",
+      "nsfw": true,
+      "count": 245,
+      "desc": "近距离注视女性私处，用于色情或检查场景。",
+      "kw": "看着小穴 / 盯着小穴 / 注视私处 / 凝视私处 / 查看私处 / 观察私处 / 看着阴部 / 俯视私处"
+    },
+    {
+      "en": "asymmetrical eyes",
+      "zh": "斜视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 315,
+      "desc": "两眼视线朝向不同方向，与异色瞳不同",
+      "kw": "不对称双眼 / 两眼不同方向 / 眼睛方向不对称 / 斜眼 / 视线不一致眼睛 / 不对称视线 / 眼睛视线不同 / 异色瞳"
+    },
+    {
+      "en": "looking through own legs",
+      "zh": "胯下窥视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 2023,
+      "desc": "弯腰从自己双腿间向后看",
+      "kw": "腿间回望 / 胯下回望 / 从腿间往后看 / 股间回望 / 弯腰腿间看 / 腿间倒看 / 从双腿间看 / 从胯下看 / looking through legs / 股眼鏡 / 股のぞき"
+    },
+    {
+      "en": "looking at self",
+      "zh": "注视自身",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1057,
+      "desc": "角色注视自己，如看身体或镜中倒影",
+      "kw": "看自己 / 自我注视 / 照镜子 / 自我端详 / 看镜中的自己 / 自视 / 姿势"
+    },
+    {
+      "en": "averting eyes",
+      "zh": "移开视线",
+      "rating": "g",
+      "nsfw": false,
+      "count": 21906,
+      "desc": "出于害羞、尴尬或恼怒刻意把目光移开",
+      "kw": "目光闪躲 / 避开视线 / 转移目光 / 别过脸 / 不敢对视 / 视线回避 / 眼睛 / 视线转移 / avoiding eye contact / 看向侧面"
+    },
+    {
+      "en": "upturned eyes",
+      "zh": "向上看",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7023,
+      "desc": "眼珠向上看，多用于撒娇或恳求表情",
+      "kw": "上目 / 上目线 / 向上看（脸不仰） / 眼珠上翻 / 上目眼神 / 眼睛向上看 / 翻白眼 / 表情 / 上目遣い / 上目づかい / 向上看(脸不仰)"
+    },
+    {
+      "en": "looking at creature",
+      "zh": "注视生物",
+      "rating": "g",
+      "nsfw": false,
+      "count": 763,
+      "desc": "看着动物或幻想生物",
+      "kw": "看动物 / 看着动物 / 看宠物 / 看怪物 / 视线 / 动作"
+    },
+    {
+      "en": "looking around",
+      "zh": "环顾四周",
+      "rating": "g",
+      "nsfw": false,
+      "count": 253,
+      "desc": "头部左右转动环视周围，常带残影或动态线",
+      "kw": "东张西望 / 左顾右盼 / 张望 / 转头看 / 环视 / 到处看 / 左右看"
+    },
+    {
+      "en": "facesitting",
+      "zh": "坐脸",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "peeping",
+      "zh": "窥视",
+      "rating": "q",
+      "nsfw": true
+    },
+    {
+      "en": "smelling feet",
+      "zh": "闻脚",
+      "rating": "q",
+      "nsfw": true,
+      "count": 209,
+      "desc": "把鼻子凑近脚或脚掌嗅闻",
+      "kw": "嗅脚 / 闻足 / 闻脚丫 / 闻臭脚 / 嗅足 / 闻脚底 / 闻脚趾 / 恋足 / foot sniff"
+    },
+    {
+      "en": "sitting on face",
+      "zh": "颜面骑乘",
+      "rating": "q",
+      "nsfw": true,
+      "count": 5454,
+      "desc": "跨坐或蹲坐在他人脸上的姿势",
+      "kw": "坐脸 / 脸上坐 / 骑脸 / 坐脸上 / 颜骑 / 跨坐脸部 / 姿势 / 亲密接触 / facesitting / sit on face / face sitting / 坐在脸上"
+    },
+    {
+      "en": "peeking",
+      "zh": "偷窥",
+      "rating": "q",
+      "nsfw": true,
+      "count": 4721,
+      "desc": "尽量不被发现地暗中偷看。",
+      "kw": "偷看 / 窥视 / 偷瞄 / 窥探 / 暗地观察 / 瞟见 / peek / spying / peeping / 覗き"
+    },
+    {
+      "en": "smelling",
+      "zh": "嗅闻",
+      "rating": "g",
+      "nsfw": false,
+      "count": 7301,
+      "desc": "用鼻子吸气辨别气味的动作。",
+      "kw": "闻 / 嗅 / 闻气味 / 闻味道 / 闻一下 / 深吸闻 / 嗅一嗅 / sniffing / 嗅ぐ / くんかくんか / クンカクンカ"
+    },
+    {
+      "en": "forced to watch",
+      "zh": "被迫观看",
+      "rating": "q",
+      "nsfw": true,
+      "count": 255,
+      "desc": "被迫观看自己不想看的东西",
+      "kw": "被迫看 / 强行观看 / 强迫观看 / 逼着看 / 被迫直视 / 被强迫观看 / 不得不看 / 强制观看"
+    },
+    {
+      "en": "looking over eyewear",
+      "zh": "越过眼镜窥视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 6207,
+      "desc": "从眼镜或墨镜上方看人",
+      "kw": "眼镜上方注视 / 从眼镜上缘看 / 眼镜下拉看人 / 从墨镜上方看 / 透过眼镜上方看 / 眼镜低戴看人 / 眼镜 / looking over glasses / looking over sunglasses"
+    },
+    {
+      "en": "looking for glasses",
+      "zh": "寻找眼镜",
+      "rating": "g",
+      "nsfw": false,
+      "count": 135,
+      "desc": "寻找其实戴在自己头上的眼镜",
+      "kw": "找眼镜 / 眼镜在哪里 / 找自己的眼镜 / 眼镜找不到 / 找眼镜梗 / 动作 / 姿势 / megane megane"
+    },
+    {
+      "en": "whipping hair",
+      "zh": "甩发",
+      "rating": "g",
+      "nsfw": false,
+      "count": 56,
+      "desc": "甩头使长发划出弧线，常见于湿发甩水珠",
+      "kw": "甩头发 / 甩动长发 / 甩头 / 甩发动作 / 湿发甩动 / 甩水珠 / 头发甩动"
+    },
+    {
+      "en": "eavesdropping",
+      "zh": "窃听",
+      "rating": "g",
+      "nsfw": false,
+      "count": 282,
+      "desc": "在别处偷听他人谈话",
+      "kw": "偷听谈话 / 暗中偷听 / 听墙角 / 偷听秘密 / 行为 / 盗み聞き"
+    },
+    {
+      "en": "looking",
+      "zh": "注视/张望",
+      "rating": "g",
+      "nsfw": false
+    },
+    {
+      "en": "looking at viewer",
+      "zh": "看向观众",
+      "rating": "g",
+      "nsfw": false,
+      "count": 5061665,
+      "desc": "角色直视画面外的观者或镜头",
+      "kw": "看向镜头 / 直视观者 / 直视观众 / 与你对视 / 看镜头 / 面对镜头 / 看向你 / pov eye contact / カメラ目線"
+    },
+    {
+      "en": "looking back",
+      "zh": "回眸",
+      "rating": "g",
+      "nsfw": false,
+      "count": 372420,
+      "desc": "转头或转身看向身后，常见回眸姿态",
+      "kw": "回头看 / 回头望 / 转身回望 / 回首 / 回眸一笑 / 转头看后面 / 回望 / 姿势 / turning / looking over shoulder / 見返り / 振り返り"
+    },
+    {
+      "en": "looking down",
+      "zh": "低头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 143205,
+      "desc": "角色头部低垂、视线朝下的姿势。",
+      "kw": "往下看 / 低头看 / 视线朝下 / 俯视下方 / 眼睛向下 / 朝下看 / 低垂目光 / 下を見る"
+    },
+    {
+      "en": "looking up",
+      "zh": "抬头",
+      "rating": "g",
+      "nsfw": false,
+      "count": 103044,
+      "desc": "头后仰、视线朝上的姿势。",
+      "kw": "抬头看 / 向上看 / 仰视 / 抬头望 / 仰头望 / 朝上看 / 往上看 / 抬头"
+    },
+    {
+      "en": "smelling clothes",
+      "zh": "闻衣服",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1510,
+      "desc": "闻自己或他人的衣服",
+      "kw": "嗅衣服 / 闻衣物 / 嗅衣物 / 闻衣服的味道 / 衣服气味 / 嗅闻动作 / 变态行为 / clothes sniffing"
+    },
+    {
+      "en": "smelling pantyhose",
+      "zh": "闻裤袜",
+      "rating": "q",
+      "nsfw": true,
+      "count": 55,
+      "desc": "拿着连裤袜凑近闻其气味。",
+      "kw": "嗅连裤袜 / 闻丝袜 / 闻连裤丝袜 / 闻裤袜的味道 / 嗅闻连裤袜 / pantyhose sniffing"
+    },
+    {
+      "en": "smelling underwear",
+      "zh": "闻内衣",
+      "rating": "q",
+      "nsfw": true,
+      "count": 303,
+      "desc": "角色闻内衣，通常是他人的。",
+      "kw": "闻内裤 / 嗅内衣 / 闻内衣裤 / 闻内衣物 / 闻他人内衣 / 嗅内裤 / 闻胖次 / 闻底裤 / panty sniffing / underwear sniffing"
+    },
+    {
+      "en": "sneezing",
+      "zh": "打喷嚏",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1563,
+      "desc": "打喷嚏的瞬间动作",
+      "kw": "喷嚏 / 打喷嚏瞬间 / 打喷嚏动作 / 阿嚏 / 表情 / 动作 / sneeze / くしゃみ"
+    },
+    {
+      "en": "watching",
+      "zh": "观看中",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1071,
+      "desc": "从远处观察的行为，区别于看电视或跟踪。",
+      "kw": "观看 / 观察 / 动作"
+    },
+    {
+      "en": "watching television",
+      "zh": "看电视",
+      "rating": "g",
+      "nsfw": false,
+      "count": 1795,
+      "desc": "角色正在观看电视屏幕",
+      "kw": "观看电视 / 看电视节目 / 盯电视 / 注视着电视 / 观赏电视 / 观看 / 休闲 / 室内活动 / watching tv"
+    },
+    {
+      "en": "cheek press",
+      "zh": "贴脸",
+      "rating": "g",
+      "count": 3713,
+      "desc": "把脸颊压在人身上或物体上，表达亲昵。",
+      "kw": "贴贴 / 蹭脸 / 脸颊紧贴 / 贴面 / 蹭脸颊 / 面颊相贴 / 贴脸蹭蹭 / 脸贴脸 / cheek rub / 頬擦り / 頬ずり"
+    },
+    {
+      "en": "cheek rest",
+      "zh": "脸颊靠",
+      "rating": "g",
+      "count": 890,
+      "desc": "把脸颊靠在手或其他表面上",
+      "kw": "托腮 / 撑脸 / 手托脸 / 靠脸颊 / 脸颊休息 / 姿势 / 表情"
+    },
+    {
+      "en": "facing ahead",
+      "zh": "面向前方",
+      "rating": "g",
+      "count": 2380,
+      "desc": "面朝自己正前方",
+      "kw": "朝前 / 面朝前 / 面向正前方 / 朝向前方 / 正面"
+    },
+    {
+      "en": "facing another",
+      "zh": "二人面对面",
+      "rating": "g",
+      "count": 22486,
+      "desc": "角色面向另一个人，常与闭眼等表情搭配",
+      "kw": "面对别人 / 面朝他人 / 相对他人 / 朝着另一个人 / 面向另一人 / 面对他人 / 面对面 / 互动姿势"
+    },
+    {
+      "en": "facing away",
+      "zh": "背对",
+      "rating": "g",
+      "count": 41501,
+      "desc": "角色背对观者，只能看到后脑/背面。",
+      "kw": "背对观众 / 背影 / 后姿 / 背向 / 背面 / 姿势 / 背视 / 後姿"
+    },
+    {
+      "en": "facing back",
+      "zh": "背对画面",
+      "rating": "g",
+      "count": 962,
+      "desc": "角色背向镜头或画面。",
+      "kw": "背对镜头 / 背对观众 / 背面 / 背影 / 背过身 / 面朝后 / 转身背对 / 姿势 / 背对着"
+    },
+    {
+      "en": "facing down",
+      "zh": "低头闭眼",
+      "rating": "g",
+      "count": 2172,
+      "desc": "闭眼或遮眼状态下低头",
+      "kw": "面朝下 / 脸朝下 / 低头 / 垂头 / 俯首 / 低头闭目 / 低头遮眼 / 闭眼低头"
+    },
+    {
+      "en": "facing to the side",
+      "zh": "脸朝侧面",
+      "rating": "g",
+      "count": 9295,
+      "desc": "角色脸部朝向侧面",
+      "kw": "朝向侧面 / 面向侧边 / 侧脸 / 面朝侧面 / 侧颜 / 脸转向一侧 / 侧向 / 面向侧面"
+    },
+    {
+      "en": "facing up",
+      "zh": "面朝上",
+      "rating": "g",
+      "count": 2085,
+      "desc": "闭眼或遮眼状态下抬头朝上",
+      "kw": "朝上 / 仰面 / 仰头 / 向上看 / 仰望 / 抬头 / 脸朝上 / 仰脸"
+    },
+    {
+      "en": "head on head",
+      "zh": "下巴搁头顶",
+      "rating": "g",
+      "count": 1621,
+      "desc": "下巴或头放在他人头顶的亲密动作",
+      "kw": "头顶头 / 头顶下巴 / 头靠头 / 下巴放头顶 / 下巴搁在头上 / 头顶着头 / 头压头 / 头顶靠头 / chin on head"
+    },
+    {
+      "en": "headbutt",
+      "zh": "头槌",
+      "rating": "g",
+      "count": 570,
+      "desc": "用头撞击对方的动作",
+      "kw": "头撞 / 头击 / 用头撞击 / 动作 / 格斗 / 頭突き"
+    },
+    {
+      "en": "looking ahead",
+      "zh": "目视前方",
+      "rating": "g",
+      "count": 61499,
+      "desc": "视线朝向正前方而非看向观看者",
+      "kw": "看向前方 / 直视前方 / 目视正前方 / 看向正前方 / 视线向前 / 眼睛看前方 / 向前看 / 视线"
+    },
+    {
+      "en": "looking at animal",
+      "zh": "看着动物",
+      "rating": "g",
+      "count": 10140,
+      "desc": "看着动物或虫子",
+      "kw": "注视动物 / 盯着动物看 / 看动物 / 与动物对视 / 望向动物 / 目光朝向动物 / 观察动物 / 互动"
+    },
+    {
+      "en": "looking at flowers",
+      "zh": "赏花",
+      "rating": "g",
+      "count": 1208,
+      "desc": "角色注视着花朵，日语称花见",
+      "kw": "看花 / 观花 / 注视花朵 / 动作 / 观赏"
+    },
+    {
+      "en": "looking at food",
+      "zh": "看食物",
+      "rating": "g",
+      "count": 4483,
+      "desc": "角色看着食物，常表现出饥饿或馋涎。",
+      "kw": "望着食物 / 注视食物 / 盯食物 / 眼馋食物 / 看着食物 / 馋食物 / 盯着食物 / 表情"
+    },
+    {
+      "en": "looking at reflection",
+      "zh": "看倒影",
+      "rating": "g",
+      "count": 654,
+      "desc": "角色看着镜面或水中的倒影",
+      "kw": "看向倒影 / 注视倒影 / 看着水中倒影 / 望倒影 / 看着倒影 / 注视反射 / 镜像"
+    },
+    {
+      "en": "looking at screen",
+      "zh": "看屏幕",
+      "rating": "g",
+      "count": 798,
+      "desc": "角色注视电脑、电视等屏幕",
+      "kw": "注视屏幕 / 盯着屏幕 / 看显示器 / 看电脑屏幕 / 看手机屏幕 / 看平板屏幕 / 看着屏幕 / 注视"
+    },
+    {
+      "en": "nuzzle",
+      "zh": "蹭脸",
+      "rating": "g",
+      "count": 891,
+      "desc": "用脸或鼻子蹭对方表示亲昵",
+      "kw": "磨蹭 / 用脸蹭 / 亲昵磨蹭 / 用鼻子蹭 / 蹭脸颊 / 动作 / 亲密 / nuzzling"
+    },
+    {
+      "en": "peeking out",
+      "zh": "探头偷看",
+      "rating": "g",
+      "count": 8669,
+      "desc": "从物体或人背后探出头偷看",
+      "kw": "偷看 / 探出头 / 窥视 / 张望 / 探出身子看 / 探头窥视 / 动作 / 偷窥 / a master is out / peeking around corner / のぞき"
+    },
+    {
+      "en": "shaft look",
+      "zh": "回头仰视（SHAFT 风格）",
+      "rating": "g",
+      "count": 746,
+      "desc": "头向后侧倾回望镜头的姿势，因SHAFT动画常用而得名",
+      "kw": "扭头回望 / 回眸仰视 / SHAFT式回头 / 沙发式回头 / 后仰回望 / 45度角回头 / 眼神 / Shaft风格 / シャフ度"
+    },
+    {
+      "en": "smelling flower",
+      "zh": "闻花",
+      "rating": "g",
+      "count": 833,
+      "desc": "把花凑到鼻子前闻的动作",
+      "kw": "闻花香 / 嗅花 / 闻花朵 / 闻鲜花 / 闻一下花 / 动作 / 姿势"
+    },
+    {
+      "en": "smelling penis",
+      "zh": "闻阴茎",
+      "rating": "q",
+      "nsfw": true,
+      "count": 1097,
+      "desc": "把鼻子贴近阴茎闻其气味。",
+      "kw": "闻鸡巴 / 闻屌 / 闻鸡鸡 / 闻丁丁 / 闻肉棒 / 闻男性生殖器 / 闻下体 / 性行为 / ちんこくんか / ちん嗅ぎ"
+    },
+    {
+      "en": "stargazing",
+      "zh": "观星",
+      "rating": "g",
+      "count": 581,
+      "desc": "观测星星的爱好或活动",
+      "kw": "观赏星空 / 看星星 / 观测星星 / 观星活动 / 户外活动 / 夜空 / 天体観测 / 天体観測"
+    },
+    {
+      "en": "winking (animated)",
+      "zh": "眨眼（动图）",
+      "rating": "g",
+      "count": 1041,
+      "desc": "动图中的角色在眨眼，静图请用单眼闭合",
+      "kw": "动态眨眼 / 动图眨眼 / 动画眨眼 / 眨眼睛动图 / 眨眼 (动画) / 表情 / 动态 / winking"
+    }
+  ]
+}

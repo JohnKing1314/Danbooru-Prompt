@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "kind": "random_schemes",
+  "count": 1,
+  "items": [
+    {
+      "id": "scheme_1_mwird3iy",
+      "name": "方案1 (防撕裂黄金版)",
+      "file": "scheme_1_mwird3iy.json"
+    }
+  ]
+}

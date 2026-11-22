@@ -1,0 +1,47 @@
+{
+  "id": "scene_group",
+  "name": "场景",
+  "icon": "🏙️",
+  "level": 1,
+  "order": 6,
+  "file": "scene_group/scene_group.json",
+  "subDir": "scene_group",
+  "updatedAt": "2026-11-18T05:36:30.205Z",
+  "children": [
+    {
+      "id": "indoor",
+      "name": "室内建筑",
+      "icon": "🏠",
+      "order": 1,
+      "file": "scene_group/scene_group_indoor.json"
+    },
+    {
+      "id": "nature",
+      "name": "自然风光",
+      "icon": "🌲",
+      "order": 2,
+      "file": "scene_group/scene_group_nature.json"
+    },
+    {
+      "id": "urban",
+      "name": "城市街道",
+      "icon": "🌃",
+      "order": 3,
+      "file": "scene_group/scene_group_urban.json"
+    },
+    {
+      "id": "fantasy_scifi",
+      "name": "奇幻科幻",
+      "icon": "🏰",
+      "order": 4,
+      "file": "scene_group/scene_group_fantasy_scifi.json"
+    },
+    {
+      "id": "weather_time",
+      "name": "天气与时间",
+      "icon": "🌦",
+      "order": 5,
+      "file": "scene_group/scene_group_weather_time.json"
+    }
+  ]
+}
